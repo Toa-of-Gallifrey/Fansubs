@@ -1,0 +1,1229 @@
+MISC TERMINOLOGY
+
+monsutaa booru モンスターボール (Poké Ball) - Monster Ball
+pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
+roketto-dan ロケット団 (Team Rocket) - Team Rocket
+rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
+tou-chan とうちゃん (Dada) - Dada
+
+Māmane
+Hāpu'u
+
+"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
+Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
+"Goodbye," not "Good bye."
+The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
+
+
+MOVE NAMES
+
+aamu hammaa アームハンマー (Hammer Arm) - Arm Hammer
+abareru あばれる (Thrash) - Thrash
+airon heddo アイアンヘッド (Iron Head) - Iron Head
+airon teeru アイアンテール (Iron Tail) - Iron Tail
+aku no hadou あくのはどう (Dark Pulse) - Evil Pulse
+akua boreiku アクアブレイク (Liquidation) - Aqua Break
+akua teeru アクアテール (Aqua Tail) - Aqua Tail
+akubi あくび (Yawn) - Yawn
+akurobatto アクロバット (Acrobatics) - Acrobatics
+amagoi あまごい (Rain Dance) - Rain Prayer
+amai kaori あまいかおり (Sweet Scent) - Sweet Scent
+ana o hooru あなをほる (Dig) - Dig
+ankoku kyouda あんこくきょうだ (Wicked Blow) - Dark Blow
+aromaserapii アロマセラピー (Aromatherapy) - Aromatherapy
+ateminage あてみなげ (Vital Throw) - Parry Throw
+awa あわ (Bubble) - Bubbles
+baaku auto バークアウト (Snarl) - Bark Out
+babaru kousen バブルこうせん (Bubble Beam) - Bubble Beam
+bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
+benomu shokku ベノムショック (Venoshock) - Venom Shock
+birudo appu ビルドアップ (Bulk Up) - Build Up
+boon rasshu ボーンラッシュ (Bone Rush) - Bone Rush
+borutekkaa ボルテッカー (Volt Tackle) - Voltteccer
+boufuu ぼうふう (Hurricane) - Hurricane
+bunmawasu ぶんまわす (Brutal Swing) - Brutal Swing
+burasuto baan ブラストバーン (Blast Burn) - Blast Burn
+bureibu baado ブレイブバード (Brave Bird) - Brave Bird
+bureizu kikku ブレイズキック (Blaze Kick) - Blaze Kick
+chikyuunage ちきゅうなげ (Seismic Toss) - Globe Throw
+chou onpa ちょうおんぱ (Supersonic) - Supersonic Waves
+daburu niidoru ダブルニードル (Twineedle) - Double Needle
+daburu panzaa ダブルパンツァー (Double Iron Bash) - Double Panzer
+daimonji だいもんじ (Fire Blast) - Great Blaze
+damashiuchi だましうち (Feint Attack) - Sneak Attack
+dengeki ha でんげきは (Shock Wave) - Shock Wave
+denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation
+denji ha でんじは (Thunder Wave) - Thunder Wave
+denki shokku でんきショック (Thunder Shock) - Thunder Shock
+denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
+doku no kona どくのこな (Poison Powder) - Poison Powder
+dokubari どくばり (Poison Sting) - Poison Needle
+dokudzuki どくづき (Poison Jab) - Poison Jab
+doragon aroo ドラゴンアロー (Dragon Darts) - Dragon Arrow
+doragon daibu ドラゴンダイブ (Dragon Rush) - Dragon Dive
+doragon kuroo ドラゴンクロー (Dragon Claw) - Dragon Claw
+doragon teeru ドラゴンテール (Dragon Tail) - Dragon Tail
+doriru rainaa ドリルライナー (Drill Run) - Drill Liner
+ea kattaa エアカッター (Air Cutter) - Air Cutter
+ea surasshu エアスラッシュ (Air Slash) - Air Slash
+enagii booru エナジーボール (Energy Ball) - Energy Ball
+eragami エラがみ (Fishious Rend) - Jaw Bite
+ereki booru エレキボール (Electro Ball) - Electro Ball
+ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
+ereki netto エレキネット (Electroweb) - Electroweb
+feinto フェイント (Feint) - Feint
+fuiuchi ふいうち (Sucker Punch) - Sneak Attack
+furaingu puresu フライングプレス (Flying Press) - Flying Press
+furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
+furii fooru フリーフォール (Sky Drop) - Freefall
+furiizu dorai フリーズドライ (Freeze-Dry) - Freeze-Dry
+ganseki fuuji がんせきふうじ (Rock Tomb) - Rock Seal
+gekirin げきりん (Outrage) - Reversed Scale
+goddo baado ゴッドバード (Sky Attack) - God Bird
+guroo panchi グロウパンチ (Power-Up Punch) - Grow Punch
+hadoudan はどうだん (Aura Sphere) - Aura Sphere
+hagane no tsubasa はがねのつばさ (Steel Wing) - Steel Wing
+haidoro pampu ハイドロポンプ (Hydro Pump) - Hydro Pump
+hajikeru honoo はじけるほのお (Flame Burst) - Flame Burst
+hakai kousen はかいこうせん (Hyper Beam) - Destroyer Beam
+hakkei はっけい (Force Palm) - Force Palm
+haneru はねる (Splash) - Flop
+happa kattaa はっぱカッター (Razor Leaf) - Razor Leaf
+hataku はたく (Pound) - Pound
+hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
+hedero bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
+hinoko ひのこ (Ember) - Ember
+honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
+honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
+honoo no uzu ほのおのうず (Fire Spin) - Fire Vortex
+houden ほうでん (Discharge) - Discharge
+ieki いえき (Gastro Acid) - Gastro Acid
+ikari no maeba いかりのまえば (Super Fang) - Fangs of Rage
+infaito インファイト (Close Combat) - Infight
+ito o haku いとをはく (String Shot) - String Shot
+iyashi no hadou いやしのはどう (Heal Pulse) - Heal Pulse
+jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
+jidanda じだんだ (Stomping Tantrum) - Stomping Tantrum
+jinarashi じならし (Bulldoze) - Bulldoze
+jiware じわれ (Fissure) - Fissure
+juuman boruto １０まんぼると (Thunderbolt) - 100,000 Volts
+kaen booru かえんボール (Pyro Ball) - Pyro Ball
+kaenhousha かえんほうしゃ (Flamethrower) - Flamethrower
+kage bunshin かげぶんしん (Double Team) - Shadow Clones
+kageuchi かげうち (Shadow Sneak) - Shadow Strike
+kairiki かいりき (Strength) - Superstrength
+kamikudaku かみくだく (Crunch) - Crunch
+kaminari かみなり (Thunder) - Thunder
+kaminari panchi かみなりパンチ (Thunder Punch) - Thunder Punch
+kamitsuku かみつく (Bite) - Bite
+karate choppu からてチョップ (Karate Chop) - Karate Chop
+kataku naru かたくなる (Harden) - Harden
+kawarawari かわらわり (Brick Break) - Brick Break
+kazeokoshi かぜおこし (Gust) - Wind Gust
+ketaguri けたぐり (Low Kick) - Undecided since it hasn't come up, but it can't be Low Kick because that's the move that was localized as Low Sweep.
+kiai dama きあいだま (Focus Blast) - Focus Blast
+kiai dame きあいだめ (Focus Energy) - Focus Energy
+kiai panchi きあいパンチ (Focus Punch) - Focus Punch
+kirisaku きりさく (Slash) - Slash
+kishi kaisei きしかいせい (Reversal) - Reversal
+kogoeru kaze こごえるかぜ (Icy Wind) - Icy Wind
+kometto panchi コメットパンチ (Meteor Mash) - Comet Punch
+koori no kiba こおりのキバ (Ice Fang) - Ice Fang
+koori no tsubute こおりのつぶて (Ice Shard) - Ice Shard
+korabbuhammaa クラブハンマー (Crabhammer) - Crabhammer
+korogaru ころがる (Rollout) - Rollout
+kousoku idou こうそくいどう (Agility) - Agility
+kousoku spin こうそくスピン (Rapid Spin) - Rapid Spin
+kowai kao こわいかお (Scary Face) - Scary Face
+kusuguru くすぐる (Tickle) - Tickle
+mahha panchi マッハパンチ (Mach Punch) - Mach Punch
+majikaru riifu マジカルリーフ (Magical Leaf) - Magical Leaf
+majikaru shain マジカルシャイン (Dazzling Gleam) - Magical Shine
+makitsuku まきつく (Wrap) - Wrap
+mamoru まもる (Protect) - Protect
+manekko まねっこ (Copycat) - Copycat
+megahoon メガホーン (Megahorn) - Megahorn
+megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
+metaru kuroo メタルクロー (Metal Claw) - Metal Claw
+midare dzuki みだれづき (Fury Attack) - Fury Attack [likely to change]
+midare hikkaki みだれひっかき (Fury Swipes) - Erratic Scratch
+mikiri みきり (Detect) - Detect
+misairubari ミサイルばり (Pin Missile) - Needle Missiles
+miyaburu みやぶる (Foresight) - True Sight
+mizu deppou みずでっぽう (Water Gun) - Water Gun
+mizu no chikai みずのちかい (Water Pulse) - Water Pulse
+moetsukiru もえつきる (Burn Up) - Burn Up
+naito baasuto ナイトバースト (Night Daze) - Night Burst
+naito heddo ナイトヘッド (Night Shade) - Night Head
+nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
+neko ni koban ネコにこばん (Pay Day) - Pay Day [subject to change]
+nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
+nenriki ねんりき (Confusion) - Mindpower
+neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
+nidogeri にどげり (Double Kick) - Double Kick
+nihonbbare にほんばれ (Sunny Day) - Clear Skies
+niidoru gaado ニードルガード (Spiky Shield) - Needle Guard
+noshikakari のしかかり (Body Slam) - Body Slam
+oobaahiito オーバーヒート (Overheat) - Overheat
+ooroora beiru オーロラベール (Aurora Veil) - Aurora Veil
+oufuku binta おうふくビンタ (Double Slap) - Round-Trip Slap
+oumu gaeshi オウムがえし (Mirror Move) - Parrot Mimicry [subject to change]
+pawaa jemu パワージェム (Power Gem) - Power Gem
+pawaa uippu パワーウィップ (Power Whip) - Power Whip
+piyopiyo panchi ピヨピヨパンチ (Dizzy Punch) - Chirp Chirp Punch
+raijingu boruto ライジングボルト (Rising Voltage) - Rising Bolt
+rasutaa kanon ラスターカノン　(Flash Cannon) - Luster Cannon
+reitou biimu れいとうビーム (Ice Beam) - Ice Beam
+reitou panchii れいとうパンチ (Ice Punch) - Ice Punch
+renzoku giri れんぞくぎり (Fury Cutter) - Consecutive Cut
+rifurektaa リフレクター (Reflect) - Reflector
+riifu sutoomu リーフストーム (Leaf Storm) - Leaf Storm
+roketto zutsuki ロケットずつき (Skull Bash) - Rocket Headbutt
+roku burasuto ロックブラスト (Rock Blast) - Rock Blast
+rou kikku ローキック (Low Sweep) - Low Kick
+ryuu no hadou りゅうのはどう (Dragon Pulse) - Dragon Pulse
+ryuu no ibuki りゅうのいぶき (Dragon Breath) - Dragon Breath
+ryuu no mai りゅうのまい (Dragon Dance) - Dragon Dance
+ryuuseigun りゅうせいぐん (Draco Meteor) - Draco Meteor
+saike kousen サイケこうせん (Psybeam) - Psybeam
+saiko kattaa サイコカッター (Psycho Cut) - Psycho Cutter
+saiko shokku サイコショック (Psyshock) - Psycho Shock
+saikokineshisu サイコキネシス (Psychic) - Psychokinesis
+seinaru tsurugi せいなるつるぎ (Sacred Sword) - Sacred Sword
+shadou booru シャドーボール (Shadow Ball) - Shadow Ball
+shibiregona しびれごな (Stun Spore) - Stun Spore
+shimetsukeru しめつける (Bind) - Bind
+shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
+sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
+suna arashi すなあらし (Sandstorm) - Sandstorm
+supaaku スパーク (Spark) - Spark
+supiido sutaa スピードスター (Swift) - Speed Star
+sutemi takkuru すてみタックル (Double-Edge) - Desperate Tackle
+sutoon ejji ストーンエッジ (Stone Edge) - Stone Edge
+taiatari たいあたり (Tackle) - Tackle
+takogatame たこがため (Octolock) - Octolock
+tane mashingan タネマシンガン (Bullet Seed) - Seed Machine Gun
+tatari me たたりめ (Hex) - Evil Eye
+teppeki てっぺき (Iron Defense) - Iron Defense
+tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
+tobihizageri とびひざげり (High Jump Kick) - High Jump Kick
+tomoenage ともえなげ (Circle Throw) - Circle Throw
+tonbo gaeri とんぼがえり (U-Turn) - Dragonfly Turnaround
+toriporu kikku トリプルキック (Triple Kick) - Triple Kick
+tosshin とっしん (Take Down) - Take Down
+tsubame gaeshi つばめがえし (Aerial Ace) - Turning Swallow Strike
+tsubasa de utsu つばさでうつ (Wing Attack) - Wing Attack
+tsujigiri つじぎり (Night Slash) - Crossroad Kill
+tsuki no hikari つきのひかり (Moonlight) - Moonlight
+tsumetogi つめとぎ (Hone Claws) - Hone Claws
+tsuno de tsuku つのでつく (Horn Attack) - Horn Attack
+tsuno doriru つのドリル (Horn Drill) - Horn Drill
+tsuppari つっぱり (Arm Thrust) - Arm Thrust
+tsurara otoshi つららおとし (Icicle Crash) - Icicle Drop
+tsuru no michi つるのムチ (Vine Whip) - Vine Whip
+tsurugi no mai つるぎのまい (Swords Dance) - Swords Dance
+tsutsuku つつく (Peck) - Peck
+uddo hammaa ウッドハンマー (Wood Hammer) - Wood Hammer
+uddo hoonu ウッドホーン (Horn Leech) - Wood Horn
+uzushio うずしお (Whirlpool) - Whirlpool
+waido bureikaa ワイドブレイカー (Breaking Swipe) - Wide Breaker
+wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
+waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
+zutsuki ずつき (Headbutt) - Headbutt
+
+
+Z-MOVE NAMES
+
+arutimetto doragon baan アルティメット ドラゴン バーン (Devastating Drake) - Ultimate Dragon Burn
+burakku hooru ikuripusu ブラックホールイクリプス (Black Hole Eclipse) - Black Hole Eclipse
+buruumu shain ekusutora ブルームシャインエクストラ (Bloom Doom) - Bloom Shine Extra
+chouzetsu rasen rengeki 超絶螺旋連撃 (Corkscrew Crash) - Super Spiral Combo
+dainamiku furu fureimu ダイナミックフルフレイム (Inferno Overdrive) - Dynamic Full Flame
+fainaru daibu kurasshu ファイナルダイブクラッシュ (Supersonic Skystrike) - Final Dive Crash
+gaadian de aroura ガーディアン・デ・アローラ (Guardian of Alola) - Guardian de Alola
+hissatsu no pikachoot ひっさつのピカチュート (Catastropika) - Fatal Pikachoot
+haipaa daaku kurasshaa ハイパーダーククラッシャー (Malicious Moonsault) - Hyper Dark Crusher
+honki o dasu kougeki ほんきをだすこうげき (Pulverizing Pancake) - Actually Serious Attack
+mugen an'ya e no izanai 無限暗夜への誘い (Never-Ending Nightmare) - Call of the Endless Night
+muunraito burasutaa ムーンライトブラスター (Menacing Moonraze Maelstrom) - Moonlight Blaster
+nain eboru buusuto ナインエボルブースト (Extreme Evoboost) - Nine Evol Boost
+poka-boka furendo taimu ぽかぼかフレンドタイム (Let's Snuggle Forever) - Snuggly Friend Time
+raijingu rando oubaa ライジングランドオーバー (Tectonic Rage) - Rising Land Over
+rajiaru ejjisutoomu ラジアルエッジストーム (Splintered Stormshards) - Radial Edgestorm
+reijingu jiofuriizu レイジングジオフリーズ (Subzero Slammer) - Raging Geofreeze
+senman boruto １０００まんボルト (10,000,000 Volt Thunderbolt) - 10,000,000 Volts
+shadou aroozu sutoraiku シャドーアローズストライク (Sinister Arrow Raid) - Shadow Arrows Strike
+sanshain sumasshaa サンシャインスマッシャー (Searing Sunraze Smash) - Sunshine Smasher
+supaa akua toruneedo スーパーアクアトルネード (Hydro Vortex) - Super Aqua Tornado
+supaakingu gigaboruto スパーキングギガボルト (Gigavolt Havoc) - Sparking Gigavolt
+urutora dasshu atakku ウルトラダッシュアタック (Breakneck Blitz) - Ultra Dash Attack
+waaruzu endo fooru ワールズエンドフォール (Continental Crush) - World's End Fall
+wadatsumi no shinfonia わだつみのシンフォニア (Oceanic Operetta) - Sea God's Symphonia
+zenryoku musou gekiretsu ken 全力無双激烈拳 (All-Out Pummeling) - Full Power Peerless Fists of Fury
+zettai Hoshoku kaitenzan 全力無双激烈拳 (Savage Spin-Out) - Absolute Predatory Spin-Out
+
+
+DAIMAX MOVE NAMES
+
+dai atakku  (Max Strike) - Dai Attack
+dai baan ダイバーン (Max Flare) - Dai Burn
+dai jetto ダイジェット (Max Airstream) - Dai Jet
+dai nakkuru ダイナックル (Max Knuckle) - Dai Knuckle
+dai rokku ダイロック (Max Rockfall) - Dai Rock
+dai sandaa ダイサンダー (Max Lightning) - Dai Thunder
+dai sougen ダイソウゲン (Max Overgrowth) - Dai Grassland
+dai suchiru ダイスチル (Max Steelspike) - Dai Steel
+dai sutoriimu ダイストリーム (Max Geyser) - Dai Stream
+dai uooru ダイウォール (Max Guard) - Dai Wall
+kyodai banrai キョダイバンライ (G-Max Volt Crash) - Kyodai Heavy Thunder
+kyodai gokuen キョダイゴクエン (G-Max Wildfire) - Kyodai Hellfire
+kyodai koban キョダイコバン (G-Max Gold Rush) - Kyodai Charm
+kyodai shuuki キョダイシュウキ (G-Max Malodor) - Kyodai Stench
+
+
+ABILITY NAMES
+
+ぜったいねむり (Comatose) - Hyper Sleep
+ゆうばく (Aftermath) - Sympathetic Detonation
+
+
+CATEGORY NAMES
+
+033 ニドリーノ Nidorino: どくばりポケモン Poison Needle Pokémon
+068 カイリキー Kairiky: カイリキーポケモン Superstrength Pokémon
+200 ムウマ Muma: よなきポケモン Night Screeching Pokémon
+291 テッカニン Tekkanin: しのびポケモン Shinobi Pokémon
+292 ヌケニン Nukenin: ぬけがらポケモン Shed Shell Pokémon
+442 ミカルゲ Mikaruge: ふういんポケモン Sealed Pokémon
+
+
+POKÉMON NAMES
+
+001 フシギダネ Fushigidane
+002 フシギソウ Fushigisou
+003 フシギバナ Fushigibana
+004 ヒトカゲ Hitokage
+005 リザード Lizard
+006 リザードン Lizardon
+007 ゼニガメ Zenigame
+008 カメール Kameil
+009 カメックス Kamex
+010 キャタピー Caterpie
+011 トランセル Trancell
+012 バタフリー Butterfree
+013 ビードル Beedle
+014 コクーン Cocoon
+015 スピアー Spear
+016 ポッポ Poppo
+017 ピジョン Pidgeon
+018 ピジョット Pidgeot
+019 コラッタ Koratta
+020 ラッタ Ratta
+021 オニスズメ Onisuzume
+022 オニドリル Onidrill
+023 アーボ Abo
+024 アーボック Arbok
+025 ピカチュウ Pikachu
+026 ライチュウ Raichu
+027 サンド Sand
+028 サンドパン Sandpan
+029 ニドラン♀ Nidoran
+030 ニドリーナ Nidorina
+031 ニドクイン Nidoqueen
+032 ニドラン♂ Nidoran
+033 ニドリーノ Nidorino
+034 ニドキング Nidoking
+035 ピッピ Pippi
+036 ピクシー Pixie
+037 ロコン Rokon
+038 キュウコン Kyukon
+039 プリン Purin
+040 プクリン Pukurin
+041 ズバット Zubat
+042 ゴルバット Golbat
+043 ナゾノクサ Nazonokusa
+044 クサイハナ Kusaihana
+045 ラフレシア Rafflesia
+046 パラス Paras
+047 パラセクト Parasect
+048 コンパン Konpang
+049 モルフォン Morphon
+050 ディグダ Digda
+051 ダグトリオ Dugtrio
+052 ニャース Nyarth
+053 ペルシアン Persian
+054 コダック Koduck
+055 ゴルダック Golduck
+056 マンキー Mankey
+057 オコリザル Okorizaru
+058 ガーディ Guardie
+059 ウインディ Windie
+060 ニョロモ Nyoromo
+061 ニョロゾ Nyorozo
+062 ニョロボン Nyorobon
+063 ケーシィ Cayce
+064 ユンゲラー Ungeller
+065 フーディン Houdin
+066 ワンリキー Wanriky
+067 ゴーリキー Goriky
+068 カイリキー Kairiky
+069 マダツボミ Madatsubomi
+
+071 ウツボット Utsubot
+072 メノクラゲ Menokurage
+073 ドククラゲ Dokukurage
+074 イシツブテ Ishitsubute
+075 ゴローン Gorone
+076 ゴローニャ Gorogna
+077 ポニータ Ponyta
+078 ギャロップ Gallop
+079 ヤドン Yadon
+080 ヤドラン Yadoran
+081 コイル Coil
+082 レアコイル Rarecoil
+083 カモネギ Kamonegi
+084 ドードー Dodo
+085 ドードリオ Dodorio
+086 パウワウ Pawou
+087 ジュゴン Dewgong
+088 ベトベター Betobeta
+089 ベトベトン Betobeton
+090 シェルダー Shellder
+091 パルシェン Pearshen
+092 ゴース Ghos
+093 ゴースト Ghost
+094 ゲンガー Gänger
+095 イワーク Iwark
+096 スリープ Sleep
+097 スリーパー Sleeper
+098 クラブ Crab
+099 キングラー Kingler
+100 ビリリダマ Biriridama
+101 マルマイン Marumine
+102 タマタマ Tamatama
+103 ナッシー Nasshi
+104 カラカラ Karakara
+105 ガラガラ Garagara
+106 サワムラー Sawamurar
+107 エビワラー Ebiwarar
+108 ベロリンガ Berolinga
+109 ドガース Dogas
+110 マタドガス Matadogas
+111 サイホーン Saihorn
+112 サイドン Saidon
+113 ラッキー Lucky
+
+115 ガルーラ Garura
+116 タッツー Tattsu
+117 シードラ Seadra
+118 トサキント Tosakinto
+119 アズマオウ Azumao
+120 ヒトデマン Hitodeman
+121 スターミー Starmie
+122 バリヤード Barrierd
+123 ストライク Strike
+
+125 エレブー Eleboo
+126 ブーバー Boobur
+127 カイロス Kaiross
+128 ケンタロス Kentauros
+129 コイキング Koiking
+130 ギャラドス Gyarados
+131 ラプラス Laplace
+132 メタモン Metamon
+133 イーブイ Eevee
+134 シャワーズ Showers
+135 サンダース Thunders
+136 ブースター Booster
+137 ポリゴン Porygon
+138 オムナイト Omunyte
+139 オムスター Omustar
+140 カブト Kabuto
+141 カブトプス Kabutops
+142 プテラ Ptera
+143 カビゴン Kabigon
+144 フリーザー Freezer
+145 サンダー Thunder
+146 ファイヤー Fire
+147 ミニリュウ Miniryu
+148 ハクリュー Hakuryu
+149 カイリュー Kairyu
+150 ミュウツー Mewtwo
+151 ミュウ Mew
+152 チコリータ Chicorita
+153 ベイリーフ Bayleaf
+154 メガニウム Meganium
+155 ヒノアラシ Hinoarashi
+156 マグマラシ Magmarashi
+157 バクフーン Bakuphoon
+158 ワニノコ Waninoko
+
+
+161 オタチ Otachi
+
+163 ホーホー Hoho
+
+165 レディバ Ledyba
+166 レディアン Ledian
+
+168 アリアドス Ariados
+169 クロバット Crobat
+170 チョンチー Chonchie
+171 ランターン Lanturn
+172 ピチュー Pichu
+173 ピィ Pi
+
+175 トゲピー Togepi
+176 トゲチック Togechick
+177 ネイティ Naty
+
+179 メリープ Mareep
+180 モココ Mokoko
+
+182 キレイハナ Kireihana
+183 マリル Marill
+
+185 ウソッキー Usokki
+186 ニョロトノ Nyorotono
+187 ハネッコ Hanekko
+188 ポポッコ Popokko
+189 ワタッコ Watakko
+190 エイパム Aipom
+
+192 キマワリ Kimawari
+
+194 ウパー Wooper
+195 ヌオー Nuoh
+196 エーフィ Eefee
+197 ブラッキー Blacky
+198 ヤミカラス Yamikarasu
+199 ヤドキング Yadoking
+200 ムウマ Muma
+201 アンノーン Unknown
+202 ソーナンス Sonansu
+
+204 クヌギダマ Kunugidama
+
+
+
+208 ハガネール Haganail
+209 ブルー Bullu
+210 グランブル Granbull
+
+212 ハッサム Hassam
+
+214 ヘラクロス Heracross
+215 ニューラ Nyula
+216 ヒメグマ Himeguma
+
+
+
+
+
+222 サニーゴ Sunnygo
+223 テッポウオ Teppouo
+
+
+226 マンタイン Mantine
+227 エアームド Airm'd
+228 デルビル Delvil
+229 ヘルガー Hellgar
+230 キングドラ Kingdra
+231 ゴマゾウ Gomazo
+232 ドンファン Donphan
+
+234 オドシシ Odoshishi
+235 ドーブル Doble
+
+237 カポエラー Capoeirer
+
+
+
+241 ミルタンク Miltank
+242 ハピナス Happinus
+243 ライコウ Raikou
+244 エンテイ Entei
+245 スイクン Suicune
+246 ヨーギラス Yoguirus
+247 サナギラス Sanaguirus
+248 バンギラス Banguirus
+249 ルギア Lugia
+250 ホウオウ Houou
+251 セレビィ Celebi
+252 キモリ Kimori
+253 ジュプトル Juptile
+254 ジュカイン Jukain
+255 アチャモ Achamo
+256 ワカシャモ Wakashamo
+257 バシャーモ Burshamo
+
+259 ヌマクロー Numacraw
+260 ラグラージ Laglarge
+261 ポチエナ Poochyena
+262 グラエナ Graena
+263 ジグザグマ Zigzaguma
+264 マッスグマ Massuguma
+265 ケムッソ Kemusso
+266 カラサリス Karasalis
+267 アゲハント Agehunt
+268 マユルド Mayuld
+269 ドクケイル Dokucale
+270 ハスボー Hasuboh
+271 ハスブレロ Hasubrero
+272 ルンパッパ Runpappa
+
+
+275 ダーテング Dirteng
+276 スバメ Subame
+277 オオスバメ Ohsubame
+278 キャモメ Camome
+279 ペリッパー Pelipper
+
+
+282 サーナイト Sirknight
+283 アメタマ Ametama
+284 アメモース Amemoth
+285 キノココ Kinokoko
+
+
+288 ヤルキモノ Yarukimono
+
+290 ツチニン Tsuchinin
+291 テッカニン Tekkanin
+292 ヌケニン Nukenin
+293 ゴニョニョ Gonyonyo
+294 ドゴーム Dogomb
+
+
+297 ハリテヤマ Hariteyama
+298 ルリリ Ruriri
+
+300 エネコ Eneko
+
+
+303 クチート Kucheat
+304 ココドラ Kokodra
+305 コドラ Kodra
+306 ボスゴドラ Bossgodra
+
+308 チャーレム Charem
+
+
+311 プラスル Plusle
+312 マイナン Minun
+
+
+315 ロゼリア Roselia
+316 ゴクリン Gokurin
+317 マルノーム Marunomu
+318 キバニア Kibanha
+319 サメハダー Samehada
+320 ホエルコ Whaleko
+321 ホエルオー Whaloh
+
+323 バクーダ Bakuda
+324 コータス Cortoise
+
+
+
+328 ナックラー Nuckrar
+329 ビブラーバ Vibrava
+330 フライゴン Flygon
+
+
+
+334 チルタリス Tyltalis
+335 ザングース Zangoose
+336 ハブネーク Habunake
+
+338 ソルロック Solrock
+
+340 ナマズン Namazun
+341 ヘイガニ Heigani
+342 シザリガー Scizarigar
+
+
+
+
+347 アノプス Anoph
+348 アーマルド Armaldo
+349 ヒンバス Hinbass
+350 ミロカロス Milokaross
+351 ポワルン Powarun
+
+353 カゲボウズ Kagebouzu
+
+
+356 サマヨール Samayouru
+357 トロピウス Tropius
+
+359 アブソル Absol
+360 ソーナノ Sonano
+361 ユキワラシ Yukiwarashi
+362 オニゴーリ Onigori
+363 タマザラシ Tamazarashi
+
+
+
+367 ハンテール Huntail
+368 サクラビス Sakurabyss
+369 ジーランス Jilanth
+370 ラブカス Lovecus
+
+372 コモルー Komoru
+373 ボーマンダ Bohmander
+374 ダンバル Dumbball
+375 メタング Metang
+376 メタグロス Metagross
+
+378 レジアイス Regice
+
+380 ラティアス Latias
+381 ラティオス Latios
+382 カイオーガ Kaiogre
+383 グラードン Groudon
+384 レックウザ Rekkuuza
+385 ジラーチ Jirachi
+
+387 ナエトル Naetle
+
+389 ドダイトス Dodaitoise
+390 ヒコザル Hikozaru
+
+392 ゴウカザル Goukazaru
+393 ポッチャマ Pochama
+
+395 エンペルト Emperte
+396 ムックル Mukkuru
+
+
+
+400 ビーダル Beadaru
+
+402 コロトック Korotock
+
+
+405 レントラー Rentorar
+406 スボミー Subomi
+407 ロズレイド Roserade
+408 ズガイドス Zugaidos
+
+410 タテトプス Tatetops
+411 トリデプス Torideps
+
+
+414 ガーメイル Gamale
+415 ミツハニー Mitsuhoney
+
+417 パチリス Pachirisu
+418 ブイゼル Buoysel
+419 フローゼル Floazel
+
+
+422 カラナクシ Karanakushi
+
+
+425 フワンテ Fuwante
+426 フワライド Fuwaride
+427 ミミロル Mimiroll
+428 ミミロップ Mimilop
+429 ムウマージ Mumagi
+430 ドンカラス Donkarasu
+
+432 ブニャット Bunyat
+
+434 スカンプー Skunpuu
+435 スカタンク Skutank
+
+
+438 ウソハチ Usohachi
+439 マネネ Manene
+440 ピンプク Pinpuku
+441 ペラップ Perap
+442 ミカルゲ Mikaruge
+
+
+445 ガブリアス Gaburias
+446 ゴンベ Gonbe
+447 リオル Riolu
+448 ルカリオ Lucario
+
+
+451 スコルピ Scorupi
+452 ドラピオン Dorapion
+453 グレッグル Gureggru
+454 ドクロッグ Dokurog
+
+456 ケイコウオ Keikouo
+457 ネオラント Neolant
+458 タマンタ Tamanta
+
+460 ユキノオー Yukinooh
+461 マニューラ Manyula
+462 ジバコイル Jibacoil
+
+464 ドサイドン Dosaidon
+
+466 エレキブル Elecible
+467 ブーバーン Booburn
+468 トゲキッス Togekiss
+
+470 リーフィア Leafia
+471 グレイシア Glacia
+
+473 マンムー Mammoo
+
+475 エルレイド Earlade
+476 ダイノーズ Dainose
+477 ヨノワール Yonoir
+478 ユキメノコ Yukimenoko
+479 ロトム Rotom
+
+
+482 アグノム Agnome
+483 ディアルガ Dialga
+484 パルキア Palkia
+
+
+
+488 クレセリア Cresselia
+
+490 マナフィ Manaphy
+491 ダークライ Darkrai
+492 シェイミ Xiemi
+
+
+
+
+
+
+499 チャオブー Chaoboo
+
+
+502 フタチマル Futachimaru
+
+
+505 ミルホッグ Miruhog
+506 ヨーテリー Yorterrie
+507 ハーデリア Herderrie
+508 ムーランド Mooland
+509 チョロネコ Choroneko
+510 レパルダス Leopardas
+511 ヤナップ Yanape
+
+513 バオップ Baope
+
+515 ヒヤップ Hiyape
+
+517 ムンナ Munna
+
+519 マメパト Mamepato
+
+
+522 シママ Shimama
+
+524 ダンゴロ Dangoro
+525 ガントル Gantle
+526 ギガイアス Gigaiath
+527 コロモリ Koromori
+
+529 モグリュー Mogurew
+
+531 タブンネ Tabunne
+
+533 ドテッコツ Dotekkotsu
+534 ローブシン Roubushin
+
+536 ガマガル Gamagaru
+537 ガマゲロゲ Gamageroge
+538 ナゲキ Nageki
+539 ダゲキ Dageki
+
+
+
+
+
+545 ペンドラー Pendrar
+546 モンメン Monmen
+547 エルフーン Elfoon
+
+549 ドレディア Dredear
+
+551 メグロコ Meguroco
+
+553 ワルビアル Waruvial
+554 ダルマッカ Darumakka
+555 ヒヒダルマ Hihidaruma
+
+557 イシズマイ Ishizumai
+558 イワパレス Iwapalace
+
+
+561 シンボラー Symboler
+562 デスマス Deathmas
+563 デスカーン Deathkan
+564 プロトーガ Protoga
+565 アバゴーラ Abagoura
+566 アーケン Archen
+567 アーケオス Archeos
+568 ヤブクロン Yabukuron
+569 ダストダス Dustdas
+570 ゾロア Zoroa
+571 ゾロアーク Zoroark
+572 チラーミィ Chillarmy
+
+574 ゴチム Gothim
+
+
+
+
+
+
+581 スワンナ Swanna
+582 バニプッチ Vanipetit
+
+
+
+
+587 エモンガ Emonga
+
+
+
+
+592 プルリル Pururill
+
+594 ママンボウ Mamanbou
+
+596 デンチュラ Dentula
+
+598 ナットレイ Nutrey
+599 ギアル Gear
+
+
+
+
+
+605 リグレー Ligray
+
+607 ヒトモシ Hitomoshi
+608 ランプラー Lampler
+
+610 キバゴ Kibago
+
+612 オノノクス 	Ononox
+613 クマシュン Kumashun
+614 ツンベアー Tunbear
+
+616 チョボマキ Chobomaki
+617 アギルダー Agilder
+618 マッギョ Maggyo
+
+620 コジョンド Kojondo
+621 クリムガン Crimgan
+
+623 ゴルーグ Golugh
+
+625 キリキザン Kirikizan
+
+627 ワシボン Washibon
+628 ウォーグル Warrgle
+
+
+631 クイタラン Kuitaran
+632 アイアント Iront
+
+634 ジヘッド Dihead
+635 サザンドラ Sazandra
+636 メラルバ Melarva
+637 ウルガモス Ulgamoth
+
+
+
+
+
+
+
+
+
+
+648 メロエッタ Meloetta
+649 ゲノセクト Genosect
+650 ハリマロン Harimarron
+651 ハリボーグ Haribogue
+
+
+654 テールナー Tairenar
+655 マフォクシー Mafoxy
+
+657 ゲコガシラ Gekogashira
+
+659 ホルビー Horubee
+
+661 ヤヤコマ Yayakoma
+
+663 ファイアロー Fiarrow
+664 コフキムシ Kofukimushi
+
+
+
+
+669 フラベベ Flabébé
+670 フラエッテ Floette
+671 フラージェス Florges
+
+
+
+675 ゴロンダ Goronda
+676 トリミアン Trimmien
+
+678 ニャオニクス Nyaonyx
+
+
+681 ギルガルド Gilgard
+
+
+
+
+
+
+688 カメテテ Kametete
+
+
+
+692 ウデッポウ Udeppou
+693 ブロスター Bloster
+
+695 エレザード Elezard
+
+
+
+
+
+701 ルチャブル Luchabull
+702 デデンネ Dedenne
+703 メレシー Melecie
+704 ヌメラ Numera
+
+
+707 クレッフィ Cleffy
+
+709 オーロット Ohrot
+
+711 パンプジン Pumpjin
+
+713 クレベース Crebase
+
+715 オンバーン Onvern
+716 ゼルネアス Xerneas
+
+
+719 ディアンシー Diancie
+
+
+722 モクロー Mokuroh
+723 フクスロー Fukuthrow
+724 ジュナイパー Ju'niper
+725 ニャビー Nyabby
+726 ニャヒート Nyaheat
+727 ガオガエン Gaogaen
+728 アシマリ Ashimari
+729 オシャマリ Oshamari
+730 アシレーヌ Ashirène
+731 ツツケラ Tsutsukera
+732 ケララッパ Kerarappa
+733 ドデカバシ Dodekabashi
+734 ヤングース Youngoose
+735 デカグース Dekagoose
+736 アゴジムシ Agojimushi
+737 デンヂムシ Denjimushi
+738 クワガノン Kuwagannon
+739 マケンカニ Makenkani
+740 ケケンカニ Kekenkani
+741 オドリドリ Odoridori
+742 アブリー Abuly
+743 アブリボン Aburibbon
+744 イワンコ Iwanko
+745 ルガルガン Lugarugan
+746 ヨワシ Yowashi
+747 ヒドイデ Hidoide
+748 ドヒドイデ Dohidoide
+749 ドロバンコ Dorobanko
+750 バンバドロ Banbadoro
+751 シズクモ Shizukumo
+752 オニシズクモ Onishizukumo
+753 カリキリ Karikiri
+754 ラランテス Larantes
+755 ネマシュ Nemush
+756 マシェード Mushade
+757 ヤトウモリ Yatoumori
+758 エンニュート Ennewt
+759 ヌイコグマ Nuikoguma
+760 キテルグマ Kiteruguma
+761 アマカジ Amakaji
+762 アママイコ Amamaiko
+763 アマージョ Amajo
+764 キュワワー Cuwawa
+765 ヤレユータン Yareyutan
+766 ナゲツケサル Nagetsukesaru
+767 コソクムシ Kosokumushi
+768 グソクムシャ Gusokumusha
+769 スナバァ Sunaba
+770 シロデスナ Shirodeathna
+771 ナマコブシ Namakobushi
+772 タイプ：ヌル Type: Null
+773 シルヴァディ Silvuddy
+774 メテノ Meteno
+775 ネッコアラ Nekkoala
+776 バクガメス Bakugames
+777 トゲデマル Togedemaru
+778 ミミッキュ Mimikkyu
+779 ハギギシリ Hagigishiri
+780 ジジーロン Jijilong
+781 ダダリン Dadarin
+782 ジャラコ Jarako
+783 ジャランゴ Jarango
+784 ジャラランガ Jararanga
+785 カプ・コケコ Kapu-Kokeko
+786 カプ・テテフ Kapu-Tetefu
+787 カプ・ブルル Kapu-Bulul
+788 カプ・レヒレ Kapu-Rehire
+789 コスモッグ Cosmog
+790 コスモウム Cosmovum
+791 ソルガレオ Solgaleo
+792 ルナアーラ Lunala
+793 ウツロイド Utsuroid
+794 マッシブーン Massivoon
+795 フェローチェ Pheroache
+796 デンジュモク Denjumoku
+797 テッカグヤ Tekkaguya
+798 カミツルギ Kamitsurugi
+799 アクジキング Akujiking
+800 ネクロズマ Necrozma
+801 マギアナ Magearna
+802 マーシャドー Marshadow
+803 ベベノム Bebenom
+804 アーゴヨン Agoyon
+805 ツンデツンデ Tsundetsunde
+806 ズガドーン Zugadon
+807 ゼラオラ Zeraora
+808 メルタン Meltan
+809 メルメタル Melmetal
+810 サルノリ Sarunori
+
+812 ゴリランダー Gorillander
+813 ヒバニー　Hibunny
+814 ラビフット Rabbifoot
+815 エースバーン Aceburn
+816 メッソン Messon
+817 ジメレオン Jimeleon
+818 インテレオン Inteleon
+819 ホシガリス Hoshigarisu
+820 ヨクバリス Yokubarisu
+821 ココガラ Kokogara
+
+823 アーマーガア Armorgaw
+
+
+
+827 クスネ Kusune
+
+
+830 ワタシラガ Watashiraga
+831 ウールー Wooloo
+
+833 カムカメ Kamukame
+834 カジリガメ Kajirigame
+835 ワンパチ Wanpachi
+
+
+
+839 セキタンザン Sekitanzan
+
+
+842 タルップル Tarpple
+843 スナヘビ Sunahebi
+
+845 ウッウ U'u
+
+
+
+
+
+
+
+
+854 ヤバチャ Yabacha
+
+
+
+
+859 ベロバー Beroba
+
+
+
+
+
+865 ネギガナイト Negigaknight
+
+
+
+
+870 タイレーツ Tairetsu
+871 バチンウニ Bachin'uni
+
+
+
+875 コオリッポ Koorippo
+
+877 モルペコ Morpeko
+
+879 ダイオウドウ Daioudou
+880 パッチラゴン Pacchiragon
+881 パッチルドン Pacchilldon
+882 ウオノラゴン Uonoragon
+883 ウオチルドン Uochilldon
+884 ジュラルドン Duraludon
+
+
+887 ドラパルト Drapult
+888 ザシアン Zacian
+889 ザマゼンタ Zamazenta
+890 ムゲンダイナ Mugendaina
+891 ダクマ Dakuma
+892 ウーラオス Wulaosu
+893 ザルード Zarude
+
+
+
+
+
+
+
+STOCK PHRASES
+
+Classic Team Rocket motto:
+Musashi: If you ask us about “this” or “that”...
+Kojiro: We’ll answer out of \N sympathy for the world!
+Musashi: To protect the world from devastation.
+Kojiro: To preserve world peace.
+Musashi: Championing the evils \N of truth and love.
+Kojiro: We’re the lovely, charming villains.
+Musashi: Musashi!
+Kojiro: Kojiro!
+Musashi: The Team Rocket duo \N soars through the galaxy!
+Kojiro: Like a white hole, \N a white tomorrow awaits us!
+Nyarth: Just kidding, meow!
+
+PM19 narrator intro (episode 8 ver.):
+Narrator: Satoshi, who dreams of \N becoming a Pokémon Master...
+Narrator: And Go, who aims to \N catch every Pokémon.
+Narrator: What kind of Pokémon \N will they meet today?
+
+PM19 narrator intro (episode 14 ver.):
+Narrator: Satoshi, who aims to battle \N the Supreme Monarch, Dande...
+Narrator: And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
+Narrator: This is the story of \N their lives and adventures.
+
+PM19 preview lines:
+Satoshi: Now! Onto the next adventure!
+Go: Go!
