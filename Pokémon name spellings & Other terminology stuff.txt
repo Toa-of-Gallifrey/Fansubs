@@ -731,11 +731,11 @@ POKÉMON NAMES
 430 ドンカラス Donkarasu
 
 432 ブニャット Bunyat
-
+433 リーシャン Rishan
 434 スカンプー Skunpuu
 435 スカタンク Skutank
 
-
+437 ドータクン Dotakun
 438 ウソハチ Usohachi
 439 マネネ Manene
 440 ピンプク Pinpuku
@@ -778,8 +778,8 @@ POKÉMON NAMES
 477 ヨノワール Yonoir
 478 ユキメノコ Yukimenoko
 479 ロトム Rotom
-
-
+480 ユクシー Uxie
+481 エムリット M'rit
 482 アグノム Agnome
 483 ディアルガ Dialga
 484 パルキア Palkia
