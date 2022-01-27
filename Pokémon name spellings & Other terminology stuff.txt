@@ -91,7 +91,7 @@ haneru はねる (Splash) - Flop
 happa kattaa はっぱカッター (Razor Leaf) - Razor Leaf
 hataku はたく (Pound) - Pound
 hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
-hedero bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
+hedoro bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
 hinoko ひのこ (Ember) - Ember
 honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
 honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
@@ -295,7 +295,7 @@ CATEGORY NAMES
 291 テッカニン Tekkanin: しのびポケモン Shinobi Pokémon
 292 ヌケニン Nukenin: ぬけがらポケモン Shed Shell Pokémon
 442 ミカルゲ Mikaruge: ふういんポケモン Sealed Pokémon
-
+493 アルセウス Arceus: そうぞうポケモン Creation Pokémon
 
 POKÉMON NAMES
 
