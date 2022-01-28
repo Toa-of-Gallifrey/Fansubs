@@ -145,7 +145,6 @@ manekko まねっこ (Copycat) - Copycat
 megahoon メガホーン (Megahorn) - Megahorn
 megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
 metaru kuroo メタルクロー (Metal Claw) - Metal Claw
-midare dzuki みだれづき (Fury Attack) - Fury Attack [likely to change]
 midare hikkaki みだれひっかき (Fury Swipes) - Erratic Scratch
 mikiri みきり (Detect) - Detect
 misairubari ミサイルばり (Pin Missile) - Needle Missiles
@@ -156,7 +155,6 @@ moetsukiru もえつきる (Burn Up) - Burn Up
 naito baasuto ナイトバースト (Night Daze) - Night Burst
 naito heddo ナイトヘッド (Night Shade) - Night Head
 nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
-neko ni koban ネコにこばん (Pay Day) - Pay Day [subject to change]
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nenriki ねんりき (Confusion) - Mindpower
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
