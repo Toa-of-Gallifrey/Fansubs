@@ -37,6 +37,7 @@ baaku auto バークアウト (Snarl) - Bark Out
 babaru kousen バブルこうせん (Bubble Beam) - Bubble Beam
 bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
 benomu shokku ベノムショック (Venoshock) - Venom Shock
+biribiri chikuchiku びりびりちくちく (Zing Zap) - Shocking Prickles
 birudo appu ビルドアップ (Bulk Up) - Build Up
 boon rasshu ボーンラッシュ (Bone Rush) - Bone Rush
 borutekkaa ボルテッカー (Volt Tackle) - Voltteccer
@@ -56,6 +57,7 @@ denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation
 denji ha でんじは (Thunder Wave) - Thunder Wave
 denki shokku でんきショック (Thunder Shock) - Thunder Shock
 denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
+dogeza tsuki (False Surrender) - Groveling Jab
 doku no kona どくのこな (Poison Powder) - Poison Powder
 dokubari どくばり (Poison Sting) - Poison Needle
 dokudzuki どくづき (Poison Jab) - Poison Jab
@@ -96,6 +98,7 @@ hinoko ひのこ (Ember) - Ember
 honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
 honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
 honoo no uzu ほのおのうず (Fire Spin) - Fire Vortex
+hoppe surisuri ほっぺすりすり (Nuzzle) - Cheek Rub
 houden ほうでん (Discharge) - Discharge
 ieki いえき (Gastro Acid) - Gastro Acid
 ikari no maeba いかりのまえば (Super Fang) - Fangs of Rage
@@ -193,6 +196,7 @@ shibiregona しびれごな (Stun Spore) - Stun Spore
 shimetsukeru しめつける (Bind) - Bind
 shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
+souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
 suna arashi すなあらし (Sandstorm) - Sandstorm
 supaaku スパーク (Spark) - Spark
 supiido sutaa スピードスター (Swift) - Speed Star
