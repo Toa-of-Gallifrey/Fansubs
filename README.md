@@ -11,7 +11,7 @@ Pokémon Evolutions
 Pocket Monsters: The Hallowed God, Arceus  
 Pocket Monsters (2019) Audio Dramas  
 Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases  
-Pokétoon (specifically Yume no Tsubomi; we have not subbed other Pokétoons and don't have immediate plans for them)
+Yume no Tsubomi
 
 **Projects planned to be added eventually:**  
 Pocket Monsters: Sun & Moon  
