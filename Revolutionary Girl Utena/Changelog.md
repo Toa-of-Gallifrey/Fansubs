@@ -1,6 +1,6 @@
 **Episode 01:**  
 -Typo corrected: I wonder… When did the scent of roses became nostalgic to me? -> I wonder… When did the scent of roses become nostalgic to me?  
--Mistranslation corrected: Don’t forget that a new Duelist will soon be here— | I see… You must be the new challenger. -> Don’t forget that the next duel will soon— | I see… You must be the next challenger.  
+-Mistranslation corrected: Don’t forget that a new Duelist will soon be here—   |   I see… You must be the new challenger. -> Don’t forget that the next duel will soon— | I see… You must be the next challenger.  
 -Word spelling altered: A desert’s wintery Sphinx, Phinx -> A desert’s wintry Sphinx, Phinx  
 -Romaji made stylistically consistent: naraku e ochita aninkou marujinoo -> naraku he ochita aninkou marujinoo  
 -Romaji removed from default track
