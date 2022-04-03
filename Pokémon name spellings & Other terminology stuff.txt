@@ -33,8 +33,10 @@ ankoku kyouda あんこくきょうだ (Wicked Blow) - Dark Blow
 aromaserapii アロマセラピー (Aromatherapy) - Aromatherapy
 ateminage あてみなげ (Vital Throw) - Parry Throw
 awa あわ (Bubble) - Bubbles
+ayashii hikari あやしいひかり (Confuse Ray) - Eerie Light
 baaku auto バークアウト (Snarl) - Bark Out
 babaru kousen バブルこうせん (Bubble Beam) - Bubble Beam
+bakuonpa ばくおんぱ (Boomburst) - Blast Waves
 bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
 benomu shokku ベノムショック (Venoshock) - Venom Shock
 biribiri chikuchiku びりびりちくちく (Zing Zap) - Shocking Prickles
@@ -106,6 +108,7 @@ infaito インファイト (Close Combat) - Infight
 ito o haku いとをはく (String Shot) - String Shot
 iyashi no hadou いやしのはどう (Heal Pulse) - Heal Pulse
 jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
+jaretsuku じゃれつく (Play Rough) - Play Rough
 jidanda じだんだ (Stomping Tantrum) - Stomping Tantrum
 jinarashi じならし (Bulldoze) - Bulldoze
 jiware じわれ (Fissure) - Fissure
@@ -155,6 +158,7 @@ miyaburu みやぶる (Foresight) - True Sight
 mizu deppou みずでっぽう (Water Gun) - Water Gun
 mizu no chikai みずのちかい (Water Pulse) - Water Pulse
 moetsukiru もえつきる (Burn Up) - Burn Up
+muunfoosu ムーンフォース (Moonblast) Moonforce
 naito baasuto ナイトバースト (Night Daze) - Night Burst
 naito heddo ナイトヘッド (Night Shade) - Night Head
 nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
@@ -231,6 +235,7 @@ uzushio うずしお (Whirlpool) - Whirlpool
 waido bureikaa ワイドブレイカー (Breaking Swipe) - Wide Breaker
 wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
+zettai reido ぜったいれいど (Sheer Cold) - Absolute Zero
 zutsuki ずつき (Headbutt) - Headbutt
 
 
@@ -960,7 +965,7 @@ POKÉMON NAMES
 657 ゲコガシラ Gekogashira
 
 659 ホルビー Horubee
-
+660 ホルード Horudo
 661 ヤヤコマ Yayakoma
 
 663 ファイアロー Fiarrow
