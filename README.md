@@ -1,4 +1,4 @@
-Here you can find updated scripts for fansubbing projects I took part in, which are Some-Stuffs releases unless stated otherwise. You can also find our terminology document for Pocket Monsters here, if you wish to be consistent with us in your own fan translations. Note that it was made for internal use to begin with, so it includes some stylistic preferences that you may opt to ignore if you only care about the monster and move names.
+Here you can find updated scripts for fansubbing projects I took part in, which are Some-Stuffs releases unless stated otherwise. As of now, every project archived here (which is currently just Utena) is available as individual unmuxed .ass files and also as muxed .mks files with fonts, chapters, and alternate sub tracks when applicable. You can also find our terminology document for Pocket Monsters here, if you wish to be consistent with us in your own fan translations. Note that it was made for internal use to begin with, so it includes some stylistic preferences that you may opt to ignore if you only care about the monster and move names.
 
 **Projects currently maintained/archived here:**  
 Revolutionary Girl Utena
