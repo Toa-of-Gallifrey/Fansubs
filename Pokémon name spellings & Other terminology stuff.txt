@@ -97,6 +97,7 @@ hataku はたく (Pound) - Pound
 hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
 hedoro bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
 hinoko ひのこ (Ember) - Ember
+hone buumeran ホネブーメラン (Bonemerang) - Bone Boomerang
 honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
 honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
 honoo no uzu ほのおのうず (Fire Spin) - Fire Vortex
@@ -126,7 +127,7 @@ karate choppu からてチョップ (Karate Chop) - Karate Chop
 kataku naru かたくなる (Harden) - Harden
 kawarawari かわらわり (Brick Break) - Brick Break
 kazeokoshi かぜおこし (Gust) - Wind Gust
-ketaguri けたぐり (Low Kick) - Undecided since it hasn't come up, but it can't be Low Kick because that's the move that was localized as Low Sweep.
+ketaguri けたぐり (Low Kick) - Kick Down [subject to change]
 kiai dama きあいだま (Focus Blast) - Focus Blast
 kiai dame きあいだめ (Focus Energy) - Focus Energy
 kiai panchi きあいパンチ (Focus Punch) - Focus Punch
@@ -215,6 +216,7 @@ tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
 tobihizageri とびひざげり (High Jump Kick) - High Jump Kick
 tomoenage ともえなげ (Circle Throw) - Circle Throw
 tonbo gaeri とんぼがえり (U-Turn) - Dragonfly Turnaround
+torappu sheru トラップシェル (Shell Trap) - Trap Shell [subject to change]
 toriporu kikku トリプルキック (Triple Kick) - Triple Kick
 tosshin とっしん (Take Down) - Take Down
 tsubame gaeshi つばめがえし (Aerial Ace) - Turning Swallow Strike
