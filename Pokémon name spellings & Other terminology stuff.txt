@@ -170,6 +170,7 @@ neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
 nidogeri にどげり (Double Kick) - Double Kick
 nihonbare にほんばれ (Sunny Day) - Clear Skies
 niidoru gaado ニードルガード (Spiky Shield) - Needle Guard
+nitoro chaaji ニトロチャージ (Flame Charge) - Nitro Charge [subject to change]
 noshikakari のしかかり (Body Slam) - Body Slam
 oobaahiito オーバーヒート (Overheat) - Overheat
 ooroora beiru オーロラベール (Aurora Veil) - Aurora Veil
@@ -201,6 +202,7 @@ shadou booru シャドーボール (Shadow Ball) - Shadow Ball
 shibiregona しびれごな (Stun Spore) - Stun Spore
 shimetsukeru しめつける (Bind) - Bind
 shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
+shizaa kurosu シザークロス (X-Scissor) - Cross Scissor [subject to change]
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
 suna arashi すなあらし (Sandstorm) - Sandstorm
