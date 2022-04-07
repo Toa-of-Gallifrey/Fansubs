@@ -54,6 +54,7 @@ daburu niidoru ダブルニードル (Twineedle) - Double Needle
 daburu panzaa ダブルパンツァー (Double Iron Bash) - Double Panzer
 daimonji だいもんじ (Fire Blast) - Great Blaze
 damashiuchi だましうち (Feint Attack) - Sneak Attack
+DD rariatto ＤＤラリアット (Darkest Lariat) - DD Lariat
 dengeki ha でんげきは (Shock Wave) - Shock Wave
 denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation
 denji ha でんじは (Thunder Wave) - Thunder Wave
