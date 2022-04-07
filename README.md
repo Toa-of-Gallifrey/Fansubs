@@ -4,15 +4,15 @@ Here you can find up-to-date scripts for fansubbing projects I took part in, whi
 Revolutionary Girl Utena  
 Pocket Monsters: Sun & Moon (Only as unmuxed scripts for the time being)  
 Pocket Monsters: Mewtwo Saga  
-Pokémon Evolutions
+Pokémon Evolutions  
+Pokétoon: Yume no Tsubomi
 
 **Projects planned to be added soon:**  
 Pocket Monsters Movies  
 Pocket Monsters: Twilight Wings  
 Pocket Monsters: The Hallowed God, Arceus  
 Pocket Monsters (2019) Audio Dramas  
-Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases  
-Yume no Tsubomi
+Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases
 
 **Projects planned to be added eventually:**  
 Pocket Monsters (2019)  
