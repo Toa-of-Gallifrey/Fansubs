@@ -166,7 +166,7 @@ nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nenriki ねんりき (Confusion) - Mindpower
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
 nidogeri にどげり (Double Kick) - Double Kick
-nihonbbare にほんばれ (Sunny Day) - Clear Skies
+nihonbare にほんばれ (Sunny Day) - Clear Skies
 niidoru gaado ニードルガード (Spiky Shield) - Needle Guard
 noshikakari のしかかり (Body Slam) - Body Slam
 oobaahiito オーバーヒート (Overheat) - Overheat
