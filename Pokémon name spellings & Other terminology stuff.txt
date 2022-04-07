@@ -76,7 +76,7 @@ ereki booru エレキボール (Electro Ball) - Electro Ball
 ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
 ereki netto エレキネット (Electroweb) - Electroweb
 feinto フェイント (Feint) - Feint
-fuiuchi ふいうち (Sucker Punch) - Sneak Attack
+fuiuchi ふいうち (Sucker Punch) - Surprise Attack
 furaingu puresu フライングプレス (Flying Press) - Flying Press
 furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
 furii fooru フリーフォール (Sky Drop) - Freefall
