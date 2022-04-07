@@ -6,14 +6,12 @@ Pocket Monsters: Sun & Moon (Only as unmuxed scripts for the time being)
 Pocket Monsters: Mewtwo Saga  
 Pocket Monsters: The Hallowed God, Arceus  
 Pokémon Evolutions  
-Pokétoon: Yume no Tsubomi
-
-**Projects planned to be added soon:**  
-Pocket Monsters Movies  
-Pocket Monsters: Twilight Wings  
 Pocket Monsters (2019) Audio Dramas  
-Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases
+Pokétoon: Yume no Tsubomi
 
 **Projects planned to be added eventually:**  
 Pocket Monsters (2019)  
+Pocket Monsters Movies  
+Pocket Monsters: Twilight Wings  
+Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases  
 K-On! (upon release)
