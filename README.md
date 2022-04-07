@@ -7,8 +7,8 @@ Pocket Monsters: Mewtwo Saga
 Pocket Monsters: The Hallowed God, Arceus  
 Pocket Monsters: Twilight Wings  
 Pokémon Evolutions  
-Pocket Monsters (2019) Audio Dramas  
-Pokétoon: Yume no Tsubomi
+Pokétoon: Yume no Tsubomi  
+Pocket Monsters (2019) Audio Dramas
 
 **Projects planned to be added eventually:**  
 Pocket Monsters (2019)  
