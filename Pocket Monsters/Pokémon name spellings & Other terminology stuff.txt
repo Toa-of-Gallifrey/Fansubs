@@ -104,6 +104,7 @@ honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
 honoo no uzu ほのおのうず (Fire Spin) - Fire Vortex
 hoppe surisuri ほっぺすりすり (Nuzzle) - Cheek Rub
 houden ほうでん (Discharge) - Discharge
+iai giri いあいぎり (Cut) - Slicing Draw
 ieki いえき (Gastro Acid) - Gastro Acid
 ikari no maeba いかりのまえば (Super Fang) - Fangs of Rage
 infaito インファイト (Close Combat) - Infight
@@ -202,7 +203,7 @@ shadou booru シャドーボール (Shadow Ball) - Shadow Ball
 shibiregona しびれごな (Stun Spore) - Stun Spore
 shimetsukeru しめつける (Bind) - Bind
 shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
-shizaa kurosu シザークロス (X-Scissor) - Cross Scissor [subject to change]
+shizaa kurosu シザークロス (X-Scissor) - Scissor Cross
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
 suna arashi すなあらし (Sandstorm) - Sandstorm
