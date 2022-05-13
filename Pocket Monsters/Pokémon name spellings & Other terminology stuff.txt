@@ -586,7 +586,7 @@ POKÉMON NAMES
 272 ルンパッパ Runpappa
 
 
-275 ダーテング Dirteng
+275 ダーテング Dirtengu
 276 スバメ Subame
 277 オオスバメ Ohsubame
 278 キャモメ Camome
