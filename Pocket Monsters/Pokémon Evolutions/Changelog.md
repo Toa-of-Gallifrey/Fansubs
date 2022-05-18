@@ -1,1 +1,1 @@
-No changes from release as of now.
+No changes from batch release as of now.
