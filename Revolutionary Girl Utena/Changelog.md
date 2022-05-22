@@ -51,10 +51,11 @@
 Currently unchanged from v1 release
 
 **Episode 15:**  
-Currently unchanged from v1 release
+-Typo corrected: Rumor has it that teacher’s fall down the stairs last week wasn't an accident. -> Rumor has it that teacher’s fall down the stairs last week wasn’t an accident.  
+-Missing honorifics handling on honorifics track: Chew... Chew... -> Chuu... Chuu...
 
 **Episode 16:**  
-Currently unchanged from v1 release
+-Typo corrected: Fight! Hoof! Fight Hoof! Fight! Hoof! Fight Hoof! -> Fight! Hoof! Fight! Hoof! Fight! Hoof! Fight! Hoof!
 
 **Episode 17:**  
 Currently unchanged from v1 release
