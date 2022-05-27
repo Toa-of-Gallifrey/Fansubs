@@ -6,6 +6,7 @@ Pocket Monsters: Sun & Moon (Only as unmuxed scripts for the time being)
 Pocket Monsters: Mewtwo Saga  
 Pocket Monsters: The Hallowed God, Arceus  
 Pocket Monsters: Twilight Wings  
+Pokémon Legends Arceus: Twin Indigo of Melting Snow  
 Pokémon Evolutions  
 Pokétoon: Yume no Tsubomi  
 Pocket Monsters (2019) Audio Dramas
