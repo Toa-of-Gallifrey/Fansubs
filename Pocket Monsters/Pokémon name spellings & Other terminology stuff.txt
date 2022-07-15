@@ -1,20 +1,3 @@
-MISC TERMINOLOGY
-
-monsutaa booru モンスターボール (Poké Ball) - Monster Ball
-pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
-roketto-dan ロケット団 (Team Rocket) - Team Rocket
-rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
-tou-chan とうちゃん (Dada) - Dada
-
-Māmane
-Hāpu'u
-
-"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
-Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
-"Goodbye," not "Good bye."
-The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
-
-
 MOVE NAMES
 
 aamu hammaa アームハンマー (Hammer Arm) - Arm Hammer
@@ -203,6 +186,7 @@ shadou booru シャドーボール (Shadow Ball) - Shadow Ball
 shibiregona しびれごな (Stun Spore) - Stun Spore
 shimetsukeru しめつける (Bind) - Bind
 shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
+shinsoku しんそく (Extreme Speed) - Divine Speed
 shizaa kurosu シザークロス (X-Scissor) - Scissor Cross
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
@@ -231,6 +215,7 @@ tsumetogi つめとぎ (Hone Claws) - Hone Claws
 tsuno de tsuku つのでつく (Horn Attack) - Horn Attack
 tsuno doriru つのドリル (Horn Drill) - Horn Drill
 tsuppari つっぱり (Arm Thrust) - Arm Thrust
+tsurara bari つららばり (Icicle Spear) - Icicle Spears
 tsurara otoshi つららおとし (Icicle Crash) - Icicle Drop
 tsuru no michi つるのムチ (Vine Whip) - Vine Whip
 tsurugi no mai つるぎのまい (Swords Dance) - Swords Dance
@@ -243,6 +228,7 @@ wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
 zettai reido ぜったいれいど (Sheer Cold) - Absolute Zero
 zutsuki ずつき (Headbutt) - Headbutt
+
 
 
 Z-MOVE NAMES
@@ -276,6 +262,7 @@ zenryoku musou gekiretsu ken 全力無双激烈拳 (All-Out Pummeling) - Full Po
 zettai Hoshoku kaitenzan 全力無双激烈拳 (Savage Spin-Out) - Absolute Predatory Spin-Out
 
 
+
 DAIMAX MOVE NAMES
 
 dai atakku  (Max Strike) - Dai Attack
@@ -294,10 +281,12 @@ kyodai koban キョダイコバン (G-Max Gold Rush) - Kyodai Charm
 kyodai shuuki キョダイシュウキ (G-Max Malodor) - Kyodai Stench
 
 
+
 ABILITY NAMES
 
 ぜったいねむり (Comatose) - Hyper Sleep
 ゆうばく (Aftermath) - Sympathetic Detonation
+
 
 
 CATEGORY NAMES
@@ -309,6 +298,8 @@ CATEGORY NAMES
 292 ヌケニン Nukenin: ぬけがらポケモン Shed Shell Pokémon
 442 ミカルゲ Mikaruge: ふういんポケモン Sealed Pokémon
 493 アルセウス Arceus: そうぞうポケモン Creation Pokémon
+
+
 
 POKÉMON NAMES
 
@@ -1155,7 +1146,7 @@ POKÉMON NAMES
 
 842 タルップル Tarpple
 843 スナヘビ Sunahebi
-
+844 サダイジャ Sadaija
 845 ウッウ U'u
 
 
@@ -1169,7 +1160,7 @@ POKÉMON NAMES
 
 
 
-
+858 ブリムオン Brimuon
 859 ベロバー Beroba
 
 
@@ -1178,13 +1169,13 @@ POKÉMON NAMES
 
 865 ネギガナイト Negigaknight
 
-
+867 デスバーン Deathban
 
 
 870 タイレーツ Tairetsu
 871 バチンウニ Bachin'uni
 
-
+873 モスノウ Mosnow
 
 875 コオリッポ Koorippo
 
@@ -1208,7 +1199,36 @@ POKÉMON NAMES
 
 
 
+CONFIRMED POKÉMON GENDERS
 
+Satoshi's Pikachu - Male (gender design difference)
+Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
+
+Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
+Iris's Doryuzu - Male (affected by Iris's Emonga's Attract in BW)
+Iris's Emonga - Female
+
+Shirona's Gaburias - Female (gender design difference)
+
+Sakuragi's Wanpachi - Male
+
+
+
+MISC TERMINOLOGY
+
+monsutaa booru モンスターボール (Poké Ball) - Monster Ball
+pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
+roketto-dan ロケット団 (Team Rocket) - Team Rocket
+rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
+tou-chan とうちゃん (Dada) - Dada
+
+Māmane
+Hāpu'u
+
+"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
+Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
+"Goodbye," not "Good bye."
+The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
 
 
 
