@@ -11,30 +11,29 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Twin Indigo of Melting Snow 02.mkv
-Video File: Twin Indigo of Melting Snow 02.mkv
+Audio File: [Some-Stuffs] Twin Indigo of Melting Snow 02 v2 (1080p) [47399127].mkv
+Video File: [Some-Stuffs] Twin Indigo of Melting Snow 02 v2 (1080p) [47399127].mkv
 Keyframes File: Twin Indigo of Melting Snow 02 Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 6
-Active Line: 7
+Active Line: 5
+Video Position: 16317
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,45,0
-Style: Title 1,FOT-RodinRose Pro DB,70,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 2,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 3,Fertigo Pro,85,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Episode Title,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
+Style: Next Time,Fertigo Pro,85,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:11:19.85,0:11:22.35,Title 2,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
-Dialogue: 1,0:11:19.85,0:11:22.35,Title 2,,0,0,0,,{\blur0.3\an5}Lingering Snow, Red
-Dialogue: 0,0:11:36.77,0:11:42.60,Title 2,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
-Dialogue: 1,0:11:36.77,0:11:42.60,Title 2,,0,0,0,,{\blur0.3\fad(1021,604)\pos(456,395.33)}Episode Three
-Dialogue: 1,0:11:36.77,0:11:42.60,Title 2,,0,0,0,,{\blur0.3\fad(1021,604)\pos(960,576.67)}“Twin Indigo”
-Dialogue: 1,0:11:36.77,0:11:42.60,Title 3,,0,0,0,,{\blur0.3\fad(1021,604)\pos(960,840.67)}- Releases Wednesday, June 22 -
+Dialogue: 0,0:11:19.85,0:11:22.35,Episode Title,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
+Dialogue: 1,0:11:19.85,0:11:22.35,Episode Title,,0,0,0,,{\blur0.6\an5}Lingering Snow, Red
+Dialogue: 0,0:11:36.77,0:11:42.60,Episode Title,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
+Dialogue: 1,0:11:36.77,0:11:42.60,Episode Title,,0,0,0,,{\blur0.6\fad(1021,604)\pos(456,395.33)}Episode Three
+Dialogue: 1,0:11:36.77,0:11:42.60,Episode Title,,0,0,0,,{\blur0.6\fad(1021,604)\pos(960,576.67)}“Twin Indigo”
+Dialogue: 1,0:11:36.77,0:11:42.60,Next Time,,0,0,0,,{\blur0.6\fad(1021,604)\pos(960,840.67)}- Releases Wednesday, June 22 -
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.61,0:00:11.27,Main,Akiopapa,0,0,0,,A Pokémon \N persecuted by humans... {ep 1 repeats start}
 Dialogue: 0,0:00:12.41,0:00:15.17,Main,Akiopapa,0,0,0,,...said to have died \N and been reborn.

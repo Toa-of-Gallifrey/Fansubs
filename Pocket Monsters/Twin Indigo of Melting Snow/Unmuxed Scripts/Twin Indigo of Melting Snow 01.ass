@@ -11,33 +11,33 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Twin Indigo of Melting Snow 01.mp4
-Video File: Twin Indigo of Melting Snow 01.mp4
+Audio File: [Some-Stuffs] Twin Indigo of Melting Snow 01 v3 (1080p) [DC055455].mkv
+Video File: [Some-Stuffs] Twin Indigo of Melting Snow 01 v3 (1080p) [DC055455].mkv
+Keyframes File: Twin Indigo of Melting Snow 01 Keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 24
-Active Line: 30
-Video Position: 3595
+Video Zoom Percent: 0.375000
+Video Position: 946
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,45,0
-Style: Title 1,FOT-RodinRose Pro DB,70,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 2,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 3,Fertigo Pro,85,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Show Title,Fertigo Pro,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Episode Title,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
+Style: Next Time,Fertigo Pro,85,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:36.31,0:00:44.65,Title 1,,0,0,0,,{\blur0.3\fad(2023,2942)\pos(960,171.33)}Twin {\fnFertigo Pro}Indigo {\fn}of
-Dialogue: 0,0:00:36.31,0:00:44.65,Title 1,,0,0,0,,{\1a&HFF&\bord2\blur2\fad(2023,2942)\pos(960,171.33)\3c&H7B6E61&}Twin {\fnFertigo Pro}Indigo {\fn}of
-Dialogue: 0,0:00:36.31,0:00:44.65,Title 1,,0,0,0,,{\blur0.3\fad(2023,2942)\fs120\fnFertigo Pro\pos(960,976.66)}Melting {\fn}Snow
-Dialogue: 0,0:05:43.40,0:05:45.77,Title 2,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 1920 0 l 1920 1080 l 0 1080 {\p0}
-Dialogue: 1,0:05:43.40,0:05:45.77,Title 2,,0,0,0,,{\blur0.3\an5}An Azure Spring's Walk
-Dialogue: 0,0:05:59.02,0:06:04.77,Title 2,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 1920 0 l 1920 1080 l 0 1080 {\p0}
-Dialogue: 1,0:05:59.02,0:06:04.77,Title 2,,0,0,0,,{\blur0.3\fad(1021,604)\pos(456,395.33)}Episode Two
-Dialogue: 1,0:05:59.02,0:06:04.77,Title 2,,0,0,0,,{\blur0.3\fad(1021,604)\pos(960,576.67)}“Lingering Snow, Red”
-Dialogue: 1,0:05:59.02,0:06:04.77,Title 3,,0,0,0,,{\blur0.3\fad(1021,604)\pos(960,840.67)}- Releases Wednesday, June 8 -
+Dialogue: 1,0:00:36.31,0:00:44.65,Show Title,,0,0,0,,{\blur0.6\fad(2023,2942)\pos(960,176.33)\fnIwata Mincho Old Pro H-Fate\fs78}Twin {\fn\fs}Indigo {\fnIwata Mincho Old Pro H-Fate\fs78}of
+Dialogue: 0,0:00:36.31,0:00:44.65,Show Title,,0,0,0,,{\1a&HFF&\3a&H20&\bord2\blur2\fad(2023,2942)\pos(960,176.33)\3c&H7B6E61&\fnIwata Mincho Old Pro H-Fate\fs78}Twin {\fn\fs}Indigo {\fnIwata Mincho Old Pro H-Fate\fs78}of
+Dialogue: 0,0:00:36.31,0:00:44.65,Show Title,,0,0,0,,{\blur0.6\fad(2023,2942)\fs120\pos(960,997.66)}Melting {\fnIwata Mincho Old Pro H-Fate\fs130}Snow
+Dialogue: 0,0:00:36.31,0:00:44.65,Show Title,,0,0,0,,{\1a&HFF&\3a&H20&\bord3\blur3\fad(2023,2942)\fs120\pos(960,997.66)\3c&H7B6E61&}Melting {\fnIwata Mincho Old Pro H-Fate\fs130}Snow
+Dialogue: 0,0:05:43.40,0:05:45.77,Episode Title,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 1920 0 l 1920 1080 l 0 1080 {\p0}
+Dialogue: 1,0:05:43.40,0:05:45.77,Episode Title,,0,0,0,,{\blur0.6\an5}An Azure Spring's Walk
+Dialogue: 0,0:05:59.02,0:06:04.77,Episode Title,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 1920 0 l 1920 1080 l 0 1080 {\p0}
+Dialogue: 1,0:05:59.02,0:06:04.77,Episode Title,,0,0,0,,{\blur0.6\fad(1021,604)\pos(456,395.33)}Episode Two
+Dialogue: 1,0:05:59.02,0:06:04.77,Episode Title,,0,0,0,,{\blur0.6\fad(1021,604)\pos(960,576.67)}“Lingering Snow, Red”
+Dialogue: 1,0:05:59.02,0:06:04.77,Next Time,,0,0,0,,{\blur0.6\fad(1021,604)\pos(960,840.67)}- Releases Wednesday, June 8 -
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:48.52,0:00:49.23,Main,The First Children,0,0,0,,
 Comment: 0,0:00:49.23,0:00:50.31,Main,The Second Children,0,0,0,,

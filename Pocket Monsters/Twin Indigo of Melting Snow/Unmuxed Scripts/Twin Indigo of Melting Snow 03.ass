@@ -11,29 +11,27 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Twin Indigo of Melting Snow 03.mkv
-Video File: Twin Indigo of Melting Snow 03.mkv
-Keyframes File: Twin Indigo of Melting Snow 03 Keyframes.txt
+Audio File: [Some-Stuffs] Twin Indigo of Melting Snow 03 (WEB 1080p Opus).mkv
+Video File: [Some-Stuffs] Twin Indigo of Melting Snow 03 (WEB 1080p Opus).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 7
+Video Zoom Percent: 0.250000
+Video Position: 986
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,45,0
-Style: Title 1,FOT-RodinRose Pro DB,70,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 2,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
-Style: Title 3,Fertigo Pro,85,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Show Title,Fertigo Pro,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Episode Title,DFGTFLeiSho-W5,90,&H00FEFBFF,&H00FEFBFF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:41.06,0:00:44.06,Title 2,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
-Dialogue: 0,0:00:41.06,0:00:44.06,Title 2,,0,0,0,,{\blur0.6\an5}Twin Indigo
-Dialogue: 1,0:11:20.73,0:11:24.98,Title 1,,0,0,0,,{\blur0.6\fad(1062,0)\pos(960,91.33)\c&HFFFFFF&}Twin {\fnFertigo Pro}Indigo {\fn}of
-Dialogue: 0,0:11:20.73,0:11:24.98,Title 1,,0,0,0,,{\bord1.5\blur2\fad(1062, 0)\pos(960,91.33)\c&HFFFFFF&\t(0, 1062, \c&H7B6E61&)\3c&H7B6E61&}Twin {\fnFertigo Pro}Indigo {\fn}of
-Dialogue: 1,0:11:20.73,0:11:24.98,Title 1,,0,0,0,,{\blur0.6\fad(1062, 0)\fs120\fnFertigo Pro\pos(960,896.66)\c&HFFFFFF&}Melting {\fn}Snow
-Dialogue: 0,0:11:20.73,0:11:24.98,Title 1,,0,0,0,,{\bord2\blur2\fad(1062, 0)\fs120\fnFertigo Pro\pos(960,896.66)\c&HFFFFFF&\t(0, 1062, \c&H7B6E61&)\3c&H7B6E61&}Melting {\fn}Snow
+Dialogue: 0,0:00:41.06,0:00:44.06,Episode Title,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 2400 0 l 2400 1080 l 0 1080 {\p0}
+Dialogue: 0,0:00:41.06,0:00:44.06,Episode Title,,0,0,0,,{\blur0.6\an5}Twin Indigo
+Dialogue: 1,0:11:20.73,0:11:24.98,Show Title,,0,0,0,,{\blur0.6\fad(1062,0)\pos(960,91.33)\fnIwata Mincho Old Pro H-Fate\fs78}Twin {\fn\fs}Indigo {\fnIwata Mincho Old Pro H-Fate\fs78}of
+Dialogue: 0,0:11:20.73,0:11:24.98,Show Title,,0,0,0,,{\1a&HFF&\3a&H20&\bord2\blur2\fad(1062,0)\pos(960,91.33)\3c&H7B6E61&\fnIwata Mincho Old Pro H-Fate\fs78}Twin {\fn\fs}Indigo {\fnIwata Mincho Old Pro H-Fate\fs78}of
+Dialogue: 1,0:11:20.73,0:11:24.98,Show Title,,0,0,0,,{\blur0.6\fad(1062,0)\fs120\pos(960,912.66)}Melting {\fnIwata Mincho Old Pro H-Fate\fs130}Snow
+Dialogue: 0,0:11:20.73,0:11:24.98,Show Title,,0,0,0,,{\1a&HFF&\3a&H20&\bord3\blur3\fad(1062,0)\fs120\pos(960,912.66)\3c&H7B6E61&}Melting {\fnIwata Mincho Old Pro H-Fate\fs130}Snow
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:03.19,0:00:04.32,Main,Kid,0,0,0,,Wait!
 Dialogue: 0,0:00:17.98,0:00:19.19,Main,Kid,0,0,0,,Thank you!
@@ -93,13 +91,13 @@ Dialogue: 0,0:05:17.63,0:05:19.19,Main,Akio,0,0,0,,They’re protecting their yo
 Dialogue: 0,0:05:20.28,0:05:22.17,Main,Shimaboshi,0,0,0,,It’s too dangerous! \N Come back here!
 Dialogue: 0,0:05:28.73,0:05:31.38,Main,Shimaboshi,0,0,0,,Come back! \N What are you doing?!
 Dialogue: 0,0:05:36.92,0:05:40.31,Main,Akio,0,0,0,,I want to give this \N to the little ones.
-Dialogue: 0,0:05:47.19,0:05:48.78,Main,Akio,0,0,0,,I know it’ll help!
+Dialogue: 0,0:05:47.19,0:05:48.78,Main,Akio,0,0,0,,I’m certain it’ll help!
 Dialogue: 0,0:05:57.64,0:05:58.35,Main,Akiopapa,0,0,0,,Akio!
 Dialogue: 0,0:06:13.87,0:06:15.20,Main,Security Corps Person,0,0,0,,The Pokémon are...
 Dialogue: 0,0:06:16.76,0:06:17.55,Main,Shimaboshi,0,0,0,,Let’s go!
 Dialogue: 0,0:06:37.48,0:06:38.83,Main,Akio,0,0,0,,We should get them \N to the village.
 Dialogue: 0,0:06:38.83,0:06:40.46,Main,Shimaboshi,0,0,0,,We’re not equipped to do that!
-Dialogue: 0,0:07:01.07,0:07:02.56,Main,Security Corps Person,0,0,0,,There’s something weird here!
+Dialogue: 0,0:07:01.07,0:07:02.56,Main,Security Corps Person,0,0,0,,Something’s strange!
 Dialogue: 0,0:07:02.56,0:07:03.60,Main,Security Corps Person,0,0,0,,Hurry!
 Dialogue: 0,0:07:04.77,0:07:06.35,Main,Akio,0,0,0,,All of you, run.
 Dialogue: 0,0:07:06.35,0:07:08.82,Main,Shimaboshi,0,0,0,,No! You’re coming with us!
