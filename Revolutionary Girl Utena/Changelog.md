@@ -62,3 +62,9 @@ Currently unchanged from v1 release
 
 **Episode 18:**  
 Currently unchanged from v1 release
+
+**Episode 19:**  
+Currently unchanged from v1 release
+
+**Episode 20:**  
+Currently unchanged from v1 release
