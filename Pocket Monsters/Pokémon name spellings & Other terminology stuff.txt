@@ -1113,7 +1113,7 @@ POKÉMON NAMES
 808 メルタン Meltan
 809 メルメタル Melmetal
 810 サルノリ Sarunori
-
+811 バチンキー Bachinkey
 812 ゴリランダー Gorillander
 813 ヒバニー　Hibunny
 814 ラビフット Rabbifoot
@@ -1131,7 +1131,7 @@ POKÉMON NAMES
 
 827 クスネ Kusune
 
-
+829 ヒメンカ Himenka
 830 ワタシラガ Watashiraga
 831 ウールー Wooloo
 
@@ -1151,11 +1151,11 @@ POKÉMON NAMES
 
 
 
+849 ストリンダー Strinder
 
+851 マルヤクデ Maruyakude
 
-
-
-
+853 オトスパス Otosupus
 854 ヤバチャ Yabacha
 
 
@@ -1163,22 +1163,22 @@ POKÉMON NAMES
 858 ブリムオン Brimuon
 859 ベロバー Beroba
 
-
-
+861 オーロンゲ Olonge
+862 タチフサグマ Tachifusaguma
 
 
 865 ネギガナイト Negigaknight
 
 867 デスバーン Deathban
-
-
+868 マホミル Mahomil
+869 マホイップ Mawhip
 870 タイレーツ Tairetsu
 871 バチンウニ Bachin'uni
 
 873 モスノウ Mosnow
 
 875 コオリッポ Koorippo
-
+876 イエッサン Yessan
 877 モルペコ Morpeko
 
 879 ダイオウドウ Daioudou
@@ -1187,8 +1187,8 @@ POKÉMON NAMES
 882 ウオノラゴン Uonoragon
 883 ウオチルドン Uochilldon
 884 ジュラルドン Duraludon
-
-
+885 ドラメシヤ Drameshiya
+886 ドロンチ Draunch
 887 ドラパルト Drapult
 888 ザシアン Zacian
 889 ザマゼンタ Zamazenta
@@ -1196,6 +1196,8 @@ POKÉMON NAMES
 891 ダクマ Dakuma
 892 ウーラオス Wulaosu
 893 ザルード Zarude
+894 レジエレキ Regieleki
+895 レジドラゴ Regidrago
 
 
 
