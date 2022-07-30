@@ -2,8 +2,8 @@ MOVE NAMES
 
 aamu hammaa アームハンマー (Hammer Arm) - Arm Hammer
 abareru あばれる (Thrash) - Thrash
-airon heddo アイアンヘッド (Iron Head) - Iron Head
-airon teeru アイアンテール (Iron Tail) - Iron Tail
+aian heddo アイアンヘッド (Iron Head) - Iron Head
+aian teeru アイアンテール (Iron Tail) - Iron Tail
 aku no hadou あくのはどう (Dark Pulse) - Evil Pulse
 akua boreiku アクアブレイク (Liquidation) - Aqua Break
 akua teeru アクアテール (Aqua Tail) - Aqua Tail
@@ -11,7 +11,7 @@ akubi あくび (Yawn) - Yawn
 akurobatto アクロバット (Acrobatics) - Acrobatics
 amagoi あまごい (Rain Dance) - Rain Prayer
 amai kaori あまいかおり (Sweet Scent) - Sweet Scent
-ana o hooru あなをほる (Dig) - Dig
+ana o horu あなをほる (Dig) - Dig
 ankoku kyouda あんこくきょうだ (Wicked Blow) - Dark Blow
 aromaserapii アロマセラピー (Aromatherapy) - Aromatherapy
 ateminage あてみなげ (Vital Throw) - Parry Throw
@@ -24,6 +24,7 @@ bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
 benomu shokku ベノムショック (Venoshock) - Venom Shock
 biribiri chikuchiku びりびりちくちく (Zing Zap) - Shocking Prickles
 birudo appu ビルドアップ (Bulk Up) - Build Up
+bodi puresu ボディプレス (Body Press) - Body Press
 boon rasshu ボーンラッシュ (Bone Rush) - Bone Rush
 borutekkaa ボルテッカー (Volt Tackle) - Voltteccer
 boufuu ぼうふう (Hurricane) - Hurricane
@@ -31,6 +32,7 @@ bunmawasu ぶんまわす (Brutal Swing) - Brutal Swing
 burasuto baan ブラストバーン (Blast Burn) - Blast Burn
 bureibu baado ブレイブバード (Brave Bird) - Brave Bird
 bureizu kikku ブレイズキック (Blaze Kick) - Blaze Kick
+chaamu boisu チャームボイス (Disarming Voice) - Charm Voice
 chikyuunage ちきゅうなげ (Seismic Toss) - Globe Throw
 chou onpa ちょうおんぱ (Supersonic) - Supersonic Waves
 daburu niidoru ダブルニードル (Twineedle) - Double Needle
@@ -38,6 +40,7 @@ daburu panzaa ダブルパンツァー (Double Iron Bash) - Double Panzer
 daimonji だいもんじ (Fire Blast) - Great Blaze
 damashiuchi だましうち (Feint Attack) - Sneak Attack
 DD rariatto ＤＤラリアット (Darkest Lariat) - DD Lariat
+daku ryuu だくりゅう (Muddy Water) - Muddy Water
 dengeki ha でんげきは (Shock Wave) - Shock Wave
 denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation
 denji ha でんじは (Thunder Wave) - Thunder Wave
@@ -60,6 +63,7 @@ ereki booru エレキボール (Electro Ball) - Electro Ball
 ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
 ereki netto エレキネット (Electroweb) - Electroweb
 feinto フェイント (Feint) - Feint
+fubuki ふぶき (Blizzard) - Blizzard
 fuiuchi ふいうち (Sucker Punch) - Surprise Attack
 furaingu puresu フライングプレス (Flying Press) - Flying Press
 furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
@@ -68,6 +72,7 @@ furiizu dorai フリーズドライ (Freeze-Dry) - Freeze-Dry
 ganseki fuuji がんせきふうじ (Rock Tomb) - Rock Seal
 gekirin げきりん (Outrage) - Reversed Scale
 goddo baado ゴッドバード (Sky Attack) - God Bird
+goosuto daibu ゴーストダイブ (Phantom Force) - Ghost Dive
 guroo panchi グロウパンチ (Power-Up Punch) - Grow Punch
 hadoudan はどうだん (Aura Sphere) - Aura Sphere
 hagane no tsubasa はがねのつばさ (Steel Wing) - Steel Wing
@@ -77,9 +82,11 @@ hakai kousen はかいこうせん (Hyper Beam) - Destroyer Beam
 hakkei はっけい (Force Palm) - Force Palm
 haneru はねる (Splash) - Flop
 happa kattaa はっぱカッター (Razor Leaf) - Razor Leaf
+harouin ハロウィン (Trick-or-Treat) - Halloween
 hataku はたく (Pound) - Pound
 hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
 hedoro bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
+hikari no kabe ひかりのかべ (Light Screen) - Light Screen
 hinoko ひのこ (Ember) - Ember
 hone buumeran ホネブーメラン (Bonemerang) - Bone Boomerang
 honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
@@ -96,6 +103,7 @@ iyashi no hadou いやしのはどう (Heal Pulse) - Heal Pulse
 jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
 jaretsuku じゃれつく (Play Rough) - Play Rough
 jidanda じだんだ (Stomping Tantrum) - Stomping Tantrum
+jigoku dzuki  じごくづき (Throat Chop) - Hell Thrust
 jinarashi じならし (Bulldoze) - Bulldoze
 jiware じわれ (Fissure) - Fissure
 juuman boruto １０まんぼると (Thunderbolt) - 100,000 Volts
@@ -137,9 +145,10 @@ manekko まねっこ (Copycat) - Copycat
 megahoon メガホーン (Megahorn) - Megahorn
 megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
 metaru kuroo メタルクロー (Metal Claw) - Metal Claw
+meteo biimu メテオビーム (Meteor Beam) - Meteor Beam
 midare hikkaki みだれひっかき (Fury Swipes) - Erratic Scratch
 mikiri みきり (Detect) - Detect
-misairubari ミサイルばり (Pin Missile) - Needle Missiles
+misairubari ミサイルばり (Pin Missile) - Needle Missile
 miyaburu みやぶる (Foresight) - True Sight
 mizu deppou みずでっぽう (Water Gun) - Water Gun
 mizu no chikai みずのちかい (Water Pulse) - Water Pulse
@@ -148,6 +157,7 @@ muunfoosu ムーンフォース (Moonblast) Moonforce
 naito baasuto ナイトバースト (Night Daze) - Night Burst
 naito heddo ナイトヘッド (Night Shade) - Night Head
 nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
+ne o haru ねをはる (Ingrain) - Take Root
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nenriki ねんりき (Confusion) - Mindpower
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
@@ -156,6 +166,7 @@ nihonbare にほんばれ (Sunny Day) - Clear Skies
 niidoru gaado ニードルガード (Spiky Shield) - Needle Guard
 nitoro chaaji ニトロチャージ (Flame Charge) - Nitro Charge [subject to change]
 noshikakari のしかかり (Body Slam) - Body Slam
+onibi おにび (Will-O-Wisp) - Will-O-Wisp
 oobaahiito オーバーヒート (Overheat) - Overheat
 ooroora beiru オーロラベール (Aurora Veil) - Aurora Veil
 oufuku binta おうふくビンタ (Double Slap) - Round-Trip Slap
@@ -199,11 +210,13 @@ taiatari たいあたり (Tackle) - Tackle
 takogatame たこがため (Octolock) - Octolock
 tane mashingan タネマシンガン (Bullet Seed) - Seed Machine Gun
 tatari me たたりめ (Hex) - Evil Eye
+tatsumaki たつまき (Twister) - Twister
 teppeki てっぺき (Iron Defense) - Iron Defense
 tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
 tobihizageri とびひざげり (High Jump Kick) - High Jump Kick
 tomoenage ともえなげ (Circle Throw) - Circle Throw
 tonbo gaeri とんぼがえり (U-Turn) - Dragonfly Turnaround
+torai atakku トライアタック (Tri Attack) - Tri Attack
 torappu sheru トラップシェル (Shell Trap) - Trap Shell [subject to change]
 toriporu kikku トリプルキック (Triple Kick) - Triple Kick
 tosshin とっしん (Take Down) - Take Down
@@ -265,8 +278,13 @@ zettai Hoshoku kaitenzan 全力無双激烈拳 (Savage Spin-Out) - Absolute Pred
 
 DAIMAX MOVE NAMES
 
-dai atakku  (Max Strike) - Dai Attack
+dai aasu ダイアース (Max Quake) - Dai Earth
+dai aisu ダイアイス (Max Hailstorm) - Dai Ice
+dai ashiddo ダイアシッド (Max Ooze) - Dai Acid
+dai atakku ダイアタック (Max Strike) - Dai Attack
 dai baan ダイバーン (Max Flare) - Dai Burn
+dai doraguun ダイドラグーン (Max Wyrmwind) - Dai Dragoon
+dai fearii ダイフェアリー (Max Starfall) - Dai Fairy
 dai jetto ダイジェット (Max Airstream) - Dai Jet
 dai nakkuru ダイナックル (Max Knuckle) - Dai Knuckle
 dai rokku ダイロック (Max Rockfall) - Dai Rock
@@ -276,9 +294,15 @@ dai suchiru ダイスチル (Max Steelspike) - Dai Steel
 dai sutoriimu ダイストリーム (Max Geyser) - Dai Stream
 dai uooru ダイウォール (Max Guard) - Dai Wall
 kyodai banrai キョダイバンライ (G-Max Volt Crash) - Kyodai Heavy Thunder
+kyodai dan'en キョダイダンエン (G-Max Finale) - Kyodai Finale
+kyodai gen'ei キョダイゲンエイ (G-Max Terror) - Kyodai Phantom
+kyodai gensui キョダイゲンスイ (G-Max Depletion) - Kyodai Decay
 kyodai gokuen キョダイゴクエン (G-Max Wildfire) - Kyodai Hellfire
 kyodai koban キョダイコバン (G-Max Gold Rush) - Kyodai Charm
+kyodai koranda キョダイコランダ (G-Max Drum Solo) - Kyodai Drum Bash
+kyodai shingeki キョダイシンゲキ (G-Max Chi Strike) - Kyodai Focus Blow
 kyodai shuuki キョダイシュウキ (G-Max Malodor) - Kyodai Stench
+kyodai suima キョダイスイマ (G-Max Snooze) - Kyodai Snooze
 
 
 
@@ -293,11 +317,19 @@ CATEGORY NAMES
 
 033 ニドリーノ Nidorino: どくばりポケモン Poison Needle Pokémon
 068 カイリキー Kairiky: カイリキーポケモン Superstrength Pokémon
+136 ブースター Booster: ほのおポケモン Fire Pokémon
+144 フリーザー Freezer: れいとうポケモン Freezing Pokémon
 200 ムウマ Muma: よなきポケモン Night Screeching Pokémon
 291 テッカニン Tekkanin: しのびポケモン Shinobi Pokémon
 292 ヌケニン Nukenin: ぬけがらポケモン Shed Shell Pokémon
+346 ユレイドル Yuradle: いわつぼポケモン Rock Crevice Pokémon
 442 ミカルゲ Mikaruge: ふういんポケモン Sealed Pokémon
+483 ディアルガ Dialga: じかんポケモン Time Pokémon
+484 パルキア Palkia: くうかんポケモン Space Pokémon
+488 クレセリア Cresselia: みかづきポケモン Crescent Moon Pokémon
 493 アルセウス Arceus: そうぞうポケモン Creation Pokémon
+658 ゲッコウガ Gekkouga: しのびポケモン Shinobi Pokémon
+687 カラマネロ Calamanero: ぎゃくてんポケモン Turnaround Pokémon
 
 
 
@@ -648,7 +680,7 @@ POKÉMON NAMES
 
 
 
-
+346 ユレイドル Yuradle
 347 アノプス Anoph
 348 アーマルド Armaldo
 349 ヒンバス Hinbass
@@ -725,7 +757,7 @@ POKÉMON NAMES
 
 
 422 カラナクシ Karanakushi
-
+423 トリトドン Tritodon
 
 425 フワンテ Fuwante
 426 フワライド Fuwaride
@@ -787,15 +819,15 @@ POKÉMON NAMES
 482 アグノム Agnome
 483 ディアルガ Dialga
 484 パルキア Palkia
-
-
+485 ヒードラン Heatran
+486 レジギガス Regigigas
 
 488 クレセリア Cresselia
 
 490 マナフィ Manaphy
 491 ダークライ Darkrai
 492 シェイミ Xiemi
-
+493 アルセウス Arceus
 
 
 
@@ -803,7 +835,7 @@ POKÉMON NAMES
 
 499 チャオブー Chaoboo
 
-
+501 ミジュマル Mijumaru
 502 フタチマル Futachimaru
 
 
@@ -832,7 +864,7 @@ POKÉMON NAMES
 527 コロモリ Koromori
 
 529 モグリュー Mogurew
-
+530 ドリュウズ Doryuzu
 531 タブンネ Tabunne
 
 533 ドテッコツ Dotekkotsu
@@ -954,13 +986,13 @@ POKÉMON NAMES
 649 ゲノセクト Genosect
 650 ハリマロン Harimarron
 651 ハリボーグ Haribogue
-
+652 ブリガロン Brigarron
 
 654 テールナー Tairenar
 655 マフォクシー Mafoxy
-
+656 ケロマツ Keromatsu
 657 ゲコガシラ Gekogashira
-
+658 ゲッコウガ Gekkouga
 659 ホルビー Horubee
 660 ホルード Horudo
 661 ヤヤコマ Yayakoma
@@ -989,7 +1021,7 @@ POKÉMON NAMES
 
 
 
-
+687 カラマネロ Calamanero
 688 カメテテ Kametete
 
 
@@ -1001,14 +1033,14 @@ POKÉMON NAMES
 
 
 
-
-
+699 アマルルガ Amaruruga
+700 アマルルガ Nymphia
 701 ルチャブル Luchabull
 702 デデンネ Dedenne
 703 メレシー Melecie
 704 ヌメラ Numera
 
-
+706 ヌメルゴン Numelgon
 707 クレッフィ Cleffy
 
 709 オーロット Ohrot
