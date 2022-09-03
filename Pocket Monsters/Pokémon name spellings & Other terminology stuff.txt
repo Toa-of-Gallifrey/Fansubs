@@ -146,6 +146,7 @@ megahoon メガホーン (Megahorn) - Megahorn
 megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
 metaru kuroo メタルクロー (Metal Claw) - Metal Claw
 meteo biimu メテオビーム (Meteor Beam) - Meteor Beam
+michizure みちづれ (Destiny Bond) - Drag Along
 midare hikkaki みだれひっかき (Fury Swipes) - Erratic Scratch
 mikiri みきり (Detect) - Detect
 misairubari ミサイルばり (Pin Missile) - Needle Missile
@@ -1008,7 +1009,7 @@ POKÉMON NAMES
 671 フラージェス Florges
 
 
-
+674 ヤンチャム Yancham
 675 ゴロンダ Goronda
 676 トリミアン Trimmien
 
@@ -1156,7 +1157,7 @@ POKÉMON NAMES
 819 ホシガリス Hoshigarisu
 820 ヨクバリス Yokubarisu
 821 ココガラ Kokogara
-
+822 アオガラス Aogarasu
 823 アーマーガア Armorgaw
 
 
@@ -1236,15 +1237,18 @@ POKÉMON NAMES
 CONFIRMED POKÉMON GENDERS
 
 Satoshi's Pikachu - Male (gender design difference)
+Satoshi's Kairyu - Female (game distribution)
+Satoshi's Gänger - Male (game distribution)
+Satoshi's Lucario - Male (game distribution)
 Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
 
 Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
-Iris's Doryuzu - Male (affected by Iris's Emonga's Attract in BW)
+Iris's Doryuzu - Male (affected by Attract from female Emonga in BW)
 Iris's Emonga - Female
 
 Shirona's Gaburias - Female (gender design difference)
 
-Sakuragi's Wanpachi - Male
+Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
 
 
 
