@@ -309,8 +309,9 @@ kyodai suima キョダイスイマ (G-Max Snooze) - Kyodai Snooze
 
 ABILITY NAMES
 
-ぜったいねむり (Comatose) - Hyper Sleep
-ゆうばく (Aftermath) - Sympathetic Detonation
+ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
+yuubaku ゆうばく (Aftermath) - Sympathetic Detonation
+zettai nemuri ぜったいねむり (Comatose) - Hyper Sleep
 
 
 
