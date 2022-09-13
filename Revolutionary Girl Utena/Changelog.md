@@ -10,6 +10,8 @@
 -Romaji removed from default track
 
 **Episode 03:**  
+-Typo corrected: I case I was what? -> In case I was what?  
+-Editing adjustment: Tough luck why? -> Tough luck how?  
 -Romaji removed from default track
 
 **Episode 04:**  
