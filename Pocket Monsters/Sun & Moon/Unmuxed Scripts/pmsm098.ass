@@ -129,18 +129,18 @@ Dialogue: 0,0:00:06.60,0:00:09.63,Main,Rotom,0,0,0,,With whom do I quarrel \N in
 Dialogue: 0,0:00:09.63,0:00:12.89,Main,Rotom,0,0,0,,Blue: Satoshi, Red: Kaki, \N Green: Mokuroh, or Yellow: Pikachu?
 Dialogue: 0,0:00:12.89,0:00:15.49,Main,Rotom,0,0,0,,Get the answer at \N the end of the episode-roto!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:22.25,0:00:27.88,Main,Lucky,0,0,0,,Indeed! That was when the culprit \N made a fatal mistake!
+Dialogue: 0,0:00:22.25,0:00:27.88,Main,Laki,0,0,0,,Indeed! That was when the culprit \N made a fatal mistake!
 Dialogue: 0,0:00:27.88,0:00:30.38,Main,Human being,0,0,0,,How can you tell?
-Dialogue: 0,0:00:30.38,0:00:37.08,Main,Lucky,0,0,0,,This isn’t the first time I’ve solved a case through \N traces a Pokémon left behind at the scene of the crime.
-Dialogue: 0,0:00:37.08,0:00:38.39,Main,Lucky,0,0,0,,Isn’t that right, \N my dear Doble?
-Dialogue: 0,0:00:40.21,0:00:43.35,Main,Lucky,0,0,0,,In that revolting \N Mermaid’s Necklace case,
-Dialogue: 0,0:00:43.35,0:00:47.56,Main,Lucky,0,0,0,,Tsutsukera’s feather being left on the crime scene \N provided me with a vital clue,
-Dialogue: 0,0:00:47.56,0:00:48.28,Main,Lucky,0,0,0,,and this time—
+Dialogue: 0,0:00:30.38,0:00:37.08,Main,Laki,0,0,0,,This isn’t the first time I’ve solved a case through \N traces a Pokémon left behind at the scene of the crime.
+Dialogue: 0,0:00:37.08,0:00:38.39,Main,Laki,0,0,0,,Isn’t that right, \N my dear Doble?
+Dialogue: 0,0:00:40.21,0:00:43.35,Main,Laki,0,0,0,,In that revolting \N Mermaid’s Necklace case,
+Dialogue: 0,0:00:43.35,0:00:47.56,Main,Laki,0,0,0,,Tsutsukera’s feather being left on the crime scene \N provided me with a vital clue,
+Dialogue: 0,0:00:47.56,0:00:48.28,Main,Laki,0,0,0,,and this time—
 Dialogue: 0,0:00:48.28,0:00:50.44,Main,Rotom,0,0,0,,That’s wrong-roto!
 Dialogue: 0,0:00:51.42,0:00:54.79,Main,Rotom,0,0,0,,The vital clue \N in the Mermaid’s Necklace case...
 Dialogue: 0,0:00:54.79,0:00:58.32,Main,Rotom,0,0,0,,...wasn’t Tsutsukera’s feather, \N but Kerarappa’s-roto!
 Dialogue: 0,0:00:58.32,0:01:00.13,Main,Human being,0,0,0,,C-Cut!
-Dialogue: 0,0:01:00.87,0:01:06.36,Main,Narrator,0,0,0,,Satoshi and the Pokémon are spectating \N the filming of the popular TV show, Alolan Detective Lucky.
+Dialogue: 0,0:01:00.87,0:01:06.36,Main,Narrator,0,0,0,,Satoshi and the Pokémon are spectating \N the filming of the popular TV show, Alolan Detective Laki.
 Dialogue: 0,0:01:06.36,0:01:09.99,Main,Narrator,0,0,0,,But now it seems that Rotom \N has interrupted the recording. {Suggesting "interrupted" in place of "disturbed". - Toa}
 Dialogue: 0,0:01:10.75,0:01:13.93,Main,Human being,0,0,0,,You can’t just barge in like that! \N The cameras are rolling!
 Dialogue: 0,0:01:13.93,0:01:18.14,Main,Satoshi,0,0,0,,I’m sorry! \N Hey, Rotom! What are you doing?! {These two fucking lines ugh. I decided to join them since I thought they looked bad no matter what. If you want to split them, the original split was at 0:01:15.18 and the keyframe change is at 0:01:15.72 - Toa}
@@ -152,37 +152,37 @@ Dialogue: 0,0:01:30.89,0:01:32.09,Main,Human being,0,0,0,,Y-Yes!
 Dialogue: 0,0:01:32.78,0:01:37.28,Main,Human being,0,0,0,,It’s true! It {\i1}was{\i0} a Kerarappa feather \N that was dropped in season 2, episode 6!
 Dialogue: 0,0:01:37.28,0:01:40.38,Main,Human being,0,0,0,,I’m so sorry! \N I didn’t go back to check! {This random scriptwriter is officially the best character in this episode because this is SO relatable. -Starfish}
 Dialogue: 0,0:01:40.38,0:01:42.54,Main,Satoshi,0,0,0,,Really? \N Nothing gets past you, Rotom! {Have at it, Sutaafishu. - Toa}{But of course... SASUGA. -Starfish}
-Dialogue: 0,0:01:42.54,0:01:45.91,Main,Rotom,0,0,0,,Such is to be expected \N of any true Alolan Detective Lucky fan-roto!
-Dialogue: 0,0:01:45.91,0:01:47.80,Main,Lucky,0,0,0,,Oh? Well then...
-Dialogue: 0,0:01:47.80,0:01:49.49,Main,Lucky,0,0,0,,In season 1, episode 8...
-Dialogue: 0,0:01:49.49,0:01:51.42,Main,Lucky,0,0,0,,What Pokémon did the client have?
+Dialogue: 0,0:01:42.54,0:01:45.91,Main,Rotom,0,0,0,,Such is to be expected \N of any true Alolan Detective Laki fan-roto!
+Dialogue: 0,0:01:45.91,0:01:47.80,Main,Laki,0,0,0,,Oh? Well then...
+Dialogue: 0,0:01:47.80,0:01:49.49,Main,Laki,0,0,0,,In season 1, episode 8...
+Dialogue: 0,0:01:49.49,0:01:51.42,Main,Laki,0,0,0,,What Pokémon did the client have?
 Dialogue: 0,0:01:52.86,0:01:54.17,Main,Rotom,0,0,0,,A Blacky-roto!
-Dialogue: 0,0:01:54.17,0:01:57.73,Main,Lucky,0,0,0,,Who was the villain in \N season 3, episode 11?
+Dialogue: 0,0:01:54.17,0:01:57.73,Main,Laki,0,0,0,,Who was the villain in \N season 3, episode 11?
 Dialogue: 0,0:01:58.43,0:02:00.18,Main,Rotom,0,0,0,,Sam, the director-roto!
-Dialogue: 0,0:02:00.18,0:02:01.68,Main,Lucky,0,0,0,,What’s my catchphrase?!{Okay seriously, I feel like this ought to be the easiest question ever to anyone who could recite the random trivia questions he just asked. You don’t have to be a hardcore fan to know the main character’s catchphrase, dood. -Starfish}
+Dialogue: 0,0:02:00.18,0:02:01.68,Main,Laki,0,0,0,,What’s my catchphrase?!{Okay seriously, I feel like this ought to be the easiest question ever to anyone who could recite the random trivia questions he just asked. You don’t have to be a hardcore fan to know the main character’s catchphrase, dood. -Starfish}
 Dialogue: 0,0:02:03.21,0:02:05.62,Main,Rotom,0,0,0,,You might fancy yourself a trickster...
-Dialogue: 0,0:02:05.62,0:02:08.98,Main,Rotom,0,0,0,,But there’s no fooling the eyes of Lucky, \N nor the blue sea of Alola!
-Dialogue: 0,0:02:08.98,0:02:13.48,Main,Rotom,0,0,0,,Resolution rate: 100%! \N Alolan Detective Lucky’s deductions...
+Dialogue: 0,0:02:05.62,0:02:08.98,Main,Rotom,0,0,0,,But there’s no fooling the eyes of Laki, \N nor the blue sea of Alola!
+Dialogue: 0,0:02:08.98,0:02:13.48,Main,Rotom,0,0,0,,Resolution rate: 100%! \N Alolan Detective Laki’s deductions...
 Dialogue: 0,0:02:13.48,0:02:15.03,Main,Rotom,0,0,0,,...never miss the mark!
-Dialogue: 0,0:02:15.03,0:02:19.11,Main,Lucky,0,0,0,,You really {\i1}are{\i0} a fan of this show! \N Thank you!
-Dialogue: 0,0:02:19.11,0:02:22.99,Main,Rotom,0,0,0,,I got to shake hands \N with the real Lucky-roto!
+Dialogue: 0,0:02:15.03,0:02:19.11,Main,Laki,0,0,0,,You really {\i1}are{\i0} a fan of this show! \N Thank you!
+Dialogue: 0,0:02:19.11,0:02:22.99,Main,Rotom,0,0,0,,I got to shake hands \N with the real Laki-roto!
 Dialogue: 0,0:02:22.99,0:02:26.16,Main,Satoshi,0,0,0,,Rotom, you can’t get in the way \N of the shoot!
 Dialogue: 0,0:02:27.49,0:02:28.97,Main,Satoshi,0,0,0,,We’ll leave now!
 Dialogue: 0,0:02:28.97,0:02:31.79,Main,George,0,0,0,,Good! No worries! {A lot of George's lines read a little weird, but I figured that was the point, so no suggestions were made. - Toa}{Well at least this was definitely deliberate. The JP is "ii nee ii yo", which is clearly a catchphrase for him and it's... tricky to work with. The dub has "Nice! Excellent!" which... ugh, damn you dub for making me think of a most irritating character who would not debut for roughly another year. -Starfish}
-Dialogue: 0,0:02:32.61,0:02:35.95,Main,George,0,0,0,,I’m the producer of \N Alolan Detective Lucky...
+Dialogue: 0,0:02:32.61,0:02:35.95,Main,George,0,0,0,,I’m the producer of \N Alolan Detective Laki...
 Dialogue: 0,0:02:36.73,0:02:38.05,Main,George,0,0,0,,George Charanpino!
 Dialogue: 0,0:02:38.05,0:02:39.73,Main,George,0,0,0,,It’s a pleasure to meet you!
 Dialogue: 0,0:02:41.05,0:02:43.42,Main,George,0,0,0,,Really, you’re good! \N No worries!
 Dialogue: 0,0:02:43.42,0:02:46.69,Main,George,0,0,0,,A person... or Pokémon, rather... \N A Pokémon this fascinating...
 Dialogue: 0,0:02:46.69,0:02:48.55,Main,George,0,0,0,,...is a rare sight to see!
-Dialogue: 0,0:02:48.55,0:02:51.52,Main,George,0,0,0,,Would you like to be in \N Alolan Detective Lucky?
+Dialogue: 0,0:02:48.55,0:02:51.52,Main,George,0,0,0,,Would you like to be in \N Alolan Detective Laki?
 Dialogue: 0,0:02:53.09,0:02:54.19,Main,Satoshi,0,0,0,,Who, Rotom?
 Comment: 0,0:02:56.53,0:02:56.53,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:24.49,0:04:24.49,Main,,0,0,0,,{Part B}
-Dialogue: 0,0:04:36.00,0:04:40.63,Main,George,0,0,0,,I’m sure you know that Alolan Detective Lucky, \N currently airing, is a huge hit with audiences,
+Dialogue: 0,0:04:36.00,0:04:40.63,Main,George,0,0,0,,I’m sure you know that Alolan Detective Laki, \N currently airing, is a huge hit with audiences,
 Dialogue: 0,0:04:40.63,0:04:44.38,Main,George,0,0,0,,and that we’re \N shooting season 5 right now.
 Dialogue: 0,0:04:44.38,0:04:46.79,Main,Rotom,0,0,0,,I never miss an episode-roto!
-Dialogue: 0,0:04:46.79,0:04:48.29,Main,Lucky,0,0,0,,Thank you!
+Dialogue: 0,0:04:46.79,0:04:48.29,Main,Laki,0,0,0,,Thank you!
 Dialogue: 0,0:04:48.29,0:04:49.59,Main,Satoshi,0,0,0,,I’m watching it, too!
 Dialogue: 0,0:04:49.59,0:04:52.76,Main,Rotom,0,0,0,,Satoshi always falls asleep \N halfway through-roto!
 Dialogue: 0,0:04:54.58,0:04:59.65,Main,George,0,0,0,,But you know, with long series, \N you tend to fall into a rut after a while...
@@ -190,26 +190,26 @@ Dialogue: 0,0:04:59.65,0:05:03.53,Main,George,0,0,0,,I’ve been wanting to do \
 Dialogue: 0,0:05:03.95,0:05:05.27,Main,Satoshi,0,0,0,,Impactful?
 Dialogue: 0,0:05:05.27,0:05:06.53,Main,George,0,0,0,,So I was thinking...
 Dialogue: 0,0:05:06.53,0:05:09.37,Main,George,0,0,0,,...the explosive debut of \N a new character!
-Dialogue: 0,0:05:09.37,0:05:13.36,Main,George,0,0,0,,The dynamic duo of Lucky \N and Doble gets a new partner!
+Dialogue: 0,0:05:09.37,0:05:13.36,Main,George,0,0,0,,The dynamic duo of Laki \N and Doble gets a new partner!
 Dialogue: 0,0:05:13.36,0:05:16.37,Main,George,0,0,0,,Well? What do you think? \N Pretty impactful, right?!
 Dialogue: 0,0:05:16.37,0:05:18.64,Main,Satoshi,0,0,0,,A new partner, huh?
 Dialogue: 0,0:05:19.94,0:05:22.84,Main,Satoshi,0,0,0,,Yeah! It’s always exciting \N to get new friends!
 Dialogue: 0,0:05:22.84,0:05:27.04,Main,George,0,0,0,,The problem lies in \N what kind of partner to give them...
-Dialogue: 0,0:05:27.04,0:05:31.02,Main,George,0,0,0,,Someone who can work well with Lucky and Doble, \N while being both engaging and unique!
+Dialogue: 0,0:05:27.04,0:05:31.02,Main,George,0,0,0,,Someone who can work well with Laki and Doble, \N while being both engaging and unique!
 Dialogue: 0,0:05:31.02,0:05:33.31,Main,George,0,0,0,,And just as we were looking \N for someone like that,
 Dialogue: 0,0:05:33.31,0:05:36.62,Main,George,0,0,0,,we meet you! \N Good! No worries!
 Dialogue: 0,0:05:36.62,0:05:39.15,Main,George,0,0,0,,Please, be in my show, \N my dear Rotom!
-Dialogue: 0,0:05:39.15,0:05:43.03,Main,Lucky,0,0,0,,I agree. We can tell some \N great stories with you.
-Dialogue: 0,0:05:43.03,0:05:44.00,Main,Lucky,0,0,0,,Right, Doble?
+Dialogue: 0,0:05:39.15,0:05:43.03,Main,Laki,0,0,0,,I agree. We can tell some \N great stories with you.
+Dialogue: 0,0:05:43.03,0:05:44.00,Main,Laki,0,0,0,,Right, Doble?
 Dialogue: 0,0:05:44.90,0:05:48.03,Main,Rotom,0,0,0,,I’ll do it-roto! \N I’ll absolutely do it-roto!
 Dialogue: 0,0:05:48.90,0:05:51.61,Main,Rotom,0,0,0,,{\an8}Hooray-roto!
 Dialogue: 0,0:05:48.03,0:05:51.15,Main,Satoshi,0,0,0,,Awesome! \N Rotom’s gonna be on TV?!
 Dialogue: 0,0:05:51.61,0:05:53.63,Main,Rotom,0,0,0,,It’s like I’m dreaming-roto!
-Dialogue: 0,0:05:55.55,0:05:59.38,Main,Rotom Channeling Lucky,0,0,0,,Alolan Detective Lucky’s deductions \N never miss the mark!
+Dialogue: 0,0:05:55.55,0:05:59.38,Main,Rotom Channeling Laki,0,0,0,,Alolan Detective Laki’s deductions \N never miss the mark!
 Dialogue: 0,0:05:59.38,0:06:03.21,Main,Satoshi,0,0,0,,So you see, Rotom’s been \N flying high since yesterday. {Fixed the speaker tag.}
-Dialogue: 0,0:06:03.21,0:06:06.67,Main,Mao,0,0,0,,You get to be in Alolan Detective Lucky? \N That’s incredible!
+Dialogue: 0,0:06:03.21,0:06:06.67,Main,Mao,0,0,0,,You get to be in Alolan Detective Laki? \N That’s incredible!
 Dialogue: 0,0:06:06.67,0:06:08.05,Main,Suiren,0,0,0,,Yeah, amazing!
-Dialogue: 0,0:06:08.05,0:06:11.11,Main,Satoshi,0,0,0,,But he’s just been doing \N Lucky impressions non-stop!
+Dialogue: 0,0:06:08.05,0:06:11.11,Main,Satoshi,0,0,0,,But he’s just been doing \N Laki impressions non-stop!
 Dialogue: 0,0:06:11.11,0:06:13.31,Main,Rotom,0,0,0,,I can do others, too-roto!
 Dialogue: 0,0:06:13.31,0:06:15.64,Main,Rotom Channeling Satoshi,0,0,0,,“I’m Satoshi from Masara Town!”
 Dialogue: 0,0:06:15.64,0:06:17.17,Main,Rotom Channeling Satoshi,0,0,0,,“I’ll get Pokémon!”
@@ -272,10 +272,10 @@ Dialogue: 0,0:08:43.33,0:08:47.13,Main,Rotom,0,0,0,,Really-roto? \N I really am 
 Dialogue: 0,0:08:47.13,0:08:49.23,Main,Satoshi,0,0,0,,Rotom sure is cocky...
 Dialogue: 0,0:08:50.58,0:08:53.62,Main,Lilie,0,0,0,,Rotom will be \N quite busy from now on.
 Dialogue: 0,0:08:53.62,0:08:57.04,Main,Satoshi,0,0,0,,Yeah... But if you’re doing what you love, \N it barely even feels like work!
-Dialogue: 0,0:09:00.22,0:09:04.97,Main,Lucky,0,0,0,,Rotom... Your data will help me \N solve all kinds of crimes.
-Dialogue: 0,0:09:04.97,0:09:06.65,Main,Lucky,0,0,0,,Please, work with me.
+Dialogue: 0,0:09:00.22,0:09:04.97,Main,Laki,0,0,0,,Rotom... Your data will help me \N solve all kinds of crimes.
+Dialogue: 0,0:09:04.97,0:09:06.65,Main,Laki,0,0,0,,Please, work with me.
 Dialogue: 0,0:09:06.65,0:09:11.11,Main,Rotom,0,0,0,,Very well-roto! \N I swear I’ll be of use to you-roto!
-Dialogue: 0,0:09:15.61,0:09:17.07,Main,Lucky,0,0,0,,How was that?
+Dialogue: 0,0:09:15.61,0:09:17.07,Main,Laki,0,0,0,,How was that?
 Dialogue: 0,0:09:17.07,0:09:20.93,Main,George,0,0,0,,Good! No worries! \N You’re in perfect sync!
 Dialogue: 0,0:09:20.93,0:09:24.37,Main,George,0,0,0,,But I would like for it to be \N just a {\i1}bit{\i0} more impactful...
 Dialogue: 0,0:09:24.37,0:09:27.07,Main,George,0,0,0,,How about you perform an action \N for the end of your line?
@@ -293,8 +293,8 @@ Dialogue: 0,0:09:53.94,0:09:54.95,Main,George,0,0,0,,Congratulations!
 Dialogue: 0,0:09:54.95,0:09:57.76,Main,George,0,0,0,,Now you’re one of the \N Alolan Detective’s partners!
 Dialogue: 0,0:09:57.76,0:09:59.22,Main,Rotom,0,0,0,,I’ll do my best-roto!
 Dialogue: 0,0:09:59.22,0:10:01.05,Main,Satoshi,0,0,0,,Congratulations, Rotom!
-Dialogue: 0,0:10:01.87,0:10:03.61,Main,Lucky,0,0,0,,I look forward to \N working with you,
-Dialogue: 0,0:10:03.61,0:10:05.38,Main,Lucky,0,0,0,,my new partner!
+Dialogue: 0,0:10:01.87,0:10:03.61,Main,Laki,0,0,0,,I look forward to \N working with you,
+Dialogue: 0,0:10:03.61,0:10:05.38,Main,Laki,0,0,0,,my new partner!
 Dialogue: 0,0:10:05.38,0:10:07.45,Main,Rotom,0,0,0,,The pleasuroto’s all mine!
 Dialogue: 0,0:10:08.25,0:10:10.40,Main,George,0,0,0,,And there’s even more big news!
 Dialogue: 0,0:10:10.40,0:10:12.75,Main,George,0,0,0,,We’re going to shoot \N on-location overseas!
@@ -305,7 +305,7 @@ Dialogue: 0,0:10:24.64,0:10:26.39,Main,George,0,0,0,,All eyes will be on the sho
 Dialogue: 0,0:10:26.81,0:10:29.42,Main,George,0,0,0,,Of course, Rotom, \N you’ll have to come, too...
 Dialogue: 0,0:10:29.42,0:10:31.26,Main,George,0,0,0,,So get ready!
 Dialogue: 0,0:10:31.26,0:10:32.65,Main,Rotom,0,0,0,,Understood-roto!
-Dialogue: 0,0:10:35.08,0:10:36.81,Main,Lucky,0,0,0,,Pocket Monsters...
+Dialogue: 0,0:10:35.08,0:10:36.81,Main,Laki,0,0,0,,Pocket Monsters...
 Dialogue: 0,0:10:36.81,0:10:39.46,Main,Rotom,0,0,0,,Sun & Moon-roto!
 Comment: 0,0:10:40.53,0:10:40.53,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:10:41.49,0:10:43.50,Main,Satoshi,0,0,0,,I’ll get Pokémon!
@@ -362,23 +362,23 @@ Dialogue: 0,0:12:55.31,0:12:56.72,Main,Kukui,0,0,0,,Well, you see...
 Dialogue: 0,0:12:58.06,0:13:01.47,Main,Satoshi,0,0,0,,{\i1}Feathers, feathers, \N Pokémon feathers!{\i0} {Very much down to preference, but would suggest styling the line with italics rather than the tilde. - Toa}
 Dialogue: 0,0:13:05.44,0:13:07.14,Main,Satoshi,0,0,0,,Thanks, Pikachu!
 Dialogue: 0,0:13:08.29,0:13:11.16,Main,Satoshi,0,0,0,,What kind of feather \N was this again, Rotom?
-Dialogue: 0,0:13:18.04,0:13:19.56,Main,Lucky,0,0,0,,The culprit is...{Changed for consistency with his other appearances. -Starfish}
-Dialogue: 0,0:13:20.90,0:13:22.03,Main,Lucky,0,0,0,,...you!
+Dialogue: 0,0:13:18.04,0:13:19.56,Main,Laki,0,0,0,,The culprit is...{Changed for consistency with his other appearances. -Starfish}
+Dialogue: 0,0:13:20.90,0:13:22.03,Main,Laki,0,0,0,,...you!
 Dialogue: 0,0:13:22.46,0:13:24.30,Main,Human being,0,0,0,,Cut!
 Dialogue: 0,0:13:24.30,0:13:25.90,Main,Human being,0,0,0,,Time to take a break!
-Dialogue: 0,0:13:28.74,0:13:30.90,Main,Lucky,0,0,0,,How was my acting?
+Dialogue: 0,0:13:28.74,0:13:30.90,Main,Laki,0,0,0,,How was my acting?
 Dialogue: 0,0:13:30.90,0:13:33.34,Main,Rotom,0,0,0,,I-It was great-roto!
 Dialogue: 0,0:13:33.34,0:13:34.48,Main,Rotom,0,0,0,,As always-roto!{SASUGA-ROTO. -Starfish}
-Dialogue: 0,0:13:34.48,0:13:35.29,Main,Lucky,0,0,0,,Thank you.
-Dialogue: 0,0:13:38.33,0:13:39.90,Main,Lucky,0,0,0,,After you get introduced,{Cut Rotom's name out for CPS reasons. -Starfish}
-Dialogue: 0,0:13:39.90,0:13:43.09,Main,Lucky,0,0,0,,I’m sure we’ll become \N a phenomenal team!
-Dialogue: 0,0:13:43.53,0:13:44.31,Main,Lucky,0,0,0,,Oh, yeah.
-Dialogue: 0,0:13:44.31,0:13:49.26,Main,Lucky,0,0,0,,Would you like to come over to my place today, \N so we can get to know each other better?
+Dialogue: 0,0:13:34.48,0:13:35.29,Main,Laki,0,0,0,,Thank you.
+Dialogue: 0,0:13:38.33,0:13:39.90,Main,Laki,0,0,0,,After you get introduced,{Cut Rotom's name out for CPS reasons. -Starfish}
+Dialogue: 0,0:13:39.90,0:13:43.09,Main,Laki,0,0,0,,I’m sure we’ll become \N a phenomenal team!
+Dialogue: 0,0:13:43.53,0:13:44.31,Main,Laki,0,0,0,,Oh, yeah.
+Dialogue: 0,0:13:44.31,0:13:49.26,Main,Laki,0,0,0,,Would you like to come over to my place today, \N so we can get to know each other better?
 Dialogue: 0,0:13:49.63,0:13:50.97,Main,Rotom,0,0,0,,Really-roto?!
 Dialogue: 0,0:13:50.97,0:13:54.64,Main,Rotom,0,0,0,,I’ll go-roto! \N Hooray-roto!
 Dialogue: 0,0:14:07.07,0:14:10.41,Main,Lilie,0,0,0,,Satoshi, can we talk for a little?
 Dialogue: 0,0:14:10.41,0:14:11.78,Main,Satoshi,0,0,0,,Talk?
-Dialogue: 0,0:14:14.46,0:14:19.80,Main,Lilie,0,0,0,,Professor Kukui told us that \N Rotom is going overseas to film Lucky.
+Dialogue: 0,0:14:14.46,0:14:19.80,Main,Lilie,0,0,0,,Professor Kukui told us that \N Rotom is going overseas to film Laki.
 Dialogue: 0,0:14:21.85,0:14:24.42,Main,Lilie,0,0,0,,I understand how you feel.
 Dialogue: 0,0:14:25.26,0:14:29.70,Main,Lilie,0,0,0,,Back when I first started \N living away from Mother,
 Dialogue: 0,0:14:29.70,0:14:33.27,Main,Lilie,0,0,0,,I cried and complained so much.
@@ -408,31 +408,31 @@ Dialogue: 0,0:16:00.28,0:16:01.40,Main,Satoshi,0,0,0,,Lilie...
 Dialogue: 0,0:16:02.60,0:16:03.73,Main,Satoshi,0,0,0,,Yeah.
 Dialogue: 0,0:16:03.73,0:16:06.55,Main,Satoshi,0,0,0,,I’ll go talk to Rotom!
 Dialogue: 0,0:16:06.55,0:16:07.39,Main,Lilie,0,0,0,,Wonderful!
-Dialogue: 0,0:16:14.81,0:16:18.05,Main,Rotom,0,0,0,,It’s Lucky’s room-roto! \N Amazing-roto!
+Dialogue: 0,0:16:14.81,0:16:18.05,Main,Rotom,0,0,0,,It’s Laki’s room-roto! \N Amazing-roto!
 Dialogue: 0,0:16:18.77,0:16:21.29,Main,Rotom,0,0,0,,You look so cool-roto!
 Dialogue: 0,0:16:21.29,0:16:23.85,Main,Rotom,0,0,0,,Doble’s just killing it, too-roto! {I think this line reads a little weird for Rotom, but I have no better ideas. - Toa}
 Dialogue: 0,0:16:25.11,0:16:26.95,Main,Rotom,0,0,0,,What’s this poster for-roto?
-Dialogue: 0,0:16:26.95,0:16:32.15,Main,Lucky,0,0,0,,Oh, that? It’s a poster from a play I was in \N back before I made it big.
-Dialogue: 0,0:16:32.69,0:16:35.48,Main,Lucky,0,0,0,,Look, that’s me there.
+Dialogue: 0,0:16:26.95,0:16:32.15,Main,Laki,0,0,0,,Oh, that? It’s a poster from a play I was in \N back before I made it big.
+Dialogue: 0,0:16:32.69,0:16:35.48,Main,Laki,0,0,0,,Look, that’s me there.
 Dialogue: 0,0:16:36.33,0:16:38.41,Main,Rotom,0,0,0,,That’s you-roto?
-Dialogue: 0,0:16:38.41,0:16:41.85,Main,Lucky,0,0,0,,It’s not like I got to play \N big roles from day one.
-Dialogue: 0,0:16:42.63,0:16:46.06,Main,Lucky,0,0,0,,At first, all I got were bit parts \N with almost no lines,
-Dialogue: 0,0:16:46.06,0:16:48.73,Main,Lucky,0,0,0,,making me wonder if \N I just didn’t have it in me,
-Dialogue: 0,0:16:48.73,0:16:51.84,Main,Lucky,0,0,0,,and if I should just quit acting.
-Dialogue: 0,0:16:52.39,0:16:58.12,Main,Lucky,0,0,0,,But being an actor had been my dream since I was a kid, \N and I didn’t want to give up on it.
-Dialogue: 0,0:16:58.12,0:17:02.87,Main,Lucky,0,0,0,,The only reason I am where I am today \N is because I never gave up on my dream.
-Dialogue: 0,0:17:02.87,0:17:04.61,Main,Lucky,0,0,0,,Right, Doble?
+Dialogue: 0,0:16:38.41,0:16:41.85,Main,Laki,0,0,0,,It’s not like I got to play \N big roles from day one.
+Dialogue: 0,0:16:42.63,0:16:46.06,Main,Laki,0,0,0,,At first, all I got were bit parts \N with almost no lines,
+Dialogue: 0,0:16:46.06,0:16:48.73,Main,Laki,0,0,0,,making me wonder if \N I just didn’t have it in me,
+Dialogue: 0,0:16:48.73,0:16:51.84,Main,Laki,0,0,0,,and if I should just quit acting.
+Dialogue: 0,0:16:52.39,0:16:58.12,Main,Laki,0,0,0,,But being an actor had been my dream since I was a kid, \N and I didn’t want to give up on it.
+Dialogue: 0,0:16:58.12,0:17:02.87,Main,Laki,0,0,0,,The only reason I am where I am today \N is because I never gave up on my dream.
+Dialogue: 0,0:17:02.87,0:17:04.61,Main,Laki,0,0,0,,Right, Doble?
 Dialogue: 0,0:17:06.51,0:17:08.01,Main,Rotom,0,0,0,,Dream...
 Dialogue: 0,0:17:08.01,0:17:11.31,Main,Satoshi,0,0,0,,My dream is to be a Pokémon Master!
 Dialogue: 0,0:17:12.29,0:17:14.57,Main,Satoshi,0,0,0,,{\fad(0,300)}I’ll never, ever give up!
-Dialogue: 0,0:17:15.47,0:17:18.76,Main,Lucky,0,0,0,,What’s your dream, Rotom?{So for Lucky (and Rotom's imitations of him) I tend to translate the "-kun" as "my dear [NAME]" as a Sherlock Holmes reference, but in this particular case that sounds wrong so... not doing that here. Chalk it up to him NOT playing a part right here I guess. -Starfish}
+Dialogue: 0,0:17:15.47,0:17:18.76,Main,Laki,0,0,0,,What’s your dream, Rotom?{So for Laki (and Rotom's imitations of him) I tend to translate the "-kun" as "my dear [NAME]" as a Sherlock Holmes reference, but in this particular case that sounds wrong so... not doing that here. Chalk it up to him NOT playing a part right here I guess. -Starfish}
 Dialogue: 0,0:17:19.43,0:17:21.01,Main,Rotom,0,0,0,,My dream...
 Dialogue: 0,0:17:33.33,0:17:35.47,Main,Rotom,0,0,0,,The culprit is... you!
-Dialogue: 0,0:17:44.79,0:17:47.42,Main,Satoshi,0,0,0,,Um, Mr. Lucky... \N Where is Rotom?
-Dialogue: 0,0:17:48.57,0:17:50.29,Main,Lucky,0,0,0,,I knew you’d be here.
-Dialogue: 0,0:17:50.29,0:17:52.81,Main,Lucky,0,0,0,,Rotom is right here.{Oh and given what is going on, "My dear Rotom" makes even LESS sense here. Yay finding two instances IN A ROW where it doesn't work. :| -Starfish}
+Dialogue: 0,0:17:44.79,0:17:47.42,Main,Satoshi,0,0,0,,Um, Mr. Laki... \N Where is Rotom?
+Dialogue: 0,0:17:48.57,0:17:50.29,Main,Laki,0,0,0,,I knew you’d be here.
+Dialogue: 0,0:17:50.29,0:17:52.81,Main,Laki,0,0,0,,Rotom is right here.{Oh and given what is going on, "My dear Rotom" makes even LESS sense here. Yay finding two instances IN A ROW where it doesn't work. :| -Starfish}
 Dialogue: 0,0:17:52.81,0:17:54.09,Main,Rotom,0,0,0,,Why’d you tell him-roto?!
-Dialogue: 0,0:17:54.09,0:17:57.47,Main,Lucky,0,0,0,,Because I thought \N you should talk things through!
+Dialogue: 0,0:17:54.09,0:17:57.47,Main,Laki,0,0,0,,Because I thought \N you should talk things through!
 Dialogue: 0,0:17:58.11,0:17:59.72,Main,Satoshi,0,0,0,,Um, Rotom...
 Dialogue: 0,0:18:00.85,0:18:01.89,Main,Rotom,0,0,0,,What-roto?
 Dialogue: 0,0:18:03.03,0:18:05.83,Main,Satoshi,0,0,0,,I’m sorry I yelled at you!
@@ -460,21 +460,21 @@ Dialogue: 0,0:19:02.73,0:19:03.80,Main,Satoshi,0,0,0,,Wait, Rotom!
 Dialogue: 0,0:19:03.80,0:19:04.69,Main,Rotom,0,0,0,,Not a chance-roto!
 Dialogue: 0,0:19:04.69,0:19:05.49,Main,Satoshi,0,0,0,,Wait!
 Dialogue: 0,0:19:05.49,0:19:07.42,Main,Rotom,0,0,0,,I said I wouldn’t, \N and that’s final-roto!
-Dialogue: 0,0:19:07.42,0:19:10.61,Main,Lucky,0,0,0,,They make a great duo... \N Just like us.
+Dialogue: 0,0:19:07.42,0:19:10.61,Main,Laki,0,0,0,,They make a great duo... \N Just like us.
 Dialogue: 0,0:19:18.33,0:19:20.34,Main,Rotom,0,0,0,,You can’t fall asleep today-roto! {Was this episode filmed in Galar?!? - Toa}
 Dialogue: 0,0:19:20.34,0:19:24.33,Main,Satoshi,0,0,0,,I wanna see how \N things turned out after that, too!
-Dialogue: 0,0:19:25.53,0:19:26.43,Main,Lucky,0,0,0,,My dear Perap.
-Dialogue: 0,0:19:27.23,0:19:31.12,Main,Lucky,0,0,0,,Your data will help me \N solve all kinds of crimes.
-Dialogue: 0,0:19:31.12,0:19:33.11,Main,Lucky,0,0,0,,Please, work with me.
+Dialogue: 0,0:19:25.53,0:19:26.43,Main,Laki,0,0,0,,My dear Perap.
+Dialogue: 0,0:19:27.23,0:19:31.12,Main,Laki,0,0,0,,Your data will help me \N solve all kinds of crimes.
+Dialogue: 0,0:19:31.12,0:19:33.11,Main,Laki,0,0,0,,Please, work with me.
 Dialogue: 0,0:19:33.73,0:19:35.41,Main,Perap,0,0,0,,Very well-pera!
 Dialogue: 0,0:19:36.21,0:19:38.61,Main,Perap,0,0,0,,I swear I’ll be of use to you-pera!
 Dialogue: 0,0:19:38.61,0:19:42.41,Main,Kukui,0,0,0,,I didn’t expect them to \N replace Rotom with a Perap.
-Dialogue: 0,0:19:44.15,0:19:47.24,Main,Lucky,0,0,0,,Alolan Detective Lucky’s deductions...
-Dialogue: 0,0:19:47.24,0:19:48.79,Main,Rotom & Lucky,0,0,0,,...never miss the mark!
-Dialogue: 0,0:19:49.17,0:19:52.70,Main,Lucky,0,0,0,,Let’s go back to Alola, \N my dear Doble and Perap.
+Dialogue: 0,0:19:44.15,0:19:47.24,Main,Laki,0,0,0,,Alolan Detective Laki’s deductions...
+Dialogue: 0,0:19:47.24,0:19:48.79,Main,Rotom & Laki,0,0,0,,...never miss the mark!
+Dialogue: 0,0:19:49.17,0:19:52.70,Main,Laki,0,0,0,,Let’s go back to Alola, \N my dear Doble and Perap.
 Dialogue: 0,0:19:54.95,0:19:56.42,Main,Satoshi,0,0,0,,They’re coming back to Alola?!
 Dialogue: 0,0:19:57.02,0:19:59.42,Main,Rotom,0,0,0,,That’s right-roto! \N George said...
-Dialogue: 0,0:19:59.42,0:20:02.85,Main,George,0,0,0,,Alolan Detective Lucky’s \N gotta stay in Alola, you know?
+Dialogue: 0,0:19:59.42,0:20:02.85,Main,George,0,0,0,,Alolan Detective Laki’s \N gotta stay in Alola, you know?
 Dialogue: 0,0:20:02.85,0:20:04.80,Main,George,0,0,0,,I mean, we’d have to \N change the title and everything!
 Dialogue: 0,0:20:04.80,0:20:08.04,Main,Rotom,0,0,0,,So the overseas location shoot \N was just for one episode-roto!
 Dialogue: 0,0:20:08.68,0:20:10.39,Main,Satoshi,0,0,0,,Are you kidding me?
@@ -494,11 +494,11 @@ Dialogue: 0,0:23:37.83,0:23:40.14,Main,Rotom,0,0,0,,It can learn and speak \N hu
 Dialogue: 0,0:23:40.14,0:23:43.77,Main,Rotom,0,0,0,,Hiring Perap was the director’s idea-roto!
 Dialogue: 0,0:23:44.47,0:23:45.77,Main,Human being,0,0,0,,Get ready...
 Dialogue: 0,0:23:45.77,0:23:46.44,Main,Human being,0,0,0,,Action!
-Dialogue: 0,0:23:46.44,0:23:49.11,Main,Lucky,0,0,0,,You might fancy yourself a trickster...
-Dialogue: 0,0:23:49.11,0:23:50.19,Main,Lucky,0,0,0,,{\an8}But there—
-Dialogue: 0,0:23:49.11,0:23:52.78,Main,Perap,0,0,0,,But there’s no fooling the eyes of Lucky, \N nor the blue sea of Alola!
+Dialogue: 0,0:23:46.44,0:23:49.11,Main,Laki,0,0,0,,You might fancy yourself a trickster...
+Dialogue: 0,0:23:49.11,0:23:50.19,Main,Laki,0,0,0,,{\an8}But there—
+Dialogue: 0,0:23:49.11,0:23:52.78,Main,Perap,0,0,0,,But there’s no fooling the eyes of Laki, \N nor the blue sea of Alola!
 Dialogue: 0,0:23:53.60,0:23:54.24,Main,Human being,0,0,0,,Cut!
-Dialogue: 0,0:23:55.09,0:23:57.74,Main,Lucky,0,0,0,,Perap, that was my line...
+Dialogue: 0,0:23:55.09,0:23:57.74,Main,Laki,0,0,0,,Perap, that was my line...
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.35,0:24:03.08,Main,Ho & Sui,0,0,0,,I wanna get Pokémon!
 Dialogue: 0,0:24:03.08,0:24:04.17,Main,Ho & Sui,0,0,0,,Me, too!

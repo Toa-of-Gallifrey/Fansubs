@@ -127,7 +127,7 @@ Dialogue: 0,0:00:12.99,0:00:15.49,Main,Mao,0,0,0,,Get the answer at the end of t
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:17.28,0:00:19.45,Main,Narrator,0,0,0,,The exhibition match between...
 Dialogue: 0,0:00:19.45,0:00:23.83,Main,Narrator,0,0,0,,...the Alola Pokémon League’s first Champion Satoshi \N and Kukui, a.k.a. Royal Mask.
-Dialogue: 0,0:00:25.00,0:00:27.46,Main,Narrator,0,0,0,,This full 6v6 battle...
+Dialogue: 0,0:00:25.00,0:00:27.46,Main,Narrator,0,0,0,,This 6v6 full battle...
 Dialogue: 0,0:00:27.46,0:00:30.17,Main,Narrator,0,0,0,,...turned into an intense clash with \N frequent switch-outs.
 Dialogue: 0,0:00:31.13,0:00:33.76,Main,Narrator,0,0,0,,Professor Kukui kept up \N a powerful offense,
 Dialogue: 0,0:00:34.30,0:00:37.14,Main,Narrator,0,0,0,,but Satoshi and his Pokémon \N fought back with intense resolve.
@@ -166,10 +166,10 @@ Dialogue: 0,0:04:53.10,0:04:54.44,Main,Mamane,0,0,0,,Keep it up!
 Dialogue: 0,0:04:54.44,0:04:56.48,Main,Kaki,0,0,0,,It’s gotten into the rhythm of battling!
 Dialogue: 0,0:04:56.85,0:04:59.19,Main,Burnet,0,0,0,,Seems they’re evenly matched.
 Dialogue: 0,0:04:59.19,0:05:00.36,Main,Hanako,0,0,0,,Yes.
-Dialogue: 0,0:05:00.86,0:05:01.73,Main,Kukui,0,0,0,,Extreme Speed!
+Dialogue: 0,0:05:00.86,0:05:01.73,Main,Kukui,0,0,0,,Divine Speed!
 Dialogue: 0,0:05:09.07,0:05:10.20,Main,Satoshi,0,0,0,,Use Cross Scissor!
 Dialogue: 0,0:05:14.20,0:05:15.46,Main,Kukui,0,0,0,,Go!
-Dialogue: 0,0:05:21.09,0:05:23.51,Main,Jeekyo,0,0,0,,Extreme Speed is fearsome!
+Dialogue: 0,0:05:21.09,0:05:23.51,Main,Jeekyo,0,0,0,,Divine Speed is fearsome!
 Dialogue: 0,0:05:23.51,0:05:27.89,Main,Jeekyo,0,0,0,,Lucario is even faster \N than the soaring Agoyon!
 Dialogue: 0,0:05:28.93,0:05:30.05,Main,Satoshi,0,0,0,,Agoyon!
 Dialogue: 0,0:05:30.43,0:05:32.43,Main,Mao,0,0,0,,I couldn’t see it at all!

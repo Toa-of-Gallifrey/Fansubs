@@ -146,7 +146,7 @@ Dialogue: 0,0:04:33.81,0:04:35.14,Main,Lilie,0,0,0,,Snowball, use Powder...
 Dialogue: 0,0:04:35.14,0:04:37.52,Main,Lilie,0,0,0,,No... Run!
 Dialogue: 0,0:04:37.52,0:04:39.31,Main,Mamane,0,0,0,,Stop!
 Dialogue: 0,0:04:39.31,0:04:43.01,Main,Kukui,0,0,0,,Orders in a Pokémon battles need to be given \N clearly and with confidence!
-Dialogue: 0,0:04:43.65,0:04:47.80,Main,Kukui,0,0,0,,If a trainer hesitates, the Destiny Bond they share \N with their Pokémon will cause {\i1}them{\i0} to hesitate, too.
+Dialogue: 0,0:04:43.65,0:04:47.80,Main,Kukui,0,0,0,,If a trainer hesitates, their Pokémon \N will be Dragged Along and hesitate, too!{If a trainer hesitates, the Destiny Bond they share \N with their Pokémon will cause {\i1}them{\i0} to hesitate, too.}
 Dialogue: 0,0:04:48.20,0:04:49.24,Main,Them,0,0,0,,Got it!
 Dialogue: 0,0:04:49.24,0:04:50.41,Main,Kukui,0,0,0,,Well then, start!
 Dialogue: 0,0:04:50.41,0:04:53.07,Main,Satoshi,0,0,0,,All right... Nyabby, use Fire Fang!
@@ -405,15 +405,15 @@ Dialogue: 0,0:23:44.87,0:23:46.44,Main,Mamane,0,0,0,,What are you watching?
 Dialogue: 0,0:23:47.88,0:23:50.20,Main,Mamane,0,0,0,,Rotom, turn up the sound.
 Dialogue: 0,0:23:50.20,0:23:52.07,Main,Rotom,0,0,0,,Roger that-roto!
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.04,0:24:03.33,Main,Rotom,0,0,0,,It’s time for Detective Lucky-roto!
-Dialogue: 0,0:24:03.33,0:24:06.21,Main,Lucky,0,0,0,,I see. This criminal is very smart.
+Dialogue: 0,0:24:01.04,0:24:03.33,Main,Rotom,0,0,0,,It’s time for Detective Laki-roto!
+Dialogue: 0,0:24:03.33,0:24:06.21,Main,Laki,0,0,0,,I see. This criminal is very smart.
 Dialogue: 0,0:24:06.21,0:24:07.34,Main,Rotom,0,0,0,,He’s solved it already-roto?!
-Dialogue: 0,0:24:07.34,0:24:12.22,Main,Lucky,0,0,0,,The criminal washed away all the evidence \N using this washing machine!
+Dialogue: 0,0:24:07.34,0:24:12.22,Main,Laki,0,0,0,,The criminal washed away all the evidence \N using this washing machine!
 Dialogue: 0,0:24:12.22,0:24:12.86,Main,Rotom,0,0,0,,I see.
-Dialogue: 0,0:24:12.86,0:24:17.72,Main,Lucky,0,0,0,,In other words, the culprit is someone who has \N a deep connection to this washing machine!
+Dialogue: 0,0:24:12.86,0:24:17.72,Main,Laki,0,0,0,,In other words, the culprit is someone who has \N a deep connection to this washing machine!
 Dialogue: 0,0:24:17.72,0:24:19.22,Main,Rotom,0,0,0,,Who is it-roto?
-Dialogue: 0,0:24:19.22,0:24:20.33,Main,Lucky,0,0,0,,It is...
+Dialogue: 0,0:24:19.22,0:24:20.33,Main,Laki,0,0,0,,It is...
 Dialogue: 0,0:24:20.33,0:24:22.69,Main,Rotom,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:22.69,0:24:25.40,Main,Rotom,0,0,0,,Rotom’s Non-Stop Forme-Changing!
-Dialogue: 0,0:24:26.40,0:24:27.54,Main,Lucky,0,0,0,,It is you!
+Dialogue: 0,0:24:26.40,0:24:27.54,Main,Laki,0,0,0,,It is you!
 Dialogue: 0,0:24:27.54,0:24:30.40,Main,Rotom,0,0,0,,Unbelievable!

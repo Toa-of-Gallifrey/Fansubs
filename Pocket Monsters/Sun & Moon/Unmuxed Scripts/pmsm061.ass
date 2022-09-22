@@ -117,16 +117,16 @@ Dialogue: 0,0:00:06.70,0:00:12.58,Main,Rotom,0,0,0,,What is the Ball made to cat
 Dialogue: 0,0:00:12.58,0:00:15.49,Main,Rotom,0,0,0,,Get the answer at \N the end of the episode-roto!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:41.69,0:00:44.35,Main,Human being,0,0,0,,Next, time to film Scene 28!
-Dialogue: 0,0:00:44.35,0:00:45.85,Main,Lucky,0,0,0,,Okay!
+Dialogue: 0,0:00:44.35,0:00:45.85,Main,Laki,0,0,0,,Okay!
 Dialogue: 0,0:00:46.24,0:00:50.45,Main,Human being,0,0,0,,Are you ready? It’s finally time \N to shoot the climactic scene.
 Dialogue: 0,0:00:51.53,0:00:54.41,Main,Human being,0,0,0,,Scene 28, cut 1, take 1!
 Dialogue: 0,0:00:55.04,0:00:56.61,Main,Human being,0,0,0,,Action!
-Dialogue: 0,0:00:57.17,0:01:02.00,Main,Lucky,0,0,0,,The culprit is the only one who \N could have exploited Odoridori’s Teeter Dance.
-Dialogue: 0,0:01:02.75,0:01:05.87,Main,Lucky,0,0,0,,In other words, it is you!
+Dialogue: 0,0:00:57.17,0:01:02.00,Main,Laki,0,0,0,,The culprit is the only one who \N could have exploited Odoridori’s Teeter Dance.
+Dialogue: 0,0:01:02.75,0:01:05.87,Main,Laki,0,0,0,,In other words, it is you!
 Dialogue: 0,0:01:07.55,0:01:08.26,Main,Human being,0,0,0,,Hm?
 Dialogue: 0,0:01:08.26,0:01:09.18,Main,Human being,0,0,0,,What’s that?
 Dialogue: 0,0:01:09.18,0:01:09.96,Main,Human being,0,0,0,,Yeah, what could it be?
-Dialogue: 0,0:01:22.36,0:01:23.31,Main,Lucky,0,0,0,,What is that?!
+Dialogue: 0,0:01:22.36,0:01:23.31,Main,Laki,0,0,0,,What is that?!
 Comment: 0,0:01:29.48,0:01:29.48,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:57.53,0:02:57.53,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:03:07.59,0:03:10.55,Main,Narrator,0,0,0,,It’s another beautiful day \N at the Pokémon School.
@@ -168,8 +168,8 @@ Dialogue: 0,0:06:14.43,0:06:16.78,Main,Them,0,0,0,,{\i1}A-Alola...{\i0}
 Dialogue: 0,0:06:16.78,0:06:19.44,Main,Lilie,0,0,0,,Mother, what is Pixie doing here?
 Dialogue: 0,0:06:19.95,0:06:25.19,Main,Lusamine,0,0,0,,Pixie will be providing assistance \N as a fellow Ultra Guardian.
 Dialogue: 0,0:06:25.83,0:06:27.20,Main,Lusamine,0,0,0,,Have a look at this.
-Dialogue: 0,0:06:27.20,0:06:28.79,Main,Rotom,0,0,0,,It’s Lucky-roto!
-Dialogue: 0,0:06:28.79,0:06:31.95,Main,Lucky,0,0,0,,This is the report of an \N Ultra Beast sighting we’ve received. {Changed the second “the” to “an”. - Toa}
+Dialogue: 0,0:06:27.20,0:06:28.79,Main,Rotom,0,0,0,,It’s Laki-roto!
+Dialogue: 0,0:06:28.79,0:06:31.95,Main,Laki,0,0,0,,This is the report of an \N Ultra Beast sighting we’ve received. {Changed the second “the” to “an”. - Toa}
 Dialogue: 0,0:06:32.78,0:06:35.45,Main,Rotom,0,0,0,,The culprit... is you!
 Dialogue: 0,0:06:36.80,0:06:38.87,Main,Burnet,0,0,0,,Rotom, focus on \N what’s in the background.
 Dialogue: 0,0:06:43.01,0:06:44.71,Main,Satoshi,0,0,0,,That’s an Ultra Beast, too?

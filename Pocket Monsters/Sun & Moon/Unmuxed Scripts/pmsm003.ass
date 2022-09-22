@@ -266,9 +266,9 @@ Dialogue: 0,0:09:15.45,0:09:17.03,Main,Kukui,0,0,0,,...to get a wild Pokémon!
 Dialogue: 0,0:09:17.03,0:09:18.70,Main,Satoshi,0,0,0,,All right!
 Dialogue: 0,0:09:19.20,0:09:21.73,Main,Mao,0,0,0,,I love fieldwork!
 Dialogue: 0,0:09:22.41,0:09:26.50,Main,Kukui,0,0,0,,This will be Satoshi’s first try at \N catching Alolan Pokémon.
-Dialogue: 0,0:09:26.50,0:09:28.84,Main,Kukui,0,0,0,,Help him out, and form \N an everlasting Destiny Bond!
-Dialogue: 0,0:09:28.84,0:09:30.21,Main,Rotom,0,0,0,,Destiny Bond!
-Dialogue: 0,0:09:30.21,0:09:32.34,Main,Rotom,0,0,0,,Destiny Bond. A Ghost-type move.
+Dialogue: 0,0:09:26.50,0:09:28.84,Main,Kukui,0,0,0,,You guys go Drag Along \N and help him out.{Incomplete tentative take. - Toa}
+Dialogue: 0,0:09:28.84,0:09:30.21,Main,Rotom,0,0,0,,Drag Along!
+Dialogue: 0,0:09:30.21,0:09:32.34,Main,Rotom,0,0,0,,Drag Along. A Ghost-type move.
 Dialogue: 0,0:09:32.34,0:09:35.84,Main,Rotom,0,0,0,,If the user is incapacitated in battle, \N they drag the opponent down with them.
 Dialogue: 0,0:09:35.84,0:09:38.55,Main,Rotom,0,0,0,,In other words, a move that \N incapacitates both fighters.
 Dialogue: 0,0:09:38.55,0:09:40.56,Main,Kukui,0,0,0,,Knew I could count on you, Rotom.{SASUGA. -Starfish}
