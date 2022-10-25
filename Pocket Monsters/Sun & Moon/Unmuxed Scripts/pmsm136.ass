@@ -155,9 +155,9 @@ Dialogue: 0,0:03:42.91,0:03:49.70,Main,Jeekyo,0,0,0,,Now, Competitors Kaki and G
 Dialogue: 0,0:03:49.70,0:03:52.50,Main,Kukui,0,0,0,,Who will give \N the first Attack Order?
 Dialogue: 0,0:03:52.50,0:03:54.50,Main,Gladio,0,0,0,,Silvuddy! Air Slash!
 Dialogue: 0,0:03:57.21,0:03:59.76,Main,Kaki,0,0,0,,Bakugames! \N Counter it with Flamethrower!
-Dialogue: 0,0:04:03.72,0:04:05.05,Main,Gladio,0,0,0,,Crush Claw!
+Dialogue: 0,0:04:03.72,0:04:05.05,Main,Gladio,0,0,0,,Break Claw!
 Dialogue: 0,0:04:06.26,0:04:07.26,Main,Kaki,0,0,0,,Dragon Tail!
-Dialogue: 0,0:04:15.60,0:04:17.02,Main,Gladio,0,0,0,,Crush Claw again!
+Dialogue: 0,0:04:15.60,0:04:17.02,Main,Gladio,0,0,0,,Break Claw again!
 Dialogue: 0,0:04:19.03,0:04:20.90,Main,Kaki,0,0,0,,Use Shell Smash, \N Bakugames!
 Dialogue: 0,0:04:24.91,0:04:29.66,Main,Rotom,0,0,0,,Shell Smash has boosted \N Bakugames’s attack-power and speed-roto!
 Dialogue: 0,0:04:36.04,0:04:37.42,Main,Kaki,0,0,0,,Now!
@@ -175,7 +175,7 @@ Dialogue: 0,0:05:57.50,0:06:03.46,Main,Kukui,0,0,0,,He changed Silvuddy into a F
 Dialogue: 0,0:06:03.46,0:06:08.26,Main,Gladio,0,0,0,,The sacred beast Silvuddy, \N clad in a robe of crimson flames!
 Dialogue: 0,0:06:19.77,0:06:23.07,Main,Gladio,0,0,0,,Having become \N the incarnation of fire,
 Dialogue: 0,0:06:23.07,0:06:25.94,Main,Gladio,0,0,0,,there exist no flames on heaven or earth \N that can burn its body!
-Dialogue: 0,0:06:27.24,0:06:29.11,Main,Gladio,0,0,0,,Crush Claw!
+Dialogue: 0,0:06:27.24,0:06:29.11,Main,Gladio,0,0,0,,Break Claw!
 Dialogue: 0,0:06:30.07,0:06:31.07,Main,Kaki,0,0,0,,Use Dragon Tail!
 Dialogue: 0,0:06:48.34,0:06:49.72,Main,Kaki,0,0,0,,Bakugames!
 Dialogue: 0,0:06:58.31,0:07:00.52,Main,Lychee,0,0,0,,Bakugames is unable to battle!
@@ -311,12 +311,12 @@ Dialogue: 0,0:17:45.12,0:17:46.66,Main,Guzma,0,0,0,,Aqua Break!
 Dialogue: 0,0:17:52.30,0:17:54.26,Main,Guzma,0,0,0,,Another Aqua Break!
 Dialogue: 0,0:17:55.84,0:17:57.34,Main,Satoshi,0,0,0,,Dodge it, Nyaheat!
 Dialogue: 0,0:18:00.22,0:18:01.93,Main,Satoshi,0,0,0,,Nitro Charge!
-Dialogue: 0,0:18:03.56,0:18:04.56,Main,Guzma,0,0,0,,Pin Ms.ile!
+Dialogue: 0,0:18:03.56,0:18:04.56,Main,Guzma,0,0,0,,Pin Missile!
 Dialogue: 0,0:18:18.66,0:18:20.03,Main,Satoshi,0,0,0,,Fire Fang!
 Dialogue: 0,0:18:23.33,0:18:24.66,Main,Guzma,0,0,0,,Throat Chop!
 Dialogue: 0,0:18:28.58,0:18:29.67,Main,Satoshi,0,0,0,,Use Revenge!
 Dialogue: 0,0:18:32.79,0:18:34.05,Main,Satoshi,0,0,0,,Nitro Charge!
-Dialogue: 0,0:18:36.46,0:18:37.38,Main,Guzma,0,0,0,,Pin Ms.ile!
+Dialogue: 0,0:18:36.46,0:18:37.38,Main,Guzma,0,0,0,,Pin Missile!
 Dialogue: 0,0:18:48.27,0:18:51.02,Main,Jeekyo,0,0,0,,A tremendous \N back-and-forth of moves!
 Dialogue: 0,0:18:51.02,0:18:53.40,Main,Jeekyo,0,0,0,,My eyes can’t keep up \N with their speed!
 Dialogue: 0,0:18:53.40,0:18:55.07,Main,Tupper,0,0,0,,Yo, yo!
@@ -330,7 +330,7 @@ Dialogue: 0,0:19:21.63,0:19:23.14,Main,Guzma,0,0,0,,Aqua Break!
 Dialogue: 0,0:19:25.60,0:19:26.97,Main,Satoshi,0,0,0,,Use Revenge!
 Dialogue: 0,0:19:32.06,0:19:33.56,Main,Satoshi,0,0,0,,Good, Nyaheat!
 Dialogue: 0,0:19:35.98,0:19:36.82,Main,Satoshi,0,0,0,,Great Blaze!
-Dialogue: 0,0:19:41.45,0:19:42.91,Main,Guzma,0,0,0,,Liqui—
+Dialogue: 0,0:19:41.45,0:19:42.91,Main,Guzma,0,0,0,,Aqua—
 Dialogue: 0,0:19:42.91,0:19:43.78,Main,Guzma,0,0,0,,What?!
 Dialogue: 0,0:19:49.29,0:19:50.66,Main,Guzma,0,0,0,,Dodge it, Hassam!
 Dialogue: 0,0:20:12.19,0:20:14.44,Main,Kuchinashi,0,0,0,,Hassam is unable to battle!

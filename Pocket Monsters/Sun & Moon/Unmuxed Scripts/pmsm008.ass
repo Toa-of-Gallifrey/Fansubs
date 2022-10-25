@@ -225,14 +225,14 @@ Dialogue: 0,0:07:07.27,0:07:09.14,Main,Mao,0,0,0,,Yup! Later!
 Dialogue: 0,0:07:11.14,0:07:13.62,Main,Satoshi,0,0,0,,Come to think of it... \N Where do you live?
 Dialogue: 0,0:07:13.62,0:07:16.89,Main,Lilie,0,0,0,,It is a bit far off, \N but I have an escort.
 Dialogue: 0,0:07:16.89,0:07:18.08,Main,Lilie,0,0,0,,Ah! There it is!
-Dialogue: 0,0:07:24.21,0:07:27.96,Main,Human being,0,0,0,,Young Ms. Lilie, \N I am here to bring you home.
+Dialogue: 0,0:07:24.21,0:07:27.96,Main,Human being,0,0,0,,Young Miss Lilie, \N I am here to bring you home.
 Dialogue: 0,0:07:27.96,0:07:29.64,Main,Satoshi,0,0,0,,Whoa...
 Dialogue: 0,0:07:45.98,0:07:47.39,Main,Satoshi,0,0,0,,How much farther? {I believe "farther" is the correct word in this context, but I don't know if that's what he's saying or if he should even know that. - Toa}{apparently en_US distinguishes between farther and further depending on what's being measured\Nen_GB just uses further so... I can't tell em apart -bluesun}{To elaborate on the farther/further distinction in American English\NFarther is meant to be used in terms of physical distance\NFurther for more figurative uses\N"The bus stop was farther away than he remembered. He pushed himself further than he ever had before to reach it on time to catch his bus." -Josh}
 Dialogue: 0,0:07:47.39,0:07:49.73,Main,Lilie,0,0,0,,We’ve already reached our estate.
 Dialogue: 0,0:07:49.73,0:07:51.23,Main,Satoshi,0,0,0,,Huh? “Estate”?
 Dialogue: 0,0:07:51.23,0:07:53.73,Main,Rotom,0,0,0,,It means this is part of \N Lilie’s home-roto.
 Dialogue: 0,0:07:53.73,0:07:55.14,Main,Satoshi,0,0,0,,What?!
-Dialogue: 0,0:08:02.68,0:08:05.64,Main,James,0,0,0,,Welcome home, Young Ms. Lilie. {Capitalized "Young" for consistency. As an aside, I got curious about what you mentioned in that other comment about "Young Lady" sometimes being used, and there is just one on the BD batch it seems, though "young miss" is used once completely lower-cased in the Entei movie. - Toa}
+Dialogue: 0,0:08:02.68,0:08:05.64,Main,James,0,0,0,,Welcome home, Young Miss Lilie. {Capitalized "Young" for consistency. As an aside, I got curious about what you mentioned in that other comment about "Young Lady" sometimes being used, and there is just one on the BD batch it seems, though "young miss" is used once completely lower-cased in the Entei movie. - Toa}
 Dialogue: 0,0:08:07.39,0:08:08.93,Main,Lilie,0,0,0,,I’m home!
 Dialogue: 0,0:08:08.93,0:08:12.89,Main,Lilie,0,0,0,,This is my classmate, Satoshi, \N and his partner, Pikachu.
 Dialogue: 0,0:08:12.89,0:08:14.27,Main,Lilie,0,0,0,,And this is the Index Rotom.
@@ -276,18 +276,18 @@ Dialogue: 0,0:10:38.27,0:10:40.78,Main,Satoshi,0,0,0,,Isn’t that you?
 Dialogue: 0,0:10:41.27,0:10:42.39,Main,Lilie,0,0,0,,Indeed.
 Dialogue: 0,0:10:42.39,0:10:45.52,Main,Satoshi,0,0,0,,So you used to be able to...
 Dialogue: 0,0:10:45.52,0:10:46.43,Main,Lilie,0,0,0,,Yes.
-Dialogue: 0,0:10:46.43,0:10:52.85,Main,James,0,0,0,,Young Ms. Lilie has loved Pokémon since she was small, \N and she would often play with them.
+Dialogue: 0,0:10:46.43,0:10:52.85,Main,James,0,0,0,,Young Miss Lilie has loved Pokémon since she was small, \N and she would often play with them.
 Dialogue: 0,0:10:53.37,0:10:54.64,Main,Satoshi,0,0,0,,Did something happen?
 Dialogue: 0,0:10:54.64,0:10:55.80,Main,Lilie,0,0,0,,Well...
 Dialogue: 0,0:10:56.93,0:10:58.34,Main,Lilie,0,0,0,,I don’t know.
 Dialogue: 0,0:10:58.34,0:11:00.09,Main,Satoshi,0,0,0,,Don’t know?
 Dialogue: 0,0:11:00.09,0:11:02.48,Main,James,0,0,0,,How to explain this...
-Dialogue: 0,0:11:02.48,0:11:06.98,Main,James,0,0,0,,She moved to a different mansion \N with the Madame,
+Dialogue: 0,0:11:02.48,0:11:06.98,Main,James,0,0,0,,She moved to a different mansion \N with the madame,
 Dialogue: 0,0:11:06.98,0:11:10.02,Main,James,0,0,0,,and when she came back,
 Dialogue: 0,0:11:10.02,0:11:14.48,Main,James,0,0,0,,she was no longer able \N to touch Pokémon.
 Dialogue: 0,0:11:16.52,0:11:18.77,Main,Satoshi,0,0,0,,So these other people are...
-Dialogue: 0,0:11:18.77,0:11:20.77,Main,James,0,0,0,,The Madame and \N the young master.
-Dialogue: 0,0:11:20.77,0:11:23.77,Main,James,0,0,0,,The Madame is still working\N in that other mansion.{Literally just “over there”, but that sounds weird. Then again, this ALSO kinda sounds weird, but then having him say “Aether Paradise” nearly 40 episodes before Aether Paradise is ever MENTIONED would be even weirder. -Starfish}
+Dialogue: 0,0:11:18.77,0:11:20.77,Main,James,0,0,0,,The madame and \N the young master.
+Dialogue: 0,0:11:20.77,0:11:23.77,Main,James,0,0,0,,The madame is still working \N in that other mansion.{Literally just “over there”, but that sounds weird. Then again, this ALSO kinda sounds weird, but then having him say “Aether Paradise” nearly 40 episodes before Aether Paradise is ever MENTIONED would be even weirder. -Starfish}
 Dialogue: 0,0:11:23.77,0:11:25.77,Main,Lilie,0,0,0,,My brother left on his own to...
 Dialogue: 0,0:11:25.77,0:11:27.78,Main,Human being,0,0,0,,Pardon me.
 Dialogue: 0,0:11:29.54,0:11:32.29,Main,Human being,0,0,0,,I have brought Roserade Tea \N and some snacks.
@@ -306,7 +306,7 @@ Dialogue: 0,0:12:09.43,0:12:11.27,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 0,0:12:20.43,0:12:22.97,Main,Satoshi,0,0,0,,It’s fine! Pikachu’ll stay \N completely still!
 Dialogue: 0,0:12:22.97,0:12:27.18,Main,Satoshi,0,0,0,,Now, Lilie... Trust Pikachu, \N and touch him!
 Dialogue: 0,0:12:28.35,0:12:30.18,Main,Lilie,0,0,0,,V-Very well...
-Dialogue: 0,0:12:41.18,0:12:42.90,Main,James,0,0,0,,Young Ms. Lilie!
+Dialogue: 0,0:12:41.18,0:12:42.90,Main,James,0,0,0,,Young Miss Lilie!
 Dialogue: 0,0:12:42.90,0:12:45.73,Main,Satoshi,0,0,0,,Pikachu! I told you not to move!
 Dialogue: 0,0:12:46.70,0:12:49.70,Main,Satoshi,0,0,0,,Right, now... Try {\i1}this!{\i0}
 Dialogue: 0,0:12:53.18,0:12:55.42,Main,Satoshi,0,0,0,,He’s asleep! Fast asleep, Lilie!
@@ -429,13 +429,13 @@ Dialogue: 0,0:19:20.26,0:19:21.76,Main,Mao,0,0,0,,You found me...
 Dialogue: 0,0:19:21.76,0:19:23.05,Main,Satoshi,0,0,0,,What about the cafeteria?
 Dialogue: 0,0:19:23.05,0:19:27.10,Main,Mao,0,0,0,,Well, I was worried about Lilie, \N so I finished my tasks as fast as I could.
 Dialogue: 0,0:19:27.10,0:19:29.14,Main,Mao,0,0,0,,Then I heard the sounds of battling...
-Dialogue: 0,0:19:29.14,0:19:31.39,Main,James,0,0,0,,You would go that far \N for the young miss? {So, um, annoying thing I just realized: We have like THREE different translations for James's "ojousama"s... Sometimes it's just "Ms.", sometimes it's "Young Ms.", sometimes it's "Young Lady"... And this inconsistency is in the BD batch too so it seems we are just irrevocably doomed. -Starfish}{Should this one be capitalized? - Toa}{I have largely been leaving it in lowercase when he's talking about them in third person rather than addressing them directly... Perhaps a random and pointless distinction but that's how my thought process has generally gone. -Starfish}
+Dialogue: 0,0:19:29.14,0:19:31.39,Main,James,0,0,0,,You would go that far \N for the young miss? {So, um, annoying thing I just realized: We have like THREE different translations for James's "ojousama"s... Sometimes it's just "Ms.", sometimes it's "Young Miss", sometimes it's "Young Lady"... And this inconsistency is in the BD batch too so it seems we are just irrevocably doomed. -Starfish}{Should this one be capitalized? - Toa}{I have largely been leaving it in lowercase when he's talking about them in third person rather than addressing them directly... Perhaps a random and pointless distinction but that's how my thought process has generally gone. -Starfish}
 Dialogue: 0,0:19:32.44,0:19:34.48,Main,Mao,0,0,0,,Y-You’re exaggerating...
 Dialogue: 0,0:19:39.53,0:19:41.61,Main,Lilie,0,0,0,,N-No!
 Dialogue: 0,0:19:41.61,0:19:42.99,Main,Lilie,0,0,0,,Stay away!
 Dialogue: 0,0:19:50.29,0:19:51.71,Main,Lilie,0,0,0,,I will not let you have it!
 Dialogue: 0,0:19:54.88,0:19:55.84,Main,Lilie,0,0,0,,No!
-Dialogue: 0,0:20:01.72,0:20:02.59,Main,James,0,0,0,,Young Ms.!
+Dialogue: 0,0:20:01.72,0:20:02.59,Main,James,0,0,0,,Young Miss!
 Dialogue: 0,0:20:02.59,0:20:03.22,Main,Satoshi,0,0,0,,Lilie!
 Dialogue: 0,0:20:04.51,0:20:06.43,Main,Lilie,0,0,0,,James! Satoshi!
 Dialogue: 0,0:20:08.26,0:20:09.81,Main,Satoshi,0,0,0,,What’s that?!
@@ -455,7 +455,7 @@ Dialogue: 0,0:20:57.36,0:20:58.86,Main,Mao,0,0,0,,But never mind that...{Leaving
 Dialogue: 0,0:21:04.89,0:21:07.62,Main,Lilie,0,0,0,,I-I was desperate to protect...
 Dialogue: 0,0:21:14.33,0:21:16.29,Main,Lilie,0,0,0,,It’s so warm...
 Dialogue: 0,0:21:16.29,0:21:17.63,Main,Satoshi,0,0,0,,You did it, Lilie!
-Dialogue: 0,0:21:17.63,0:21:20.59,Main,James,0,0,0,,This is absolutely wonderful, \N Young Ms. Lilie!
+Dialogue: 0,0:21:17.63,0:21:20.59,Main,James,0,0,0,,This is absolutely wonderful, \N Young Miss Lilie!
 Dialogue: 0,0:21:20.59,0:21:22.17,Main,Mao,0,0,0,,I’m so happy for you!
 Dialogue: 0,0:21:22.17,0:21:23.01,Main,Lilie,0,0,0,,Thank you!
 Dialogue: 0,0:21:27.23,0:21:29.85,Main,Mao,0,0,0,,Seems she isn’t \N {\i1}entirely{\i0} over it yet. Sorry.
@@ -475,7 +475,7 @@ Dialogue: 0,0:23:27.21,0:23:30.76,Main,Lilie,0,0,0,,...was Butterfree! \N Did yo
 Dialogue: 0,0:23:31.22,0:23:36.56,Main,Lilie,0,0,0,,I was most nervous about having to \N look after a valuable Pokémon egg,
 Dialogue: 0,0:23:36.56,0:23:39.89,Main,Lilie,0,0,0,,but I’m a bit more at ease \N now that I can touch it.
 Dialogue: 0,0:23:39.89,0:23:43.94,Main,Lilie,0,0,0,,I can’t wait to see what Pokémon \N will hatch from it!
-Dialogue: 0,0:23:44.31,0:23:45.69,Main,James,0,0,0,,Young Ms..
+Dialogue: 0,0:23:44.31,0:23:45.69,Main,James,0,0,0,,Young Miss.
 Dialogue: 0,0:23:45.69,0:23:50.61,Main,James,0,0,0,,If you can touch the egg, \N then maybe you can also handle this?
 Dialogue: 0,0:23:51.11,0:23:53.53,Main,Lilie,0,0,0,,Oh, my! There are so many!
 Dialogue: 0,0:23:56.37,0:24:00.46,Main,James,0,0,0,,I am so sorry! \N I see Tamatama was too much for you...

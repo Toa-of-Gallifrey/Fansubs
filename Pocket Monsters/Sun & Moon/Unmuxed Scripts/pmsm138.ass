@@ -256,7 +256,7 @@ Dialogue: 0,0:13:14.06,0:13:17.56,Main,Gladio,0,0,0,,It’s quite powerful, but 
 Dialogue: 0,0:13:18.27,0:13:19.52,Main,Gladio,0,0,0,,Dodge and close in!
 Dialogue: 0,0:13:20.90,0:13:22.48,Main,Satoshi,0,0,0,,If we hit, we win!
 Dialogue: 0,0:13:22.48,0:13:24.92,Main,Satoshi,0,0,0,,Melmetal! \N Double Panzer!
-Dialogue: 0,0:13:31.37,0:13:32.62,Main,Gladio,0,0,0,,Crush Claw!
+Dialogue: 0,0:13:31.37,0:13:32.62,Main,Gladio,0,0,0,,Break Claw!
 Dialogue: 0,0:13:33.87,0:13:35.50,Main,Satoshi,0,0,0,,Now! Luster Cannon!
 Dialogue: 0,0:13:40.75,0:13:41.38,Main,Gladio,0,0,0,,What?!
 Dialogue: 0,0:13:45.84,0:13:47.18,Main,Gladio,0,0,0,,Silvuddy!
@@ -273,7 +273,7 @@ Dialogue: 0,0:14:24.55,0:14:26.59,Main,Gladio,0,0,0,,...and strike its belly!
 Dialogue: 0,0:14:26.59,0:14:29.30,Main,Jeekyo,0,0,0,,Silvuddy demonstrates \N elegant footwork!
 Dialogue: 0,0:14:29.30,0:14:32.43,Main,Jeekyo,0,0,0,,Can Melmetal follow it?!
 Dialogue: 0,0:14:33.64,0:14:36.43,Main,Satoshi,0,0,0,,Melmetal! Sweep them up \N with a Double Panzer!
-Dialogue: 0,0:14:50.03,0:14:52.16,Main,Gladio,0,0,0,,Now! Crush Claw!
+Dialogue: 0,0:14:50.03,0:14:52.16,Main,Gladio,0,0,0,,Now! Break Claw!
 Dialogue: 0,0:14:58.66,0:15:00.58,Main,Satoshi,0,0,0,,C-Calm down, Melmetal!
 Dialogue: 0,0:15:01.00,0:15:03.79,Main,Gladio,0,0,0,,Fight claw with claw, \N fang with fang,
 Dialogue: 0,0:15:03.79,0:15:06.46,Main,Gladio,0,0,0,,and fist with fist!
@@ -299,10 +299,10 @@ Comment: 0,0:17:18.64,0:17:18.64,Main,Starfish keeping count of how often an ove
 Dialogue: 0,0:17:18.64,0:17:23.27,Main,Jeekyo,0,0,0,,Competitor Satoshi’s next Pokémon \N is Pikachu!
 Dialogue: 0,0:17:35.49,0:17:37.82,Main,Satoshi,0,0,0,,Pikachu! Lightning Speed!
 Dialogue: 0,0:17:44.66,0:17:45.66,Main,Satoshi,0,0,0,,Iron Tail!
-Dialogue: 0,0:17:46.58,0:17:47.58,Main,Gladio,0,0,0,,Crush Claw!
+Dialogue: 0,0:17:46.58,0:17:47.58,Main,Gladio,0,0,0,,Break Claw!
 Dialogue: 0,0:17:51.96,0:17:52.96,Main,Gladio,0,0,0,,Air Slash!
 Dialogue: 0,0:17:52.96,0:17:53.96,Main,Satoshi,0,0,0,,Get back, Pikachu!
-Dialogue: 0,0:17:58.59,0:18:00.72,Main,Gladio,0,0,0,,Crush Claw!
+Dialogue: 0,0:17:58.59,0:18:00.72,Main,Gladio,0,0,0,,Break Claw!
 Dialogue: 0,0:18:00.72,0:18:02.10,Main,Satoshi,0,0,0,,Dodge with Lightning Speed!
 Dialogue: 0,0:18:04.64,0:18:07.69,Main,Jeekyo,0,0,0,,Silvuddy won its power battle \N with Melmetal.
 Dialogue: 0,0:18:07.69,0:18:11.65,Main,Jeekyo,0,0,0,,Now it’s engaged in \N a speed battle with Pikachu!
