@@ -70,3 +70,6 @@ Currently unchanged from v1 release
 
 **Episode 20:**  
 -Typo corrected: ...but as long as Saionji <...> -> but as long as Saionji <...>
+
+**Episode 21:**  
+Currently unchanged from v1 release
