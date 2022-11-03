@@ -123,7 +123,7 @@ Dialogue: 0,0:00:37.35,0:00:38.73,Main,Suiren,0,0,0,,Oh, it’s all right.
 Dialogue: 0,0:00:38.73,0:00:41.06,Main,Suiren,0,0,0,,We found them by nightfall. {Original: “We’d found them again by nightfall.”, revert if it strays too far from what she says. - Toa}
 Dialogue: 0,0:00:41.69,0:00:44.14,Main,Suiren,0,0,0,,Sheesh! Where were you two?
 Dialogue: 0,0:00:44.77,0:00:45.90,Main,Ho & Sui,0,0,0,,In the forest!
-Dialogue: 0,0:00:46.28,0:00:48.41,Main,Suiren,0,0,0,,What?! What if you got lost in{\fscx250}-{\r}
+Dialogue: 0,0:00:46.28,0:00:48.41,Main,Suiren,0,0,0,,What?! What if you got lost in—
 Dialogue: 0,0:00:48.41,0:00:50.12,Main,Ho & Sui,0,0,0,,Yup! We sure got lost!
 Dialogue: 0,0:00:50.12,0:00:51.58,Main,Ho & Sui,0,0,0,,Lost! Lost!
 Dialogue: 0,0:00:51.58,0:00:52.82,Main,Suiren,0,0,0,,Huh? But then...

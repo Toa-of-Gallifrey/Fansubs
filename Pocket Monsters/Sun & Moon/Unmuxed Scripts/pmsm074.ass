@@ -52,14 +52,14 @@ Dialogue: 1,0:02:27.62,0:02:34.63,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:27.62,0:02:34.63,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:34.63,0:02:36.88,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:34.63,0:02:36.88,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:36.88,0:02:43.85,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:36.88,0:02:43.85,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:36.88,0:02:43.85,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:36.88,0:02:43.85,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:43.85,0:02:46.64,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:43.85,0:02:46.64,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:46.64,0:02:49.85,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:46.64,0:02:49.85,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:49.85,0:02:57.15,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:49.85,0:02:57.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:49.85,0:02:57.15,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:49.85,0:02:57.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:57.15,0:02:59.95,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:57.15,0:02:59.95,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:59.95,0:03:04.99,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -203,7 +203,7 @@ Dialogue: 0,0:07:13.09,0:07:16.61,Main,Sakaki,0,0,0,,But I didn’t ask just bec
 Dialogue: 0,0:07:15.86,0:07:17.10,Main,Satoshi,0,0,0,,{\an8}Alola!
 Dialogue: 0,0:07:18.30,0:07:20.24,Main,Satoshi,0,0,0,,{\an8}Island King Kuchinashi, Sir!
 Dialogue: 0,0:07:19.27,0:07:20.24,Main,Kuchinashi,0,0,0,,I’m hanging up.
-Dialogue: 0,0:07:20.24,0:07:21.50,Main,Sakaki,0,0,0,,Kuchinashi{\fscx250}-{\r}
+Dialogue: 0,0:07:20.24,0:07:21.50,Main,Sakaki,0,0,0,,Kuchinashi—
 Dialogue: 0,0:07:22.64,0:07:25.43,Main,Satoshi,0,0,0,,Mr. Kuchinashi, Sir! Alola!
 Dialogue: 0,0:07:44.02,0:07:45.52,Main,Satoshi,0,0,0,,Ow!
 Dialogue: 0,0:07:49.08,0:07:50.91,Main,Rotom,0,0,0,,Are you all right-roto?!

@@ -52,14 +52,14 @@ Dialogue: 1,0:02:20.62,0:02:27.62,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:20.62,0:02:27.62,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:27.62,0:02:29.88,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:27.62,0:02:29.88,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:29.88,0:02:36.84,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:29.88,0:02:36.84,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:29.88,0:02:36.84,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:29.88,0:02:36.84,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:36.84,0:02:39.64,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:36.84,0:02:39.64,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:39.64,0:02:42.85,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:39.64,0:02:42.85,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:42.85,0:02:50.15,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:42.85,0:02:50.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:42.85,0:02:50.15,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:42.85,0:02:50.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:50.15,0:02:52.94,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:50.15,0:02:52.94,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:52.94,0:02:57.99,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -139,7 +139,7 @@ Dialogue: 0,0:01:15.99,0:01:18.49,Main,Suiren,0,0,0,,And it’s a bit chilly in 
 Dialogue: 0,0:01:18.49,0:01:22.97,Main,Mamane,0,0,0,,Apparently one of the routes in this cave \N goes to Lanakila Mountain!
 Dialogue: 0,0:01:22.97,0:01:25.84,Main,Lilie,0,0,0,,I see! This must be \N quite a vast cave, then.
 Dialogue: 0,0:01:25.84,0:01:27.57,Main,Kaki,0,0,0,,{\i1}Really{\i0} wouldn’t want to \N get lost here...
-Dialogue: 0,0:01:27.57,0:01:30.95,Main,Mamane,0,0,0,,We’ll be fine! We just have to walk straight forward, \N and we’ll reach the port just{\fscx250}-{\r}
+Dialogue: 0,0:01:27.57,0:01:30.95,Main,Mamane,0,0,0,,We’ll be fine! We just have to walk straight forward, \N and we’ll reach the port just—
 Dialogue: 0,0:01:35.83,0:01:38.03,Main,Kaki,0,0,0,,Hey! Stop that, Garagara!
 Dialogue: 0,0:01:41.87,0:01:44.04,Main,Kaki,0,0,0,,Not good...!
 Comment: 0,0:01:47.50,0:01:47.50,Main,,0,0,0,,{Opening}
@@ -165,7 +165,7 @@ Dialogue: 0,0:04:49.03,0:04:51.09,Main,Satoshi,0,0,0,,They could have been sent 
 Dialogue: 0,0:04:51.09,0:04:52.70,Main,Satoshi,0,0,0,,We gotta find them fast! {Suggesting “fast” in place of “quickly”. - Toa}
 Dialogue: 0,0:04:52.70,0:04:55.59,Main,Kaki,0,0,0,,I understand how you feel, \N but calm down!
 Dialogue: 0,0:04:53.19,0:04:54.57,Main,Satoshi,0,0,0,,{\an8}Pikachu!
-Dialogue: 0,0:04:55.59,0:04:58.14,Main,Kaki,0,0,0,,There’s all sorts of dangerous things \N inside this{\fscx250}-{\r}
+Dialogue: 0,0:04:55.59,0:04:58.14,Main,Kaki,0,0,0,,There’s all sorts of dangerous things \N inside this—
 Dialogue: 0,0:04:57.14,0:04:58.14,Main,Satoshi,0,0,0,,{\an8}Kaki...
 Dialogue: 0,0:04:59.24,0:05:03.09,Main,Satoshi,0,0,0,,Sorry... \N I seem to have stepped on something.
 Dialogue: 0,0:05:04.55,0:05:07.64,Main,Kaki,0,0,0,,This is why I told you \N to calm down!
@@ -234,7 +234,7 @@ Dialogue: 0,0:08:33.29,0:08:35.03,Main,Suiren,0,0,0,,A fork in the road...
 Dialogue: 0,0:08:35.03,0:08:36.92,Main,Rotom,0,0,0,,Leave it to me-roto!
 Dialogue: 0,0:08:36.92,0:08:39.25,Main,Rotom,0,0,0,,According to my calculations...
 Dialogue: 0,0:08:39.25,0:08:42.01,Main,Rotom,0,0,0,,There’s a 50% chance \N we’ll meet them by going this way,
-Dialogue: 0,0:08:42.01,0:08:43.67,Main,Rotom,0,0,0,,and a 50% chance \N we’ll meet them by going{\fscx250}-{\r}
+Dialogue: 0,0:08:42.01,0:08:43.67,Main,Rotom,0,0,0,,and a 50% chance \N we’ll meet them by going—
 Dialogue: 0,0:08:43.67,0:08:45.89,Main,Suiren,0,0,0,,This way! Let’s go!
 Dialogue: 0,0:08:45.89,0:08:48.08,Main,Rotom,0,0,0,,Wait, you’ve \N already decided-roto?!
 Dialogue: 0,0:08:48.08,0:08:49.93,Main,Rotom,0,0,0,,Wait-roto!
@@ -289,7 +289,7 @@ Dialogue: 0,0:12:00.63,0:12:01.82,Main,Mao & Mamane,0,0,0,,Lilie!
 Dialogue: 0,0:12:03.05,0:12:04.83,Main,Suiren,0,0,0,,Now it’s four paths...
 Dialogue: 0,0:12:04.83,0:12:08.50,Main,Rotom,0,0,0,,This time, my precise analysis \N is sure to come in handy-roto!
 Dialogue: 0,0:12:10.55,0:12:11.57,Main,Suiren,0,0,0,,{\an8}This way.
-Dialogue: 0,0:12:09.14,0:12:12.27,Main,Rotom,0,0,0,,The probability that everyone is \N down this way is 25 p{\fscx250}-{\r}
+Dialogue: 0,0:12:09.14,0:12:12.27,Main,Rotom,0,0,0,,The probability that everyone is \N down this way is 25 p—
 Dialogue: 0,0:12:12.27,0:12:14.92,Main,Rotom,0,0,0,,I hadn’t explained it yet-roto!
 Dialogue: 0,0:12:14.92,0:12:16.47,Main,Rotom,0,0,0,,Wait-roto!
 Dialogue: 0,0:12:17.01,0:12:18.82,Main,Mamane & Mao,0,0,0,,Lilie!

@@ -53,14 +53,14 @@ Dialogue: 1,0:01:20.64,0:01:27.65,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:01:20.64,0:01:27.65,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:01:27.65,0:01:29.90,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:01:27.65,0:01:29.90,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:01:29.90,0:01:36.86,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:01:29.90,0:01:36.86,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:01:29.90,0:01:36.86,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:01:29.90,0:01:36.86,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:01:36.86,0:01:39.66,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:01:36.86,0:01:39.66,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:01:39.66,0:01:42.87,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:01:39.66,0:01:42.87,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:01:42.87,0:01:50.17,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:01:42.87,0:01:50.17,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:01:42.87,0:01:50.17,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:01:42.87,0:01:50.17,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:01:50.17,0:01:52.96,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:01:50.17,0:01:52.96,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:01:52.96,0:01:58.01,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -186,7 +186,7 @@ Dialogue: 0,0:04:55.02,0:04:56.99,Main,Kojiro,0,0,0,,We’re not selling anythin
 Dialogue: 0,0:04:56.99,0:04:58.67,Main,Nyarth,0,0,0,,Nothing at all, meow...
 Dialogue: 0,0:05:00.24,0:05:01.88,Main,Tech,0,0,0,,Excuse me!
 Dialogue: 0,0:05:02.53,0:05:06.41,Main,Tech,0,0,0,,Is there anyone here \N who can be the MC?
-Dialogue: 0,0:05:06.41,0:05:08.75,Main,Tech,0,0,0,,Our regular MC is sick, \N so we need a substi{\fscx250}-{\r} {Changed “ill” to “sick”. - Toa}
+Dialogue: 0,0:05:06.41,0:05:08.75,Main,Tech,0,0,0,,Our regular MC is sick, \N so we need a substi— {Changed “ill” to “sick”. - Toa}
 Dialogue: 0,0:05:08.75,0:05:11.84,Main,Kojiro,0,0,0,,Us! We have plenty of MC experience!
 Dialogue: 0,0:05:11.84,0:05:14.65,Main,Musashi,0,0,0,,Just for today, we’ll work at \N an ever-so-slight discounted price! {Changed “now” to “today and added “ed” to “discount”. - Toa}
 Dialogue: 0,0:05:16.68,0:05:18.29,Main,Mamane,0,0,0,,Ta-daah!
@@ -230,10 +230,10 @@ Dialogue: 0,0:07:15.96,0:07:18.73,Main,Suiren,0,0,0,,That’s them! That’s rea
 Dialogue: 0,0:07:23.22,0:07:24.94,Main,Satoshi,0,0,0,,Hey, Nyabby!
 Dialogue: 0,0:07:27.93,0:07:28.96,Main,Musashi,0,0,0,,Oh, what’s this?
 Dialogue: 0,0:07:28.96,0:07:31.00,Main,Kojiro,0,0,0,,This little one is...
-Dialogue: 0,0:07:35.89,0:07:37.39,Main,Nyarth,0,0,0,,The honch{\fscx250}-{\r}{PM had him call Nyabby “The honcho” and I don’t see any reason not to go with that. -Starfish}
+Dialogue: 0,0:07:35.89,0:07:37.39,Main,Nyarth,0,0,0,,The honch—{PM had him call Nyabby “The honcho” and I don’t see any reason not to go with that. -Starfish}
 Dialogue: 0,0:07:38.40,0:07:39.82,Main,Kukui,0,0,0,,Why, hello there, little Nyabby!
 Dialogue: 0,0:07:39.82,0:07:41.09,Main,Satoshi,0,0,0,,Sorry!
-Dialogue: 0,0:07:42.90,0:07:43.94,Main,Team Rocket,0,0,0,,The brat b{\fscx250}-{\r}
+Dialogue: 0,0:07:42.90,0:07:43.94,Main,Team Rocket,0,0,0,,The brat b—
 Dialogue: 0,0:07:45.20,0:07:48.80,Main,Satoshi,0,0,0,,Nyabby! You shouldn’t be down here yet! \N Let’s get back!
 Dialogue: 0,0:07:50.78,0:07:53.12,Main,Musashi,0,0,0,,T-This is quite the event!
 Dialogue: 0,0:07:53.12,0:07:54.81,Main,Kojiro,0,0,0,,Nyabby’s stormed into the ring!

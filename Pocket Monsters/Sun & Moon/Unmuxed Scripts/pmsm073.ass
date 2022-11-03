@@ -52,14 +52,14 @@ Dialogue: 1,0:03:31.65,0:03:38.65,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:03:31.65,0:03:38.65,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:03:38.65,0:03:40.90,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:38.65,0:03:40.90,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:03:40.90,0:03:47.87,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:03:40.90,0:03:47.87,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:03:40.90,0:03:47.87,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:03:40.90,0:03:47.87,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:03:47.87,0:03:50.66,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:47.87,0:03:50.66,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:50.66,0:03:53.88,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:03:50.66,0:03:53.88,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:03:53.88,0:04:01.18,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:03:53.88,0:04:01.18,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:03:53.88,0:04:01.18,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:03:53.88,0:04:01.18,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:04:01.18,0:04:03.97,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:04:01.18,0:04:03.97,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:04:03.97,0:04:09.02,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -343,7 +343,7 @@ Dialogue: 0,0:15:47.16,0:15:48.20,Main,Kuchinashi,0,0,0,,Are you all right?
 Dialogue: 0,0:15:48.20,0:15:49.89,Main,Acerola,0,0,0,,Uncle Kuchinashi!
 Dialogue: 0,0:15:51.31,0:15:52.09,Main,Kojiro,0,0,0,,Here it comes!
 Dialogue: 0,0:15:52.09,0:15:54.64,Main,Nyarth,0,0,0,,It caught us off guard before, \N but not this time, meow!
-Dialogue: 0,0:15:55.15,0:15:57.78,Main,Nyarth,0,0,0,,Taste my finely honed Fury Sw{\fscx250}-{\r}
+Dialogue: 0,0:15:55.15,0:15:57.78,Main,Nyarth,0,0,0,,Taste my finely honed Fury Sw—
 Dialogue: 0,0:16:00.46,0:16:01.41,Main,Musashi,0,0,0,,It vanished?
 Dialogue: 0,0:16:01.41,0:16:03.54,Main,Kojiro,0,0,0,,No, that’s not it... \N Wait, it can’t have...?!
 Dialogue: 0,0:16:06.95,0:16:08.20,Main,Kojiro,0,0,0,,He’s been possessed?!
@@ -352,7 +352,7 @@ Dialogue: 0,0:16:12.45,0:16:14.20,Main,Musashi,0,0,0,,Mimikkyu, do something!
 Dialogue: 0,0:16:25.23,0:16:26.38,Main,Kojiro,0,0,0,,Nyarth!
 Dialogue: 0,0:16:27.01,0:16:28.47,Main,Kojiro,0,0,0,,When did it...?
 Dialogue: 0,0:16:28.94,0:16:31.53,Main,Musashi,0,0,0,,I won’t let Nyarth’s sacrifice \N be in vain!
-Dialogue: 0,0:16:31.53,0:16:33.60,Main,Musashi,0,0,0,,I will avenge h{\fscx250}-{\r}
+Dialogue: 0,0:16:31.53,0:16:33.60,Main,Musashi,0,0,0,,I will avenge h—
 Dialogue: 0,0:16:36.93,0:16:39.23,Main,Kojiro,0,0,0,,Impossible! Even Musashi?!
 Dialogue: 0,0:16:42.85,0:16:45.94,Main,Kojiro,0,0,0,,I have no choice... \N Come out, Hidoide!
 Dialogue: 0,0:16:47.74,0:16:50.39,Main,Kojiro,0,0,0,,No, not me!

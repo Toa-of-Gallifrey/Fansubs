@@ -51,14 +51,14 @@ Dialogue: 1,0:02:47.60,0:02:54.61,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:47.60,0:02:54.61,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:54.61,0:02:56.86,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:54.61,0:02:56.86,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:56.86,0:03:03.83,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:56.86,0:03:03.83,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:56.86,0:03:03.83,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:56.86,0:03:03.83,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:03:03.83,0:03:06.62,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:03.83,0:03:06.62,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:06.62,0:03:09.83,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:03:06.62,0:03:09.83,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:03:09.83,0:03:17.13,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:03:09.83,0:03:17.13,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:03:09.83,0:03:17.13,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:03:09.83,0:03:17.13,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:03:17.13,0:03:19.93,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:17.13,0:03:19.93,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:19.93,0:03:24.97,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -139,7 +139,7 @@ Dialogue: 0,0:04:06.46,0:04:09.63,Main,Kaki,0,0,0,,The stars in Alola are \N as 
 Dialogue: 0,0:04:09.63,0:04:12.05,Main,Lilie,0,0,0,,They are absolutely \N perfect for stargazing.
 Dialogue: 0,0:04:12.05,0:04:13.13,Main,Mamane,0,0,0,,That’s right!
 Dialogue: 0,0:04:13.13,0:04:18.76,Main,Mamane,0,0,0,,Big Mu told me people come to Hokulani Observatory \N from all over the world to see the stars!
-Dialogue: 0,0:04:18.76,0:04:22.84,Main,Mamane,0,0,0,,Oh, and when I say Big Mu, \N I’m talking about my cousin here{\fscx250}-{\r}
+Dialogue: 0,0:04:18.76,0:04:22.84,Main,Mamane,0,0,0,,Oh, and when I say Big Mu, \N I’m talking about my cousin here—
 Dialogue: 0,0:04:22.84,0:04:24.28,Main,Kukui,0,0,0,,Speaking of which,
 Dialogue: 0,0:04:24.72,0:04:30.08,Main,Kukui,0,0,0,,Māmane’s cousin, Mullein, \N is a talented Pokémon Trainer, and my best friend!
 Dialogue: 0,0:04:31.15,0:04:32.90,Main,Satoshi,0,0,0,,An observatory, huh.

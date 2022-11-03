@@ -214,7 +214,7 @@ Dialogue: 0,0:07:56.66,0:07:59.33,Main,Musashi,0,0,0,,You guys just do it yourse
 Dialogue: 0,0:08:00.54,0:08:02.16,Main,Musashi,0,0,0,,I’m thirsty.
 Dialogue: 0,0:08:06.88,0:08:09.30,Main,Nyarth,0,0,0,,A Malasada Doughnut, meow!{are the Malasada lines in ED2 a reference to this? -Puto}
 Dialogue: 0,0:08:09.30,0:08:10.46,Main,Kojiro,0,0,0,,When did you...
-Dialogue: 0,0:08:10.84,0:08:14.34,Main,Musashi,0,0,0,,I bought it myself, \N so it’s m{\fscx250}-{\r}
+Dialogue: 0,0:08:10.84,0:08:14.34,Main,Musashi,0,0,0,,I bought it myself, \N so it’s m—
 Dialogue: 0,0:08:16.72,0:08:19.81,Main,Musashi,0,0,0,,My Malasada! \N Hey, you, give that back!
 Dialogue: 0,0:08:19.81,0:08:21.43,Main,Musashi,0,0,0,,Hey!
 Dialogue: 0,0:08:23.35,0:08:27.11,Main,Kojiro,0,0,0,,A Camome, huh? \N Why not catch that?
@@ -283,7 +283,7 @@ Dialogue: 0,0:12:32.81,0:12:34.35,Main,Kojiro,0,0,0,,Sure, sure...
 Dialogue: 0,0:12:47.24,0:12:49.24,Main,Kojiro,0,0,0,,Just gotta wait around here...
 Dialogue: 0,0:12:49.95,0:12:52.91,Main,Kojiro,0,0,0,,I hope I find the Kibanha from earlier...
 Dialogue: 0,0:12:56.42,0:12:57.88,Main,Kojiro,0,0,0,,Mamanbou, huh?
-Dialogue: 0,0:12:58.25,0:13:00.92,Main,Kojiro,0,0,0,,Right! I’ll lure them in and{\fscx250}-{\r}
+Dialogue: 0,0:12:58.25,0:13:00.92,Main,Kojiro,0,0,0,,Right! I’ll lure them in and—
 Dialogue: 0,0:13:00.92,0:13:03.01,Main,Kojiro,0,0,0,,W-What?!
 Dialogue: 0,0:13:11.43,0:13:13.52,Main,Nyarth,0,0,0,,What’s happened, meow?! \N Kojiro!
 Dialogue: 0,0:13:13.52,0:13:14.94,Main,Kojiro,0,0,0,,It was awful...
@@ -383,7 +383,7 @@ Dialogue: 0,0:19:25.85,0:19:28.27,Main,Mamane,0,0,0,,Togedemaru! Attack!
 Dialogue: 0,0:19:33.61,0:19:36.15,Main,Satoshi,0,0,0,,Too bad, Togedemaru.
 Dialogue: 0,0:19:38.44,0:19:40.90,Main,Suiren,0,0,0,,Ashimari, do it again!
 Dialogue: 0,0:19:44.91,0:19:47.04,Main,Mao,0,0,0,,All right, I got it!
-Dialogue: 0,0:19:54.54,0:19:57.59,Main,Musashi,0,0,0,,Hey! We were {\i1}this{\i0} close to win{\fscx250}-{\r}
+Dialogue: 0,0:19:54.54,0:19:57.59,Main,Musashi,0,0,0,,Hey! We were {\i1}this{\i0} close to win—
 Dialogue: 0,0:19:59.05,0:20:00.55,Main,Musashi,0,0,0,,So sweet!
 Dialogue: 0,0:20:00.92,0:20:04.30,Main,Nyarth,0,0,0,,Looks like it’s gathered \N tons of food for us again.
 Dialogue: 0,0:20:05.85,0:20:08.22,Main,Kojiro,0,0,0,,You got all of this for us?
@@ -405,7 +405,7 @@ Dialogue: 0,0:21:09.41,0:21:10.91,Main,Kojiro,0,0,0,,I caught Hidoide!
 Dialogue: 0,0:21:10.91,0:21:12.08,Main,Kojiro,0,0,0,,Come out!
 Dialogue: 0,0:21:16.42,0:21:19.09,Main,Kojiro,0,0,0,,Glad to be working with you, Hidoide.
 Dialogue: 0,0:21:22.42,0:21:24.26,Main,Kojiro,0,0,0,,Ow ow ow ow ow ow!
-Dialogue: 0,0:21:30.35,0:21:35.10,Main,Nyarth,0,0,0,,Well, we’ve got another ally, \N so I guess we can call it good for{\fscx250}-{\r}
+Dialogue: 0,0:21:30.35,0:21:35.10,Main,Nyarth,0,0,0,,Well, we’ve got another ally, \N so I guess we can call it good for—
 Dialogue: 0,0:21:36.23,0:21:38.65,Main,Nyarth,0,0,0,,Don’t stand behind me, meow!
 Dialogue: 0,0:21:38.65,0:21:40.02,Main,Nyarth,0,0,0,,Stay back, meow!
 Dialogue: 0,0:21:41.52,0:21:43.44,Main,Musashi,0,0,0,,More honey, please!
@@ -419,7 +419,7 @@ Dialogue: 0,0:23:24.50,0:23:27.63,Main,Kojiro,0,0,0,,The answer to the PokéProb
 Dialogue: 0,0:23:27.63,0:23:29.47,Main,Kojiro,0,0,0,,I got Hidoide!
 Dialogue: 0,0:23:30.09,0:23:33.26,Main,Kojiro,0,0,0,,The Brutal Star Pokémon Hidoide \N is a Poison/Water type.
 Dialogue: 0,0:23:33.26,0:23:36.76,Main,Kojiro,0,0,0,,I’m glad we’ve got a Poison type \N on our team now, but...
-Dialogue: 0,0:23:36.76,0:23:38.89,Main,Kojiro,0,0,0,,Her stabbing me \N with poison spikes{\fscx250}-{\r}
+Dialogue: 0,0:23:36.76,0:23:38.89,Main,Kojiro,0,0,0,,Her stabbing me \N with poison spikes—
 Dialogue: 0,0:23:39.31,0:23:42.25,Main,Kojiro,0,0,0,,I could go without that...
 Dialogue: 0,0:23:43.06,0:23:44.81,Main,Kojiro,0,0,0,,Now, come out, Hidoide!
 Dialogue: 0,0:23:51.20,0:23:52.86,Main,Kojiro,0,0,0,,Huh? She’s not coming?

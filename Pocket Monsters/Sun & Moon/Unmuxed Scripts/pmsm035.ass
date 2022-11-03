@@ -247,14 +247,14 @@ Dialogue: 0,0:11:25.24,0:11:26.28,Main,Mao,0,0,0,,So which way do we go?
 Dialogue: 0,0:11:26.28,0:11:28.54,Main,Rotom,0,0,0,,The odds of this way \N being correct are 50%.
 Dialogue: 0,0:11:28.54,0:11:29.54,Main,Satoshi,0,0,0,,This way!
 Dialogue: 0,0:11:34.88,0:11:36.46,Main,Mao,0,0,0,,It’s branching again!
-Dialogue: 0,0:11:36.46,0:11:37.13,Main,Rotom,0,0,0,,The odds of this way \N being correct{\fscx250}-{\r}
+Dialogue: 0,0:11:36.46,0:11:37.13,Main,Rotom,0,0,0,,The odds of this way \N being correct—
 Dialogue: 0,0:11:37.13,0:11:38.59,Main,Satoshi,0,0,0,,Then this way! {Suggesting to remove comma. - Toa}
 Dialogue: 0,0:11:39.55,0:11:41.88,Main,Mao,0,0,0,,You’ve been extra confident \N since we entered the cave.
 Dialogue: 0,0:11:41.88,0:11:44.64,Main,Satoshi,0,0,0,,We won’t get anywhere \N if we don’t keep moving.
 Dialogue: 0,0:11:45.47,0:11:46.89,Main,Mao,0,0,0,,You’re so reliable!
 Dialogue: 0,0:11:46.89,0:11:51.14,Main,Satoshi,0,0,0,,Yeah... Actually I’m just \N bad at standing still.
 Dialogue: 0,0:11:51.14,0:11:51.89,Main,Mao,0,0,0,,Wait!
-Dialogue: 0,0:11:51.89,0:11:53.56,Main,Satoshi,0,0,0,,I told you, I’m bad at{\fscx250}-{\r}
+Dialogue: 0,0:11:51.89,0:11:53.56,Main,Satoshi,0,0,0,,I told you, I’m bad at—
 Dialogue: 0,0:11:53.56,0:11:54.90,Main,Mao,0,0,0,,Satoshi!
 Dialogue: 0,0:11:56.31,0:11:59.36,Main,Mao,0,0,0,,This is why I told you to wait...
 Dialogue: 0,0:12:00.65,0:12:02.03,Main,Satoshi,0,0,0,,It’s a Digda!

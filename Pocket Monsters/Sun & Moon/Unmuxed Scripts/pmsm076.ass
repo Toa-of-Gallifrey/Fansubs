@@ -52,14 +52,14 @@ Dialogue: 1,0:02:39.59,0:02:46.60,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:39.59,0:02:46.60,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:46.60,0:02:48.85,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:46.60,0:02:48.85,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:48.85,0:02:55.82,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:48.85,0:02:55.82,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:48.85,0:02:55.82,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:48.85,0:02:55.82,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:55.82,0:02:58.61,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:55.82,0:02:58.61,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:58.61,0:03:01.82,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:58.61,0:03:01.82,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:03:01.82,0:03:09.12,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:03:01.82,0:03:09.12,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:03:01.82,0:03:09.12,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:03:01.82,0:03:09.12,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:03:09.12,0:03:11.92,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:09.12,0:03:11.92,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:11.92,0:03:16.96,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -80,7 +80,7 @@ Dialogue: 0,0:19:23.15,0:19:29.74,Insert,Mirai Connection,0,0,0,,Wishing for a c
 Dialogue: 0,0:19:29.74,0:19:35.70,Insert,Mirai Connection,0,0,0,,In this world I wandered into all alone
 Dialogue: 0,0:19:35.70,0:19:43.08,Insert,Mirai Connection,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 0,0:19:43.08,0:19:44.46,Insert,Mirai Connection,0,0,0,,I choose you!
-Dialogue: 0,0:19:44.46,0:19:51.67,Insert,Mirai Connection,0,0,0,,Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 0,0:19:44.46,0:19:51.67,Insert,Mirai Connection,0,0,0,,Future Connection—don’t worry about tiny doubts
 Dialogue: 0,0:19:51.67,0:19:54.27,Insert,Mirai Connection,0,0,0,,Oh oh!
 Dialogue: 0,0:19:54.27,0:19:59.47,Insert,Mirai Connection,0,0,0,,Because all the time, see, we’re shining!
 Dialogue: 0,0:20:01.23,0:20:06.94,Insert,Mirai Connection,0,0,0,,You’re my sunshine and I love you
@@ -286,8 +286,8 @@ Dialogue: 0,0:10:40.50,0:10:44.38,Main,Doll Nyarth,0,0,0,,I’ve settled on this
 Dialogue: 0,0:10:44.38,0:10:48.97,Main,Doll Musashi,0,0,0,,C-C-C-C-Clever as always, \N N-N-N-Nyarth. Nyarth.
 Dialogue: 0,0:10:48.97,0:10:50.93,Main,Doll Kojiro,0,0,0,,Very impressive.
 Dialogue: 0,0:10:50.93,0:10:53.39,Main,Doll Nyarth,0,0,0,,We’ll get Pikachu, meow.
-Dialogue: 0,0:10:53.39,0:10:54.51,Main,Doll Musashi,0,0,0,,Nyarth{\fscx250}-{\r}
-Dialogue: 0,0:11:01.01,0:11:07.52,Main,Doll Kojiro,0,0,0,,Clever as always, \N Nya{\fscx250}-{\r} Nya{\fscx250}-{\r} Nya{\fscx250}-{\r}
+Dialogue: 0,0:10:53.39,0:10:54.51,Main,Doll Musashi,0,0,0,,Nyarth—
+Dialogue: 0,0:11:01.01,0:11:07.52,Main,Doll Kojiro,0,0,0,,Clever as always, \N Nya— Nya— Nya—
 Dialogue: 0,0:11:15.08,0:11:16.67,Main,Kuchinashi,0,0,0,,Pocket Monsters!
 Dialogue: 0,0:11:16.67,0:11:18.22,Main,Acerola,0,0,0,,Sun & Moon!
 Comment: 0,0:11:20.49,0:11:20.49,Main,,0,0,0,,{Part B}

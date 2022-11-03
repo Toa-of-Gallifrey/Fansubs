@@ -361,7 +361,7 @@ Dialogue: 0,0:15:10.18,0:15:12.39,Main,Mao,0,0,0,,Your hunch was spot-on!
 Dialogue: 0,0:15:12.39,0:15:15.07,Main,Suiren,0,0,0,,That’s... not a Pikachu, is it?
 Dialogue: 0,0:15:15.07,0:15:16.28,Main,Lilie,0,0,0,,It’s Mimikkyu!
 Dialogue: 0,0:15:16.28,0:15:18.45,Main,Lilie,0,0,0,,I read about it in a book once!
-Dialogue: 0,0:15:18.45,0:15:19.54,Main,Lilie,0,0,0,,I believe its typing was{\fscx250}-{\r}
+Dialogue: 0,0:15:18.45,0:15:19.54,Main,Lilie,0,0,0,,I believe its typing was—
 Dialogue: 0,0:15:19.54,0:15:20.40,Main,Rotom,0,0,0,,Hold it-roto!
 Dialogue: 0,0:15:20.40,0:15:23.87,Main,Rotom,0,0,0,,Leave the Pokémon \N descriptions to me-roto!
 Dialogue: 0,0:15:23.87,0:15:28.04,Main,Rotom,0,0,0,,Mimikkyu. Disguise Pokémon. \N Ghost/Fairy type.
@@ -388,7 +388,7 @@ Dialogue: 0,0:16:44.08,0:16:46.37,Main,Musashi,0,0,0,,They called it a “Mimikk
 Dialogue: 0,0:16:46.37,0:16:49.28,Main,Kojiro,0,0,0,,It’s evenly matched with \N the brat boy’s Pikachu!
 Dialogue: 0,0:16:49.79,0:16:53.28,Main,Musashi,0,0,0,,As if we’d let the stinking brat boy \N get something as powerful as that!
 Dialogue: 0,0:16:55.97,0:16:57.01,Main,Satoshi,0,0,0,,Are you okay?
-Dialogue: 0,0:17:01.66,0:17:03.16,Main,Satoshi,0,0,0,,Pikachu, our next move{\fscx250}-{\r}
+Dialogue: 0,0:17:01.66,0:17:03.16,Main,Satoshi,0,0,0,,Pikachu, our next move—
 Dialogue: 0,0:17:03.16,0:17:04.67,Main,Musashi,0,0,0,,Hold it, you!
 Dialogue: 0,0:17:06.38,0:17:08.13,Main,Kaki,0,0,0,,Who are you?!
 Dialogue: 0,0:17:09.06,0:17:11.88,Main,Musashi,0,0,0,,When asked “Who are you?!”...
@@ -506,7 +506,7 @@ Dialogue: 0,0:24:12.05,0:24:14.01,Main,Suiren,0,0,0,,Perhaps he’s just bad at 
 Dialogue: 0,0:24:14.01,0:24:15.34,Main,Kaki,0,0,0,,Is that so?
 Dialogue: 0,0:24:15.34,0:24:18.10,Main,Kaki,0,0,0,,All right! It’s time for some \N special Monster Ball throwing training!
 Dialogue: 0,0:24:18.10,0:24:19.43,Main,Satoshi,0,0,0,,Huh? Training?
-Dialogue: 0,0:24:19.43,0:24:21.52,Main,Satoshi,0,0,0,,No, I’m good at this! \N I’ve got no problems throwing{\fscx250}-{\r}{Suggesting "I’ve" in place of "I". - Toa}
+Dialogue: 0,0:24:19.43,0:24:21.52,Main,Satoshi,0,0,0,,No, I’m good at this! \N I’ve got no problems throwing—{Suggesting "I’ve" in place of "I". - Toa}
 Dialogue: 0,0:24:21.52,0:24:22.90,Main,Kaki,0,0,0,,{\i1}No excuses!{\i0}
 Dialogue: 0,0:24:22.90,0:24:25.52,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:25.52,0:24:28.71,Main,Satoshi,0,0,0,,Enter Mokuroh! I Caught a Pokémon in Alola!! {I suppose "an alolan Pokémon" would be off? —Puto}
@@ -516,4 +516,4 @@ Dialogue: 0,0:24:16.39,0:24:19.43,Main,Mao,0,0,0,,{\an8}11, 12, 13, 14, 15...
 Dialogue: 0,0:24:19.43,0:24:22.90,Main,Mao,0,0,0,,{\an8}16, 17, 18, 19, 20...
 Dialogue: 0,0:24:22.90,0:24:25.52,Main,Mao,0,0,0,,{\an8}21, 22, 23, 24, 25...
 Dialogue: 0,0:24:25.52,0:24:28.69,Main,Mao,160,0,0,,{\an7}26, 27, 28, 29, 30...
-Dialogue: 0,0:24:28.69,0:24:30.40,Main,Mao,200,0,0,,{\an7}31, 32, 3{\fscx250}-{\r}
+Dialogue: 0,0:24:28.69,0:24:30.40,Main,Mao,200,0,0,,{\an7}31, 32, 3—

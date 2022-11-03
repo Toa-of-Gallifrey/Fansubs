@@ -53,14 +53,14 @@ Dialogue: 1,0:02:28.62,0:02:35.63,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:28.62,0:02:35.63,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:35.63,0:02:37.88,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:35.63,0:02:37.88,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:37.88,0:02:44.85,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:37.88,0:02:44.85,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:37.88,0:02:44.85,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:37.88,0:02:44.85,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:44.85,0:02:47.64,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:44.85,0:02:47.64,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:47.64,0:02:50.85,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:47.64,0:02:50.85,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:50.85,0:02:58.15,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:50.85,0:02:58.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:50.85,0:02:58.15,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:50.85,0:02:58.15,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:58.15,0:03:00.95,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:58.15,0:03:00.95,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:00.95,0:03:05.99,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -400,7 +400,7 @@ Dialogue: 0,0:23:25.07,0:23:29.72,Main,Nyarth,0,0,0,,The leader of Team Rocket�
 Dialogue: 0,0:23:30.26,0:23:37.00,Main,Nyarth,0,0,0,,We’ve gotta catch the mega rare, pitch-black Ultra Beast \N that was chasing Lunala, meow!
 Dialogue: 0,0:23:37.00,0:23:41.48,Main,Nyarth,0,0,0,,We can’t let Matori and the others \N beat us to it, meow!
 Dialogue: 0,0:23:41.91,0:23:43.73,Main,Matori,0,0,0,,How bad are the damages?
-Dialogue: 0,0:23:43.73,0:23:45.45,Main,Gozu,0,0,0,,Check it immedia{\fscx250}-{\r}
+Dialogue: 0,0:23:43.73,0:23:45.45,Main,Gozu,0,0,0,,Check it immedia—
 Dialogue: 0,0:23:48.83,0:23:51.13,Main,Matori,0,0,0,,T-They’re already fixed?
 Dialogue: 0,0:23:52.12,0:23:53.95,Main,Gozu,0,0,0,,You sure work fast.
 Dialogue: 0,0:23:56.47,0:23:58.92,Main,Matori,0,0,0,,Well then... What now?

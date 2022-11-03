@@ -53,14 +53,14 @@ Dialogue: 1,0:02:15.61,0:02:22.62,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:15.61,0:02:22.62,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:22.62,0:02:24.87,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:22.62,0:02:24.87,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:24.87,0:02:31.83,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:24.87,0:02:31.83,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:24.87,0:02:31.83,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:24.87,0:02:31.83,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:31.83,0:02:34.63,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:31.83,0:02:34.63,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:34.63,0:02:37.84,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:34.63,0:02:37.84,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:37.84,0:02:45.14,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:37.84,0:02:45.14,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:37.84,0:02:45.14,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:37.84,0:02:45.14,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:45.14,0:02:47.93,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:45.14,0:02:47.93,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:47.93,0:02:52.98,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -191,7 +191,7 @@ Dialogue: 0,0:05:45.58,0:05:47.79,Main,Burnet,0,0,0,,Could we at least \N commun
 Dialogue: 0,0:05:47.79,0:05:49.16,Main,Wicke,0,0,0,,I’ll see what I can do.
 Dialogue: 0,0:06:05.05,0:06:07.18,Main,Human being,0,0,0,,We will reach our destination \N momentarily.
 Dialogue: 0,0:06:07.18,0:06:09.27,Main,Matori,0,0,0,,I’ve been waiting for this chance.
-Dialogue: 0,0:06:10.17,0:06:12.13,Main,Gozu,0,0,0,,We will go through the Ultra{\fscx250}-{\r}
+Dialogue: 0,0:06:10.17,0:06:12.13,Main,Gozu,0,0,0,,We will go through the Ultra—
 Dialogue: 0,0:06:20.91,0:06:21.85,Main,Matori,0,0,0,,What happened?!
 Dialogue: 0,0:06:21.85,0:06:23.27,Main,Human being,0,0,0,,We’ve taken a hit from 9 o’clock!
 Dialogue: 0,0:06:24.42,0:06:25.69,Main,Matori,0,0,0,,It doesn’t matter. Go!
@@ -330,7 +330,7 @@ Dialogue: 0,0:15:11.63,0:15:14.55,Main,Suiren,0,0,0,,...Bebenom’s world stays 
 Dialogue: 0,0:15:27.03,0:15:28.05,Main,Gladio,0,0,0,,Silvuddy!
 Dialogue: 0,0:15:29.49,0:15:30.11,Main,Satoshi,0,0,0,,Gladio!
 Dialogue: 0,0:15:32.07,0:15:33.16,Main,Gladio,0,0,0,,Air Slash!
-Dialogue: 0,0:15:46.00,0:15:46.89,Main,Gladio,0,0,0,,Another Air{\fscx250}-{\r}
+Dialogue: 0,0:15:46.00,0:15:46.89,Main,Gladio,0,0,0,,Another Air—
 Dialogue: 0,0:15:46.89,0:15:48.41,Main,Satoshi,0,0,0,,Wait, Gladio!
 Dialogue: 0,0:15:48.92,0:15:51.33,Main,Gladio,0,0,0,,If we leave Necrozma \N to its own devices,
 Dialogue: 0,0:15:51.33,0:15:53.64,Main,Gladio,0,0,0,,it’ll mean losing both \N Solgaleo {\i1}and{\i0} Lunala!

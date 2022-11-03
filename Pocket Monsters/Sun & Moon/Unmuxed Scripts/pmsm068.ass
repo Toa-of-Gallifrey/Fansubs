@@ -52,14 +52,14 @@ Dialogue: 1,0:01:35.57,0:01:42.58,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:01:35.57,0:01:42.58,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:01:42.58,0:01:44.83,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:01:42.58,0:01:44.83,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:01:44.83,0:01:51.80,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:01:44.83,0:01:51.80,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:01:44.83,0:01:51.80,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:01:44.83,0:01:51.80,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:01:51.80,0:01:54.59,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:01:51.80,0:01:54.59,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:01:54.59,0:01:57.80,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:01:54.59,0:01:57.80,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:01:57.80,0:02:05.10,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:01:57.80,0:02:05.10,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:01:57.80,0:02:05.10,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:01:57.80,0:02:05.10,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:05.10,0:02:07.89,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:05.10,0:02:07.89,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:07.89,0:02:12.94,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -299,7 +299,7 @@ Dialogue: 0,0:11:28.75,0:11:30.43,Main,Kojiro,0,0,0,,Yeah, that’s it! \N Um, I
 Dialogue: 0,0:11:30.43,0:11:34.61,Main,Kojiro,0,0,0,,My Pokémon needs this, \N or else its skin gets all {\i1}brackish{\i0}!
 Dialogue: 0,0:11:34.61,0:11:36.76,Main,Satoshi,0,0,0,,You really care for \N your Pokémon, huh?
 Dialogue: 0,0:11:36.76,0:11:40.43,Main,Kojiro,0,0,0,,Yeah, it’s really cute, if a bit {\i1}brash{\i0}. {I feel like Hidoide being there is a health hazard, even if any potential poison might be washable if Kojiro can seemingly knock himself out of it on command. - Toa}
-Dialogue: 0,0:11:40.86,0:11:42.24,Main,Kojiro,0,0,0,,Thank you for the cream{\fscx250}-{\r}
+Dialogue: 0,0:11:40.86,0:11:42.24,Main,Kojiro,0,0,0,,Thank you for the cream—
 Dialogue: 0,0:11:45.24,0:11:46.43,Main,Satoshi,0,0,0,,A-Are you all right?
 Dialogue: 0,0:11:46.43,0:11:49.00,Main,Kojiro,0,0,0,,I’m fine...
 Dialogue: 0,0:11:50.50,0:11:54.96,Main,Kojiro,0,0,0,,This is love, you know. Love!

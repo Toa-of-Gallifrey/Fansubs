@@ -52,14 +52,14 @@ Dialogue: 1,0:03:28.64,0:03:35.65,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:03:28.64,0:03:35.65,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:03:35.65,0:03:37.90,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:35.65,0:03:37.90,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:03:37.90,0:03:44.87,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:03:37.90,0:03:44.87,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:03:37.90,0:03:44.87,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:03:37.90,0:03:44.87,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:03:44.87,0:03:47.66,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:44.87,0:03:47.66,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:47.66,0:03:50.87,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:03:47.66,0:03:50.87,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:03:50.87,0:03:58.17,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:03:50.87,0:03:58.17,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:03:50.87,0:03:58.17,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:03:50.87,0:03:58.17,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:03:58.17,0:04:00.97,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:58.17,0:04:00.97,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:04:00.97,0:04:06.01,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -115,10 +115,10 @@ Dialogue: 0,0:19:06.64,0:19:13.22,Insert,Mirai Connection,0,0,0,,Wishing for a c
 Dialogue: 0,0:19:13.22,0:19:19.24,Insert,Mirai Connection,0,0,0,,In this world I wandered into all alone
 Dialogue: 0,0:19:19.24,0:19:26.16,Insert,Mirai Connection,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 0,0:19:26.16,0:19:28.04,Insert,Mirai Connection,0,0,0,,I choose you!
-Dialogue: 0,0:19:28.04,0:19:35.17,Insert,Mirai Connection,0,0,0,,Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 0,0:19:28.04,0:19:35.17,Insert,Mirai Connection,0,0,0,,Future Connection—start afresh and anew today
 Dialogue: 0,0:19:35.17,0:19:37.92,Insert,Mirai Connection,0,0,0,,Oh oh!
 Dialogue: 0,0:19:37.92,0:19:41.51,Insert,Mirai Connection,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 0,0:19:41.51,0:19:48.60,Insert,Mirai Connection,0,0,0,,Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 0,0:19:41.51,0:19:48.60,Insert,Mirai Connection,0,0,0,,Future Connection—don’t worry about tiny doubts
 Dialogue: 0,0:19:48.60,0:19:51.13,Insert,Mirai Connection,0,0,0,,Oh oh!
 Dialogue: 0,0:19:51.13,0:19:56.65,Insert,Mirai Connection,0,0,0,,When we hold hands, see, we’re shining!
 Dialogue: 0,0:19:58.10,0:20:01.38,Insert,Mirai Connection,0,0,0,,I’m still on the way, I don’t know what’s ahead

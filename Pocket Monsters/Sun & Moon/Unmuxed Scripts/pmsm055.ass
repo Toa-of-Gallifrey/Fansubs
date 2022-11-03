@@ -170,8 +170,8 @@ Dialogue: 0,0:06:23.55,0:06:25.34,Main,Burnet,0,0,0,,You don’t know.
 Dialogue: 0,0:06:25.34,0:06:27.86,Main,Kukui,0,0,0,,Um...
 Dialogue: 0,0:06:32.43,0:06:35.79,Main,Burnet,0,0,0,,Why don’t you just accept defeat, \N my dear Kukui?
 Dialogue: 0,0:06:36.44,0:06:38.12,Main,Kukui,0,0,0,,No, not yet!
-Dialogue: 0,0:06:40.36,0:06:42.28,Main,Burnet,0,0,0,,What I’m thinking right now is that{\fscx250}-{\r}
-Dialogue: 0,0:06:42.28,0:06:43.46,Main,Kukui,0,0,0,,W-W-Wai{\fscx250}-{\r}
+Dialogue: 0,0:06:40.36,0:06:42.28,Main,Burnet,0,0,0,,What I’m thinking right now is that—
+Dialogue: 0,0:06:42.28,0:06:43.46,Main,Kukui,0,0,0,,W-W-Wai—
 Dialogue: 0,0:06:44.15,0:06:45.77,Main,Burnet,0,0,0,,I choose you!
 Dialogue: 0,0:06:55.67,0:06:57.89,Main,Kukui,0,0,0,,I guess... I’ve caught you?
 Dialogue: 0,0:07:17.37,0:07:19.50,Main,Satoshi,0,0,0,,Sheesh, Mokuroh...
@@ -198,7 +198,7 @@ Dialogue: 0,0:08:27.27,0:08:28.86,Main,Them,0,0,0,,{\i1}How lovely!{\i0}
 Dialogue: 0,0:08:28.86,0:08:30.22,Main,Mamane,0,0,0,,B-But that means...
 Dialogue: 0,0:08:30.22,0:08:32.93,Main,Mamane,0,0,0,,Professor Burnet becomes \N Professor Kukui’s wife...
 Dialogue: 0,0:08:32.93,0:08:35.68,Main,Mamane,0,0,0,,Professor Kukui becomes \N Professor Burnet’s wife...
-Dialogue: 0,0:08:35.68,0:08:36.47,Main,Mamane,0,0,0,,And, and{\fscx250}-{\r}
+Dialogue: 0,0:08:35.68,0:08:36.47,Main,Mamane,0,0,0,,And, and—
 Dialogue: 0,0:08:36.47,0:08:39.74,Main,Kaki,0,0,0,,Calm down, Māmane. \N You just said there’d be two wives.
 Dialogue: 0,0:08:39.74,0:08:42.31,Main,Kaki,0,0,0,,So, Satoshi, when’s the ceremony \N being held? {Moved “Satoshi” further up. - Toa}
 Dialogue: 0,0:08:42.31,0:08:44.00,Main,Them,0,0,0,,{\i1}A wedding ceremony!{\i0}
@@ -276,7 +276,7 @@ Dialogue: 0,0:12:30.54,0:12:33.31,Main,Satoshi,0,0,0,,I’d have loved to \N sha
 Dialogue: 0,0:12:34.38,0:12:35.27,Main,Gladio,0,0,0,,Satoshi.
 Dialogue: 0,0:12:36.92,0:12:38.11,Main,Satoshi,0,0,0,,Gladio!
 Dialogue: 0,0:12:39.13,0:12:43.03,Main,Satoshi,0,0,0,,Great timing! Professor Kukui is \N getting married tomorrow.
-Dialogue: 0,0:12:43.03,0:12:44.28,Main,Satoshi,0,0,0,,{\an8}You should{\fscx250}-{\r}
+Dialogue: 0,0:12:43.03,0:12:44.28,Main,Satoshi,0,0,0,,{\an8}You should—
 Dialogue: 0,0:12:43.03,0:12:45.78,Main,Gladio,0,0,0,,I’m just about to \N head off on a journey.
 Dialogue: 0,0:12:46.22,0:12:47.47,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 0,0:12:47.47,0:12:48.93,Main,Gladio,0,0,0,,I intend to face the \N Island Pilgrimage. {Would “take on” be an acceptable substitute for “face”? - Toa}{It would... But this line is already pushing the characters per second limit way overboard so I’d rather not do anything to make it even slightly longer. -Starfish}
@@ -333,7 +333,7 @@ Dialogue: 0,0:17:22.72,0:17:25.31,Main,Them,0,0,0,,{\i1}Congratulations!{\i0}
 Dialogue: 0,0:17:27.88,0:17:28.96,Main,Kukui,0,0,0,,Thank you!
 Dialogue: 0,0:17:28.96,0:17:30.77,Main,Burnet,0,0,0,,Thank you, everybody!
 Dialogue: 0,0:17:31.47,0:17:34.40,Main,Alolan Oak,0,0,0,,You may now kiss the bride.
-Dialogue: 0,0:17:34.40,0:17:36.91,Main,Alolan Oak,0,0,0,,Now, don’t be shy{\fscx250}-{\r}
+Dialogue: 0,0:17:34.40,0:17:36.91,Main,Alolan Oak,0,0,0,,Now, don’t be shy—
 Dialogue: 0,0:17:42.14,0:17:42.91,Main,Burnet,0,0,0,,Gonbe?!
 Dialogue: 0,0:18:04.47,0:18:08.44,Main,Sauboh,0,0,0,,I’m truly, truly sorry!
 Dialogue: 0,0:18:10.77,0:18:15.03,Main,Lusamine,0,0,0,,Sauboh will be starting from scratch \N as Wicke’s subordinate. {Man, Lusamine offers insane job security. - Toa}

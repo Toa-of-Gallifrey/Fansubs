@@ -168,7 +168,7 @@ Dialogue: 0,0:05:55.40,0:05:56.16,Main,Kojiro,0,0,0,,D-Don’t!
 Dialogue: 0,0:05:56.71,0:05:59.32,Main,Kojiro,0,0,0,,It’s a valuable part \N of my collection... {Ultra nitpick, but suggesting "part" in place of "piece". - Toa}
 Dialogue: 0,0:05:59.32,0:06:00.74,Main,Musashi,0,0,0,,Collection?
 Dialogue: 0,0:06:00.74,0:06:03.83,Main,Musashi,0,0,0,,You know, Monster Balls are worthless \N if you don’t {\i1}use{\i0} them!
-Dialogue: 0,0:06:03.83,0:06:05.55,Main,Kojiro,0,0,0,,Wait! Please! \N Do anything but{\fscx250}-{\r}
+Dialogue: 0,0:06:03.83,0:06:05.55,Main,Kojiro,0,0,0,,Wait! Please! \N Do anything but—
 Dialogue: 0,0:06:05.55,0:06:07.47,Main,Musashi,0,0,0,,Oh, sheesh, be quiet already!
 Dialogue: 0,0:06:12.10,0:06:13.60,Main,Team Rocket,0,0,0,,{\i1}What?!{\i0}
 Dialogue: 0,0:06:13.60,0:06:16.10,Main,Musashi,0,0,0,,It went in!
@@ -225,7 +225,7 @@ Dialogue: 0,0:10:32.48,0:10:36.62,Main,Rotom,0,0,0,,Not only was it noticed by i
 Dialogue: 0,0:10:36.62,0:10:39.71,Main,Rotom,0,0,0,,Quite the contrary, \N it {\i1}took{\i0} a vicious attack-roto...{Oh and for the record... I'm going by the logic that since none of the characters KNOW Grass Owl yet, they also would not have noticed that he is a he. So... The dreaded "it" is acceptable in this episode. -Starfish}
 Dialogue: 0,0:10:39.71,0:10:41.74,Main,Mao,0,0,0,,Amakaji is used to this, after all.
 Dialogue: 0,0:10:41.74,0:10:42.94,Main,Satoshi,0,0,0,,Used to it?
-Dialogue: 0,0:10:42.94,0:10:44.15,Main,Mao,0,0,0,,You see, Amakaji’s scent{\fscx250}-{\r}
+Dialogue: 0,0:10:42.94,0:10:44.15,Main,Mao,0,0,0,,You see, Amakaji’s scent—
 Dialogue: 0,0:10:44.15,0:10:47.49,Main,Rotom,0,0,0,,Leave the rest of that explanation \N to me-roto!
 Dialogue: 0,0:10:47.49,0:10:50.33,Main,Rotom,0,0,0,,Amakaji. Fruit Pokémon. \N Grass type.
 Dialogue: 0,0:10:50.33,0:10:53.44,Main,Rotom,0,0,0,,A delectable aroma pours from its body.{Sun Pokédex entry -Starfish}

@@ -51,14 +51,14 @@ Dialogue: 1,0:01:45.58,0:01:52.59,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:01:45.58,0:01:52.59,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:01:52.59,0:01:54.84,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:01:52.59,0:01:54.84,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:01:54.84,0:02:01.81,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:01:54.84,0:02:01.81,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:01:54.84,0:02:01.81,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:01:54.84,0:02:01.81,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:01.81,0:02:04.60,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:01.81,0:02:04.60,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:04.60,0:02:07.81,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:04.60,0:02:07.81,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:07.81,0:02:15.11,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:07.81,0:02:15.11,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:07.81,0:02:15.11,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:07.81,0:02:15.11,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:15.11,0:02:17.90,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:15.11,0:02:17.90,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:17.90,0:02:22.95,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -327,7 +327,7 @@ Dialogue: 0,0:14:18.09,0:14:20.40,Main,Wrap,0,0,0,,The Normal type is way too pl
 Dialogue: 0,0:14:20.40,0:14:23.05,Main,Zip,0,0,0,,Bro’s Pokémon is way cooler!
 Dialogue: 0,0:14:23.05,0:14:25.49,Main,Tupper,0,0,0,,The Fire/Poison-type Yatoumori... {Added hyphen since “type” is followed by a noun. - Toa}
 Dialogue: 0,0:14:25.49,0:14:29.57,Main,Tupper,0,0,0,,He’s got plenty of battle experience, so here’s the facts: \N He’s gonna evolve any day now!
-Dialogue: 0,0:14:29.57,0:14:31.06,Main,Tupper,0,0,0,,It’s finally time to{\fscx250}-{\r}
+Dialogue: 0,0:14:29.57,0:14:31.06,Main,Tupper,0,0,0,,It’s finally time to—
 Dialogue: 0,0:14:31.06,0:14:33.56,Main,Ilima,0,0,0,,Um, pardon me, \N but who might you be?
 Dialogue: 0,0:14:35.00,0:14:36.58,Main,Zip,0,0,0,,Ya dun’ remember?!
 Dialogue: 0,0:14:36.58,0:14:40.03,Main,Wrap,0,0,0,,How could ya?! Ya stole somethin’ super precious \N from Bro, and ya forgot?!

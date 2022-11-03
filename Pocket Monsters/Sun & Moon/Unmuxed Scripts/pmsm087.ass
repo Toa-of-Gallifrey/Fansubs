@@ -53,14 +53,14 @@ Dialogue: 1,0:02:18.61,0:02:25.62,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:02:18.61,0:02:25.62,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:02:25.62,0:02:27.87,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:02:25.62,0:02:27.87,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:02:27.87,0:02:34.84,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:02:27.87,0:02:34.84,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:02:27.87,0:02:34.84,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:02:27.87,0:02:34.84,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:02:34.84,0:02:37.63,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:34.84,0:02:37.63,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:37.63,0:02:40.84,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:02:37.63,0:02:40.84,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:02:40.84,0:02:48.14,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:02:40.84,0:02:48.14,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:02:40.84,0:02:48.14,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:02:40.84,0:02:48.14,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:02:48.14,0:02:50.94,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:02:48.14,0:02:50.94,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:02:50.94,0:02:55.98,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -451,7 +451,7 @@ Dialogue: 0,0:24:11.20,0:24:12.59,Main,Matori,0,0,0,,{\i1}That{\i0} is nothing b
 Dialogue: 0,0:24:12.59,0:24:14.85,Main,Matori,0,0,0,,{\i1}This{\i0} and {\i1}it{\i0} can be {\i1}that{\i0}, \N but as long as {\i1}that{\i0} exists nothing but {\i1}that{\i0} can be {\i1}that{\i0}.{I get that this is supposed to be funny, but as a translator, this is just painful. -Starfish}
 Dialogue: 0,0:24:14.85,0:24:18.81,Main,Matori,0,0,0,,In the event that {\i1}that{\i0} is indeed {\i1}that{\i0}, then {\i1}that{\i0} must act \N in a manner befitting of the {\i1}that{\i0} that {\i1}that{\i0} is.
 Dialogue: 0,0:24:18.81,0:24:20.40,Main,Gozu,0,0,0,,Say that again?
-Dialogue: 0,0:24:20.40,0:24:21.39,Main,Matori,0,0,0,,{\i1}That{\i0} is nothing but{\fscx250}-{\r}
+Dialogue: 0,0:24:20.40,0:24:21.39,Main,Matori,0,0,0,,{\i1}That{\i0} is nothing but—
 Dialogue: 0,0:24:21.39,0:24:24.56,Main,Gozu,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:24.56,0:24:28.59,Main,Gozu,0,0,0,,Lunala VS UB: Black! A Full Moon Battle!!
 Dialogue: 0,0:24:28.59,0:24:30.40,Main,Gozu,0,0,0,,Watch it, or you’ll suffer {\i1}that{\i0}!

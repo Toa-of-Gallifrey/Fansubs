@@ -52,14 +52,14 @@ Dialogue: 1,0:03:35.57,0:03:42.57,OP,,0,0,0,,I found a piece of the dream I’d 
 Dialogue: 0,0:03:35.57,0:03:42.57,OPp2,,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:03:42.57,0:03:44.83,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:42.57,0:03:44.83,OPp2,,0,0,0,,I choose you!
-Dialogue: 1,0:03:44.83,0:03:51.79,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
-Dialogue: 0,0:03:44.83,0:03:51.79,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 1,0:03:44.83,0:03:51.79,OP,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
+Dialogue: 0,0:03:44.83,0:03:51.79,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—start afresh and anew today
 Dialogue: 1,0:03:51.79,0:03:54.59,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:03:51.79,0:03:54.59,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:03:54.59,0:03:57.80,OP,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
 Dialogue: 0,0:03:54.59,0:03:57.80,OPp2,,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:03:57.80,0:04:05.10,OP,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
-Dialogue: 0,0:03:57.80,0:04:05.10,OPp2,,0,0,0,,{\fsp-1.5}Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:03:57.80,0:04:05.10,OP,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
+Dialogue: 0,0:03:57.80,0:04:05.10,OPp2,,0,0,0,,{\fsp-1.5}Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:04:05.10,0:04:07.89,OP,,0,0,0,,Oh oh!
 Dialogue: 0,0:04:05.10,0:04:07.89,OPp2,,0,0,0,,Oh oh!
 Dialogue: 1,0:04:07.89,0:04:12.94,OP,,0,0,0,,When we hold hands, see, we’re shining!
@@ -115,10 +115,10 @@ Dialogue: 0,0:16:05.17,0:16:11.93,Insert,Mirai Connection,0,0,0,,Wishing for a c
 Dialogue: 0,0:16:11.93,0:16:17.56,Insert,Mirai Connection,0,0,0,,In this world I wandered into all alone
 Dialogue: 0,0:16:17.56,0:16:24.56,Insert,Mirai Connection,0,0,0,,I found a piece of the dream I’d been seeking!
 Dialogue: 1,0:16:24.56,0:16:26.48,Insert,Mirai Connection,0,0,0,,I choose you!
-Dialogue: 0,0:16:26.48,0:16:33.85,Insert,Mirai Connection,0,0,0,,Future Connection{\fscx250}-{\r}start afresh and anew today
+Dialogue: 0,0:16:26.48,0:16:33.85,Insert,Mirai Connection,0,0,0,,Future Connection—start afresh and anew today
 Dialogue: 1,0:16:33.85,0:16:36.10,Insert,Mirai Connection,0,0,0,,Oh oh!
 Dialogue: 1,0:16:36.10,0:16:39.97,Insert,Mirai Connection,0,0,0,,It’s ultra! We’re gonna have sunshine then rainbows
-Dialogue: 1,0:16:39.97,0:16:47.13,Insert,Mirai Connection,0,0,0,,Future Connection{\fscx250}-{\r}don’t worry about tiny doubts
+Dialogue: 1,0:16:39.97,0:16:47.13,Insert,Mirai Connection,0,0,0,,Future Connection—don’t worry about tiny doubts
 Dialogue: 1,0:16:47.13,0:16:49.80,Insert,Mirai Connection,0,0,0,,Oh oh!
 Dialogue: 1,0:16:49.80,0:16:54.95,Insert,Mirai Connection,0,0,0,,Because all the time, see, we’re shining!
 Dialogue: 1,0:16:56.33,0:17:02.29,Insert,Mirai Connection,0,0,0,,You’re my sunshine and I love you
@@ -229,7 +229,7 @@ Dialogue: 0,0:06:13.36,0:06:15.89,Main,Mao,0,0,0,,Just hang on a second, Noa.
 Dialogue: 0,0:06:16.49,0:06:17.90,Main,Satoshi,0,0,0,,Noa?
 Dialogue: 0,0:06:19.16,0:06:23.53,Main,Rotom,0,0,0,,The poster girl for \N the pancake store, Noa-roto!
 Dialogue: 0,0:06:23.53,0:06:26.95,Main,Noa,0,0,0,,Oh, if it isn’t Satoshi! \N Alola!
-Dialogue: 0,0:06:27.37,0:06:27.96,Main,Satoshi,0,0,0,,Noa{\fscx250}-{\r}
+Dialogue: 0,0:06:27.37,0:06:27.96,Main,Satoshi,0,0,0,,Noa—
 Dialogue: 0,0:06:27.96,0:06:30.99,Main,Ulu,0,0,0,,It’s been so long, Noa!
 Dialogue: 0,0:06:31.84,0:06:34.71,Main,Noa,0,0,0,,`Ulu? You’re back! \N It’s been so long!
 Dialogue: 0,0:06:34.71,0:06:36.38,Main,Ulu,0,0,0,,Indeed it has!
@@ -275,7 +275,7 @@ Dialogue: 0,0:08:39.55,0:08:40.51,Main,Musashi,0,0,0,,I’m in!
 Dialogue: 0,0:08:40.51,0:08:41.29,Main,Kojiro,0,0,0,,That was quick!
 Dialogue: 0,0:08:41.29,0:08:44.59,Main,Musashi,0,0,0,,Well, duh! \N It’s a cruise around Alola!
 Dialogue: 0,0:08:44.59,0:08:48.55,Main,Musashi,0,0,0,,It’ll be a nice tropical vacation! {This line feels a little awkward to me. I wanna suggest “It’ll be a nice tropical island vacation!”, but I’m not sure how faithful that is. - Toa}{Well it expunges the “naisu vakeeshon” engrish... But since when is that a BAD thing?! So yeah, suggestion approved. -Starfish OF THE FUTURE}
-Dialogue: 0,0:08:49.30,0:08:51.34,Main,Kojiro,0,0,0,,Well then why don’t we just \N get the old air balloon and{\fscx250}-{\r}
+Dialogue: 0,0:08:49.30,0:08:51.34,Main,Kojiro,0,0,0,,Well then why don’t we just \N get the old air balloon and—
 Dialogue: 0,0:08:51.34,0:08:52.97,Main,Musashi,0,0,0,,That’s not the same {\i1}at all!{\i0}
 Dialogue: 0,0:08:52.97,0:08:56.05,Main,Musashi,0,0,0,,It’s meaningful {\i1}because{\i0} \N it’s on a luxury cruise liner!
 Dialogue: 0,0:08:59.36,0:09:00.89,Main,Ulu,0,0,0,,Welcome, everyone!
@@ -391,7 +391,7 @@ Dialogue: 0,0:14:13.57,0:14:15.73,Main,Mao,0,0,0,,Thank you, Noa!
 Dialogue: 0,0:14:17.24,0:14:18.83,Main,Mao,0,0,0,,Big brother?
 Dialogue: 0,0:14:18.83,0:14:20.96,Main,Ulu,0,0,0,,It’s settled...
 Dialogue: 0,0:14:20.96,0:14:25.51,Main,Ulu,0,0,0,,Now that I’ve been blessed by the Goddess of Victory, \N my success is a foregone conclusion.
-Dialogue: 0,0:14:25.51,0:14:30.22,Main,Ulu,0,0,0,,Now Noa and I will get m-m-m-m{\fscx250}-{\r}
+Dialogue: 0,0:14:25.51,0:14:30.22,Main,Ulu,0,0,0,,Now Noa and I will get m-m-m-m—
 Dialogue: 0,0:14:36.60,0:14:40.31,Main,Mao,0,0,0,,So all the sweet Ubu Berries are gone.
 Dialogue: 0,0:14:40.31,0:14:42.31,Main,Ulu,0,0,0,,It’s my fault.
 Dialogue: 0,0:14:42.31,0:14:44.78,Main,Ulu,0,0,0,,This happened because \N I got careless.
