@@ -9,6 +9,7 @@ Pocket Monsters: Twilight Wings
 Pokémon Legends Arceus: Twin Indigo of Melting Snow  
 Pokémon Evolutions  
 Pokétoon: Yume no Tsubomi  
+PokéPark  
 Pocket Monsters (2019) Audio Dramas
 
 **Projects planned to be added eventually:**  
