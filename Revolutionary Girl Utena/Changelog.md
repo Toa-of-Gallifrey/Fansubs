@@ -36,6 +36,7 @@
 -Romaji removed from default track
 
 **Episode 10:**  
+-Translation adjustment: The rules state that you’ve lost \N once your rose is scattered! -> Per the rules, you’ve lost \N once the rose is stricken from your chest!
 -Romaji removed from default track
 
 **Episode 11:**  
