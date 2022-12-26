@@ -50,7 +50,8 @@
 -Romaji removed from default track
 
 **Episode 14:**  
-Currently unchanged from v1 release
+-Translation adjustment: This rose which reaches full bloom \N only at the end of the world... <...> I bestow it upon you! -> A rose in majestic full bloom \N at the end of the world... <...> ...is bestowed to you!  
+-Translation adjustment: Come here, Anthy... -> Come to me, Anthy.
 
 **Episode 15:**  
 -Typo corrected: Rumor has it that teacher’s fall down the stairs last week wasn't an accident. -> Rumor has it that teacher’s fall down the stairs last week wasn’t an accident.  
@@ -75,4 +76,8 @@ Currently unchanged from v1 release
 Currently unchanged from v1 release
 
 **Episode 22:**  
+-Translation adjustment: This is the first step \N in the job you are advancing. <...> Soon, the path to eternity \N will be opened from this academy. -> This is the first step \N in the job you are advancing... <...> In soon opening the path to eternity \N from this academy.  
+-Translation adjustment: Now I, too, \N wish to grab hold of eternity. -> Now I, too, \N wish to attempt to attain eternity.
+
+**Episode 23:**  
 Currently unchanged from v1 release

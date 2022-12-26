@@ -1531,8 +1531,8 @@ Dialogue: 0,0:13:25.57,0:13:27.65,Main,Mamiya,0,0,0,,You’ve been chosen...
 Dialogue: 0,0:13:28.90,0:13:30.47,Main,Mamiya,0,0,0,,...by my black rose.
 Dialogue: 0,0:13:32.66,0:13:34.96,Main,Mamiya,0,0,0,,This is your new heart...
 Dialogue: 0,0:13:35.70,0:13:37.18,Main,Mamiya,0,0,0,,...and your rebirth.
-Dialogue: 0,0:13:42.51,0:13:45.18,Main,Mamiya,0,0,0,,This rose which reaches full bloom \N only at the end of the world... {I bestow this rose which reaches full bloom only at the end of the world... upon you!}{Assuming that this is different to Akio's world end - will change if needed. Does he say this everytime? Do we need it to be shorter?}
-Dialogue: 0,0:13:46.26,0:13:47.39,Main,Mamiya,0,0,0,,I bestow it upon you!
+Dialogue: 0,0:13:42.51,0:13:45.18,Main,Mamiya,0,0,0,,A rose in majestic full bloom \N at the end of the world...
+Dialogue: 0,0:13:46.26,0:13:47.39,Main,Mamiya,0,0,0,,...is bestowed to you!
 Dialogue: 0,0:13:56.93,0:13:59.57,Main,Mikage,0,0,0,,A Black Rose Seal...
 Dialogue: 0,0:14:03.74,0:14:06.48,Main,Wakaba,0,0,0,,Isn’t there anything fun \N we can do?
 Dialogue: 0,0:14:06.48,0:14:08.37,Main,Utena,0,0,0,,We had a party \N just this Saturday.
@@ -1603,7 +1603,7 @@ Dialogue: 0,0:20:38.83,0:20:39.56,Main,Anthy,0,0,0,,I will.
 Dialogue: 0,0:20:42.98,0:20:43.73,Main,Utena,0,0,0,,Huh?
 Dialogue: 0,0:20:43.73,0:20:45.47,Main,Utena,0,0,0,,Chu-Chu, \N you’re still here.
 Dialogue: 0,0:20:46.33,0:20:47.98,Main,Utena,0,0,0,,Aren’t you going with her?
-Dialogue: 0,0:21:09.24,0:21:11.28,Main,Akio,0,0,0,,Come here, Anthy...
+Dialogue: 0,0:21:09.24,0:21:11.28,Main,Akio,0,0,0,,Come to me, Anthy.
 Dialogue: 0,0:21:24.55,0:21:27.06,Main,Akio,0,0,0,,Did you feel \N lonely this week?
 Dialogue: 0,0:21:27.06,0:21:28.86,Main,Anthy,0,0,0,,Yes, Big Brother.
 Comment: 0,0:21:41.28,0:21:41.28,Main,,0,0,0,,{Ending}
