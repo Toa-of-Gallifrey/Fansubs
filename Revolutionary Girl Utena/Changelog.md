@@ -64,7 +64,7 @@
 Currently unchanged from v1 release
 
 **Episode 18:**  
-Currently unchanged from v1 release
+-Translation adjustment: A path has been prepared for you. -> A path you should follow has been prepared.
 
 **Episode 19:**  
 Currently unchanged from v1 release
