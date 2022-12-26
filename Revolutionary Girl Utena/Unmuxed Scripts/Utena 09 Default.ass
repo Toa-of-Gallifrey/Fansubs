@@ -231,7 +231,7 @@ Dialogue: 0,0:02:56.61,0:02:56.65,Bucket,,0,0,0,,{=0}{\1a50\blur1.5\pos(111.6,49
 Dialogue: 0,0:02:56.65,0:02:56.69,Bucket,,0,0,0,,{=0}{\1a50\blur1.5\pos(111.58,496.49)\c&H914553&\fscy50}C{\fscy}lub
 Dialogue: 0,0:02:56.69,0:02:56.73,Bucket,,0,0,0,,{=0}{\1a50\blur1.5\pos(111.1,496.55)\c&H914553&\fscy50}C{\fscy}lub
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:12:30.10,0:12:33.40,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Was that prince not \N a guy like me?
+Dialogue: 0,0:12:30.10,0:12:33.40,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}That prince was \N a guy like me, was he not?
 Dialogue: 0,0:22:58.86,0:23:01.36,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Touga got hurt \N trying to protect me.
 Dialogue: 0,0:23:01.36,0:23:03.82,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}It wasn’t your fault, \N Master Utena.
 Dialogue: 0,0:23:03.82,0:23:06.69,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}But his little sister \N seems to think it is.
@@ -415,11 +415,11 @@ Dialogue: 0,0:08:19.03,0:08:20.15,Main,Touga,0,0,0,,{because}‘cause I’m a ge
 Dialogue: 0,0:08:21.98,0:08:25.01,Main,Saionji,0,0,0,,But why are you hiding \N in a place like this?
 Dialogue: 0,0:08:25.01,0:08:27.89,Main,Utena,0,0,0,,Because I belong here.
 Dialogue: 0,0:08:27.89,0:08:28.96,Main,Touga,0,0,0,,What do you mean?
-Dialogue: 0,0:08:30.35,0:08:32.88,Main,Touga,0,0,0,,There’s coffins \N next to mine, right?
+Dialogue: 0,0:08:30.35,0:08:32.88,Main,Utena,0,0,0,,There’s coffins \N next to mine, right?
 Dialogue: 0,0:08:32.88,0:08:36.04,Main,Utena,0,0,0,,My father and mother \N died today.
 Dialogue: 0,0:08:36.04,0:08:38.50,Main,Utena,0,0,0,,And there was an extra coffin.
 Dialogue: 0,0:08:39.30,0:08:42.49,Main,Utena,0,0,0,,It had to be meant for me.
-Dialogue: 0,0:08:42.49,0:08:45.42,Main,Utena,0,0,0,,Being alive makes me feel sick
+Dialogue: 0,0:08:42.49,0:08:45.42,Main,Utena,0,0,0,,Being alive makes me feel sick.
 Dialogue: 0,0:08:45.42,0:08:46.64,Main,Touga,0,0,0,,It does?
 Dialogue: 0,0:08:46.64,0:08:49.16,Main,Utena,0,0,0,,Yes... Awfully sick...
 Dialogue: 0,0:08:50.38,0:08:54.85,Main,Utena,0,0,0,,Why do we keep on living \N when we’re all gonna die someday anyway?
@@ -474,7 +474,7 @@ Dialogue: 0,0:12:08.37,0:12:12.25,Main,Utena,0,0,0,,The floating castle \N you c
 Dialogue: 0,0:12:12.25,0:12:14.42,Main,Utena,0,0,0,,I wonder what it actually is.
 Dialogue: 0,0:12:17.22,0:12:20.91,Main,Touga,0,0,0,,That castle is where you will \N meet your prince someday.
 Dialogue: 0,0:12:21.43,0:12:23.39,Main,Utena,0,0,0,,Someone blabbed, huh?
-Dialogue: 1,0:12:30.10,0:12:33.40,Main,Touga,0,0,0,,Was that prince not \N a guy like me?
+Dialogue: 1,0:12:30.10,0:12:33.40,Main,Touga,0,0,0,,That prince was \N a guy like me, was he not?
 Dialogue: 0,0:12:33.40,0:12:34.66,Main,Utena,0,0,0,,Stop it!
 Dialogue: 0,0:12:39.01,0:12:40.46,Main,Utena,0,0,0,,Stop screwing with me!
 Dialogue: 0,0:12:43.06,0:12:44.20,Main,Utena,0,0,0,,Don’t make me laugh.
@@ -592,8 +592,8 @@ Dialogue: 0,0:20:05.86,0:20:08.19,Main,Utena,0,0,0,,But what exactly happened?
 Dialogue: 0,0:20:08.19,0:20:11.19,Main,Anthy,0,0,0,,Truthfully, \N I’m not quite sure...
 Dialogue: 0,0:20:12.70,0:20:13.44,Main,Anthy,0,0,0,,Master Utena!
 Dialogue: 0,0:20:36.88,0:20:38.97,Main,Utena,0,0,0,,Touga! Why?
-Dialogue: 0,0:20:40.06,0:20:42.45,Main,Touga,0,0,0,,Was your prince not...
-Dialogue: 0,0:20:43.11,0:20:45.43,Main,Touga,0,0,0,,...a guy like me?
+Dialogue: 0,0:20:40.06,0:20:42.45,Main,Touga,0,0,0,,Your prince was...
+Dialogue: 0,0:20:43.11,0:20:45.43,Main,Touga,0,0,0,,...a guy like me, was he not?
 Dialogue: 0,0:20:51.37,0:20:54.69,Main,Saionji,0,0,0,,Why do you always...?
 Dialogue: 0,0:20:55.10,0:20:58.52,Main,Touga,0,0,0,,Because I’m a gentleman...
 Dialogue: 0,0:21:06.22,0:21:07.17,Main,Touga,0,0,0,,It’s me.

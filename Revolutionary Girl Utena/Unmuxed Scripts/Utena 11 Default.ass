@@ -37,8 +37,8 @@ Style: Duel Songs JP,LTFinnegan Regular,38,&H003334BB,&H00F3DDEC,&H00FFFFFF,&HFF
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:49.92,0:04:52.30,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Was your prince not... {Line from episode 9.}
-Dialogue: 0,0:04:52.83,0:04:55.44,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}...a guy like me? {Line from episode 9.}
+Dialogue: 0,0:04:49.92,0:04:52.30,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Your prince was... {Line from episode 9.}
+Dialogue: 0,0:04:52.83,0:04:55.44,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}...a guy like me, was he not? {Line from episode 9.}
 Dialogue: 0,0:22:59.36,0:23:01.27,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}I... lost...
 Dialogue: 0,0:23:01.27,0:23:03.43,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Good morning, Tenjou.
 Dialogue: 0,0:23:03.43,0:23:04.52,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Himemiya...
@@ -256,8 +256,8 @@ Dialogue: 0,0:04:37.22,0:04:38.97,Main,Utena,0,0,0,,Um... Nothing...
 Dialogue: 0,0:04:38.97,0:04:42.09,Main,Wakaba,0,0,0,,Oh... Eyeing the prince \N of the Student Council, huh?
 Dialogue: 0,0:04:43.00,0:04:44.30,Main,Utena,0,0,0,,Prince?
 Dialogue: 0,0:04:46.85,0:04:49.48,Main,Utena,0,0,0,,That time, he said...
-Dialogue: 1,0:04:49.92,0:04:52.30,Main,Touga,0,0,0,,Was your prince not... {Line from episode 9.}
-Dialogue: 1,0:04:52.83,0:04:55.44,Main,Touga,0,0,0,,...a guy like me? {Line from episode 9.}
+Dialogue: 1,0:04:49.92,0:04:52.30,Main,Touga,0,0,0,,Your prince was... {Line from episode 9.}
+Dialogue: 1,0:04:52.83,0:04:55.44,Main,Touga,0,0,0,,...a guy like me, was he not? {Line from episode 9.}
 Dialogue: 0,0:04:55.44,0:04:57.90,Main,Utena,0,0,0,,If that’s true...
 Dialogue: 0,0:04:58.52,0:05:01.91,Main,Utena,0,0,0,,...could he be my prince \N from back then?
 Dialogue: 0,0:05:03.01,0:05:04.01,Main,Anthy,0,0,0,,Astounding!
@@ -285,7 +285,7 @@ Dialogue: 0,0:06:18.98,0:06:20.11,Main,Juri,0,0,0,,How cold.
 Dialogue: 0,0:06:21.03,0:06:23.61,Main,Touga,0,0,0,,Sometimes, \N the depth of your feelings...
 Dialogue: 0,0:06:23.61,0:06:26.74,Main,Touga,0,0,0,,...can weigh so heavily upon you \N as to hold you back.
 Dialogue: 0,0:06:29.09,0:06:32.45,Main,Touga,0,0,0,,And the stronger the feelings, \N the stronger the effect.
-Dialogue: 0,0:06:38.00,0:06:41.63,Main,Touga,0,0,0,,Was your prince not \N a guy like me? {Line from episode 9.}
+Dialogue: 0,0:06:38.00,0:06:41.63,Main,Touga,0,0,0,,Your prince was \N a guy like me, was he not? {Line from episode 9.}
 Dialogue: 0,0:07:03.14,0:07:05.08,Main,Touga,0,0,0,,Incredible, all of them!
 Dialogue: 0,0:07:05.08,0:07:07.93,Main,Touga,0,0,0,,And they say \N this variety is quite difficult to grow.
 Dialogue: 0,0:07:07.93,0:07:09.16,Main,Anthy,0,0,0,,My sincere thanks.

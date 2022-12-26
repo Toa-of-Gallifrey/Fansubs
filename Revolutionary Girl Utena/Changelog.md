@@ -33,13 +33,17 @@
 -Romaji removed from default track
 
 **Episode 09:**  
+-Typo corrected: Being alive makes me feel sick -> Being alive makes me feel sick.
+-Editing adjustment: Was that prince not a guy like me? -> That prince was a guy like me, was he not?  
+-Editing adjustment: Was your prince not a guy like me? -> Your prince was a guy like me, was he not?  
 -Romaji removed from default track
 
 **Episode 10:**  
--Translation adjustment: The rules state that you’ve lost \N once your rose is scattered! -> Per the rules, you’ve lost \N once the rose is stricken from your chest!
+-Translation adjustment: The rules state that you’ve lost once your rose is scattered! -> Per the rules, you’ve lost once the rose is stricken from your chest!  
 -Romaji removed from default track
 
 **Episode 11:**  
+-Editing adjustment: Was your prince not a guy like me? -> Your prince was a guy like me, was he not?  
 -Romaji removed from default track
 
 **Episode 12:**  
@@ -51,7 +55,7 @@
 -Romaji removed from default track
 
 **Episode 14:**  
--Translation adjustment: This rose which reaches full bloom \N only at the end of the world... <...> I bestow it upon you! -> A rose in majestic full bloom \N at the end of the world... <...> ...is bestowed to you!  
+-Translation adjustment: This rose which reaches full bloom only at the end of the world... <...> I bestow it upon you! -> A rose in majestic full bloom at the end of the world... <...> ...is bestowed to you!  
 -Translation adjustment: Come here, Anthy... -> Come to me, Anthy.
 
 **Episode 15:**  
@@ -77,7 +81,7 @@ Currently unchanged from v1 release
 Currently unchanged from v1 release
 
 **Episode 22:**  
--Translation adjustment: This is the first step \N in the job you are advancing. <...> Soon, the path to eternity \N will be opened from this academy. -> This is the first step \N in the job you are advancing... <...> In soon opening the path to eternity \N from this academy.  
+-Translation adjustment: This is the first step in the job you are advancing. <...> Soon, the path to eternity will be opened from this academy. -> This is the first step in the job you are advancing... <...> In soon opening the path to eternity from this academy.  
 -Translation adjustment: Now I, too, \N wish to grab hold of eternity. -> Now I, too, \N wish to attempt to attain eternity.
 
 **Episode 23:**  
