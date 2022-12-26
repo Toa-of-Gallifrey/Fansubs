@@ -1,7 +1,8 @@
-**Yume no Tsubomi**
-
+**The Distant Blue Sky**  
 No changes from release as of now.
 
-**PokéPark**
+**Yume no Tsubomi**  
+No changes from release as of now.
 
-Added missing periods to some signs.
+**PokéPark**  
+-Added missing periods to some signs.
