@@ -25,7 +25,7 @@
 -Romaji removed from default track
 
 **Episode 07:**  
--Editing adjustment: Why, you...! Hold it there! -> Why, you...! Hold it right there!
+-Editing adjustment: Why, you...! Hold it there! -> Why, you...! Hold it right there!  
 -Translation adjustment: You must hate me for being this kind of person. -> You probably hate me for being this kind of person.  
 -Typo corrected: That so-called “nobility” of yours [...] is just a cheap act you put on to impress a guy you like! -> That so-called “nobility” of yours... [...] ...is just a cheap act you put on to impress a guy you like!  
 -Romaji removed from default track
