@@ -41,12 +41,12 @@ Dialogue: 0,0:11:14.91,0:11:19.87,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:16:44.66,0:16:47.99,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}In the end, it still \N came down to this, Mickey.
 Dialogue: 0,0:17:53.84,0:17:56.29,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}I’ll make you mine \N no matter the cost!
 Dialogue: 0,0:22:59.54,0:23:02.65,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Recently, someone’s apparently \N been trying to kill Nanami!
-Dialogue: 0,0:23:02.65,0:23:03.57,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Oh, my!
-Dialogue: 0,0:23:03.57,0:23:05.47,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Don’t just go all “Oh, my!” here.
+Dialogue: 0,0:23:02.65,0:23:03.57,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Oh, my goodness!{Same phrasing as the "maa taihen" in episode 2. - Toa}
+Dialogue: 0,0:23:03.57,0:23:05.47,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Don’t just go all \N “Oh, my goodness!” here.
 Dialogue: 0,0:23:05.47,0:23:10.45,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}They say animals were involved, \N so you’re being suspected.
 Dialogue: 0,0:23:10.45,0:23:14.75,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}But, Utena-sama, Nanami-san seems to \N enjoy playing with the wild horse.
 Dialogue: 0,0:23:14.75,0:23:17.02,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}She’s not playing! \N She’s running away!
-Dialogue: 0,0:23:17.02,0:23:18.47,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Oh, my!
+Dialogue: 0,0:23:17.02,0:23:18.47,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Oh, my goodness!
 Dialogue: 0,0:23:18.47,0:23:20.64,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Next time, \N on Revolutionary Girl Utena:
 Dialogue: 0,0:23:20.64,0:23:22.18,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Look Out, Nanami-sama!”
 Dialogue: 0,0:23:22.18,0:23:24.43,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse.
@@ -248,7 +248,7 @@ Dialogue: 0,0:02:24.14,0:02:25.88,Main,Juri,0,0,0,,The power of purity.
 Dialogue: 0,0:02:27.65,0:02:30.91,Main,Juri,0,0,0,,Your sword always carries \N the force of your sincerity.
 Dialogue: 0,0:02:30.91,0:02:34.05,Main,Juri,0,0,0,,Today, it seemed \N stronger than ever.
 Dialogue: 0,0:02:34.05,0:02:37.05,Main,Juri,0,0,0,,Could it be owed to the girl \N whose test you were correcting?
-Dialogue: 0,0:02:37.05,0:02:37.78,Main,Miki,0,0,0,,Wh—
+Dialogue: 0,0:02:37.05,0:02:37.78,Main,Miki,0,0,0,,Wh—?
 Dialogue: 0,0:02:39.07,0:02:40.88,Main,Miki,0,0,0,,Wh-What are you \N talking about?
 Dialogue: 0,0:02:40.88,0:02:45.31,Main,Juri,0,0,0,,But... I don’t think your sword \N is meant for fighting.
 Comment: 0,0:02:45.32,0:02:45.32,Main,,0,0,0,,{Part A}
@@ -270,7 +270,7 @@ Dialogue: 0,0:04:45.10,0:04:47.48,Main,Miki,0,0,0,,...would play with the piano,
 Dialogue: 0,0:04:48.22,0:04:49.39,Main,Miki,0,0,0,,In that garden...
 Dialogue: 0,0:04:52.31,0:04:57.82,Main,Miki,0,0,0,,Our playing would astound \N the adults in our community.
 Dialogue: 0,0:04:57.82,0:04:59.24,Main,Utena,0,0,0,,Wow...
-Dialogue: 0,0:04:59.24,0:05:01.32,Main,Utena,0,0,0,,So you were both \N child geniuses.
+Dialogue: 0,0:04:59.24,0:05:01.32,Main,Utena,0,0,0,,So you were both \N child prodigies.
 Dialogue: 0,0:05:01.76,0:05:06.55,Main,Miki,0,0,0,,I now realize that all my happiness \N rested in that garden.
 Dialogue: 0,0:05:07.34,0:05:08.16,Main,Miki,0,0,0,,But then...
 Dialogue: 0,0:05:08.16,0:05:09.33,Main,Utena,0,0,0,,But then?
@@ -284,16 +284,16 @@ Dialogue: 0,0:05:26.33,0:05:29.87,Main,Kozue,0,0,0,,Performing in front of \N al
 Dialogue: 0,0:05:29.87,0:05:32.60,Main,Kozue,0,0,0,,All those strangers \N scare me.
 Dialogue: 0,0:05:32.60,0:05:33.92,Main,Miki,0,0,0,,It’ll be okay!
 Dialogue: 0,0:05:33.92,0:05:36.11,Main,Miki,0,0,0,,Everything will be okay. \N I’ll be with you.
-Dialogue: 0,0:05:38.61,0:05:43.56,Main,Miki,0,0,0,,I’ll be by your side the entire time, \N and we will play, just like we always have!
+Dialogue: 0,0:05:38.61,0:05:43.56,Main,Miki,0,0,0,,I’ll be by your side the entire time, \N and we’ll play, just like we always have!
 Dialogue: 0,0:05:43.56,0:05:45.62,Main,Miki,0,0,0,,There’s nothing to be afraid of!
 Dialogue: 0,0:05:50.12,0:05:51.73,Main,Human being,0,0,0,,He has measles.
 Dialogue: 0,0:05:51.73,0:05:56.13,Main,Human being,0,0,0,,Well, he should be fine \N after a week of bed rest.
 Dialogue: 0,0:05:56.13,0:05:58.56,Main,Human being,0,0,0,,Come, sweetie. \N Time to go to the concert hall.
 Dialogue: 0,0:05:58.56,0:05:59.92,Main,Human being,0,0,0,,Everyone’s waiting!
 Dialogue: 0,0:05:59.92,0:06:01.84,Main,Human being,0,0,0,,Your brother wants you \N to do your best, okay?
-Dialogue: 0,0:06:01.84,0:06:04.18,Main,Kozue,0,0,0,,Miki! Miki!
-Dialogue: 0,0:06:04.18,0:06:06.63,Main,Kozue,0,0,0,,Miki! Miki!
-Dialogue: 0,0:06:06.63,0:06:09.97,Main,Kozue,0,0,0,,Miki! Miki!
+Dialogue: 0,0:06:01.84,0:06:04.18,Main,Kozue,0,0,0,,Big Bro! Big Bro!
+Dialogue: 0,0:06:04.18,0:06:06.63,Main,Kozue,0,0,0,,Big Bro! Big Bro!
+Dialogue: 0,0:06:06.63,0:06:09.97,Main,Kozue,0,0,0,,Big Bro! Big Bro!
 Dialogue: 0,0:06:15.14,0:06:17.27,Main,Human being,0,0,0,,She just up \N and ran off the stage.
 Dialogue: 0,0:06:17.27,0:06:20.28,Main,Human being,0,0,0,,She was hiding somewhere \N until sunset.
 Dialogue: 0,0:06:20.28,0:06:24.28,Main,Human being,0,0,0,,For a while after being found, \N she wouldn’t so much as say a word.
@@ -312,7 +312,7 @@ Dialogue: 0,0:07:29.54,0:07:31.01,Main,Utena,0,0,0,,How about it, Himemiya?
 Dialogue: 0,0:07:31.79,0:07:32.64,Main,Anthy,0,0,0,,Hmm?
 Dialogue: 0,0:07:33.20,0:07:35.64,Main,Utena,0,0,0,,How do you feel \N about younger guys?
 Dialogue: 0,0:07:35.64,0:07:38.40,Main,Anthy,0,0,0,,I am your bride, \N Utena-sama.
-Dialogue: 0,0:07:39.27,0:07:44.49,Main,Utena,0,0,0,,Look, Himemiya, I said I don’t want you \N going around saying that.
+Dialogue: 0,0:07:39.27,0:07:44.49,Main,Utena,0,0,0,,{\q2}Look, Himemiya, I’ve told you \N I don’t want you going around saying that.
 Dialogue: 0,0:07:44.90,0:07:48.49,Main,Anthy,0,0,0,,But the fact of the matter is \N I’m engaged to you, Utena-sama.
 Dialogue: 0,0:07:49.66,0:07:50.91,Main,Utena,0,0,0,,Listen here!
 Dialogue: 0,0:07:51.37,0:07:55.71,Main,Utena,0,0,0,,It’s not like I agreed to \N you being my bride.
@@ -415,7 +415,7 @@ Dialogue: 0,0:14:10.80,0:14:15.21,Main,A-ko,0,0,0,,All the world’s riches \N a
 Dialogue: 0,0:14:15.81,0:14:17.46,Main,B-ko,0,0,0,,Cap’n, Cap’n, \N won’tcha tell me, Cap’n? {Kashira also means boss - impossible to translate.}
 Dialogue: 0,0:14:18.32,0:14:23.09,Main,B-ko,0,0,0,,Why’s whatcha really be covetin’ \N missin’ from yer plunder?
 Dialogue: 0,0:14:23.09,0:14:24.70,Main,A-ko,0,0,0,,What I really covet?
-Dialogue: 0,0:14:24.70,0:14:28.68,Main,B-ko,0,0,0,,I feel, that’s why ye can’t quit \N the piratin’ life, eh?
+Dialogue: 0,0:14:24.70,0:14:28.68,Main,B-ko,0,0,0,,I feel that’s why ye can’t quit \N the piratin’ life, eh?
 Dialogue: 0,0:14:29.06,0:14:31.22,Main,A-ko,0,0,0,,What I truly covet...
 Dialogue: 0,0:14:31.22,0:14:35.19,Main,B-ko,0,0,0,,Whatcha {\i1}really{\i0} be covetin’, Cap’n...
 Dialogue: 0,0:14:35.93,0:14:37.69,Main,A-ko,0,0,0,,What I truly covet is—
@@ -468,7 +468,7 @@ Dialogue: 0,0:20:58.89,0:21:01.95,Main,Kozue,0,0,0,,But one time when we had \N 
 Dialogue: 0,0:21:01.95,0:21:05.44,Main,Kozue,0,0,0,,he got sick \N and everything fell apart.
 Dialogue: 0,0:21:05.44,0:21:08.96,Main,Kozue,0,0,0,,Everyone found out \N I couldn’t do any of it by myself.
 Dialogue: 0,0:21:08.96,0:21:12.01,Main,Human being,0,0,0,,Your brother’s really cool, huh?
-Dialogue: 0,0:21:12.01,0:21:13.05,Main,Kozue,0,0,0,,I’d say so.
+Dialogue: 0,0:21:12.01,0:21:13.05,Main,Kozue,0,0,0,,I guess.
 Dialogue: 0,0:21:13.96,0:21:15.33,Main,Wakaba,0,0,0,,But what happened next—?
 Dialogue: 0,0:21:15.33,0:21:16.96,Main,Miki,0,0,0,,Tenjou-senpai.
 Dialogue: 0,0:21:18.10,0:21:19.51,Main,Utena,0,0,0,,Mickey...
@@ -478,12 +478,12 @@ Dialogue: 0,0:21:28.96,0:21:30.27,Main,Utena,0,0,0,,Come on...
 Comment: 0,0:21:41.28,0:21:41.28,Main,,0,0,0,,{Ending}
 Comment: 0,0:22:56.36,0:22:56.36,Main,,0,0,0,,{Preview}
 Dialogue: 1,0:22:59.54,0:23:02.65,Main,Utena,0,0,0,,Recently, someone’s apparently \N been trying to kill Nanami!
-Dialogue: 1,0:23:02.65,0:23:03.57,Main,Anthy,0,0,0,,Oh, my!
-Dialogue: 1,0:23:03.57,0:23:05.47,Main,Utena,0,0,0,,Don’t just go all “Oh, my!” here.
+Dialogue: 1,0:23:02.65,0:23:03.57,Main,Anthy,0,0,0,,Oh, my goodness!{Same phrasing as the "maa taihen" in episode 2. - Toa}
+Dialogue: 1,0:23:03.57,0:23:05.47,Main,Utena,0,0,0,,Don’t just go all \N “Oh, my goodness!” here.
 Dialogue: 1,0:23:05.47,0:23:10.45,Main,Utena,0,0,0,,They say animals were involved, \N so you’re being suspected.
 Dialogue: 1,0:23:10.45,0:23:14.75,Main,Anthy,0,0,0,,But, Utena-sama, Nanami-san seems to \N enjoy playing with the wild horse.
 Dialogue: 1,0:23:14.75,0:23:17.02,Main,Utena,0,0,0,,She’s not playing! \N She’s running away!
-Dialogue: 1,0:23:17.02,0:23:18.47,Main,Anthy,0,0,0,,Oh, my!
+Dialogue: 1,0:23:17.02,0:23:18.47,Main,Anthy,0,0,0,,Oh, my goodness!
 Dialogue: 1,0:23:18.47,0:23:20.64,Main,Utena,0,0,0,,Next time, \N on Revolutionary Girl Utena:
 Dialogue: 1,0:23:20.64,0:23:22.18,Main,Utena,0,0,0,,“Look Out, Nanami-sama!”
 Dialogue: 1,0:23:22.18,0:23:24.43,Main,Anthy,0,0,0,,The absolute destiny: apocalypse.

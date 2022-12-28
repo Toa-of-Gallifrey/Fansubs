@@ -219,7 +219,7 @@ Dialogue: 0,0:03:10.09,0:03:11.72,Main,Nanami,0,0,0,,Excellent.
 Dialogue: 0,0:03:13.29,0:03:16.84,Main,Nanami,0,0,0,,Tenjou Utena and Himemiya Anthy... \N Just you wait!
 Dialogue: 0,0:03:17.22,0:03:20.35,Main,Nanami,0,0,0,,I’ll soon have you \N begging for mercy.
 Dialogue: 0,0:03:21.15,0:03:25.35,Main,Nanami,0,0,0,,Consider this your punishment \N for trying to seduce my brother.
-Dialogue: 0,0:03:25.82,0:03:26.82,Main,Nanami,0,0,0,,Nanami-sama!
+Dialogue: 0,0:03:25.82,0:03:26.82,Main,Keiko,0,0,0,,Nanami-sama!
 Dialogue: 0,0:03:26.82,0:03:29.52,Main,Nanami,0,0,0,,Be quiet. \N We’re just getting to the good part.
 Dialogue: 0,0:03:30.20,0:03:32.59,Main,Keiko,0,0,0,,I’m sorry, it’s just...
 Dialogue: 0,0:03:32.59,0:03:33.60,Main,Nanami,0,0,0,,What?
@@ -234,11 +234,11 @@ Dialogue: 0,0:04:13.93,0:04:15.70,Main,Touga,0,0,0,,The egg is our world.
 Dialogue: 0,0:04:15.70,0:04:19.70,Main,Touga,0,0,0,,If we do not break the world’s shell, \N we will die without being born.
 Dialogue: 0,0:04:19.70,0:04:21.79,Main,Touga,0,0,0,,Break the world’s shell.
 Dialogue: 0,0:04:23.78,0:04:26.19,Main,Student Council,0,0,0,,To revolutionize the world!
-Dialogue: 0,0:04:28.14,0:04:31.91,Main,Touga,0,0,0,,My fellow councilors, the Code \N of the Rose Seal faces its greatest crisis.
+Dialogue: 0,0:04:28.14,0:04:31.91,Main,Touga,0,0,0,,{\q2}My fellow councilors, \N the Code of the Rose Seal faces its greatest crisis.
 Dialogue: 0,0:04:32.47,0:04:36.66,Main,Touga,0,0,0,,The Rose Bride \N and her betrothed have both fallen.
 Dialogue: 0,0:04:36.66,0:04:40.05,Main,Touga,0,0,0,,This was an unforeseen turn of events, \N even for The End of the World.
 Dialogue: 0,0:04:40.05,0:04:43.80,Main,Touga,0,0,0,,I was informed that \N their lives are in danger.
-Dialogue: 0,0:04:46.13,0:04:47.31,Main,Miki,0,0,0,,This is my fault.
+Dialogue: 0,0:04:46.13,0:04:47.31,Main,Miki,0,0,0,,This is my fault!
 Dialogue: 0,0:04:47.31,0:04:48.43,Main,Touga,0,0,0,,Miki?
 Dialogue: 0,0:04:48.43,0:04:53.61,Main,Miki,0,0,0,,I kept telling Himemiya-san that \N I wanted to have some extremely spicy curry.
 Dialogue: 0,0:04:55.12,0:04:58.74,Main,Miki,0,0,0,,Himemiya-san risked her life \N to make me that curry...
@@ -295,7 +295,7 @@ Dialogue: 0,0:08:19.62,0:08:23.15,Main,Miki,0,0,0,,This... \N This can’t be Hi
 Dialogue: 0,0:08:23.15,0:08:25.01,Main,Miki,0,0,0,,But still...!
 Dialogue: 0,0:08:25.01,0:08:27.25,Main,Miki,0,0,0,,I bought some \N and I hate myself for it.
 Dialogue: 0,0:08:27.25,0:08:29.16,Main,Yuuko,0,0,0,,Right, you wanted twenty, yes?
-Dialogue: 0,0:08:29.66,0:08:31.41,Main,Keiko; Yuuko & Aiko,0,0,0,,Thank you for the patronage!
+Dialogue: 0,0:08:29.66,0:08:31.41,Main,The bitches,0,0,0,,{\i1}Thank you for your patronage!{\i0}
 Dialogue: 0,0:08:31.41,0:08:35.22,Main,Nanami,0,0,0,,Really... What’s so great \N about a woman like her?
 Dialogue: 0,0:08:35.22,0:08:38.39,Main,Touga,0,0,0,,I see. \N So that’s how it is.
 Dialogue: 0,0:08:38.39,0:08:39.42,Main,Nanami,0,0,0,,Brother?!
@@ -303,9 +303,10 @@ Dialogue: 0,0:08:39.86,0:08:42.75,Main,Touga,0,0,0,,I thought something \N seeme
 Dialogue: 0,0:08:42.75,0:08:45.05,Main,Touga,0,0,0,,but I didn’t think \N you were involved in this.
 Dialogue: 0,0:08:45.05,0:08:48.26,Main,Nanami,0,0,0,,O-Oh, no! \N It’s just, well, you know...
 Dialogue: 0,0:08:49.93,0:08:52.51,Main,Aiko,0,0,0,,Here are the negatives.
-Dialogue: 0,0:08:52.51,0:08:54.24,Main,Aiko,0,0,0,,Thanks for the business!
+Dialogue: 0,0:08:52.51,0:08:54.24,Main,Aiko,0,0,0,,Thank you for your patronage!
 Dialogue: 0,0:08:54.24,0:08:56.27,Main,Nanami,0,0,0,,Even you, Brother?!
-Dialogue: 0,0:08:58.36,0:09:01.77,Main,Utena,0,0,0,,I see. So that’s what happened.
+Dialogue: 0,0:08:58.36,0:09:01.24,Main,Utena,0,0,0,,I see. So that’s what happened.
+Dialogue: 0,0:09:01.24,0:09:01.77,Main,Nanami,0,0,0,,Geh!
 Dialogue: 0,0:09:02.23,0:09:05.27,Main,Utena,0,0,0,,So you were \N the masterminds...
 Dialogue: 0,0:09:05.75,0:09:07.03,Main,Touga,0,0,0,,You misunderstand.
 Dialogue: 0,0:09:07.03,0:09:09.13,Main,Nanami,0,0,0,,Yeah, you don’t understand!
@@ -327,13 +328,13 @@ Dialogue: 0,0:10:05.33,0:10:05.83,Main,Nanami,0,0,0,,Okay!
 Dialogue: 0,0:10:06.49,0:10:08.69,Main,Nanami,0,0,0,,Thank you, Big Brother!
 Dialogue: 0,0:10:08.69,0:10:12.97,Main,Keiko,0,0,0,,That’s easy to say, \N but where do we get it?
 Dialogue: 0,0:10:12.97,0:10:16.82,Main,Yuuko,0,0,0,,Well, it’s imported \N from India, right...?
-Dialogue: 0,0:10:16.82,0:10:17.85,Main,Keiko; Yuuko; & Aiko,0,0,0,,{\i1}India?!{\i0}
+Dialogue: 0,0:10:16.82,0:10:17.85,Main,The bitches,0,0,0,,{\i1}India?!{\i0}
 Dialogue: 0,0:10:19.10,0:10:21.22,Main,Nanami,0,0,0,,Wait for me, dear brother!
 Dialogue: 0,0:10:21.22,0:10:23.03,Main,Nanami,0,0,0,,I shall return!
-Dialogue: 0,0:10:23.03,0:10:25.11,Main,Keiko; Yuuko & Aiko,0,0,0,,Why us, too?!
+Dialogue: 0,0:10:23.03,0:10:25.11,Main,The bitches,0,0,0,,{\i1}Why us, too?!{\i0}
 Dialogue: 0,0:10:31.00,0:10:35.11,Main,A-ko,0,0,0,,Love and youth: a course on idioms! \N Today’s four-kanji phrase is...
-Dialogue: 0,0:10:35.11,0:10:37.27,Main,A-ko,0,0,0,,“Just desserts”
-Dialogue: 0,0:10:37.27,0:10:39.33,Main,B-ko,0,0,0,,Just desserts?
+Dialogue: 0,0:10:35.11,0:10:37.27,Main,A-ko,0,0,0,,“Just deserts”
+Dialogue: 0,0:10:37.27,0:10:39.33,Main,B-ko,0,0,0,,Just deserts?
 Dialogue: 0,0:10:39.33,0:10:44.37,Main,A-ko,0,0,0,,It means that every wrongdoing of yours \N will bring you an equal measure of misfortune.
 Dialogue: 0,0:10:44.37,0:10:46.63,Main,B-ko,0,0,0,,Gimme yer money! \N Bang! Bang! Bang! Bang!
 Dialogue: 0,0:10:48.04,0:10:50.21,Main,B-ko,0,0,0,,Agh! What the...?!
@@ -402,7 +403,8 @@ Dialogue: 0,0:14:40.65,0:14:45.11,Main,Utena,0,0,0,,...but if I do that, they’
 Dialogue: 0,0:14:47.20,0:14:51.04,Main,Utena,0,0,0,,It goes without saying \N I can’t write in it myself.
 Dialogue: 0,0:14:51.04,0:14:54.37,Main,Anthy,0,0,0,,Ah, it’s Saionji-senpai’s \N exchange diary!
 Dialogue: 0,0:14:55.98,0:15:00.02,Main,Anthy,0,0,0,,Well, please be sure \N to return it to him, Utena-sama.
-Dialogue: 0,0:15:01.76,0:15:05.32,Main,Utena,0,0,0,,Huh?! You mean... \N Are you telling {\i1}me{\i0} to write in it?
+Dialogue: 0,0:15:00.52,0:15:01.13,Main,Utena,0,0,0,,Wha—?!
+Dialogue: 0,0:15:01.76,0:15:05.32,Main,Utena,0,0,0,,You mean... \N Are you telling {\i1}me{\i0} to write in it?
 Dialogue: 0,0:15:05.32,0:15:08.22,Main,Anthy,0,0,0,,You are now \N Himemiya Anthy, after all.
 Dialogue: 0,0:15:08.22,0:15:12.78,Main,Utena,0,0,0,,I can’t just butt in \N on your privacy!
 Dialogue: 0,0:15:12.78,0:15:14.23,Main,Utena,0,0,0,,It’s just wrong.
@@ -450,7 +452,8 @@ Dialogue: 0,0:17:38.75,0:17:40.58,Main,Saionji,0,0,0,,Oh, Anthy! \N I’ve been 
 Dialogue: 0,0:17:41.07,0:17:46.61,Main,Utena,0,0,0,,Forgive me. I simply could not \N stop laying all my thoughts bare!
 Dialogue: 0,0:17:46.61,0:17:48.34,Main,Utena,0,0,0,,Please, take it.
 Dialogue: 0,0:17:51.83,0:17:54.51,Main,Saionji,0,0,0,,I see... \N All this time, you...
-Dialogue: 0,0:17:55.00,0:17:59.02,Main,Saionji,0,0,0,,I feel the same way! \N So...
+Dialogue: 0,0:17:55.00,0:17:57.79,Main,Saionji,0,0,0,,I feel the same way!
+Dialogue: 0,0:17:57.79,0:17:59.02,Main,Saionji,0,0,0,,So...
 Dialogue: 0,0:18:01.03,0:18:05.12,Main,Miki,0,0,0,,Senpai, I was just told \N Nanami-senpai has returned.
 Dialogue: 0,0:18:05.12,0:18:06.02,Main,Touga,0,0,0,,What?
 Dialogue: 0,0:18:21.39,0:18:22.79,Main,Nanami,0,0,0,,Brother!
@@ -465,8 +468,8 @@ Dialogue: 0,0:18:39.25,0:18:40.56,Main,Touga,0,0,0,,Nanami!
 Dialogue: 0,0:18:52.69,0:18:54.77,Main,Touga,0,0,0,,Nanami! \N Is there any more?!
 Dialogue: 0,0:18:54.77,0:18:57.34,Main,Nanami,0,0,0,,That was their last batch!
 Dialogue: 0,0:18:57.90,0:19:04.21,Main,Nanami,0,0,0,,{\q2}They said it will take two hundred years \N to refine more Nine Hundred Billionfold spice mix!
-Dialogue: 0,0:19:04.21,0:19:05.67,Main,Utena; Anthy & Miki,0,0,0,,Two hundred years?!
-Dialogue: 0,0:19:10.42,0:19:13.17,Main,A-ko,0,0,0,,A textbook example of just desserts.
+Dialogue: 0,0:19:04.21,0:19:05.67,Main,Them,0,0,0,,{\i1}Two hundred years?!{\i0}
+Dialogue: 0,0:19:10.42,0:19:13.17,Main,A-ko,0,0,0,,A textbook example of just deserts.
 Dialogue: 0,0:19:13.17,0:19:14.42,Main,B-ko,0,0,0,,...or is it? {this could mean almost anything. It could even be an affirmation or a question, so to match others I’m making B-ko ask questions as she usually does?}
 Dialogue: 0,0:19:18.32,0:19:22.75,Main,Nanami,0,0,0,,The spice mix... The mystical spice mix \N I went through so much trouble to obtain...
 Dialogue: 0,0:19:23.40,0:19:25.44,Main,Utena,0,0,0,,We’re gonna be like this forever?
@@ -483,7 +486,7 @@ Dialogue: 0,0:19:50.67,0:19:51.55,Main,Utena,0,0,0,,What?!
 Dialogue: 0,0:19:52.12,0:19:55.94,Main,Aiko,0,0,0,,It was in the cooking classroom. \N Unopened.
 Dialogue: 0,0:19:55.94,0:19:58.72,Main,Keiko,0,0,0,,It doesn’t look like \N it was ever used in the curry.
 Dialogue: 0,0:19:59.54,0:20:01.99,Main,Utena,0,0,0,,So that means the explosion...
-Dialogue: 0,0:20:01.99,0:20:03.95,Main,Nanami,0,0,0,,It wasn’t caused \N by the spice mix!
+Dialogue: 0,0:20:01.99,0:20:03.95,Main,Nanami,0,0,0,,...wasn’t caused \N by the spice mix!
 Dialogue: 0,0:20:03.95,0:20:06.60,Main,Utena & Nanami,0,0,0,,It was caused \N by Anthy’s cooking?!
 Dialogue: 0,0:20:06.60,0:20:08.60,Main,Miki,0,0,0,,That’s incredible, \N Himemiya-san!
 Dialogue: 0,0:20:08.60,0:20:12.18,Main,Miki,0,0,0,,An explosive curry that causes \N a personality switch when consumed...
