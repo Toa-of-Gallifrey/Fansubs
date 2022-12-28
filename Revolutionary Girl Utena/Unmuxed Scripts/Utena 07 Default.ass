@@ -2385,7 +2385,7 @@ Dialogue: 0,0:03:30.49,0:03:32.40,Main,Utena,0,0,0,,You’re in the Student Coun
 Dialogue: 0,0:03:32.40,0:03:34.57,Main,Juri,0,0,0,,I’d like to talk to you \N for a little.
 Dialogue: 0,0:03:32.40,0:03:34.57,Main,Guidance counselor,0,0,0,,{\an8}Stop!
 Dialogue: 0,0:03:35.95,0:03:38.42,Main,Guidance counselor,0,0,0,,Utena, stop standing there \N and help me!
-Dialogue: 0,0:03:38.42,0:03:40.64,Main,Guidance counselor,0,0,0,,Why, you...! \N Hold it there!
+Dialogue: 0,0:03:38.42,0:03:40.64,Main,Guidance counselor,0,0,0,,Why, you...! \N Hold it right there!
 Dialogue: 0,0:03:40.64,0:03:43.58,Main,Utena,0,0,0,,Sorry, kinda busy right now.
 Dialogue: 0,0:03:44.38,0:03:46.37,Main,Guidance counselor,0,0,0,,Good, a dead end!
 Dialogue: 0,0:03:46.37,0:03:47.54,Main,Guidance counselor,0,0,0,,Utena, shut the door!
@@ -2541,8 +2541,8 @@ Dialogue: 0,0:13:29.68,0:13:32.96,Main,Utena,0,0,0,,Maybe you could \N call that
 Dialogue: 0,0:13:41.81,0:13:42.80,Main,Utena,0,0,0,,Arisugawa?
 Dialogue: 0,0:13:46.64,0:13:49.28,Main,Juri,0,0,0,,Throw away your Rose Seal! \N Your ring!
 Dialogue: 0,0:13:49.64,0:13:51.09,Main,Juri,0,0,0,,You make me sick!
-Dialogue: 0,0:13:51.09,0:13:52.98,Main,Juri,0,0,0,,That so-called \N “nobility” of yours
-Dialogue: 0,0:13:52.98,0:13:55.94,Main,Juri,0,0,0,,is just a cheap act you put on \N to impress a guy you like! {I think here Juri can't understand Utena's trans feelings of wanting to be the prince and as a lesbian she can't forgive what she thinks is Utena's way of seducing some guy. Just felt like including my thoughts - no action needed.}
+Dialogue: 0,0:13:51.09,0:13:52.98,Main,Juri,0,0,0,,That so-called \N “nobility” of yours...
+Dialogue: 0,0:13:52.98,0:13:55.94,Main,Juri,0,0,0,,{\q2}...is just a cheap act you put on \N to impress a guy you like! {I think here Juri can't understand Utena's trans feelings of wanting to be the prince and as a lesbian she can't forgive what she thinks is Utena's way of seducing some guy. Just felt like including my thoughts - no action needed.}
 Dialogue: 0,0:13:55.94,0:14:03.47,Main,Juri,0,0,0,,Yes, fighting over the Rose Bride is \N just as stupid as your feelings for your prince!
 Dialogue: 0,0:14:03.47,0:14:07.53,Main,Juri,0,0,0,,Still, only someone with true nobility \N is worthy of partaking in the duels.
 Dialogue: 0,0:14:07.53,0:14:11.04,Main,Juri,0,0,0,,The Rose Seal isn’t meant \N for little girls like you!
@@ -2551,9 +2551,9 @@ Dialogue: 0,0:14:19.43,0:14:23.46,Main,Utena,0,0,0,,This is my only link to him!
 Dialogue: 0,0:14:23.46,0:14:24.76,Main,Utena,0,0,0,,I can’t lose it!
 Dialogue: 0,0:14:24.76,0:14:27.26,Main,Juri,0,0,0,,Then show me \N the alleged miracle!
 Dialogue: 0,0:14:28.61,0:14:31.93,Main,Juri,0,0,0,,I’ll expose the truth of it \N with my sword!
-Dialogue: 0,0:14:34.94,0:14:39.73,Main,Anthy,0,0,0,,Tara, tara, tara-ta. \N The rabbits dance all around.
-Dialogue: 0,0:14:39.73,0:14:45.57,Main,Anthy,0,0,0,,Tara, tara, tara-ta. \N Rabbits, rabbits, rabbits of rabbits.
-Dialogue: 0,0:14:45.57,0:14:48.28,Main,Anthy,0,0,0,,Tata, tara, tara, tara, tara...
+Dialogue: 0,0:14:34.94,0:14:39.73,Main,Anthy,0,0,0,,Tara, tara, tara-ta, \N the rabbits dance all around.
+Dialogue: 0,0:14:39.73,0:14:45.57,Main,Anthy,0,0,0,,Tara, tara, tara-ta, \N rabbits, rabbits, rabbits of rabbits.
+Dialogue: 0,0:14:45.57,0:14:48.28,Main,Anthy,0,0,0,,Ta-ta-tara, tara, tara, tara...
 Dialogue: 0,0:14:54.87,0:14:56.80,Main,B-ko,0,0,0,,Glad I caught a cold when I did!
 Dialogue: 0,0:14:56.80,0:14:59.41,Main,B-ko,0,0,0,,Goin’ on trips can be \N such a pain.
 Dialogue: 0,0:14:59.41,0:15:02.36,Main,B-ko,0,0,0,,Why’s someone as old as me \N gotta go to the zoo?
