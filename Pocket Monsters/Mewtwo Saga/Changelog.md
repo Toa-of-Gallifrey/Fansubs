@@ -1,5 +1,3 @@
-No changes from release as of now.
-
-Planned eventual changes:  
--Restyle OP & ED  
--Create version with no romaji, and add honorifics to the version with romaji
+-Updated handling for maboroshi from "mythical" to "phantom" for consistency with M01.
+-Improved song styling.
+-Adjusted blur fade-in for title typesetting.
