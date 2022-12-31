@@ -88,3 +88,6 @@ Currently unchanged from v1 release
 
 **Episode 23:**  
 Currently unchanged from v1 release
+
+**Episode 24**  
+Currently unchanged from v1 release
