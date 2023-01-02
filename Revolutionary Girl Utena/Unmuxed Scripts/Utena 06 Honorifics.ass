@@ -525,7 +525,7 @@ Dialogue: 0,0:03:13.28,0:03:16.47,Main,Nanami,0,0,0,,A flowerpot nearly fell on 
 Dialogue: 0,0:03:17.01,0:03:20.10,Main,Nanami,0,0,0,,I think someone even \N tried to push me down a staircase!
 Dialogue: 0,0:03:20.10,0:03:21.48,Main,Miki,0,0,0,,What terrible luck...
 Dialogue: 0,0:03:22.02,0:03:23.47,Main,Nanami,0,0,0,,Help me, Big Brother!
-Dialogue: 0,0:03:23.47,0:03:31.40,Main,Nanami,0,0,0,,This just has to be the work of someone who’s \N jealous of how cute, popular, and refined I am!
+Dialogue: 0,0:03:23.47,0:03:31.40,Main,Nanami,0,0,0,,{\q2}This just {\i1}has to be{\i0} the work of someone who’s \N jealous of how cute, popular, and refined I am!
 Dialogue: 0,0:03:31.95,0:03:34.28,Main,Nanami,0,0,0,,I’m so frightened...
 Dialogue: 0,0:03:35.78,0:03:37.41,Main,Touga,0,0,0,,And here I was worried...
 Dialogue: 0,0:03:38.31,0:03:41.41,Main,Touga,0,0,0,,Don’t you think you’ve been reading \N too many mystery novels, Nanami?
@@ -562,10 +562,10 @@ Dialogue: 0,0:05:02.79,0:05:04.76,Main,Keiko,0,0,0,,We don’t know \N for sure 
 Dialogue: 0,0:05:04.76,0:05:07.62,Main,Utena,0,0,0,,Look, whatever. \N Just gimme the ball back.
 Dialogue: 0,0:05:09.66,0:05:12.08,Main,Utena,0,0,0,,It couldn’t possibly be me.
 Dialogue: 0,0:05:12.08,0:05:15.01,Main,Utena,0,0,0,,For starters, \N I don’t have a motive to kill you.
-Dialogue: 0,0:05:15.01,0:05:16.63,Main,Nanami,0,0,0,,If you’re sure.
+Dialogue: 0,0:05:15.01,0:05:16.63,Main,Nanami,0,0,0,,I would hope not.
 Dialogue: 0,0:05:16.63,0:05:21.63,Main,Nanami,0,0,0,,I happen to know \N you’re trying to seduce my brother.
 Dialogue: 0,0:05:22.51,0:05:25.43,Main,Utena,0,0,0,,{\i1}He’s{\i0} the one \N making passes at me!
-Dialogue: 0,0:05:25.43,0:05:28.07,Main,Nanami,0,0,0,,My, how self-conscious!
+Dialogue: 0,0:05:25.43,0:05:28.07,Main,Nanami,0,0,0,,My, what a high opinion \N you have of yourself!
 Dialogue: 0,0:05:28.07,0:05:30.64,Main,Miki,0,0,0,,Hmm? There’s someone \N in the greenhouse.
 Dialogue: 0,0:05:30.64,0:05:31.14,Main,Utena,0,0,0,,Huh?
 Dialogue: 0,0:05:31.50,0:05:35.15,Main,Nanami,0,0,0,,But there’s a \N “keep out” sign on the door.
@@ -573,7 +573,7 @@ Dialogue: 0,0:05:38.27,0:05:39.82,Main,Nanami,0,0,0,,Big Brother...
 Dialogue: 0,0:05:39.82,0:05:41.96,Main,Touga,0,0,0,,Why haven’t you done the deed?
 Dialogue: 0,0:05:41.96,0:05:44.24,Main,Touga,0,0,0,,Such refuse has no right to live.
 Dialogue: 0,0:05:44.24,0:05:47.08,Main,Anthy,0,0,0,,But I can’t do it.
-Dialogue: 0,0:05:47.08,0:05:48.72,Main,Touga,0,0,0,,Do you have cold feet?
+Dialogue: 0,0:05:47.08,0:05:48.72,Main,Touga,0,0,0,,Are you getting cold feet?
 Dialogue: 0,0:05:48.72,0:05:51.08,Main,Touga,0,0,0,,It’s far too late \N to have a change of heart.
 Dialogue: 0,0:05:51.67,0:05:53.58,Main,Touga,0,0,0,,I want the killing done at once!
 Dialogue: 0,0:05:57.20,0:05:58.23,Main,Miki,0,0,0,,Did you hear that?
@@ -593,15 +593,15 @@ Dialogue: 0,0:06:37.59,0:06:39.59,Main,Touga,0,0,0,,Now, then... \N Here we go.
 Dialogue: 0,0:06:39.59,0:06:41.59,Main,Anthy,0,0,0,,Yes, Touga-sama!
 Dialogue: 0,0:06:53.99,0:06:55.56,Main,Touga,0,0,0,,Nanami?
 Dialogue: 0,0:06:55.56,0:06:57.27,Main,Nanami,0,0,0,,You’re so cruel, \N Big Brother!
-Dialogue: 0,0:06:57.99,0:07:00.61,Main,Nanami,0,0,0,,I’ve sensed disaffection \N from you lately,
-Dialogue: 0,0:07:00.61,0:07:03.09,Main,Touga,0,0,0,,but do you really see me \N as such a big nuisance?
+Dialogue: 0,0:06:57.99,0:07:00.61,Main,Nanami,0,0,0,,You’ve been \N rather {distant}cold to me lately,
+Dialogue: 0,0:07:00.61,0:07:03.09,Main,Nanami,0,0,0,,but do you really see me \N as such a big nuisance?
 Dialogue: 0,0:07:03.09,0:07:04.03,Main,Touga,0,0,0,,What is this about?
 Dialogue: 0,0:07:07.53,0:07:09.76,Main,Nanami,0,0,0,,You’re such a meanie!
 Dialogue: 0,0:07:09.76,0:07:10.98,Main,Miki,0,0,0,,Nanami-kun!
 Dialogue: 0,0:07:12.77,0:07:13.96,Main,Utena,0,0,0,,I’m disappointed in you!
 Dialogue: 0,0:07:13.96,0:07:17.63,Main,Utena,0,0,0,,Even if you’re Student Council President, \N you can’t just kill your own sister!
 Dialogue: 0,0:07:17.63,0:07:19.63,Main,Touga,0,0,0,,What are you talking about?
-Dialogue: 0,0:07:19.63,0:07:22.25,Main,Utena,0,0,0,,You were going on about, \N like, killing someone.
+Dialogue: 0,0:07:19.63,0:07:22.25,Main,Utena,0,0,0,,I mean, you were just \N talking about killing someone.{whether to kill someone.}
 Dialogue: 0,0:07:22.98,0:07:24.01,Main,Anthy,0,0,0,,You mean this?
 Dialogue: 0,0:07:25.43,0:07:26.99,Main,Utena,0,0,0,,Wait, so you’re telling me...
 Dialogue: 0,0:07:32.88,0:07:34.93,Main,Nanami,0,0,0,,How cruel! \N It’s far too cruel!
@@ -634,10 +634,11 @@ Dialogue: 0,0:09:04.65,0:09:09.20,Main,Utena,0,0,0,,He left without even saying 
 Dialogue: 0,0:09:09.20,0:09:13.21,Main,Miki,0,0,0,,In any case, I wouldn’t have guessed \N there was a prince in this school...
 Dialogue: 0,0:09:13.21,0:09:16.20,Main,Miki,0,0,0,,...who could curry favor \N with Nanami-kun.
 Dialogue: 0,0:09:16.20,0:09:19.21,Main,Utena,0,0,0,,She does seem to have \N super high standards.
+Dialogue: 0,0:09:23.46,0:09:24.21,Main,Utena,0,0,0,,Oh!
 Dialogue: 0,0:09:24.66,0:09:26.53,Main,Utena,0,0,0,,Is that her prince?
 Dialogue: 0,0:09:26.53,0:09:29.72,Main,Miki,0,0,0,,So she likes older men...
-Dialogue: 0,0:09:32.22,0:09:34.63,Main,Utena,0,0,0,,Doesn’t seem he’s it.
-Dialogue: 0,0:09:35.70,0:09:37.59,Main,Miki,0,0,0,,She has quite an odd taste!
+Dialogue: 0,0:09:32.22,0:09:34.63,Main,Utena,0,0,0,,Probably not him.
+Dialogue: 0,0:09:35.70,0:09:37.59,Main,Miki,0,0,0,,She has very strange taste!
 Dialogue: 0,0:09:38.97,0:09:40.23,Main,Utena,0,0,0,,That’s a no, then.
 Dialogue: 0,0:09:53.91,0:09:56.37,Main,Nanami,0,0,0,,Tsuwabuki Mitsuru-kun?
 Dialogue: 0,0:09:56.37,0:09:56.87,Main,Tsuwabuki,0,0,0,,Yes?
@@ -698,7 +699,7 @@ Dialogue: 0,0:13:06.25,0:13:08.99,Main,Nanami,0,0,0,,Put some meatballs \N in to
 Dialogue: 0,0:13:08.99,0:13:10.31,Main,Tsuwabuki,0,0,0,,Gladly, madam.
 Dialogue: 0,0:13:11.30,0:13:13.31,Main,Utena,0,0,0,,Can he even be called \N a boyfriend?
 Dialogue: 0,0:13:13.31,0:13:14.56,Main,Miki,0,0,0,,I have no idea.
-Dialogue: 0,0:13:15.59,0:13:17.73,Main,Saionji,0,0,0,,No matter how much \N she may abuse him,
+Dialogue: 0,0:13:15.59,0:13:17.73,Main,Saionji,0,0,0,,No matter how much \N she may tyrannize him,
 Dialogue: 0,0:13:17.73,0:13:20.32,Main,Saionji,0,0,0,,he is simply happy \N to be near his beloved.
 Dialogue: 0,0:13:20.72,0:13:23.03,Main,Saionji,0,0,0,,That is one form of love.
 Dialogue: 0,0:13:23.03,0:13:25.76,Main,Saionji,0,0,0,,Love can manifest \N in many different forms.

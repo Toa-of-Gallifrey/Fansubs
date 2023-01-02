@@ -987,7 +987,7 @@ Dialogue: 1,0:02:24.24,0:02:29.12,Main,B-ko,0,0,0,,This was all well and good, \
 Dialogue: 1,0:02:29.12,0:02:32.87,Main,B-ko,0,0,0,,...that the princess vowed \N to become a prince herself!
 Dialogue: 1,0:02:32.87,0:02:35.67,Main,B-ko,0,0,0,,But is that really okay?
 Comment: 0,0:02:47.57,0:02:47.57,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:02:57.90,0:03:01.08,Main,Utena,0,0,0,,I still have this ring \N if nothing else...
+Dialogue: 0,0:02:57.90,0:03:01.08,Main,Utena,0,0,0,,I still have this ring, \N if nothing else...
 Dialogue: 0,0:03:02.42,0:03:05.30,Main,Utena,0,0,0,,{\fad(0, 525}So we really did meet.
 Dialogue: 0,0:03:05.82,0:03:08.77,Main,Utena,0,0,0,,The dueling arena... \N The Rose Bride...
 Dialogue: 0,0:03:08.77,0:03:11.91,Main,Utena,0,0,0,,Could this ring \N have guided me to all of this?
@@ -1083,17 +1083,17 @@ Dialogue: 1,0:09:48.05,0:09:51.26,Main,Nanami,0,0,0,,Pray tell, \N what is this 
 Dialogue: 1,0:09:51.26,0:09:54.74,Main,Nanami,0,0,0,,It appears I might have to report this \N to the Student Council.
 Dialogue: 0,0:09:55.15,0:09:56.30,Main,Keiko,0,0,0,,Um, well...
 Dialogue: 0,0:09:56.30,0:09:57.48,Main,Yuuko,0,0,0,,I-It’s not what it seems!
-Dialogue: 0,0:09:58.24,0:09:59.97,Main,Keiko; Yuko & Aiko,0,0,0,,E-Excuse us!
+Dialogue: 0,0:09:58.24,0:09:59.97,Main,The bitches,0,0,0,,{\i1}E-Excuse us!{\i0}
 Dialogue: 0,0:10:04.34,0:10:05.25,Main,Nanami,0,0,0,,Are you okay?
 Dialogue: 0,0:10:05.25,0:10:07.81,Main,Anthy,0,0,0,,Yes, thank you.
 Dialogue: 0,0:10:07.81,0:10:10.26,Main,Anthy,0,0,0,,You’re Nanami, correct?
 Dialogue: 0,0:10:10.26,0:10:15.90,Main,Nanami,0,0,0,,You tend to make others jealous, \N what with being so popular with the boys.
 Dialogue: 0,0:10:15.90,0:10:21.08,Main,Nanami,0,0,0,,You’re the most popular girl \N among the first-year middle school boys.
-Dialogue: 0,0:10:21.08,0:10:25.47,Main,Nanami,0,0,0,,You’ve been nominated for this year’s \N Queen of the Dance, after all.
-Dialogue: 0,0:10:25.47,0:10:26.77,Main,Anthy,0,0,0,,Queen of the Dance?
-Dialogue: 0,0:10:26.77,0:10:32.69,Main,Nanami,0,0,0,,This weekend, we’ll be selecting \N the Queen for this year’s dance.
+Dialogue: 0,0:10:21.08,0:10:25.47,Main,Nanami,0,0,0,,You’ve been nominated for this year’s \N Dance Queen, after all.
+Dialogue: 0,0:10:25.47,0:10:26.77,Main,Anthy,0,0,0,,Dance Queen?
+Dialogue: 0,0:10:26.77,0:10:32.69,Main,Nanami,0,0,0,,This weekend, we’ll be selecting \N the Dance Queen for this year’s ball.{Different handling for dansu paati for the sake of flow. Another option: event - Toa}
 Dialogue: 0,0:10:32.69,0:10:36.28,Main,Nanami,0,0,0,,You’re one of the nominees.
-Dialogue: 0,0:10:36.65,0:10:38.93,Main,Nanami,0,0,0,,I do hope you come.
+Dialogue: 0,0:10:36.65,0:10:38.93,Main,Nanami,0,0,0,,I do hope you attend.
 Dialogue: 0,0:10:38.93,0:10:41.14,Main,Nanami,0,0,0,,The boys would be so happy.
 Dialogue: 0,0:10:41.14,0:10:48.00,Main,Nanami,0,0,0,,What’s more, I’ve always \N wanted to be your friend, Himemiya.
 Comment: 0,0:10:55.64,0:10:55.64,Main,,0,0,0,,{Eyecatch}
@@ -1105,7 +1105,7 @@ Dialogue: 0,0:11:28.22,0:11:30.79,Main,Utena,0,0,0,,You really have no friends?
 Dialogue: 0,0:11:30.79,0:11:33.10,Main,Anthy,0,0,0,,I do. Right here.
 Dialogue: 0,0:11:36.30,0:11:39.30,Main,Utena,0,0,0,,If that’s how it is, \N that’s fine, I guess...
 Dialogue: 0,0:11:43.48,0:11:48.31,Main,Human being,0,0,0,,Deliveries for Ms. Himemiya Anthy \N and Ms. Tenjou Utena.
-Dialogue: 0,0:11:51.77,0:11:54.93,Main,Human being,0,0,0,,As proof of your nomination \N for Queen of the Dance,
+Dialogue: 0,0:11:51.77,0:11:54.93,Main,Human being,0,0,0,,As proof of your nomination \N for Queen of the Dance,{dance party no queen, same as in the preview at the end of the last episode - Toa}
 Dialogue: 0,0:11:54.93,0:11:58.03,Main,Human being,0,0,0,,the Executive Committee have taken \N the liberty of sending this dress.
 Dialogue: 0,0:12:00.53,0:12:04.90,Main,Human being,0,0,0,,We await your attendance\N at this weekend’s party...
 Dialogue: 0,0:12:04.90,0:12:07.81,Main,Human being,0,0,0,,...and hope that you will wear this dress. \N Sincerely, Executive Committee.
@@ -1122,7 +1122,7 @@ Dialogue: 0,0:12:40.32,0:12:41.72,Main,Anthy,0,0,0,,You’re excusing yourself?
 Dialogue: 0,0:12:41.72,0:12:44.08,Main,Utena,0,0,0,,Yep. Not interested.
 Dialogue: 0,0:12:44.08,0:12:45.35,Main,Anthy,0,0,0,,Then so will I.
 Dialogue: 0,0:12:45.35,0:12:46.86,Main,Utena,0,0,0,,Huh? Why?
-Dialogue: 0,0:12:46.86,0:12:49.79,Main,Utena,0,0,0,,You’re nominated for \N Queen of the Dance, aren’t you?
+Dialogue: 0,0:12:46.86,0:12:49.79,Main,Utena,0,0,0,,You’re nominated for \N Dance Queen, aren’t you?
 Dialogue: 0,0:12:50.27,0:12:54.55,Main,Anthy,0,0,0,,I’m not good \N with crowded places.
 Dialogue: 0,0:12:56.19,0:13:00.43,Main,Anthy,0,0,0,,Everyone’s faces begin to look \N the same, and I get frightened.
 Dialogue: 0,0:13:03.51,0:13:06.08,Main,Anthy,0,0,0,,Now, it’s your turn, \N Chu-Chu.
@@ -1145,7 +1145,7 @@ Dialogue: 0,0:14:41.51,0:14:43.40,Main,Nanami,0,0,0,,my dear brother?
 Dialogue: 0,0:14:43.40,0:14:46.57,Main,Touga,0,0,0,,How did I get \N such an adoring little sister?
 Dialogue: 0,0:14:46.57,0:14:50.58,Main,Human being,0,0,0,,Ladies and gentlemen, \N thank you for being here this evening.
 Dialogue: 0,0:14:50.58,0:14:56.60,Main,Human being,0,0,0,,This small dance was organized \N to celebrate a blessed spring night.
-Dialogue: 0,0:14:56.60,0:15:01.63,Main,Human being,0,0,0,,We also have a contest running \N to crown the Queen of the Dance.
+Dialogue: 0,0:14:56.60,0:15:01.63,Main,Human being,0,0,0,,We also have a contest running \N to crown the Dance Queen.
 Dialogue: 0,0:15:01.63,0:15:04.59,Main,Human being,0,0,0,,I hope that \N all of you participate!
 Dialogue: 0,0:15:11.24,0:15:12.14,Main,Human being,0,0,0,,No way!
 Dialogue: 1,0:15:17.86,0:15:18.67,Main,Human being,0,0,0,,She looks great!

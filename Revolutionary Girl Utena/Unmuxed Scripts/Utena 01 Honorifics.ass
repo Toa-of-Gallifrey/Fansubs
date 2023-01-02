@@ -18,8 +18,8 @@ Video File: ../../Utena 01 Raw.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 117
-Active Line: 138
+Scroll Position: 159
+Active Line: 160
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,20 +183,20 @@ Dialogue: 0,0:20:15.03,0:20:17.86,Duel Songs JP,,0,0,0,,samete utae
 Dialogue: 0,0:20:17.86,0:20:23.46,Duel Songs JP,,0,0,0,,sekai ni tanjou shunkan tanjou
 Dialogue: 0,0:20:23.46,0:20:27.40,Duel Songs JP,,0,0,0,,{\fad(0, 350)}sono kurikaeshi
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:18:53.28,0:18:58.40,Duel Songs EN,,0,0,0,,When? Where? Who? Which?
+Dialogue: 0,0:18:53.28,0:18:58.40,Duel Songs EN,,0,0,0,,When? Where? Who? Which? {Overall jp interpreatation: Human beings repeat instant birth and death, but their souls are unchanging, and they continue to play their roles within the cage of time.}
 Dialogue: 0,0:18:59.12,0:19:04.29,Duel Songs EN,,0,0,0,,When? Where? Who? Which?
-Dialogue: 0,0:19:10.88,0:19:15.22,Duel Songs EN,,0,0,0,,Blood flows from the cage of memory
-Dialogue: 0,0:19:16.55,0:19:22.22,Duel Songs EN,,0,0,0,,Cradled in a thousand years of bliss
-Dialogue: 0,0:19:22.22,0:19:31.32,Duel Songs EN,,0,0,0,,I am an actor, eternal metaphors
-Dialogue: 0,0:19:31.32,0:19:40.15,Duel Songs EN,,0,0,0,,A desert’s wintry Sphinx, Phinx
-Dialogue: 0,0:19:43.08,0:19:48.25,Duel Songs EN,,0,0,0,,{\q2}Of the flesh of those who are born, of those who die...
-Dialogue: 0,0:19:48.79,0:19:54.69,Duel Songs EN,,0,0,0,,...the sad winds tell you
+Dialogue: 0,0:19:10.88,0:19:15.22,Duel Songs EN,,0,0,0,,A bloodstream held by the cage of memory,{jp analysis: exists only in the past, closed off from time.// the driving force that moves the human body}
+Dialogue: 0,0:19:16.55,0:19:22.22,Duel Songs EN,,0,0,0,,cradled in a thousand years of bliss{a thousand years of peace after the heavenly armies caught and imprisoned satan - book of revelations. chaos -> paradise -> flood -> pressent world -> destruction by fire -> 1000 years -> fixed star. A space where you don't have to worry about anything due to the protection of your parents. A parable of the thousand-year bliss thanks to God. }
+Dialogue: 0,0:19:22.22,0:19:31.32,Duel Songs EN,,0,0,0,,I am an actor, eternal metaphors {Theater is originally one of the rituals dedicated to the gods, and the actors are priests. By imitating God's actions, we seek his help. // "I" am an actor playing a role in the "world" created by God. If God created it, it is eternal.}
+Dialogue: 0,0:19:31.32,0:19:40.15,Duel Songs EN,,0,0,0,,A desert’s wintry Sphinx, Phinx {place where plants don't grow/time when plants don't grow. Sphinx - He is the keeper of boundaries and appears in the "Wheel of Fortune" Tarot cards. He doesn't give birth to life, he just reincarnates.}
+Dialogue: 0,0:19:43.08,0:19:48.25,Duel Songs EN,,0,0,0,,{\q2}Of the flesh that is born and dies, {A person with a physical body must repeat birth and death}
+Dialogue: 0,0:19:48.79,0:19:54.69,Duel Songs EN,,0,0,0,,the sad winds tell you {Its existence is recognized only when it is in motion.}
 Dialogue: 0,0:19:54.69,0:20:03.67,Duel Songs EN,,0,0,0,,The holy actor, eternal metaphors
-Dialogue: 0,0:20:03.67,0:20:12.24,Duel Songs EN,,0,0,0,,{\q2}Margineaux of light and dark, fallen down to hell
-Dialogue: 0,0:20:12.24,0:20:15.03,Duel Songs EN,,0,0,0,,Brightly burn!
-Dialogue: 0,0:20:15.03,0:20:17.86,Duel Songs EN,,0,0,0,,Awaken and sing!
-Dialogue: 0,0:20:17.86,0:20:23.46,Duel Songs EN,,0,0,0,,Born into the world, born into an instant
-Dialogue: 0,0:20:23.46,0:20:27.40,Duel Songs EN,,0,0,0,,{\fad(0, 350)}An endless cycle!
+Dialogue: 0,0:20:03.67,0:20:12.24,Duel Songs EN,,0,0,0,,{\q2}Margineaux of light and dark, fallen down to hell {People who are marginalized in society. Martyrs. "Hell" in Buddhist terms. The space under the floor where the actors rise up in the stage setting. }
+Dialogue: 0,0:20:12.24,0:20:15.03,Duel Songs EN,,0,0,0,,Brightly burn! {The process of planet formation.  That is, the process of the human body, which is a microcosm of the universe.}
+Dialogue: 0,0:20:15.03,0:20:17.86,Duel Songs EN,,0,0,0,,Awaken and sing! {The Pythagorean theory that each moving planet plays music and that they are in harmony.}
+Dialogue: 0,0:20:17.86,0:20:23.46,Duel Songs EN,,0,0,0,,Born into the world, born into an instant {Humans are fleeting compared to eternity.}
+Dialogue: 0,0:20:23.46,0:20:27.40,Duel Songs EN,,0,0,0,,{\fad(0, 350)}An endless cycle! {Repetition of birth and death.\N The fate of a physical existence.}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:01:31.70,0:01:31.70,Main,,0,0,0,,{Prologue}
 Dialogue: 1,0:01:33.71,0:01:37.01,Main,B-ko,0,0,0,,Once upon a time...

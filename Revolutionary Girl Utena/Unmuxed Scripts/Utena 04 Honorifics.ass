@@ -119,7 +119,7 @@ Comment: 0,0:01:29.96,0:01:29.96,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:01:37.10,0:01:40.43,Main,Utena,0,0,0,,In the end, it still \N came down to this, Mickey.
 Dialogue: 0,0:01:40.43,0:01:44.58,Main,Miki,0,0,0,,Yes. I have to recapture that music.
 Dialogue: 0,0:01:44.58,0:01:48.47,Main,Miki,0,0,0,,And so, I need the Bride \N no matter what!
-Dialogue: 0,0:01:49.21,0:01:52.93,Main,Utena,0,0,0,,But sitting before a piano \N suits you more.
+Dialogue: 0,0:01:49.21,0:01:52.93,Main,Utena,0,0,0,,Sitting at a piano \N suits you better.
 Dialogue: 0,0:01:53.65,0:01:54.68,Main,Juri,0,0,0,,I quite agree.
 Dialogue: 0,0:01:57.66,0:02:00.85,Main,Miki,0,0,0,,I will make the Rose Bride mine.
 Dialogue: 0,0:02:01.39,0:02:03.85,Main,Miki,0,0,0,,Even if it means hurting you!
@@ -143,21 +143,21 @@ Dialogue: 0,0:03:49.27,0:03:54.46,Main,Miki,0,0,0,,You can’t play this piece, 
 Dialogue: 0,0:03:55.99,0:03:57.72,Main,Nanami,0,0,0,,And what’s the song’s name?
 Dialogue: 0,0:03:58.49,0:04:00.14,Main,Miki,0,0,0,,“The Sunlit Garden”.
 Comment: 0,0:04:00.73,0:04:00.73,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:04:12.73,0:04:17.03,Main,Wakaba,0,0,0,,Damn it! \N This is the worst grade I’ve ever gotten!
-Dialogue: 0,0:04:17.03,0:04:19.53,Main,Utena,0,0,0,,Huh... Sucks to be you.
+Dialogue: 0,0:04:12.73,0:04:17.03,Main,Wakaba,0,0,0,,Aw, crap... \N This is the worst grade I’ve ever gotten!
+Dialogue: 0,0:04:17.03,0:04:19.53,Main,Utena,0,0,0,,Hmm... That’s a shame.
 Dialogue: 0,0:04:19.53,0:04:24.41,Main,Wakaba,0,0,0,,Honestly, I think I know all the math I’ll ever need \N with just the basic multiplication tables.
 Dialogue: 0,0:04:24.41,0:04:27.85,Main,Utena,0,0,0,,Pretty sure it’s to cultivate \N our ability to think logically.
 Dialogue: 0,0:04:27.85,0:04:29.53,Main,Wakaba,0,0,0,,But as my mom \N always told me:
 Dialogue: 0,0:04:29.53,0:04:33.77,Main,Wakaba,0,0,0,,“A truly fine woman foists all of \N the logical thinking onto men.”
-Dialogue: 0,0:04:33.77,0:04:35.03,Main,Utena,0,0,0,,I see.
+Dialogue: 0,0:04:33.77,0:04:35.03,Main,Utena,0,0,0,,Oh, really?
 Dialogue: 0,0:04:35.86,0:04:38.80,Main,Wakaba,0,0,0,,I’m sure you did well \N since you’re good at math.
 Dialogue: 0,0:04:40.81,0:04:41.90,Main,Wakaba,0,0,0,,No way!
 Dialogue: 0,0:04:41.90,0:04:45.27,Main,Wakaba,0,0,0,,You’re not usually \N this bad at math, right?
 Dialogue: 0,0:04:45.27,0:04:47.08,Main,Utena,0,0,0,,I was a little distracted.
-Dialogue: 0,0:04:47.08,0:04:50.89,Main,Wakaba,0,0,0,,What a shame. Gotta keep \N cultivating that logical reasoning.
+Dialogue: 0,0:04:47.08,0:04:50.89,Main,Wakaba,0,0,0,,That’s no good. Gotta keep \N cultivating that logical reasoning.
 Dialogue: 0,0:04:50.89,0:04:51.45,Main,Utena,0,0,0,,Hey...
-Dialogue: 0,0:04:52.00,0:04:55.46,Main,Utena,0,0,0,,Anyway, I can’t be happy \N about scores like these.
-Dialogue: 0,0:04:55.46,0:04:57.40,Main,Wakaba,0,0,0,,Sucks to be you.
+Dialogue: 0,0:04:52.00,0:04:55.46,Main,Utena,0,0,0,,Anyway, I can’t act bubbly \N after getting a grade like this.
+Dialogue: 0,0:04:55.46,0:04:57.40,Main,Wakaba,0,0,0,,What a shame.
 Dialogue: 0,0:05:12.29,0:05:14.79,Main,Aiko,0,0,0,,You {\i1}do{\i0} know \N how much we love Mickey, right?
 Dialogue: 0,0:05:14.79,0:05:20.37,Main,Keiko,0,0,0,,We heard all about it! Because of you, \N our Mickey said no to entering the competition!
 Dialogue: 0,0:05:20.37,0:05:22.84,Main,Anthy,0,0,0,,I... I had no idea.
@@ -212,7 +212,7 @@ Dialogue: 0,0:08:03.83,0:08:05.21,Main,Utena,0,0,0,,You’re in the Student Coun
 Dialogue: 0,0:08:06.09,0:08:09.09,Main,Utena,0,0,0,,Then you must be \N after the Rose Bride, too.
 Dialogue: 0,0:08:09.09,0:08:11.30,Main,Miki,0,0,0,,No! Please, \N don’t get the wrong idea.
 Dialogue: 0,0:08:11.30,0:08:13.60,Main,Miki,0,0,0,,I may be a member of the Council,
-Dialogue: 0,0:08:13.60,0:08:16.60,Main,Miki,0,0,0,,but I don’t want to fight a duel \N to make Himemiya-san my bride.
+Dialogue: 0,0:08:13.60,0:08:16.60,Main,Miki,0,0,0,,but I don’t want to duel \N to make Himemiya-san my bride.
 Dialogue: 0,0:08:16.60,0:08:18.10,Main,Miki,0,0,0,,I mean it!
 Dialogue: 0,0:08:18.10,0:08:21.11,Main,Miki,0,0,0,,Here are a few problems \N I expect will be on the make-up test.
 Dialogue: 0,0:08:21.81,0:08:24.10,Main,Miki,0,0,0,,If you just memorize \N the formulas in this notebook,
@@ -249,7 +249,7 @@ Dialogue: 0,0:11:11.13,0:11:13.20,Main,A-ko,0,0,0,,You had a boyfriend \N back t
 Dialogue: 0,0:11:13.20,0:11:16.49,Main,B-ko,0,0,0,,But... When he found out \N about my love of pro wrestling...
 Dialogue: 0,0:11:16.49,0:11:19.49,Main,B-ko,0,0,0,,...and super-sized bowls \N of garlic ramen, well...
 Dialogue: 0,0:11:20.23,0:11:21.95,Main,A-ko,0,0,0,,“Now I know what kind of girl \N you truly are...”
-Dialogue: 0,0:11:21.95,0:11:25.44,Main,B-ko,0,0,0,,...he said, and that was that.
+Dialogue: 0,0:11:21.95,0:11:25.44,Main,B-ko,0,0,0,,...he said, and that was that!
 Dialogue: 0,0:11:25.44,0:11:27.27,Main,A-ko,0,0,0,,O Lover!
 Dialogue: 0,0:11:27.27,0:11:29.46,Main,A-ko,0,0,0,,O Youth of Dreaming Love... {Oh, dreaming youth of love...}{夢見る恋の若人よ}{Edit if you don't like how little sense that makes but that's what she's saying}{Nah, if the Japanese doesn't make sense, the English doesn't have to either :D - Toa}
 Dialogue: 0,0:11:29.46,0:11:31.25,Main,B-ko,0,0,0,,Of your girlfriend’s identity...
@@ -320,7 +320,7 @@ Dialogue: 0,0:14:52.58,0:14:58.59,Main,Utena,0,0,0,,For triangle ACP, line BX \N
 Dialogue: 0,0:14:58.95,0:15:01.28,Main,Nanami,0,0,0,,My, what a pretty desk!
 Dialogue: 0,0:15:01.28,0:15:03.09,Main,Nanami,0,0,0,,I wish I had one like it!
 Dialogue: 0,0:15:12.85,0:15:14.76,Main,Nanami,0,0,0,,My garter snake...
-Dialogue: 0,0:15:14.76,0:15:18.86,Main,Nanami,0,0,0,,The snake I spent all night \N trying to catch...
+Dialogue: 0,0:15:14.76,0:15:18.86,Main,Nanami,0,0,0,,The snake I spent all night catching...
 Dialogue: 0,0:15:19.27,0:15:22.65,Main,Anthy,0,0,0,,Oh, that’s Mr. Mongoose’s home.
 Dialogue: 0,0:15:22.65,0:15:25.51,Main,Utena,0,0,0,,I said not to keep him there.
 Dialogue: 0,0:15:25.51,0:15:27.11,Main,Miki,0,0,0,,But it’s so cute!
@@ -336,7 +336,7 @@ Dialogue: 0,0:15:46.88,0:15:48.04,Main,Nanami,0,0,0,,Okay...
 Dialogue: 0,0:15:48.04,0:15:49.80,Main,Nanami,0,0,0,,If that’s how it is...
 Dialogue: 0,0:15:49.80,0:15:51.79,Main,Nanami,0,0,0,,I didn’t want to do this,
 Dialogue: 0,0:15:51.79,0:15:54.41,Main,Nanami,0,0,0,,but you leave me no choice!
-Dialogue: 0,0:16:00.51,0:16:03.36,Main,Nanami,0,0,0,,An octopus! \N There’s a live octopus in there!
+Dialogue: 0,0:16:00.51,0:16:03.36,Main,Nanami,0,0,0,,A live octopus! \N There’s a live octopus in there!
 Dialogue: 0,0:16:04.86,0:16:08.33,Main,Nanami,0,0,0,,She keeps a live octopus \N in her closet!
 Dialogue: 0,0:16:08.33,0:16:10.10,Main,Utena,0,0,0,,Himemiya! \N I’ve misjudged you!
 Dialogue: 0,0:16:10.10,0:16:11.87,Main,Miki,0,0,0,,I’m so disillusioned!
@@ -384,7 +384,7 @@ Dialogue: 0,0:18:25.62,0:18:28.66,Main,Nanami,0,0,0,,Um... Oh, yes. Supper.
 Dialogue: 0,0:18:28.66,0:18:32.27,Main,Nanami,0,0,0,,Actually, I packed \N a little something for us.
 Dialogue: 0,0:18:32.27,0:18:34.51,Main,Nanami,0,0,0,,I hope you all enjoy it.
 Dialogue: 0,0:18:39.44,0:18:40.90,Main,Nanami,0,0,0,,Another animal...
-Dialogue: 0,0:18:40.90,0:18:43.98,Main,Nanami,0,0,0,,I suppose this is another one of \N Himemiya-senpai’s friend, huh?
+Dialogue: 0,0:18:40.90,0:18:43.98,Main,Nanami,0,0,0,,I suppose this is another one of \N Himemiya-senpai’s friends, huh?
 Dialogue: 0,0:18:43.98,0:18:46.35,Main,Anthy,0,0,0,,Chu-Chu! You can’t just...!
 Dialogue: 0,0:18:49.92,0:18:51.59,Main,Nanami,0,0,0,,These animals...
 Dialogue: 0,0:18:51.59,0:18:55.40,Main,Anthy,0,0,0,,I’m sorry! I’ll go make \N something to eat!
