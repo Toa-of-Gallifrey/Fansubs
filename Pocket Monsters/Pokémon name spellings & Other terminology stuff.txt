@@ -31,6 +31,7 @@ boufuu ぼうふう (Hurricane) - Hurricane
 bunmawasu ぶんまわす (Brutal Swing) - Brutal Swing
 burasuto baan ブラストバーン (Blast Burn) - Blast Burn
 bureibu baado ブレイブバード (Brave Bird) - Brave Bird
+bureiku kuroo ブレイククロー (Crush Claw) - Break Claw
 bureizu kikku ブレイズキック (Blaze Kick) - Blaze Kick
 chaamu boisu チャームボイス (Disarming Voice) - Charm Voice
 chikyuunage ちきゅうなげ (Seismic Toss) - Globe Throw
@@ -74,7 +75,7 @@ gekirin げきりん (Outrage) - Reversed Scale
 goddo baado ゴッドバード (Sky Attack) - God Bird
 goosuto daibu ゴーストダイブ (Phantom Force) - Ghost Dive
 guroo panchi グロウパンチ (Power-Up Punch) - Grow Punch
-hadoudan はどうだん (Aura Sphere) - Aura Sphere
+hadoudan はどうだん (Aura Sphere) - Guiding Wave Sphere
 hagane no tsubasa はがねのつばさ (Steel Wing) - Steel Wing
 haidoro pampu ハイドロポンプ (Hydro Pump) - Hydro Pump
 hajikeru honoo はじけるほのお (Flame Burst) - Flame Burst
@@ -160,7 +161,7 @@ naito heddo ナイトヘッド (Night Shade) - Night Head
 nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
 ne o haru ねをはる (Ingrain) - Take Root
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
-nenriki ねんりき (Confusion) - Mindpower
+nenriki ねんりき (Confusion) - Mind Power
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
 nidogeri にどげり (Double Kick) - Double Kick
 nihonbare にほんばれ (Sunny Day) - Clear Skies
@@ -309,6 +310,7 @@ kyodai suima キョダイスイマ (G-Max Snooze) - Kyodai Snooze
 
 ABILITY NAMES
 
+mushi no shirase むしのしらせ (Swarm) - Bugout
 ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
 yuubaku ゆうばく (Aftermath) - Sympathetic Detonation
 zettai nemuri ぜったいねむり (Comatose) - Hyper Sleep
@@ -325,6 +327,8 @@ CATEGORY NAMES
 291 テッカニン Tekkanin: しのびポケモン Shinobi Pokémon
 292 ヌケニン Nukenin: ぬけがらポケモン Shed Shell Pokémon
 346 ユレイドル Yuradle: いわつぼポケモン Rock Crevice Pokémon
+380 ラティアス Latias: むげんポケモン Boundless Pokémon
+381 ラティオス Latios: むげんポケモン Boundless Pokémon
 442 ミカルゲ Mikaruge: ふういんポケモン Sealed Pokémon
 483 ディアルガ Dialga: じかんポケモン Time Pokémon
 484 パルキア Palkia: くうかんポケモン Space Pokémon
@@ -878,7 +882,7 @@ POKÉMON NAMES
 539 ダゲキ Dageki
 
 
-
+542 ハハコモリ Hahakomori
 
 
 545 ペンドラー Pendrar
@@ -936,8 +940,8 @@ POKÉMON NAMES
 
 598 ナットレイ Nutrey
 599 ギアル Gear
-
-
+600 ギギアル Gegear
+601 ギギギアル Gegegear
 
 
 
@@ -1238,10 +1242,13 @@ POKÉMON NAMES
 CONFIRMED POKÉMON GENDERS
 
 Satoshi's Pikachu - Male (gender design difference)
+Satoshi's Heigani - Male (referred to as "otoko" in MPM)
 Satoshi's Kairyu - Female (game distribution)
 Satoshi's Gänger - Male (game distribution)
 Satoshi's Lucario - Male (game distribution)
 Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
+
+Kasumi's Udeppou - Male (referred to as "otoko" in MPM)
 
 Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
 Iris's Doryuzu - Male (affected by Attract from female Emonga in BW)
@@ -1253,25 +1260,18 @@ Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
 
 
 
-MISC TERMINOLOGY
+MISC TERMINOLOGY & STYLISTIC GUIDELINES
 
 monsutaa booru モンスターボール (Poké Ball) - Monster Ball
 pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
 roketto-dan ロケット団 (Team Rocket) - Team Rocket
+hadou 波導 (Aura) - Guiding Waves
 rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
 tou-chan とうちゃん (Dada) - Dada
 
-Māmane
-Hāpu'u
-
-"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
-Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
-"Goodbye," not "Good bye."
-The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
-
-
-
-STOCK PHRASES
+ゲーチス G-Cis
+マーマネ Māmane
+ハプウ Hāpu'u
 
 Classic Team Rocket motto:
 Musashi: If you ask us about “this” or “that”...
@@ -1286,16 +1286,8 @@ Musashi: The Team Rocket duo \N soars through the galaxy!
 Kojiro: Like a white hole, \N a white tomorrow awaits us!
 Nyarth: Just kidding, meow!
 
-PM19 narrator intro (episode 8 ver.):
-Narrator: Satoshi, who dreams of \N becoming a Pokémon Master...
-Narrator: And Go, who aims to \N catch every Pokémon.
-Narrator: What kind of Pokémon \N will they meet today?
-
-PM19 narrator intro (episode 14 ver.):
-Narrator: Satoshi, who aims to battle \N the Supreme Monarch, Dande...
-Narrator: And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
-Narrator: This is the story of \N their lives and adventures.
-
-PM19 preview lines:
-Satoshi: Now! Onto the next adventure!
-Go: Go!
+"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
+Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
+"Goodbye," not "Good bye."
+The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
+"Mythical Pokémon" is used as a translation of maboroshi no pokemon for generation 4 content onwards, save for Mewtwo Strikes Back Evolution. For generations 1 and 2, "Phantom Pokémon" is used. Either is usable for generation 3.
