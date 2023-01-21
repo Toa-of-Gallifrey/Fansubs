@@ -4,9 +4,9 @@ Here you can find up-to-date scripts for fansubbing projects I took part in, whi
 Revolutionary Girl Utena  
 Pocket Monsters: Sun & Moon (Only as unmuxed scripts for the time being)  
 Pocket Monsters (2019) (Only as unmuxed scripts for the time being)  
-	The Hallowed God, Arceus  
-	Aim to be a Pokémon Master  
-	Audio Dramas  
+    The Hallowed God, Arceus  
+    Aim to be a Pokémon Master  
+    Audio Dramas  
 Pocket Monsters Movies (M01)  
 Pocket Monsters: Mewtwo Saga  
 Pocket Monsters: The Distant Blue Sky  
