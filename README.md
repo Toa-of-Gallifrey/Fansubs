@@ -3,19 +3,21 @@ Here you can find up-to-date scripts for fansubbing projects I took part in, whi
 **Projects currently maintained/archived here:**  
 Revolutionary Girl Utena  
 Pocket Monsters: Sun & Moon (Only as unmuxed scripts for the time being)  
+Pocket Monsters (2019) (Only as unmuxed scripts for the time being)  
+	The Hallowed God, Arceus  
+	Aim to be a Pokémon Master  
+	Audio Dramas  
 Pocket Monsters Movies (M01)  
 Pocket Monsters: Mewtwo Saga  
-Pocket Monsters: The Hallowed God, Arceus  
 Pocket Monsters: The Distant Blue Sky  
 Pocket Monsters: Twilight Wings  
 Pokémon Legends Arceus: Twin Indigo of Melting Snow  
 Pokémon Evolutions  
 Pokétoon: Yume no Tsubomi  
-PokéPark  
-Pocket Monsters (2019) Audio Dramas
+PokéPark
 
 **Projects planned to be added eventually:**  
-Pocket Monsters (2019)  
 Pocket Monsters Movies (M02, M03, M21, M22, M23)  
+Pocket Monsters (2019) PWCS Breaking News  
 Miscellaneous Some-Stuffs April's Fools Pocket Monsters releases  
 K-On! (upon release)
