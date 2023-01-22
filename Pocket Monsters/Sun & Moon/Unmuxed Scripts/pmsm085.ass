@@ -206,7 +206,7 @@ Dialogue: 0,0:06:09.95,0:06:12.47,Main,Burnet,0,0,0,,Satoshi, let’s go!
 Dialogue: 0,0:06:12.47,0:06:13.35,Main,Satoshi,0,0,0,,Wait!
 Dialogue: 0,0:06:14.89,0:06:16.81,Main,Bourgain,0,0,0,,And stay out!
 Dialogue: 0,0:06:20.71,0:06:25.06,Main,Bourgain,0,0,0,,Get back ta work, ya slackers! \N The Bourgain statue’ll be ‘ere tomorrow!
-Dialogue: 0,0:06:25.06,0:06:26.69,Main,Them,0,0,0,,{\i1}Y-Yes, Sir!{\i0}
+Dialogue: 0,0:06:25.06,0:06:26.69,Main,Them,0,0,0,,{\i1}Y-Yes, sir!{\i0}
 Dialogue: 0,0:06:40.06,0:06:41.56,Main,Mao,0,0,0,,What’s this?
 Dialogue: 0,0:06:41.56,0:06:42.63,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:06:42.63,0:06:44.65,Main,Kaki,0,0,0,,That’s Professor Kukui for you!
@@ -433,7 +433,7 @@ Dialogue: 0,0:20:31.27,0:20:32.50,Main,Them,0,0,0,,{\i1}It looks just like you!{
 Dialogue: 0,0:20:32.50,0:20:34.38,Main,Bourgain,0,0,0,,No, it don’t!{I wanted to put “Like hell it does!” but... kids’ show. -Starfish}{FWIW, I think it’d be appropriate. Alternatively, “No it don’t!” - Toa}
 Dialogue: 0,0:20:34.75,0:20:36.37,Main,Bourgain,0,0,0,,I’m scrappin’ Bourgain Tower.
 Dialogue: 0,0:20:36.37,0:20:40.58,Main,Bourgain,0,0,0,,Instead, I’ll form a Poké Baseball team and build a Bourgain Stadium!
-Dialogue: 0,0:20:40.58,0:20:42.23,Main,Them,0,0,0,,{\i1}Yes, Sir!{\i0}
+Dialogue: 0,0:20:40.58,0:20:42.23,Main,Them,0,0,0,,{\i1}Yes, sir!{\i0}
 Dialogue: 0,0:20:49.27,0:20:53.02,Main,Lusamine,0,0,0,,Now, Satoshi, \N return Tsundetsunde to its home.
 Dialogue: 0,0:20:53.02,0:20:53.65,Main,Satoshi,0,0,0,,Yes!
 Dialogue: 0,0:20:53.65,0:20:56.81,Main,Satoshi,0,0,0,,Come out, Tsundetsunde!
