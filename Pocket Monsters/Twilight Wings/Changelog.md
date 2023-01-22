@@ -1,1 +1,1 @@
-Contains minor consistency tweaks (Contestant -> Competitor, Miss -> Ms.).
+Contains minor consistency tweaks (Galar region -> Galar Region, Contestant -> Competitor, Miss -> Ms.).
