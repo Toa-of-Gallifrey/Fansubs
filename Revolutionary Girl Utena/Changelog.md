@@ -90,4 +90,4 @@ Currently unchanged from v1 release
 Currently unchanged from v1 release
 
 **Episode 24**  
-Currently unchanged from v1 release
+-Translation adjustment: Honestly, when you have a friend like the Rose Bride, you’re always worried. -> I swear, it’s always one thing after another when you’re friends with the likes of the Rose Bride.
