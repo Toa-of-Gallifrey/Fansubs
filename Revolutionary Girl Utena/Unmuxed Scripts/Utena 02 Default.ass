@@ -286,7 +286,7 @@ Dialogue: 0,0:05:13.57,0:05:14.96,Main,Outlined line,0,0,0,,{\blur0\bord0\3c&HF6
 Dialogue: 0,0:05:15.84,0:05:20.43,Main,Outlined line,0,0,0,,{\blur0\bord0\3c&HF6FBF6&}The letters {\blur2\bord5}are only ever{\blur0\bord0} one-sided \N messages {\blur2\bord5}from The End{\blur0\bord0} of the World.
 Dialogue: 0,0:05:20.43,0:05:23.47,Main,Outlined line,0,0,0,,{\blur0\bord0\3c&HF6FBF6&}Whether or {\blur2\bord5}not we{\blur0\bord0} obey them \N is our decision.
 Dialogue: 0,0:22:58.86,0:23:01.00,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}That’s great, Himemiya!
-Dialogue: 0,0:23:01.00,0:23:03.84,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}You got nominated \N Queen of the Dance?
+Dialogue: 0,0:23:01.00,0:23:03.84,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}You got nominated \N Queen of the Ball?
 Dialogue: 0,0:23:03.84,0:23:08.19,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}But I’m not going. \N I won’t know anyone there.
 Dialogue: 0,0:23:08.19,0:23:11.79,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}All the more reason to go! \N You’ll get to make lots of friends!
 Dialogue: 0,0:23:11.79,0:23:14.45,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}If you insist, Master Utena.
@@ -694,7 +694,7 @@ Dialogue: 0,0:21:20.11,0:21:24.76,Main,Utena,0,0,0,,If you ended up with Saionji
 Comment: 0,0:21:41.27,0:21:41.27,Main,,0,0,0,,{Ending}
 Comment: 0,0:22:56.36,0:22:56.36,Main,,0,0,0,,{Preview}
 Dialogue: 1,0:22:58.86,0:23:01.00,Main,Utena,0,0,0,,That’s great, Himemiya!
-Dialogue: 1,0:23:01.00,0:23:03.84,Main,Utena,0,0,0,,You got nominated \N Queen of the Dance?
+Dialogue: 1,0:23:01.00,0:23:03.84,Main,Utena,0,0,0,,You got nominated \N Queen of the Ball?
 Dialogue: 1,0:23:03.84,0:23:08.19,Main,Anthy,0,0,0,,But I’m not going. \N I won’t know anyone there.
 Dialogue: 1,0:23:08.19,0:23:11.79,Main,Utena,0,0,0,,All the more reason to go! \N You’ll get to make lots of friends!
 Dialogue: 1,0:23:11.79,0:23:14.45,Main,Anthy,0,0,0,,If you insist, Master Utena.
