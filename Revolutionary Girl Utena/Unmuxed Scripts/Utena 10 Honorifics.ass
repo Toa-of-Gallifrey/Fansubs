@@ -311,12 +311,12 @@ Dialogue: 0,0:03:39.09,0:03:39.74,Main,Juri,0,0,0,,What?
 Dialogue: 0,0:03:39.74,0:03:41.55,Main,Touga,0,0,0,,Don’t be hasty, you two.
 Dialogue: 0,0:03:41.55,0:03:42.74,Main,Touga,0,0,0,,There is another Duelist.
 Dialogue: 0,0:03:43.74,0:03:45.49,Main,Miki,0,0,0,,That’s unthinkable!
-Dialogue: 0,0:03:45.49,0:03:50.36,Main,Juri,0,0,0,,You mean to say that, in addition to us and \N Utena, there was another with the right to duel?
+Dialogue: 0,0:03:45.49,0:03:50.36,Main,Juri,0,0,0,,{\q2}You mean to say that, in addition to ourselves \N and Utena, there was another with the right to duel?
 Dialogue: 0,0:03:50.36,0:03:52.92,Main,Juri,0,0,0,,Chosen by \N The End of the World?
 Dialogue: 0,0:04:01.38,0:04:03.95,Main,Nanami,0,0,0,,My brother got hurt \N because of you!
 Dialogue: 0,0:04:03.95,0:04:05.77,Main,Nanami,0,0,0,,All because of you!
-Dialogue: 0,0:04:05.77,0:04:07.56,Main,Nanami,0,0,0,,Why aren’t you \N saying anything?
-Dialogue: 0,0:04:08.04,0:04:12.67,Main,Nanami,0,0,0,,Why did my brother have to get hurt \N saving someone like you?
+Dialogue: 0,0:04:05.77,0:04:07.56,Main,Nanami,0,0,0,,Why aren’t you \N saying anything?!
+Dialogue: 0,0:04:08.04,0:04:12.67,Main,Nanami,0,0,0,,Why did my brother have to get hurt \N saving someone like you?!
 Dialogue: 0,0:04:12.67,0:04:13.83,Main,Utena,0,0,0,,I’m sorry.
 Dialogue: 0,0:04:13.83,0:04:17.45,Main,Utena,0,0,0,,If I was more alert, \N none of this would’ve happened.
 Dialogue: 0,0:04:17.93,0:04:18.86,Main,Utena,0,0,0,,I’m sorry.
@@ -383,7 +383,7 @@ Dialogue: 0,0:07:59.97,0:08:02.97,Main,Nanami,0,0,0,,If anything ever \N happene
 Dialogue: 0,0:08:06.95,0:08:09.80,Main,Touga,0,0,0,,Nothing is going to happen \N to your big brother.
 Dialogue: 0,0:08:10.83,0:08:11.73,Main,Touga,0,0,0,,Right?
 Dialogue: 0,0:08:12.83,0:08:14.10,Main,Nanami,0,0,0,,A kiss...
-Dialogue: 0,0:08:14.72,0:08:17.73,Main,Nanami,0,0,0,,Aren’t you \N about to give me a kiss?
+Dialogue: 0,0:08:14.72,0:08:17.73,Main,Nanami,0,0,0,,Aren’t you going to \N give me a kiss?
 Dialogue: 0,0:08:23.11,0:08:24.43,Main,Touga,0,0,0,,I couldn’t possibly.
 Dialogue: 0,0:08:24.43,0:08:26.09,Main,Touga,0,0,0,,We’re no longer children, \N you know.
 Dialogue: 0,0:08:26.09,0:08:27.61,Main,Touga,0,0,0,,You look surprised.
@@ -484,7 +484,7 @@ Dialogue: 0,0:13:55.46,0:14:00.13,Main,Touga,0,0,0,,The only ones authorized to 
 Dialogue: 0,0:14:00.13,0:14:03.28,Main,Touga,0,0,0,,Now show me your power \N as The End of the World’s chosen.
 Dialogue: 0,0:14:03.28,0:14:07.08,Main,Miki,0,0,0,,You mean... \N Nanami-kun is also a Duelist?
 Dialogue: 0,0:14:07.08,0:14:08.79,Main,Touga,0,0,0,,Tomorrow night, \N at the arena,
-Dialogue: 0,0:14:08.79,0:14:11.16,Main,Touga,0,0,0,,you will accept this duel, right?
+Dialogue: 0,0:14:08.79,0:14:11.16,Main,Touga,0,0,0,,you will have a duel.
 Dialogue: 0,0:14:14.88,0:14:17.53,Main,A-ko,0,0,0,,Look, look! \N I found a kitten.
 Dialogue: 0,0:14:17.53,0:14:19.08,Main,A-ko,0,0,0,,I wonder what I should name it.
 Dialogue: 0,0:14:19.08,0:14:20.55,Main,B-ko,0,0,0,,How does “Mittens” sound?
