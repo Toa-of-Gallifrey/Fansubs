@@ -7,43 +7,46 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 Video Zoom: 4
-PlayResX: 1280
+PlayResX: 1920
 Video Aspect Ratio: c1.77778
-PlayResY: 720
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: SM1Preview.mkv
-Video File: SM1Preview.mkv
+Audio File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_Preview_(WEB_1080p)_[8D9FD6E0].mkv
+Video File: [Some-Stuffs]_Pocket_Monsters_Sun_&_Moon_Preview_(WEB_1080p)_[8D9FD6E0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 24
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
-Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
-Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
-Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
-Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,1,8,30,30,40,0
+Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
+Style: On-screen stuff,Arial Rounded MT Bold,45,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,4.5,0,2,45,45,45,0
+Style: OPED,HummingMod,54,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,45,45,8,0
+Style: Episode titles,HummingMod,105,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,3,2,45,45,45,0
+Style: OP,HummingMod,60,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,4.5,3,8,45,45,45,0
+Style: OPp2,HummingMod,60,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,7.5,3,8,45,45,45,0
+Style: Insert,Candara,60,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,1.5,8,45,45,60,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.97,0:00:03.21,Main,Mao,0,0,0,,Hey, listen! \N I got some big news!
-Dialogue: 0,0:00:03.21,0:00:05.56,Main,Mao,0,0,0,,We’re getting a new student \N at the Pokémon School!
+Dialogue: 0,0:00:00.97,0:00:03.21,Main,Mao,0,0,0,,Hey, listen, listen! \N I got some big news!
+Dialogue: 0,0:00:03.21,0:00:05.56,Main,Mao,0,0,0,,A new student’s coming to \N the Pokémon School!
 Dialogue: 0,0:00:05.56,0:00:06.81,Main,Mamane,0,0,0,,Are you sure?
-Dialogue: 0,0:00:06.81,0:00:12.21,Main,Mao,0,0,0,,I just passed by the Principal’s office, \N and heard him talking about a kid coming from Kanto today!
-Dialogue: 0,0:00:12.21,0:00:14.12,Main,Kaki,0,0,0,,That’s really far away...
+Dialogue: 0,0:00:06.81,0:00:12.21,Main,Mao,0,0,0,,{\q2}I just passed by the principal’s office \N and heard him talking about a kid from Kanto coming today!
+Dialogue: 0,0:00:12.21,0:00:14.12,Main,Kaki,0,0,0,,That’s really far away.
 Dialogue: 0,0:00:14.12,0:00:15.82,Main,Suiren,0,0,0,,Maybe they’ll come riding on Kaiogre...
-Dialogue: 0,0:00:15.82,0:00:17.25,Main,Mao,0,0,0,,I wonder what they’ll be like.
-Dialogue: 0,0:00:17.25,0:00:18.40,Main,Lilie,0,0,0,,This is quite exciting.
+Dialogue: 0,0:00:15.82,0:00:17.25,Main,Mao,0,0,0,,I wonder what they’ll be like!
+Dialogue: 0,0:00:17.25,0:00:18.40,Main,Lilie,0,0,0,,This is quite exciting!
 Dialogue: 0,0:00:18.40,0:00:19.13,Main,Mao,0,0,0,,Yeah!
 Dialogue: 0,0:00:19.13,0:00:21.16,Main,Them,0,0,0,,{\i1}I can’t wait!{\i0}
 Dialogue: 0,0:00:21.16,0:00:24.32,Main,Satoshi,0,0,0,,New series: \N Pocket Monsters Sun & Moon!
 Dialogue: 0,0:00:24.32,0:00:28.48,Main,Satoshi,0,0,0,,Alola! \N A New Island With New Pokémon!!
-Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\fs50\fnヒラギノ角ゴ ProN W6\c&HFFFFFF&\3c&H000000&\pos(640,120)}Next time
-Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\fnヒラギノ角ゴ ProN W6\c&HFFFFFF&\3c&H000000&\pos(640,270)}Alola!
-Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\fnヒラギノ角ゴ ProN W6\c&HFFFFFF&\3c&H000000&\pos(640,550)}A New Island With New Pokémon!!
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.6\fs75\fnHiraKakuProN-W6-Str\3c&H000000&\c&H000000&\pos(960,180)\bord3.5\shad2\4a&H50&}Next time
+Dialogue: 1,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.3\fs75\fnHiraKakuProN-W6-Str\c&HFFFFFF&\pos(960,180)\bord0\4a&H50&\shad2\4a&HFF&}Next time
+Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.6\fnHiraKakuProN-W6-Str\3c&H000000&\c&H000000&\pos(960,425)\bord4\shad2.5\4a&H50&}Alola!
+Dialogue: 1,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.3\fnHiraKakuProN-W6-Str\c&HFFFFFF&\pos(960,425)\bord0\4a&H50&\shad2.5\4a&HFF&}Alola!
+Dialogue: 0,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.6\fnHiraKakuProN-W6-Str\3c&H000000&\c&H000000&\pos(960,810)\bord4\shad2.5\4a&H50&}A New Island With New Pokémon!!
+Dialogue: 1,0:00:24.96,0:00:29.88,Episode titles,,0,0,0,,{\blur0.3\fnHiraKakuProN-W6-Str\c&HFFFFFF&\pos(960,810)\bord0\4a&H50&\shad2.5\4a&HFF&}A New Island With New Pokémon!!
