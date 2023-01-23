@@ -701,7 +701,7 @@ Dialogue: 0,0:13:22.59,0:13:24.95,Main,Tsuwabuki,0,0,0,,Didn’t you already \N 
 Dialogue: 0,0:13:24.95,0:13:29.85,Main,Nanami,0,0,0,,Moo... Don’t stick your nose in \N where it doesn’t bull-ong.{Old: Shut uuuup. \N It’s my business if I want moooore.}{I will be putting lots of pun based options into all of these. See if you like any of them, and what balance of moos, elongated words and puns you wanna go for. It doesn’t have to be one or the other.}{Hay, stop that, It’s my business.}
 Dialogue: 0,0:13:32.08,0:13:34.17,Main,Tsuwabuki,0,0,0,,Class will be starting soon.
 Dialogue: 0,0:13:34.17,0:13:36.19,Main,Nanami,0,0,0,,Yeah, yeah, I knoooow.{You’re so predictabull}{I’m not in the moooood}{Bullieve me, I know.}
-Dialogue: 0,0:13:36.19,0:13:38.58,Main,Nanami,0,0,0,,Man-ure really annoying today. {Can’t you ever shut uuuup?}
+Dialogue: 0,0:13:36.19,0:13:38.58,Main,Nanami,0,0,0,,Cud you just be quiet? {Man-ure really annoying today.}{Can’t you ever shut uuuup?}
 Dialogue: 0,0:13:40.82,0:13:42.34,Main,Tsuwabuki,0,0,0,,Nanami-san...!
 Dialogue: 0,0:13:44.30,0:13:48.31,Main,Nanami,0,0,0,,I’m about ready to hit the hay \N after all that food.{All that fooood put me \N really loooow on energy somehow...}
 Dialogue: 0,0:13:49.15,0:13:51.29,Main,Nanami,0,0,0,,Tsuwabuki, \N answer for me when they take attendance.
@@ -757,11 +757,11 @@ Dialogue: 0,0:16:55.89,0:16:56.79,Main,Utena,0,0,0,,Definitely.
 Dialogue: 0,0:17:08.41,0:17:09.74,Main,Utena,0,0,0,,Nanami!
 Dialogue: 0,0:17:11.37,0:17:13.29,Main,Utena,0,0,0,,Ditch the cowbell!
 Dialogue: 0,0:17:19.90,0:17:21.00,Main,Utena,0,0,0,,Ditch it!
-Dialogue: 0,0:17:22.79,0:17:25.57,Main,Nanami,0,0,0,,Stop talking to me, moo. {Leave me aloooone.}{What bulloney}{or any of the previous suggestions}{Stop the verbull assault}{Why do you keep getting udder my skin?}
+Dialogue: 0,0:17:22.79,0:17:25.57,Main,Nanami,0,0,0,,Man-ure so annoying. {Talk to the hoof.}{I’ve herd enough from you.}{Leave me aloooone.}{What bulloney}{or any of the previous suggestions}{Stop the verbull assault}{Why do you keep getting udder my skin?}
 Dialogue: 0,0:17:25.57,0:17:29.53,Main,Utena,0,0,0,,Do you know what that bell \N around your neck is?
-Dialogue: 0,0:17:29.53,0:17:34.28,Main,Nanami,0,0,0,,Sheesh, moo... \N It’s a Sebastian Dior cowbell, moo! {Gooood... It’s a Sebastian Dior coooowbell.}{Oh bullease, It’s a ....}{You’re unbelievabull, it’s a... }{Why are you so unreasonabull? ...}
+Dialogue: 0,0:17:29.53,0:17:34.28,Main,Nanami,0,0,0,,Bull-ease... \N It’s a Sebastian Dior cowbell, moo! {Gooood... It’s a Sebastian Dior coooowbell.}{Oh bullease, It’s a ....}{You’re unbelievabull, it’s a... }{Why are you so unreasonabull? ...}
 Dialogue: 0,0:17:34.28,0:17:38.25,Main,Utena,0,0,0,,A cowbell, as in a bell that \N a cow wears around its neck!
-Dialogue: 0,0:17:38.25,0:17:40.74,Main,Nanami,0,0,0,,What are you \N talking about, moo? {What are you talking aboooout?}{Listening to you is cownterproductive.}{Bull the other one, why don’t you?}{I’m not in the moooood for your bull.}
+Dialogue: 0,0:17:38.25,0:17:40.74,Main,Nanami,0,0,0,,What are myoo talking about? {What are you talking aboooout?}{Listening to you is cownterproductive.}{Bull the other one, why don’t you?}{I’m not in the moooood for your bull.}
 Dialogue: 0,0:17:40.74,0:17:42.75,Main,Utena,0,0,0,,Take a good, long \N look around you!
 Dialogue: 0,0:17:42.75,0:17:43.25,Main,Nanami,0,0,0,,Huh?
 Dialogue: 0,0:17:53.62,0:17:57.40,Main,Nanami,0,0,0,,Y-You mean to say Sebastian Dior, \N purveyor to royalty, actually...?!
@@ -772,19 +772,19 @@ Dialogue: 0,0:18:03.27,0:18:05.49,Main,Utena,0,0,0,,You don’t even know \N wha
 Dialogue: 0,0:18:05.49,0:18:09.28,Main,Utena,0,0,0,,and yet you’ve been \N parading around and showing it off.
 Dialogue: 0,0:18:09.81,0:18:11.70,Main,Utena,0,0,0,,And now you’re practically a cow.
 Dialogue: 0,0:18:12.22,0:18:13.20,Main,Nanami,0,0,0,,A cow?!
-Dialogue: 0,0:18:15.74,0:18:18.48,Main,Utena,0,0,0,,Can’t do anything \N about that now.
+Dialogue: 0,0:18:15.74,0:18:18.48,Main,Utena,0,0,0,,Can’t do anything about that now.
 Dialogue: 0,0:18:18.48,0:18:24.07,Main,Utena,0,0,0,,What you {\i1}can{\i0} do is take that thing off \N before you become a cow in body and soul!
-Dialogue: 0,0:18:24.07,0:18:26.84,Main,Nanami,0,0,0,,Wh-What are you \N talking aboooout?! {Speak more cowherently!}{I’ve never encowntered such stupidity before.}
+Dialogue: 0,0:18:24.07,0:18:26.84,Main,Nanami,0,0,0,,Wh-What are myoo saying?! {Speak more cowherently!}{I’ve never encowntered such stupidity before.}
 Dialogue: 0,0:18:26.84,0:18:30.17,Main,Nanami,0,0,0,,How could it be possi-bull \N for a human to turn into a cow? {How could I possibly become a coooow?}{It’s inconcievabull that I’d become a cow!}
-Dialogue: 0,0:18:30.17,0:18:33.02,Main,Nanami,0,0,0,,I’m being serioooous, \N don’t you dare try to scare me. {Serioooously, don’t try to scare me.}{Stop bullying me}
-Dialogue: 0,0:18:33.02,0:18:34.25,Main,Nanami,0,0,0,,You’re full of bull. {Quit kidding aroooound.}{That’s a tall tail}{I’ve got calf a mind to...}
+Dialogue: 0,0:18:30.17,0:18:33.02,Main,Nanami,0,0,0,,I’m being serioooous, \N stop trying to make me cower in fear! {Stop bullying me}
+Dialogue: 0,0:18:33.02,0:18:34.25,Main,Nanami,0,0,0,,You’re full of bull! {Quit kidding aroooound.}{That’s a tall tail}{I’ve got calf a mind to...}
 Dialogue: 0,0:18:34.25,0:18:36.83,Main,Anthy,0,0,0,,Utena-sama! \N It’s finally finished!
 Dialogue: 0,0:18:36.83,0:18:38.00,Main,Utena,0,0,0,,What is it?
 Dialogue: 0,0:18:38.00,0:18:39.41,Main,Anthy,0,0,0,,It’s a sweater!
 Dialogue: 0,0:18:39.41,0:18:42.14,Main,Utena,0,0,0,,Thanks, but it’s a little \N out of season, isn’t it?
-Dialogue: 0,0:18:50.15,0:18:55.16,Main,Nanami,0,0,0,,Moo... Just a little moooore time \N and I would’ve been irresista-bull. {With just a little moooore time, I would’ve been the most popular girl in schooool.} {With just one more moooooove I’d be the most popular girl in school.} {Most popular in this commooooonity}{I was going to milk this popularity for all it’s worth.}{Irresistabull}{I love all these lmao. Had a hard time picking. - Toa}
+Dialogue: 0,0:18:50.15,0:18:55.16,Main,Nanami,0,0,0,,Moo... Just a little moooore time \N and I would’ve been irresista-bull. {With just a little moooore time, I would’ve been the most popular girl in schooool.}{With just one more moooooove I’d be the most popular girl in school.}{Most popular in this commooooonity}{I was going to milk this popularity for all it’s worth.}{Irresistabull}{I love all these lmao. Had a hard time picking. - Toa}
 Dialogue: 0,0:18:55.16,0:18:57.89,Main,Nanami,0,0,0,,I’m mooooving in and out \N of cow-nsciousness... {I’m losing foooocus.}{I’m becoming less and less cowordinated}
-Dialogue: 0,0:18:57.89,0:19:00.81,Main,Nanami,0,0,0,,What are these horri-bull hallucinations? \N Am I high on moooonshine? { I’m not just seeing stars, I’m seeing whole mooooons.} {Are my brain folds smoooooting out?} {Am I high on moooooonshine?} {Do I need my appendix remooooved?} {I’m lost in the Bermooooooda triangle.}
+Dialogue: 0,0:18:57.89,0:19:00.81,Main,Nanami,0,0,0,,What are these horri-bull visions? \N What does the appendix doooo?{Am I high on moooonshine?}{Am I getting deja-moo?}{I’m not just seeing stars, I’m seeing whole mooooons.}{Are my brain folds smooooothing out?}{I’m lost in the Bermooooooda triangle.}
 Dialogue: 0,0:19:00.81,0:19:03.78,Main,Nanami,0,0,0,,Holy cow, hoof I been \N poisoned by a snake? {Or maybe a deadly poisonous snake’s tooooth?}{If it’s a poisonous snake bite all this is moooooot./this will not go smooooothly}{Am i having an imooooone response to some poison?}{poisonous bullfrog instead of snake - (bullfrogs are poisonous, yes)}
 Dialogue: 0,0:19:03.78,0:19:06.48,Main,Nanami,0,0,0,,Someone bring me \N a comforta-bull blanket! {Soooomeone, bring me a blanket!}{Maybe a nice comfortabull bullanket would improve my mood}
 Dialogue: 0,0:19:07.23,0:19:08.17,Main,Utena,0,0,0,,Nanami?
@@ -801,7 +801,7 @@ Dialogue: 0,0:19:43.14,0:19:44.00,Main,Anthy,0,0,0,,Right!
 Dialogue: 0,0:19:50.38,0:19:52.67,Main,Nanami,0,0,0,,Take responsi-bull-ity! {I’ve had enough of yoooou!}{I won’t forgive you anymore}{I’ll beat you to a bullp!}
 Dialogue: 0,0:19:57.63,0:19:59.39,Main,Utena,0,0,0,,Olé!
 Dialogue: 0,0:20:05.90,0:20:07.02,Main,Tsuwabuki,0,0,0,,Utena-san!
-Dialogue: 0,0:20:19.55,0:20:22.43,Main,Nanami,0,0,0,,Time for me to be \N put out to pasture... {I’m done foooor...}{Hoof, I’m done for}{That was a hit bullow the belt.}{I’m hoof dead}
+Dialogue: 0,0:20:19.55,0:20:22.43,Main,Nanami,0,0,0,,I’m udderly done for!
 Dialogue: 0,0:20:27.00,0:20:29.00,Main,Anthy,0,0,0,,Utena-sama!
 Dialogue: 0,0:20:40.66,0:20:42.60,Main,Juri,0,0,0,,How pitiable...
 Dialogue: 0,0:20:42.60,0:20:45.85,Main,Juri,0,0,0,,The final days of someone \N enslaved to brands.

@@ -147,11 +147,11 @@ Dialogue: 0,0:06:41.80,0:06:45.42,Amitié JP,,0,0,0,,{\fad(0,350)}sono kurikaesh
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:05:11.08,0:05:16.68,Amitié EN,,0,0,0,,When? Where? Who? Which?
 Dialogue: 0,0:05:16.68,0:05:22.80,Amitié EN,,0,0,0,,When? Where? Who? Which?
-Dialogue: 0,0:05:28.72,0:05:33.55,Amitié EN,,0,0,0,,Blood flows from the cage of memory
-Dialogue: 0,0:05:34.52,0:05:40.57,Amitié EN,,0,0,0,,Cradled in a thousand years of bliss
+Dialogue: 0,0:05:28.72,0:05:33.55,Amitié EN,,0,0,0,,A bloodstream held by the cage of memory,
+Dialogue: 0,0:05:34.52,0:05:40.57,Amitié EN,,0,0,0,,cradled in a thousand years of bliss
 Dialogue: 0,0:05:40.57,0:05:49.15,Amitié EN,,0,0,0,,I am an actor, eternal metaphors
-Dialogue: 0,0:05:49.15,0:05:58.14,Amitié EN,,0,0,0,,A desert’s wintery Sphinx, Phinx
-Dialogue: 0,0:06:00.99,0:06:05.82,Amitié EN,,0,0,0,,Of the flesh of those who are born, of those who die
+Dialogue: 0,0:05:49.15,0:05:58.14,Amitié EN,,0,0,0,,A desert’s wintry Sphinx, Phinx
+Dialogue: 0,0:06:00.99,0:06:05.82,Amitié EN,,0,0,0,,Of the flesh that is born and dies,
 Dialogue: 0,0:06:06.69,0:06:12.40,Amitié EN,,0,0,0,,the sad winds tell you
 Dialogue: 0,0:06:12.40,0:06:21.59,Amitié EN,,0,0,0,,The holy actor, eternal metaphors
 Dialogue: 0,0:06:21.59,0:06:30.16,Amitié EN,,0,0,0,,Margineaux of light and dark, fallen down to hell
@@ -226,7 +226,7 @@ Dialogue: 0,0:11:58.72,0:12:00.04,Choix JP,,0,0,0,,anmonaito
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:10:09.18,0:10:12.19,Choix EN,,0,0,0,,A celestial age, the primordial sea
 Dialogue: 0,0:10:12.19,0:10:15.46,Choix EN,,0,0,0,,Erosion, sediment
-Dialogue: 0,0:10:15.46,0:10:21.52,Choix EN,,0,0,0,,3 billion years, the genesis of life: a geological age
+Dialogue: 0,0:10:15.46,0:10:21.52,Choix EN,,0,0,0,,3 billion years, the birth of life: a geological age
 Dialogue: 0,0:10:21.52,0:10:28.26,Choix EN,,0,0,0,,Cambrian, Ordovician, Silurian, Devonian
 Dialogue: 0,0:10:28.26,0:10:34.80,Choix EN,,0,0,0,,Stromatolite, bacteria, collenia
 Dialogue: 0,0:10:34.80,0:10:38.79,Choix EN,,0,0,0,,Triassic, Jurassic, Cretaceous
@@ -385,8 +385,8 @@ Dialogue: 0,0:18:18.29,0:18:25.38,Adoration EN,,0,0,0,,My eternal self
 Dialogue: 0,0:18:25.38,0:18:30.13,Adoration EN,,0,0,0,,The eternal stranger
 Dialogue: 0,0:18:32.09,0:18:35.61,Adoration EN,,0,0,0,,Two relations, two births
 Dialogue: 0,0:18:35.61,0:18:39.26,Adoration EN,,0,0,0,,A mysterious scale, a constellation of the human body
-Dialogue: 0,0:19:13.55,0:19:16.89,Adoration EN,,0,0,0,,Time is a hypothetical illusion...{Time is a hypothesis, a stage prop...}
-Dialogue: 0,0:19:16.89,0:19:19.89,Adoration EN,,0,0,0,,...of the newborn stage prop{...for the illusion of the genesis of birth}
+Dialogue: 0,0:19:13.55,0:19:16.89,Adoration EN,,0,0,0,,Time is a hypothetical illusion...
+Dialogue: 0,0:19:16.89,0:19:19.89,Adoration EN,,0,0,0,,...of the newborn stage prop
 Dialogue: 0,0:19:19.89,0:19:23.56,Adoration EN,,0,0,0,,Destiny, choices, the theory of goodbyes
 Dialogue: 0,0:19:23.56,0:19:27.08,Adoration EN,,0,0,0,,You and I are the Milky Way
 Dialogue: 0,0:19:27.08,0:19:30.48,Adoration EN,,0,0,0,,No past, no future, we live solely for today
@@ -502,10 +502,10 @@ Dialogue: 0,0:12:40.10,0:12:41.71,Main,Akio,0,0,0,,Your power...
 Dialogue: 0,0:12:41.71,0:12:44.76,Main,Akio,0,0,0,,She may even herald \N the complete rebirth of the Power of Dios.
 Dialogue: 0,0:12:46.91,0:12:49.67,Main,Akio,0,0,0,,The subsequent battles \N were all highly unique.
 Comment: 0,0:12:59.35,0:12:59.35,Main,,0,0,0,,{raison}
-Dialogue: 0,0:12:59.47,0:13:02.73,Main,Miki,0,0,0,,I could never \N match that timbre. {Copy-paste from episode 5 START... although this line isn’t an exact match with the one in episode 5. This line is “ どうしても僕には出せなかった“, while the one in episode 5 is “妹が弾くピアノの あの音色はどうしても出せなかった“. - Toa}{Might want to change feeling to tone colour. That is the musical term that corresponds to the japanese word.  I don't remeber what we did with the equivalent line last time, but the neiro is the same.}
+Dialogue: 0,0:12:59.47,0:13:02.73,Main,Miki,0,0,0,,I could never \N match that timbre. {Copy-paste from episode 5 START... although this line isn’t an exact match with the one in episode 5. This line is “ どうしても僕には出せなかった“, while the one in episode 5 is “妹が弾くピアノの あの音色はどうしても出せなかった“. - Toa}
 Dialogue: 0,0:13:07.21,0:13:10.36,Main,Miki,0,0,0,,I have to recapture that music. {And this one is the same as in episode 4 but without “Yes.“ at the start. - Toa}
 Dialogue: 0,0:13:21.08,0:13:24.74,Main,Miki,0,0,0,,And so, I need the Bride \N no matter what!
-Dialogue: 0,0:13:31.41,0:13:35.63,Main,Utena,0,0,0,,But sitting before a piano \N suits you more.
+Dialogue: 0,0:13:31.41,0:13:35.63,Main,Utena,0,0,0,,Sitting at a piano \N suits you better.
 Dialogue: 0,0:14:00.97,0:14:02.78,Main,Kozue,0,0,0,,So, are we giving it \N another try?
 Dialogue: 0,0:14:09.92,0:14:14.63,Main,Touga,0,0,0,,You have to seize and protect the things \N most precious to you with your own hands.
 Dialogue: 0,0:14:15.06,0:14:17.79,Main,Touga,0,0,0,,People are not above stealing, Mickey.
@@ -519,8 +519,8 @@ Dialogue: 0,0:15:25.98,0:15:29.93,Main,Akio,0,0,0,,In trying to possess a miracl
 Comment: 0,0:15:32.74,0:15:32.74,Main,,0,0,0,,{amour}
 Dialogue: 0,0:15:29.93,0:15:33.61,Main,Juri,0,0,0,,Throw away your Rose Seal! \N Your ring! {Copy-paste from episode 7 START}
 Dialogue: 0,0:15:33.61,0:15:35.33,Main,Juri,0,0,0,,You make me sick!
-Dialogue: 0,0:15:35.33,0:15:37.16,Main,Juri,0,0,0,,That so-called \N “nobility” of yours
-Dialogue: 0,0:15:37.16,0:15:40.34,Main,Juri,0,0,0,,is just a cheap act you put on \N to impress a guy you like!
+Dialogue: 0,0:15:35.33,0:15:37.16,Main,Juri,0,0,0,,That so-called \N “nobility” of yours...
+Dialogue: 0,0:15:37.16,0:15:40.34,Main,Juri,0,0,0,,...is just a cheap act you put on \N to impress a guy you like!
 Dialogue: 0,0:15:50.01,0:15:51.85,Main,Shiori,0,0,0,,Believe in miracles...
 Dialogue: 0,0:15:56.35,0:15:57.73,Main,Shiori,0,0,0,,...so that your wish may come true.
 Dialogue: 0,0:16:02.82,0:16:04.85,Main,Juri,0,0,0,,Are you all right, \N O Prince?
@@ -539,21 +539,21 @@ Dialogue: 0,0:17:32.75,0:17:33.95,Main,Juri,0,0,0,,This is it. {Copy-paste from 
 Comment: 0,0:17:46.84,0:17:46.84,Main,,0,0,0,,{Part F}
 Dialogue: 0,0:17:49.14,0:17:53.74,Main,Akio,0,0,0,,Indeed... The young \N always seek the end of the world...
 Comment: 0,0:17:55.93,0:17:55.93,Main,,0,0,0,,{adoration}
-Dialogue: 0,0:17:54.68,0:17:57.47,Main,Nanami,0,0,0,,My brother got hurt \N because of you! {Copy-paste from episode 7 START... whenever applicable, because this recap loves changing lines. - Toa}
+Dialogue: 0,0:17:54.68,0:17:57.47,Main,Nanami,0,0,0,,My brother got hurt \N because of you! {Copy-paste from episode 10 START... whenever applicable, because this recap loves changing lines. - Toa}
 Dialogue: 0,0:17:59.42,0:18:01.02,Main,Nanami,0,0,0,,All because of you!
 Dialogue: 0,0:18:01.89,0:18:03.94,Main,Nanami,0,0,0,,All because of you!
 Dialogue: 0,0:18:10.07,0:18:11.36,Main,Nanami,0,0,0,,Don’t underestimate me! {Exclamation marked because the delivery is different here. - Toa}
 Dialogue: 0,0:18:20.04,0:18:24.34,Main,Touga,0,0,0,,Nanami, show me your power \N as The End of the World’s chosen. {Slightly different from the line in episode 10 (he adds "Nanami" at the start, not sure if there's more differences. - Toa}
 Dialogue: 0,0:18:39.26,0:18:44.02,Main,Nanami,0,0,0,,I’ve been watching my brother, \N and my brother only, since forever. {Differently worded from episode 10. - Toa}
-Dialogue: 0,0:18:44.02,0:18:46.10,Main,Nanami,0,0,0,,You hurt my dearest brother! {This line does not seem to be in episode 10 word-for-word, though I could've missed it. - Toa}
+Dialogue: 0,0:18:44.02,0:18:46.10,Main,Nanami,0,0,0,,You hurt my dearest brother! {This line does not seem to be in episode 10 word-for-word. - Toa}
 Dialogue: 0,0:18:51.11,0:18:53.24,Main,Nanami,0,0,0,,This is your fault.
 Dialogue: 0,0:18:53.24,0:18:55.36,Main,Nanami,0,0,0,,You came between me \N and my big brother.
 Dialogue: 0,0:18:58.95,0:19:00.71,Main,Nanami,0,0,0,,This is your fault.
 Dialogue: 0,0:19:01.57,0:19:03.60,Main,Nanami,0,0,0,,This is your fault.
 Dialogue: 0,0:19:04.18,0:19:06.58,Main,Nanami,0,0,0,,This is your fault.
 Dialogue: 0,0:19:07.10,0:19:09.16,Main,Nanami,0,0,0,,This is your fault.
-Dialogue: 0,0:19:10.11,0:19:11.55,Main,Nanami,0,0,0,,...’s your fault. {Truncated audio I think? - Toa}
-Dialogue: 0,0:19:13.55,0:19:14.55,Main,Nanami,0,0,0,,It’s all you!{This line does not seem to be in episode 10 word-for-word, though I could've missed it. - Toa}
+Dialogue: 0,0:19:10.11,0:19:11.55,Main,Nanami,0,0,0,,...your fault. {Truncated}
+Dialogue: 0,0:19:13.55,0:19:14.55,Main,Nanami,0,0,0,,It’s all you!{This line does not seem to be in episode 10 word-for-word. - Toa}
 Comment: 0,0:19:49.42,0:19:49.42,Main,,0,0,0,,{Part G}
 Dialogue: 0,0:19:49.42,0:19:50.50,Main,Akio,0,0,0,,Friendship,
 Dialogue: 0,0:19:50.67,0:19:51.92,Main,Akio,0,0,0,,choice,

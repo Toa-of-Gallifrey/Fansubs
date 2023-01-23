@@ -282,8 +282,8 @@ Dialogue: 0,0:09:44.80,0:09:47.93,Main,Nanami,0,0,0,,Forget that, is there anyth
 Dialogue: 0,0:09:47.93,0:09:50.49,Main,Anthy,0,0,0,,Everything he wrote \N seems to be about you.
 Dialogue: 0,0:09:51.90,0:09:56.15,Main,Tsuwabuki,0,0,0,,Madam Nanami seized every opportunity \N she got to wrong Ms. Himemiya. {lit. Madam Nanami tried to treat Ms Himemiya badly at every opportunity}
 Dialogue: 0,0:09:56.15,0:09:57.66,Main,Tsuwabuki,0,0,0,,Indeed, \N like that other time... {Same as the line at 05:56.63 - Toa}
-Dialogue: 0,0:09:57.66,0:10:00.81,Main,Miki,0,0,0,,{\q2}Wow, they say \N this dorm is like a haunted house,{Episode 4 copy-paste START. All lines that differ are noted, same for all new lines unique to this episode. - Toa}
-Dialogue: 0,0:10:00.81,0:10:02.41,Main,Miki,0,0,0,,but it’s actually quite nice inside. {Self-note to maybe join this line with the previous both here and in episode 4. - Toa}
+Dialogue: 0,0:09:57.66,0:09:58.67,Main,Miki,0,0,0,,Wow! {Episode 4 copy-paste START. All lines that differ are noted, same for all new lines unique to this episode. - Toa}
+Dialogue: 0,0:09:58.67,0:10:02.41,Main,Miki,0,0,0,,They say this dorm is like a haunted house, \N but it’s actually quite nice inside.
 Dialogue: 0,0:10:02.41,0:10:04.12,Main,Nanami,0,0,0,,Such a lovely room. {Episode 4: へ〜え この寮ってお化け屋敷っていわれてるけど | This episode: へ〜え この寮ってお化け屋敷っていわれているけど - Toa}{same}
 Dialogue: 0,0:10:04.12,0:10:08.09,Main,Utena,0,0,0,,Yeah. That’s thanks to \N Himemiya’s daily cleaning.
 Dialogue: 0,0:10:08.46,0:10:11.09,Main,Miki,0,0,0,,So you enjoy keeping things neat, \N Himemiya?
@@ -376,7 +376,7 @@ Dialogue: 0,0:16:06.40,0:16:08.78,Main,Tsuwabuki,0,0,0,,P-Please don’t read an
 Dialogue: 0,0:16:09.17,0:16:10.89,Main,Nanami,0,0,0,,How dare you ask that?!{lit. what are you even saying at this point}
 Dialogue: 0,0:16:10.89,0:16:13.41,Main,Nanami,0,0,0,,I’m gonna expose all your evil plans!
 Dialogue: 0,0:16:13.41,0:16:15.59,Main,Tsuwabuki,0,0,0,,They’re not evil plans!
-Dialogue: 0,0:16:15.59,0:16:18.87,Main,Tsuwabuki,0,0,0,,All I wanted was to become \N a man worthy of you, Miss Nanami!
+Dialogue: 0,0:16:15.59,0:16:18.87,Main,Tsuwabuki,0,0,0,,All I wanted was to become \N a man worthy of you, Madam Nanami!
 Dialogue: 0,0:16:18.87,0:16:20.68,Main,Nanami,0,0,0,,You horrible little...!
 Dialogue: 0,0:16:20.68,0:16:22.24,Main,Utena,0,0,0,,Calm down, Nanami!
 Dialogue: 0,0:16:22.24,0:16:24.53,Main,Utena,0,0,0,,If you get too worked up, \N you’ll turn into a cow again!
@@ -386,11 +386,11 @@ Dialogue: 0,0:16:28.51,0:16:31.98,Main,Anthy,0,0,0,,“I think I can handle it \
 Dialogue: 0,0:16:35.58,0:16:37.14,Main,Utena,0,0,0,,Nanami! {Episode 16 copy-paste START. All lines that differ are noted. - Toa}
 Dialogue: 0,0:16:38.28,0:16:40.05,Main,Utena,0,0,0,,Ditch the cowbell!
 Dialogue: 0,0:16:47.75,0:16:48.94,Main,Utena,0,0,0,,Ditch it!
-Dialogue: 0,0:16:51.00,0:16:52.68,Main,Nanami,0,0,0,,Stop talking to me, moo.
+Dialogue: 0,0:16:51.00,0:16:52.68,Main,Nanami,0,0,0,,Man-ure so annoying.
 Dialogue: 0,0:16:52.68,0:16:56.12,Main,Utena,0,0,0,,Do you know what that bell \N around your neck is? {君は その首の鈴が本来何であるのか知っているのか？ for this episode vs 君は その首の鈴が本来 何であるのか知ってるのか？ for episode 16. Any difference worth reflecting with the teru vs teiru? - Toa}{Nope}
-Dialogue: 0,0:16:56.12,0:17:00.62,Main,Nanami,0,0,0,,Sheesh, moo... \N It’s a Sebastian Dior cowbell, moo!
+Dialogue: 0,0:16:56.12,0:17:00.62,Main,Nanami,0,0,0,,Bull-ease... \N It’s a Sebastian Dior cowbell, moo!
 Dialogue: 0,0:17:01.08,0:17:04.50,Main,Utena,0,0,0,,A cowbell, as in a bell that \N a cow wears around its neck!
-Dialogue: 0,0:17:04.96,0:17:07.05,Main,Nanami,0,0,0,,What’re you \N talking about, moo? {This is 何 言ってんの？ もう while episode 16 is 何 言ってるの？ もう, so changed "What are" to "What’re". - Toa}{sure}
+Dialogue: 0,0:17:04.96,0:17:07.05,Main,Nanami,0,0,0,,What’re myoo talking about? {This is 何 言ってんの？ もう while episode 16 is 何 言ってるの？ もう, so changed "What are" to "What’re". - Toa}{sure}
 Dialogue: 0,0:17:07.05,0:17:09.01,Main,Utena,0,0,0,,Take a good, long \N look around you!
 Dialogue: 0,0:17:09.01,0:17:09.51,Main,Nanami,0,0,0,,Hmm? {This is うん while episode 16 is ハア, so changed from "Huh?" to "Hmm?". - Toa}
 Dialogue: 0,0:17:18.98,0:17:22.72,Main,Nanami,0,0,0,,Y-You mean to say Sebastian Dior, \N purveyor to royalty, actually...?!
@@ -401,19 +401,19 @@ Dialogue: 0,0:17:29.16,0:17:31.47,Main,Utena,0,0,0,,You don’t even know \N wha
 Dialogue: 0,0:17:31.47,0:17:34.87,Main,Utena,0,0,0,,and yet you’ve been \N parading around and showing it off.
 Dialogue: 0,0:17:34.87,0:17:37.04,Main,Utena,0,0,0,,And now you’re practically a cow.
 Dialogue: 0,0:17:37.49,0:17:38.50,Main,Nanami,0,0,0,,A cow?! {This is 牛 while episode 16 is お牛. Doesn't seem to me like a change we need to/can reflect. - Toa}{nope}
-Dialogue: 0,0:17:41.00,0:17:43.70,Main,Utena,0,0,0,,Can’t do anything \N about that now.
+Dialogue: 0,0:17:41.00,0:17:43.70,Main,Utena,0,0,0,,Can’t do anything about that now.
 Dialogue: 0,0:17:43.70,0:17:49.38,Main,Utena,0,0,0,,What you {\i1}can{\i0} do is take that thing off \N before you become a cow in body and soul!
-Dialogue: 0,0:17:49.38,0:17:52.34,Main,Nanami,0,0,0,,Wh-What are you \N talking aboooout? {This line is delivered less emphatically than in episode 16, so no exclamation mark. - Toa}
+Dialogue: 0,0:17:49.38,0:17:52.34,Main,Nanami,0,0,0,,Wh-What are myoo saying? {This line is delivered less emphatically than in episode 16, so no exclamation mark. - Toa}
 Dialogue: 0,0:17:52.34,0:17:55.43,Main,Nanami,0,0,0,,How could it be possi-bull \N for a human to turn into a cow?
-Dialogue: 0,0:17:56.33,0:17:58.47,Main,Nanami,0,0,0,,Don’t you dare try to scare me. {Truncated from episode 16. - Toa}
-Dialogue: 0,0:17:58.47,0:17:59.99,Main,Nanami,0,0,0,,You’re full of bull. {冗談じゃないわよ もう Episode 16 has no よ. Haven't made any tweaks yet since I don't know if it changes anything. - Toa}{it's just making it a tiny bit more of an exclamation. None of these differences really mean much.}
+Dialogue: 0,0:17:56.33,0:17:58.47,Main,Nanami,0,0,0,,Stop trying to make me cower in fear! {Truncated from episode 16. - Toa}
+Dialogue: 0,0:17:58.47,0:17:59.99,Main,Nanami,0,0,0,,You’re full of bull! {冗談じゃないわよ もう Episode 16 has no よ. Haven't made any tweaks yet since I don't know if it changes anything. - Toa}{it's just making it a tiny bit more of an exclamation. None of these differences really mean much.}
 Dialogue: 0,0:17:59.99,0:18:02.00,Main,Anthy,0,0,0,,Master Utena! \N It’s finally finished!
 Dialogue: 0,0:18:02.00,0:18:03.12,Main,Utena,0,0,0,,What is it?
 Dialogue: 0,0:18:03.12,0:18:04.50,Main,Anthy,0,0,0,,It’s a sweater!
 Dialogue: 0,0:18:04.50,0:18:07.40,Main,Utena,0,0,0,,Thanks, but it’s a little \N out of season, isn’t it? {This episode: ありがとうでも ちょっと季節外れだね | Episode 16: ありがとうでも ちょっと季節はずれだね | Haven't made any changes yet. - Toa}{I don't think there's any difference if they write out the kanji or not. Might not even be intentional.}
 Dialogue: 0,0:18:15.12,0:18:19.87,Main,Nanami,0,0,0,,Moo... Just a little moooore time \N and I would’ve been irresista-bull.
 Dialogue: 0,0:18:20.48,0:18:22.51,Main,Nanami,0,0,0,,I’m mooooving in and out \N of cow-nsciousness...
-Dialogue: 0,0:18:22.51,0:18:25.10,Main,Nanami,0,0,0,,What are these horri-bull hallucinations? \N Am I high on moooonshine?
+Dialogue: 0,0:18:22.51,0:18:25.10,Main,Nanami,0,0,0,,What are these horri-bull visions? \N What does the appendix doooo?
 Dialogue: 0,0:18:25.10,0:18:27.81,Main,Nanami,0,0,0,,Holy cow, hoof I been \N poisoned by a snake?
 Dialogue: 0,0:18:27.81,0:18:29.84,Main,Nanami,0,0,0,,Someone bring me \N a comforta-bull blanket!
 Dialogue: 0,0:18:31.75,0:18:32.84,Main,Utena,0,0,0,,Nanami?
@@ -445,7 +445,7 @@ Dialogue: 0,0:20:20.82,0:20:22.60,Main,Tsuwabuki,0,0,0,,I’ll fill you in later
 Dialogue: 0,0:20:22.60,0:20:23.94,Main,Tsuwabuki,0,0,0,,No need to worry.
 Dialogue: 0,0:20:26.50,0:20:27.79,Main,Nanami,0,0,0,,I’m helping myself to that! {Bluesun's findings for this turn of phrasing:【頂き・戴き】他人よりも先にものを取ることができること。他人のものを横取りすること。また勝利が確実であること。感動詞的にも用いられる。 To take something ahead of others. To snatch something from another. Or, a definite victory. Also used as an emotional interjection. | そのアイデア、いただきだ。 sono idea, itadaki da. / I'm taking that idea.}{that is indeed what it means xD - you've heard itadakimasu like a million times, this is just a different vibe on the same concept.}
 Dialogue: 0,0:20:27.79,0:20:28.75,Main,Tsuwabuki,0,0,0,,Oh, no! {しまった！}
-Dialogue: 0,0:20:29.61,0:20:33.01,Main,Nanami,0,0,0,,So, you do have \N nasty things written here, hmm?
+Dialogue: 0,0:20:29.61,0:20:33.01,Main,Nanami,0,0,0,,So, you {\i1}do{\i0} have \N nasty things written here, hmm?
 Dialogue: 0,0:20:36.04,0:20:37.09,Main,Nanami,0,0,0,,Restrain him!
 Dialogue: 0,0:20:37.09,0:20:40.09,Main,Tsuwabuki,0,0,0,,St-St-St-St-St-Stop!
 Dialogue: 0,0:20:37.09,0:20:40.09,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur1\pos(480,630)}ya-ya-ya-ya-ya-yamero
