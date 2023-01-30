@@ -293,7 +293,7 @@ Dialogue: 0,0:23:16.83,0:23:18.00,Main,Kasumi,0,0,0,,What do we do?
 Dialogue: 0,0:23:18.00,0:23:20.09,Main,Dent,0,0,0,,Find yourself in a bind?
 Dialogue: 0,0:23:21.76,0:23:26.64,Main,Dent,0,0,0,,If there’s a riddle to solve, you can leave it \N to yours truly; Sommelier Detective Dent!
 Dialogue: 0,0:23:26.64,0:23:28.85,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 0,0:23:28.85,0:23:31.31,Main,Satoshi,0,0,0,,Takeshi, Dent, and \N the Witch of the Woods!
+Dialogue: 0,0:23:28.85,0:23:31.31,Main,Satoshi,0,0,0,,Takeshi, Dent, and \N the Forest Witch!
 Dialogue: 0,0:23:31.31,0:23:33.77,Main,Satoshi,0,0,0,,Everyone, go and catch Pokémon!
 Comment: 0,0:23:35.39,0:23:35.39,Main,,0,0,0,,{Team Rocket Explorers}
 Dialogue: 0,0:23:35.94,0:23:36.73,Main,Kojiro,0,0,0,,Here we go!
@@ -1662,9 +1662,9 @@ Comment: 0,0:01:43.92,0:01:43.92,Main,,0,0,0,,
 Dialogue: 1,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\pos(571.667,130)\blur0.2\c&HFFFFFF&}Takeshi, Dent, and
 Dialogue: 2,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\bord0\pos(571.667,130)\blur0.2\4a&HFF&}Takeshi, Dent, and
 Dialogue: 0,0:23:30.26,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(571.667,130)\blur0.2}Takeshi, Dent, and
-Dialogue: 1,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\pos(809.333,435)\blur0.2\c&HFFFFFF&}the Witch of the Woods!
-Dialogue: 2,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\bord0\pos(809.333,435)\blur0.2\4a&HFF&}the Witch of the Woods!
-Dialogue: 0,0:23:30.26,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(809.333,435)\blur0.2}the Witch of the Woods!
+Dialogue: 1,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\pos(809.333,435)\blur0.2\c&HFFFFFF&}the Forest Witch!
+Dialogue: 2,0:23:30.26,0:23:35.39,Episode titles,,0,0,0,,{\bord0\pos(809.333,435)\blur0.2\4a&HFF&}the Forest Witch!
+Dialogue: 0,0:23:30.26,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(809.333,435)\blur0.2}the Forest Witch!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:48.62,0:21:50.21,ED,,0,0,0,,{\fad(110,151)\blur1\c&H4F584E&\1a&HFF&\t(65,110,\1a&H00&)\t(1439,1484,\1a&HFF&)}How many friends?
 Dialogue: 1,0:21:48.62,0:21:50.21,ED,,0,0,0,,{\bord0\fad(110,151)\blur1\4a&HFF&}How many friends?
