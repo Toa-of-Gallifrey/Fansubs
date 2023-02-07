@@ -396,13 +396,13 @@ Dialogue: 0,0:21:33.94,0:21:38.24,Main,Nyarth,0,0,0,,Infinite food, \N but infin
 Dialogue: 0,0:21:38.24,0:21:41.11,Main,Team Rocket,0,0,0,,{\i1}Some kind of \N infinite hell...{\i0}
 Comment: 0,0:21:44.45,0:21:44.45,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:05.45,0:23:05.45,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:23:07.45,0:23:08.95,Main,Kasumi,0,0,0,,Looks like it’ll be hard to miss.
+Dialogue: 0,0:23:07.45,0:23:08.95,Main,Kasumi,0,0,0,,No chance we’ll get lost now.
 Dialogue: 0,0:23:08.95,0:23:09.95,Main,Takeshi,0,0,0,,Yeah!
 Dialogue: 0,0:23:09.95,0:23:12.62,Main,Takeshi,0,0,0,,The rare spectacle of Koiking \N climbing a waterfall!
 Dialogue: 0,0:23:12.62,0:23:14.96,Main,Kasumi,0,0,0,,I’ve always wanted to see it one day!
 Dialogue: 0,0:23:14.96,0:23:17.00,Main,Satoshi,0,0,0,,Come on out, Mijumaru!
 Dialogue: 0,0:23:18.00,0:23:20.25,Main,Satoshi,0,0,0,,Huh? It’s completely frozen!
-Dialogue: 0,0:23:20.25,0:23:22.13,Main,Takeshi,0,0,0,,Then the waterfall-climbing \N can’t happen?
+Dialogue: 0,0:23:20.25,0:23:22.13,Main,Takeshi,0,0,0,,Then we won’t see \N any waterfall-climbing...
 Dialogue: 0,0:23:22.13,0:23:22.84,Main,Kasumi,0,0,0,,What?!
 Dialogue: 0,0:23:23.30,0:23:24.76,Main,Takeshi,0,0,0,,Oh! Look!
 Dialogue: 0,0:23:24.76,0:23:26.64,Main,Kasumi,0,0,0,,So that’s why!{So that’s the cause!}
@@ -420,8 +420,8 @@ Comment: 2,0:01:30.82,0:01:33.78,OP,,0,0,0,,{\blur0.3\fad(0,270)}(I’ll get Pok
 Comment: 2,0:01:30.82,0:01:33.78,OP,,0,0,0,,{\blur0.3\bord0\c&H488825&\fad(0,270)\clip(0,45,1920,113)}(I’ll get Pokémon!)
 Comment: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3}Be it fire, water, grass, or forests,
 Comment: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3\bord0\clip(0,45,1920,113)\c&H488825&}Be it fire, water, grass, or forests,
-Comment: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Comment: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\bord0\clip(0,45,1920,113)\c&H488825&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
+Comment: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Comment: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\bord0\clip(0,45,1920,113)\c&H488825&}the ground, the clouds, or under that girl’s skirt (Eek!!)
 Comment: 2,0:01:45.71,0:01:49.67,OP,,0,0,0,,{\blur0.3}It’s really, really, really, really hard to handle,
 Comment: 2,0:01:45.71,0:01:49.67,OP,,0,0,0,,{\blur0.3\bord0\clip(0,45,1920,113)\c&H488825&}It’s really, really, really, really hard to handle,
 Comment: 2,0:01:49.67,0:01:51.51,OP,,0,0,0,,{\blur0.3}but I’m gonna get them all!
@@ -542,52 +542,52 @@ Dialogue: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3\clip(0,108,1920,110)\pos(
 Dialogue: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3\clip(0,110,1920,111)\pos(960,30)\c&H4E8E2B&}Be it fire, water, grass, or forests,
 Dialogue: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3\clip(0,111,1920,113)\pos(960,30)\c&H4B8B28&}Be it fire, water, grass, or forests,
 Dialogue: 2,0:01:37.29,0:01:41.75,OP,,0,0,0,,{\blur0.3\clip(0,113,1920,114)\pos(960,30)\c&H488825&}Be it fire, water, grass, or forests,
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,45,1920,47)\pos(960,30)\c&HBDFB99&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,47,1920,48)\pos(960,30)\c&HBBF997&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,48,1920,50)\pos(960,30)\c&HBAF896&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,50,1920,51)\pos(960,30)\c&HB8F694&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,51,1920,53)\pos(960,30)\c&HB6F492&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,53,1920,54)\pos(960,30)\c&HB4F290&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,54,1920,56)\pos(960,30)\c&HB2F08E&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,56,1920,57)\pos(960,30)\c&HB0EE8C&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,57,1920,59)\pos(960,30)\c&HAEEC8A&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,59,1920,60)\pos(960,30)\c&HACEA88&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,60,1920,62)\pos(960,30)\c&HA9E885&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,62,1920,63)\pos(960,30)\c&HA7E583&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,63,1920,65)\pos(960,30)\c&HA5E381&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,65,1920,66)\pos(960,30)\c&HA2E17E&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,66,1920,68)\pos(960,30)\c&HA0DE7C&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,68,1920,69)\pos(960,30)\c&H9DDC79&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,69,1920,71)\pos(960,30)\c&H9BD977&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,71,1920,72)\pos(960,30)\c&H98D774&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,72,1920,74)\pos(960,30)\c&H96D472&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,74,1920,75)\pos(960,30)\c&H93D26F&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,75,1920,77)\pos(960,30)\c&H90CF6D&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,77,1920,78)\pos(960,30)\c&H8ECC6A&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,78,1920,80)\pos(960,30)\c&H8BCA67&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,80,1920,81)\pos(960,30)\c&H88C765&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,81,1920,83)\pos(960,30)\c&H85C462&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,83,1920,84)\pos(960,30)\c&H83C25F&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,84,1920,86)\pos(960,30)\c&H80BF5C&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,86,1920,87)\pos(960,30)\c&H7DBC5A&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,87,1920,89)\pos(960,30)\c&H7AB957&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,89,1920,90)\pos(960,30)\c&H77B754&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,90,1920,92)\pos(960,30)\c&H75B451&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,92,1920,93)\pos(960,30)\c&H72B14E&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,93,1920,95)\pos(960,30)\c&H6FAE4B&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,95,1920,96)\pos(960,30)\c&H6CAB49&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,96,1920,98)\pos(960,30)\c&H69A846&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,98,1920,99)\pos(960,30)\c&H66A543&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,99,1920,101)\pos(960,30)\c&H63A340&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,101,1920,102)\pos(960,30)\c&H60A03D&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,102,1920,104)\pos(960,30)\c&H5D9D3A&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,104,1920,105)\pos(960,30)\c&H5A9A37&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,105,1920,107)\pos(960,30)\c&H579734&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,107,1920,108)\pos(960,30)\c&H549431&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,108,1920,110)\pos(960,30)\c&H51912E&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,110,1920,111)\pos(960,30)\c&H4E8E2B&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,111,1920,113)\pos(960,30)\c&H4B8B28&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
-Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,113,1920,114)\pos(960,30)\c&H488825&}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,45,1920,47)\pos(960,30)\c&HBDFB99&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,47,1920,48)\pos(960,30)\c&HBBF997&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,48,1920,50)\pos(960,30)\c&HBAF896&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,50,1920,51)\pos(960,30)\c&HB8F694&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,51,1920,53)\pos(960,30)\c&HB6F492&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,53,1920,54)\pos(960,30)\c&HB4F290&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,54,1920,56)\pos(960,30)\c&HB2F08E&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,56,1920,57)\pos(960,30)\c&HB0EE8C&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,57,1920,59)\pos(960,30)\c&HAEEC8A&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,59,1920,60)\pos(960,30)\c&HACEA88&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,60,1920,62)\pos(960,30)\c&HA9E885&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,62,1920,63)\pos(960,30)\c&HA7E583&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,63,1920,65)\pos(960,30)\c&HA5E381&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,65,1920,66)\pos(960,30)\c&HA2E17E&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,66,1920,68)\pos(960,30)\c&HA0DE7C&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,68,1920,69)\pos(960,30)\c&H9DDC79&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,69,1920,71)\pos(960,30)\c&H9BD977&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,71,1920,72)\pos(960,30)\c&H98D774&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,72,1920,74)\pos(960,30)\c&H96D472&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,74,1920,75)\pos(960,30)\c&H93D26F&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,75,1920,77)\pos(960,30)\c&H90CF6D&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,77,1920,78)\pos(960,30)\c&H8ECC6A&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,78,1920,80)\pos(960,30)\c&H8BCA67&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,80,1920,81)\pos(960,30)\c&H88C765&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,81,1920,83)\pos(960,30)\c&H85C462&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,83,1920,84)\pos(960,30)\c&H83C25F&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,84,1920,86)\pos(960,30)\c&H80BF5C&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,86,1920,87)\pos(960,30)\c&H7DBC5A&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,87,1920,89)\pos(960,30)\c&H7AB957&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,89,1920,90)\pos(960,30)\c&H77B754&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,90,1920,92)\pos(960,30)\c&H75B451&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,92,1920,93)\pos(960,30)\c&H72B14E&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,93,1920,95)\pos(960,30)\c&H6FAE4B&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,95,1920,96)\pos(960,30)\c&H6CAB49&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,96,1920,98)\pos(960,30)\c&H69A846&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,98,1920,99)\pos(960,30)\c&H66A543&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,99,1920,101)\pos(960,30)\c&H63A340&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,101,1920,102)\pos(960,30)\c&H60A03D&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,102,1920,104)\pos(960,30)\c&H5D9D3A&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,104,1920,105)\pos(960,30)\c&H5A9A37&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,105,1920,107)\pos(960,30)\c&H579734&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,107,1920,108)\pos(960,30)\c&H549431&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,108,1920,110)\pos(960,30)\c&H51912E&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,110,1920,111)\pos(960,30)\c&H4E8E2B&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,111,1920,113)\pos(960,30)\c&H4B8B28&}the ground, the clouds, or under that girl’s skirt (Eek!!)
+Dialogue: 2,0:01:41.75,0:01:45.71,OP,,0,0,0,,{\blur0.3\clip(0,113,1920,114)\pos(960,30)\c&H488825&}the ground, the clouds, or under that girl’s skirt (Eek!!)
 Dialogue: 2,0:01:45.71,0:01:49.67,OP,,0,0,0,,{\blur0.3\clip(0,45,1920,47)\pos(960,30)\c&HBDFB99&}It’s really, really, really, really hard to handle,
 Dialogue: 2,0:01:45.71,0:01:49.67,OP,,0,0,0,,{\blur0.3\clip(0,47,1920,48)\pos(960,30)\c&HBBF997&}It’s really, really, really, really hard to handle,
 Dialogue: 2,0:01:45.71,0:01:49.67,OP,,0,0,0,,{\blur0.3\clip(0,48,1920,50)\pos(960,30)\c&HBAF896&}It’s really, really, really, really hard to handle,
@@ -1235,7 +1235,7 @@ Dialogue: 2,0:02:47.23,0:02:51.57,OP,,0,0,0,,{\blur0.3\clip(0,113,1920,114)\pos(
 Comment: 1,0:01:30.82,0:01:33.78,OPp2,,0,0,0,,
 Dialogue: 1,0:01:30.82,0:01:33.78,OPp2,,0,0,0,,{\blur0.3\fad(0,270)\t(2690,2735,\1a&HFF&)}(I’ll get Pokémon!)
 Dialogue: 1,0:01:37.29,0:01:41.75,OPp2,,0,0,0,,{\blur0.3}Be it fire, water, grass, or forests,
-Dialogue: 1,0:01:41.75,0:01:45.71,OPp2,,0,0,0,,{\blur0.3}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
+Dialogue: 1,0:01:41.75,0:01:45.71,OPp2,,0,0,0,,{\blur0.3}the ground, the clouds, or under that girl’s skirt (Eek!!)
 Dialogue: 1,0:01:45.71,0:01:49.67,OPp2,,0,0,0,,{\blur0.3}It’s really, really, really, really hard to handle,
 Dialogue: 1,0:01:49.67,0:01:51.51,OPp2,,0,0,0,,{\blur0.3}but I’m gonna get them all!
 Dialogue: 1,0:01:51.51,0:01:57.81,OPp2,,0,0,0,,{\blur0.3}I’m gonna get Pokémon!
@@ -1253,7 +1253,7 @@ Dialogue: 1,0:02:47.23,0:02:51.57,OPp2,,0,0,0,,{\blur0.3}Will be one!
 Comment: 0,0:01:30.82,0:01:33.78,OPp3,,0,0,0,,
 Dialogue: 0,0:01:30.82,0:01:33.78,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3\fad(0,270)}(I’ll get Pokémon!)
 Dialogue: 0,0:01:37.29,0:01:41.75,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}Be it fire, water, grass, or forests,
-Dialogue: 0,0:01:41.75,0:01:45.71,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}the ground, the clouds, or under that girl’s skirt (Kyaah!!)
+Dialogue: 0,0:01:41.75,0:01:45.71,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}the ground, the clouds, or under that girl’s skirt (Eek!!)
 Dialogue: 0,0:01:45.71,0:01:49.67,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}It’s really, really, really, really hard to handle,
 Dialogue: 0,0:01:49.67,0:01:51.51,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}but I’m gonna get them all!
 Dialogue: 0,0:01:51.51,0:01:57.81,OPp3,,0,0,0,,{\1a&HFF&\3a&H20&\blur3}I’m gonna get Pokémon!
