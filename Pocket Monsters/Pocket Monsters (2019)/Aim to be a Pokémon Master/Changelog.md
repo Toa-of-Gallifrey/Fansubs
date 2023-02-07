@@ -1,5 +1,12 @@
 **Episode 01:**  
--No front-end changes from v2 release as of yet; back-end font metadata updates (fonts replaced with stripped counterparts)
+-Back-end font metadata updates (fonts replaced with stripped counterparts)
+-Consistency fix in OP lyrics: "Kyaah!!" -> "Eek!!"
 
 **Episode 02:**  
--Typesetting fix: Eyecatch Pokémon name fixed
+-Currently unchanged from v2 release
+
+**Episode 03:**  
+-Currently unchanged from v2 release
+
+**Episode 04:**  
+-Currently unchanged from v1 release
