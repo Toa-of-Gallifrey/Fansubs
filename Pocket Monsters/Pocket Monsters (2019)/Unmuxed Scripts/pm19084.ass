@@ -280,7 +280,7 @@ Dialogue: 0,0:23:23.21,0:23:24.00,Main,Satoshi,0,0,0,,Yeah.
 Dialogue: 0,0:23:24.00,0:23:26.59,Main,Satoshi,0,0,0,,But we’ve got \N Mega Evolution on our side!
 Dialogue: 0,0:23:26.59,0:23:28.80,Main,Satoshi,0,0,0,,Lucario, let’s go!
 Dialogue: 0,0:23:28.80,0:23:30.34,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 0,0:23:30.72,0:23:33.93,Main,Go,0,0,0,,The Rival Showdown! Satoshi VS Saito!!
+Dialogue: 0,0:23:30.72,0:23:33.93,Main,Go,0,0,0,,The Rival Showdown! \N Satoshi VS Saito!!
 Comment: 0,0:00:29.88,0:00:29.88,Main,,0,0,0,,
 Dialogue: 0,0:03:15.43,0:03:19.43,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(275,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Shala City, Kalos Region
 Dialogue: 0,0:07:19.46,0:07:24.97,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(240,600)\fad(438,0)\3c&H33312C&\c&HFFFFFF&\blur0.5}Mega Island, Kalos Region
