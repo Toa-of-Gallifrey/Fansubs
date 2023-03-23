@@ -219,7 +219,7 @@ Dialogue: 0,0:08:58.85,0:09:02.64,Main,Nyarth,0,0,0,,“so please, may I have so
 Dialogue: 0,0:09:03.61,0:09:06.10,Main,Musashi,0,0,0,,Well, as long as you \N join us later. {Removed the contracted “will”, - Toa}
 Dialogue: 0,0:09:07.52,0:09:10.61,Main,Nyarth,0,0,0,,I just can’t trust this...
 Dialogue: 0,0:09:15.04,0:09:16.57,Main,Musashi,0,0,0,,What are you doing, Nyarth?!
-Dialogue: 0,0:09:23.92,0:09:24.83,Main,Musashi,0,0,0,,Sakaki, Sir?!
+Dialogue: 0,0:09:23.92,0:09:24.83,Main,Musashi,0,0,0,,Sakaki, sir?!
 Dialogue: 0,0:09:29.64,0:09:34.09,Main,Matori,0,0,0,,Surely you didn’t {\i1}forget{\i0} that \N it was time for your regularly scheduled report?
 Dialogue: 0,0:09:34.09,0:09:35.64,Main,Musashi,0,0,0,,We remembered!
 Dialogue: 0,0:09:35.64,0:09:38.22,Main,Kojiro,0,0,0,,We were just about to contact you!
@@ -391,7 +391,7 @@ Dialogue: 0,0:20:03.94,0:20:06.39,Main,Lilie,0,0,0,,I’m glad you’re all righ
 Dialogue: 0,0:20:12.44,0:20:18.33,Main,Kojiro,0,0,0,,It’s been several days, \N but the Alolan Nyarth hasn’t come back.
 Dialogue: 0,0:20:18.33,0:20:22.65,Main,Musashi,0,0,0,,What’s this mean? \N How do we report this to Sakaki?
 Dialogue: 0,0:20:22.65,0:20:27.53,Main,Nyarth,0,0,0,,Forget that thing, meow. \N All you need is me, meow.
-Dialogue: 0,0:20:31.12,0:20:32.25,Main,Team Rocket,0,0,0,,Sakaki, Sir!
+Dialogue: 0,0:20:31.12,0:20:32.25,Main,Team Rocket,0,0,0,,Sakaki, sir!
 Dialogue: 0,0:20:33.37,0:20:35.75,Main,Sakaki,0,0,0,,You did well.
 Dialogue: 0,0:20:39.05,0:20:43.10,Main,Sakaki,0,0,0,,I’ve made this Alolan Nyarth \N my assistant.
 Dialogue: 0,0:20:43.10,0:20:45.68,Main,Matori,0,0,0,,It’s quite helpful, being so crafty.

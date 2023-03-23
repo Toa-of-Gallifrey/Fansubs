@@ -127,7 +127,7 @@ Dialogue: 0,0:00:42.92,0:00:45.94,Main,Suiren,0,0,0,,I’m sleep-deprived. \N �
 Dialogue: 0,0:00:46.30,0:00:50.73,Main,Rotom,0,0,0,,Suiren and Māmane both accomplished \N their research project goals-roto!
 Dialogue: 0,0:00:50.73,0:00:52.76,Main,Rotom,0,0,0,,The rest of you, \N do your best, too-roto!
 Dialogue: 0,0:00:52.76,0:00:53.95,Main,Class,0,0,0,,{\i1}Of course!{\i0}
-Dialogue: 0,0:00:54.31,0:00:57.78,Main,Mao,0,0,0,,That’s right! I wanted to have \N  Hāpu'u taste this food, too!
+Dialogue: 0,0:00:54.31,0:00:57.78,Main,Mao,0,0,0,,That’s right! I wanted to have \N Hāpu'u taste this food, too!
 Dialogue: 0,0:00:57.78,0:01:00.84,Main,Satoshi,0,0,0,,Today’s the day \N I battle Kapu-Rehire!
 Dialogue: 0,0:01:01.79,0:01:03.87,Main,Kaki,0,0,0,,I was thinking the same.
 Dialogue: 0,0:01:04.66,0:01:05.33,Main,Satoshi,0,0,0,,You, too, Kaki?
@@ -360,7 +360,7 @@ Dialogue: 0,0:15:46.54,0:15:48.01,Main,Kaki,0,0,0,,Good, shake it off!
 Dialogue: 0,0:15:56.97,0:16:00.62,Main,Kaki,0,0,0,,We’ll lose if this goes on... \N What can we do?
 Dialogue: 0,0:16:03.91,0:16:04.90,Main,Kaki's grandfather,0,0,0,,Are you scared?
 Dialogue: 0,0:16:04.90,0:16:06.56,Main,Kaki,0,0,0,,N-Not at all!
-Dialogue: 0,0:16:06.56,0:16:09.67,Main,Kaki's grandfather,0,0,0,,You need to be one with Lizardon, \N  both in body and spirit.
+Dialogue: 0,0:16:06.56,0:16:09.67,Main,Kaki's grandfather,0,0,0,,You need to be one with Lizardon, \N both in body and spirit.
 Dialogue: 0,0:16:09.67,0:16:11.14,Main,Kaki's grandfather,0,0,0,,Then your fears will fade.{Lifted partially from the dub. Main thing here was just that the old line was FAR too wordy. -Starfish}
 Dialogue: 0,0:16:11.14,0:16:12.91,Main,Kaki,0,0,0,,I’m not even scared!
 Dialogue: 0,0:16:12.91,0:16:15.41,Main,Kaki's grandfather,0,0,0,,That’s the spirit. Now let’s go!
@@ -428,7 +428,7 @@ Dialogue: 0,0:20:54.44,0:20:58.74,Main,Kaki,0,0,0,,Final Dive Crash!{You know...
 Dialogue: 0,0:21:13.46,0:21:14.33,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:21:19.81,0:21:21.39,Main,Rotom,0,0,0,,I got it-roto!
 Dialogue: 0,0:21:21.92,0:21:24.38,Main,Rotom,0,0,0,,According to the great Alolan Detective Rotom’s \N infallible deduction,{This is REALLY long and both "great" and "infallible" are technically not in the JP... But at the same time I kinda wanna keep them anyway? -Starfish}
-Dialogue: 0,0:21:24.38,0:21:28.60,Main,Rotom,0,0,0,,this was most likely a Trial \N  Kapu-Rehire set up for Kaki-roto!
+Dialogue: 0,0:21:24.38,0:21:28.60,Main,Rotom,0,0,0,,this was most likely a Trial \N Kapu-Rehire set up for Kaki-roto!
 Dialogue: 0,0:21:29.20,0:21:30.64,Main,Kaki,0,0,0,,A Trial for me?
 Dialogue: 0,0:21:30.64,0:21:32.21,Main,Satoshi,0,0,0,,Really?
 Dialogue: 0,0:21:32.21,0:21:33.62,Main,Satoshi,0,0,0,,Huh?
@@ -454,7 +454,7 @@ Dialogue: 0,0:23:45.73,0:23:47.89,Main,Mao,0,0,0,,Huh? Kaki?
 Dialogue: 0,0:23:48.96,0:23:50.05,Main,Mao,0,0,0,,He’s asleep?
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.58,0:24:02.82,Main,Satoshi,0,0,0,,Kaki said he’s going to bed early.
-Dialogue: 0,0:24:02.82,0:24:07.07,Main,Mamane,0,0,0,,What? But he promised me \N  he’d show me the Final Dive Crash...
+Dialogue: 0,0:24:02.82,0:24:07.07,Main,Mamane,0,0,0,,What? But he promised me \N he’d show me the Final Dive Crash...
 Dialogue: 0,0:24:07.07,0:24:08.10,Main,Satoshi,0,0,0,,Want me to go get him?
 Dialogue: 0,0:24:08.10,0:24:09.52,Main,Class,0,0,0,,{\i1}You can’t!{\i0}
 Dialogue: 0,0:24:09.52,0:24:11.27,Main,Mao,0,0,0,,Let him sleep!
