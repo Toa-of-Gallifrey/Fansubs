@@ -35,7 +35,7 @@ Style: Duel Songs JP,LTFinnegan Regular,38,&H00205740,&H00F3DDEC,&H00EBFFDD,&HFF
 Style: Ohtori Academy Sign,DFPHSMincho-W9-CP,70,&H006DBBE7,&H005CB3F3,&H00000000,&H00000000,0,0,0,0,100,100,50,0,1,0,0,2,0,0,0,0
 Style: Ohtori Academy Sign Outline,DFPHSMincho-W9-CP,70,&H006DBBE7,&H005CB3F3,&H00000000,&H00000000,0,0,0,0,100,100,50,0,1,1,2,2,0,0,0,0
 Style: Sign - Utena,Trebuchet MS,48,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Sign - Anthy,Handwriting,48,&H00060718,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Sign - Anthy,Handwriting,48,&H00060718,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
