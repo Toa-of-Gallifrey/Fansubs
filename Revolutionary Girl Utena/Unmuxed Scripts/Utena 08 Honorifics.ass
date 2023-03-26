@@ -28,8 +28,8 @@ Style: ED EN,Leelawadee,38,&H00FCFAFB,&H00FCFAFB,&H006D5259,&HFF000000,-1,0,0,0,
 Style: ED JP,Leelawadee,38,&H00FCFAFB,&H00FCFAFB,&H006D5259,&HFF000000,-1,0,0,0,100,100,0,0,1,2.5,2,8,30,30,45,0
 Style: Title,Bodoni MT,72,&H00F6FBF6,&H00F5FEF5,&H00FFFFFF,&H00FFFFFF,0,0,0,0,75,100,0,0,1,0,0,8,23,23,30,0
 Style: Episode titles,Bodoni MT,80,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,0,0,2,23,23,30,0
-Style: Diary,Great March Demo,90,&H008A6FB0,&H008A6FB0,&H00837384,&H00000000,-1,0,0,0,100,100,15,0,1,0,0,2,30,30,25,0
-Style: Diary Outline,Great March Demo,90,&H008A6FB0,&H008A6FB0,&H00574E58,&H00000000,-1,0,0,0,100,100,15,0,1,2,0,2,30,30,25,0
+Style: Diary,Great March Demo,90,&H008A6FB0,&H008A6FB0,&H00837384,&H00000000,0,0,0,0,100,100,15,0,1,0,0,2,30,30,25,0
+Style: Diary Outline,Great March Demo,90,&H008A6FB0,&H008A6FB0,&H00574E58,&H00000000,0,0,0,0,100,100,15,0,1,2,0,2,30,30,25,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -452,7 +452,7 @@ Dialogue: 0,0:17:46.61,0:17:48.34,Main,Utena,0,0,0,,Please, take it.
 Dialogue: 0,0:17:51.83,0:17:54.51,Main,Saionji,0,0,0,,I see... \N All this time, you...
 Dialogue: 0,0:17:55.00,0:17:57.79,Main,Saionji,0,0,0,,I feel the same way!
 Dialogue: 0,0:17:57.79,0:17:59.02,Main,Saionji,0,0,0,,So...
-Dialogue: 0,0:18:01.03,0:18:05.12,Main,Miki,0,0,0,,Senpai, I was just told \N Nanami-senpai has returned.
+Dialogue: 0,0:18:01.03,0:18:05.12,Main,Miki,0,0,0,,Senpai, I was just told \N Nanami-san has returned.
 Dialogue: 0,0:18:05.12,0:18:06.02,Main,Touga,0,0,0,,What?
 Dialogue: 0,0:18:21.39,0:18:22.79,Main,Nanami,0,0,0,,Brother!
 Dialogue: 0,0:18:23.23,0:18:24.28,Main,Touga,0,0,0,,Nanami!
