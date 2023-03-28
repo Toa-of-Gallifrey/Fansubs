@@ -281,8 +281,8 @@ Dialogue: 0,0:12:54.63,0:12:57.86,Main,Nanami,0,0,0,,She has a snail \N in her p
 Dialogue: 0,0:12:57.86,0:12:59.57,Main,Utena,0,0,0,,Himemiya! \N I’ve misjudged you!
 Dialogue: 0,0:12:59.57,0:13:01.64,Main,Miki,0,0,0,,I’m so disillusioned!
 Dialogue: 0,0:13:04.37,0:13:06.72,Main,Nanami,0,0,0,,This is the end for you, \N Himemiya Anthy!
-Dialogue: 0,0:13:07.35,0:13:09.46,Main,Nanami,0,0,0,,That’s what’s going to happen!
-Dialogue: 0,0:13:09.46,0:13:14.44,Main,Nanami,0,0,0,,I call it “Operation: Oh, My Gosh! Himemiya Anthy \N Is a Weirdo Who Keeps a Snail in Her Pencil Case!”
+Dialogue: 0,0:13:07.35,0:13:09.46,Main,Nanami,0,0,0,,It’ll happen just like that!
+Dialogue: 0,0:13:09.46,0:13:14.44,Main,Nanami,0,0,0,,{\q2}I call it “Operation: Oh, My Gosh! Himemiya Anthy \N Is a Weirdo Who Keeps a Snail in Her Pencil Case!”
 Dialogue: 0,0:13:15.05,0:13:16.47,Main,Miki,0,0,0,,Did you say something?
 Dialogue: 0,0:13:16.47,0:13:17.44,Main,Nanami,0,0,0,,No, nothing.
 Dialogue: 0,0:13:17.44,0:13:20.22,Main,Miki,0,0,0,,Then let’s begin with \N monomial expressions.
@@ -310,8 +310,8 @@ Dialogue: 0,0:14:28.85,0:14:32.02,Main,Nanami,0,0,0,,She has a garter snake \N i
 Dialogue: 0,0:14:32.02,0:14:33.74,Main,Utena,0,0,0,,Himemiya! \N I’ve misjudged you!
 Dialogue: 0,0:14:33.74,0:14:35.85,Main,Miki,0,0,0,,I’m so disillusioned!
 Dialogue: 0,0:14:38.42,0:14:40.86,Main,Nanami,0,0,0,,At last! This is the end for you, \N Himemiya Anthy!
-Dialogue: 0,0:14:41.19,0:14:43.55,Main,Nanami,0,0,0,,That’s what’s going to happen!
-Dialogue: 0,0:14:43.55,0:14:49.58,Main,Nanami,0,0,0,,I call it “Operation: Oh, My Gosh! Himemiya Anthy \N Is a Weirdo Who Has a Garter Snake in Her Desk.”
+Dialogue: 0,0:14:41.19,0:14:43.55,Main,Nanami,0,0,0,,It’ll happen just like that!
+Dialogue: 0,0:14:43.55,0:14:49.58,Main,Nanami,0,0,0,,{\q2}I call it “Operation: Oh, My Gosh! Himemiya Anthy \N Is a Weirdo Who Has a Garter Snake in Her Desk.”
 Dialogue: 0,0:14:49.58,0:14:51.64,Main,Miki,0,0,0,,Did you say something?
 Dialogue: 0,0:14:51.64,0:14:52.58,Main,Nanami,0,0,0,,No, nothing.
 Dialogue: 0,0:14:52.58,0:14:58.59,Main,Utena,0,0,0,,For triangle ACP, line BX \N is parallel to line CP, so...
@@ -339,8 +339,8 @@ Dialogue: 0,0:16:04.86,0:16:08.33,Main,Nanami,0,0,0,,She keeps a live octopus \N
 Dialogue: 0,0:16:08.33,0:16:10.10,Main,Utena,0,0,0,,Himemiya! \N I’ve misjudged you!
 Dialogue: 0,0:16:10.10,0:16:11.87,Main,Miki,0,0,0,,I’m so disillusioned!
 Dialogue: 0,0:16:14.86,0:16:17.66,Main,Nanami,0,0,0,,This really is the end for you, \N Himemiya Anthy!
-Dialogue: 0,0:16:18.19,0:16:21.60,Main,Nanami,0,0,0,,That’s what’s {\i1}guaranteed{\i0} to happen!
-Dialogue: 0,0:16:21.60,0:16:27.13,Main,Nanami,0,0,0,,I call it “Operation: Himemiya Anthy Is a Total \N Weirdo Who Keeps a Live Octopus in Her Closet!”
+Dialogue: 0,0:16:18.19,0:16:21.60,Main,Nanami,0,0,0,,It’ll {\i1}undoubtedly{\i0} \N happen just like that!
+Dialogue: 0,0:16:21.60,0:16:27.13,Main,Nanami,0,0,0,,{\q2}I call it “Operation: Himemiya Anthy Is a Total \N Weirdo Who Keeps a Live Octopus in Her Closet!”
 Dialogue: 0,0:16:27.53,0:16:29.21,Main,Miki,0,0,0,,Did you say something?
 Dialogue: 0,0:16:29.21,0:16:30.89,Main,Nanami,0,0,0,,No, nothing.
 Dialogue: 0,0:16:35.29,0:16:38.35,Main,Nanami,0,0,0,,This time for sure, \N with this live octopus...
