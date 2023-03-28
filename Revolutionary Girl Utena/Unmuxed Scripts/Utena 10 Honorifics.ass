@@ -109,12 +109,13 @@ Dialogue: 0,0:23:09.30,0:23:12.90,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:12.90,0:23:15.37,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}I am the Rose Bride.
 Dialogue: 0,0:23:15.37,0:23:18.39,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Are you aware of everything \N that entails, Utena-sama?
 Dialogue: 0,0:23:18.39,0:23:20.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Next time, \N on Revolutionary Girl Utena:
-Dialogue: 0,0:23:20.38,0:23:23.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Graceful and Ruthless: \N The One Who Picks the Flower”
+Dialogue: 0,0:23:20.38,0:23:23.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Graceful and Ruthless - \N The One Who Picks the Flower”
 Dialogue: 0,0:23:23.38,0:23:25.85,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:40.61,0:02:49.61,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Nanami’s Precious Thing
 Dialogue: 0,0:22:56.36,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(470,545)\fs68}Graceful and Ruthless: \N {\fs52}The One Who Picks the Flower
+Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(480,495)}Graceful and Ruthless -
+Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(480,535)\fs56}The One Who Picks the Flower
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Dialogue: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo
@@ -549,7 +550,7 @@ Dialogue: 1,0:23:09.30,0:23:12.90,Main,Utena,0,0,0,,I forgot he’s even \N a Du
 Dialogue: 1,0:23:12.90,0:23:15.37,Main,Anthy,0,0,0,,I am the Rose Bride.
 Dialogue: 1,0:23:15.37,0:23:18.39,Main,Anthy,0,0,0,,Are you aware of everything \N that entails, Utena-sama?
 Dialogue: 1,0:23:18.39,0:23:20.38,Main,Utena,0,0,0,,Next time, \N on Revolutionary Girl Utena:
-Dialogue: 1,0:23:20.38,0:23:23.38,Main,Utena,0,0,0,,“Graceful and Ruthless: \N The One Who Picks the Flower”
+Dialogue: 1,0:23:20.38,0:23:23.38,Main,Utena,0,0,0,,“Graceful and Ruthless - \N The One Who Picks the Flower”
 Dialogue: 1,0:23:23.38,0:23:25.85,Main,Anthy,0,0,0,,The absolute destiny: apocalypse.
 
 [Aegisub Extradata]

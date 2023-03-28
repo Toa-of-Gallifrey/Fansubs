@@ -48,7 +48,7 @@ Dialogue: 0,0:23:08.80,0:23:11.16,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:11.16,0:23:15.95,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Yeah... And it all began \N with that spicy curry rice explosion!
 Dialogue: 0,0:23:15.95,0:23:19.30,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}My, I can see so well \N without glasses.
 Dialogue: 0,0:23:19.30,0:23:21.70,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Next time, \N on Revolutionary Girl Utena:
-Dialogue: 0,0:23:21.70,0:23:23.60,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Curry on Tripping”
+Dialogue: 0,0:23:21.70,0:23:23.60,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Curry On Tripping”
 Dialogue: 0,0:23:23.60,0:23:26.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:07:54.74,0:07:54.78,Whiteboard,,0,0,0,,{=1}{\blur0.8\pos(819.54,517)\frz3.275}Tenjou Utena
@@ -109,33 +109,33 @@ Dialogue: 0,0:07:56.99,0:07:57.03,Whiteboard,,0,0,0,,{=1}{\blur0.8\pos(818.84,73
 Dialogue: 0,0:07:57.03,0:07:57.08,Whiteboard,,0,0,0,,{=1}{\blur0.8\pos(819.33,740.8)\frz3.275}Tenjou Utena
 Dialogue: 0,0:07:57.08,0:07:57.12,Whiteboard,,0,0,0,,{=1}{\blur0.8\pos(819.15,744.72)\frz3.275}Tenjou Utena
 Dialogue: 0,0:07:57.12,0:07:57.16,Whiteboard,,0,0,0,,{=1}{\blur0.8\pos(818.92,748.75)\frz3.275}Tenjou Utena
-Dialogue: 0,0:07:54.74,0:07:54.78,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.39,649)}Who's she?
-Dialogue: 0,0:07:54.78,0:07:54.82,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(804.47,653.81)}Who's she?
-Dialogue: 0,0:07:54.82,0:07:54.87,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.54,660.05)}Who's she?
-Dialogue: 0,0:07:54.87,0:07:54.91,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.46,664.98)}Who's she?
-Dialogue: 0,0:07:54.91,0:07:54.95,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.2,668.94)}Who's she?
-Dialogue: 0,0:07:54.95,0:07:54.99,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.48,672.55)}Who's she?
-Dialogue: 0,0:07:54.99,0:07:55.03,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.61,676.24)}Who's she?
-Dialogue: 0,0:07:55.03,0:07:55.07,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.7,680.51)}Who's she?
-Dialogue: 0,0:07:55.07,0:07:55.12,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.65,684.33)}Who's she?
-Dialogue: 0,0:07:55.12,0:07:55.16,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.52,688.59)}Who's she?
-Dialogue: 0,0:07:55.16,0:07:55.20,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.41,692.58)}Who's she?
-Dialogue: 0,0:07:55.20,0:07:55.24,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.63,696.83)}Who's she?
-Dialogue: 0,0:07:55.24,0:07:55.28,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.35,700.69)}Who's she?
-Dialogue: 0,0:07:55.28,0:07:55.32,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.08,704.88)}Who's she?
-Dialogue: 0,0:07:55.32,0:07:55.37,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.96,708.71)}Who's she?
-Dialogue: 0,0:07:55.37,0:07:55.41,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.94,712.75)}Who's she?
-Dialogue: 0,0:07:55.41,0:07:55.45,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.15,716.74)}Who's she?
-Dialogue: 0,0:07:55.45,0:07:55.49,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.14,720.68)}Who's she?
-Dialogue: 0,0:07:55.49,0:07:55.53,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.32,724.64)}Who's she?
-Dialogue: 0,0:07:55.53,0:07:55.57,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.18,729.14)}Who's she?
-Dialogue: 0,0:07:55.57,0:07:55.62,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.99,733)}Who's she?
-Dialogue: 0,0:07:55.62,0:07:55.66,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.06,737.27)}Who's she?
-Dialogue: 0,0:07:55.66,0:07:55.70,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.85,741.04)}Who's she?
-Dialogue: 0,0:07:55.70,0:07:55.74,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.97,745.2)}Who's she?
-Dialogue: 0,0:07:55.74,0:07:55.78,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.84,749.03)}Who's she?
-Dialogue: 0,0:07:55.78,0:07:55.83,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.1,753.29)}Who's she?
-Dialogue: 0,0:07:55.83,0:07:55.87,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.83,757.13)}Who's she?
+Dialogue: 0,0:07:54.74,0:07:54.78,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.39,649)}Who is she?
+Dialogue: 0,0:07:54.78,0:07:54.82,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(804.47,653.81)}Who is she?
+Dialogue: 0,0:07:54.82,0:07:54.87,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.54,660.05)}Who is she?
+Dialogue: 0,0:07:54.87,0:07:54.91,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.46,664.98)}Who is she?
+Dialogue: 0,0:07:54.91,0:07:54.95,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.2,668.94)}Who is she?
+Dialogue: 0,0:07:54.95,0:07:54.99,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.48,672.55)}Who is she?
+Dialogue: 0,0:07:54.99,0:07:55.03,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.61,676.24)}Who is she?
+Dialogue: 0,0:07:55.03,0:07:55.07,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.7,680.51)}Who is she?
+Dialogue: 0,0:07:55.07,0:07:55.12,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.65,684.33)}Who is she?
+Dialogue: 0,0:07:55.12,0:07:55.16,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.52,688.59)}Who is she?
+Dialogue: 0,0:07:55.16,0:07:55.20,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.41,692.58)}Who is she?
+Dialogue: 0,0:07:55.20,0:07:55.24,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.63,696.83)}Who is she?
+Dialogue: 0,0:07:55.24,0:07:55.28,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.35,700.69)}Who is she?
+Dialogue: 0,0:07:55.28,0:07:55.32,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.08,704.88)}Who is she?
+Dialogue: 0,0:07:55.32,0:07:55.37,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.96,708.71)}Who is she?
+Dialogue: 0,0:07:55.37,0:07:55.41,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.94,712.75)}Who is she?
+Dialogue: 0,0:07:55.41,0:07:55.45,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.15,716.74)}Who is she?
+Dialogue: 0,0:07:55.45,0:07:55.49,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.14,720.68)}Who is she?
+Dialogue: 0,0:07:55.49,0:07:55.53,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.32,724.64)}Who is she?
+Dialogue: 0,0:07:55.53,0:07:55.57,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.18,729.14)}Who is she?
+Dialogue: 0,0:07:55.57,0:07:55.62,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.99,733)}Who is she?
+Dialogue: 0,0:07:55.62,0:07:55.66,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.06,737.27)}Who is she?
+Dialogue: 0,0:07:55.66,0:07:55.70,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.85,741.04)}Who is she?
+Dialogue: 0,0:07:55.70,0:07:55.74,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.97,745.2)}Who is she?
+Dialogue: 0,0:07:55.74,0:07:55.78,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.84,749.03)}Who is she?
+Dialogue: 0,0:07:55.78,0:07:55.83,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(806.1,753.29)}Who is she?
+Dialogue: 0,0:07:55.83,0:07:55.87,Whiteboard,,0,0,0,,{=2}{\blur0.8\frz3.275\pos(805.83,757.13)}Who is she?
 Dialogue: 0,0:07:54.74,0:07:54.78,Whiteboard,,0,0,0,,{=3}{\blur0.8\pos(519.54,507)\frz359.9}Saionji\NKyouichi
 Dialogue: 0,0:07:54.78,0:07:54.82,Whiteboard,,0,0,0,,{=3}{\blur0.8\pos(518.62,511.81)\frz359.9}Saionji\NKyouichi
 Dialogue: 0,0:07:54.82,0:07:54.87,Whiteboard,,0,0,0,,{=3}{\blur0.8\pos(520.69,518.05)\frz359.9}Saionji\NKyouichi
@@ -2186,7 +2186,7 @@ Comment: 0,0:08:55.19,0:08:57.40,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:16.20,0:02:25.22,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Juri’s Impossible Dream
 Dialogue: 0,0:22:57.36,0:22:59.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:22.39,0:23:25.38,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Curry on Tripping
+Dialogue: 0,0:23:22.39,0:23:25.38,Episode titles,,0,0,0,,{\blur0.5\pos(479,495)}Curry On Tripping
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:09.20,0:00:13.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Comment: 0,0:00:16.62,0:00:21.21,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo
@@ -2609,12 +2609,12 @@ Dialogue: 1,0:23:08.80,0:23:11.16,Main,Anthy,0,0,0,,...they seem to have \N been
 Dialogue: 1,0:23:11.16,0:23:15.95,Main,Utena,0,0,0,,Yeah... And it all began \N with that spicy curry rice explosion!
 Dialogue: 1,0:23:15.95,0:23:19.30,Main,Anthy,0,0,0,,My, I can see so well \N without glasses.
 Dialogue: 1,0:23:19.30,0:23:21.70,Main,Utena,0,0,0,,Next time, \N on Revolutionary Girl Utena:
-Dialogue: 1,0:23:21.70,0:23:23.60,Main,Utena,0,0,0,,“Curry on Tripping”
+Dialogue: 1,0:23:21.70,0:23:23.60,Main,Utena,0,0,0,,“Curry On Tripping”
 Dialogue: 1,0:23:23.60,0:23:26.38,Main,Anthy,0,0,0,,The absolute destiny: apocalypse.
 
 [Aegisub Extradata]
 Data: 1,a-mo,e{"uuid"#3A"c3e86a8f-1f29-490c-9250-5ac0b5518671"#2C"originalText"#3A"{\\blur0.8\\pos(819.54#2C517)\\frz3.275}Tenjou Utena"}
-Data: 2,a-mo,e{"uuid"#3A"90eaf739-020d-4ecc-8f82-76efafad995a"#2C"originalText"#3A"{\\blur0.8\\frz3.275\\pos(805.39#2C649)}Who's she?"}
+Data: 2,a-mo,e{"uuid"#3A"90eaf739-020d-4ecc-8f82-76efafad995a"#2C"originalText"#3A"{\\blur0.8\\frz3.275\\pos(805.39#2C649)}Who is she?"}
 Data: 3,a-mo,e{"uuid"#3A"d3d5231d-6760-4e1d-823f-c62f40b5099a"#2C"originalText"#3A"{\\blur0.8\\pos(519.54#2C507)\\frz359.9}Saionji\\NKyouichi"}
 Data: 4,a-mo,e{"uuid"#3A"675d4a40-5ce6-4091-9662-c5a09af9b62a"#2C"originalText"#3A"{\\blur0.8\\pos(319.54#2C717)\\frz359.9}A man fighting \\N for love"}
 Data: 5,a-mo,e{"uuid"#3A"06720163-922d-4787-bb77-1ebbb5879164"#2C"originalText"#3A"{\\blur0.8\\frz88.88\\pos(93.98#2C261)}On the road to loser town"}

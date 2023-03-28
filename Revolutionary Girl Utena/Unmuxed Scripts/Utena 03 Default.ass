@@ -444,12 +444,12 @@ Dialogue: 1,0:13:29.49,0:13:29.53,Card,,0,0,0,,{=9}{\blur0.8\pos(317.78,465.79)\
 Dialogue: 1,0:13:29.53,0:13:29.58,Card,,0,0,0,,{=9}{\blur0.8\pos(317.79,465.6)\frx32\fry6\frz333.9\c&H000100&}Kiryuu
 Dialogue: 1,0:13:29.58,0:13:29.62,Card,,0,0,0,,{=9}{\blur0.8\pos(317.76,465.73)\frx32\fry6\frz333.9\c&H0A0708&}Kiryuu
 Dialogue: 1,0:13:29.62,0:13:29.66,Card,,0,0,0,,{=9}{\blur0.8\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H000001&}Kiryuu
-Dialogue: 1,0:13:29.66,0:13:29.70,Card,,0,0,0,,{=9}{\blur0.8\pos(318.19,465.49)\frx32\fry6\frz333.9\c&H0A0005&}Kiryuu
-Dialogue: 1,0:13:29.70,0:13:29.74,Card,,0,0,0,,{=9}{\blur0.8\pos(318.58,465.3)\frx32\fry6\frz333.9\c&H020200&}Kiryuu
-Dialogue: 1,0:13:29.74,0:13:29.78,Card,,0,0,0,,{=9}{\blur0.8\pos(318.99,465.1)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
-Dialogue: 1,0:13:29.78,0:13:29.83,Card,,0,0,0,,{=9}{\blur1\pos(319.38,464.96)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
-Dialogue: 1,0:13:29.83,0:13:29.87,Card,,0,0,0,,{=9}{\blur1.2\pos(319.81,464.89)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
-Dialogue: 1,0:13:29.87,0:13:29.91,Card,,0,0,0,,{=9}{\blur1.8\pos(319.61,465.08)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
+Dialogue: 1,0:13:29.66,0:13:29.70,Card,,0,0,0,,{=9}{\blur0.8\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H0A0005&}Kiryuu
+Dialogue: 1,0:13:29.70,0:13:29.74,Card,,0,0,0,,{=9}{\blur0.8\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H020200&}Kiryuu
+Dialogue: 1,0:13:29.74,0:13:29.78,Card,,0,0,0,,{=9}{\blur0.8\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
+Dialogue: 1,0:13:29.78,0:13:29.83,Card,,0,0,0,,{=9}{\blur1\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
+Dialogue: 1,0:13:29.83,0:13:29.87,Card,,0,0,0,,{=9}{\blur1.2\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
+Dialogue: 1,0:13:29.87,0:13:29.91,Card,,0,0,0,,{=9}{\blur1.8\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H000000&}Kiryuu
 Dialogue: 0,0:13:23.99,0:13:24.03,Card,,0,0,0,,{=8}{\1a30\blur3\pos(317.33,466.66)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
 Dialogue: 0,0:13:24.03,0:13:24.07,Card,,0,0,0,,{=8}{\1a30\blur3\pos(317.33,466.9)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
 Dialogue: 0,0:13:24.07,0:13:24.11,Card,,0,0,0,,{=8}{\1a30\blur3\pos(317.16,466.9)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
@@ -584,12 +584,12 @@ Dialogue: 0,0:13:29.49,0:13:29.53,Card,,0,0,0,,{=8}{\1aA0\blur3\pos(317.78,465.7
 Dialogue: 0,0:13:29.53,0:13:29.58,Card,,0,0,0,,{=8}{\1aC0\blur3\pos(317.79,465.6)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
 Dialogue: 0,0:13:29.58,0:13:29.62,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(317.76,465.73)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
 Dialogue: 0,0:13:29.62,0:13:29.66,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.66,0:13:29.70,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(318.19,465.49)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.70,0:13:29.74,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(318.58,465.3)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.74,0:13:29.78,Card,,0,0,0,,{=8}{\1aF0\blur3\pos(318.99,465.1)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.78,0:13:29.83,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(319.38,464.96)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.83,0:13:29.87,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(319.81,464.89)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
-Dialogue: 0,0:13:29.87,0:13:29.91,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(319.61,465.08)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.66,0:13:29.70,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.70,0:13:29.74,Card,,0,0,0,,{=8}{\1aE0\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.74,0:13:29.78,Card,,0,0,0,,{=8}{\1aF0\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.78,0:13:29.83,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.83,0:13:29.87,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
+Dialogue: 0,0:13:29.87,0:13:29.91,Card,,0,0,0,,{=8}{\1aFF\blur3\pos(317.77,465.71)\frx32\fry6\frz333.9\c&H7DC9B3&}Kiryuu
 Dialogue: 1,0:13:23.99,0:13:24.03,Card,,0,0,0,,{=11}{\blur0.8\frx32\fry6\pos(492.46,537.93)\frz335.3}Touga
 Dialogue: 1,0:13:24.03,0:13:24.07,Card,,0,0,0,,{=11}{\blur0.8\frx32\fry6\pos(492.46,538.17)\frz335.3}Touga
 Dialogue: 1,0:13:24.07,0:13:24.11,Card,,0,0,0,,{=11}{\blur0.8\frx32\fry6\pos(492.24,538.18)\frz335.3}Touga
@@ -901,9 +901,9 @@ Dialogue: 0,0:23:19.45,0:23:21.52,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:21.52,0:23:23.26,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“The Sunlit Garden - Prelude”
 Dialogue: 0,0:23:23.26,0:23:25.32,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:39.06,0:02:47.57,Episode titles,,0,0,0,,{\fad(200,0)\blur0.5\pos(470,495)}On the Night of the Ball
+Dialogue: 0,0:02:39.06,0:02:47.57,Episode titles,,0,0,0,,{\fad(200,0)\blur0.5\pos(472,495)}On the Night of the Ball
 Dialogue: 0,0:22:56.40,0:22:58.90,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.67,0:23:23.67,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}The Sunlit Garden - Prelude
+Dialogue: 0,0:23:20.67,0:23:23.67,Episode titles,,0,0,0,,{\blur0.5\pos(475,495)}The Sunlit Garden - Prelude
 Comment: 0,0:00:00.00,0:00:00.00,OP JP,,0,0,0,,
 Comment: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Comment: 0,0:00:15.62,0:00:20.21,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo

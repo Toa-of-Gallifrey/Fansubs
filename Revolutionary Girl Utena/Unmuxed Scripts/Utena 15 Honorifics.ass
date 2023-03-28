@@ -766,9 +766,9 @@ Dialogue: 0,0:15:10.55,0:15:10.59,Duel Card,,0,0,0,,{=0}{\blur0.8\fs40\frz355.3\
 Dialogue: 0,0:15:10.59,0:15:10.63,Duel Card,,0,0,0,,{=0}{\blur0.8\fs40\frz355.3\pos(433.73,520.15)\c&H564235&}To the betrothed: I shall await you \N at the dueling arena this evening.
 Dialogue: 0,0:15:10.63,0:15:10.68,Duel Card,,0,0,0,,{=0}{\blur0.8\fs40\frz355.3\pos(433.3,520.08)\c&H564235&}To the betrothed: I shall await you \N at the dueling arena this evening.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:01.87,0:03:10.88,Episode titles,,0,0,0,,{\blur0.5\fs70\pos(470,485)}The Landscape Framed by Kozue
+Dialogue: 0,0:03:01.87,0:03:10.88,Episode titles,,0,0,0,,{\blur0.5\pos(470,485)\fs65}The Landscape Framed by Kozue
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}The Cowbell of Happiness
+Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(478,495)}The Cowbell of Happiness
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100,100)\blur1}isagiyoku kakkoyoku ikite yukou
 Dialogue: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100,100)\blur1}tatoe futari hanarebanare ni natte mo

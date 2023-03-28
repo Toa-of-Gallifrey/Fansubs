@@ -389,7 +389,7 @@ Dialogue: 0,0:15:10.10,0:15:12.52,Main,,15,0,160,,{\an7\fs45\c&H000000&\3c&HFFFF
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:39.14,0:02:47.48,Episode titles,,0,0,0,,{\fad(200,0)\blur0.5\pos(470,495)}The Cowbell of Happiness
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:19.71,0:23:22.71,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Thorns of Death
+Dialogue: 0,0:23:19.71,0:23:22.71,Episode titles,,0,0,0,,{\blur0.5\pos(478,495)}Thorns of Death
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Comment: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo

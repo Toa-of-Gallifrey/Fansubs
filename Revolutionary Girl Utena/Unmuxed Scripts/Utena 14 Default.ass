@@ -1184,7 +1184,7 @@ Dialogue: 0,0:14:24.17,0:14:24.21,Duel Card,,0,0,0,,{=6}{\blur0.8\fs40\frz355.3\
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:17.28,0:02:26.29,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}The Boys of the Black Rose
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:21.88,0:23:24.88,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}The Landscape Framed by Kozue
+Dialogue: 0,0:23:21.88,0:23:24.88,Episode titles,,0,0,0,,{\blur0.5\pos(478,485)\fs65}The Landscape Framed by Kozue
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Comment: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo

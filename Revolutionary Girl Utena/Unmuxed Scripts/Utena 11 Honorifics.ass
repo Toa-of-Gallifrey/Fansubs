@@ -50,9 +50,10 @@ Dialogue: 0,0:23:19.13,0:23:21.34,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:21.34,0:23:23.13,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“Perhaps for Friendship’s Sake”
 Dialogue: 0,0:23:23.13,0:23:25.30,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:09.36,0:02:18.37,Episode titles,,0,0,0,,{\blur0.5\pos(470,545)\fs68}Graceful and Ruthless: \N {\fs52}The One Who Picks the Flower
+Dialogue: 0,0:02:09.36,0:02:18.37,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Graceful and Ruthless -
+Dialogue: 0,0:02:09.36,0:02:18.37,Episode titles,,0,0,0,,{\blur0.5\pos(470,535)\fs56}The One Who Picks the Flower
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.13,0:23:23.13,Episode titles,,0,0,0,,{\blur0.5\pos(470,480)\fs60}For the Sake of Friendship, Probably
+Dialogue: 0,0:23:20.13,0:23:23.13,Episode titles,,0,0,0,,{\blur0.5\pos(478,485)\fs65}Perhaps for Friendship’s Sake
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Dialogue: 0,0:00:15.62,0:00:20.21,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo
