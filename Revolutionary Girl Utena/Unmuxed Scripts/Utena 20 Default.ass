@@ -1562,9 +1562,9 @@ Dialogue: 0,0:15:40.91,0:15:40.96,Duel Card,,0,0,0,,{=8}{\blur0.8\fs42\frz355.3\
 Dialogue: 0,0:15:40.96,0:15:41.00,Duel Card,,0,0,0,,{=8}{\blur0.8\fs42\frz355.3\clip(m 650.71 416.86 l 638.71 550.43 839.91 569 851.9 431.48)\c&H020B1E&\pos(450.47,506.87)}To the betrothed: I shall await you \N at the dueling arena this evening.
 Dialogue: 0,0:15:41.00,0:15:41.04,Duel Card,,0,0,0,,{=8}{\blur0.8\fs42\frz355.3\clip(m 650.71 416.86 l 638.71 550.43 839.91 569 851.9 431.48)\c&H020B1E&\pos(450.47,507.04)}To the betrothed: I shall await you \N at the dueling arena this evening.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:51.44,0:03:00.45,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Wakaba Can Flourish
+Dialogue: 0,0:02:51.44,0:03:00.45,Episode titles,,0,0,0,,{\blur0.5\pos(468,495)}Wakaba Can Flourish
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:19.38,0:23:22.38,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Pesky Insects
+Dialogue: 0,0:23:19.38,0:23:22.38,Episode titles,,0,0,0,,{\blur0.5\pos(477,495)}Pesky Insects
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Comment: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo
