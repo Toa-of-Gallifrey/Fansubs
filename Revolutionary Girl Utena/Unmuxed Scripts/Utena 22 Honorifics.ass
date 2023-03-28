@@ -42,9 +42,9 @@ Dialogue: 0,0:23:18.13,0:23:20.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:20.38,0:23:21.70,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}“The Qualifications of a Duelist”
 Dialogue: 0,0:23:21.70,0:23:23.38,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}The absolute destiny: apocalypse.
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:01:45.88,0:01:54.89,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Nemuro Memorial Hall
+Dialogue: 0,0:01:45.88,0:01:54.89,Episode titles,,0,0,0,,{\blur0.5\pos(462,495)}Nemuro Memorial Hall
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.38,0:23:23.39,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}The Qualifications of a Duelist
+Dialogue: 0,0:23:20.38,0:23:23.39,Episode titles,,0,0,0,,{\blur0.5\pos(475,485)\fs65}The Qualifications of a Duelist
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Dialogue: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo

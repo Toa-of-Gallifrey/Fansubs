@@ -57,7 +57,7 @@ Dialogue: 0,0:20:37.09,0:20:39.22,Main,,0,0,15,,{\an8\fs45\c&H000000&\3c&HFFFFFF
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:24.42,0:02:33.38,Episode titles,,0,0,0,,{\blur0.5\fs65\pos(470,485)}The Secret Nanami-sama Diary
 Dialogue: 0,0:22:56.35,0:22:58.86,Episode titles,,0,0,0,,{\blur0.5\pos(480,490)}Next Episode
-Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(470,495)}Their Eternal Apocalypse
+Dialogue: 0,0:23:20.38,0:23:23.38,Episode titles,,0,0,0,,{\blur0.5\pos(478,495)}Their Eternal Apocalypse
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:08.20,0:00:12.62,OP JP,,0,0,0,,{\fad(100, 100)\blur1}isagiyoku kakkoyoku ikite yukou
 Dialogue: 0,0:00:15.62,0:00:20.20,OP JP,,0,0,0,,{\fad(100, 100)\blur1}tatoe futari hanarebanare ni natte mo
