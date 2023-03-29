@@ -531,7 +531,7 @@ Dialogue: 0,0:06:13.39,0:06:16.77,Main,Wakaba,0,0,0,,But since no one’s used t
 Dialogue: 0,0:06:16.78,0:06:18.57,Main,Wakaba,0,0,0,,cleaning it up \N will be tough for sure.
 Dialogue: 0,0:06:18.57,0:06:20.18,Main,Utena,0,0,0,,Ten years?
 Dialogue: 0,0:06:20.18,0:06:24.57,Main,Wakaba,0,0,0,,Well, I’ll bet cleaning it on your own \N will suit your cool self just fine.
-Dialogue: 0,0:06:25.25,0:06:28.10,Main,Wakaba,0,0,0,,Anyway, my room’s on the \N third floor of the south dorm.
+Dialogue: 0,0:06:25.25,0:06:28.10,Main,Wakaba,0,0,0,,Anyway, my room’s on the third floor \N of the south dorm.
 Dialogue: 0,0:06:28.10,0:06:30.60,Main,Wakaba,0,0,0,,Drop by when you get sick \N of the haunted house.
 Dialogue: 0,0:06:30.60,0:06:32.16,Main,Wakaba,0,0,0,,Fare thee well!
 Dialogue: 0,0:06:32.16,0:06:34.67,Main,Utena,0,0,0,,Huh? Haunted house?
@@ -591,7 +591,7 @@ Dialogue: 0,0:09:52.06,0:09:56.33,Main,Anthy,0,0,0,,But I’m engaged to you, \N
 Dialogue: 0,0:09:56.33,0:09:57.78,Main,Utena,0,0,0,,That again...
 Dialogue: 0,0:10:00.77,0:10:04.99,Main,Utena,0,0,0,,That Saionji guy was \N wearing a ring just like mine.
 Dialogue: 0,0:10:05.56,0:10:08.00,Main,Utena,0,0,0,,Do you know what this is?
-Dialogue: 0,0:10:08.00,0:10:11.26,Main,Anthy,0,0,0,,All the members of the \N Student Council wear them.
+Dialogue: 0,0:10:08.00,0:10:11.26,Main,Anthy,0,0,0,,All the members of \N the Student Council wear them.
 Dialogue: 0,0:10:11.26,0:10:13.04,Main,Anthy,0,0,0,,It’s a Rose Seal.
 Dialogue: 0,0:10:13.04,0:10:17.27,Main,Anthy,0,0,0,,Anyone who has that ring \N is entitled to participate in the duels.
 Dialogue: 0,0:10:17.27,0:10:20.50,Main,Anthy,0,0,0,,So, since you are \N the current champion,
@@ -642,12 +642,13 @@ Dialogue: 0,0:13:47.46,0:13:49.07,Main,Utena,0,0,0,,I don’t care about this \N
 Dialogue: 0,0:13:49.07,0:13:51.52,Main,Saionji,0,0,0,,Even if you don’t, I do.
 Dialogue: 0,0:13:51.97,0:13:55.85,Main,Saionji,0,0,0,,If you intend to remain engaged \N to the Rose Bride as a Duelist...
 Dialogue: 0,0:13:55.85,0:13:57.52,Main,Saionji,0,0,0,,...then you cannot refuse!
-Dialogue: 0,0:13:57.52,0:14:01.61,Main,Saionji,0,0,0,,Those who disobey the rules of the \N Student Council cannot remain at the academy.
+Dialogue: 0,0:13:57.52,0:14:01.61,Main,Saionji,0,0,0,,{\q2}Those who disobey the Student Council’s rules \N will be expelled from the academy.
 Dialogue: 0,0:14:01.61,0:14:04.62,Main,Saionji,0,0,0,,Those are the school’s regulations.
 Dialogue: 0,0:14:09.19,0:14:10.62,Main,Utena,0,0,0,,Fine, I accept!
 Dialogue: 0,0:14:10.62,0:14:13.62,Main,Utena,0,0,0,,I’ll meet you in the arena \N after class tomorrow!
-Dialogue: 0,0:14:23.58,0:14:26.61,Main,Anthy,0,0,0,,I thought you weren’t \N fighting any more duels.
-Dialogue: 0,0:14:26.61,0:14:31.57,Main,Utena,0,0,0,,No choice. Apparently, if I don’t fight him, \N I won’t be able to stay at the academy.
+Dialogue: 0,0:14:23.58,0:14:26.61,Main,Anthy,0,0,0,,Hadn’t you decided that \N you wouldn’t accept duels?
+Dialogue: 0,0:14:26.61,0:14:28.06,Main,Utena,0,0,0,,No choice.
+Dialogue: 0,0:14:28.06,0:14:31.57,Main,Utena,0,0,0,,Apparently I have to accept the duel \N or I get kicked out of the academy.
 Dialogue: 0,0:14:33.79,0:14:37.31,Main,Utena,0,0,0,,I’ll just lose on purpose. \N There shouldn’t be a problem with that.
 Dialogue: 0,0:14:37.84,0:14:40.73,Main,Anthy,0,0,0,,Yes... Do as you please.
 Dialogue: 0,0:14:46.39,0:14:48.83,Main,A-ko,0,0,0,,Have you heard? Have you heard? \N Oh, have you heard the news?
@@ -680,7 +681,7 @@ Dialogue: 0,0:19:17.16,0:19:21.43,Main,Saionji,0,0,0,,{\q2}We call it the Sword 
 Dialogue: 0,0:19:21.89,0:19:25.44,Main,Saionji,0,0,0,,It’s a champion’s sword, \N to be wielded by the best!
 Dialogue: 0,0:19:26.08,0:19:30.04,Main,Saionji,0,0,0,,I let my guard down yesterday, \N but we clearly have a vast gap in skill!
 Dialogue: 0,0:19:37.19,0:19:40.82,Main,Saionji,0,0,0,,Both the sword \N and Anthy belong to me.
-Dialogue: 0,0:19:40.82,0:19:43.50,Main,Saionji,0,0,0,,They are flowers blooming just for my sake. \N Just for Saionji Kyouichi.
+Dialogue: 0,0:19:40.82,0:19:43.50,Main,Saionji,0,0,0,,They are flowers blooming \N just for {\i1}my{\i0} sake.
 Dialogue: 0,0:19:47.22,0:19:48.04,Main,Saionji,0,0,0,,Prepare yourself!
 Dialogue: 0,0:20:36.60,0:20:38.63,Main,Touga,0,0,0,,What was that just now?
 Dialogue: 0,0:20:39.66,0:20:42.10,Main,Touga,0,0,0,,Was that the power \N to revolutionize the world?

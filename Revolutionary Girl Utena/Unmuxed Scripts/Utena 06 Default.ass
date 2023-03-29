@@ -513,7 +513,7 @@ Dialogue: 0,0:22:40.63,0:22:44.38,ED EN,,0,0,0,,{\blur1.5}and because I want to 
 Dialogue: 0,0:22:44.38,0:22:54.31,ED EN,,0,0,0,,{\fad(0, 500)\blur1.5}I want the lies to keep hating me
 Comment: 0,0:00:00.49,0:00:00.49,Main,,0,0,0,,{Opening}
 Comment: 0,0:01:29.87,0:01:29.87,Main,,0,0,0,,{Prologue}
-Dialogue: 0,0:02:38.32,0:02:40.43,Main,Human being,0,0,0,,Are you okay? \N Hello?
+Dialogue: 0,0:02:38.32,0:02:40.43,Main,Human being,0,0,0,,Are you okay? Hello?
 Dialogue: 0,0:02:40.43,0:02:42.26,Main,Human being,0,0,0,,Are you all right?!
 Dialogue: 0,0:02:42.26,0:02:44.68,Main,Human being,0,0,0,,Weird girl... \N Don’t know why I bothered worrying.
 Comment: 0,0:02:50.45,0:02:50.45,Main,,0,0,0,,{Part A}
@@ -566,7 +566,7 @@ Dialogue: 0,0:05:22.51,0:05:25.43,Main,Utena,0,0,0,,{\i1}He’s{\i0} the one \N 
 Dialogue: 0,0:05:25.43,0:05:28.07,Main,Nanami,0,0,0,,My, how full of yourself!{My, what a high opinion \N you have of yourself!}{lit. self-conscious, but (apparently through common misuse), it can also mean full of yourself - Toa}
 Dialogue: 0,0:05:28.07,0:05:30.64,Main,Miki,0,0,0,,Hmm? There’s someone \N in the greenhouse.
 Dialogue: 0,0:05:30.64,0:05:31.14,Main,Utena,0,0,0,,Huh?
-Dialogue: 0,0:05:31.50,0:05:35.15,Main,Nanami,0,0,0,,But there’s a \N “keep out” sign on the door.
+Dialogue: 0,0:05:31.50,0:05:35.15,Main,Nanami,0,0,0,,But there’s a “keep out” sign \N on the door.
 Dialogue: 0,0:05:38.27,0:05:39.82,Main,Nanami,0,0,0,,Big Brother...
 Dialogue: 0,0:05:39.82,0:05:41.96,Main,Touga,0,0,0,,Why haven’t you done the deed?
 Dialogue: 0,0:05:41.96,0:05:44.24,Main,Touga,0,0,0,,Such refuse has no right to live.
@@ -763,7 +763,7 @@ Dialogue: 0,0:17:00.78,0:17:07.85,Main,Tsuwabuki,0,0,0,,Since then, I’ve train
 Dialogue: 0,0:17:07.85,0:17:11.30,Main,Tsuwabuki,0,0,0,,And at long last, \N the stage was set! {CHIKYUU NO HAJIMARI BUTAI SOUCHI LAPLACE SEIUN KANKYAKURON wait wrong Nanami-centric episode. - Toa}
 Dialogue: 0,0:17:11.30,0:17:14.80,Main,Utena,0,0,0,,You wanted to be her big brother, \N not boyfriend?
 Dialogue: 0,0:17:14.80,0:17:18.33,Main,Tsuwabuki,0,0,0,,But Madam Nanami \N didn’t remember me...
-Dialogue: 0,0:17:18.95,0:17:22.40,Main,Tsuwabuki,0,0,0,,...even though I staged everything \N in a way that should’ve brought that day to mind.
+Dialogue: 0,0:17:18.95,0:17:22.40,Main,Tsuwabuki,0,0,0,,{\q2}...even though I staged everything \N in a way that should’ve brought that day to mind.
 Dialogue: 0,0:17:22.40,0:17:23.54,Main,Utena,0,0,0,,Staged?
 Dialogue: 0,0:17:23.54,0:17:25.41,Main,Tsuwabuki,0,0,0,,Now I have no other choice.
 Dialogue: 0,0:17:25.41,0:17:27.85,Main,Tsuwabuki,0,0,0,,I’ll have to \N put her in danger again.

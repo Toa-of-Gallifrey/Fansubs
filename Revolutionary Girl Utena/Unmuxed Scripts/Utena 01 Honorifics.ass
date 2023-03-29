@@ -60,7 +60,7 @@ Dialogue: 0,0:10:45.45,0:10:47.46,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6
 Dialogue: 0,0:23:00.33,0:23:03.99,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}What? I need to have a rematch \N in the dueling arena tomorrow?
 Dialogue: 0,0:23:03.99,0:23:09.08,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Is it true no one who defies \N the Student Council’s rules stays for long?
 Dialogue: 0,0:23:09.08,0:23:10.92,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Are you sure about this, \N Utena-sama?
-Dialogue: 0,0:23:10.92,0:23:13.87,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}You said you weren’t \N fighting any more duels.
+Dialogue: 0,0:23:10.92,0:23:13.87,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Hadn’t you decided that \N you wouldn’t accept any more duels?
 Dialogue: 0,0:23:13.87,0:23:16.79,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}I’ll just lose on purpose. \N There shouldn’t be a problem with that.
 Dialogue: 0,0:23:16.79,0:23:18.17,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Yes... \N Do as you please.
 Dialogue: 0,0:23:18.82,0:23:21.36,Main,Outlined line,0,0,0,,{\blur2\bord5\3c&HF6FBF6&}Next time, \N on Revolutionary Girl Utena:
@@ -457,7 +457,7 @@ Comment: 0,0:22:57.32,0:22:57.32,Main,,0,0,0,,{Preview}
 Dialogue: 1,0:23:00.33,0:23:03.99,Main,Utena,0,0,0,,What? I need to have a rematch \N in the dueling arena tomorrow?
 Dialogue: 1,0:23:03.99,0:23:09.08,Main,Utena,0,0,0,,Is it true no one who defies \N the Student Council’s rules stays for long?
 Dialogue: 1,0:23:09.08,0:23:10.92,Main,Anthy,0,0,0,,Are you sure about this, \N Utena-sama?
-Dialogue: 1,0:23:10.92,0:23:13.87,Main,Anthy,0,0,0,,You said you weren’t \N fighting any more duels.
+Dialogue: 1,0:23:10.92,0:23:13.87,Main,Anthy,0,0,0,,Hadn’t you decided that \N you wouldn’t accept any more duels?
 Dialogue: 1,0:23:13.87,0:23:16.79,Main,Utena,0,0,0,,I’ll just lose on purpose. \N There shouldn’t be a problem with that.
 Dialogue: 1,0:23:16.79,0:23:18.17,Main,Anthy,0,0,0,,Yes... \N Do as you please.
 Dialogue: 1,0:23:18.82,0:23:21.36,Main,Utena,0,0,0,,Next time, \N on Revolutionary Girl Utena:
