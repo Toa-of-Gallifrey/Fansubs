@@ -148,7 +148,7 @@ megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
 metaru kuroo メタルクロー (Metal Claw) - Metal Claw
 meteo biimu メテオビーム (Meteor Beam) - Meteor Beam
 michizure みちづれ (Destiny Bond) - Drag Along
-midare hikkaki みだれひっかき (Fury Swipes) - Erratic Scratch
+midare hikkaki みだれひっかき (Fury Swipes) - Chaotic Scratches
 mikiri みきり (Detect) - Detect
 misairubari ミサイルばり (Pin Missile) - Needle Missile
 miyaburu みやぶる (Foresight) - True Sight

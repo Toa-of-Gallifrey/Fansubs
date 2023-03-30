@@ -304,9 +304,9 @@ Dialogue: 0,0:11:37.21,0:11:38.65,Main,Musashi,0,0,0,,Scary?
 Dialogue: 0,0:11:38.65,0:11:42.18,Main,Musashi,0,0,0,,But looking at it up close... \N Isn’t it kinda cute?
 Dialogue: 0,0:11:42.18,0:11:43.53,Main,Musashi,0,0,0,,All right...
 Dialogue: 0,0:11:43.53,0:11:47.14,Main,Musashi,0,0,0,,That Pokémon will be \N our historic first catch in the Alola Region!
-Dialogue: 0,0:11:48.47,0:11:50.85,Main,Musashi,0,0,0,,Nyarth, \N hit it with Erratic Scratch!
+Dialogue: 0,0:11:48.47,0:11:50.85,Main,Musashi,0,0,0,,Nyarth, \N hit it with Chaotic Scratches!
 Dialogue: 0,0:11:52.56,0:11:55.52,Main,Nyarth,0,0,0,,Now it’s do or die, meow!
-Dialogue: 0,0:11:58.82,0:12:00.93,Main,Nyarth,0,0,0,,Erratic Scratch doesn’t work!
+Dialogue: 0,0:11:58.82,0:12:00.93,Main,Nyarth,0,0,0,,Chaotic Scratches doesn’t work!
 Dialogue: 0,0:12:01.91,0:12:05.03,Main,Nyarth,0,0,0,,Please stop saying \N such scary things, meow!
 Dialogue: 0,0:12:05.03,0:12:09.33,Main,Nyarth,0,0,0,,Ditch the cheap Pikachu costume, \N and fight fair and square, meow!
 Dialogue: 0,0:12:19.30,0:12:23.18,Main,Nyarth,0,0,0,,This is a pretty long tunnel, meow...
@@ -432,7 +432,7 @@ Dialogue: 0,0:18:43.62,0:18:46.60,Main,Musashi,0,0,0,,We found that one first, \
 Dialogue: 0,0:18:46.60,0:18:49.18,Main,Musashi,0,0,0,,All right, Nyarth, you’re up!
 Dialogue: 0,0:18:51.50,0:18:54.44,Main,Nyarth,0,0,0,,Pikachu! I know full well \N how powerful you are,
 Dialogue: 0,0:18:54.44,0:18:57.70,Main,Nyarth,0,0,0,,but today we’ll be going all out, \N and I will {\i1}not{\i0} lose, meow!
-Dialogue: 0,0:18:57.70,0:18:59.57,Main,Nyarth,0,0,0,,Erratic Scratch, meow!
+Dialogue: 0,0:18:57.70,0:18:59.57,Main,Nyarth,0,0,0,,Chaotic Scratches, meow!
 Dialogue: 0,0:18:59.57,0:19:01.41,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
 Dialogue: 0,0:19:03.45,0:19:05.45,Main,Nyarth,0,0,0,,An Electro Ball \N right off the bat?!
 Dialogue: 0,0:19:12.09,0:19:14.85,Main,Nyarth,0,0,0,,Mimikkyu! \N Your attack saved me, meow!
