@@ -479,8 +479,9 @@ Dialogue: 0,0:08:19.55,0:08:24.68,Main,Anthy,0,0,0,,one by one, the other bearer
 Dialogue: 0,0:08:25.82,0:08:27.09,Main,Utena,0,0,0,,You’ve gotta be kidding!
 Dialogue: 0,0:08:27.09,0:08:30.10,Main,Utena,0,0,0,,No way I’m gonna keep fighting \N those pointless duels!
 Dialogue: 0,0:10:11.67,0:10:14.05,Main,Utena,0,0,0,,The power to revolutionize the world!
-Dialogue: 0,0:10:21.90,0:10:24.52,Main,Anthy,0,0,0,,I thought you weren’t \N fighting any more duels.
-Dialogue: 0,0:10:24.52,0:10:29.02,Main,Utena,0,0,0,,No choice. Apparently, if I don’t fight him, \N I won’t be able to stay at the academy.
+Dialogue: 0,0:10:21.90,0:10:24.52,Main,Anthy,0,0,0,,Hadn’t you decided that \N you wouldn’t accept duels?
+Dialogue: 0,0:10:24.52,0:10:26.11,Main,Utena,0,0,0,,No choice.
+Dialogue: 0,0:10:26.11,0:10:29.02,Main,Utena,0,0,0,,Apparently I have to accept the duel \N or I get kicked out of the academy.
 Dialogue: 0,0:10:32.03,0:10:33.03,Main,Saionji,0,0,0,,I have you now!
 Dialogue: 0,0:10:39.17,0:10:41.27,Main,Saionji,0,0,0,,You’re not bad. {This is not the same line as in episode 2. For whatever reason, they changed いい度胸だ (which we translated as “Some guts you’ve got...“) to なかなか やるな. I searched the kana in the closed captions for episode 2 and couldn’t find anything, so as far as I can tell, it’s not a line from elsewhere in the episode. Figured I’d check episode 1 for good measure and only found なかなかやるじゃないか\N女の子にしては (“You’re pretty good... ...for a girl!“), which already showed up earlier in this episode. - Toa}{Thorough research. No clue why they changed that. Maybe they had an extra line recorded anyway and wanted to use it for fun.}
 Dialogue: 0,0:10:41.27,0:10:44.16,Main,Utena,0,0,0,,I’ll just lose on purpose. \N There shouldn’t be a problem with that.
@@ -535,7 +536,7 @@ Dialogue: 0,0:17:20.89,0:17:21.75,Main,Juri,0,0,0,,But...
 Dialogue: 0,0:17:24.06,0:17:26.32,Main,Juri,0,0,0,,There are no such things \N as miracles!
 Dialogue: 0,0:17:32.75,0:17:33.95,Main,Juri,0,0,0,,This is it. {Copy-paste from episode 7 END - Toa}
 Comment: 0,0:17:46.84,0:17:46.84,Main,,0,0,0,,{Part F}
-Dialogue: 0,0:17:49.14,0:17:53.74,Main,Akio,0,0,0,,Indeed... The young \N always seek the end of the world...
+Dialogue: 0,0:17:49.14,0:17:53.74,Main,Akio,0,0,0,,Indeed... The young always seek \N the end of the world.
 Comment: 0,0:17:55.93,0:17:55.93,Main,,0,0,0,,{adoration}
 Dialogue: 0,0:17:54.68,0:17:57.47,Main,Nanami,0,0,0,,My brother got hurt \N because of you! {Copy-paste from episode 10 START... whenever applicable, because this recap loves changing lines. - Toa}
 Dialogue: 0,0:17:59.42,0:18:01.02,Main,Nanami,0,0,0,,All because of you!
