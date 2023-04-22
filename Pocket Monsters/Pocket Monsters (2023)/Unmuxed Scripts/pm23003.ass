@@ -341,7 +341,7 @@ Dialogue: 0,0:20:02.64,0:20:05.48,Main,Liko,0,0,0,,Pleased to meet you, \N every
 Dialogue: 0,0:20:06.60,0:20:10.69,Main,Friede,0,0,0,,All right then, set sail for Liko’s house \N in the Paldea Region!
 Dialogue: 0,0:20:10.69,0:20:12.19,Main,Friede,0,0,0,,Keep ‘er steady!
 Dialogue: 0,0:20:13.36,0:20:17.07,Main,Friede,0,0,0,,Let’s go collect our bodyguard fees \N from our client— Liko’s mom. {can kill “our client—” if desired. Couldn’t think of a way to smoothly slide in  the word client elsewise}
-Dialogue: 0,0:20:17.07,0:20:20.70,Main,Orio,0,0,0,,Way to ruin the mood... \N Couldn’t you come up {\i1}anything{\i0} else?
+Dialogue: 0,0:20:17.07,0:20:20.70,Main,Orio,0,0,0,,Way to ruin the mood... \N Couldn’t you come up with {\i1}anything{\i0} else?
 Dialogue: 0,0:20:20.70,0:20:23.62,Main,Friede,0,0,0,,We can’t go adventuring \N without any money.
 Dialogue: 0,0:20:23.62,0:20:25.45,Main,Liko,0,0,0,,That’s some honesty...
 Dialogue: 0,0:20:29.08,0:20:33.59,Main,Anne,0,0,0,,You actually went off on a big adventure?! \N Liko, you’re the coolest!
