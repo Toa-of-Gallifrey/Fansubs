@@ -7,6 +7,7 @@ Here you can find up-to-date scripts for fansubbing projects I took part in, whi
   + The Hallowed God, Arceus  
   + Aim to be a Pokémon Master  
   + Audio Dramas  
+* Pocket Monsters (2023)  
 * Pocket Monsters Movies (M01)  
 * Pocket Monsters: Mewtwo Saga  
 * Pocket Monsters: The Distant Blue Sky  
