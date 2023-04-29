@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 0,0:03:25.94,0:03:28.69,Main,Friede,0,0,0,,What’s going on? \N We’
 Dialogue: 0,0:03:28.69,0:03:30.61,Main,Orio,0,0,0,,Uh... No problem with the engine!
 Dialogue: 0,0:03:30.61,0:03:33.57,Main,Friede,0,0,0,,Not good. If this keeps up...
 Dialogue: 0,0:03:34.57,0:03:36.36,Main,Friede,0,0,0,,Isn’t that island...?
-Dialogue: 0,0:03:36.36,0:03:38.28,Main,Friede,0,0,0,,All right!
+Dialogue: 0,0:03:36.36,0:03:37.53,Main,Friede,0,0,0,,All right!
 Dialogue: 0,0:03:52.34,0:03:56.97,Main,Liko,0,0,0,,And so, we’ve only made it to \N this small island off the shore of Kanto.
 Dialogue: 0,0:04:02.31,0:04:03.97,Main,Orio,0,0,0,,The problem areas are...
 Dialogue: 0,0:04:04.35,0:04:06.60,Main,Orio,0,0,0,,...here, here, and here.
@@ -76,7 +76,7 @@ Dialogue: 0,0:05:42.11,0:05:43.74,Main,Liko,0,0,0,,Trying to sneak food...
 Dialogue: 0,0:05:43.74,0:05:46.12,Main,Orio,0,0,0,,Murdock! Come help me!
 Dialogue: 0,0:05:48.16,0:05:50.58,Main,Orio,0,0,0,,I’m {\i1}terrible{\i0} at this!
 Dialogue: 0,0:05:52.75,0:05:55.29,Main,Liko,0,0,0,,Rotom, tell me about Hogator.
-Dialogue: 0,0:05:55.29,0:05:58.13,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Hogator. Fire Croc Pokémon. Fire type.
+Dialogue: 0,0:05:55.29,0:05:58.13,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Hogator. Fire Croc Pokémon. \N Fire type.
 Dialogue: 0,0:05:58.75,0:06:03.22,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Fire energy that leaks out \N from inside its body flickers atop its head.
 Dialogue: 0,0:06:03.22,0:06:06.64,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When it gets excited, \N its head spouts larger flames.{Scar/Viol website description, reworded}
 Dialogue: 0,0:06:06.64,0:06:08.89,Main,Liko,0,0,0,,No clues, huh...?
@@ -3017,7 +3017,7 @@ Dialogue: 2,0:12:30.48,0:12:40.49,Logo,,0,0,0,,{=15}{\clip(27,821,1903,822)\pos(
 Dialogue: 1,0:12:30.48,0:12:40.49,Logo Sub-title,,0,0,0,,{=11}{\fscx45\fscy45\blur0.3\pos(1456.01,1041.33)}Liko and Roy Set Off
 Dialogue: 0,0:12:30.48,0:12:40.49,Logo Sub-title,,0,0,0,,{=7}{\fscx45\fscy45\bord3\blur2\c&HFFFFFF&\pos(1456.01,1041.33)\3a&H20&}Liko and Roy Set Off
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:21:47.83,0:21:50.96,ED,,0,0,0,,{=916}{\fad(350,0)\blur0.3}Yo! We are the Rising Voltteccers
+Dialogue: 0,0:21:47.83,0:21:50.96,ED,,0,0,0,,{=920}{\fad(350,0)\blur0.3}Yo! We are the Rising Voltteccers
 Dialogue: 0,0:21:50.96,0:21:53.25,ED,,0,0,0,,{\blur0.3}What Pokémon will we meet next?
 Dialogue: 0,0:21:53.25,0:21:55.54,ED,,0,0,0,,{\blur0.3}I can't wait for more adventures!
 Dialogue: 0,0:21:55.54,0:21:56.92,ED,,0,0,0,,{\blur0.3}Yo! Ready, go!
@@ -3045,8 +3045,8 @@ Comment: 0,0:22:39.13,0:22:40.92,ED,,0,0,0,,{\blur0.3}3 2 1 Go!
 Dialogue: 0,0:22:41.10,0:22:42.92,ED,,0,0,0,,{\blur0.3}Koratta, Ratta, Garagara, Darumakka,
 Dialogue: 0,0:22:42.92,0:22:45.18,ED,,0,0,0,,{\fad(0,120)\blur0.3}Biriridama, drop it and it's gonna explode!
 Dialogue: 0,0:22:45.18,0:22:47.85,ED,,0,0,0,,{\fad(180,0)\blur0.3}Now let's have our guest give it a go!{There will be versions with other characters so this should be gender-neutral}
-Dialogue: 0,0:22:47.85,0:22:49.18,ED,,0,0,0,,{\blur0.3}Let's Go!
-Dialogue: 0,0:22:49.18,0:22:52.18,ED,,0,0,0,,{\blur0.3}Okay, Orio here! I'm gonna nail this!
+Dialogue: 0,0:22:47.85,0:22:49.18,ED,,0,0,0,,{\blur0.3}Let's go!
+Dialogue: 0,0:22:49.18,0:22:52.23,ED,,0,0,0,,{\blur0.3}Okay, Orio here! I'm gonna nail this!
 Dialogue: 0,0:22:52.53,0:22:54.44,ED,,0,0,0,,{\blur0.3}Koratta, Ratta, Garagara, Darumakka,
 Dialogue: 0,0:22:54.44,0:22:56.15,ED,,0,0,0,,{\fad(0,120)\blur0.3}Biriridama, drop it and it's gonna explode!
 Dialogue: 0,0:22:56.15,0:22:57.65,ED,,0,0,0,,{\fad(180,0)\blur0.3}Brave Bird-Bird-Bird
@@ -3055,7 +3055,7 @@ Dialogue: 0,0:23:00.03,0:23:01.69,ED,,0,0,0,,{\blur0.3}Fly in the sky-sky-sky
 Dialogue: 0,0:23:01.69,0:23:03.74,ED,,0,0,0,,{\blur0.3}Heading to our destination
 Dialogue: 0,0:23:03.74,0:23:07.12,ED,,0,0,0,,{\blur0.3}Even if we get hurt and stumble at times
 Dialogue: 0,0:23:07.12,0:23:09.49,ED,,0,0,0,,{\blur0.3}Proving we're friends with our hand sign
-Dialogue: 0,0:23:09.49,0:23:12.08,ED,,0,0,0,,{=917}{\fad(0,190)\blur0.3}Together we're the Rising Voltteccers!
+Dialogue: 0,0:23:09.49,0:23:12.08,ED,,0,0,0,,{=921}{\fad(0,190)\blur0.3}Together we're the Rising Voltteccers!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:47.70,0:21:49.62,Main,,0,0,0,,{\fnFOT-Rowdy Std EB\b0\an7\frz21.04\fs67\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(0,350,\3c&H04E0FF&\c&H04E0FF&\4c&H006BF9&)\bord6\shad6\4a&H00&\blur0.3\pos(23,172.33)\t(1570,1920,\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&)}Rising\NVoltteccers\NRap
 Dialogue: 1,0:21:47.70,0:21:49.62,Main,,0,0,0,,{\fnFOT-Rowdy Std EB\b0\an7\frz21.04\fs67\c&HFFFFFF&\4c&HFFFFFF&\t(0,350,\c&H000000&\4c&H006BF9&)\bord0\4a&H00&\blur0.3\pos(23,172.33)\t(1570,1920,\c&HFFFFFF&\4c&HFFFFFF&)\shad6\4a&HFF&}Rising\NVoltteccers\NRap
@@ -3889,5 +3889,5 @@ Data: 908,_aegi_folddata,e0;1;118
 Data: 909,_aegi_folddata,e1;1;118
 Data: 910,_aegi_folddata,e0;1;119
 Data: 911,_aegi_folddata,e1;1;119
-Data: 916,_aegi_folddata,e0;1;120
-Data: 917,_aegi_folddata,e1;1;120
+Data: 920,_aegi_folddata,e0;1;120
+Data: 921,_aegi_folddata,e1;1;120
