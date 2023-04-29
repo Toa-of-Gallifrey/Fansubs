@@ -30,10 +30,10 @@ Dialogue: 0,0:00:01.56,0:00:02.61,Main,Liko,0,0,0,,I’m Liko.
 Dialogue: 0,0:00:03.02,0:00:05.61,Main,Liko,0,0,0,,In hopes of discovering \N more about myself, {in hopes of don't knowing less things about myself /j}
 Dialogue: 0,0:00:05.61,0:00:09.49,Main,Liko,0,0,0,,I enrolled at Sekiei School \N in the Kanto Region.
 Dialogue: 0,0:00:09.49,0:00:13.16,Main,Liko,0,0,0,,There were so many Pokémon\N I’d never seen before, I was amazed!
-Dialogue: 0,0:00:14.99,0:00:16.83,Main,Liko,0,0,0,,It was my first time \N living in a dorm.
+Dialogue: 0,0:00:14.99,0:00:16.83,Main,Liko,0,0,0,,It’s my first time \N living in a dorm.
 Dialogue: 0,0:00:16.83,0:00:18.00,Main,Liko,0,0,0,,My roommate...
 Dialogue: 0,0:00:19.83,0:00:21.42,Main,Anne,0,0,0,,I’m a bit messy!{001}
-Dialogue: 0,0:00:23.00,0:00:25.13,Main,Liko,0,0,0,,...was a cheerful girl, Anne.
+Dialogue: 0,0:00:23.00,0:00:25.13,Main,Liko,0,0,0,,...is a cheerful girl, Anne.
 Dialogue: 0,0:00:25.13,0:00:27.38,Main,Liko,0,0,0,,I hope we can get along.
 Dialogue: 0,0:00:27.97,0:00:30.89,Main,Liko,0,0,0,,And, what made me \N the most nervous was...
 Dialogue: 0,0:00:30.89,0:00:34.85,Main,Anne,0,0,0,,So hey... After the entrance ceremony, \N it’ll finally be time, y’know?{001}
@@ -47,7 +47,7 @@ Dialogue: 0,0:00:54.45,0:00:58.00,Main,Liko,0,0,0,,My first Pokémon was Nyahoja
 Dialogue: 0,0:00:58.00,0:00:59.46,Main,Liko,0,0,0,,So cute!{001}
 Dialogue: 0,0:00:59.46,0:01:00.67,Main,Liko,0,0,0,,But...
 Dialogue: 0,0:01:01.17,0:01:02.29,Main,Liko,0,0,0,,Ow!{001}
-Dialogue: 0,0:01:02.29,0:01:05.67,Main,Liko,0,0,0,,...it’s very fickle, and I don’t know \N what it’s thinking a lot of the time.
+Dialogue: 0,0:01:02.29,0:01:05.67,Main,Liko,0,0,0,,...it’s very fickle, and I don’t know \N what it’s thinking a lot of the time. {DREADED “IT” PRONOUN: Nyahoja}
 Dialogue: 0,0:01:06.75,0:01:08.80,Main,Liko,0,0,0,,Nyahoja! Leafage!{001}
 Dialogue: 0,0:01:15.35,0:01:17.68,Main,Liko,0,0,0,,Please! Stop being so reckless!{001}
 Dialogue: 1,0:01:23.44,0:01:28.44,Main,Liko,0,0,0,,One thing led to another, \N and my dizzying life went on, until one day...
@@ -131,7 +131,7 @@ Dialogue: 0,0:07:31.60,0:07:33.72,Main,Molly,0,0,0,,I never did introduce myself
 Dialogue: 0,0:07:33.72,0:07:35.31,Main,Molly,0,0,0,,I’m Molly.
 Dialogue: 0,0:07:35.31,0:07:37.02,Main,Murdock,0,0,0,,I’m Murdock.
 Dialogue: 0,0:07:37.02,0:07:39.81,Main,Murdock,0,0,0,,And that’s my partner, Iwanko.
-Dialogue: 0,0:07:43.73,0:07:46.86,Main,Liko,0,0,0,,Huh? Nyahoja’s already \N made friends with it...
+Dialogue: 0,0:07:43.73,0:07:46.86,Main,Liko,0,0,0,,Huh? Nyahoja’s already \N made friends with it...{DREADED “IT” PRONOUN: Iwanko}
 Dialogue: 0,0:07:50.87,0:07:53.54,Main,Liko,0,0,0,,They’re all so cute!
 Dialogue: 0,0:07:54.12,0:07:57.25,Main,Liko,0,0,0,,No, no, no! Focus!
 Dialogue: 0,0:07:57.25,0:07:58.75,Main,Liko,0,0,0,,I’ve got to ask them...
@@ -246,7 +246,7 @@ Dialogue: 0,0:15:37.58,0:15:39.71,Main,Conia,0,0,0,,My, what a rotten little kid
 Dialogue: 0,0:15:39.71,0:15:41.17,Main,Liko,0,0,0,,Nyahoja!
 Dialogue: 0,0:15:41.17,0:15:44.51,Main,Liko,0,0,0,,Stop it! If you want the pendant \N that much, I’ll give it to you.
 Dialogue: 0,0:15:44.51,0:15:46.80,Main,Liko,0,0,0,,Just... give Nyahoja back!
-Dialogue: 0,0:15:47.47,0:15:48.34,Main,Amethio,0,0,0,,Drop it.{Let it go.}
+Dialogue: 0,0:15:47.47,0:15:48.34,Main,Amethio,0,0,0,,Drop it.{Let it go.}{DREADED “IT” PRONOUN: Nyahoja... But since this is Amethio speaking it might be fine}
 Dialogue: 0,0:15:48.34,0:15:49.26,Main,Conia,0,0,0,,Sir.
 Dialogue: 0,0:15:52.22,0:15:55.27,Main,Amethio,0,0,0,,At first, we were only after the pendant.
 Dialogue: 0,0:15:55.85,0:15:59.02,Main,Amethio,0,0,0,,But it looks like that pendant \N holds some kind of secret.
@@ -343,7 +343,7 @@ Dialogue: 0,0:24:04.13,0:24:06.38,Main,Gurumin,0,0,0,,The battle for the pendant
 Dialogue: 0,0:24:06.38,0:24:09.89,Main,Gurumin,0,0,0,,...on the airship headin’ for the storm \N hits a boiling point!
 Dialogue: 0,0:24:10.35,0:24:13.68,Main,Gurumin,0,0,0,,Or so I thought, but then Nyahoja \N {\i1}disappeared with that freaky group!{\i0}
 Dialogue: 0,0:24:13.68,0:24:16.43,Main,Gurumin,0,0,0,,“Hey! What are you \N going to do, Liko?!”
-Dialogue: 0,0:24:16.43,0:24:19.81,Main,Gurumin,0,0,0,,“It’s obvious, Liko. \N We have to find it.”
+Dialogue: 0,0:24:16.43,0:24:19.81,Main,Gurumin,0,0,0,,“It’s obvious, Liko. \N We have to find it.”{DREADED “IT” PRONOUN: Nyahoja}
 Dialogue: 0,0:24:19.81,0:24:24.07,Main,Gurumin,0,0,0,,So we better join in \N and give her a big “Go for it!”!
 Dialogue: 0,0:24:24.07,0:24:24.82,Main,Gurumin,0,0,0,,And so!{001}
 Dialogue: 0,0:24:24.82,0:24:26.70,Main,Gurumin,0,0,0,,To be continued next time \N on Pocket Monsters!{001}
@@ -3043,7 +3043,7 @@ Dialogue: 2,0:23:15.46,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:15.46,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.3\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Nyahoja\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Grass Cat Pokémon\NType: {\c&H3BB54D&}Grass
-Dialogue: 0,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Nyahoja\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Grass Cat Pokémon\NType: {\c&H3BB54D&}Grass
+Dialogue: 0,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Nyahoja\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Grass Cat Pokémon\NType: Grass
 Dialogue: 0,0:23:25.47,0:23:28.76,Main,,0,0,0,,{\blur0.3\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N0.4m
 Dialogue: 0,0:23:29.01,0:23:32.52,Main,,0,0,0,,{\blur0.3\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N4.1kg
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.3\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}Which action makes Sweet Scent grow stronger?
@@ -3053,7 +3053,7 @@ Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Sunbathing
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Sunbathing
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Eating
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&H1B1CE7&\c&HEF8610&\pos(1559.73,828)}Eating
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Eating
 Dialogue: 0,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Which action makes Sweet Scent\N grow stronger?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: Sunbathing
 Dialogue: 1,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Which action makes Sweet Scent\N grow stronger?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: Sunbathing
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
