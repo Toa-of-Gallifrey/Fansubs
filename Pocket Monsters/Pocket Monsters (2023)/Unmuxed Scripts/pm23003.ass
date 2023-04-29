@@ -213,7 +213,7 @@ Dialogue: 0,0:11:44.93,0:11:47.02,Main,Liko,0,0,0,,I have to go find it...{DREAD
 Dialogue: 0,0:11:47.02,0:11:49.31,Main,Liko,0,0,0,,After all, I’m Nyahoja’s...
 Dialogue: 0,0:11:51.19,0:11:54.40,Main,Liko,0,0,0,,I’m Nyahoja’s... trainer...
 Dialogue: 0,0:11:54.40,0:11:57.32,Main,Friede,0,0,0,,Okay, I get it...
-Dialogue: 0,0:11:57.32,0:11:58.66,Main,Friede,0,0,0,,Mgh...
+Dialogue: 0,0:11:57.32,0:11:58.66,Main,Friede,0,0,0,,Geez...
 Dialogue: 0,0:11:58.66,0:12:01.03,Main,Friede,0,0,0,,All right, how about this?
 Dialogue: 0,0:12:04.04,0:12:06.16,Main,Friede,0,0,0,,So? You up to it?
 Dialogue: 0,0:12:06.62,0:12:07.79,Main,Liko,0,0,0,,Yes.
@@ -3096,8 +3096,8 @@ Dialogue: 0,0:22:37.13,0:22:39.13,ED,,0,0,0,,{\blur0.3}Let's have Roy show us ho
 Comment: 0,0:22:39.13,0:22:40.92,ED,,0,0,0,,{\blur0.3}3 2 1 Go!
 Dialogue: 0,0:22:41.10,0:22:42.92,ED,,0,0,0,,{\blur0.3}Koratta, Ratta, Garagara, Darumakka,
 Dialogue: 0,0:22:42.92,0:22:45.18,ED,,0,0,0,,{\fad(0,120)\blur0.3}Biriridama, drop it and it's gonna explode!
-Dialogue: 0,0:22:45.18,0:22:47.85,ED,,0,0,0,,{\fad(180,0)\blur0.3}Now let's have them give it a go!{There will be versions with other characters so this should be gender-neutral}
-Dialogue: 0,0:22:47.85,0:22:49.18,ED,,0,0,0,,{\blur0.3}Let's Go!
+Dialogue: 0,0:22:45.18,0:22:47.85,ED,,0,0,0,,{\fad(180,0)\blur0.3}Now let's have our guest give it a go!{There will be versions with other characters so this should be gender-neutral}
+Dialogue: 0,0:22:47.85,0:22:49.18,ED,,0,0,0,,{\blur0.3}Let's go!
 Dialogue: 0,0:22:49.18,0:22:51.81,ED,,0,0,0,,{\blur0.3}Friede here! Leave it to me!!
 Dialogue: 0,0:22:52.53,0:22:54.31,ED,,0,0,0,,{\blur0.3}Koratta, Ratta, Garagara, Darumakka,
 Dialogue: 0,0:22:54.31,0:22:56.15,ED,,0,0,0,,{\fad(0,120)\blur0.3}Biriridama, drop it and it's gonna explode!
@@ -3587,7 +3587,7 @@ Dialogue: 2,0:23:15.46,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:15.46,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.3\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Pikachu\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Mouse Pokémon\NType: {\c&H02DEFF&}Electric
-Dialogue: 0,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Pikachu\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Mouse Pokémon\NType: {\c&H02DEFF&}Electric
+Dialogue: 0,0:23:24.80,0:23:37.48,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.3\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Pikachu\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Mouse Pokémon\NType: Electric
 Dialogue: 0,0:23:25.47,0:23:28.76,Main,,0,0,0,,{\blur0.3\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N0.4m
 Dialogue: 0,0:23:29.01,0:23:32.52,Main,,0,0,0,,{\blur0.3\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N6.0kg
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.3\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What does it store in its cheeks?
@@ -3597,7 +3597,7 @@ Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Food
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Food
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Monster Balls
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&H1B1CE7&\c&HEF8610&\pos(1559.73,828)}Monster Balls
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.3\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Monster Balls
 Dialogue: 0,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&H918FED&\shad2}A: Electricity
 Dialogue: 1,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: Electricity
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
