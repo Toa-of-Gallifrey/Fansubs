@@ -346,8 +346,8 @@ Dialogue: 0,0:23:24.97,0:23:28.22,Main,Friede,0,0,0,,Its distinguishing features
 Dialogue: 0,0:23:28.22,0:23:31.85,Main,Friede,0,0,0,,If you are cut by its blades, \N a certain thing is said to leak out,
 Dialogue: 0,0:23:31.85,0:23:34.43,Main,Friede,0,0,0,,but do you know what that thing is?{What leaks out of cuts from its blades? Water / Nutrients / Life energy}
 Dialogue: 0,0:23:34.43,0:23:36.56,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.44,0:23:42.07,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
-Dialogue: 0,0:23:42.07,0:23:45.07,Main,Friede,0,0,0,,The answer is C: Life energy.
+Dialogue: 0,0:23:39.44,0:23:41.48,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
+Dialogue: 0,0:23:42.07,0:23:45.07,Main,Friede,0,0,220,,The answer is C: Life energy.
 Dialogue: 0,0:23:45.07,0:23:49.66,Main,Friede,0,0,220,,Soublades’ blades \N contain Fire/Ghost energy.
 Dialogue: 0,0:23:49.66,0:23:53.83,Main,Friede,0,0,220,,If you’re cut by its blades, \N your life energy will leak out.
 Dialogue: 1,0:23:53.83,0:23:56.04,Main,Friede,0,0,0,,And it has the swordsmanship \N of a grandmaster!
