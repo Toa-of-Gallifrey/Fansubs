@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:01.56,0:00:05.86,Main,Liko,0,0,0,,Amazingly, the black Rekkuuza \N that appeared from the Ancient Monster Ball...
-Dialogue: 0,0:00:05.86,0:00:10.28,Main,Liko,0,0,0,,...has apparently set out \N for the Paldea region; our destination.
+Dialogue: 0,0:00:05.86,0:00:10.28,Main,Liko,0,0,0,,...has apparently set out \N for the Paldea Region; our destination.
 Dialogue: 0,0:00:11.07,0:00:15.62,Main,Liko,0,0,0,,Dot, who gave us this info, \N is a mysterious, reclusive crew member.
 Dialogue: 0,0:00:16.62,0:00:18.33,Main,Liko,0,0,0,,I wonder what Dot is like.
 Dialogue: 0,0:00:18.87,0:00:21.63,Main,Liko,0,0,0,,I’d like to learn more about Dot.
@@ -36,7 +36,7 @@ Dialogue: 0,0:00:33.18,0:00:34.43,Main,Murdock,0,0,0,,Nobody suspects us?
 Dialogue: 0,0:00:34.43,0:00:36.35,Main,Friede,0,0,0,,I wouldn’t blow our cover.
 Dialogue: 0,0:00:37.06,0:00:39.35,Main,Murdock,0,0,0,,Then... let’s get started.
 Dialogue: 0,0:00:43.06,0:00:43.94,Main,Friede,0,0,0,,Wait!
-Dialogue: 0,0:00:53.70,0:00:55.70,Main,Friede,0,0,0,,You should be in bed by now. {TL:It’s time you should be sleeping.}
+Dialogue: 0,0:00:53.70,0:00:55.70,Main,Friede,0,0,0,,You should be in bed by now.
 Dialogue: 0,0:00:55.70,0:00:58.37,Main,Roy,0,0,0,,Okay. Good night.
 Dialogue: 0,0:00:59.83,0:01:00.96,Main,Friede,0,0,0,,Good night.
 Dialogue: 0,0:01:02.71,0:01:04.67,Main,Friede,0,0,0,,That was close! All clear.
@@ -99,7 +99,7 @@ Dialogue: 0,0:05:17.17,0:05:19.30,Main,Anne,0,0,0,,She almost never does them.
 Dialogue: 0,0:05:19.30,0:05:20.84,Main,Anne,0,0,0,,Oh, the teacher’s here.
 Dialogue: 0,0:05:20.84,0:05:22.43,Main,Anne,0,0,0,,We’ll talk later!
 Dialogue: 0,0:05:23.09,0:05:24.85,Main,Teacher,0,0,0,,I’ll take attendance.
-Dialogue: 0,0:05:24.85,0:05:28.18,Main,Teacher,0,0,0,,Let’s see... \N Ms. Liko is here remotely.{honorific note: Liko-san}
+Dialogue: 0,0:05:24.85,0:05:28.18,Main,Teacher,0,0,0,,Let’s see... \N Liko is here remotely.{honorific note: Liko-san}
 Dialogue: 0,0:05:33.73,0:05:35.69,Main,Roy,0,0,0,,All done!
 Dialogue: 0,0:05:38.61,0:05:41.65,Main,Friede,0,0,0,,So you were taking \N your classes out here?
 Dialogue: 0,0:05:41.65,0:05:44.20,Main,Roy,0,0,0,,I did it all over the place \N on my island.
@@ -275,7 +275,7 @@ Dialogue: 0,0:14:44.28,0:14:46.57,Main,Friede,0,0,0,,That cloth was expensive...
 Dialogue: 0,0:14:46.57,0:14:51.54,Main,Roy,0,0,0,,Sorry. That guy didn’t know anything \N about the black Rekkuuza.
 Dialogue: 0,0:14:51.54,0:14:56.17,Main,Friede,0,0,0,,Don’t sweat it. At least we got info on \N some guys who might be the Explorers.
 Dialogue: 0,0:14:56.79,0:14:59.04,Main,Friede,0,0,0,,We can’t let our guard down.
-Dialogue: 0,0:14:59.04,0:15:02.34,Main,Gurumin,0,0,0,,The first comment... \N is from Muscles_of_a_Saidon.
+Dialogue: 0,0:14:59.04,0:15:02.34,Main,Gurumin,0,0,0,,The first comment... \N is from “Muscles_of_a_Saidon.”
 Dialogue: 0,0:15:02.34,0:15:04.59,Main,Gurumin,0,0,0,,“Gurumin, yo-ssu!” \N Yo-ssu!
 Dialogue: 0,0:15:04.59,0:15:09.47,Main,Gurumin,0,0,0,,“I learned Rock Blast and thought I was unbeatable, \N but can’t seem to win battles.
 Dialogue: 0,0:15:09.47,0:15:11.77,Main,Gurumin,0,0,0,,“In my last battle, \N I got burnt to a crisp by an Ember.
@@ -284,13 +284,13 @@ Dialogue: 0,0:15:14.10,0:15:18.36,Main,Gurumin,0,0,0,,Just spamming strong attac
 Dialogue: 0,0:15:18.36,0:15:19.94,Main,Gurumin,0,0,0,,Use Protect to endure attacks,
 Dialogue: 0,0:15:19.94,0:15:23.99,Main,Gurumin,0,0,0,,or use Sandstorm to change the environment \N and turn the battle in your favor!
 Dialogue: 0,0:15:23.99,0:15:26.74,Main,Gurumin,0,0,0,,Try using all sorts of moves in battles!
-Dialogue: 0,0:15:26.74,0:15:30.58,Main,Gurumin,0,0,0,,Okay, the next comment \N is from NyahojaSuperfan!
+Dialogue: 0,0:15:26.74,0:15:30.58,Main,Gurumin,0,0,0,,Okay, the next comment \N is from “NyahojaSuperfan”!
 Dialogue: 0,0:15:30.58,0:15:32.62,Main,Gurumin,0,0,0,,“Gurumin, yo-ssu!” \N Yo-ssu!
 Dialogue: 0,0:15:32.62,0:15:34.83,Main,Gurumin,0,0,0,,“There’s this girl I’d like to befriend.”
 Dialogue: 0,0:15:34.83,0:15:37.12,Main,Gurumin,0,0,0,,This isn’t even a Pokémon question?!
 Dialogue: 0,0:15:37.12,0:15:42.21,Main,Gurumin,0,0,0,,“If I try talking to her or inviting her to something, \N she just says it’s ‘a pain’ or ‘a waste.’
 Dialogue: 0,0:15:42.21,0:15:43.71,Main,Gurumin,0,0,0,,“She never leaves her room,
-Dialogue: 0,0:15:43.71,0:15:45.51,Main,Gurumin,0,0,0,,“but she seems really smart. {TL:to know so much.}
+Dialogue: 0,0:15:43.71,0:15:45.51,Main,Gurumin,0,0,0,,“but she seems really smart.
 Dialogue: 0,0:15:45.51,0:15:48.76,Main,Gurumin,0,0,0,,“I bet we have similar interests, \N so I’d like to be her friend.
 Dialogue: 0,0:15:48.76,0:15:52.22,Main,Gurumin,0,0,0,,“Gurumin, what would you do?”
 Dialogue: 0,0:15:56.85,0:15:59.40,Main,Liko,0,0,0,,She read my comment!
@@ -401,7 +401,7 @@ Dialogue: 0,0:24:04.67,0:24:06.72,Main,Gurumin,0,0,0,,It’s huge preview time!
 Dialogue: 0,0:24:06.72,0:24:09.39,Main,Gurumin,0,0,0,,Huh? You wanna learn more about Dot?
 Dialogue: 0,0:24:09.39,0:24:10.76,Main,Gurumin,0,0,0,,Well then, just this once—
 Dialogue: 0,0:24:10.76,0:24:12.89,Main,Gurumin,0,0,0,,Now’s not the time!
-Dialogue: 0,0:24:12.89,0:24:15.73,Main,Gurumin,0,0,0,,After all, we’ve just made it \N to Liko’s homeland, the Paldea region!
+Dialogue: 0,0:24:12.89,0:24:15.73,Main,Gurumin,0,0,0,,After all, we’ve just made it \N to Liko’s homeland, the Paldea Region!
 Dialogue: 0,0:24:16.10,0:24:19.15,Main,Gurumin,0,0,0,,Friede and Roy went with Liko \N to say hello to her family?!
 Dialogue: 0,0:24:19.15,0:24:22.98,Main,Gurumin,0,0,0,,Oh, is this really gonna work? \N I’m super worried!
 Dialogue: 0,0:24:22.98,0:24:25.57,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!

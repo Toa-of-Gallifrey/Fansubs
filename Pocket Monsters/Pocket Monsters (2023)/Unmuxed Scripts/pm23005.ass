@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:01.40,0:00:06.99,Main,Liko,0,0,0,,Our ship, the Brave Asagi, made an emergency \N landing on a certain island in Kanto.
 Dialogue: 0,0:00:07.36,0:00:09.20,Main,Liko,0,0,0,,Hogator? Huh?{004}
 Dialogue: 0,0:00:09.20,0:00:14.58,Main,Liko,0,0,0,,Then, Hogator ate the forest Pokémon’s food, \N which led to a lot of trouble!{Then, Hogator ate the food of the forest Pokémon, causing big trouble!}
@@ -122,7 +123,7 @@ Dialogue: 0,0:06:40.38,0:06:44.05,Main,Friede,0,0,0,,I’ll figure out some way 
 Dialogue: 0,0:06:44.05,0:06:45.01,Main,Roy,0,0,0,,Holes?
 Dialogue: 0,0:06:45.01,0:06:47.55,Main,Orio,0,0,0,,In the balloon’s gasbag.
 Dialogue: 0,0:06:47.55,0:06:50.01,Main,Orio,0,0,0,,We don’t have enough material \N to do repairs,
-Dialogue: 0,0:06:50.01,0:06:52.39,Main,Orio,0,0,0,,and at this rate \N the ship’s keel could break.{but as things stand, the ship’s bottom will end up breaking.}
+Dialogue: 0,0:06:50.01,0:06:52.39,Main,Orio,0,0,0,,and at this rate \N the ship’s keel could break.
 Dialogue: 0,0:06:52.39,0:06:56.65,Main,Roy,0,0,0,,That’s awful! Then how about \N I get the island Pokémon to help?
 Dialogue: 0,0:06:56.65,0:06:59.65,Main,Friede,0,0,0,,Hmm... The island Pokémon, huh?
 Dialogue: 0,0:06:59.65,0:07:02.32,Main,Liko,0,0,0,,Do you have something in mind, Roy?
@@ -140,7 +141,7 @@ Dialogue: 0,0:07:29.97,0:07:34.89,Main,Gurumin,0,0,0,,By the way! Do you know wh
 Dialogue: 0,0:07:34.89,0:07:38.06,Main,Gurumin,0,0,0,,Berries! Shockery Bonguri!{Localized as Apricorn. Full name is bonguri no mi, bonguri is presumably ball + donguri. On the one hand, we try to adapt item names, but on the other we haven't been adapting berry names. Apricorn is too loose unless there's another angle to the etymology we're not thinking of, leaving as-is for now.}
 Dialogue: 0,0:07:38.06,0:07:41.82,Main,Gurumin,0,0,0,,Now, with tech advancing... \N A must-have for fishing: the Lure Ball!
 Dialogue: 0,0:07:41.82,0:07:44.82,Main,Gurumin,0,0,0,,Incredibly cozy: the Gorgeous Ball!
-Dialogue: 0,0:07:44.82,0:07:48.78,Main,Gurumin,0,0,0,,And even the wondrous Master Ball \N which can catch {\i1}any{\i0} Pokémon! {swapped "dream" for "wondrous" because I figured it was like "so good it's like a dream!!" and didn't think the literal "dream" would flow well -ed}
+Dialogue: 0,0:07:44.82,0:07:48.78,Main,Gurumin,0,0,0,,And even the wondrous Master Ball, \N which can catch {\i1}any{\i0} Pokémon!
 Dialogue: 0,0:07:48.78,0:07:51.83,Main,Gurumin,0,0,0,,There’s all sorts of balls being made!
 Dialogue: 0,0:07:51.83,0:07:54.87,Main,Gurumin,0,0,0,,The power of science is amazing!{game line}
 Dialogue: 0,0:07:54.87,0:07:56.71,Main,Friede,0,0,0,,I’ll leave the ship in your hands.
@@ -155,7 +156,7 @@ Dialogue: 0,0:08:30.70,0:08:32.78,Main,Molly,0,0,0,,Where have you been?
 Dialogue: 0,0:08:32.78,0:08:34.41,Main,Molly,0,0,0,,Oh, those berries...
 Dialogue: 0,0:08:34.41,0:08:38.41,Main,Molly,0,0,0,,Roy brought them for you. \N He thought you might be hungry.{It would be ideal to move Roy to the end but argh.}
 Dialogue: 0,0:08:51.34,0:08:54.10,Main,Roygrandpa,0,0,0,,Boarding someone’s ship \N without permission?!
-Dialogue: 0,0:08:54.10,0:08:56.06,Main,Friede,0,0,0,,S-Settle down, sir... {I don't really like any option for jiisan here and contemplated just dropping it but ough -ed}
+Dialogue: 0,0:08:54.10,0:08:56.06,Main,Friede,0,0,0,,S-Settle down, sir...{jiisan}
 Dialogue: 0,0:08:56.06,0:08:58.31,Main,Friede,0,0,0,,It was just a kid acting on impulse.
 Dialogue: 0,0:08:58.31,0:09:00.39,Main,Friede,0,0,0,,No need to be so angry...
 Dialogue: 0,0:09:03.90,0:09:05.23,Main,Liko,0,0,0,,Uh-oh...
@@ -286,7 +287,7 @@ Dialogue: 0,0:16:33.76,0:16:36.39,Main,Roy,0,0,0,,Everyone! \N We’re in big tr
 Dialogue: 0,0:16:36.85,0:16:39.85,Main,Roy,0,0,0,,Come help us! Please!
 Dialogue: 0,0:16:41.98,0:16:44.23,Main,Liko,0,0,0,,Roy, are you okay?
 Dialogue: 0,0:16:44.23,0:16:47.69,Main,Roy,0,0,0,,I don’t know... \N But that airship...
-Dialogue: 0,0:16:47.69,0:16:50.11,Main,Roy,0,0,0,,...is the place \N you and Hogator call home!{is your and Hogator’s precious home.}
+Dialogue: 0,0:16:47.69,0:16:50.11,Main,Roy,0,0,0,,...is the place \N you and Hogator call home!
 Dialogue: 0,0:16:50.53,0:16:52.24,Main,Roy,0,0,0,,So I’ve gotta protect it!
 Dialogue: 0,0:16:54.95,0:16:56.83,Main,Roy,0,0,0,,Liko, you okay?
 Dialogue: 0,0:16:56.83,0:16:59.79,Main,Liko,0,0,0,,Yeah... I’m trembling, too.
@@ -352,9 +353,8 @@ Dialogue: 0,0:20:03.93,0:20:07.52,Main,Liko,0,0,0,,Don’t worry! \N I know you 
 Dialogue: 0,0:20:07.52,0:20:10.31,Main,Liko,0,0,0,,Tell Hogator how you feel!
 Dialogue: 0,0:20:10.31,0:20:11.94,Main,Roy,0,0,0,,How I feel...
 Dialogue: 0,0:20:12.44,0:20:14.61,Main,Roy,0,0,0,,Does she mean...?
-Dialogue: 0,0:20:15.40,0:20:18.49,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 0,0:20:15.40,0:20:24.79,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Ho! Ho! Ho! Hoga!
 Dialogue: 0,0:20:17.70,0:20:19.20,Main,Liko,0,0,0,,{\an8}Huh? You’re doing that now?
-Dialogue: 0,0:20:18.49,0:20:24.79,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Ho! Ho! Ho! Hoga!
 Dialogue: 0,0:20:24.79,0:20:27.91,Main,Roy,0,0,0,,Hogator, Hogator, go for it!
 Dialogue: 0,0:20:27.91,0:20:34.17,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Don’t give up, Hogator! Go for it!
 Dialogue: 0,0:20:34.17,0:20:40.30,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Don’t give up, Hogator! Go for it!
@@ -377,15 +377,15 @@ Dialogue: 0,0:23:16.42,0:23:17.42,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:23:17.42,0:23:19.50,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 0,0:23:20.88,0:23:24.51,Main,Friede,0,0,0,,Today, let’s take a look at \N the Mantis Pokémon, Strike!
 Dialogue: 0,0:23:25.47,0:23:27.93,Main,Friede,0,0,0,,A Pokémon characterized \N by its fast movements.
-Dialogue: 0,0:23:27.93,0:23:31.68,Main,Friede,0,0,0,,Because of the way it moves, \N it’s compared to a certain profession,
-Dialogue: 0,0:23:31.68,0:23:34.64,Main,Friede,0,0,0,,but do you know \N what that profession is?
+Dialogue: 0,0:23:27.93,0:23:31.68,Main,Friede,0,0,0,,Because of the way it moves, \N it’s compared to certain rogues,
+Dialogue: 0,0:23:31.68,0:23:34.64,Main,Friede,0,0,0,,but do you know which kind?
 Dialogue: 0,0:23:34.64,0:23:36.81,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.31,0:23:41.52,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
+Dialogue: 0,0:23:39.31,0:23:41.52,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.28,0:23:44.86,Main,Friede,0,0,220,,The answer is C: Ninjas.
 Dialogue: 0,0:23:44.86,0:23:50.28,Main,Friede,0,0,220,,With blindingly fast movements, Strike masterfully controls the twin scythes on its forearms.
 Dialogue: 0,0:23:50.28,0:23:53.37,Main,Friede,0,0,220,,It’s truly a ninja-like Pokémon!
 Dialogue: 1,0:23:54.08,0:23:57.54,Main,Friede,0,0,0,,A cool guy that never \N lets its prey get away.
-Dialogue: 0,0:23:54.08,0:23:54.66,Main,Friede,0,0,0,,{\blur2\bord8\3c&HF6FBF6&\fad(0,450)}A cool guy that never \N lets its prey get away.
+Dialogue: 0,0:23:54.08,0:23:54.66,Main,Outline,0,0,0,,{\blur2\bord8\3c&HF6FBF6&\fad(0,450)}A cool guy that never \N lets its prey get away.
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.13,0:24:05.84,Main,Gurumin,0,0,0,,All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 0,0:24:05.84,0:24:07.97,Main,Gurumin,0,0,0,,The Explorers close in!

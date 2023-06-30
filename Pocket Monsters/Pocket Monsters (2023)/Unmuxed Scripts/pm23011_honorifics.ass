@@ -332,7 +332,7 @@ Dialogue: 0,0:23:34.31,0:23:36.31,Main,Friede,0,0,0,,See the answer after the co
 Dialogue: 0,0:23:39.44,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.32,0:23:45.78,Main,Friede,0,0,220,,The answer is B: Very bitter.
 Dialogue: 0,0:23:45.78,0:23:50.37,Main,Friede,0,0,220,,If it gets attacked by enemies, \N it spits oil at them to get away.
-Dialogue: 0,0:23:50.37,0:23:53.50,Main,Friede,0,0,220,,It’s easily scared, so the slightest shock \N can make it spit out its oil.
+Dialogue: 0,0:23:50.37,0:23:54.20,Main,Friede,0,0,220,,It’s easily scared, so the slightest shock \N can make it spit out its oil.
 Dialogue: 0,0:23:56.04,0:23:59.92,Main,Friede,0,0,0,,Approach one without care, \N and you’ll be left feeling very bitter.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.38,0:24:05.01,Main,Gurumin,0,0,0,,Yo-ssu!{♂} All you hearty Pokémon Trainers out there!{♂} \N Y’all been groovin’{gurubin}?

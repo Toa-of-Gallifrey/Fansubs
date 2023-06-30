@@ -29,20 +29,20 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Recap}
 Dialogue: 0,0:00:01.56,0:00:02.61,Main,Liko,0,0,0,,I’m Liko.
 Dialogue: 0,0:00:03.02,0:00:05.61,Main,Liko,0,0,0,,In hopes of discovering \N more about myself, {in hopes of don't knowing less things about myself /j}
 Dialogue: 0,0:00:05.61,0:00:09.49,Main,Liko,0,0,0,,I enrolled at Sekiei School \N in the Kanto Region.
-Dialogue: 0,0:00:09.49,0:00:13.16,Main,Liko,0,0,0,,There were so many Pokémon\N I’d never seen before, I was amazed!
+Dialogue: 0,0:00:09.49,0:00:13.16,Main,Liko,0,0,0,,There were so many Pokémon \N I’d never seen before, I was amazed!
 Dialogue: 0,0:00:14.99,0:00:16.83,Main,Liko,0,0,0,,It’s my first time \N living in a dorm.
 Dialogue: 0,0:00:16.83,0:00:18.00,Main,Liko,0,0,0,,My roommate...
 Dialogue: 0,0:00:19.83,0:00:21.42,Main,Anne,0,0,0,,I’m a bit messy!{001}
-Dialogue: 0,0:00:23.00,0:00:25.13,Main,Liko,0,0,0,,...is a cheerful girl, Anne.
+Dialogue: 0,0:00:23.00,0:00:25.13,Main,Liko,0,0,0,,...is a cheerful girl \N named Anne.
 Dialogue: 0,0:00:25.13,0:00:27.38,Main,Liko,0,0,0,,I hope we can get along.
 Dialogue: 0,0:00:27.97,0:00:30.89,Main,Liko,0,0,0,,And, what made me \N the most nervous was...
 Dialogue: 0,0:00:30.89,0:00:34.85,Main,Anne,0,0,0,,So hey... After the entrance ceremony, \N it’ll finally be time, y’know?{001}
 Dialogue: 0,0:00:34.85,0:00:36.22,Main,Liko,0,0,0,,Time? For what?{001}
 Dialogue: 0,0:00:36.22,0:00:39.06,Main,Anne,0,0,0,,What else? \N Our partner Pokémon!{001}
-Dialogue: 0,0:00:39.06,0:00:40.65,Main,flophairteacher,0,0,0,,Next, Ms. Liko.{Honorific: Liko-san}{001}
+Dialogue: 0,0:00:39.06,0:00:40.65,Main,Teacher,0,0,0,,Next, Liko.{Honorific: Liko-san}{001}
 Dialogue: 0,0:00:40.65,0:00:42.27,Main,Liko,0,0,0,,H-Here!{001}
 Dialogue: 0,0:00:42.98,0:00:47.40,Main,Liko,0,0,0,,When meeting someone, \N your first impression is really important.{001}
-Dialogue: 0,0:00:47.40,0:00:48.19,Main,flophairteacher,0,0,0,,Go ahead.{001}
+Dialogue: 0,0:00:47.40,0:00:48.19,Main,Teacher,0,0,0,,Go ahead.{001}
 Dialogue: 0,0:00:54.45,0:00:58.00,Main,Liko,0,0,0,,My first Pokémon was Nyahoja.
 Dialogue: 0,0:00:58.00,0:00:59.46,Main,Liko,0,0,0,,So cute!{001}
 Dialogue: 0,0:00:59.46,0:01:00.67,Main,Liko,0,0,0,,But...
@@ -52,7 +52,7 @@ Dialogue: 0,0:01:06.75,0:01:08.80,Main,Liko,0,0,0,,Nyahoja! Leafage!{001}
 Dialogue: 0,0:01:15.35,0:01:17.68,Main,Liko,0,0,0,,Please! Stop being so reckless!{001}
 Dialogue: 1,0:01:23.44,0:01:28.44,Main,Liko,0,0,0,,One thing led to another, \N and my dizzying life went on, until one day...
 Dialogue: 0,0:01:23.44,0:01:26.19,Main,Outline,0,0,0,,{\blur2\bord8\3c&HF6FBF6&}One thing led to another, \N and my dizzying life went on, until one day...
-Dialogue: 0,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N Ms. Liko, correct?{Honorific note: Liko-san}{001}
+Dialogue: 0,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N Liko, correct?{Honorific note: Liko-san}{001}
 Dialogue: 0,0:01:31.90,0:01:34.37,Main,Liko,0,0,0,,A suspicious man came to see me.
 Dialogue: 0,0:01:34.37,0:01:37.58,Main,Liko,0,0,0,,Am I being targeted?!
 Dialogue: 0,0:01:37.58,0:01:39.70,Main,Friede,0,0,0,,Found you!{001}
@@ -65,9 +65,9 @@ Dialogue: 0,0:02:05.27,0:02:07.23,Main,Liko,0,0,0,,What’s going to happen to m
 Comment: 0,0:02:18.49,0:02:18.49,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:02:48.02,0:02:50.11,Main,Liko,0,0,0,,Huh? Lizardon?!
 Dialogue: 0,0:02:50.11,0:02:52.86,Main,Friede,0,0,0,,You two! Don’t be so reckless!
-Dialogue: 0,0:02:53.57,0:02:57.95,Main,Liko,0,0,0,,That’s exactly what \N I keep telling Nyahoja... {toned down from "always telling", free to revert if justified}
+Dialogue: 0,0:02:53.57,0:02:57.95,Main,Liko,0,0,0,,That’s exactly what \N I keep telling Nyahoja...
 Dialogue: 0,0:02:57.95,0:02:59.20,Main,Friede,0,0,0,,Still...
-Dialogue: 0,0:02:59.87,0:03:01.91,Main,Friede,0,0,0,,I like your spirit. {plainer alt: I admire your bravery. I wanted to use "I dig your spirit" here but thought it might be *too* casual/slangy}
+Dialogue: 0,0:02:59.87,0:03:01.91,Main,Friede,0,0,0,,I like your spirit.
 Dialogue: 0,0:03:03.16,0:03:06.54,Main,Liko,0,0,0,,It’s weird, if you ask me.
 Dialogue: 0,0:03:07.50,0:03:09.04,Main,Liko,0,0,0,,So much weird stuff happened...
 Dialogue: 0,0:03:09.04,0:03:12.05,Main,Liko,0,0,0,,...that maybe I’m weird now, too?
@@ -91,7 +91,7 @@ Dialogue: 0,0:04:36.17,0:04:37.09,Main,Amethio,0,0,0,,Armorgaw!
 Dialogue: 0,0:04:53.36,0:04:56.73,Main,Liko,0,0,0,,Earlier... Was I seeing things? {Did I... imagine that earlier?}
 Dialogue: 0,0:04:56.73,0:05:00.61,Main,Liko,0,0,0,,I feel like I got totally swept up\N in everything that was happening...
 Dialogue: 0,0:05:00.61,0:05:02.62,Main,Liko,0,0,0,,...but this whole thing is {\i1}crazy!{\i0}
-Dialogue: 0,0:05:03.12,0:05:05.87,Main,Liko,0,0,0,,He saved me, but... who {\i1}is{\i0} this guy?{He saved me, but who even is that guy?}
+Dialogue: 0,0:05:03.12,0:05:05.87,Main,Liko,0,0,0,,He saved me, but... \N who {\i1}is{\i0} this guy?{He saved me, but who even is that guy?}
 Dialogue: 0,0:05:05.87,0:05:08.37,Main,Liko,0,0,0,,And where is he taking us, \N for that matter? {Where is he taking us to begin with?}
 Dialogue: 0,0:05:09.16,0:05:11.04,Main,Liko,0,0,0,,Um, excuse me!
 Dialogue: 0,0:05:11.04,0:05:13.33,Main,Liko,0,0,0,,Could you let me go now?!
@@ -116,7 +116,7 @@ Dialogue: 0,0:06:45.01,0:06:47.35,Main,Murdock,0,0,0,,Man, how’d you get her \
 Dialogue: 0,0:06:47.35,0:06:48.05,Main,Molly,0,0,0,,Friede!
 Dialogue: 0,0:06:48.47,0:06:50.60,Main,Friede,0,0,0,,Oh, um, well...
 Dialogue: 0,0:06:50.60,0:06:53.43,Main,Liko,0,0,0,,So his name is Friede.
-Dialogue: 0,0:06:50.60,0:06:54.27,Main,Murdock,0,0,0,,{\an8}It drives me nuts when you do stuff like that...
+Dialogue: 0,0:06:50.60,0:06:54.27,Main,Murdock,0,0,0,,{\an8}It drives me nuts \N when you do stuff like that...
 Dialogue: 0,0:06:59.19,0:07:01.82,Main,Liko,0,0,0,,A Hogator! And a Pamo!
 Dialogue: 0,0:07:03.65,0:07:07.24,Main,Liko,0,0,0,,Whenever I see Pokémon, \N I start moving on instinct.
 Dialogue: 0,0:07:07.24,0:07:10.53,Main,Liko,0,0,0,,My heart starts racing.
@@ -126,7 +126,7 @@ Dialogue: 0,0:07:15.25,0:07:18.00,Main,Murdock,0,0,0,,They settled in here \N du
 Dialogue: 0,0:07:18.00,0:07:19.96,Main,Murdock,0,0,0,,And it’s not {\i1}just{\i0} Pokémon \N from Paldea.
 Dialogue: 0,0:07:19.96,0:07:20.59,Main,Murdock,0,0,0,,Look.
 Dialogue: 0,0:07:23.51,0:07:28.14,Main,Liko,0,0,0,,If the Pokémon feel so at ease here,
-Dialogue: 0,0:07:28.14,0:07:31.60,Main,Liko,0,0,0,,maybe these people aren’t bad guys. {needs work}
+Dialogue: 0,0:07:28.14,0:07:31.60,Main,Liko,0,0,0,,maybe these guys are all right.
 Dialogue: 0,0:07:31.60,0:07:33.72,Main,Molly,0,0,0,,I never did introduce myself.
 Dialogue: 0,0:07:33.72,0:07:35.31,Main,Molly,0,0,0,,I’m Molly.
 Dialogue: 0,0:07:35.31,0:07:37.02,Main,Murdock,0,0,0,,I’m Murdock.
@@ -138,7 +138,7 @@ Dialogue: 0,0:07:57.25,0:07:58.75,Main,Liko,0,0,0,,I’ve got to ask them...
 Dialogue: 0,0:07:59.46,0:08:01.25,Main,Liko,0,0,0,,Um, excuse me...
 Dialogue: 0,0:08:03.21,0:08:04.46,Main,Friede,0,0,0,,Sorry, one sec.
 Dialogue: 0,0:08:05.01,0:08:07.51,Main,Friede,0,0,0,,One, two, three...
-Dialogue: 0,0:08:07.51,0:08:08.80,Main,Friede,0,0,0,,Could it be the same group?! {trimmed "the before" because of CPS and hopefully "the same" implies that enough?}
+Dialogue: 0,0:08:07.51,0:08:08.80,Main,Friede,0,0,0,,Could it be the same group?!
 Dialogue: 0,0:08:08.80,0:08:09.51,Main,Molly,0,0,0,,What’s up?
 Dialogue: 0,0:08:10.09,0:08:11.80,Main,Friede,0,0,0,,I’m going to the wheelhouse.
 Dialogue: 0,0:08:11.80,0:08:12.76,Main,Friede,0,0,0,,We’re setting sail.
@@ -147,7 +147,7 @@ Dialogue: 0,0:08:15.77,0:08:17.69,Main,Friede,0,0,0,,They haven’t given up yet
 Dialogue: 0,0:08:21.69,0:08:23.98,Main,Murdock,0,0,0,,Friede! Who are you talking about?
 Dialogue: 0,0:08:23.98,0:08:25.03,Main,Murdock,0,0,0,,What happened at the school?
 Dialogue: 0,0:08:25.57,0:08:27.32,Main,Friede,0,0,0,,I’ll fill you in later.
-Dialogue: 0,0:08:27.32,0:08:29.32,Main,Friede,0,0,0,,Murdock, you check downstairs. {belowdeck y/n?}
+Dialogue: 0,0:08:27.32,0:08:29.32,Main,Friede,0,0,0,,Murdock, you check below deck.
 Dialogue: 0,0:08:29.32,0:08:31.28,Main,Friede,0,0,0,,Molly, you look after \N the Pokémon and that girl.
 Dialogue: 0,0:08:31.74,0:08:33.16,Main,Murdock,0,0,0,,Got it.
 Dialogue: 0,0:08:33.16,0:08:37.16,Main,Molly,0,0,0,,Orio’s freaking out. \N Says there’s a storm right in our flight path.
@@ -162,7 +162,7 @@ Dialogue: 0,0:09:13.57,0:09:15.66,Main,Orio,0,0,0,,I’m doing my best already!
 Dialogue: 0,0:09:16.16,0:09:17.58,Main,Friede,0,0,0,,I’ll send you some backup.
 Dialogue: 0,0:09:18.37,0:09:21.37,Main,Friede,0,0,0,,Lizardon, head to the engine room. \N I’m counting on you.
 Dialogue: 0,0:09:25.25,0:09:27.59,Main,Friede,0,0,0,,Cap! I’m on my way.
-Dialogue: 0,0:09:30.93,0:09:31.84,Main,Orio,0,0,0,,Just in time! {alt: Just [what/who] I needed! / Just who I wanted to see!- I think "You're a great help!" was an unfitting response for Lizard just showing up}
+Dialogue: 0,0:09:30.93,0:09:31.84,Main,Orio,0,0,0,,Just in time!
 Dialogue: 0,0:09:34.09,0:09:35.10,Main,Amethio,0,0,0,,Is that it?
 Dialogue: 0,0:09:36.22,0:09:38.60,Main,Conia,0,0,0,,There’s a storm ahead. \N Are you sure about this?
 Dialogue: 0,0:09:38.60,0:09:41.69,Main,Amethio,0,0,0,,We can’t back down now! \N Let’s catch them!
@@ -181,13 +181,13 @@ Dialogue: 0,0:10:34.86,0:10:37.24,Main,Friede,0,0,0,,Nosepass, which way’s nor
 Dialogue: 0,0:10:39.54,0:10:40.66,Main,Friede,0,0,0,,Thanks!
 Dialogue: 0,0:10:50.09,0:10:52.17,Main,Molly,0,0,0,,Geez... What are you up to, Friede?!
 Dialogue: 0,0:10:55.43,0:10:57.68,Main,Molly,0,0,0,,Orio, can you give us \N a little more speed?
-Dialogue: 0,0:10:59.18,0:11:03.18,Main,Orio,0,0,0,,Mmh... Like I said, \N I’m doing my best already! {This line has an extra "dakedo ne" at the end compared to when she said almost the same line earlier. So I added "Like I said", but other ideas welcome}
+Dialogue: 0,0:10:59.18,0:11:03.18,Main,Orio,0,0,0,,Mmh... Like I said, \N I’m doing my best already!
 Dialogue: 0,0:11:03.18,0:11:06.06,Main,Friede,0,0,0,,All right. Let’s plot a course \N into the thunderclouds.
 Dialogue: 0,0:11:07.48,0:11:09.57,Main,Murdock,0,0,0,,Huh?! Are you serious?!
-Dialogue: 0,0:11:09.57,0:11:13.15,Main,Friede,0,0,0,,We’re not gonna shake ‘em \N otherwise, right? {They’re not going to leave for anything less, are they?}
+Dialogue: 0,0:11:09.57,0:11:13.15,Main,Friede,0,0,0,,We’re not gonna shake ‘em \N otherwise, right?
 Dialogue: 0,0:11:13.15,0:11:17.36,Main,Friede,0,0,0,,Honestly... I couldn’t have asked for \N better weather today!
 Dialogue: 0,0:11:17.36,0:11:19.37,Main,Molly,0,0,0,,More recklessness...
-Dialogue: 0,0:11:19.37,0:11:21.37,Main,Molly,0,0,0,,Well, I guess we’re out of options.{Well, we don’t have a choice.}
+Dialogue: 0,0:11:19.37,0:11:21.37,Main,Molly,0,0,0,,Well, I guess we’re out of options.
 Dialogue: 0,0:11:21.83,0:11:23.83,Main,Molly,0,0,0,,Orio, it’s all up to you now.
 Dialogue: 0,0:11:24.16,0:11:26.75,Main,Orio,0,0,0,,You’re not hearing \N a word I’m saying, are you?
 Dialogue: 0,0:11:26.75,0:11:28.92,Main,Orio,0,0,0,,Roger. Let’s do this!
@@ -196,14 +196,14 @@ Dialogue: 0,0:11:35.63,0:11:37.09,Main,Orio,0,0,0,,Thank you, Hogator.
 Dialogue: 0,0:11:44.10,0:11:46.10,Main,Friede,0,0,0,,Thanks, everyone!
 Dialogue: 0,0:11:46.10,0:11:48.52,Main,Friede,0,0,0,,Turn to starboard!
 Dialogue: 0,0:12:10.21,0:12:11.09,Main,Molly,0,0,0,,All right!
-Dialogue: 0,0:12:13.88,0:12:16.76,Main,Liko,0,0,0,,These guys are so perky...{Hmm... They are so https://jisho.org/search/%E8%B1%AA%E5%BF%AB -TLC}{If you prefer bubbly here, will change the one from ep 1 - Toa}
+Dialogue: 0,0:12:13.88,0:12:16.76,Main,Liko,0,0,0,,These guys are so intense...
 Dialogue: 0,0:12:20.18,0:12:22.43,Main,Conia,0,0,0,,Are they heading for the clouds?!
 Dialogue: 0,0:12:22.43,0:12:24.97,Main,Zir,0,0,0,,So reckless... Amethio, sir! {honorific note: Amethio-sama}
 Dialogue: 0,0:12:25.68,0:12:28.35,Main,Amethio,0,0,0,,We can’t afford to lose them now.
 Dialogue: 0,0:12:28.77,0:12:31.69,Main,Amethio,0,0,0,,Use the airship to shield yourselves\N from the wind and close in!
 Dialogue: 0,0:12:31.69,0:12:32.65,Main,Amethio,0,0,0,,On me!
 Dialogue: 0,0:12:32.65,0:12:33.61,Main,Zir Conia,0,0,0,,Roger!
-Dialogue: 0,0:12:37.44,0:12:40.28,Main,Murdock,0,0,0,,Oh, gramps. You look after it. {want to do something but coming up short}
+Dialogue: 0,0:12:37.44,0:12:40.28,Main,Murdock,0,0,0,,Oh, Gramps. \N Can you take over here?
 Dialogue: 0,0:12:41.28,0:12:42.57,Main,Landau,0,0,0,,Piece of cake.
 Dialogue: 0,0:12:58.88,0:13:00.76,Main,Liko,0,0,0,,Um... They’re here!
 Dialogue: 0,0:13:02.59,0:13:05.56,Main,Molly,0,0,0,,Friede! The Explorers \N have reached the Wing Deck!
@@ -220,13 +220,13 @@ Dialogue: 0,0:13:25.53,0:13:26.16,Main,Murdock,0,0,0,,Sure thing.
 Dialogue: 0,0:13:26.16,0:13:27.41,Main,Friede,0,0,0,,Let’s go, Cap!
 Dialogue: 0,0:13:28.00,0:13:31.58,Main,Murdock,0,0,0,,Hey! Don’t be too reckless. \N We’ve got children on board.
 Dialogue: 0,0:13:36.71,0:13:37.88,Main,Molly,0,0,0,,Is this it?
-Dialogue: 0,0:13:42.97,0:13:45.30,Main,Friede,0,0,0,,Sorry, I need to head out \N with Lizardon. {"want" seemed like an inappropriately weak sentiment in context, feel free to revert if it's justified}
+Dialogue: 0,0:13:42.97,0:13:45.30,Main,Friede,0,0,0,,Sorry, I need to head out \N with Lizardon.
 Dialogue: 0,0:13:45.30,0:13:46.31,Main,Orio,0,0,0,,Huh?!
 Dialogue: 0,0:13:50.60,0:13:52.19,Main,Orio,0,0,0,,It’s too late!
 Dialogue: 0,0:13:57.15,0:13:58.57,Main,Liko,0,0,0,,Hold on...
 Dialogue: 0,0:13:58.57,0:13:59.44,Main,Liko,0,0,0,,This twist...{tenkai line}
 Dialogue: 0,0:14:00.03,0:14:02.61,Main,Liko,0,0,0,,Getting thrown around this way and that, \N all for this pendant...
-Dialogue: 0,0:14:02.61,0:14:04.57,Main,Liko,0,0,0,,Am... Am...
+Dialogue: 0,0:14:02.61,0:14:04.57,Main,Liko,0,0,0,,Am I... Am I...
 Dialogue: 0,0:14:05.24,0:14:07.58,Main,Liko,0,0,0,,Am I the heroine in some story?!
 Comment: 0,0:14:20.46,0:14:20.46,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:14:34.10,0:14:36.69,Main,Liko,0,0,0,,I don’t know what’s happening...
@@ -250,7 +250,7 @@ Dialogue: 0,0:15:47.47,0:15:48.34,Main,Amethio,0,0,0,,Drop it.{Let it go.}{DREAD
 Dialogue: 0,0:15:48.34,0:15:49.26,Main,Conia,0,0,0,,Sir.
 Dialogue: 0,0:15:52.22,0:15:55.27,Main,Amethio,0,0,0,,At first, we were only after the pendant.
 Dialogue: 0,0:15:55.85,0:15:59.02,Main,Amethio,0,0,0,,But it looks like that pendant \N holds some kind of secret.
-Dialogue: 0,0:15:59.61,0:16:03.28,Main,Amethio,0,0,0,,And you... appear to be \N part of that secret. {can sub "part of" with the original "connected to" or "tied to" if need be}
+Dialogue: 0,0:15:59.61,0:16:03.28,Main,Amethio,0,0,0,,And you... appear to be \N part of that secret.
 Dialogue: 0,0:16:04.11,0:16:06.28,Main,Amethio,0,0,0,,As such, you’ll be \N coming with us as well.
 Dialogue: 0,0:16:10.53,0:16:12.33,Main,Liko,0,0,0,,This all depends on me...
 Dialogue: 0,0:16:13.20,0:16:14.79,Main,Liko,0,0,0,,I can stop it.
@@ -267,7 +267,8 @@ Dialogue: 0,0:16:56.58,0:16:58.21,Main,Friede,0,0,0,,Molly, look after the Poké
 Dialogue: 0,0:16:58.21,0:16:59.21,Main,Molly,0,0,0,,Thanks!
 Dialogue: 0,0:17:01.42,0:17:02.92,Main,Amethio,0,0,0,,Leave this to me.
 Dialogue: 0,0:17:02.92,0:17:04.29,Main,Liko,0,0,0,,Umm, I...!
-Dialogue: 0,0:17:04.29,0:17:08.80,Main,Friede,0,0,0,,Don’t worry. I’ll protect both of you. \N Count on it. {wanted to do more with the 必ず but came up short}
+Dialogue: 0,0:17:04.29,0:17:05.80,Main,Friede,0,0,0,,Don’t worry.
+Dialogue: 0,0:17:05.80,0:17:08.80,Main,Friede,0,0,0,,I’ll protect both of you. \N Count on it.
 Dialogue: 0,0:17:09.80,0:17:11.55,Main,Liko,0,0,0,,He came to save me again...
 Dialogue: 0,0:17:11.55,0:17:12.72,Main,Liko,0,0,0,,Why?
 Dialogue: 0,0:17:14.51,0:17:20.06,Main,Friede,0,0,0,,So you’re with those notorious Explorers.
@@ -276,7 +277,7 @@ Dialogue: 0,0:17:21.60,0:17:23.52,Main,Friede,0,0,0,,I’m Friede.
 Dialogue: 0,0:17:23.52,0:17:25.94,Main,Friede,0,0,0,,The leader of the Rising Voltteccers.
 Dialogue: 0,0:17:25.94,0:17:29.28,Main,Amethio,0,0,0,,You’re one foolhardy crew, \N flying right into a storm like that.
 Dialogue: 0,0:17:29.28,0:17:32.70,Main,Friede,0,0,0,,Big words coming from \N guys who boarded us by force.
-Dialogue: 0,0:17:33.49,0:17:35.83,Main,Amethio,0,0,0,,We’ll take our leave \N the moment our goal is achieved.{We’ll be leaving as soon as our goal is achieved.}
+Dialogue: 0,0:17:33.49,0:17:35.83,Main,Amethio,0,0,0,,We’ll take our leave \N the moment our goal is achieved.
 Dialogue: 0,0:17:35.83,0:17:39.91,Main,Friede,0,0,0,,Whoa there. I can’t let you do that.
 Dialogue: 0,0:17:39.91,0:17:42.50,Main,Amethio,0,0,0,,Well then, shall we pick up \N where we left off?
 Dialogue: 0,0:17:42.50,0:17:44.71,Main,Friede,0,0,0,,Just what I was hoping for. {001}
@@ -318,7 +319,7 @@ Dialogue: 0,0:20:56.74,0:20:57.82,Main,Amethio,0,0,0,,What?!
 Dialogue: 0,0:21:00.78,0:21:04.16,Main,Liko,0,0,0,,We did it! \N Nyahoja, we did it!
 Dialogue: 0,0:21:18.67,0:21:19.80,Main,Friede,0,0,0,,{\an8}No!
 Dialogue: 0,0:21:19.13,0:21:19.80,Main,Liko,0,0,0,,Nyahoja!
-Dialogue: 0,0:21:25.60,0:21:26.47,Main,Zir,0,0,0,,Amethio, sir! {hon: Amethio-sama}
+Dialogue: 0,0:21:25.60,0:21:26.47,Main,Zir,0,0,0,,Amethio, sir! {honorifics note: Amethio-sama}
 Dialogue: 0,0:21:26.47,0:21:28.43,Main,Conia,0,0,0,,We’ll be caught in the storm \N if we stay here!
 Dialogue: 0,0:21:29.85,0:21:30.89,Main,Amethio,0,0,0,,Withdraw!
 Dialogue: 0,0:21:30.89,0:21:31.85,Main,Zir Conia,0,0,0,,Sir!
@@ -326,13 +327,13 @@ Dialogue: 0,0:21:33.86,0:21:35.40,Main,Liko,0,0,0,,Nyahoja!
 Dialogue: 0,0:21:35.40,0:21:38.24,Main,Liko,0,0,0,,{\i1}Nyahoja!{\i0}
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Opening}
 Comment: 0,0:23:15.46,0:23:15.46,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar}
-Dialogue: 0,0:23:16.04,0:23:17.21,Main,Friede,0,0,0,,Friede here.{Professor Friede’s Pokémon Seminar}
+Dialogue: 0,0:23:16.04,0:23:17.21,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:23:17.21,0:23:19.38,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 0,0:23:20.80,0:23:24.47,Main,Friede,0,0,0,,Today, let’s take a look at \N the Grass Cat Pokémon, Nyahoja.
-Dialogue: 0,0:23:25.22,0:23:31.81,Main,Friede,0,0,0,,The floral Sweet Scent that Nyahoja gives off \N grows stronger if it does a certain thing.{Nyahoja, Grass Cat Pokémon, Types, Grass, Height, Weight}
-Dialogue: 0,0:23:31.81,0:23:34.56,Main,Friede,0,0,0,,Do you know what thing that is?{What action makes the Sweet Scent grow stronger? A: Battling, B: Sunbathing, C: Eating}
+Dialogue: 0,0:23:25.22,0:23:31.81,Main,Friede,0,0,0,,The floral Sweet Scent that Nyahoja gives off \N grows stronger if it does a certain thing.
+Dialogue: 0,0:23:31.81,0:23:34.56,Main,Friede,0,0,0,,Do you know what thing that is?
 Dialogue: 0,0:23:34.56,0:23:36.77,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.36,0:23:41.48,Main,Friede,0,0,0,,Now, let’s announce the correct answer.
+Dialogue: 0,0:23:39.36,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.44,0:23:45.65,Main,Friede,0,0,220,,The answer is B: Sunbathing.
 Dialogue: 0,0:23:45.65,0:23:50.58,Main,Friede,0,0,220,,It may look like it’s just taking a relaxing nap, \N but that’s the key.
 Dialogue: 0,0:23:50.58,0:23:54.41,Main,Friede,0,0,220,,Sunlight makes Nyahoja’s scent \N grow stronger.
@@ -347,7 +348,7 @@ Dialogue: 0,0:24:16.43,0:24:19.81,Main,Gurumin,0,0,0,,“It’s obvious, Liko. \
 Dialogue: 0,0:24:19.81,0:24:24.07,Main,Gurumin,0,0,0,,So we better join in \N and give her a big “Go for it!”!
 Dialogue: 0,0:24:24.07,0:24:24.82,Main,Gurumin,0,0,0,,And so!{001}
 Dialogue: 0,0:24:24.82,0:24:26.70,Main,Gurumin,0,0,0,,To be continued next time \N on Pocket Monsters!{001}
-Dialogue: 0,0:24:26.70,0:24:28.49,Main,Gurumin,0,0,0,,If I’m With Nyahoja, I Bet
+Dialogue: 0,0:24:26.70,0:24:28.49,Main,Gurumin,0,0,0,,If I’m With Nyahoja, I Bet...
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:21:45.87,0:21:51.04,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.3}I’m riding the heart-pound-ifying currents
 Dialogue: 1,0:21:51.04,0:21:53.17,OP,,0,0,0,,{\fad(0,350)\blur0.3}I bet
@@ -3153,56 +3154,56 @@ Dialogue: 2,0:24:00.50,0:24:24.82,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:24.82,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:24.82,Episode titles,,0,0,0,,{=19}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{=44}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}If I’m With Nyahoja, I Bet
-Dialogue: 1,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}If I’m With Nyahoja, I Bet
-Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet
-Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}If I’m With Nyahoja, I Bet
-Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}If I’m With Nyahoja, I Bet
-Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{=45}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}If I’m With Nyahoja, I Bet
+Dialogue: 0,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{=44}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 1,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet...
+Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}If I’m With Nyahoja, I Bet...
+Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}If I’m With Nyahoja, I Bet...
+Comment: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet...
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:24:24.82,0:24:30.45,Episode titles,,0,0,0,,{=45}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 1,0:10:29.40,0:10:31.53,Main,,0,0,0,,{=34}{\fnMaterhorn NF\bord0\fs140\c&H13E6FE&\blur0.6\shad5\4a&H00&\4c&H145268&\pos(664.62,333.04)\clip(142.7,74.65,1015.87,307.2)\b0}Captain\NPikachu
 Comment: 1,0:10:29.40,0:10:31.53,Main,,0,0,0,,{\fnMaterhorn NF\bord0\fs140\c&H138AF9&\blur0.6\shad5\4a&H00&\4c&H145268&\pos(664.62,333.04)\clip(142.7,74.65,1015.87,307.2)\b0}Captain\NPikachu

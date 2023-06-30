@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:50.91,0:00:54.03,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It c
 Dialogue: 0,0:00:54.03,0:00:57.16,Main,Roy,0,0,0,,It’s tiny, but tough!
 Dialogue: 0,0:00:59.08,0:01:01.50,Main,Roy,0,0,0,,Who are those cheerful fellas?
 Dialogue: 0,0:01:01.50,0:01:05.50,Main,Liko,0,0,0,,They’re Kimawari. \N And that’s a sculpture behind them.
-Dialogue: 0,0:01:06.63,0:01:10.17,Main,Roy,0,0,0,,The Careless Kimawari. \N It was made by...{EN game: Surrendering Sunflora (presumably for alliteration). But how does that look ’surrendering’...}
+Dialogue: 0,0:01:06.63,0:01:10.17,Main,Roy,0,0,0,,The Couldn’t-Care-Less Kimawari. \N It was made by...{EN game: Surrendering Sunflora (presumably for alliteration). But how does that look ’surrendering’...}
 Dialogue: 0,0:01:10.17,0:01:12.01,Main,Roy,0,0,0,,Mr. Colza!{Honorifics note: Colza-san}
 Dialogue: 0,0:01:16.51,0:01:18.77,Main,Colza,0,0,0,,Avant-garde...
 Dialogue: 0,0:01:18.77,0:01:21.23,Main,Colza,0,0,0,,...is an explosion!{From “art is an explosion”, famous quote of artist Okamoto Tarou}
@@ -73,7 +73,7 @@ Dialogue: 0,0:04:06.98,0:04:09.85,Main,Liko,0,0,0,,This is Mr. Colza{Honorifics 
 Dialogue: 0,0:04:09.85,0:04:10.69,Main,Nemo,0,0,0,,Yeah.
 Dialogue: 0,0:04:10.69,0:04:13.07,Main,Nemo,0,0,0,,He’s an artist and a Gym Leader.
 Dialogue: 0,0:04:13.07,0:04:13.98,Main,Roy,0,0,0,,A Gym Leader?
-Dialogue: 0,0:04:14.48,0:04:17.28,Main,Nemo,0,0,0,,Mr. Colza has an artistic side, \N but that’s not the whole story!{Colza-san has an artist face and another face,}
+Dialogue: 0,0:04:14.48,0:04:17.28,Main,Nemo,0,0,0,,Mr. Colza{Honorifics note: Colza-san} has an artistic side, \N but that’s not the whole story!{Colza-san has an artist face and another face,}
 Dialogue: 0,0:04:17.28,0:04:20.07,Main,Nemo,0,0,0,,He’s also this town’s Gym Leader!{he also has the face of this town’s gym leader!}
 Dialogue: 0,0:04:20.07,0:04:21.70,Main,Roy,0,0,0,,Gym Leaders...
 Dialogue: 0,0:04:21.70,0:04:23.79,Main,Roy,0,0,0,,Aren’t they supposed to be \N top-notch battlers?
@@ -88,7 +88,7 @@ Dialogue: 0,0:04:37.38,0:04:38.30,Main,Nemo,0,0,0,,What?
 Dialogue: 0,0:04:38.30,0:04:42.35,Main,Liko,0,0,0,,The super skilled Champion Rank trainer! \N Ms. Nemo{Honorifics note: Nemo-san}, is that you?
 Dialogue: 0,0:04:43.47,0:04:45.89,Main,Nemo,0,0,0,,That’s right! \N Good to meet you. {made slightly more casul to contrast more with Liko’s super polite one -ed}
 Dialogue: 0,0:04:47.81,0:04:49.77,Main,Liko,0,0,0,,I-It’s very nice to meet you.
-Dialogue: 0,0:04:50.23,0:04:52.90,Main,Nemo,0,0,0,,I’ve got business with Mr. Colza, too.
+Dialogue: 0,0:04:50.23,0:04:52.90,Main,Nemo,0,0,0,,I’ve got business with Mr. Colza, too.{Honorifics note: Colza-san}
 Dialogue: 0,0:04:53.94,0:04:55.40,Main,Nemo,0,0,0,,You see...
 Dialogue: 0,0:04:55.40,0:04:59.49,Main,Nemo,0,0,0,,He’s been absent \N from the Gym for a while now,
 Dialogue: 0,0:04:59.49,0:05:01.57,Main,Nemo,0,0,0,,so I wanted to check up on him.
@@ -135,8 +135,8 @@ Dialogue: 0,0:06:58.56,0:06:59.90,Main,Colza,0,0,0,,I apologize.
 Dialogue: 0,0:06:59.90,0:07:03.07,Main,Colza,0,0,0,,This little one spits out oil \N when surprised.
 Dialogue: 0,0:07:04.49,0:07:08.74,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Oliño. Olive Pokémon. \N Grass/Normal type.
 Dialogue: 0,0:07:08.74,0:07:11.45,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It holds fresh-scented oil.{Part of Scarlet dex entry}
-Dialogue: 0,0:07:11.45,0:07:15.16,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It basks in the sun to its heart’s content \N until the fruits on its head ripen,
-Dialogue: 0,0:07:15.16,0:07:17.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,then leaves human settlements \N to go on journeys.{Violet dex entry}{Edited for CPS. - Toa}
+Dialogue: 0,0:07:11.45,0:07:15.16,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It sunbathes to its heart’s content \N until the fruits on its head ripen,
+Dialogue: 0,0:07:15.16,0:07:17.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,then journeys beyond human civilization.{Violet dex entry}{Edited for CPS. - Toa}
 Dialogue: 0,0:07:17.38,0:07:19.79,Main,Liko,0,0,0,,It’s the evolved from of Minive.
 Dialogue: 0,0:07:19.79,0:07:21.09,Main,Roy,0,0,0,,Huh!
 Dialogue: 0,0:07:30.47,0:07:33.10,Main,Nemo,0,0,0,,Ooh! What a great scent!
@@ -367,7 +367,7 @@ Dialogue: 0,0:23:34.10,0:23:36.19,Main,Friede,0,0,0,,See the answer after the co
 Dialogue: 0,0:23:39.44,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.23,0:23:44.74,Main,Friede,0,0,220,,The answer is A: Oil.
 Dialogue: 0,0:23:45.32,0:23:48.16,Main,Friede,0,0,220,,Oliño’s oil is fresh and tasty.
-Dialogue: 0,0:23:48.16,0:23:53.45,Main,Friede,0,0,220,,Sharing that oil has let it to live alongside \N people and Pokémon for a long time.
+Dialogue: 0,0:23:48.16,0:23:53.45,Main,Friede,0,0,220,,Sharing that oil has long made it a valued \N companion to people and other Pokémon alike.
 Dialogue: 0,0:23:56.25,0:23:59.63,Main,Friede,0,0,0,,If you’re in trouble, \N your friends will help you out!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.09,0:24:02.38,Main,Gurumin,0,0,0,,Yo-ssu! Pickle-ssu!{Unsure. I thought it was 'pekorosu'(small onions, from European word of unclear origin, possibly from 'pequeños'), JP twitter users hear 'pikurusu'(pickles) or 'pikurosu'(picross). Pickles... is the least weird.}

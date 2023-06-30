@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +26,8 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.23,0:00:05.44,Main,Liko,0,0,0,,Whoa, so pretty!
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
+Dialogue: 0,0:00:03.23,0:00:05.44,Main,Liko,0,0,0,,Ooh! It’s so pretty!
 Dialogue: 0,0:00:06.65,0:00:11.66,Main,Likograndma,0,0,0,,I know the day will come when you go on\N your own adventure, with this around your neck.
 Dialogue: 0,0:00:11.66,0:00:13.16,Main,Liko,0,0,0,,Really...?
 Dialogue: 0,0:00:13.16,0:00:15.58,Main,Liko,0,0,0,,But aren’t adventures scary?
@@ -62,7 +63,7 @@ Dialogue: 0,0:03:32.19,0:03:32.94,Main,Liko,0,0,0,,Huh?
 Dialogue: 0,0:03:33.57,0:03:36.74,Main,Molly,0,0,0,,Friede is pursuing \N the Explorers as we speak.
 Dialogue: 0,0:03:37.11,0:03:38.95,Main,Murdock,0,0,0,,That’s right.
 Dialogue: 0,0:03:38.95,0:03:41.20,Main,Murdock,0,0,0,,No use in getting all worked up.
-Dialogue: 0,0:03:42.45,0:03:46.21,Main,Liko,0,0,0,,These people really \N don’t seem like bad guys... {this is an argh recurring line}
+Dialogue: 0,0:03:42.45,0:03:46.21,Main,Liko,0,0,0,,These guys really do seem all right...
 Dialogue: 0,0:03:46.71,0:03:50.04,Main,Orio,0,0,0,,Friede’s bound to come back \N with a few clues!
 Dialogue: 0,0:03:52.30,0:03:53.55,Main,Murdock,0,0,0,,Speak of the devil.
 Dialogue: 0,0:04:00.34,0:04:02.39,Main,Friede,0,0,0,,Hey! You’re up?
@@ -119,7 +120,7 @@ Dialogue: 0,0:06:54.94,0:06:59.32,Main,Kurumin,0,0,0,,One place that any trainer
 Dialogue: 0,0:06:59.69,0:07:02.36,Main,Kurumin,0,0,0,,Tending to Pokémon and \N providing services for trainers!
 Dialogue: 0,0:07:02.36,0:07:06.32,Main,Kurumin,0,0,0,,The kind ladies and their \N soothing Pokémon assistants...
 Dialogue: 0,0:07:06.32,0:07:08.70,Main,Kurumin,0,0,0,,...are all there to welcome you \N {\i1}this very moment!{\i0}
-Dialogue: 0,0:07:08.70,0:07:09.70,Main,Human child,0,0,0,,Ms. Joy!
+Dialogue: 0,0:07:08.70,0:07:09.70,Main,Human child,0,0,0,,Ms. Joy!{Honorifics note: Joy-san}
 Dialogue: 0,0:07:11.99,0:07:12.83,Main,Joy,0,0,0,,How may I help?
 Dialogue: 0,0:07:12.83,0:07:14.96,Main,Human child,0,0,0,,Please save this little one!
 Dialogue: 0,0:07:15.83,0:07:18.21,Main,Joy,0,0,0,,It will be okay. \N Don’t worry.
@@ -148,7 +149,7 @@ Dialogue: 0,0:08:24.53,0:08:27.32,Main,Amethio,0,0,0,,Our target is simply that 
 Dialogue: 0,0:08:27.90,0:08:29.74,Main,Amethio,0,0,0,,I’ll get it next time.
 Dialogue: 0,0:08:30.24,0:08:31.32,Main,Amethio,0,0,0,,And...
 Dialogue: 0,0:08:34.83,0:08:35.58,Main,Amethio,0,0,0,,It’s me.
-Dialogue: 0,0:08:35.58,0:08:39.33,Main,Zir,0,0,0,,Amethio, sir. \N I’ve spotted their airship.
+Dialogue: 0,0:08:35.58,0:08:39.33,Main,Zir,0,0,0,,Amethio, sir. \N I’ve spotted their airship.{Honorifics note: Amethio-sama}
 Dialogue: 0,0:08:39.33,0:08:42.42,Main,Amethio,0,0,0,,So, they really did follow us. \N What of the target and Friede?
 Dialogue: 0,0:08:42.42,0:08:45.50,Main,Zir,0,0,0,,Well... They split up \N and headed off somewhere...
 Dialogue: 0,0:08:45.50,0:08:46.63,Main,Amethio,0,0,0,,Continue to monitor.
@@ -188,7 +189,7 @@ Dialogue: 0,0:10:28.94,0:10:29.69,Main,Friede,0,0,0,,Hey!
 Dialogue: 0,0:10:31.69,0:10:33.20,Main,Liko,0,0,0,,Are you okay?
 Dialogue: 0,0:10:33.20,0:10:35.74,Main,Murdock,0,0,0,,I’ll handle this! You follow her!
 Dialogue: 0,0:10:35.74,0:10:36.70,Main,Friede,0,0,0,,Hey, Liko!
-Dialogue: 0,0:10:36.70,0:10:40.12,Main,Conia,0,0,0,,Amethio, sir! \N I found the target and Friede!
+Dialogue: 0,0:10:36.70,0:10:40.12,Main,Conia,0,0,0,,Amethio, sir! \N I found the target and Friede!{Honorifics note: Amethio-sama}
 Dialogue: 0,0:10:40.12,0:10:41.58,Main,Conia,0,0,0,,Or rather, {\i1}they{\i0} found {\i1}me!{\i0}
 Dialogue: 0,0:10:42.08,0:10:43.33,Main,Amethio,0,0,0,,Just as well.
 Dialogue: 0,0:10:43.33,0:10:43.96,Main,Conia,0,0,0,,Huh?
@@ -286,7 +287,7 @@ Dialogue: 0,0:16:26.13,0:16:28.55,Main,Friede,0,0,0,,You sure about that?
 Dialogue: 0,0:16:30.97,0:16:31.97,Main,Amethio,0,0,0,,What—?!
 Dialogue: 0,0:16:33.89,0:16:35.22,Main,Amethio,0,0,0,,Of course...
 Dialogue: 0,0:16:35.22,0:16:37.94,Main,Amethio,0,0,0,,You were just stalling \N so she could escape!
-Dialogue: 0,0:16:37.94,0:16:40.31,Main,Amethio,0,0,0,,Friede! That was your plan \N all along, wasn’t it?! {This plan was YOURS, wasn’t it!}
+Dialogue: 0,0:16:37.94,0:16:40.31,Main,Amethio,0,0,0,,Friede! That was your plan \N all along, wasn’t it?!
 Dialogue: 0,0:16:41.56,0:16:44.86,Main,Friede,0,0,0,,I just gave her a little advice, that’s all.
 Dialogue: 0,0:16:49.28,0:16:51.03,Main,Friede,0,0,0,,Let’s do this again sometime!
 Dialogue: 0,0:17:04.75,0:17:07.42,Main,Liko,0,0,0,,So... We went on an adventure...
@@ -340,7 +341,7 @@ Dialogue: 0,0:20:00.10,0:20:02.64,Main,Molly,0,0,0,,Nice to meet you \N properly
 Dialogue: 0,0:20:02.64,0:20:05.48,Main,Liko,0,0,0,,Pleased to meet you, \N everyone!
 Dialogue: 0,0:20:06.60,0:20:10.69,Main,Friede,0,0,0,,All right then, set sail for Liko’s house \N in the Paldea Region!
 Dialogue: 0,0:20:10.69,0:20:12.19,Main,Friede,0,0,0,,Keep ‘er steady!
-Dialogue: 0,0:20:13.36,0:20:17.07,Main,Friede,0,0,0,,Let’s go collect our bodyguard fees \N from our client— Liko’s mom. {can kill “our client—” if desired. Couldn’t think of a way to smoothly slide in  the word client elsewise}
+Dialogue: 0,0:20:13.36,0:20:17.07,Main,Friede,0,0,0,,Let’s go collect our bodyguard fees \N from our client, Liko’s mom.
 Dialogue: 0,0:20:17.07,0:20:20.70,Main,Orio,0,0,0,,Way to ruin the mood... \N Couldn’t you come up with {\i1}anything{\i0} else?
 Dialogue: 0,0:20:20.70,0:20:23.62,Main,Friede,0,0,0,,We can’t go adventuring \N without any money.
 Dialogue: 0,0:20:23.62,0:20:25.45,Main,Liko,0,0,0,,That’s some honesty...
@@ -351,11 +352,11 @@ Dialogue: 0,0:20:40.09,0:20:43.35,Main,Anne,0,0,0,,I’ll miss you, but if we ca
 Dialogue: 0,0:20:43.35,0:20:46.48,Main,Anne,0,0,0,,I hope you find what you wanna do!
 Dialogue: 0,0:20:48.44,0:20:53.11,Main,Liko,0,0,0,,I bet I {\i1}will{\i0} find it. \N Because I’m with Nyahoja!
 Dialogue: 0,0:21:04.95,0:21:05.95,Main,Roy,0,0,0,,Morning, Gramps!
-Dialogue: 0,0:21:05.95,0:21:08.58,Main,OLD MAN,0,0,0,,Morning, Roy. \N You’re up early today.
+Dialogue: 0,0:21:05.95,0:21:08.58,Main,Roygrandpa,0,0,0,,Morning, Roy. \N You’re up early today.
 Dialogue: 0,0:21:08.58,0:21:09.46,Main,Roy,0,0,0,,Yeah!
 Dialogue: 0,0:21:09.46,0:21:12.17,Main,Roy,0,0,0,,‘Cause there was a storm last night!
 Dialogue: 0,0:21:27.47,0:21:29.77,Main,Roy,0,0,0,,All right! I got it!
-Dialogue: 0,0:21:39.99,0:21:43.87,Main,Roy,0,120,0,,After a storm... \N comes treasure!
+Dialogue: 0,0:21:39.99,0:21:43.87,Main,Roy,0,120,0,,Where storms go... \N treasures follow!
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:15.46,0:23:15.46,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar}
 Dialogue: 0,0:23:15.92,0:23:16.96,Main,Friede,0,0,0,,Friede here.
@@ -365,13 +366,13 @@ Dialogue: 0,0:23:25.09,0:23:29.01,Main,Friede,0,0,0,,When looking at a Pikachu, 
 Dialogue: 0,0:23:29.01,0:23:31.60,Main,Friede,0,0,0,,It stores a certain thing in them,
 Dialogue: 0,0:23:31.60,0:23:34.39,Main,Friede,0,0,0,,but do you know what that thing is?
 Dialogue: 0,0:23:34.39,0:23:36.48,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.31,0:23:41.48,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
+Dialogue: 0,0:23:39.31,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.40,0:23:45.32,Main,Friede,0,0,220,,The answer is A: Electricity.
 Dialogue: 0,0:23:45.32,0:23:50.70,Main,Friede,0,0,220,,Its red cheeks are called “electric sacs,” \N and they hold lots of electricity.
 Dialogue: 0,0:23:50.70,0:23:54.16,Main,Friede,0,0,220,,They’re the reason it can unleash \N strong electric attacks!
 Dialogue: 0,0:23:55.21,0:23:59.25,Main,Friede,0,0,0,,Whether it’s a Pikachu or a Smartphone Rotom, \N make sure it doesn’t run out of juice.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.46,0:24:04.17,Main,Gurumin,0,0,0,,Yo-ssu-mash hit \N huge preview time!
+Dialogue: 0,0:24:01.46,0:24:04.17,Main,Gurumin,0,0,0,,Yo-ssu! Huge preview time \N with a bang!
 Dialogue: 0,0:24:04.17,0:24:08.68,Main,Gurumin,0,0,0,,The time for Liko and Nyahoja to set off with \N the Rising Voltteccers has finally arrived!
 Dialogue: 0,0:24:08.68,0:24:12.22,Main,Gurumin,0,0,0,,Go, Brave Asagi! \N Soar into the heavens!
 Dialogue: 0,0:24:12.68,0:24:16.98,Main,Gurumin,0,0,0,,Or so I hoped, but something’s \N gone wrong with the airship!
@@ -3601,56 +3602,56 @@ Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 0,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&H918FED&\shad2}A: Electricity
 Dialogue: 1,0:23:41.48,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.3\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: Electricity
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I’m With Nyahoja, I Bet
-Dialogue: 1,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,700)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I’m With Nyahoja, I Bet
-Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet
-Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}If I’m With Nyahoja, I Bet
-Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}If I’m With Nyahoja, I Bet
-Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}If I’m With Nyahoja, I Bet
-Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{=17}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}If I’m With Nyahoja, I Bet
+Dialogue: 0,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 1,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,700)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet...
+Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}If I’m With Nyahoja, I Bet...
+Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}If I’m With Nyahoja, I Bet...
+Comment: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}If I’m With Nyahoja, I Bet...
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
+Dialogue: 2,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{=17}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}If I’m With Nyahoja, I Be{\fsp5}t...{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:25.57,Episode titles,,0,0,0,,{=18}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
 Dialogue: 1,0:24:00.50,0:24:25.57,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode

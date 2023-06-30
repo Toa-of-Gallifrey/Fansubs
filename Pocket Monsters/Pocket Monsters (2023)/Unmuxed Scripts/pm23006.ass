@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,8 +60,8 @@ Dialogue: 0,0:03:27.77,0:03:28.60,Main,Liko,0,0,0,,This can’t be...
 Dialogue: 0,0:03:28.60,0:03:29.56,Main,Roy,0,0,0,,You’ve gotta be kidding!
 Dialogue: 0,0:03:30.73,0:03:32.48,Main,Liko,0,0,0,,Let’s go, Nyahoja!
 Dialogue: 0,0:03:33.40,0:03:35.61,Main,Roy,0,0,0,,Right! Hogator, us too!
-Dialogue: 0,0:03:37.36,0:03:38.36,Main,Liko,0,0,0,,Leafage!
-Dialogue: 0,0:03:37.36,0:03:38.36,Main,Roy,0,0,0,,{\an8}Ember!
+Dialogue: 0,0:03:37.36,0:03:38.36,Main,Liko,0,0,0,,{\an8}Leafage!
+Dialogue: 0,0:03:37.36,0:03:38.36,Main,Roy,0,0,0,,Ember!
 Dialogue: 0,0:03:41.53,0:03:42.70,Main,Amethio,0,0,0,,Psycho Cutter!
 Dialogue: 0,0:03:47.21,0:03:48.00,Main,Liko,0,0,0,,Nyahoja!
 Dialogue: 0,0:03:48.00,0:03:49.04,Main,Roy,0,0,0,,Hogator!
@@ -120,7 +120,7 @@ Dialogue: 0,0:07:33.81,0:07:35.31,Main,Liko,0,0,0,,What a relief.
 Dialogue: 0,0:07:36.81,0:07:38.65,Main,Liko,0,0,0,,Hey, Roy...?
 Dialogue: 0,0:07:41.15,0:07:43.23,Main,Roy,0,0,0,,It left!
 Dialogue: 0,0:08:00.96,0:08:03.92,Main,Murdock,0,0,0,,Iwanko, you’ll evolve into Yadoran!
-Dialogue: 0,0:08:03.92,0:08:05.97,Main,Orio,0,0,0,,No it won’t!{DREADED "IT" PRONOUN: Iwanko. alt: There's no way!/Like that'd happen!}
+Dialogue: 0,0:08:03.92,0:08:05.97,Main,Orio,0,0,0,,That’s not how it works!
 Dialogue: 0,0:08:07.05,0:08:08.51,Main,Murdock,0,0,0,,Done with the inspection?
 Dialogue: 0,0:08:08.51,0:08:11.64,Main,Orio,0,0,0,,More or less. \N I thought she was done for this time.
 Dialogue: 0,0:08:11.64,0:08:13.47,Main,Orio,0,0,0,,I’m glad she made it.
@@ -145,8 +145,8 @@ Dialogue: 0,0:09:16.16,0:09:20.29,Main,Roy,0,0,0,,I told you that already! \N I 
 Dialogue: 0,0:09:20.29,0:09:22.42,Main,Friede,0,0,0,,Yeah, I believe you.
 Dialogue: 0,0:09:22.42,0:09:24.04,Main,OLD MAN,0,0,0,,Hmm...
 Dialogue: 0,0:09:24.04,0:09:25.96,Main,OLD MAN,0,0,0,,The black Rekkuuza.
-Dialogue: 0,0:09:25.96,0:09:30.76,Main,OLD MAN,0,0,0,,The Legendary Pokémon \N that once obeyed the ancient adventurer.
-Dialogue: 0,0:09:30.76,0:09:32.68,Main,Liko,0,0,0,,The ancient adventurer...
+Dialogue: 0,0:09:25.96,0:09:30.76,Main,OLD MAN,0,0,0,,The Legendary Pokémon \N that once obeyed the Ancient Adventurer.
+Dialogue: 0,0:09:30.76,0:09:32.68,Main,Liko,0,0,0,,The Ancient Adventurer...
 Dialogue: 0,0:09:32.68,0:09:37.43,Main,Friede,0,0,0,,Why would a Pokémon tied to someone \N so renowned pop out of Roy's ball?
 Dialogue: 0,0:09:37.43,0:09:39.39,Main,OLD MAN,0,0,0,,The truth is...
 Dialogue: 0,0:09:41.94,0:09:43.02,Main,OLD MAN,0,0,0,,...I got no clue!
@@ -156,7 +156,7 @@ Dialogue: 0,0:09:51.61,0:09:54.03,Main,OLD MAN,0,0,0,,Roy wanted it, so I gave i
 Dialogue: 0,0:09:54.03,0:09:58.12,Main,OLD MAN,0,0,0,,...but I never could’ve imagined \N a Pokémon was inside.
 Dialogue: 0,0:09:58.12,0:10:00.45,Main,OLD MAN,0,0,0,,So you really don’t know {\i1}anything...{\i0}
 Dialogue: 0,0:10:00.87,0:10:03.96,Main,Roy,0,0,0,,But the black Rekkuuza was inside...
-Dialogue: 0,0:10:03.96,0:10:07.96,Main,Roy,0,0,0,,This ball really {\i1}did{\i0} belong \N to the ancient adventurer!
+Dialogue: 0,0:10:03.96,0:10:07.96,Main,Roy,0,0,0,,This ball really {\i1}did{\i0} belong \N to the Ancient Adventurer!
 Dialogue: 0,0:10:07.96,0:10:11.22,Main,OLD MAN,0,0,0,,And I thought it was all \N just a fairy tale...
 Dialogue: 0,0:10:11.22,0:10:13.22,Main,Roy,0,0,0,,Awesome!
 Dialogue: 0,0:10:13.22,0:10:15.22,Main,Roy,0,0,0,,{\i1}Awesome!{\i0}
@@ -236,10 +236,10 @@ Dialogue: 0,0:15:15.89,0:15:19.65,Main,Roy,0,0,0,,Gramps, I’m a Pokémon Train
 Dialogue: 0,0:15:21.36,0:15:24.19,Main,OLD MAN,0,0,0,,So you chose that one after all.
 Dialogue: 0,0:15:24.19,0:15:25.28,Main,Roy,0,0,0,,Yeah!
 Dialogue: 0,0:15:26.24,0:15:28.12,Main,Roy,0,0,0,,And so, Gramps...
-Dialogue: 0,0:15:28.82,0:15:32.83,Main,Roy,0,0,0,,I want to join the Rising Voltteccers \N and go on adventures!{I want to head off on adventures with the Rising Voltteccers!}
+Dialogue: 0,0:15:28.82,0:15:32.83,Main,Roy,0,0,0,,I want to join the Rising Voltteccers \N and go on adventures!
 Dialogue: 0,0:15:32.83,0:15:34.96,Main,OLD MAN,0,0,0,,Come again?
 Dialogue: 0,0:15:35.41,0:15:38.33,Main,Roy,0,0,0,,With Pokémon by my side, \N I’ll do just fine!
-Dialogue: 0,0:15:38.33,0:15:42.25,Main,Roy,0,0,0,,I always believed \N the ancient adventurer was real.
+Dialogue: 0,0:15:38.33,0:15:42.25,Main,Roy,0,0,0,,I always believed \N the Ancient Adventurer was real.
 Dialogue: 0,0:15:42.25,0:15:46.76,Main,Roy,0,0,0,,I dreamed of leaving the island someday \N and finding Legendary Pokémon.
 Dialogue: 0,0:15:46.76,0:15:49.97,Main,Roy,0,0,0,,I wanna chase after that Rekkuuza and catch it!
 Dialogue: 0,0:15:49.97,0:15:51.85,Main,Roy,0,0,0,,So I wanna set off on a journey!
@@ -259,7 +259,7 @@ Dialogue: 0,0:16:31.30,0:16:34.81,Main,OLD MAN,0,0,0,,Work together and try your
 Dialogue: 0,0:16:36.14,0:16:39.02,Main,Roy,0,0,0,,Yeah! We’re doing this, Hogator!
 Dialogue: 0,0:16:41.23,0:16:43.82,Main,OLD MAN,0,0,0,,Everything you need for adventure is here.
 Dialogue: 0,0:16:43.82,0:16:45.82,Main,Roy,0,0,0,,Gramps, how come...?
-Dialogue: 0,0:16:45.82,0:16:49.36,Main,OLD MAN,0,0,0,,I could always tell how you felt.{I’ve always been able to tell how you feel.}
+Dialogue: 0,0:16:45.82,0:16:49.36,Main,OLD MAN,0,0,0,,I could always tell how you felt.
 Dialogue: 0,0:16:49.36,0:16:52.07,Main,OLD MAN,0,0,0,,Go enjoy yourself, \N and don’t worry about me!
 Dialogue: 0,0:16:53.45,0:16:55.49,Main,Roy,0,0,0,,Thank you, Gramps.
 Dialogue: 0,0:16:55.49,0:16:57.33,Main,Friede,0,0,0,,You must be glad, Roy.
@@ -309,7 +309,7 @@ Dialogue: 0,0:19:29.69,0:19:31.69,Main,Friede,0,0,0,,Ah! Our flag!
 Dialogue: 0,0:19:32.07,0:19:34.15,Main,Friede,0,0,0,,You found this?
 Dialogue: 0,0:19:35.20,0:19:37.86,Main,Roy,0,0,0,,I found it on the beach \N after the storm.
 Dialogue: 0,0:19:37.86,0:19:42.87,Main,Friede,0,0,0,,Incredible! So this flag \N brought Hogator and Roy together!
-Dialogue: 0,0:19:44.50,0:19:48.25,Main,Roy,0,0,0,,Treasure always turns up after a storm...{003 modified}
+Dialogue: 0,0:19:44.50,0:19:48.25,Main,Roy,0,0,0,,Where storms go, \N treasures always follow...{003 modified}
 Dialogue: 0,0:19:48.25,0:19:50.46,Main,Roy,0,0,0,,Of course! It was you!
 Dialogue: 0,0:19:50.46,0:19:52.84,Main,Roy,0,0,0,,{\i1}You{\i0} were the greatest treasure!{I see! The real treasure was the Hogator we met along the way!}
 Dialogue: 0,0:19:54.21,0:19:55.47,Main,Friede,0,0,0,,Roy!
@@ -334,7 +334,7 @@ Dialogue: 0,0:21:12.25,0:21:13.59,Main,Liko,0,0,0,,Yeah!
 Dialogue: 0,0:21:17.84,0:21:22.97,Main,Liko,0,0,0,,And so, the Rising Voltteccers \N gained a new member.
 Dialogue: 0,0:21:22.97,0:21:29.31,Main,Liko,0,0,0,,My grandmother’s pendant brought me— \N brought {\i1}all of us{\i0} here.
 Dialogue: 0,0:21:29.31,0:21:30.98,Main,Liko,0,0,0,,I couldn’t help but think so.
-Dialogue: 0,0:21:31.73,0:21:37.61,Main,Liko,0,0,0,,The ancient adventurer, \N the black Rekkuuza, and the pendant...
+Dialogue: 0,0:21:31.73,0:21:37.61,Main,Liko,0,0,0,,The Ancient Adventurer, \N the black Rekkuuza, and the pendant...
 Dialogue: 0,0:21:37.61,0:21:40.11,Main,Liko,0,0,0,,There’s so much \N I want to learn about.
 Dialogue: 0,0:21:40.11,0:21:42.66,Main,Liko,0,0,0,,I wonder how far \N we can go!
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Ending}
@@ -344,9 +344,9 @@ Dialogue: 0,0:23:17.25,0:23:19.25,Main,Friede,0,0,0,,It’s time for my Pokémon
 Dialogue: 0,0:23:20.71,0:23:24.47,Main,Friede,0,0,0,,Today, let’s take a look at \N the Fire Swordsman Pokémon, Soublades.
 Dialogue: 0,0:23:24.97,0:23:28.22,Main,Friede,0,0,0,,Its distinguishing features \N are clearly the blades on its arms.
 Dialogue: 0,0:23:28.22,0:23:31.85,Main,Friede,0,0,0,,If you are cut by its blades, \N a certain thing is said to leak out,
-Dialogue: 0,0:23:31.85,0:23:34.43,Main,Friede,0,0,0,,but do you know what that thing is?{What leaks out of cuts from its blades? Water / Nutrients / Life energy}
+Dialogue: 0,0:23:31.85,0:23:34.43,Main,Friede,0,0,0,,but do you know what that thing is?
 Dialogue: 0,0:23:34.43,0:23:36.56,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.44,0:23:41.48,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
+Dialogue: 0,0:23:39.44,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.07,0:23:45.07,Main,Friede,0,0,220,,The answer is C: Life energy.
 Dialogue: 0,0:23:45.07,0:23:49.66,Main,Friede,0,0,220,,Soublades’ blades \N contain Fire/Ghost energy.
 Dialogue: 0,0:23:49.66,0:23:53.83,Main,Friede,0,0,220,,If you’re cut by its blades, \N your life energy will leak out.

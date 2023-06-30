@@ -212,14 +212,14 @@ Dialogue: 0,0:13:41.13,0:13:43.68,Main,Liko,0,0,0,,Wh-What happened?!
 Dialogue: 0,0:13:43.68,0:13:46.64,Main,Roy,0,0,0,,Th-Th-This! But why?!
 Dialogue: 0,0:13:46.64,0:13:49.64,Main,Liko,0,0,0,,Why? What is it?
 Dialogue: 0,0:13:49.64,0:13:52.56,Main,Roy,0,0,0,,This! This is it!
-Dialogue: 0,0:13:52.56,0:13:55.81,Main,Roy,0,0,0,,The story I know \N about the ancient adventurer!
+Dialogue: 0,0:13:52.56,0:13:55.81,Main,Roy,0,0,0,,The story I know \N about the Ancient Adventurer!
 Dialogue: 0,0:13:55.81,0:13:57.19,Main,Liko,0,0,0,,Huh?!
 Dialogue: 0,0:14:00.19,0:14:04.57,Main,Lucca,0,0,0,,Still, you don’t really {\i1}look{\i0} \N like a Pokémon professor.
 Dialogue: 0,0:14:04.57,0:14:07.20,Main,Friede,0,0,0,,I don’t mind. \N I feel better like this.
 Dialogue: 0,0:14:07.79,0:14:12.96,Main,Lucca,0,0,0,,I see. Did you learn anything about \N that Monster Ball you were looking into?
 Dialogue: 0,0:14:12.96,0:14:18.13,Main,Friede,0,0,0,,The materials and condition \N lead me to believe it’s pretty old...
 Dialogue: 0,0:14:18.13,0:14:19.09,Main,Lucca,0,0,0,,Yes.
-Dialogue: 0,0:14:19.76,0:14:24.55,Main,Lucca,0,0,0,,It belonged to \N the ancient adventurer Lucius,
+Dialogue: 0,0:14:19.76,0:14:24.55,Main,Lucca,0,0,0,,It belonged to \N the Ancient Adventurer Lucius,
 Dialogue: 0,0:14:24.55,0:14:28.51,Main,Lucca,0,0,0,,who made his way to paradise \N with the Six Heroes a century ago.
 Dialogue: 0,0:14:29.68,0:14:33.35,Main,Roy,0,0,0,,When I was young, \N Gramps used to read me this book!
 Dialogue: 0,0:14:33.35,0:14:36.56,Main,Roy,0,0,0,,I remember this cover. \N This is totally it!
@@ -238,7 +238,7 @@ Dialogue: 0,0:15:29.24,0:15:33.62,Main,Liko,0,0,0,,“The adventurer, his black 
 Dialogue: 0,0:15:33.62,0:15:37.88,Main,Liko,0,0,0,,“...went on to live \N happily ever after in this paradise.
 Dialogue: 0,0:15:39.29,0:15:42.80,Main,Liko,0,0,0,,“Praising his courage \N and his endless curiosity,
 Dialogue: 0,0:15:42.80,0:15:46.26,Main,Liko,0,0,0,,“he would come to be known as...
-Dialogue: 0,0:15:47.05,0:15:49.18,Main,Liko,0,0,0,,“...the ancient adventurer.”
+Dialogue: 0,0:15:47.05,0:15:49.18,Main,Liko,0,0,0,,“...the Ancient Adventurer.”
 Dialogue: 0,0:15:52.93,0:15:55.68,Main,Roy,0,0,0,,It’s true! That’s your dad!
 Dialogue: 0,0:15:55.68,0:15:58.81,Main,Liko,0,0,0,,I never imagined \N you’d have read this...
 Dialogue: 0,0:15:58.81,0:16:01.77,Main,Liko,0,0,0,,Hey, is that black Rekkuuza...

@@ -11,7 +11,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:02.02,0:00:03.86,Main,Liko,0,0,0,,My name is Liko.
 Dialogue: 0,0:00:03.86,0:00:06.82,Main,Liko,0,0,0,,My adventure with Nyahoja \N has finally begun.
 Dialogue: 0,0:00:06.82,0:00:09.20,Main,Liko,0,0,0,,What kind of world \N is waiting for me?
@@ -92,7 +93,7 @@ Dialogue: 0,0:06:36.67,0:06:40.13,Main,Molly,0,0,0,,Hogator... \N Did you check 
 Dialogue: 0,0:06:40.13,0:06:43.76,Main,Molly,0,0,0,,Normally, it’d be up there \N waiting for Lizardon to come back.{DREADED “IT” PRONOUN: Hogator}
 Dialogue: 0,0:06:43.76,0:06:44.97,Main,Liko,0,0,0,,Lizardon?
 Dialogue: 0,0:06:44.97,0:06:47.43,Main,Molly,0,0,0,,Yeah. It looks up to it.{DREADED “IT” PRONOUN: Hogator}{DREADED “IT” PRONOUN: Lizardon}
-Dialogue: 0,0:06:47.43,0:06:49.22,Main,Molly,0,0,0,,Okay, you’ve got \N a clean bill of health. {DREADED “IT” PRONOUN: Nyahoja (Or is it...?)}
+Dialogue: 0,0:06:47.43,0:06:49.22,Main,Molly,0,0,0,,Okay, you’ve got \N a clean bill of health.
 Dialogue: 0,0:06:50.22,0:06:51.81,Main,Liko,0,0,0,,Oh, that’s right...
 Dialogue: 0,0:06:53.85,0:06:58.86,Main,Molly,0,0,0,,It might’ve even settled down here \N just to be with Lizardon.{DREADED “IT” PRONOUN: Hogator}
 Dialogue: 0,0:07:01.65,0:07:03.32,Main,Liko,0,0,0,,Not here either...
@@ -139,7 +140,7 @@ Dialogue: 0,0:09:54.12,0:09:55.53,Main,Liko,0,0,0,,Huh?! What is this?!
 Dialogue: 0,0:09:55.53,0:09:57.41,Main,Liko,0,0,0,,Why is this happening?! \N What’s going on?!
 Dialogue: 0,0:09:58.70,0:10:01.00,Main,Roy,0,0,0,,{DEAFENING SILENCE}All done!
 Dialogue: 0,0:10:02.41,0:10:03.71,Main,Roy,0,0,0,,Gurumin time!
-Dialogue: 0,0:10:03.71,0:10:06.67,Main,Gurumin,0,0,0,,Yo-ssu! All you \N Pokémon Trainers out there!
+Dialogue: 0,0:10:03.71,0:10:06.67,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
 Dialogue: 0,0:10:06.67,0:10:09.17,Main,Gurumin,0,0,0,,Thanks for watching-ssu!
 Dialogue: 0,0:10:09.17,0:10:10.88,Main,Gurumin,0,0,0,,Today, the most basic of basics.
 Dialogue: 0,0:10:10.88,0:10:15.68,Main,Gurumin,0,0,0,,Wild Pokémon can be caught \N in Monster Balls!
@@ -214,11 +215,11 @@ Dialogue: 0,0:15:25.24,0:15:26.28,Main,Liko,0,0,0,,Who are you?
 Dialogue: 0,0:15:26.28,0:15:27.45,Main,Roy,0,0,0,,We can talk later!
 Dialogue: 0,0:15:27.45,0:15:28.45,Main,Liko,0,0,0,,Huh? Wait!
 Dialogue: 0,0:15:34.58,0:15:38.92,Main,Liko,0,0,0,,He saved me, but...{002} \N What is this twist?!
-Dialogue: 0,0:15:38.92,0:15:41.17,Main,Liko,0,0,0,,And who {\i1}is{\i0} he, for that matter?!{reminiscent of 002}
+Dialogue: 0,0:15:38.92,0:15:41.17,Main,Liko,0,0,0,,And who {\i1}is{\i0} he, \N for that matter?!{reminiscent of 002}
 Dialogue: 0,0:15:42.75,0:15:44.30,Main,Friede,0,0,0,,Hmm...
 Dialogue: 0,0:15:45.72,0:15:46.63,Main,Friede,0,0,0,,This way!
 Dialogue: 0,0:15:48.43,0:15:50.80,Main,Liko,0,0,0,,Thank you... for saving me...
-Dialogue: 0,0:15:50.80,0:15:54.18,Main,Roy,0,0,0,,I get it now, it’s an airship! \N And you flew here on it!
+Dialogue: 0,0:15:50.80,0:15:54.18,Main,Roy,0,0,0,,I get it now! It’s an airship! \N And you flew here on it!
 Dialogue: 0,0:15:54.18,0:15:55.31,Main,Roy,0,0,0,,That’s amazing!
 Dialogue: 0,0:15:56.44,0:15:59.98,Main,Liko,0,0,0,,Oh! My name is Liko, \N and this is Nyahoja.
 Dialogue: 0,0:16:01.36,0:16:02.73,Main,Roy,0,0,0,,I’m Roy.
@@ -239,8 +240,8 @@ Dialogue: 0,0:16:32.55,0:16:37.14,Main,Roy,0,0,0,,Well, thing is... Gramps found
 Dialogue: 0,0:16:37.14,0:16:40.10,Main,Roy,0,0,0,,and it won’t open, \N so it’s probably empty.
 Dialogue: 0,0:16:40.10,0:16:43.19,Main,Roy,0,0,0,,Being a trainer is my dream!
 Dialogue: 0,0:16:43.19,0:16:45.19,Main,Roy,0,0,0,,And not just any trainer...
-Dialogue: 0,0:16:45.19,0:16:50.95,Main,Roy,0,0,0,,A trainer like the ancient adventurer \N my gramps used to tell me about when I was little!
-Dialogue: 0,0:16:52.16,0:16:55.58,Main,Liko,0,0,0,,The ancient adventurer... \N What were they like?
+Dialogue: 0,0:16:45.19,0:16:50.95,Main,Roy,0,0,0,,A trainer like the Ancient Adventurer \N my gramps used to tell me about when I was little!
+Dialogue: 0,0:16:52.16,0:16:55.58,Main,Liko,0,0,0,,The Ancient Adventurer... \N What were they like?
 Dialogue: 0,0:16:55.99,0:17:00.71,Main,Roy,0,0,0,,They faced Legendary Pokémon{plural}, \N traveled the world,
 Dialogue: 0,0:17:00.71,0:17:04.92,Main,Roy,0,0,0,,and looked for Pokémon and treasure \N in places nobody’d ever been before.
 Dialogue: 0,0:17:04.92,0:17:06.80,Main,Roy,0,0,0,,That’s what they were like, I guess.
@@ -311,7 +312,7 @@ Dialogue: 0,0:23:25.01,0:23:29.64,Main,Friede,0,0,0,,These tufts on its head may
 Dialogue: 0,0:23:29.64,0:23:32.68,Main,Friede,0,0,0,,You can tell a certain thing \N about it by those flames,
 Dialogue: 0,0:23:32.68,0:23:34.81,Main,Friede,0,0,0,,but do you know what that thing is?
 Dialogue: 0,0:23:34.81,0:23:36.85,Main,Friede,0,0,0,,See the answer after the commercials!
-Dialogue: 0,0:23:39.36,0:23:41.48,Main,Friede,0,0,0,,Now, let’s announce \N the correct answer.
+Dialogue: 0,0:23:39.36,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.36,0:23:44.95,Main,Friede,0,0,220,,The answer is: all of them!
 Dialogue: 0,0:23:44.95,0:23:49.37,Main,Friede,0,0,220,,Hogator tends to show its feelings \N through the flame tufts on its head.
 Dialogue: 0,0:23:49.37,0:23:52.95,Main,Friede,0,0,220,,When it gets excited, \N the flames grow larger, too.
@@ -325,7 +326,7 @@ Dialogue: 0,0:24:10.55,0:24:14.77,Main,Gurumin,0,0,0,,The boy she met on the isl
 Dialogue: 0,0:24:14.77,0:24:17.39,Main,Gurumin,0,0,0,,Looks like he’s got troubles of his own... \N We can’t abandon him!
 Dialogue: 0,0:24:17.39,0:24:20.06,Main,Gurumin,0,0,0,,But! I know now’s \N not the time for that!
 Dialogue: 0,0:24:20.06,0:24:21.69,Main,Gurumin,0,0,0,,{\i1}Those{\i0} guys turned up!
-Dialogue: 0,0:24:21.69,0:24:24.07,Main,Gurumin,0,0,0,,It’s big trouble! \N {\i1}Dreadnought-class!{\i0}{unsure on last word, choudokyuu? Seems like choudokyuu can be applied to submarines, at least}{edited with the assumption it’s a play off submarines/ships... - Ed}
+Dialogue: 0,0:24:21.69,0:24:24.07,Main,Gurumin,0,0,0,,It’s big trouble! \N {\i1}Dreadnought-class!{\i0}
 Dialogue: 0,0:24:24.07,0:24:26.95,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
 Dialogue: 0,0:24:26.95,0:24:28.86,Main,Gurumin,0,0,0,,I Found You, Hogator
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
