@@ -1011,8 +1011,8 @@ POKÉMON NAMES
 0681 ギルガルド Gilgard
 0682 シュシュプ
 0683 フレフワン
-0684 ペロッパフ
-0685 ペロリーム
+0684 ペロッパフ Peropuff
+0685 ペロリーム Peroream
 0686 マーイーカ Maaiika
 0687 カラマネロ Calamanero - ぎゃくてんポケモン Turnaround Pokémon
 0688 カメテテ Kametete
@@ -1223,119 +1223,131 @@ POKÉMON NAMES
 0893 ザルード Zarude
 0894 レジエレキ Regieleki
 0895 レジドラゴ Regidrago
-
-
-
-
-
-
-
-
-
-
+0896 ブリザポス 
+0897 レイスポス 
+0898 バドレックス 
+0899 アヤシシ 
+0900 バサギリ 
+0901 ガチグマ 
+0902 イダイトウ 
+0903 オオニューラ 
+0904 ハリーマン 
+0905 ラブトロス 
 0906 ニャオハ Nyahoja
-
-
+0907 
+0908 
 0909 ホゲータ Hogator
-
-
+0910 
+0911 
 0912 クワッス Kuwassu
-
-
-
-
-
-
-
-
+0913 
+0914 
+0915 
+0916 
+0917 
+0918 
+0919 
+0920 
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
-
-
-
-
+0922 
+0923 
+0924 
+0925 
 0926 パピモッチ Puppymocchi
-
+0927 
 0928 ミニーブ Minive
 0929 オリーニョ Oliño
 0930 オリーヴァ Oliva
 0931 イキリンコ Ikirinko
-
-
-
-
-
+0932 
+0933 
+0934 
+0935 
+0936 
 0937 ソウブレイズ Soublades
-
-
+0938 
+0939 
 0940 カイデン Kaiden
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+0941 
+0942 
+0943 
+0944 
+0945 
+0946 
+0947 
+0948 
+0949 
+0950 
+0951 
+0952 
+0953 
+0954 
+0955 
+0956 
+0957 
+0958 
+0959 
+0960 
+0961 
+0962 
+0963 
+0964 
+0965 
+0966 
+0967 
+0968 
+0969 
+0970 
+0971 
+0972 
+0973 
+0974 
+0975 
+0976 
+0977 
+0978 
+0979 
+0980 
+0981 
+0982 
+0983 
+0984 
+0985 
+0986 
+0987 
+0988 
+0989 
+0990 
+0991 
+0992 
+0993 
+0994 
+0995 
+0996 
+0997 
+0998 
+0999 
+1000 
+1001 
+1002 
+1003 
+1004 
+1005 
+1006 
 1007 コライドン Koraidon
 1008 ミライドン Miraidon
+
+
+
+FORMS
+
+rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
+sumaho rotom スマホロトム (Rotom Phone) - Smartphone Rotom
+hiito rotom ヒートロトム (Heat Rotom) - Heat Rotom
+wosshu rotom ウォッシュロトム (Wash Rotom) - Wash Rotom
+furosuto rotom フロストロトム (Frost Rotom) - Frost Rotom
+supin rotom スピンロトム (Fan Rotom) - Spin Rotom
+katto rotom カットロトム (Mow Rotom) - Cut Rotom
 
 
 
@@ -1360,15 +1372,16 @@ Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
 
 Friede's Pikachu - Male (gender design difference)
 
+Murdock's Mawhip - Female (monogender species)
 
 
-MISC TERMINOLOGY & STYLISTIC GUIDELINES
+
+MISC
 
 monsutaa booru モンスターボール (Poké Ball) - Monster Ball
 pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
 roketto-dan ロケット団 (Team Rocket) - Team Rocket
 hadou 波導 (Aura) - Guiding Waves
-rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
 tou-chan とうちゃん (Dada) - Dada
 
 ゲーチス G-Cis
@@ -1388,8 +1401,22 @@ Musashi: The Team Rocket duo \N soars through the galaxy!
 Kojiro: Like a white hole, \N a white tomorrow awaits us!
 Nyarth: Just kidding, meow!
 
-"Type" is hyphenated if, and only if, it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
-Use commas when writing out numbers with four or more digits a la the move 100,000 Volts.
-"Goodbye," not "Good bye."
-The words "sir" and "ma'am" should be lower-case unless they're part of a title, or part of the address at the start of a letter.
+
+
+STYLISTIC GUIDELINES FOR OUR PROJECTS
+
+"Type" is only hyphenated if it's followed by a noun. So, "Pikachu is an Electric type. His Lightning Speed is a Normal-type move. This move is not very effective against Rock-type Pokémon."
+The word "region" is lower-case when used on its own, upper-case when following the region name (example: Alola Region).
+Use commas when writing out numbers with four or more digits (example: 100,000 Volts).
+Words like "sir" and "ma'am" should be lower-case unless they're part of a title or part of the address at the start of a letter.
+Family names should be upper-case when addressing a specific person ("Hi, Gramps!").
 "Mythical Pokémon" is used as a translation of maboroshi no pokemon for generation 4 content onwards, save for Mewtwo Strikes Back Evolution. For generations 1 and 2, "Phantom Pokémon" is used. Either is usable for generation 3.
+Moves and ability names are upper-case, but the words "move" and "ability" should be lower-case.
+Stats and natures should be lower-case.
+"Goodbye," not "Good bye."
+"All right," not "Alright."
+Exclamation and question marks only go inside quotation marks when the quotated word or phrase is an exclamation or a question, respectively.
+Periods and commas go inside quotation marks unless there's an exclamation or question mark already, in which case they go outside if they can't be omitted.
+All punctuation directly following or preceding italicized words is to be italicized.
+Outside of edge cases, italics are only used for emphasis, to help convey inflection, and/or to denote when a line is being delivered by three or more characters.
+Always use spoken name order (example: Okido Yukinari, Nariya Okido).
