@@ -18,6 +18,7 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
   - Twilight Wings  
   - Pokémon Evolutions  
   - Twin Indigo of Melting Snow  
+  - Afterschool Breath  
   - Unsorted  
 	+ The Distant Blue Sky  
 	+ Original Series Episode 20  
