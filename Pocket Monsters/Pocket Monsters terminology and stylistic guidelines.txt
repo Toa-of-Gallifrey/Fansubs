@@ -343,9 +343,9 @@ POKÉMON NAMES
 0013 ビードル Beedle
 0014 コクーン Cocoon
 0015 スピアー Spear
-0016 ポッポ Poppo
-0017 ピジョン Pidgeon
-0018 ピジョット Pidgeot
+0016 ポッポ Poppo - ことりポケモン Tiny Bird Pokémon
+0017 ピジョン Pidgeon - とりポケモン Bird Pokémon
+0018 ピジョット Pidgeot - とりポケモン Bird Pokémon
 0019 コラッタ Koratta - ねずみポケモン Mouse Pokémon
 0020 ラッタ Ratta - ねずみポケモン Mouse Pokémon
 0021 オニスズメ Onisuzume
@@ -368,8 +368,8 @@ POKÉMON NAMES
 0038 キュウコン Kyukon
 0039 プリン Purin
 0040 プクリン Pukurin
-0041 ズバット Zubat
-0042 ゴルバット Golbat
+0041 ズバット Zubat - こうもりポケモン Bat Pokémon
+0042 ゴルバット Golbat - こうもりポケモン Bat Pokémon
 0043 ナゾノクサ Nazonokusa
 0044 クサイハナ Kusaihana
 0045 ラフレシア Rafflesia
@@ -379,8 +379,8 @@ POKÉMON NAMES
 0049 モルフォン Morphon
 0050 ディグダ Digda
 0051 ダグトリオ Dugtrio
-0052 ニャース Nyarth
-0053 ペルシアン Persian
+0052 ニャース Nyarth - ばけねこポケモン Monster Cat Pokémon
+0053 ペルシアン Persian - シャムネコポケモン Siamese Cat Pokémon
 0054 コダック Koduck
 0055 ゴルダック Golduck
 0056 マンキー Mankey
@@ -429,7 +429,7 @@ POKÉMON NAMES
 0099 キングラー Kingler
 0100 ビリリダマ Biriridama
 0101 マルマイン Marumine
-0102 タマタマ Tamatama
+0102 タマタマ Tamatama - たまごポケモン Egg Pokémon
 0103 ナッシー Nasshi
 0104 カラカラ Karakara
 0105 ガラガラ Garagara
@@ -455,7 +455,7 @@ POKÉMON NAMES
 0125 エレブー Eleboo
 0126 ブーバー Boobur
 0127 カイロス Kaiross
-0128 ケンタロス Kentauros
+0128 ケンタロス Kentauros - あばれうしポケモン Wild Bull Pokémon
 0129 コイキング Koiking
 0130 ギャラドス Gyarados
 0131 ラプラス Laplace
@@ -481,7 +481,7 @@ POKÉMON NAMES
 0151 ミュウ Mew
 0152 チコリータ Chicorita
 0153 ベイリーフ Bayleaf
-0154 メガニウム Meganium
+0154 メガニウム Meganium - ハーブポケモン Herb Pokémon
 0155 ヒノアラシ Hinoarashi
 0156 マグマラシ Magmarashi
 0157 バクフーン Bakuphoon
@@ -496,7 +496,7 @@ POKÉMON NAMES
 0166 レディアン Ledian
 0167 イトマル
 0168 アリアドス Ariados
-0169 クロバット Crobat
+0169 クロバット Crobat - こうもりポケモン Bat Pokémon
 0170 チョンチー Chonchie
 0171 ランターン Lanturn
 0172 ピチュー Pichu
@@ -554,7 +554,7 @@ POKÉMON NAMES
 0224 オクタン Octan
 0225 デリバード Delibird
 0226 マンタイン Mantine
-0227 エアームド Airm'd
+0227 エアームド Airm'd - よろいどりポケモン Armor Bird Pokémon
 0228 デルビル Delvil
 0229 ヘルガー Hellgar
 0230 キングドラ Kingdra
@@ -594,7 +594,7 @@ POKÉMON NAMES
 0264 マッスグマ Massuguma
 0265 ケムッソ Kemusso
 0266 カラサリス Karasalis
-0267 アゲハント Agehunt
+0267 アゲハント Agehunt - ちょうちょポケモン Butterfly Pokémon
 0268 マユルド Mayuld
 0269 ドクケイル Dokucale
 0270 ハスボー Hasuboh
@@ -774,8 +774,8 @@ POKÉMON NAMES
 0444 ガバイト
 0445 ガブリアス Gaburias
 0446 ゴンベ Gonbe
-0447 リオル Riolu
-0448 ルカリオ Lucario
+0447 リオル Riolu - はもんポケモン Ripple Pokémon
+0448 ルカリオ Lucario - はどうポケモン Guiding Wave Pokémon
 0449 ヒポポタス
 0450 カバルドン
 0451 スコルピ Scorupi
@@ -934,7 +934,7 @@ POKÉMON NAMES
 0604 シビルドン Shibirudon
 0605 リグレー Ligray
 0606 オーベム Ohbem
-0607 ヒトモシ Hitomoshi
+0607 ヒトモシ Hitomoshi - ろうそくポケモン Candle Pokémon
 0608 ランプラー Lampler
 0609 シャンデラ
 0610 キバゴ Kibago
@@ -1302,7 +1302,7 @@ POKÉMON NAMES
 0972 
 0973 
 0974 
-0975 
+0975 ハルクジラ Hulkujira
 0976 
 0977 
 0978 
