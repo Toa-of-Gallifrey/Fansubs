@@ -73,7 +73,7 @@ Dialogue: 0,0:04:50.65,0:04:52.44,Main,Liko,0,0,0,,What feels right...
 Dialogue: 0,0:05:02.49,0:05:03.99,Main,Friede,0,0,0,,He’s in a good mood.
 Dialogue: 0,0:05:08.20,0:05:12.42,Main,Liko,0,0,0,,Roy and Anne both know what they want to do, \N and they’re moving ahead.
 Dialogue: 0,0:05:13.46,0:05:14.75,Main,Liko,0,0,0,,But I’m...
-Dialogue: 0,0:05:14.75,0:05:18.34,Main,Kabu,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\t(23,565,\c\3c)}There are bound to be \N as many paths as there are trainers.{020}
+Dialogue: 0,0:05:14.75,0:05:18.34,Main,Kabu,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\t(23,565,\c&HF6FBF6&\3c&H000000&)}There are bound to be \N as many paths as there are trainers.{020}
 Dialogue: 0,0:05:18.34,0:05:24.05,Main,Kabu,0,0,0,,{\t(4983,5710,\c&HFFFFFF&,\3c&HFFFFFF&}I think you should find your own path. \N One that you can believe in.{020}
 Dialogue: 0,0:05:25.51,0:05:26.51,Main,Roy,0,0,0,,What?!
 Dialogue: 0,0:05:26.51,0:05:27.10,Main,Liko,0,0,0,,Huh?
