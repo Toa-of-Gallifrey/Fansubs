@@ -73,7 +73,7 @@ Dialogue: 0,0:04:50.65,0:04:52.44,Main,Liko,0,0,0,,What feels right...
 Dialogue: 0,0:05:02.49,0:05:03.99,Main,Friede,0,0,0,,He’s in a good mood.
 Dialogue: 0,0:05:08.20,0:05:12.42,Main,Liko,0,0,0,,Roy and Anne both know what they want to do, \N and they’re moving ahead.
 Dialogue: 0,0:05:13.46,0:05:14.75,Main,Liko,0,0,0,,But I’m...
-Dialogue: 0,0:05:14.75,0:05:18.34,Main,Kabu,0,0,0,,There are bound to be \N as many paths as there are trainers.{020}
+Dialogue: 0,0:05:14.75,0:05:18.34,Main,Kabu,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\t(23,565,\c\3c)}There are bound to be \N as many paths as there are trainers.{020}
 Dialogue: 0,0:05:18.34,0:05:24.05,Main,Kabu,0,0,0,,{\t(4983,5710,\c&HFFFFFF&,\3c&HFFFFFF&}I think you should find your own path. \N One that you can believe in.{020}
 Dialogue: 0,0:05:25.51,0:05:26.51,Main,Roy,0,0,0,,What?!
 Dialogue: 0,0:05:26.51,0:05:27.10,Main,Liko,0,0,0,,Huh?
@@ -118,8 +118,8 @@ Dialogue: 0,0:07:39.90,0:07:40.48,Main,Friede,0,0,0,,Hey, Liko!
 Dialogue: 0,0:07:40.48,0:07:41.65,Main,Roy,0,0,0,,Wait up!
 Dialogue: 0,0:08:11.68,0:08:14.60,Main,Molly,0,0,0,,She doesn’t seem to be hurt \N or have a status condition.{Using "her" from this point on because all-female species and the checkup is enough justification for Liko to know that by now. - Toa}
 Dialogue: 0,0:08:14.60,0:08:18.19,Main,Liko,0,0,0,,But {\i1}something’s{\i0} off. \N She’s not making a sound...
-Dialogue: 0,0:08:19.23,0:08:21.06,Main,Molly,0,0,0,,Maybe her mind is troubled.
-Dialogue: 0,0:08:21.44,0:08:22.82,Main,Liko,0,0,0,,Her mind?
+Dialogue: 0,0:08:19.23,0:08:21.06,Main,Molly,0,0,0,,Maybe her heart is troubled.
+Dialogue: 0,0:08:21.44,0:08:22.82,Main,Liko,0,0,0,,Her heart?
 Dialogue: 0,0:08:22.82,0:08:24.32,Main,Molly,0,0,0,,People are the same way, right?
 Dialogue: 0,0:08:24.65,0:08:26.53,Main,Molly,0,0,0,,If you’re going through \N something rough,
 Dialogue: 0,0:08:26.53,0:08:30.41,Main,Molly,0,0,0,,you can feel lifeless \N even if you’re physically well.
@@ -187,7 +187,7 @@ Dialogue: 0,0:11:52.78,0:11:53.78,Main,Murdock,0,0,0,,No idea.
 Dialogue: 0,0:11:55.28,0:11:56.74,Main,Murdock,0,0,0,,Will the ship be okay?
 Dialogue: 0,0:11:56.74,0:11:57.45,Main,Orio,0,0,0,,Huh?
 Dialogue: 0,0:11:57.45,0:12:00.03,Main,Orio,0,0,0,,The Brave Asagi isn’t that fragile.
-Dialogue: 0,0:12:00.03,0:12:03.16,Main,Murdock,0,0,0,,You say that, \N but I don’t want any trouble like last time.
+Dialogue: 0,0:12:00.03,0:12:03.16,Main,Murdock,0,0,0,,You say that, but I don’t want \N any trouble like last time.
 Dialogue: 0,0:12:03.16,0:12:05.16,Main,Orio,0,0,0,,That was out of my hands!
 Dialogue: 0,0:12:05.16,0:12:06.66,Main,Murdock,0,0,0,,Don’t get mad over that.
 Dialogue: 0,0:12:06.66,0:12:08.12,Main,Orio,0,0,0,,I’m not mad!
@@ -197,7 +197,7 @@ Dialogue: 0,0:12:09.96,0:12:11.38,Main,Murdock,0,0,0,,Are so!
 Dialogue: 0,0:12:14.00,0:12:15.05,Main,Liko,0,0,0,,What’s wrong?
 Dialogue: 0,0:12:15.71,0:12:17.22,Main,Murdock,0,0,0,,Oh, nothing at all!
 Dialogue: 0,0:12:17.22,0:12:19.55,Main,Orio,0,0,0,,We weren’t fighting or anything!
-Dialogue: 0,0:12:19.55,0:12:21.55,Main,Orio & Murdock,0,0,0,,We’re all buddy-buddy-Silvuddy.{nakayoshi namakobushi, rhyme/repetition for emphasis (We're friends, /friends/!), likely based on 'nakayoshi nakayoshi' or 'nakayoshi koyoshi'}{The dub has a simple and reasonable sensible option in "We're thick as Thievuls!", inb4 they instead do their usual thing and shit the bed. - Toa}
+Dialogue: 0,0:12:19.55,0:12:21.55,Main,Orio & Murdock,0,0,0,,We’re like two Namakobushi in a pond!
 Dialogue: 0,0:12:21.93,0:12:23.64,Main,Dot,0,0,0,,Not here, then...
 Dialogue: 0,0:12:23.64,0:12:24.97,Main,Liko,0,0,0,,Yeah...
 Dialogue: 0,0:12:24.97,0:12:26.43,Main,Murdock,0,0,0,,What’s going on?
@@ -205,9 +205,9 @@ Dialogue: 0,0:12:26.81,0:12:29.52,Main,Orio,0,0,0,,It’s rare to see Dot out wi
 Dialogue: 0,0:12:29.52,0:12:31.19,Main,Murdock,0,0,0,,I know! You want a snack, right?
 Dialogue: 0,0:12:31.19,0:12:33.44,Main,Dot,0,0,0,,We’re busy right now...
 Dialogue: 0,0:12:34.23,0:12:35.82,Main,Liko,0,0,0,,Yeah. We’ll have some later.
-Dialogue: 0,0:12:39.28,0:12:43.03,Main,Murdock,0,0,0,,That’s the first time in ages \N that I’ve spoken to Dot face-to-face.
-Dialogue: 0,0:12:43.03,0:12:45.12,Main,Orio,0,0,0,,You call {\i1}that{\i0} speaking to her?
-Dialogue: 0,0:12:45.12,0:12:46.33,Main,Murdock,0,0,0,,I do.
+Dialogue: 0,0:12:39.28,0:12:43.03,Main,Murdock,0,0,0,,That’s the first time in ages \N that I’ve talked to Dot face-to-face.
+Dialogue: 0,0:12:43.03,0:12:45.12,Main,Orio,0,0,0,,Does that even {\i1}count{\i0} as talking?
+Dialogue: 0,0:12:45.12,0:12:46.33,Main,Murdock,0,0,0,,Yes, it does.
 Dialogue: 0,0:12:49.87,0:12:51.29,Main,Liko,0,0,0,,Roy, are you there?
 Dialogue: 0,0:12:51.71,0:12:53.00,Main,Roy,0,0,0,,What is it?
 Dialogue: 0,0:12:54.04,0:12:55.67,Main,Liko,0,0,0,,Have you seen Mibrim?
@@ -289,7 +289,7 @@ Dialogue: 0,0:18:07.15,0:18:08.98,Main,Molly,0,0,0,,What, talking about yourself
 Dialogue: 0,0:18:08.98,0:18:09.82,Main,Orio,0,0,0,,Shut it!
 Dialogue: 0,0:18:11.19,0:18:12.99,Main,Orio & Molly,0,0,0,,Sorry, sorry...
 Dialogue: 0,0:18:12.99,0:18:14.82,Main,Orio,0,0,0,,Don’t worry, we’re...
-Dialogue: 0,0:18:14.82,0:18:17.20,Main,Molly,0,0,0,,...buddy-buddy-Silvuddy.
+Dialogue: 0,0:18:14.82,0:18:17.20,Main,Molly,0,0,0,,...like two Namakobushi in a pond.
 Dialogue: 0,0:18:18.66,0:18:22.46,Main,Friede,0,0,0,,Okay! The rain’s let up, \N so let’s get her back home.
 Dialogue: 0,0:18:22.87,0:18:26.13,Main,Roy,0,0,0,,And after that, \N to Rekkuuza in the Galar Mine!
 Dialogue: 0,0:18:26.13,0:18:27.34,Main,Liko,0,0,0,,Right, yes.
@@ -338,7 +338,7 @@ Dialogue: 0,0:21:46.28,0:21:47.37,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.37,0:21:49.45,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Calm Pokémon, Mibrim.
 Dialogue: 0,0:21:55.29,0:21:58.55,Main,Friede,0,0,0,,A Pokémon that likes quiet places \N without any people nearby.
-Dialogue: 0,0:21:58.55,0:22:02.72,Main,Friede,0,0,0,,The protrusion on its head that \N resembles a hat can pick up a certain thing.
+Dialogue: 0,0:21:58.55,0:22:02.72,Main,Friede,0,0,0,,The hat-like protrusion on its head \N can pick up a certain thing.
 Dialogue: 0,0:22:02.72,0:22:05.39,Main,Friede,0,0,0,,But do you know what that thing is?
 Dialogue: 0,0:22:05.39,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
