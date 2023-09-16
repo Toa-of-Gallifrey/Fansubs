@@ -156,6 +156,7 @@ misairubari ミサイルばり (Pin Missile) - Needle Missile
 miyaburu みやぶる (Foresight) - True Sight
 mizu deppou みずでっぽう (Water Gun) - Water Gun
 mizu no chikai みずのちかい (Water Pulse) - Water Pulse
+moeagaru ikari もえあがるいかり (Fiery Wrath) - Blazing Rage
 moetsukiru もえつきる (Burn Up) - Burn Up
 munen no tsurugi むねんのつるぎ (Bitter Blade) - Sword of Regrets
 muunfoosu ムーンフォース (Moonblast) Moonforce
@@ -317,8 +318,10 @@ ABILITY NAMES
 denki enjin でんきエンジン (Motor Drive) - Electric Engine
 fukutsu no kokoro ふくつのこころ (Steadfast) - Steadfast Heart
 kobore dane こぼれダネ (Seed Sower) - Falling Seeds
+kudakeru yoroi くだけるよろい (Weak Armor) - Breaking Armor
 moraibi もらいび (Flash Fire) - Kindled Fire
 mushi no shirase むしのしらせ (Swarm) - Bugout
+nihonbare にほんばれ (Sunny Day) - Clear Skies
 seigi no kokoro ふくつのこころ (Justified) - Heart of Justice
 ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
 yuubaku ゆうばく (Aftermath) - Induced Explosion
@@ -348,7 +351,7 @@ POKÉMON NAMES
 0018 ピジョット Pidgeot - とりポケモン Bird Pokémon
 0019 コラッタ Koratta - ねずみポケモン Mouse Pokémon
 0020 ラッタ Ratta - ねずみポケモン Mouse Pokémon
-0021 オニスズメ Onisuzume
+0021 オニスズメ Onisuzume - ことりポケモン Tiny Bird Pokémon
 0022 オニドリル Onidrill
 0023 アーボ Abo
 0024 アーボック Arbok
@@ -504,7 +507,7 @@ POKÉMON NAMES
 0174 ププリン
 0175 トゲピー Togepi
 0176 トゲチック Togechick
-0177 ネイティ Naty
+0177 ネイティ Naty - ことりポケモン Tiny Bird Pokémon
 0178 ネイティオ
 0179 メリープ Mareep
 0180 モココ Mokoko
@@ -620,8 +623,8 @@ POKÉMON NAMES
 0290 ツチニン Tsuchinin
 0291 テッカニン Tekkanin - しのびポケモン Shinobi Pokémon
 0292 ヌケニン Nukenin - ぬけがらポケモン Shed Shell Pokémon
-0293 ゴニョニョ Gonyonyo
-0294 ドゴーム Dogomb
+0293 ゴニョニョ Gonyonyo - ささやきポケモン Whisper Pokémon
+0294 ドゴーム Dogomb - おおごえポケモン Loud Voice Pokémon
 0295 バクオング
 0296 マクノシタ
 0297 ハリテヤマ Hariteyama
@@ -651,7 +654,7 @@ POKÉMON NAMES
 0321 ホエルオー Whaleoh
 0322 ドンメル
 0323 バクーダ Bakuda
-0324 コータス Cortoise
+0324 コータス Cortoise - せきたんポケモン Coal Pokémon
 0325 バネブー Baneboo
 0326 ブーピッグ
 0327 パッチール
@@ -859,9 +862,9 @@ POKÉMON NAMES
 0529 モグリュー Mogurew
 0530 ドリュウズ Doryuzu
 0531 タブンネ Tabunne
-0532 ドッコラー
-0533 ドテッコツ Dotekkotsu
-0534 ローブシン Roubushin
+0532 ドッコラー Dokkorar - きんこつポケモン Muscular Pokémon
+0533 ドテッコツ Dotekkotsu - きんこつポケモン Muscular Pokémon
+0534 ローブシン Roubushin - きんこつポケモン Muscular Pokémon
 0535 オタマロ
 0536 ガマガル Gamagaru
 0537 ガマゲロゲ Gamageroge
@@ -1138,17 +1141,17 @@ POKÉMON NAMES
 0808 メルタン Meltan
 0809 メルメタル Melmetal
 0810 サルノリ Sarunori
-0811 バチンキー Bachinkey
-0812 ゴリランダー Gorillander
-0813 ヒバニー　Hibunny
-0814 ラビフット Rabbifoot
-0815 エースバーン Aceburn
-0816 メッソン Messon
-0817 ジメレオン Jimeleon
-0818 インテレオン Inteleon
-0819 ホシガリス Hoshigarisu
-0820 ヨクバリス Yokubarisu
-0821 ココガラ Kokogara
+0811 バチンキー Bachinkey - ビートポケモン Beat Pokémon
+0812 ゴリランダー Gorillander - ドラマーポケモン Drummer Pokémon
+0813 ヒバニー　Hibunny - うさぎポケモン Rabbit Pokémon
+0814 ラビフット Rabbifoot - うさぎポケモン Rabbit Pokémon
+0815 エースバーン Aceburn - ストライカーポケモン Striker Pokémon
+0816 メッソン Messon - みずとかげポケモン Water Lizard Pokémon
+0817 ジメレオン Jimeleon - みずとかげポケモン Water Lizard Pokémon
+0818 インテレオン Inteleon - エージェントポケモン Agent Pokémon
+0819 ホシガリス Hoshigarisu - ほおばりポケモン Cheek-Stuffing Pokémon
+0820 ヨクバリス Yokubarisu - よくばりポケモン Greedy Pokémon
+0821 ココガラ Kokogara - ことりポケモン Tiny Bird Pokémon
 0822 アオガラス Aogarasu
 0823 アーマーガア Armorgaw
 0824 サッチムシ
@@ -1164,9 +1167,9 @@ POKÉMON NAMES
 0834 カジリガメ Kajirigame
 0835 ワンパチ Wanpachi
 0836 パルスワン
-0837 タンドン Tandon
-0838 トロッゴン
-0839 セキタンザン Sekitanzan
+0837 タンドン Tandon - せきたんポケモン Coal Pokémon
+0838 トロッゴン Toroggon - せきたんポケモン Coal Pokémon
+0839 セキタンザン Sekitanzan - せきたんポケモン Coal Pokémon
 0840 カジッチュ
 0841 アップリュー
 0842 タルップル Tarpple
@@ -1376,11 +1379,35 @@ Murdock's Mawhip - Female (monogender species)
 
 
 
+LOCATIONS
+
+kantou chihou カントー地方 (Kanto region) - Kanto Region
+jouto chihou ジョウト地方 (Johto region) - Johto Region
+houen chihou ホウエン地方 (Hoenn region) - Hoenn Region
+shin'ou chihou シンオウ地方 (Sinnoh region) - Sinnoh Region
+isshu chihou イッシュ地方 (Unova region) - Isshu Region
+karosu chihou カロス地方 (Kalos region) - Kalos Region
+arora chihou アローラ地方 (Alola region) - Alola Region
+gararu chihou ガラル地方 (Galar region) - Galar Region
+hisui chihou ヒスイ地方 (Hisui region) - Hisui Region
+parudea chihou パルデア地方 (Paldea region) - Paldea Region
+masarataun マサラタウン (Pallet Town) - Masara Town
+tokiwashiti トキワシティ (Viridian Ciy) - Tokiwa City
+nibishiti ニビシティ (Pewter City) - Nibi City
+hanadashiti ハナダシティ (Cerulean City) - Hanada City
+kuchibashiti クチバシティ (Vermillion City) - Kuchiba City
+futagojima 双子島 (Seafoam Islands) - Twins Island
+tenganzan テンガン山 (Mount Coronet) - Mt. Tengan
+nappe yama ナッペ山 (Glaseado Mountain) - Mt. Nappé
+
+
+
 MISC
 
 monsutaa booru モンスターボール (Poké Ball) - Monster Ball
 pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
 roketto-dan ロケット団 (Team Rocket) - Team Rocket
+aku taipu あくタイプ (Dark type) - Evil type
 hadou 波導 (Aura) - Guiding Waves
 tou-chan とうちゃん (Dada) - Dada
 
