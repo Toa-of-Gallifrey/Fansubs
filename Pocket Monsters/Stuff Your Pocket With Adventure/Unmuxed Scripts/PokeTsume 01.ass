@@ -272,7 +272,7 @@ Dialogue: 0,0:20:11.77,0:20:16.70,Main,Human being,0,0,0,,If that’s all... how
 Dialogue: 0,0:20:26.79,0:20:29.17,Main,Hiyama,0,0,0,,Are you sure about this plan? \N Isn’t this subverting guidance?
 Dialogue: 0,0:20:29.17,0:20:32.42,Main,Madoka,0,0,0,,{\an8}I read through every interview \N with the third president I could find,
 Dialogue: 0,0:20:32.42,0:20:35.21,Main,Madoka,0,0,0,,{\an8}and he always brings up \N the teachings of his grandfather.
-Dialogue: 0,0:20:35.21,0:20:38.97,Main,Madoka,0,0,0,,The second president insisted on \N performance above all.
+Dialogue: 0,0:20:35.21,0:20:38.97,Main,Madoka,0,0,0,,{\an8}The second president insisted on \N performance above all.
 Dialogue: 0,0:20:38.97,0:20:42.47,Main,Madoka,0,0,0,,But the third president... \N He might be wanting to go back to basics.
 Dialogue: 0,0:20:49.23,0:20:51.81,Main,Iwakura,0,0,0,,When my ancestor was young,
 Dialogue: 0,0:20:51.81,0:20:54.78,Main,Iwakura,0,0,0,,he once boiled water in a pan \N and burned himself...{'Burn' was in katakana in CCs to show it's a Pokemon term}
@@ -427,9 +427,11 @@ Dialogue: 0,0:07:28.14,0:07:31.64,Main,,0,0,0,,{\c0\3c&HFFFFFF\fscx60\fscy60\3a&
 Dialogue: 0,0:14:08.45,0:14:10.75,Main,,0,0,0,,{[musicnote] FUKUYA [...] / Text appears: Boils quick!! / [...] mother / Text appears: WAKU WAKU / [...] pours / Text appears: Boils immediately! / [...]ing mother and [...] / Text appears: WAKUWAKU}
 Dialogue: 0,0:14:11.21,0:14:13.62,Main,,0,0,0,,{\fad(100,0)\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(1586.4,216.8)}Project Plan 1\NIt’s Heartwarming Too!\NSAIjirushi’s Electric Thermo Pot
 Dialogue: 0,0:14:59.92,0:15:03.09,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(1680,100)}Café and Snacks
+Dialogue: 0,0:17:04.88,0:17:06.63,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(960,1000)}Passing Down the Feelings of his Ancestor, the Founder \N “SAIjirushi’s business ideals are rooted in the feelings of its founder, my grandfather.”
+Dialogue: 0,0:17:26.40,0:17:28.07,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(960,1000)}The 3rd President Everyone is Talking About{gap}\NThe Secrets of SAIjirushi’s President\NInheriting the Founder’s Principles, and Aiming for the Future...
 Dialogue: 0,0:19:33.07,0:19:38.24,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(1245.33,124)}Cookware market movement\N{\c&HFF6400&}Financial Year 2021     {\c&H2476DC&}Financial Year 2022
 Dialogue: 0,0:20:33.63,0:20:36.30,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(960,1000)}Passing Down the Feelings of his Ancestor, the Founder \N “SAIjirushi’s business ideals are rooted in the feelings of its founder, my grandfather.”
-Dialogue: 0,0:20:36.30,0:20:38.97,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(960,200)}The 3rd President Everyone is Talking About{gap}\NThe Secrets of SAIjirushi’s President\NInheriting the Founder’s Principles, and Aiming for the Future...
+Dialogue: 0,0:20:36.30,0:20:38.97,Main,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fscx60\fscy60\3a&H20&\blur2\bord3.5\pos(960,1000)}The 3rd President Everyone is Talking About{gap}\NThe Secrets of SAIjirushi’s President\NInheriting the Founder’s Principles, and Aiming for the Future...
 Dialogue: 0,0:02:31.96,0:02:39.31,Main,,0,0,0,,{[obscured] Green challenged you to a battle! | [obscured] Ah! A wild Cocoon jumped out! | You made it! I am the Nibi Pokémon Gym Leader}
 Dialogue: 0,0:12:40.49,0:12:44.99,Main,,0,0,0,,{Ah! A wild Poppo jumped out! | Poppo / Hitokage / Go! Hitokage!}
 Dialogue: 0,0:12:44.99,0:12:47.99,Main,,0,0,0,,{Poppo / Hitokage / Go! Hitokage! | Fight / Item / Pokémon / Run | Scratch / Growl / Move Type / Normal | Hitokage's Scratch attack!}
