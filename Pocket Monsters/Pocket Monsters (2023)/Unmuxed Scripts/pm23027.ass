@@ -89,8 +89,8 @@ Dialogue: 0,0:05:00.95,0:05:03.12,Main,Dot,0,0,0,,This is definitely the place.
 Dialogue: 0,0:05:03.12,0:05:05.08,Main,Dot,0,0,0,,But I can’t reach him...
 Dialogue: 0,0:05:09.08,0:05:12.71,Main,Murdock,0,0,0,,Looks like there’s no trace \N of anyone coming through here.
 Dialogue: 0,0:05:13.13,0:05:14.96,Main,Dot,0,0,0,,Fake info?
-Dialogue: 0,0:05:14.96,0:05:17.88,Main,Dot,0,0,0,,{kuso}Man, I got tricked again...
-Dialogue: 0,0:05:19.38,0:05:22.59,Main,Friede,0,0,0,,Dot. Setbacks are par for \N the course in adventures.
+Dialogue: 0,0:05:14.96,0:05:17.88,Main,Dot,0,0,0,,Man, I got tricked again...
+Dialogue: 0,0:05:19.38,0:05:22.59,Main,Friede,0,0,0,,That’s just how adventures go, Dot. \N Sometimes you strike out.
 Dialogue: 0,0:05:22.59,0:05:25.81,Main,Friede,0,0,0,,There’s value in seeing that for yourself.
 Dialogue: 0,0:05:27.31,0:05:30.73,Main,Murdock,0,0,0,,All right! \N Since we’re in the Wild Area,
 Dialogue: 0,0:05:30.73,0:05:32.31,Main,Murdock,0,0,0,,let’s relax and have some fun!
@@ -212,7 +212,7 @@ Dialogue: 0,0:11:54.32,0:11:55.99,Main,Roy,0,0,0,,And more to come!
 Dialogue: 0,0:12:07.83,0:12:10.08,Main,Roy,0,0,0,,What’s wrong, Hogator?
 Dialogue: 0,0:12:10.88,0:12:12.46,Main,Roy,0,0,0,,Hey, you!
 Dialogue: 0,0:12:17.34,0:12:20.34,Main,Roy,0,0,0,,Those eyes won’t work on me! \N Give them back!
-Dialogue: 0,0:12:36.61,0:12:38.70,Main,Liko,0,0,0,,Oh! There’s a lot of Momon Berries here.
+Dialogue: 0,0:12:36.61,0:12:38.70,Main,Liko,0,0,0,,{Oh! }There’s a lot of Momon Berries here.
 Dialogue: 0,0:12:38.70,0:12:39.86,Main,Dot,0,0,0,,Wow.
 Dialogue: 0,0:12:39.86,0:12:40.57,Main,Liko,0,0,0,,Let’s pick some.
 Dialogue: 0,0:12:40.57,0:12:41.07,Main,Dot,0,0,0,,Yeah.
@@ -500,7 +500,7 @@ Dialogue: 2,0:09:11.45,0:09:21.46,Logo,,0,0,0,,{\clip(27,820,1903,821)\pos(1456.
 Dialogue: 2,0:09:11.45,0:09:21.46,Logo,,0,0,0,,{=1020}{\clip(27,821,1903,822)\pos(1456.01,811.71)\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:09:11.45,0:09:21.46,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\blur0.6\pos(1458,1041.33)}The Gleam of Terapagos
 Dialogue: 0,0:09:11.45,0:09:21.46,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord3\blur2\c&HFFFFFF&\pos(1458,1041.33)\3a&H20&}The Gleam of Terapagos
-Comment: 0,0:00:00.00,0:00:00.00,Main,needs updating,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:09.81,0:22:12.94,ED,,0,0,0,,{=1057}{\fad(350,0)\blur0.6}Yo! We're (Yeah!) the Rising Voltteccers
 Dialogue: 0,0:22:12.94,0:22:15.23,ED,,0,0,0,,{\blur0.6}What Pokémon are we gonna find next?
 Dialogue: 0,0:22:15.23,0:22:17.52,ED,,0,0,0,,{\blur0.6}Now, time for some more adventures!
@@ -523,7 +523,7 @@ Dialogue: 0,0:22:47.60,0:22:51.02,ED,,0,0,0,,{\blur0.6}Take the helm, set a cour
 Dialogue: 0,0:22:51.02,0:22:53.39,ED,,0,0,0,,{\blur0.6}Proving we're friends with our hand sign
 Dialogue: 0,0:22:53.39,0:22:55.27,ED,,0,0,0,,{\blur0.6}Together we're the Rising Voltteccers!
 Dialogue: 0,0:22:55.27,0:22:56.81,ED,,0,0,0,,{\blur0.6}Let's learn about more and more!
-Dialogue: 0,0:22:56.81,0:22:59.11,ED,,0,0,0,,{\blur0.6}Next, cute & sweet Pokemon!
+Dialogue: 0,0:22:56.81,0:22:59.11,ED,,0,0,0,,{\blur0.6}Next, cute & sweet Pokémon!
 Dialogue: 0,0:22:59.11,0:23:01.11,ED,,0,0,0,,{\blur0.6}Let's have Roy show us how it's done!
 Comment: 0,0:23:01.11,0:23:02.90,ED,,0,0,0,,{\blur0.6}3 2 1 Go!
 Dialogue: 0,0:23:02.83,0:23:04.74,ED,,0,0,0,,{\blur0.6}Vanipetit, Puppymocchi, Vanirich,
