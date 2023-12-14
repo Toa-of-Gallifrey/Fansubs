@@ -758,7 +758,7 @@ POKÉMON NAMES
 0421 チェリム Cherrim
 0422 カラナクシ Karanakushi
 0423 トリトドン Tritodon
-0424 カラナクシ 
+0424 カラナクシ Eteboth
 0425 フワンテ Fuwante
 0426 フワライド Fuwaride
 0427 ミミロル Mimiroll
