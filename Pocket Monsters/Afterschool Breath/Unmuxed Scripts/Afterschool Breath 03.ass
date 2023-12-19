@@ -89,7 +89,7 @@ Dialogue: 0,0:03:27.40,0:03:28.40,Main,Biwa,0,0,0,,You?{あなたは？}
 Dialogue: 0,0:03:28.40,0:03:31.06,Main,Hohma,0,0,0,,I-I’m... Hohma.{僕は……ホーマと言います}
 Dialogue: 0,0:03:31.06,0:03:32.19,Main,Biwa,0,0,0,,Pleasure!{よろしく！}
 Dialogue: 0,0:03:32.19,0:03:34.40,Main,Biwa,0,0,0,,Thank you for coming \N to the Caph Squad.{チーム・カーフへ来てくれてありがとう}
-Dialogue: 0,0:03:34.40,0:03:36.69,Main,Biwa,0,0,0,,Right, let’s get started!{それじゃあ早速始めるよ！}
+Dialogue: 0,0:03:34.40,0:03:36.69,Main,Biwa,0,0,0,,‘Kay, let’s get started!{それじゃあ早速始めるよ！}
 Dialogue: 0,0:03:36.69,0:03:37.65,Main,Hohma,0,0,0,,Eh?{え？}
 Dialogue: 0,0:03:37.65,0:03:39.56,Main,Biwa,0,0,0,,First up, a run!{まずはランニング！}
 Dialogue: 0,0:03:47.31,0:03:48.65,Main,Hohma,0,0,0,,Why do I have to run...?{なんで走らなきゃ……}
@@ -120,8 +120,8 @@ Dialogue: 0,0:06:35.35,0:06:38.60,Main,Hohma,0,0,0,,What was the point \N of any
 Dialogue: 0,0:06:38.60,0:06:41.98,Main,Hohma,0,0,0,,I came all this way, \N but with no scoop to show for it...{ここまで来たのに特ダネなしです}
 Dialogue: 0,0:06:41.98,0:06:43.85,Main,Hohma,0,0,0,,{\i1}Nobody’s{\i0} gonna know my name...{これじゃ誰も僕を……}
 Dialogue: 0,0:06:46.85,0:06:49.06,Main,Hohma,0,0,0,,What’s gotten into you?{どうしたんです？急に……}
-Dialogue: 0,0:07:02.85,0:07:03.73,Main,Hohma,0,0,0,,Could you...{もしかして……}
-Dialogue: 0,0:07:04.98,0:07:07.44,Main,Hohma,0,0,0,,...have been trying to \N cheer me up all along?{僕のこと、元気づけようと……？}
+Dialogue: 0,0:07:02.85,0:07:03.73,Main,Hohma,0,0,0,,Wait...{もしかして……}
+Dialogue: 0,0:07:04.98,0:07:07.44,Main,Hohma,0,0,120,,Have you been trying to \N cheer me up all this time?{僕のこと、元気づけようと……？}
 Dialogue: 0,0:07:24.48,0:07:29.10,Main,Hohma,0,0,0,,You were always watching, \N right by my side...{いつも、僕のことを、一番近くで見てくれていたんですね……}
 Dialogue: 0,0:07:31.94,0:07:34.35,Main,Hohma,0,0,0,,We sure took \N quite the roundabout path.{ずいぶん遠回りしちゃいました}
 Dialogue: 0,0:07:35.06,0:07:37.81,Main,Hohma,0,0,0,,Now, let’s go home, Welcamo.{さあ、帰りましょう、ウェルカモ}

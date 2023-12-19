@@ -48,12 +48,12 @@ Dialogue: 0,0:02:42.44,0:02:46.10,Main,Nanjamo,0,0,0,,The lines are always long 
 Dialogue: 0,0:02:46.10,0:02:49.23,Main,Nanjamo,0,0,0,,The owner of Pâtisserie Soapberry{Mukuroji}, \N Kaede-shi!
 Dialogue: 0,0:02:49.23,0:02:51.60,Main,Nanjamo,0,0,0,,Are the rumors true? \N Does he really jump off windmills?!
 Dialogue: 0,0:02:51.60,0:02:54.19,Main,Nanjamo,0,0,0,,The Nature Artist, Colza-shi!
-Dialogue: 0,0:02:54.19,0:02:56.03,Main,Nanjamo,0,0,0,,The wise advisor of Carafe City!
-Dialogue: 0,0:02:56.26,0:02:59.10,Main,Nanjamo,0,0,0,,The Surging Chef, Haidai’s da guy!{Haidai dai!}
+Dialogue: 0,0:02:54.19,0:02:56.02,Main,Nanjamo,0,0,0,,The wise advisor of Carafe City!
+Dialogue: 0,0:02:56.27,0:02:59.10,Main,Nanjamo,0,0,0,,The Surging Chef, Haidai’s da guy!{Haidai dai!}
 Dialogue: 0,0:02:59.65,0:03:01.94,Main,Nanjamo,0,0,0,,His fave lunch spot \N is the Treasure Eatery?!
 Dialogue: 0,0:03:01.94,0:03:05.10,Main,Nanjamo,0,0,0,,With 25 years of service \N to the Pokémon League, Aoki-shi!
 Dialogue: 0,0:03:05.10,0:03:08.23,Main,Nanjamo,0,0,0,,Her biggest hit track is Ghost Father!
-Dialogue: 0,0:03:08.23,0:03:12.10,Main,Nanjamo,0,0,0,,The globe-trotting Soulful Rapper, Rhyme-shi!
+Dialogue: 0,0:03:08.23,0:03:12.10,Main,Nanjamo,0,0,0,,The globe-trotting \N Soulful Rapper, Rhyme-shi!
 Dialogue: 0,0:03:12.10,0:03:16.60,Main,Nanjamo,0,0,0,,You’ll see ads for her cosmetics brand \N Rouge Magic every day in Hakkou City!
 Dialogue: 0,0:03:16.60,0:03:18.19,Main,Nanjamo,0,0,0,,Lip-shi!
 Dialogue: 0,0:03:18.19,0:03:22.69,Main,Nanjamo,0,0,0,,{\q2}Is there really a nonstop stream of fans challenging \N the treacherous Mt. Nappé Gym just to meet him?!
@@ -91,7 +91,8 @@ Dialogue: 0,0:05:55.27,0:05:56.90,Main,Aliquis,0,0,0,,I should get going, too.
 Dialogue: 0,0:05:56.90,0:05:58.27,Main,Ohara,0,0,0,,Where to?
 Dialogue: 0,0:05:58.27,0:05:59.52,Main,Aliquis,0,0,0,,I’m going home.
 Dialogue: 0,0:05:59.52,0:06:03.94,Main,Aliquis,0,0,0,,My brother’s back from Blueberry Academy, \N and I promised him a battle.
-Dialogue: 0,0:06:04.69,0:06:09.69,Main,Aliquis,0,0,0,,Let’s show him our new battle style! \N Right, Masquernya?
+Dialogue: 0,0:06:04.69,0:06:08.23,Main,Aliquis,0,0,0,,We’re gonna show him \N our new battle style!
+Dialogue: 0,0:06:08.23,0:06:09.69,Main,Aliquis,0,0,0,,Right, Masquernya?
 Dialogue: 0,0:06:12.94,0:06:14.27,Main,Ohara,0,0,0,,Give it your all!
 Dialogue: 0,0:06:14.27,0:06:16.48,Main,Aliquis,0,0,0,,I will! Okay, see you!
 Dialogue: 0,0:06:16.48,0:06:17.85,Main,Aliquis,0,0,0,,Let’s go, Masquernya!

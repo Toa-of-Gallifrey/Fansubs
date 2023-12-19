@@ -37,102 +37,102 @@ Dialogue: 0,0:02:47.02,0:02:47.15,Main,,0,0,0,,{\bord0\blur5\c&H000000&\fnCaveat
 Dialogue: 0,0:02:56.23,0:02:59.35,Main,,0,0,0,,{\fad(1270,0)\fscx70\fscy70\fnFOT-Klee Pro DB\3c&HFFFFFF&\c&HFFFFFF&\bord5\blur0.6\an1\b0\pos(1208,925)\1a&HFF&\t(1225,1270,\1a&H00&)}Episode I   "Breathe Out"
 Dialogue: 1,0:02:56.23,0:02:59.35,Main,,0,0,0,,{\fad(1270,0)\fscx70\fscy70\fnFOT-Klee Pro DB\c&H000000&\3c&H000000&\bord1\blur0.6\an1\b0\pos(1208,925)\4a&HFF&}Episode I   "Breathe Out"
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:20.30,0:00:21.15,Main,Kid,0,0,0,,C’mon, let’s go!
+Dialogue: 0,0:00:20.31,0:00:21.15,Main,Kid,0,0,0,,C’mon, let’s go!
 Dialogue: 0,0:00:21.15,0:00:21.90,Main,Kid,0,0,0,,Okay!
-Dialogue: 0,0:02:44.78,0:02:45.87,Main,Ohara,0,0,0,,Bye-bye.
+Dialogue: 0,0:02:44.77,0:02:45.85,Main,Ohara,0,0,0,,Bye-bye.
 Dialogue: 0,0:02:59.35,0:03:05.73,Main,Hohma,0,0,0,,Hulkujira lives on Mt. Nappé, \N which is covered in snow all year round...!{This kid seems unreasonably excited about this factoid.}
-Dialogue: 0,0:03:06.13,0:03:10.22,Main,Hohma,0,0,0,,It absorbs nutrition from \N the cold and ice... Hmm, I see!
-Dialogue: 0,0:03:10.22,0:03:14.10,Main,Ohara,0,0,0,,U-Um... The Director really \N sprung this on us out of nowhere, huh?
+Dialogue: 0,0:03:06.15,0:03:10.23,Main,Hohma,0,0,0,,It absorbs nutrition from \N the cold and ice... Hmm, yes, I see!
+Dialogue: 0,0:03:10.23,0:03:14.10,Main,Ohara,0,0,0,,U-Um... The director really \N sprung this on us out of nowhere, huh?
 Dialogue: 0,0:03:14.10,0:03:16.85,Main,Ohara,0,0,0,,For the benefit of all \N new students and transfer students...
-Dialogue: 0,0:03:16.85,0:03:21.58,Main,Ohara,0,0,0,,“...I ask that you create a video \N showcasing the splendor of our Academy!”
-Dialogue: 0,0:03:21.58,0:03:24.15,Main,Ohara,0,0,0,,...were his exact words. \N What do we do with {\i1}that?{\i0}
-Dialogue: 0,0:03:26.75,0:03:28.90,Main,Hohma,0,0,0,,I never knew!
-Dialogue: 0,0:03:29.33,0:03:33.52,Main,Ohara,0,0,0,,Director! \N Why did you choose us three?!
+Dialogue: 0,0:03:16.85,0:03:21.56,Main,Ohara,0,0,0,,“...I ask that you create a video \N showcasing the splendor of our academy!”
+Dialogue: 0,0:03:21.56,0:03:24.15,Main,Ohara,0,0,0,,...were his exact words. \N What do we do with {\i1}that?{\i0}
+Dialogue: 0,0:03:26.73,0:03:28.90,Main,Hohma,0,0,0,,I never knew!
+Dialogue: 0,0:03:29.31,0:03:33.52,Main,Ohara,0,0,0,,Director! \N Why did you choose us three?!
 Dialogue: 0,0:03:33.98,0:03:35.98,Main,Nemo,0,0,0,,Terastallize your Pokémon!
 Dialogue: 0,0:03:35.98,0:03:39.56,Main,Nemo,0,0,0,,That way the moves of that type \N get even stronger! Got it?
-Dialogue: 0,0:03:39.56,0:03:40.82,Main,Nemo,0,0,0,,Let’s have fun!
-Dialogue: 0,0:03:40.82,0:03:44.57,Main,Ohara,0,0,0,,O-Oh, and you were going to \N battle Nemo-chan again soon, right?
-Dialogue: 0,0:03:44.57,0:03:46.44,Main,Ohara,0,0,0,,Give it your all, Aliquis.
-Dialogue: 0,0:03:47.88,0:03:49.82,Main,Aliquis,0,0,0,,You think I {\i1}hadn’t{\i0} \N been giving it my all?
-Dialogue: 0,0:03:49.82,0:03:51.73,Main,Ohara,0,0,0,,N-No, that’s not what I...
-Dialogue: 0,0:03:52.12,0:03:53.27,Main,Aliquis,0,0,0,,How about you, Ohara?
+Dialogue: 0,0:03:39.56,0:03:40.81,Main,Nemo,0,0,0,,Let’s have fun!
+Dialogue: 0,0:03:40.81,0:03:44.56,Main,Ohara,0,0,0,,O-Oh, and you were going to \N battle Nemo-chan again soon, right?
+Dialogue: 0,0:03:44.56,0:03:46.44,Main,Ohara,0,0,0,,Give it your all, Aliquis.
+Dialogue: 0,0:03:47.90,0:03:49.81,Main,Aliquis,0,0,0,,You think I {\i1}hadn’t{\i0} \N been giving it my all?
+Dialogue: 0,0:03:49.81,0:03:51.73,Main,Ohara,0,0,0,,N-No, that’s not what I...
+Dialogue: 0,0:03:52.10,0:03:53.27,Main,Aliquis,0,0,0,,How about you, Ohara?
 Dialogue: 0,0:03:53.27,0:03:57.35,Main,Aliquis,0,0,0,,Aren’t you playing a flute solo \N at the next concert?
-Dialogue: 0,0:03:57.35,0:04:00.07,Main,Aliquis,0,0,0,,I was real surprised you got picked. \N Congratulations.{https://jisho.org/search/%E5%A4%A7%E6%8A%9C%E6%93%A2}
-Dialogue: 0,0:04:01.18,0:04:02.69,Main,Ohara,0,0,0,,Thank you...
-Dialogue: 0,0:04:02.69,0:04:05.40,Main,Aliquis,0,0,0,,Your old man's conducting, right?
-Dialogue: 0,0:04:10.76,0:04:11.44,Main,Ohara,0,0,0,,My dad—
-Dialogue: 0,0:04:11.79,0:04:12.90,Main,Hohma,0,0,0,,{\i1}Big news!{\i0}
-Dialogue: 0,0:04:13.29,0:04:17.90,Main,Hohma,0,0,0,,They just published a theory about \N Pokémon that communicate using sound waves!
+Dialogue: 0,0:03:57.35,0:04:00.06,Main,Aliquis,0,0,0,,I was real surprised you got picked. \N Congratulations.{https://jisho.org/search/%E5%A4%A7%E6%8A%9C%E6%93%A2}
+Dialogue: 0,0:04:01.19,0:04:02.69,Main,Ohara,0,0,0,,Thank you.
+Dialogue: 0,0:04:02.69,0:04:05.40,Main,Aliquis,0,0,0,,Your old man’s conducting, right?
+Dialogue: 0,0:04:10.77,0:04:11.44,Main,Ohara,0,0,0,,My dad—
+Dialogue: 0,0:04:11.77,0:04:12.90,Main,Hohma,0,0,0,,{\i1}Big news!{\i0}
+Dialogue: 0,0:04:13.27,0:04:17.90,Main,Hohma,0,0,0,,They just published a theory about \N Pokémon that communicate using sound waves!
 Dialogue: 0,0:04:17.90,0:04:23.06,Main,Hohma,0,0,0,,For instance, Hulkujira use something called \N “echolocation” to find one another!
-Dialogue: 0,0:04:20.37,0:04:23.80,Main,Aliquis,0,0,0,,{\an8}Hohma! I was talking with Ohara!
-Dialogue: 0,0:04:23.80,0:04:25.46,Main,Hohma,0,0,0,,Whuh! Kuwassu!
-Dialogue: 0,0:04:28.19,0:04:31.41,Main,Hohma,0,0,0,,Are you... um... all right?
-Dialogue: 0,0:04:31.41,0:04:33.40,Main,Aliquis,0,0,0,,Cut it out already, Hohma!
+Dialogue: 0,0:04:20.35,0:04:23.81,Main,Aliquis,0,0,0,,{\an8}Hohma! I was talking with Ohara!
+Dialogue: 0,0:04:23.81,0:04:25.48,Main,Hohma,0,0,0,,Whuh! Kuwassu!
+Dialogue: 0,0:04:28.19,0:04:31.40,Main,Hohma,0,0,0,,Are you... um... all right?
+Dialogue: 0,0:04:31.40,0:04:33.40,Main,Aliquis,0,0,0,,Cut it out already, Hohma!
 Dialogue: 0,0:04:33.40,0:04:34.73,Main,Aliquis,0,0,0,,Control your Kuwassu!
-Dialogue: 0,0:04:34.73,0:04:35.76,Main,Hohma,0,0,0,,I’m sorry!
-Dialogue: 0,0:04:35.76,0:04:37.79,Main,Aliquis,0,0,0,,Get back here, you!
-Dialogue: 0,0:04:37.79,0:04:40.56,Main,Ohara,0,0,0,,Oh, no... \N I just can’t deal with this!
-Dialogue: 0,0:04:40.56,0:04:41.37,Main,Aliquis,0,0,0,,Quit running!
-Dialogue: 0,0:04:41.37,0:04:43.69,Main,Clavel,0,0,0,,Treasure hunting on Mt. Nappé, eh?
-Dialogue: 0,0:04:43.69,0:04:46.12,Main,Clavel,0,0,0,,Quite a remote destination.
-Dialogue: 0,0:04:46.80,0:04:50.44,Main,Ohara,0,0,0,,Um... I’m very sorry \N I abandoned the video project.
+Dialogue: 0,0:04:34.73,0:04:35.77,Main,Hohma,0,0,0,,I’m sorry!
+Dialogue: 0,0:04:35.77,0:04:37.77,Main,Aliquis,0,0,0,,Get back here, you!
+Dialogue: 0,0:04:37.77,0:04:40.56,Main,Ohara,0,0,0,,Oh, no... \N I just can’t deal with this!
+Dialogue: 0,0:04:40.56,0:04:41.35,Main,Aliquis,0,0,0,,Quit running!
+Dialogue: 0,0:04:41.35,0:04:43.69,Main,Clavel,0,0,0,,Treasure hunting on Mt. Nappé, eh?
+Dialogue: 0,0:04:43.69,0:04:46.10,Main,Clavel,0,0,0,,Quite a remote destination.
+Dialogue: 0,0:04:46.81,0:04:50.44,Main,Ohara,0,0,0,,Um... I’m very sorry \N I abandoned the video project.
 Dialogue: 0,0:04:50.44,0:04:54.94,Main,Ohara,0,0,0,,But... I think it’ll work out better \N without me there.
-Dialogue: 0,0:04:55.32,0:04:59.62,Main,Clavel,0,0,0,,I did believe you were \N the perfect person for the job...
-Dialogue: 0,0:04:59.62,0:05:01.15,Main,Clavel,0,0,0,,But I suppose I mustn’t push.
-Dialogue: 0,0:05:01.67,0:05:04.54,Main,Clavel,0,0,0,,But how are things proceeding \N with regards to the concert?
-Dialogue: 0,0:05:04.54,0:05:06.97,Main,Clavel,0,0,0,,Have you spoken to your father?
-Dialogue: 0,0:05:08.56,0:05:09.75,Main,Ohara,0,0,0,,Um...
-Dialogue: 0,0:05:11.37,0:05:14.65,Main,Clavel,0,0,0,,Oh, I apologize. \N I seem to have spoken out of line.{Like, oh, sensitive subject. That was not a good question for me to ask.}
-Dialogue: 0,0:05:14.65,0:05:18.57,Main,Clavel,0,0,0,,But please, do drop by my office \N if you are concerned about anything.
-Dialogue: 0,0:05:18.57,0:05:19.44,Main,Ohara,0,0,0,,Okay...
-Dialogue: 0,0:05:19.80,0:05:22.85,Main,Clavel,0,0,0,,I hope you find your treasure.
-Dialogue: 0,0:05:24.41,0:05:27.52,Main,Ohara,0,0,0,,Using the treasure hunt \N as an excuse to run away...
-Dialogue: 0,0:05:27.52,0:05:30.04,Main,Ohara,0,0,0,,I’m just the worst.
-Comment: 0,0:05:44.84,0:05:46.60,Main,Ohara,0,0,0,,
-Comment: 0,0:05:50.76,0:05:51.27,Main,Pepper,0,0,0,,
-Dialogue: 0,0:05:52.68,0:05:54.91,Main,Ohara,0,0,0,,Hogator! Come here!
-Dialogue: 0,0:05:56.47,0:05:57.27,Main,Ohara,0,0,0,,Huh...?
+Dialogue: 0,0:04:55.31,0:04:59.60,Main,Clavel,0,0,0,,I did believe you were \N the perfect person for the job...
+Dialogue: 0,0:04:59.60,0:05:01.15,Main,Clavel,0,0,0,,But I suppose I mustn’t push.
+Dialogue: 0,0:05:01.69,0:05:04.52,Main,Clavel,0,0,0,,But how are things proceeding \N with regards to the concert?
+Dialogue: 0,0:05:04.52,0:05:06.98,Main,Clavel,0,0,0,,Have you spoken to your father?
+Dialogue: 0,0:05:08.56,0:05:09.73,Main,Ohara,0,0,0,,Um...
+Dialogue: 0,0:05:11.35,0:05:14.65,Main,Clavel,0,0,0,,Oh, I apologize. \N I seem to have spoken out of line.{Like, oh, sensitive subject. That was not a good question for me to ask.}
+Dialogue: 0,0:05:14.65,0:05:18.56,Main,Clavel,0,0,0,,But please, do drop by my office \N if you are concerned about anything.
+Dialogue: 0,0:05:18.56,0:05:19.44,Main,Ohara,0,0,0,,Okay...
+Dialogue: 0,0:05:19.81,0:05:22.85,Main,Clavel,0,0,0,,I hope you find your treasure.
+Dialogue: 0,0:05:24.40,0:05:27.52,Main,Ohara,0,0,0,,Using the treasure hunt \N as an excuse to run away...
+Dialogue: 0,0:05:27.52,0:05:30.02,Main,Ohara,0,0,0,,I’m just the worst.
+Comment: 0,0:05:44.85,0:05:46.60,Main,Ohara,0,0,0,,
+Comment: 0,0:05:50.77,0:05:51.27,Main,Pepper,0,0,0,,
+Dialogue: 0,0:05:52.69,0:05:54.90,Main,Ohara,0,0,0,,Hogator! Come here!
+Dialogue: 0,0:05:56.48,0:05:57.27,Main,Ohara,0,0,0,,Huh...?
 Dialogue: 0,0:05:57.27,0:05:58.52,Main,Ohara,0,0,0,,Hogator?
-Dialogue: 0,0:05:58.52,0:06:00.04,Main,Ohara,0,0,0,,Where are you?
-Dialogue: 0,0:06:00.04,0:06:01.36,Main,Ohara,0,0,0,,Hogator!
-Dialogue: 0,0:06:09.03,0:06:11.83,Main,Ohara,0,0,0,,Wasn’t he from the Academy...?
-Dialogue: 0,0:06:33.89,0:06:35.83,Main,Aliquis,0,0,0,,Oha-kon-hello-ciao!
-Dialogue: 0,0:06:35.83,0:06:38.01,Main,Aliquis,0,0,0,,That guy there... Whozat?
-Dialogue: 0,0:06:38.01,0:06:42.63,Main,Aliquis,0,0,0,,Some really important guy from \N our esteemed Academy’s 800-year history!
-Dialogue: 0,0:06:42.63,0:06:44.21,Main,Aliquis,0,0,0,,You {\i1}sure{\i0} this’ll work?
-Dialogue: 0,0:06:44.21,0:06:45.99,Main,Hohma,0,0,0,,It’ll be a {\i1}huge{\i0} hit, guaranteed!
-Dialogue: 0,0:06:45.99,0:06:47.53,Main,Hohma,0,0,0,,Oh! Ohara-san!
-Dialogue: 0,0:06:51.19,0:06:53.59,Main,Hohma,0,0,0,,Where are you going \N with all that luggage?
-Dialogue: 0,0:06:54.16,0:06:55.02,Main,Ohara,0,0,0,,Uh...
+Dialogue: 0,0:05:58.52,0:06:00.02,Main,Ohara,0,0,0,,Where are you?
+Dialogue: 0,0:06:00.02,0:06:01.35,Main,Ohara,0,0,0,,Hogator!
+Dialogue: 0,0:06:09.02,0:06:11.81,Main,Ohara,0,0,0,,Wasn’t he from the academy...?
+Dialogue: 0,0:06:33.90,0:06:35.81,Main,Aliquis,0,0,0,,Oha-kon-hello-ciao!
+Dialogue: 0,0:06:35.81,0:06:38.02,Main,Aliquis,0,0,0,,That guy there... Whozat?
+Dialogue: 0,0:06:38.02,0:06:42.65,Main,Aliquis,0,0,0,,Some really important guy from \N our esteemed academy’s 800-year history!
+Dialogue: 0,0:06:42.65,0:06:44.23,Main,Aliquis,0,0,0,,You {\i1}sure{\i0} this’ll work?
+Dialogue: 0,0:06:44.23,0:06:45.98,Main,Hohma,0,0,0,,It’ll be a {\i1}huge{\i0} hit, guaranteed!
+Dialogue: 0,0:06:45.98,0:06:47.52,Main,Hohma,0,0,0,,Oh! Ohara-san!
+Dialogue: 0,0:06:51.19,0:06:53.60,Main,Hohma,0,0,0,,Where are you going \N with all that luggage?
+Dialogue: 0,0:06:54.15,0:06:55.02,Main,Ohara,0,0,0,,Uh...
 Dialogue: 0,0:06:55.02,0:06:57.69,Main,Ohara,0,0,0,,Off to do some treasure hunting...
-Dialogue: 0,0:06:57.69,0:06:59.39,Main,Aliquis,0,0,0,,Where you headed?
-Dialogue: 0,0:06:59.39,0:07:00.56,Main,Ohara,0,0,0,,Mt. Nappé.
+Dialogue: 0,0:06:57.69,0:06:59.40,Main,Aliquis,0,0,0,,Where you headed?
+Dialogue: 0,0:06:59.40,0:07:00.56,Main,Ohara,0,0,0,,Mt. Nappé.
 Dialogue: 0,0:07:00.56,0:07:03.06,Main,Hohma,0,0,0,,All the way out there?!
-Dialogue: 0,0:07:03.81,0:07:06.64,Main,Aliquis,0,0,0,,Bringing your flute \N to the snowy mountain...
-Dialogue: 0,0:07:06.64,0:07:08.31,Main,Ohara,0,0,0,,Just... for the ascent.
-Dialogue: 0,0:07:08.31,0:07:10.89,Main,Hohma,0,0,0,,Oh, I get you!
-Dialogue: 0,0:07:15.08,0:07:16.28,Main,Aliquis,0,0,0,,Spicy!
-Dialogue: 0,0:07:16.94,0:07:17.99,Main,Ohara,0,0,0,,Are you all right?!
+Dialogue: 0,0:07:03.81,0:07:06.65,Main,Aliquis,0,0,0,,Bringing your flute \N to the snowy mountain...
+Dialogue: 0,0:07:06.65,0:07:08.31,Main,Ohara,0,0,0,,Just... for the ascent.
+Dialogue: 0,0:07:08.31,0:07:10.90,Main,Hohma,0,0,0,,Oh, I get you!
+Dialogue: 0,0:07:15.06,0:07:16.27,Main,Aliquis,0,0,0,,Spicy!
+Dialogue: 0,0:07:16.94,0:07:17.98,Main,Ohara,0,0,0,,Are you all right?!
 Dialogue: 0,0:07:18.69,0:07:21.06,Main,Aliquis,0,0,0,,Another miss...
-Dialogue: 0,0:07:21.42,0:07:24.65,Main,Hohma,0,0,0,,Mt. Nappé is where \N the Hulkujira live, isn’t it?!
-Dialogue: 0,0:07:24.65,0:07:30.14,Main,Hohma,0,0,0,,{\q2}Research says that the soundwaves they emit when \N at their most relaxed sound very similar to a flut—
-Dialogue: 0,0:07:30.14,0:07:31.50,Main,Aliquis,0,0,0,,{\i1}Be quiet!{\i0}
+Dialogue: 0,0:07:21.44,0:07:24.65,Main,Hohma,0,0,0,,Mt. Nappé is where \N the Hulkujira live, isn’t it?!
+Dialogue: 0,0:07:24.65,0:07:30.15,Main,Hohma,0,0,0,,{\q2}Research says that the sound waves they emit when \N at their most relaxed sound very similar to a flut—
+Dialogue: 0,0:07:30.15,0:07:31.48,Main,Aliquis,0,0,0,,{\i1}Be quiet!{\i0}
 Dialogue: 0,0:07:34.06,0:07:35.19,Main,Ohara,0,0,0,,A flute!
-Dialogue: 0,0:07:47.84,0:07:51.40,Main,Ohara,0,0,0,,I’m sorry... I’m so sorry...
+Dialogue: 0,0:07:47.85,0:07:51.40,Main,Ohara,0,0,0,,I’m sorry... I’m so sorry...
 Dialogue: 0,0:08:16.06,0:08:17.73,Main,Ohara,0,0,0,,Hogator!
 Dialogue: 0,0:08:19.52,0:08:20.44,Main,Ohara,0,0,0,,Are you all right?!
-Dialogue: 0,0:09:03.16,0:09:04.36,Main,Pepper,0,0,0,,I’m saved...
-Dialogue: 0,0:09:17.45,0:09:21.68,Main,Pepper,0,0,0,,Say... Were you the one \N who distracted the Hulkujira?
-Dialogue: 0,0:09:21.68,0:09:23.22,Main,Pepper,0,0,0,,You’re really good at the flute, huh?
-Dialogue: 0,0:09:24.90,0:09:27.79,Main,Ohara,0,0,0,,My dad... taught me...
-Dialogue: 0,0:09:29.35,0:09:30.49,Main,Pepper,0,0,0,,Huh...
-Dialogue: 0,0:09:30.49,0:09:32.22,Main,Pepper,0,0,0,,You and your parents \N get along, then.
-Dialogue: 0,0:09:32.22,0:09:34.66,Main,Ohara,0,0,0,,I wouldn’t say that...
-Dialogue: 0,0:09:34.66,0:09:38.77,Main,Ohara,0,0,0,,I wouldn’t have managed to play \N if it hadn’t been for Hogator.
-Dialogue: 0,0:09:41.40,0:09:42.46,Main,Pepper,0,0,0,,I see.
-Dialogue: 0,0:09:44.00,0:09:46.26,Main,Pepper,0,0,0,,I suppose I should \N be thanking {\i1}you,{\i0} too.
-Dialogue: 0,0:09:46.26,0:09:47.28,Main,Pepper,0,0,0,,Thank you.
-Dialogue: 0,0:09:50.55,0:09:52.95,Main,Pepper,0,0,0,,Look after your partner Pokémon, okay?
-Dialogue: 0,0:10:02.99,0:10:04.65,Main,Ohara,0,0,0,,I’m never letting go!
-Dialogue: 0,0:10:28.23,0:10:31.17,Main,Ohara,0,0,0,,Oh... I see...
-Dialogue: 0,0:10:36.05,0:10:39.25,Main,Ohara,0,0,0,,Thank you, Hogator! \N Let’s get back to school!
+Dialogue: 0,0:09:03.15,0:09:04.35,Main,Pepper,0,0,0,,I’m saved...
+Dialogue: 0,0:09:17.44,0:09:21.69,Main,Pepper,0,0,0,,Say... Were you the one \N who distracted the Hulkujira?
+Dialogue: 0,0:09:21.69,0:09:23.23,Main,Pepper,0,0,0,,You’re really good at the flute, huh?
+Dialogue: 0,0:09:24.90,0:09:27.77,Main,Ohara,0,0,0,,My dad... taught me...
+Dialogue: 0,0:09:29.35,0:09:30.48,Main,Pepper,0,0,0,,Huh...
+Dialogue: 0,0:09:30.48,0:09:32.23,Main,Pepper,0,0,0,,You and your parents \N get along, then.
+Dialogue: 0,0:09:32.23,0:09:34.65,Main,Ohara,0,0,0,,I wouldn’t say that...
+Dialogue: 0,0:09:34.65,0:09:38.77,Main,Ohara,0,0,0,,I wouldn’t have managed to play \N if it hadn’t been for Hogator.
+Dialogue: 0,0:09:41.40,0:09:42.48,Main,Pepper,0,0,0,,I see.
+Dialogue: 0,0:09:43.98,0:09:46.27,Main,Pepper,0,0,0,,I suppose I should \N be thanking {\i1}you,{\i0} too.
+Dialogue: 0,0:09:46.27,0:09:47.27,Main,Pepper,0,0,0,,Thank you.
+Dialogue: 0,0:09:50.56,0:09:52.94,Main,Pepper,0,0,0,,Look after your partner Pokémon, okay?
+Dialogue: 0,0:10:02.98,0:10:04.65,Main,Ohara,0,0,0,,I’m never letting go!
+Dialogue: 0,0:10:28.23,0:10:31.19,Main,Ohara,0,0,0,,Oh... I see...
+Dialogue: 0,0:10:36.06,0:10:39.23,Main,Ohara,0,0,0,,Thank you, Hogator! \N Let’s get back to school!

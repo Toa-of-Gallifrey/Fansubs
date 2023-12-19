@@ -18,7 +18,7 @@ Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:48.77,0:01:54.52,Main,,0,0,0,,{\fad(0,1353)\fscx70\fscy70\fnFOT-Klee Pro DB\bord5\blur0.6\an5\b0\3c&H0E0E0E&\c&H0E0E0E&\t(0,980,\3c&HBFBFBF&\c&HBFBFBF&)\t(980,1730,\3c&HFFFFFF&\c&HFFFFFF&)\t(4397,4442,\1a&HFF&)\pos(910.67,455.1)}Episode 2   "Breathe In"
+Dialogue: 0,0:01:48.77,0:01:54.52,Main,,0,0,0,,{\fad(0,1353)\fscx70\fscy70\fnFOT-Klee Pro DB\bord5\blur0.6\an5\b0\3c&H090909&\c&H090909&\t(0,230,\3c&H474747&\c&H474747&)\t(230,980,\3c&HBFBFBF&\c&HBFBFBF&)\t(980,1730,\3c&HFFFFFF&\c&HFFFFFF&)\t(4397,4442,\1a&HFF&)\pos(910.67,455.1)}Episode 2   "Breathe In"
 Dialogue: 1,0:01:48.77,0:01:54.52,Main,,0,0,0,,{\fad(0,1353)\fscx70\fscy70\fnFOT-Klee Pro DB\c&H000000&\3c&H000000&\bord1\blur0.6\an5\b0\4a&HFF&\pos(910.67,455.1)}Episode 2   "Breathe In"
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:17.98,0:00:20.06,Main,Aliquis,0,0,0,,Masquernya! Leaf Storm!
@@ -135,5 +135,5 @@ Dialogue: 0,0:10:03.90,0:10:07.35,Main,Hohma,0,0,0,,Masquernya toughed it out \N
 Dialogue: 0,0:10:08.48,0:10:09.73,Main,Nemo,0,0,0,,Amazing!
 Dialogue: 0,0:10:12.48,0:10:15.27,Main,Ohara,0,0,0,,Go for it, Aliquis! Masquernya!
 Dialogue: 0,0:10:17.19,0:10:19.23,Main,Nemo,0,0,0,,Let’s have us a fruitful battle!{EN game: Let’s have us a fruitful battle!}
-Dialogue: 0,0:10:19.23,0:10:22.98,Main,Aliquis,0,0,0,,Let’s show them the bond we share, \N ‘til the very end!
+Dialogue: 0,0:10:19.23,0:10:22.98,Main,Aliquis,0,0,0,,Let’s show ‘em the bond we share, \N ‘til the very end!
 Dialogue: 0,0:10:22.98,0:10:24.06,Main,Aliquis,0,0,0,,Masquernya!
