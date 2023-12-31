@@ -408,8 +408,8 @@ Dialogue: 0,0:21:55.59,0:21:56.96,ED,,0,0,0,,{\blur0.6}Yo! Ready, go!
 Dialogue: 0,0:21:56.96,0:21:59.09,ED,,0,0,0,,{\blur0.6}Let's keep on learning about more Pokémon
 Dialogue: 0,0:21:59.09,0:22:01.13,ED,,0,0,0,,{\blur0.6}How about Pokémon with "gon" in their names?!
 Comment: 0,0:22:01.13,0:22:02.80,ED,,0,0,0,,{\blur0.6}3 2 1 Let's Go!
-Dialogue: 0,0:22:02.93,0:22:04.89,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
-Dialogue: 0,0:22:04.89,0:22:06.97,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
+Dialogue: 0,0:22:02.93,0:22:04.85,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
+Dialogue: 0,0:22:04.85,0:22:06.97,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
 Dialogue: 0,0:22:06.97,0:22:09.14,ED,,0,0,0,,{\fad(190,0)\blur0.6}Now, can you say it with Roy?
 Dialogue: 0,0:22:09.14,0:22:10.60,ED,,0,0,0,,{\blur0.6}Are you ready?
 Dialogue: 0,0:22:10.60,0:22:14.19,ED,,0,0,0,,{\blur0.6}So, can you do it too? Give it a try with me!
@@ -427,12 +427,12 @@ Dialogue: 0,0:22:34.87,0:22:37.17,ED,,0,0,0,,{\blur0.6}Next up, cheerful bird Po
 Dialogue: 0,0:22:37.17,0:22:39.17,ED,,0,0,0,,{\blur0.6}Let's have Liko show us how it's done!
 Comment: 0,0:22:39.17,0:22:40.96,ED,,0,0,0,,{\blur0.6}3 2 1 Go!
 Dialogue: 0,0:22:41.09,0:22:42.97,ED,,0,0,0,,{\blur0.6}Perap raps, Ikirinko Uproars,
-Dialogue: 0,0:22:42.97,0:22:45.22,ED,,0,0,0,,{\fad(0,120)\blur0.6}Kuwassu dances and the carnival starts
+Dialogue: 0,0:22:42.97,0:22:45.22,ED,,0,0,0,,{\fad(0,120)\blur0.6}Kuwassu dances and the carnival starts!
 Dialogue: 0,0:22:45.22,0:22:47.76,ED,,0,0,0,,{\fad(180,0)\blur0.6}Now let's have our guest give it a go!
 Dialogue: 0,0:22:47.76,0:22:48.35,ED,,0,0,0,,{\blur0.6}Let's go!
 Dialogue: 0,0:22:48.35,0:22:50.10,ED,,0,0,0,,{\blur0.6}Yo-ssu! All you Pokémon Trainers out there!
 Dialogue: 0,0:22:50.10,0:22:52.27,ED,,0,0,0,,{\blur0.6}Y'all been groovin'? It's Gurumin!!
-Dialogue: 0,0:22:52.48,0:22:54.35,ED,,0,0,0,,{\blur0.6}Perap raps, Ikirinko Uproars,
+Dialogue: 0,0:22:52.27,0:22:54.35,ED,,0,0,0,,{\blur0.6}Perap raps, Ikirinko Uproars,
 Dialogue: 0,0:22:54.35,0:22:56.19,ED,,0,0,0,,{\fad(0,120)\blur0.6}Kuwassu dances and the carnival starts!
 Dialogue: 0,0:22:56.19,0:22:57.69,ED,,0,0,0,,{\fad(180,0)\blur0.6}Brave Bird-Bird-Bird
 Dialogue: 0,0:22:57.69,0:23:00.07,ED,,0,0,0,,{\blur0.6}Take to the skies with courage
@@ -1115,3 +1115,5 @@ Data: 1118,_aegi_folddata,e0;1;146
 Data: 1119,_aegi_folddata,e1;1;146
 Data: 1120,_aegi_folddata,e0;1;147
 Data: 1121,_aegi_folddata,e1;1;147
+Data: 1122,_aegi_folddata,e0;0;130
+Data: 1123,_aegi_folddata,e1;0;130

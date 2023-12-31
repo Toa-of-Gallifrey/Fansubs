@@ -490,7 +490,7 @@ Dialogue: 2,0:10:39.54,0:10:49.55,Logo,,0,0,0,,{\clip(27,820,1903,821)\pos(1456.
 Dialogue: 2,0:10:39.54,0:10:49.55,Logo,,0,0,0,,{=1020}{\clip(27,821,1903,822)\pos(1456.01,811.71)\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:10:39.54,0:10:49.55,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\blur0.6\pos(1458,1041.33)}The Gleam of Terapagos
 Dialogue: 0,0:10:39.54,0:10:49.55,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord3\blur2\c&HFFFFFF&\pos(1458,1041.33)\3a&H20&}The Gleam of Terapagos
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:09.89,0:22:13.02,ED,,0,0,0,,{=1057}{\fad(350,0)\blur0.6}Yo! We're (Yeah!) the Rising Voltteccers
 Dialogue: 0,0:22:13.02,0:22:15.31,ED,,0,0,0,,{\blur0.6}What Pokémon are we gonna find next?
 Dialogue: 0,0:22:15.31,0:22:17.61,ED,,0,0,0,,{\blur0.6}Now, time for some more adventures!
@@ -498,12 +498,12 @@ Dialogue: 0,0:22:17.61,0:22:18.98,ED,,0,0,0,,{\blur0.6}Yo! Ready, go!
 Dialogue: 0,0:22:18.98,0:22:21.11,ED,,0,0,0,,{\blur0.6}Let's keep on learning about more Pokémon
 Dialogue: 0,0:22:21.11,0:22:23.15,ED,,0,0,0,,{\blur0.6}How about Pokémon with "gon" in their names?!
 Comment: 0,0:22:23.15,0:22:24.82,ED,,0,0,0,,{\blur0.6}3 2 1 Let's Go!
-Dialogue: 0,0:22:24.95,0:22:26.91,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
-Dialogue: 0,0:22:26.91,0:22:28.99,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
+Dialogue: 0,0:22:24.95,0:22:26.87,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
+Dialogue: 0,0:22:26.87,0:22:28.99,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
 Dialogue: 0,0:22:28.99,0:22:31.16,ED,,0,0,0,,{\fad(190,0)\blur0.6}Now, can you say it with Roy?
 Dialogue: 0,0:22:31.16,0:22:32.62,ED,,0,0,0,,{\blur0.6}Are you ready?
-Dialogue: 0,0:22:32.62,0:22:35.71,ED,,0,0,0,,{\blur0.6}So, can you do it too? Give it a try with me!
-Dialogue: 0,0:22:36.38,0:22:38.30,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
+Dialogue: 0,0:22:32.62,0:22:36.21,ED,,0,0,0,,{\blur0.6}So, can you do it too? Give it a try with me!
+Dialogue: 0,0:22:36.21,0:22:38.30,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
 Dialogue: 0,0:22:38.30,0:22:40.34,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
 Dialogue: 0,0:22:40.34,0:22:41.97,ED,,0,0,0,,{\fad(180,0)\blur0.6}Brave in heart-heart-heart
 Dialogue: 0,0:22:41.97,0:22:44.01,ED,,0,0,0,,{\blur0.6}Surfing through the skies
@@ -517,12 +517,12 @@ Dialogue: 0,0:22:56.90,0:22:59.19,ED,,0,0,0,,{\blur0.6}Next up, Pokémon that rh
 Dialogue: 0,0:22:59.19,0:23:01.19,ED,,0,0,0,,{\blur0.6}Let's have Liko show us how it's done!
 Comment: 0,0:23:01.19,0:23:02.99,ED,,0,0,0,,{\blur0.6}3 2 1 Go!
 Dialogue: 0,0:23:02.99,0:23:05.28,ED,,0,0,0,,{\blur0.6}Fake Tears Usokki, moonlit night Blacky
-Dialogue: 0,0:23:05.28,0:23:07.24,ED,,0,0,0,,{\fad(0,120)\blur0.6}Happy Egg-holding Lucky
+Dialogue: 0,0:23:05.28,0:23:07.24,ED,,0,0,0,,{\fad(0,120)\blur0.6}Happy Egg-holding Lucky!
 Dialogue: 0,0:23:07.24,0:23:09.91,ED,,0,0,0,,{\fad(180,0)\blur0.6}Now let's have our guest give it a go!
 Dialogue: 0,0:23:09.91,0:23:11.24,ED,,0,0,0,,{\blur0.6}Let's go!
 Dialogue: 0,0:23:11.24,0:23:14.29,ED,,0,0,0,,{\blur0.6}Molly here. Sounds like this'll be worth my time.
-Dialogue: 0,0:23:14.46,0:23:16.67,ED,,0,0,0,,{\blur0.6}Fake Tears Usokki, moonlit night Blacky
-Dialogue: 0,0:23:16.67,0:23:18.21,ED,,0,0,0,,{\fad(0,120)\blur0.6}Happy Egg-holding Lucky
+Dialogue: 0,0:23:14.29,0:23:16.67,ED,,0,0,0,,{\blur0.6}Fake Tears Usokki, moonlit night Blacky
+Dialogue: 0,0:23:16.67,0:23:18.21,ED,,0,0,0,,{\fad(0,120)\blur0.6}Happy Egg-holding Lucky!
 Dialogue: 0,0:23:18.21,0:23:19.71,ED,,0,0,0,,{\fad(180,0)\blur0.6}Brave Bird-Bird-Bird
 Dialogue: 0,0:23:19.71,0:23:22.09,ED,,0,0,0,,{\blur0.6}Take to the skies with courage
 Dialogue: 0,0:23:22.09,0:23:23.76,ED,,0,0,0,,{\blur0.6}Fly in the sky-sky-sky
@@ -530,10 +530,10 @@ Dialogue: 0,0:23:23.76,0:23:25.80,ED,,0,0,0,,{\blur0.6}Heading to our destinatio
 Dialogue: 0,0:23:25.80,0:23:29.18,ED,,0,0,0,,{\blur0.6}Even if we get hurt and stumble at times
 Dialogue: 0,0:23:29.18,0:23:31.56,ED,,0,0,0,,{\blur0.6}Proving we're friends with our hand sign
 Dialogue: 0,0:23:31.56,0:23:34.14,ED,,0,0,0,,{=1058}{\fad(0,190)\blur0.6}Together we're the Rising Voltteccers!
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:09.98,0:22:11.60,Main,,0,0,0,,{\fnFOT-Rowdy Std EB\b0\an7\frz21.04\fs67\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(0,350,\3c&H04E0FF&\c&H04E0FF&\4c&H006BF9&)\bord6\shad6\4a&H00&\blur0.6\pos(23,172.33)\t(1270,1620,\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&)}Rising\NVoltteccers\NRap
 Dialogue: 1,0:22:09.98,0:22:11.60,Main,,0,0,0,,{\fnFOT-Rowdy Std EB\b0\an7\frz21.04\fs67\c&HFFFFFF&\4c&HFFFFFF&\t(0,350,\c&H000000&\4c&H006BF9&)\bord0\4a&H00&\blur0.6\pos(23,172.33)\t(1270,1620,\c&HFFFFFF&\4c&HFFFFFF&)\shad6\4a&HFF&}Rising\NVoltteccers\NRap
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:22:23.15,0:22:23.20,Main,,0,0,0,,{=1010=1051}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\q2\frz355.4\pos(1129.33,733)}Pokémon with "gon" in their names
 Dialogue: 1,0:22:23.20,0:22:23.24,Main,,0,0,0,,{=1010}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\q2\frz355.4\pos(1125.47,732.56)}Pokémon with "gon" in their names
 Dialogue: 1,0:22:23.24,0:22:23.28,Main,,0,0,0,,{=1010}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\q2\frz355.4\pos(1121.62,732.07)}Pokémon with "gon" in their names
@@ -624,7 +624,7 @@ Dialogue: 0,0:22:24.24,0:22:24.28,Main,,0,0,0,,{=1008}{\fscx100\fscy100\1a&H00&\
 Dialogue: 0,0:22:24.28,0:22:24.32,Main,,0,0,0,,{=1008}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\q2\frz355.4\pos(1025.5,720.77)}Pokémon with "gon" in their names
 Dialogue: 0,0:22:24.32,0:22:24.36,Main,,0,0,0,,{=1008}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\q2\frz355.4\pos(1021.66,720.31)}Pokémon with "gon" in their names
 Dialogue: 0,0:22:24.36,0:22:24.41,Main,,0,0,0,,{=1008=1052}{\fscx100\fscy100\1a&H00&\3a&H00&\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\q2\frz355.4\pos(1017.82,719.86)}Pokémon with "gon" in their names
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:22:34.29,0:22:34.33,Main,,0,0,0,,{=1007=1053}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&HFFFFFF&\c&HFFFFFF&\bord6\pos(1242.4,672.47)}Pokémon with "gon" in their names
 Dialogue: 1,0:22:34.33,0:22:34.37,Main,,0,0,0,,{=1007}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&HFFFFFF&\c&HFFFFFF&\bord6\pos(1238.44,673.02)}Pokémon with "gon" in their names
 Dialogue: 1,0:22:34.37,0:22:34.42,Main,,0,0,0,,{=1007}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&HFFFFFF&\c&HFFFFFF&\bord6\pos(1234.53,673.56)}Pokémon with "gon" in their names
@@ -727,7 +727,7 @@ Dialogue: 0,0:22:35.54,0:22:35.58,Main,,0,0,0,,{=1005}{\blur0.6\fnITC Bolt Bold\
 Dialogue: 0,0:22:35.58,0:22:35.63,Main,,0,0,0,,{=1005}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\pos(1120.82,689.66)}Pokémon with "gon" in their names
 Dialogue: 0,0:22:35.63,0:22:35.67,Main,,0,0,0,,{=1005}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\pos(1116.9,690.22)}Pokémon with "gon" in their names
 Dialogue: 0,0:22:35.67,0:22:35.71,Main,,0,0,0,,{=1005=1054}{\blur0.6\fnITC Bolt Bold\frz3.62\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\pos(1112.96,690.78)}Pokémon with "gon" in their names
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:01.19,0:23:01.23,Main,,0,0,0,,{=1065=1072}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz3.039\pos(1206.4,719.8)}Pokémon that rhyme with "ki"
 Dialogue: 1,0:23:01.23,0:23:01.27,Main,,0,0,0,,{=1065}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz3.039\pos(1204.65,720.1)}Pokémon that rhyme with "ki"
 Dialogue: 1,0:23:01.27,0:23:01.31,Main,,0,0,0,,{=1065}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz3.039\pos(1202.94,720.45)}Pokémon that rhyme with "ki"
@@ -824,7 +824,7 @@ Dialogue: 0,0:23:02.36,0:23:02.40,Main,,0,0,0,,{=1063}{\blur0.6\fnITC Bolt Bold\
 Dialogue: 0,0:23:02.40,0:23:02.44,Main,,0,0,0,,{=1063}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz3.039\pos(1155.95,729.08)}Pokémon that rhyme with "ki"
 Dialogue: 0,0:23:02.44,0:23:02.48,Main,,0,0,0,,{=1063}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz3.039\pos(1154.21,729.38)}Pokémon that rhyme with "ki"
 Dialogue: 0,0:23:02.48,0:23:02.52,Main,,0,0,0,,{=1063=1073}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz3.039\pos(1152.48,729.69)}Pokémon that rhyme with "ki"
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:11.24,0:23:11.28,Main,,0,0,0,,{=1071=1074}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz355.3\pos(1233.6,780.6)}Pokémon that rhyme with "ki"
 Dialogue: 1,0:23:11.28,0:23:11.32,Main,,0,0,0,,{=1071}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz355.3\pos(1231.33,780.4)}Pokémon that rhyme with "ki"
 Dialogue: 1,0:23:11.32,0:23:11.36,Main,,0,0,0,,{=1071}{\blur0.6\fnITC Bolt Bold\3c&HFFFFFF&\c&HFFFFFF&\bord6\frz355.3\pos(1229.09,780.22)}Pokémon that rhyme with "ki"
@@ -1014,7 +1014,7 @@ Dialogue: 0,0:23:13.70,0:23:13.74,Main,,0,0,0,,{=1069}{\blur0.6\fnITC Bolt Bold\
 Dialogue: 0,0:23:13.74,0:23:13.78,Main,,0,0,0,,{=1069}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz355.3\pos(1098.24,769.3)}Pokémon that rhyme with "ki"
 Dialogue: 0,0:23:13.78,0:23:13.83,Main,,0,0,0,,{=1069}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz355.3\pos(1095.95,769.1)}Pokémon that rhyme with "ki"
 Dialogue: 0,0:23:13.83,0:23:13.87,Main,,0,0,0,,{=1069=1075}{\blur0.6\fnITC Bolt Bold\3c&H000000&\c&H000000&\4c&H000000&\4a&H00&\bord12\shad4\frz355.3\pos(1093.74,768.94)}Pokémon that rhyme with "ki"
-Comment: 0,0:00:00.15,0:00:00.15,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:45.53,0:22:07.51,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord5\blur8\3a&H20&\c&H1D1E1E&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
 Dialogue: 1,0:21:45.53,0:22:07.51,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord3\blur0.6\c&H1FE9E7&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:21:45.53,0:22:07.51,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
@@ -1023,7 +1023,7 @@ Dialogue: 0,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 1,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord3\blur0.6\c&H1FE9E7&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:21:54.83,0:22:07.51,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Lampler\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Lamp Pokémon\NType: {\c&H744871&}Ghost{\c&H1F1F1F&}/{\c&H3B6AEC&}Fire
 Dialogue: 0,0:21:54.83,0:22:07.51,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Lampler\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Lamp Pokémon\NType: Ghost/Fire
 Dialogue: 0,0:21:55.50,0:21:58.88,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N0.6m
@@ -1038,7 +1038,7 @@ Dialogue: 0,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Libraries
 Dialogue: 0,0:23:41.52,0:23:53.54,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Where does Lampler often appear?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&H918FED&\shad2}A: Hospitals
 Dialogue: 1,0:23:41.52,0:23:53.54,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Where does Lampler often appear?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: Hospitals
-Comment: 0,0:02:20.16,0:02:28.59,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{=1033}{\fad(480,0)\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Stolen Treasure
 Dialogue: 1,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,700)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Stolen Treasure
 Comment: 2,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}The Treasure That Washed Ashore
@@ -1089,7 +1089,7 @@ Dialogue: 2,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{\clip(12,670,1904,671)
 Dialogue: 2,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}The Stolen Treasure
 Dialogue: 2,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}The Stolen Treasure
 Dialogue: 2,0:02:20.16,0:02:28.59,Episode titles,,0,0,0,,{=1034}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}The Stolen Treasure
-Comment: 0,0:02:20.16,0:02:28.59,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{=1035}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
 Dialogue: 1,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
 Comment: 2,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
@@ -1134,7 +1134,7 @@ Dialogue: 2,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\clip(4,223,554,224)\p
 Dialogue: 2,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
 Dialogue: 2,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{=1036}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Orio and the Monster Ball Artisan
 Dialogue: 1,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Orio and the Monster Ball Artisan
 Comment: 2,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}I Found You, Hogator
@@ -1185,7 +1185,7 @@ Dialogue: 2,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,670,1904,671)
 Dialogue: 2,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Orio and the Monster Ball Artisan
 Dialogue: 2,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Orio and the Monster Ball Artisan
 Dialogue: 2,0:24:26.99,0:24:30.49,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Orio and the Monster Ball Artisan
-Comment: 0,0:00:00.06,0:00:00.06,Main,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 997,_aegi_folddata,e0;1;127
@@ -1222,3 +1222,5 @@ Data: 1072,_aegi_folddata,e0;1;140
 Data: 1073,_aegi_folddata,e1;1;140
 Data: 1074,_aegi_folddata,e0;1;141
 Data: 1075,_aegi_folddata,e1;1;141
+Data: 1076,_aegi_folddata,e0;0;130
+Data: 1077,_aegi_folddata,e1;0;130
