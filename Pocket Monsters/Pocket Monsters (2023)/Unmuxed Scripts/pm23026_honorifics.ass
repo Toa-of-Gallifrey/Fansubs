@@ -450,12 +450,12 @@ Dialogue: 0,0:22:17.61,0:22:18.98,ED,,0,0,0,,{\blur0.6}Yo! Ready, go!
 Dialogue: 0,0:22:18.98,0:22:21.11,ED,,0,0,0,,{\blur0.6}Let's keep on learning about more Pokémon
 Dialogue: 0,0:22:21.11,0:22:23.15,ED,,0,0,0,,{\blur0.6}How about Pokémon with "gon" in their names?!
 Comment: 0,0:22:23.15,0:22:24.82,ED,,0,0,0,,{\blur0.6}3 2 1 Let's Go!
-Dialogue: 0,0:22:24.95,0:22:26.91,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
-Dialogue: 0,0:22:26.91,0:22:28.99,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
+Dialogue: 0,0:22:24.95,0:22:26.87,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
+Dialogue: 0,0:22:26.87,0:22:28.99,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
 Dialogue: 0,0:22:28.99,0:22:31.16,ED,,0,0,0,,{\fad(190,0)\blur0.6}Now, can you say it with Roy?
 Dialogue: 0,0:22:31.16,0:22:32.62,ED,,0,0,0,,{\blur0.6}Are you ready?
-Dialogue: 0,0:22:32.62,0:22:35.71,ED,,0,0,0,,{\blur0.6}So, can you do it too? Give it a try with me!
-Dialogue: 0,0:22:36.38,0:22:38.30,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
+Dialogue: 0,0:22:32.62,0:22:36.21,ED,,0,0,0,,{\blur0.6}So, can you do it too? Give it a try with me!
+Dialogue: 0,0:22:36.21,0:22:38.30,ED,,0,0,0,,{\blur0.6}Flygon, Uonoragon, Gonbe,
 Dialogue: 0,0:22:38.30,0:22:40.34,ED,,0,0,0,,{\fad(0,120)\blur0.6}Toroggon, Dugong, Kabigon, yay!
 Dialogue: 0,0:22:40.34,0:22:41.97,ED,,0,0,0,,{\fad(180,0)\blur0.6}Brave in heart-heart-heart
 Dialogue: 0,0:22:41.97,0:22:44.01,ED,,0,0,0,,{\blur0.6}Surfing through the skies
@@ -472,8 +472,8 @@ Dialogue: 0,0:23:03.03,0:23:05.03,ED,,0,0,0,,{\blur0.6}Saidon, Yadon, Donmel, Gr
 Dialogue: 0,0:23:05.03,0:23:07.24,ED,,0,0,0,,{\fad(0,120)\blur0.6}blazing on and on, it's Lizardon!
 Dialogue: 0,0:23:07.24,0:23:09.91,ED,,0,0,0,,{\fad(180,0)\blur0.6}Now let's have our guest give it a go!
 Dialogue: 0,0:23:09.91,0:23:11.24,ED,,0,0,0,,{\blur0.6}Let's go!
-Dialogue: 0,0:23:11.24,0:23:13.87,ED,,0,0,0,,{\blur0.6}Friede here! This'll be a snap!
-Dialogue: 0,0:23:14.41,0:23:16.46,ED,,0,0,0,,{\blur0.6}Saidon, Yadon, Donmel, Groudon,
+Dialogue: 0,0:23:11.24,0:23:14.29,ED,,0,0,0,,{\blur0.6}Friede here! This'll be a snap!
+Dialogue: 0,0:23:14.29,0:23:16.46,ED,,0,0,0,,{\blur0.6}Saidon, Yadon, Donmel, Groudon,
 Dialogue: 0,0:23:16.46,0:23:18.21,ED,,0,0,0,,{\fad(0,120)\blur0.6}blazing on and on, it's Lizardon!
 Dialogue: 0,0:23:18.21,0:23:19.71,ED,,0,0,0,,{\fad(180,0)\blur0.6}Brave Bird-Bird-Bird
 Dialogue: 0,0:23:19.71,0:23:22.09,ED,,0,0,0,,{\blur0.6}Take to the skies with courage
@@ -1174,3 +1174,5 @@ Data: 1035,_aegi_folddata,e0;1;136
 Data: 1036,_aegi_folddata,e1;1;136
 Data: 1037,_aegi_folddata,e0;1;137
 Data: 1038,_aegi_folddata,e1;1;137
+Data: 1039,_aegi_folddata,e0;0;130
+Data: 1040,_aegi_folddata,e1;0;130
