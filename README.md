@@ -20,6 +20,7 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
   - Twin Indigo of Melting Snow  
   - Afterschool Breath  
   - Stuff Your Pocket With Adventure  
+  - Pokémon Concierge  
   - Unsorted  
 	+ The Distant Blue Sky  
 	+ Original Series Episode 20  
