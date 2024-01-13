@@ -84,8 +84,8 @@ Dialogue: 1,0:22:14.31,0:22:17.78,ED,,0,0,0,,The Trials we’ve overcome are pro
 Dialogue: 0,0:22:14.31,0:22:17.78,EDp2,,0,0,0,,The Trials we’ve overcome are proof of our bond
 Dialogue: 1,0:22:17.78,0:22:21.03,ED,,0,0,0,,Someday they’ll be tales we can brag about
 Dialogue: 0,0:22:17.78,0:22:21.03,EDp2,,0,0,0,,Someday they’ll be tales we can brag about
-Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
-Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
+Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
+Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
 Dialogue: 1,0:22:24.32,0:22:27.58,ED,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 0,0:22:24.32,0:22:27.58,EDp2,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 1,0:22:27.58,0:22:33.79,ED,,0,0,0,,The day comes to an end under sunset skies
@@ -287,7 +287,7 @@ Dialogue: 0,0:10:50.98,0:10:53.76,Main,Rotom,0,0,0,,I want you to \N deliver thi
 Dialogue: 0,0:10:55.73,0:10:58.19,Main,Satoshi,0,0,0,,It should be around here...
 Dialogue: 0,0:10:59.14,0:11:01.14,Main,Kaki,0,0,0,,Isn’t that the place?
 Dialogue: 0,0:11:01.82,0:11:02.95,Main,Satoshi,0,0,0,,Alola!
-Dialogue: 0,0:11:03.82,0:11:07.50,Main,Kojiro,0,0,0,,The doughnut stand is on break right now. \N Everyone’s out.{yes, I know 90% of the planet spells it ‘donut’. It’s still wrong. -Puto}
+Dialogue: 0,0:11:03.82,0:11:07.50,Main,Kojiro,0,0,0,,The doughnut stand is on break right now. \N Everyone’s out.
 Dialogue: 0,0:11:07.50,0:11:12.25,Main,Satoshi,0,0,0,,Um... We’re not customers. \N We’re from the Pokémon Center.
 Dialogue: 0,0:11:12.25,0:11:14.59,Main,Kaki,0,0,0,,We’ve come to \N deliver some medicine.
 Dialogue: 0,0:11:14.59,0:11:16.65,Main,Kojiro,0,0,0,,Oh, the one I ord...

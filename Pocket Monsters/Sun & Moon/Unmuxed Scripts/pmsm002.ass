@@ -296,7 +296,7 @@ Dialogue: 0,0:12:19.51,0:12:23.89,Main,Mao,0,0,0,,A sport that combines swimming
 Dialogue: 0,0:12:23.89,0:12:25.89,Main,Mao,0,0,0,,Who will win?
 Dialogue: 0,0:12:26.25,0:12:28.30,Main,Satoshi,0,0,0,,Go, Pikachu!
 Dialogue: 0,0:12:28.30,0:12:31.11,Main,Mamane,0,0,0,,Pikachu, Ashimari, \N both of you do your best!
-Dialogue: 0,0:12:41.06,0:12:43.32,Main,Satoshi,0,0,0,,Looking good! \N Keep it up till the finish line!
+Dialogue: 0,0:12:41.06,0:12:43.32,Main,Satoshi,0,0,0,,Looking good! \N Keep it up ‘til the finish line!
 Dialogue: 0,0:12:44.31,0:12:45.99,Main,Kaki,0,0,0,,I doubt it’ll be that easy.
 Dialogue: 0,0:12:49.28,0:12:49.79,Main,Satoshi,0,0,0,,What?!
 Dialogue: 0,0:12:49.79,0:12:51.41,Main,Suiren,0,0,0,,Just one last spurt!
@@ -443,7 +443,7 @@ Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.07,0:24:02.20,Main,Musashi,0,0,0,,Yahoo!
 Dialogue: 0,0:24:02.20,0:24:04.33,Main,Musashi,0,0,0,,The Alola Region’s just \N the best, isn’t it?!
 Dialogue: 0,0:24:04.33,0:24:08.12,Main,Kojiro,0,0,0,,Blue skies, white clouds, \N and the emerald ocean!
-Dialogue: 0,0:24:08.12,0:24:12.84,Main,Nyarth,0,0,0,,And Alola’s famous Malasada Doughnuts, \N coated in golden honey! Can’t miss those, meow!
+Dialogue: 0,0:24:08.12,0:24:12.84,Main,Nyarth,0,0,0,,And Alola’s famous malasada doughnuts, \N coated in golden honey! Can’t miss those, meow!
 Dialogue: 0,0:24:12.84,0:24:15.59,Main,Musashi,0,0,0,,I know, right? \N They’re {\i1}super{\i0} delicious!
 Dialogue: 0,0:24:15.59,0:24:17.38,Main,Kojiro,0,0,0,,We’ll play a crucial part \N in this new land, too!
 Dialogue: 0,0:24:17.38,0:24:19.01,Main,Musashi,0,0,0,,Team Rocket’s \N moving up in the world!

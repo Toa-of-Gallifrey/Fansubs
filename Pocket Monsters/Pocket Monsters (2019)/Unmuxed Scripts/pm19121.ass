@@ -218,7 +218,7 @@ Dialogue: 0,0:08:40.08,0:08:40.58,Strictly text,,0,0,0,,{\fad(0,310)\fnHiraKakuP
 Dialogue: 0,0:08:41.08,0:08:43.50,Strictly text,,0,0,0,,{\an7\fad(200,0)\fnHiraKakuProN-W6-Str\fsp-1\shad2\fs35\pos(95.33,11.33)}One to watch! The PWCS's eye of the typhoon?!
 Dialogue: 0,0:08:43.92,0:08:51.14,Strictly text,,0,0,0,,{\fad(150, 0)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\c&H343436&\bord2\3c&HFAFAFB&\shad3\pos(766.41,691.12)\4c&H61E3FF&}Competitor Satoshi's {\c&H1819E8&}shocking battles ranked!
 Dialogue: 0,0:08:51.14,0:13:18.49,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\c&H1518E5&\bord2\3c&HFAFAFB&\pos(1043.74,105.45)}Shocking {\c&H353431&}battle rankings!
-Dialogue: 0,0:08:54.22,0:09:01.19,Strictly text,,30,0,30,,{\fad(250, 0)\an7\fsp-2\fnRo GSan Serif Std U\c&H1518E7&\bord3\blur1\3c&HFCFEFE&}A brand new form of defense?!
+Dialogue: 0,0:08:54.22,0:09:01.19,Strictly text,,30,0,30,,{\fad(250, 0)\an7\fsp-2\fnRo GSan Serif Std U\c&H1518E7&\bord3\blur1\3c&HFCFEFE&}A brand-new form of defense?!
 Dialogue: 0,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&HABB8BD&}m 5.33 640 l 37.33 697.33 265.33 697.33 234.67 638.67{\p0}
 Dialogue: 1,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs25\pos(137.11,668.45)}Competitor Saito
 Dialogue: 0,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&HFC6001&}m 1042.66 641.33 l 1012 696 1241.33 695.55 1269.78 639.11{\p0}
@@ -401,7 +401,7 @@ Dialogue: 5,0:02:11.48,0:02:14.43,Main,Announcer,0,0,0,,More than 10,000 trainer
 Dialogue: 5,0:02:15.06,0:02:17.37,Main,Announcer,0,0,0,,And reigning over that lofty summit are...
 Dialogue: 5,0:02:18.45,0:02:20.62,Main,Announcer,0,0,0,,...the Masters Eight!
 Dialogue: 5,0:02:21.24,0:02:28.84,Main,Announcer,0,0,0,,{\an8}This summer, the battles between the Masters Eight, \N the Masters Tournament, have begun!
-Dialogue: 5,0:02:28.84,0:02:33.71,Main,Announcer,0,0,0,,{\an8}With champions hailing from various regions, \N it is truly a “festival of dreams”!
+Dialogue: 5,0:02:28.84,0:02:33.71,Main,Announcer,0,0,0,,{\an8}With Champions hailing from various regions, \N it is truly a festival of dreams!
 Dialogue: 5,0:02:33.71,0:02:37.68,Main,Announcer,0,0,0,,{\an8}The first round went from \N turbulent match to turbulent match!
 Dialogue: 5,0:02:38.32,0:02:42.64,Main,Announcer,0,0,0,,{\an8}All eyes were on the first match, \N where Competitor Dande faced Competitior Alain.
 Dialogue: 5,0:02:43.61,0:02:46.69,Main,Dande,0,0,0,,Kyodai... max!{ep115}
@@ -491,7 +491,7 @@ Dialogue: 5,0:08:34.93,0:08:38.08,Main,Announcer,0,450,0,,{\an8}he can draw out 
 Dialogue: 5,0:08:38.89,0:08:43.92,Main,Announcer,0,0,0,,Our program has followed Competitor Satoshi \N ever since he was in the Super Class.
 Dialogue: 5,0:08:44.48,0:08:50.45,Main,Announcer,0,0,0,,{\an8\q2}Along with telling you which Pokémon to keep your eyes on, \N we’ll be ranking his most shocking battles!
 Dialogue: 5,0:08:51.64,0:08:54.36,Main,Announcer,0,0,0,,In third is... Pikachu!
-Dialogue: 5,0:08:55.53,0:09:00.15,Main,Announcer,0,0,0,,A brand new form of defense \N that sent a stadium into an uproar!
+Dialogue: 5,0:08:55.53,0:09:00.15,Main,Announcer,0,0,0,,A brand-new form of defense \N that sent a stadium into an uproar!
 Dialogue: 5,0:09:01.56,0:09:07.11,Main,Announcer,0,0,0,,Faced with Luchabull’s swift movements, \N and the top-class Flying-type move, God Bird,
 Dialogue: 5,0:09:07.11,0:09:10.08,Main,Announcer,0,0,0,,Competitor Satoshi \N was set for a struggle.
 Dialogue: 5,0:09:10.08,0:09:13.16,Main,Announcer,0,0,0,,But then, \N he came up with a secret plan!
@@ -584,7 +584,7 @@ Dialogue: 5,0:16:38.18,0:16:41.23,Main,Satoshi,0,0,0,,I need you... right now!
 Dialogue: 5,0:16:43.82,0:16:46.56,Main,Satoshi,0,0,0,,You don’t have to \N trust me right away.
 Dialogue: 5,0:16:46.56,0:16:48.74,Main,Satoshi,0,0,0,,But just know I trust you!{flashback end again, edited this line too. - Toa}
 Dialogue: 5,0:16:54.41,0:16:58.97,Main,Narra,0,0,0,,“He’s worked hard, trying to \N get stronger for that boy ever since,
-Dialogue: 5,0:16:58.97,0:17:03.25,Main,Narra,0,0,0,,“and finally, he’s now competing in \N a tournament to decide the world’s best.”
+Dialogue: 5,0:16:58.97,0:17:03.25,Main,Narra,0,0,0,,{\q2}“and finally, he’s now competing in \N a tournament to crown the world’s strongest.”
 Dialogue: 5,0:17:03.25,0:17:05.58,Main,Narra,0,0,0,,Now that’s love! That is love!
 Dialogue: 5,0:17:05.58,0:17:09.53,Main,Narra,0,0,0,,“You’re a strong, big, \N and beloved friend of mine.
 Dialogue: 5,0:17:09.53,0:17:12.85,Main,Narra,0,0,0,,“I’m wishing with all my heart \N that you’ll fight with your full power.
@@ -602,7 +602,7 @@ Dialogue: 5,0:17:49.67,0:17:54.37,Main,Narra,0,0,0,,“The days we strove togeth
 Dialogue: 5,0:17:54.37,0:17:58.88,Main,Narra,0,0,0,,“That despite his initial vain views, \N upon bonding closer with his lord,
 Dialogue: 5,0:17:58.88,0:18:01.35,Main,Narra,0,0,0,,“he grew into a reliable knight.”
 Dialogue: 5,0:18:02.43,0:18:03.94,Main,Rinto,0,0,0,,Psycho Cutter.{ep60 flashback start}
-Dialogue: 5,0:18:09.35,0:18:13.61,Main,Rinto,0,0,0,,I wonder what Mr. Gampi would say \N if he could see you now.
+Dialogue: 5,0:18:09.35,0:18:13.61,Main,Rinto,0,0,0,,I wonder what Mr. Gampi{Honorifics note: Gampi-san} would say \N if he could see you now.
 Dialogue: 5,0:18:15.62,0:18:17.42,Main,Satoshi,0,0,0,,Are you okay, Kamonegi?
 Dialogue: 5,0:18:25.00,0:18:29.86,Main,Rinto,0,0,0,,You got my hopes up about your potential... \N But I must say, I’m a bit disappointed.
 Dialogue: 5,0:18:29.86,0:18:34.26,Main,Rinto,0,0,0,,You’re still far too inadequate a foe \N for my Earlade.
@@ -663,15 +663,15 @@ Comment: 5,0:23:35.44,0:23:35.44,Main,,0,0,0,,{The Shirona Hype}
 Dialogue: 5,0:23:36.32,0:23:37.90,Main,Shirona,0,0,0,,Once this tournament’s over...
 Dialogue: 5,0:23:38.26,0:23:39.98,Main,Shirona,0,0,0,,I’m retiring from battles.
 Dialogue: 5,0:23:39.48,0:23:39.98,Main,Carne,0,0,0,,{\an8}Huh?!
-Dialogue: 5,0:23:40.37,0:23:43.19,Main,Satoshi,0,0,0,,We’re gonna win this, \N Ms. Shirona!
+Dialogue: 5,0:23:40.37,0:23:43.19,Main,Satoshi,0,0,0,,We’re gonna win this, \N Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 5,0:23:43.19,0:23:47.14,Main,Shirona,0,0,0,,Our battle has lit a fire in me!
 Dialogue: 5,0:23:47.14,0:23:48.62,Main,Shirona,0,0,0,,Hypnosis!
-Dialogue: 5,0:23:52.18,0:23:53.04,Main,Satoshi,0,0,0,,Ms. Shirona...
+Dialogue: 5,0:23:52.18,0:23:53.04,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...
 Dialogue: 0,0:23:54.20,0:23:55.08,Main,Satoshi,0,0,0,,She’s strong...
-Dialogue: 5,0:23:56.16,0:23:59.03,Main,Go,0,0,0,,Don’t let Ms. Shirona \N set the pace!
+Dialogue: 5,0:23:56.16,0:23:59.03,Main,Go,0,0,0,,Don’t let Ms. Shirona{Honorifics note: Shirona-san} \N set the pace!
 Dialogue: 5,0:23:59.03,0:24:00.38,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 5,0:24:06.75,0:24:07.93,Main,Satoshi,0,0,0,,Pikachu!
-Dialogue: 5,0:24:14.39,0:24:17.73,Main,Satoshi,0,0,0,,After I beat Ms. Shirona, \N I’m gonna get even stronger!
+Dialogue: 5,0:24:14.39,0:24:17.73,Main,Satoshi,0,0,0,,After I beat Ms. Shirona{Honorifics note: Shirona-san}, \N I’m gonna get even stronger!
 Dialogue: 5,0:24:18.52,0:24:21.52,Main,Shirona,0,0,0,,I’ve longed for \N a Pokémon battle like this!
 Dialogue: 5,0:24:21.88,0:24:23.27,Main,Satoshi & Shirona,0,0,0,,Charge!
 Dialogue: 5,0:24:24.98,0:24:26.99,Main,Shirona,0,0,0,,Let’s heat things up even more!

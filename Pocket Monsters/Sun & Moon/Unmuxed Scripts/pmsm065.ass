@@ -83,8 +83,8 @@ Dialogue: 1,0:22:14.31,0:22:17.77,ED,,0,0,0,,The Trials we’ve overcome are pro
 Dialogue: 0,0:22:14.31,0:22:17.77,EDp2,,0,0,0,,The Trials we’ve overcome are proof of our bond
 Dialogue: 1,0:22:17.77,0:22:21.02,ED,,0,0,0,,Someday they’ll be tales we can brag about
 Dialogue: 0,0:22:17.77,0:22:21.02,EDp2,,0,0,0,,Someday they’ll be tales we can brag about
-Dialogue: 1,0:22:21.02,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
-Dialogue: 0,0:22:21.02,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
+Dialogue: 1,0:22:21.02,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
+Dialogue: 0,0:22:21.02,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
 Dialogue: 1,0:22:24.32,0:22:27.57,ED,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 0,0:22:24.32,0:22:27.57,EDp2,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 1,0:22:27.57,0:22:33.79,ED,,0,0,0,,The day comes to an end under sunset skies
@@ -185,7 +185,7 @@ Dialogue: 0,0:05:51.14,0:05:54.22,Main,Rotom,0,0,0,,Its eyes might be \N like a 
 Dialogue: 0,0:05:54.22,0:05:57.83,Main,Lilie,0,0,0,,Um... Is there any possibility \N its eyes might sparkle like Purin’s...?
 Dialogue: 0,0:05:57.83,0:05:59.75,Main,Satoshi,0,0,0,,That would be great, too!
 Dialogue: 0,0:06:03.23,0:06:05.47,Main,Them,0,0,0,,{\i1}I need to know!{\i0}
-Dialogue: 0,0:06:06.73,0:06:11.72,Main,Alolan Oak,0,0,0,,These Miare Galettes are \N absolutely super! Raikou! Entei! Suicune!{Alternately here we could have him describe them with a word that rhymes with “Raikou” maybe? -Starfish}
+Dialogue: 0,0:06:06.73,0:06:11.72,Main,Alolan Oak,0,0,0,,These Miare Galettes are \N absolutely super! Raikou! Entei! Suikun!{Alternately here we could have him describe them with a word that rhymes with “Raikou” maybe? -Starfish}
 Dialogue: 0,0:06:12.45,0:06:15.35,Main,Ilima,0,0,0,,I’m glad you liked my souvenir.
 Dialogue: 0,0:06:15.95,0:06:18.73,Main,Alolan Oak,0,0,0,,So, how is life in Kalos?
 Dialogue: 0,0:06:19.16,0:06:22.75,Main,Ilima,0,0,0,,There are many strong trainers \N in the Kalos League,

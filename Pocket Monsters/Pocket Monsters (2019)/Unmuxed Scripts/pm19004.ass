@@ -14,6 +14,7 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.250000
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,12 +42,12 @@ Dialogue: 0,0:00:02.73,0:00:05.61,Main,Narrator,0,0,0,,Lugia brought Satoshi and
 Dialogue: 0,0:00:05.61,0:00:10.32,Main,Narrator,0,0,0,,They became research fellows \N at Kuchiba City’s new Sakuragi Institute,
 Dialogue: 0,0:00:10.74,0:00:13.45,Main,Narrator,0,0,0,,where they solved the mystery \N of the Fushigisou march.
 Dialogue: 0,0:00:13.45,0:00:17.00,Main,Narrator,0,0,0,,They once again found themselves thrilled \N by the wonders of Pokémon.
-Dialogue: 0,0:00:18.37,0:00:25.71,Main,Narrator,0,0,0,,And today, they greet \N another new morning at the Institute.
+Dialogue: 0,0:00:18.37,0:00:25.71,Main,Narrator,0,0,0,,And today, they greet \N another new morning at the institute.
 Dialogue: 0,0:00:34.72,0:00:36.06,Main,Satoshi,0,0,0,,Look at this, Go!
 Dialogue: 0,0:00:36.06,0:00:38.48,Main,Satoshi,0,0,0,,It’s a huge discovery!
 Dialogue: 0,0:00:38.48,0:00:40.19,Main,Go,0,0,0,,A huge discovery?
 Dialogue: 0,0:00:40.19,0:00:43.82,Main,Satoshi,0,0,0,,You can brush your teeth \N really fast if you do this!
-Dialogue: 0,0:00:47.74,0:00:49.07,Main,Satoshi,0,0,0,,You’ve got it, Pikachu!{Could the やるな be taken as "Not bad"? - Toa of the Batch}
+Dialogue: 0,0:00:47.74,0:00:49.07,Main,Satoshi,0,0,0,,Not bad, Pikachu!
 Dialogue: 0,0:00:49.07,0:00:52.41,Main,Satoshi,0,0,0,,But I can do it faster!
 Dialogue: 0,0:00:54.74,0:00:56.74,Main,Go,0,0,0,,You’ll make yourselves \N dizzy doing that.
 Dialogue: 0,0:00:57.75,0:00:59.29,Main,Satoshi,0,0,0,,I’ll be fi—
@@ -67,15 +68,15 @@ Dialogue: 0,0:02:17.16,0:02:18.83,Main,Sakuragi,0,0,0,,Now, now, calm down.
 Dialogue: 0,0:02:18.83,0:02:21.66,Main,Sakuragi,0,0,0,,That phenomenon has been observed \N in the Galar Region.
 Dialogue: 0,0:02:21.66,0:02:23.50,Main,Go,0,0,0,,The Galar Region?
 Dialogue: 0,0:02:23.50,0:02:26.17,Main,Satoshi,0,0,0,,Director Sakuragi! \N I wanna go there! {003 NEP (expanded)}
-Dialogue: 0,0:02:26.17,0:02:27.04,Main,Go,0,0,0,,Me, too! {Added comma. - Toa}
-Dialogue: 0,0:02:27.04,0:02:30.46,Main,Sakuragi,0,0,0,,Very well... \N It’s a great opportunity!{Something about the way he delivers this line is a little odd to me. - Toa of the Batch}
+Dialogue: 0,0:02:26.17,0:02:27.04,Main,Go,0,0,0,,Me too!
+Dialogue: 0,0:02:27.04,0:02:30.46,Main,Sakuragi,0,0,0,,Very well... \N It’s a great opportunity!
 Dialogue: 0,0:02:30.46,0:02:33.68,Main,Sakuragi,0,0,0,,You can see Pokémon gigantification \N with your very own eyes.
 Dialogue: 0,0:02:33.68,0:02:35.76,Main,Sakuragi,0,0,0,,Etch the experience \N into your minds and bodies.
 Dialogue: 0,0:02:35.76,0:02:37.43,Main,Satoshi & Go,0,0,0,,All right!
 Dialogue: 0,0:02:37.43,0:02:39.64,Main,Satoshi,0,0,0,,Just you wait, Galar Region!
 Comment: 0,0:02:43.35,0:02:43.35,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:11.48,0:04:11.48,Main,,0,0,0,,{Part B}
-Dialogue: 0,0:04:29.42,0:04:32.04,Main,Go,0,0,0,,There it is! \N The Galar Region! {Separated into two exclamations and added linebreak. - Toa}
+Dialogue: 0,0:04:29.42,0:04:32.04,Main,Go,0,0,0,,There it is! \N The Galar Region!
 Dialogue: 0,0:04:32.04,0:04:33.29,Main,Satoshi,0,0,0,,Where? Where?
 Dialogue: 0,0:05:08.12,0:05:10.46,Main,Go,0,0,0,,Hmm... \N From here, we should...
 Dialogue: 0,0:05:10.46,0:05:12.83,Main,Satoshi,0,0,0,,Go! Which way now?
@@ -111,7 +112,7 @@ Dialogue: 0,0:07:12.04,0:07:14.00,Main,Go,0,0,0,,It came flying over here, didn�
 Dialogue: 0,0:07:22.00,0:07:24.38,Main,Satoshi,0,0,0,,It’s a Pokémon! \N Gotta get the camera!
 Dialogue: 0,0:07:24.38,0:07:24.84,Main,Go,0,0,0,,Right.
 Dialogue: 0,0:07:33.93,0:07:35.89,Main,Satoshi,0,0,0,,Hey! My backpack!
-Dialogue: 0,0:07:35.89,0:07:36.89,Main,Go,0,0,0,,This one ran off, too!
+Dialogue: 0,0:07:35.89,0:07:36.89,Main,Go,0,0,0,,This one ran off too!
 Dialogue: 0,0:07:36.89,0:07:39.36,Main,Go,0,0,0,,Were they working together?!{003 NEP}{Were they a Nakama?!-blu}
 Dialogue: 0,0:07:39.36,0:07:40.56,Main,Satoshi,0,0,0,,After them!
 Dialogue: 0,0:07:47.66,0:07:51.28,Main,Go,0,0,0,,Hey, your ticket to the Wild Area \N was in that backpack, wasn’t it?
@@ -126,7 +127,7 @@ Dialogue: 0,0:08:38.96,0:08:40.88,Main,Satoshi,0,0,0,,Uh... This way?
 Dialogue: 0,0:08:43.63,0:08:45.63,Main,Satoshi,0,0,0,,A dead end?!
 Dialogue: 0,0:08:51.89,0:08:54.51,Main,Satoshi,0,0,0,,Don’t tell me...
 Dialogue: 0,0:08:54.51,0:08:57.27,Main,Satoshi,0,0,0,,I’m lost!
-Dialogue: 0,0:08:58.73,0:09:03.02,Main,Rotom Satoshi Ver.,0,0,0,,Incoming call from Go. \N Incoming call from Go. {Added linebreak. - Toa}
+Dialogue: 0,0:08:58.73,0:09:03.02,Main,Rotom Satoshi Ver.,0,0,0,,Incoming call from Go. \N Incoming call from Go.
 Dialogue: 0,0:09:20.12,0:09:21.42,Main,Satoshi,0,0,0,,Go!
 Dialogue: 0,0:09:21.83,0:09:23.83,Main,Go,0,0,0,,Shh! Quietly!
 Dialogue: 0,0:09:30.26,0:09:31.22,Main,Satoshi,0,0,0,,They’re—
@@ -209,11 +210,11 @@ Dialogue: 0,0:17:00.87,0:17:05.50,Main,Go,0,0,0,,...you’ve resigned yourselves
 Dialogue: 0,0:17:18.35,0:17:20.23,Main,Go,0,0,0,,Don’t give up!
 Dialogue: 0,0:17:20.81,0:17:22.69,Main,Go,0,0,0,,The world is a huge place!
 Dialogue: 0,0:17:22.69,0:17:25.48,Main,Go,0,0,0,,If you just want it bad enough, \N you can go anywhere!
-Dialogue: 0,0:17:25.48,0:17:26.98,Main,Go,0,0,0,,Meet all sorts of people, too!
+Dialogue: 0,0:17:25.48,0:17:26.98,Main,Go,0,0,0,,Meet all sorts of people too!
 Dialogue: 0,0:17:27.40,0:17:28.74,Main,Go,0,0,0,,So...
 Dialogue: 0,0:17:28.74,0:17:31.24,Main,Go,0,0,0,,Get out there \N and give everything a try!
 Dialogue: 0,0:17:31.95,0:17:33.82,Main,Satoshi,0,0,0,,He’s right, you know!
-Dialogue: 0,0:17:35.03,0:17:38.91,Main,Satoshi,0,0,0,,I mean, he acts all smug about it, \N but it’s a new idea for him, too.
+Dialogue: 0,0:17:35.03,0:17:38.91,Main,Satoshi,0,0,0,,I mean, he acts all smug about it, \N but it’s a new idea for him too.
 Dialogue: 0,0:17:38.91,0:17:41.33,Main,Go,0,0,0,,Hey! I’ve always thought that!
 Dialogue: 0,0:17:41.33,0:17:42.42,Main,Satoshi,0,0,0,,You sure?
 Dialogue: 0,0:17:42.42,0:17:44.13,Main,Go,0,0,0,,Yes, I am!
@@ -257,7 +258,7 @@ Dialogue: 0,0:23:09.49,0:23:10.83,Main,Go,0,0,0,,Go!
 Dialogue: 0,0:23:12.16,0:23:15.08,Main,Satoshi,0,0,0,,All right, let’s go find \N a giant Pokémon!{05:12}
 Dialogue: 0,0:23:18.46,0:23:23.80,Main,Go,0,0,0,,I’m sorry. I decided that \N the first Pokémon I catch will be Mew.{10:23 (several lines strung together)}
 Dialogue: 0,0:23:23.80,0:23:25.55,Main,Satoshi,0,0,0,,Huh? What’s this?{11:02}
-Dialogue: 0,0:23:27.01,0:23:28.26,Main,Satoshi,0,0,0,,Run!{逃げろ as opposed to episode 5's 逃げるんだ (11:47), I take it there's no meaningful difference as far as TL goes? - Toa of the Batch}
+Dialogue: 0,0:23:27.01,0:23:28.26,Main,Satoshi,0,0,0,,Run!{逃げろ as opposed to episode 5's 逃げるんだ (11:47)}
 Dialogue: 0,0:23:29.39,0:23:31.10,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 0,0:23:31.10,0:23:32.60,Main,Go,0,0,0,,Kabigon Grows Giant?!
 Dialogue: 0,0:23:32.60,0:23:34.43,Main,Satoshi & Go,0,0,0,,The Mystery of Daimax!!

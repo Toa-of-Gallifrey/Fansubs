@@ -14,6 +14,8 @@ Video Aspect Ratio: 0
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.375000
+Scroll Position: 77
+Active Line: 100
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +56,7 @@ Dialogue: 0,0:01:37.04,0:01:42.83,Main,Okido,0,0,0,,You see, this younger collea
 Dialogue: 0,0:01:42.83,0:01:44.83,Main,Satoshi,0,0,0,,A new laboratory?
 Dialogue: 0,0:01:44.83,0:01:49.71,Main,Okido,0,0,0,,That’s right. So I figured I’d invite you \N to its opening ceremony.
 Dialogue: 0,0:01:50.13,0:01:51.59,Main,Okido,0,0,0,,You {\i1}are{\i0} going, I take it?
-Dialogue: 0,0:01:51.59,0:01:54.18,Main,Satoshi,0,0,0,,Yeah! And you, too, Pikachu!
+Dialogue: 0,0:01:51.59,0:01:54.18,Main,Satoshi,0,0,0,,Yeah! And you too, Pikachu!
 Dialogue: 0,0:01:54.18,0:01:55.09,Main,Hanako,0,0,0,,“Of course!”
 Dialogue: 0,0:01:58.93,0:02:00.64,Main,Satoshi,0,0,0,,Mom?!
 Dialogue: 0,0:02:02.56,0:02:05.90,Main,Hanako,0,0,0,,I just came to bring your lunch, \N but what a great thing I just heard!
@@ -136,7 +138,7 @@ Dialogue: 0,0:10:13.63,0:10:14.84,Main,Oddly distinctive human being,0,0,0,,Thun
 Dialogue: 0,0:10:14.84,0:10:16.30,Main,Oddly distinctive human being,0,0,0,,Gänger! Night Head!
 Dialogue: 0,0:10:33.99,0:10:36.74,Main,Go,0,0,0,,Wait for me, Lugia!
 Dialogue: 0,0:10:43.79,0:10:45.79,Main,Human being,0,0,0,,All right! \N Let’s fight it together!
-Dialogue: 0,0:10:45.79,0:10:46.75,Main,Human being,0,0,0,,It’s a Raid Battle!
+Dialogue: 0,0:10:45.79,0:10:46.75,Main,Human being,0,0,0,,It’s a Raid Battle!{Let’s have a Raid Battle!}
 Dialogue: 0,0:10:46.75,0:10:48.50,Main,Human beingz,0,0,0,,{\i1}Yeah!{\i0}
 Dialogue: 0,0:10:54.43,0:10:55.80,Main,Human being,0,0,0,,Yamirami! Evil Pulse!
 Dialogue: 0,0:10:55.80,0:10:57.18,Main,Human being,0,0,0,,Usokki! Rock Slide!

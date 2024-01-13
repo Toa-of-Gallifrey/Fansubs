@@ -57,8 +57,8 @@ Comment: 0,0:00:55.03,0:00:55.03,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:23.12,0:02:23.12,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:02:38.47,0:02:40.97,Main,Satoshi,0,0,0,,Pikachu, you really gave it your all!
 Dialogue: 0,0:02:40.97,0:02:42.35,Main,Satoshi,0,0,0,,You watch from here.
-Dialogue: 0,0:02:58.07,0:03:02.12,Main,Go,0,0,0,,Satoshi has three Pokémon left. \N Ms. Shirona has four.
-Dialogue: 0,0:03:02.12,0:03:05.79,Main,Hop,0,0,0,,That gap is huge. \N Ms. Shirona is just too incredible.
+Dialogue: 0,0:02:58.07,0:03:02.12,Main,Go,0,0,0,,Satoshi has three Pokémon left. \N Ms. Shirona{Honorifics note: Shirona-san} has four.
+Dialogue: 0,0:03:02.12,0:03:05.79,Main,Hop,0,0,0,,That gap is huge. \N Ms. Shirona{Honorifics note: Shirona-san} is just too incredible.
 Dialogue: 0,0:03:06.37,0:03:08.17,Main,Kojiro,0,0,0,,‘Scu-‘scu-‘scu-‘scuse us!
 Dialogue: 0,0:03:09.42,0:03:11.38,Main,Musashi,0,0,0,,Hey! Brat boy!
 Dialogue: 0,0:03:11.38,0:03:14.09,Main,Musashi,0,0,0,,Where’d all your steam \N from the first round go?!
@@ -182,7 +182,7 @@ Dialogue: 0,0:13:33.38,0:13:36.50,Main,Shirona,0,0,0,,Your Stealth Rock counter 
 Dialogue: 0,0:13:36.92,0:13:40.42,Main,Shirona,0,0,0,,Our battle has lit a fire in me!{121}{gah, this was present tense, not future...}
 Dialogue: 0,0:13:41.63,0:13:44.14,Main,Shirona,0,0,0,,All the more reason why \N I want to win this.
 Dialogue: 0,0:13:45.85,0:13:49.85,Main,Shirona,0,0,0,,To win, \N and battle Dande in the final!
-Dialogue: 0,0:13:49.85,0:13:52.85,Main,Satoshi,0,0,0,,We’re gonna be the ones winning, \N Ms. Shirona.
+Dialogue: 0,0:13:49.85,0:13:52.85,Main,Satoshi,0,0,0,,We’re gonna be the ones winning, \N Ms. Shirona{Honorifics note: Shirona-san}.
 Dialogue: 0,0:13:56.32,0:14:00.07,Main,Satoshi,0,0,0,,With this battle, \N I’m gonna surpass you!
 Dialogue: 0,0:14:02.20,0:14:05.87,Main,Shirona,0,0,0,,I call on you again, Gaburias!
 Dialogue: 0,0:14:12.41,0:14:15.33,Main,Satoshi,0,0,0,,Is she going to Mega Evolve this time?
@@ -253,7 +253,7 @@ Dialogue: 0,0:20:22.53,0:20:24.83,Main,Shirona,0,0,0,,What incredible Willpower.
 Dialogue: 0,0:20:36.13,0:20:37.84,Main,Shirona,0,0,0,,Return, Togekiss!
 Dialogue: 0,0:20:39.34,0:20:40.34,Main,Satoshi,0,0,0,,Huh?!
 Dialogue: 0,0:20:40.34,0:20:43.10,Main,Mic,0,0,0,,What? Yet another recall?
-Dialogue: 0,0:20:46.22,0:20:47.85,Main,Satoshi,0,0,0,,A Daimax band!
+Dialogue: 0,0:20:46.22,0:20:47.85,Main,Satoshi,0,0,0,,A Daimax Band!
 Dialogue: 0,0:20:52.77,0:20:56.49,Main,Mic,0,0,0,,No! She’s not recalling it!
 Dialogue: 0,0:20:58.90,0:21:01.24,Main,Shirona,0,0,0,,Tower over all, white wings!{そびえよ 白き翼}
 Dialogue: 0,0:21:04.66,0:21:08.29,Main,Shirona,0,0,0,,Daimax Togekiss!

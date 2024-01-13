@@ -95,8 +95,8 @@ Dialogue: 1,0:22:14.31,0:22:17.78,ED,,0,0,0,,The Trials we’ve overcome are pro
 Dialogue: 0,0:22:14.31,0:22:17.78,EDp2,,0,0,0,,The Trials we’ve overcome are proof of our bond
 Dialogue: 1,0:22:17.78,0:22:21.03,ED,,0,0,0,,Someday they’ll be tales we can brag about
 Dialogue: 0,0:22:17.78,0:22:21.03,EDp2,,0,0,0,,Someday they’ll be tales we can brag about
-Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
-Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
+Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
+Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
 Dialogue: 1,0:22:24.32,0:22:27.58,ED,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 0,0:22:24.32,0:22:27.58,EDp2,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 1,0:22:27.58,0:22:33.79,ED,,0,0,0,,The day comes to an end under sunset skies
@@ -213,7 +213,7 @@ Dialogue: 0,0:06:21.31,0:06:24.54,Main,Musashi,0,0,0,,What kind of guy do you th
 Dialogue: 0,0:06:24.54,0:06:27.28,Main,Kojiro,0,0,0,,I hope he’ll give us \N a Z-Ring quickly.
 Dialogue: 0,0:06:27.28,0:06:31.45,Main,Nyarth,0,0,0,,No problem. \N I’ve prepared a secret weapon, meow.
 Dialogue: 0,0:06:31.45,0:06:32.50,Main,Nyarth,0,0,0,,Ta-daah!
-Dialogue: 0,0:06:33.35,0:06:37.47,Main,Kojiro,0,0,0,,Could that, by any chance, be our new product, \N the Mixed Fruits Malasada?
+Dialogue: 0,0:06:33.35,0:06:37.47,Main,Kojiro,0,0,0,,Could that, by any chance, be our new product, \N the mixed fruits malasada?
 Dialogue: 0,0:06:37.47,0:06:42.10,Main,Nyarth,0,0,0,,The plan is that we’ll use this to \N befriend the Island King in no time at all, meow!
 Dialogue: 0,0:06:42.10,0:06:44.27,Main,Musashi,0,0,0,,Well done, Nyarth!
 Dialogue: 0,0:06:44.27,0:06:46.22,Main,Musashi,0,0,0,,There, there...
@@ -228,7 +228,7 @@ Dialogue: 0,0:07:22.77,0:07:23.94,Main,Nyarth,0,0,0,,What, meow?
 Dialogue: 0,0:07:31.85,0:07:33.91,Main,Nyarth,0,0,0,,I knew it...
 Dialogue: 0,0:07:33.91,0:07:35.85,Main,Kojiro,0,0,0,,They made quick work of us...
 Dialogue: 0,0:07:36.18,0:07:38.60,Main,Kuchinashi,0,0,0,,What’s with all the noise?
-Dialogue: 0,0:07:39.10,0:07:41.60,Main,Musashi,0,0,0,,Those Pokémon stole \N our precious Malasada!
+Dialogue: 0,0:07:39.10,0:07:41.60,Main,Musashi,0,0,0,,Those Pokémon stole \N our precious malasada!
 Dialogue: 0,0:07:47.18,0:07:49.65,Main,Kuchinashi,0,0,0,,Tough luck.
 Dialogue: 0,0:07:49.65,0:07:52.99,Main,Kuchinashi,0,0,0,,This is the Nyarth’s hangout.
 Dialogue: 0,0:07:52.99,0:07:55.44,Main,Nyarth,0,0,0,,We’ve lost our present \N for the Island King... {Replaced “to” with “for”. - Toa}

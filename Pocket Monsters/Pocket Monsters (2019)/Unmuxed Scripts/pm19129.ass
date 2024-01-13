@@ -96,7 +96,7 @@ Dialogue: 0,0:04:14.28,0:04:16.07,Main,Satoshi,0,0,0,,You will? Thanks!
 Dialogue: 0,0:04:16.44,0:04:17.36,Main,Koharu,0,0,0,,Plus...
 Dialogue: 0,0:04:18.15,0:04:21.37,Main,Koharu,0,0,0,,I wanted to show her \N an official match, too.
 Dialogue: 0,0:04:22.12,0:04:26.87,Main,Hikari,0,0,0,,I’ve been watching everything on TV too, \N but I just couldn’t sit back and watch from afar!
-Dialogue: 0,0:04:26.87,0:04:29.12,Main,Koharu,0,0,0,,The whole Institute’s \N cheering for you, too.
+Dialogue: 0,0:04:26.87,0:04:29.12,Main,Koharu,0,0,0,,The whole institute’s \N cheering for you, too.
 Dialogue: 0,0:04:29.54,0:04:31.33,Main,Koharu,0,0,0,,Do your best, Satoshi!
 Dialogue: 0,0:04:31.33,0:04:32.38,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 0,0:04:35.88,0:04:36.84,Main,Hop,0,0,0,,Big Bro...
@@ -173,7 +173,7 @@ Dialogue: 0,0:09:14.91,0:09:17.08,Main,Dande,0,0,0,,I wanna fight them all!
 Dialogue: 0,0:09:17.08,0:09:20.83,Main,Dande,0,0,0,,And then beat them all! \N Everyone, what do you think?
 Dialogue: 0,0:09:20.83,0:09:23.79,Main,Dande,0,0,0,,Don’t you want to see him \N battle at full power?!
 Dialogue: 0,0:09:24.96,0:09:28.96,Main,Hop,0,0,0,,Yeah! That’s my bro! \N What a great idea!{Sasuga. line}
-Dialogue: 0,0:09:28.96,0:09:31.59,Main,Hikari,0,0,0,,Woohoo! Yay!
+Dialogue: 0,0:09:28.96,0:09:31.59,Main,Hikari,0,0,0,,Woo-hoo! Yay!
 Dialogue: 0,0:09:30.17,0:09:31.59,Main,Koharu,0,0,0,,{\an8}What does that mean?
 Dialogue: 0,0:09:31.59,0:09:33.89,Main,Hikari,0,0,0,,It means this is gonna be incredible!
 Dialogue: 0,0:09:33.89,0:09:36.06,Main,Hikari,0,0,0,,Go get him, Satoshi!
@@ -239,7 +239,7 @@ Dialogue: 0,0:13:58.98,0:13:59.90,Main,Satoshi,0,0,0,,What’s that?
 Dialogue: 0,0:14:01.82,0:14:03.53,Main,Hikari,0,0,0,,Counter Shield...
 Dialogue: 0,0:14:04.82,0:14:11.54,Main,Mic,0,0,0,,{\q2\t(5863,6614,\c&HFFFFFF&\3c&HFFFFFF)}It’s the spinning tactic Competitor Satoshi \N and Pikachu used in the semifinals, replicated perfectly!
 Dialogue: 0,0:14:11.54,0:14:16.79,Main,Dande,0,0,0,,Satoshi! I added that interesting trick{Literally "interesting way to use a move"} \N of yours to my arsenal.
-Dialogue: 0,0:14:17.54,0:14:20.42,Main,Satoshi,0,0,0,,I’m impressed, Mr. Dande.{Sasuga. line}
+Dialogue: 0,0:14:17.54,0:14:20.42,Main,Satoshi,0,0,0,,I’m impressed, Mr. Dande{Honorifics note: Dande-san}.{Sasuga. line}
 Dialogue: 0,0:14:30.93,0:14:32.18,Main,Satoshi,0,0,0,,Gänger!
 Dialogue: 0,0:14:36.73,0:14:38.82,Main,Dande,0,0,0,,Quite a surprise, wasn’t it?
 Dialogue: 0,0:14:40.73,0:14:43.24,Main,Satoshi,0,0,0,,That means hiding’s pointless...

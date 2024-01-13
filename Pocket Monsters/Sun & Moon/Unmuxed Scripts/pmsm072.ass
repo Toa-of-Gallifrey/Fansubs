@@ -84,8 +84,8 @@ Dialogue: 1,0:22:14.31,0:22:17.78,ED,,0,0,0,,The Trials we’ve overcome are pro
 Dialogue: 0,0:22:14.31,0:22:17.78,EDp2,,0,0,0,,The Trials we’ve overcome are proof of our bond
 Dialogue: 1,0:22:17.78,0:22:21.03,ED,,0,0,0,,Someday they’ll be tales we can brag about
 Dialogue: 0,0:22:17.78,0:22:21.03,EDp2,,0,0,0,,Someday they’ll be tales we can brag about
-Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
-Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some Malasada for my Mama in Masara
+Dialogue: 1,0:22:21.03,0:22:24.32,ED,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
+Dialogue: 0,0:22:21.03,0:22:24.32,EDp2,,0,0,0,,{\fsp-1.5}I wanna go home with some malasada for my mama in Masara
 Dialogue: 1,0:22:24.32,0:22:27.58,ED,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 0,0:22:24.32,0:22:27.58,EDp2,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 1,0:22:27.58,0:22:33.79,ED,,0,0,0,,The day comes to an end under sunset skies
@@ -535,12 +535,12 @@ Dialogue: 0,0:23:55.49,0:23:59.11,Main,Mao,0,0,0,,You can’t chew it, Amamaiko.
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:02.12,0:24:02.71,Main,Kojiro,0,0,0,,All right!
 Dialogue: 0,0:24:02.71,0:24:04.92,Main,Kojiro,0,0,0,,We’ve reached our sales goal \N for the month!
-Dialogue: 0,0:24:04.92,0:24:08.51,Main,Musashi,0,0,0,,The Mixed Cream Malasada Doughnuts \N were the talk of the town, after all!
+Dialogue: 0,0:24:04.92,0:24:08.51,Main,Musashi,0,0,0,,The mixed cream malasada doughnuts \N were the talk of the town, after all!
 Dialogue: 0,0:24:08.51,0:24:09.88,Main,Kojiro,0,0,0,,We worked real hard on them!
 Dialogue: 0,0:24:09.88,0:24:12.22,Main,Nyarth,0,0,0,,However! We mustn’t \N be caught unaware, meow!
-Dialogue: 0,0:24:12.22,0:24:16.47,Main,Nyarth,0,0,0,,We have to invent some spectacular Malasada recipes \N that our rivals can’t replicate, meow!
+Dialogue: 0,0:24:12.22,0:24:16.47,Main,Nyarth,0,0,0,,We have to invent some spectacular malasada recipes \N that our rivals can’t replicate, meow!
 Dialogue: 0,0:24:16.47,0:24:17.35,Main,Musashi,0,0,0,,Aim for...
-Dialogue: 0,0:24:17.35,0:24:18.81,Main,Team Rocket,0,0,0,,{\i1}...our very own \N Malasada store chain!{\i0}
+Dialogue: 0,0:24:17.35,0:24:18.81,Main,Team Rocket,0,0,0,,{\i1}...our very own \N malasada store chain!{\i0}
 Dialogue: 0,0:24:18.81,0:24:22.02,Main,Nyarth,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:22.02,0:24:23.85,Main,Musashi,0,0,0,,Team Rocket’s Island Pilgrimage?!
 Dialogue: 0,0:24:23.85,0:24:25.45,Main,Kojiro,0,0,0,,Get a Z-Ring!!

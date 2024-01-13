@@ -118,13 +118,13 @@ Dialogue: 0,0:09:37.81,0:09:43.06,Main,Go,0,0,0,,Yeah... But I can’t believe i
 Dialogue: 0,0:09:43.56,0:09:47.94,Main,Carne,0,0,0,,It’s like Satoshi is evolving, \N even during this very battle.
 Dialogue: 0,0:09:47.94,0:09:51.61,Main,Dande,0,0,0,,Yeah. He really showed off \N the strength of Guiding Wave.
 Dialogue: 0,0:09:52.40,0:09:56.91,Main,Dande,0,0,0,,But he’s up against the Champion of Sinnoh. \N Brute strength won’t be enough here.
-Dialogue: 0,0:09:59.66,0:10:01.46,Main,Carne,0,0,0,,Ms. Shirona...
+Dialogue: 0,0:09:59.66,0:10:01.46,Main,Carne,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...
 Dialogue: 0,0:10:01.96,0:10:03.71,Main,Shirona,0,0,0,,I’ve decided something.{123}
 Dialogue: 0,0:10:03.71,0:10:05.00,Main,Carne,0,0,0,,What is it?{123}
 Dialogue: 0,0:10:05.00,0:10:07.17,Main,Shirona,0,0,0,,Once this tournament’s over...{121}
 Dialogue: 0,0:10:07.17,0:10:09.30,Main,Shirona,0,0,0,,I’m retiring from battles.{121}
 Dialogue: 0,0:10:09.30,0:10:10.42,Main,Carne,0,0,0,,Huh?!{121}
-Dialogue: 0,0:10:11.17,0:10:12.80,Main,Carne,0,0,0,,Ms. Shirona...{123}
+Dialogue: 0,0:10:11.17,0:10:12.80,Main,Carne,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...{123}
 Dialogue: 0,0:10:18.18,0:10:22.94,Main,Shirona,0,0,0,,I’m really having fun, \N Satoshi, Lucario...
 Dialogue: 0,0:10:22.94,0:10:24.98,Main,Shirona,0,0,0,,Now, Togekiss!
 Dialogue: 0,0:10:25.52,0:10:27.48,Main,Shirona,0,0,0,,Let’s heat things up even more!{121}
@@ -157,7 +157,7 @@ Dialogue: 0,0:12:28.44,0:12:31.44,Main,Okido,0,0,0,,Win or lose, \N the next bou
 Dialogue: 0,0:12:31.44,0:12:34.44,Main,Okido,0,0,0,,Don’t let your guard down, Satoshi!
 Dialogue: 0,0:12:35.99,0:12:37.49,Main,Satoshi,0,0,0,,One more...
 Dialogue: 0,0:12:40.03,0:12:41.24,Main,Satoshi,0,0,0,,Pikachu...
-Dialogue: 0,0:12:41.91,0:12:44.45,Main,Satoshi,0,0,0,,One more win \N and we beat Ms. Shirona!
+Dialogue: 0,0:12:41.91,0:12:44.45,Main,Satoshi,0,0,0,,One more win \N and we beat Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:12:46.20,0:12:49.96,Main,Shirona,0,0,0,,I’m glad we get to \N battle together once again.
 Dialogue: 0,0:12:50.58,0:12:51.83,Main,Shirona,0,0,0,,Now...
 Dialogue: 0,0:12:51.83,0:12:54.67,Main,Shirona,0,0,0,,Dance in the heavens, Gaburias!
@@ -167,7 +167,7 @@ Comment: 0,0:13:16.48,0:13:16.48,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:13:26.99,0:13:32.50,Main,Carne,0,0,0,,Gaburias {original: amassed}sustained damage \N in her battle with Negigaknight.
 Dialogue: 0,0:13:33.83,0:13:38.59,Main,Dande,0,0,0,,Mega Lucario’s going right into battle again, too. \N They’re on equal footing.
 Dialogue: 0,0:13:39.84,0:13:42.72,Main,Satoshi,0,0,0,,Lucario! \N This is our last battle!
-Dialogue: 0,0:13:42.72,0:13:45.10,Main,Satoshi,0,0,0,,Let’s give it all we’ve got, \N till the very end!
+Dialogue: 0,0:13:42.72,0:13:45.10,Main,Satoshi,0,0,0,,Let’s give it all we’ve got, \N ‘til the very end!
 Dialogue: 0,0:13:49.68,0:13:50.89,Main,Shirona,0,0,0,,Gaburias...
 Dialogue: 0,0:13:52.85,0:13:55.23,Main,Shirona,0,0,0,,Looking at Satoshi...
 Dialogue: 0,0:13:55.23,0:13:58.44,Main,Shirona,0,0,0,,...reminds me of back \N when we traveled together.
@@ -188,7 +188,7 @@ Dialogue: 0,0:15:06.43,0:15:11.56,Main,Mic,0,0,0,,Guiding Wave Sphere and Scale 
 Dialogue: 0,0:15:13.31,0:15:14.85,Main,Satoshi,0,0,0,,Lucario!
 Dialogue: 0,0:15:18.94,0:15:21.36,Main,Satoshi,0,0,0,,She doesn’t let her guard down \N for a moment...
 Dialogue: 0,0:15:21.36,0:15:25.07,Main,Satoshi,0,0,0,,She makes every move— \N every movement— purposeful.
-Dialogue: 0,0:15:25.99,0:15:31.08,Main,Satoshi,0,0,0,,But... If I can beat Ms. Shirona... \N I can get stronger!{121}
+Dialogue: 0,0:15:25.99,0:15:31.08,Main,Satoshi,0,0,0,,But... If I can beat Ms. Shirona{Honorifics note: Shirona-san}... \N I can get stronger!{121}
 Dialogue: 0,0:15:31.08,0:15:32.83,Main,Shirona,0,0,0,,Dragon Claw!
 Dialogue: 0,0:15:33.29,0:15:34.46,Main,Satoshi,0,0,0,,Bullet Punch!
 Dialogue: 0,0:15:52.10,0:15:56.89,Main,Mic,0,0,0,,What an intense exchange of blows! \N Neither side is budging!
@@ -206,7 +206,7 @@ Dialogue: 0,0:17:38.79,0:17:44.08,Main,Mic,0,0,0,,We have our finalists!
 Dialogue: 0,0:17:46.96,0:17:48.13,Main,Satoshi,0,0,0,,I won...
 Dialogue: 0,0:17:53.72,0:17:55.80,Main,Satoshi,0,0,0,,I really won...
 Dialogue: 0,0:17:55.80,0:17:57.14,Main,Satoshi,0,0,0,,Lucario!
-Dialogue: 0,0:17:59.39,0:18:04.65,Main,Satoshi,0,0,0,,We did it, Lucario! \N We beat Ms. Shirona!
+Dialogue: 0,0:17:59.39,0:18:04.65,Main,Satoshi,0,0,0,,We did it, Lucario! \N We beat Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:18:08.94,0:18:10.11,Main,Hop,0,0,0,,He went and did it!
 Dialogue: 0,0:18:10.11,0:18:12.45,Main,Hop,0,0,0,,The finals’ll be \N Big Bro and Satoshi!
 Dialogue: 0,0:18:12.45,0:18:15.57,Main,Go & Hop,0,0,0,,And it’s gonna be \N an incredible battle, yeah!
@@ -249,7 +249,7 @@ Dialogue: 0,0:20:57.53,0:20:59.91,Main,Carne,0,0,0,,Now that’s the spirit!
 Dialogue: 0,0:21:02.03,0:21:03.74,Main,Satoshi,0,0,0,,Come on out, everyone!
 Dialogue: 0,0:21:08.08,0:21:09.25,Main,Satoshi,0,0,0,,Thank you for today!
 Dialogue: 0,0:21:09.25,0:21:11.50,Main,Go,0,0,0,,You were all really cool!
-Dialogue: 0,0:21:12.17,0:21:15.05,Main,Satoshi,0,0,0,,Next, we’re finally gonna battle \N Mr. Dande!
+Dialogue: 0,0:21:12.17,0:21:15.05,Main,Satoshi,0,0,0,,Next, we’re finally gonna battle \N Mr. Dande{Honorifics note: Dande-san}!
 Dialogue: 0,0:21:15.05,0:21:17.38,Main,Go,0,0,0,,We’ll cheer you on \N with all we’ve got too!
 Dialogue: 0,0:21:22.18,0:21:24.51,Main,Satoshi,0,0,0,,We’ve made it this far \N and now we’ve gotta win it!
 Dialogue: 0,0:21:24.51,0:21:26.60,Main,Satoshi,0,0,0,,Let’s win this tournament!

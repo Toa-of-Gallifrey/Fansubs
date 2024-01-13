@@ -84,7 +84,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:01.21,0:00:03.45,Main,Musashi,0,0,0,,Alola!
 Dialogue: 0,0:00:03.45,0:00:07.48,Main,Musashi,0,0,0,,I’ll be presenting \N today’s PokéProblem to you.
-Dialogue: 0,0:00:08.19,0:00:13.12,Main,Musashi,0,0,0,,Which of these jerks was it who \N stole my {\i1}precious{\i0} Malasada today?
+Dialogue: 0,0:00:08.19,0:00:13.12,Main,Musashi,0,0,0,,Which of these jerks was it who \N stole my {\i1}precious{\i0} malasada today?
 Dialogue: 0,0:00:13.12,0:00:15.49,Main,Musashi,0,0,0,,The answer’ll be at \N the end of the episode!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:16.92,0:00:20.22,Main,Narrator,0,0,0,,Satoshi got the Rock-Z \N on Akala Island.
@@ -160,15 +160,15 @@ Dialogue: 0,0:06:18.98,0:06:21.14,Main,Musashi,0,0,0,,You can’t go anywhere \N
 Dialogue: 0,0:06:23.15,0:06:26.07,Main,Musashi,0,0,0,,Hey, why won’t you go in?
 Dialogue: 0,0:06:26.07,0:06:28.28,Main,Musashi,0,0,0,,I can’t look for Kojiro \N and the others like this!
 Dialogue: 0,0:06:34.92,0:06:37.12,Main,Musashi,0,0,0,,This is bad...
-Dialogue: 0,0:06:38.21,0:06:40.37,Main,Musashi,0,0,0,,Look! Malasada Doughnuts!
+Dialogue: 0,0:06:38.21,0:06:40.37,Main,Musashi,0,0,0,,Look! Malasada doughnuts!
 Dialogue: 0,0:06:40.37,0:06:43.71,Main,Musashi,0,0,0,,I’ll go buy you one, \N so get back in your Ball!
 Dialogue: 0,0:06:44.40,0:06:45.55,Main,Musashi,0,0,0,,Pardon me!
 Dialogue: 0,0:06:45.96,0:06:47.28,Main,Store clerks,0,0,0,,Welcome.
-Dialogue: 0,0:06:47.28,0:06:48.42,Main,Musashi,0,0,0,,Two Malasadas, please.
+Dialogue: 0,0:06:47.28,0:06:48.42,Main,Musashi,0,0,0,,Two malasadas, please.
 Dialogue: 0,0:06:48.94,0:06:50.43,Main,Store clerks,0,0,0,,Thank you for waiting.
 Dialogue: 0,0:06:50.79,0:06:52.06,Main,Musashi,0,0,0,,Thank you very much!
 Dialogue: 0,0:06:52.06,0:06:53.71,Main,Store clerks,0,0,0,,Likewise!
-Dialogue: 0,0:06:56.47,0:06:58.92,Main,Musashi,0,0,0,,H-Hey, hang on! Those are my... \N My Malasadas!
+Dialogue: 0,0:06:56.47,0:06:58.92,Main,Musashi,0,0,0,,H-Hey, hang on! Those are my... \N My malasadas!
 Dialogue: 0,0:06:58.92,0:06:59.77,Main,Musashi,0,0,0,,Ah! Wait!
 Dialogue: 0,0:07:02.89,0:07:05.29,Main,Musashi,0,0,0,,Oh, geez... Wait.
 Dialogue: 0,0:07:14.67,0:07:17.55,Main,Musashi,0,0,0,,Now I won’t have to see \N what’s under your disguise.
@@ -259,10 +259,10 @@ Dialogue: 0,0:11:52.91,0:11:55.74,Main,Kukui,0,0,0,,You’re itching to start tr
 Dialogue: 0,0:11:57.24,0:12:00.39,Main,Satoshi,0,0,0,,All right, Lugarugan! \N Let’s get right to training!
 Dialogue: 0,0:12:04.33,0:12:08.39,Main,Musashi,0,0,0,,Sheesh... What {\i1}would{\i0} you like?
 Dialogue: 0,0:12:12.93,0:12:15.63,Main,Musashi,0,0,0,,I’m all worn out thanks to you!
-Dialogue: 0,0:12:15.63,0:12:19.24,Main,Musashi,0,0,0,,Let’s {\i1}actually{\i0} take a break and \N have some Malasadas now.
+Dialogue: 0,0:12:15.63,0:12:19.24,Main,Musashi,0,0,0,,Let’s {\i1}actually{\i0} take a break and \N have some malasadas now.
 Dialogue: 0,0:12:19.24,0:12:20.84,Main,Musashi,0,0,0,,You’re so stubborn!
 Dialogue: 0,0:12:21.80,0:12:23.07,Main,Store clerks,0,0,0,,Welcome!
-Dialogue: 0,0:12:23.07,0:12:25.31,Main,Musashi,0,0,0,,Two Malasadas, please.
+Dialogue: 0,0:12:23.07,0:12:25.31,Main,Musashi,0,0,0,,Two malasadas, please.
 Dialogue: 0,0:12:26.98,0:12:28.93,Main,Musashi,0,0,0,,I spent too much!
 Dialogue: 0,0:12:28.93,0:12:30.84,Main,Musashi,0,0,0,,Actually, just one.
 Dialogue: 0,0:12:30.84,0:12:32.19,Main,Store clerks,0,0,0,,Very well.
@@ -287,14 +287,14 @@ Dialogue: 0,0:14:03.57,0:14:04.94,Main,Musashi,0,0,0,,It’s done.
 Dialogue: 0,0:14:06.33,0:14:08.83,Main,Musashi,0,0,0,,I think I sewed it up pretty well, \N don’t you?
 Dialogue: 0,0:14:08.83,0:14:10.44,Main,Musashi,0,0,0,,Truly, I’m amazing!
 Dialogue: 0,0:14:11.12,0:14:12.70,Main,Musashi,0,0,0,,Don’t tear it again, you hear?
-Dialogue: 0,0:14:12.70,0:14:15.61,Main,Musashi,0,0,0,,Oh, that’s right. \N The Malasada from before!
+Dialogue: 0,0:14:12.70,0:14:15.61,Main,Musashi,0,0,0,,Oh, that’s right. \N The malasada from before!
 Dialogue: 0,0:14:16.21,0:14:19.67,Main,Musashi,0,0,0,,Yeah, of course. \N I only have one, so you get half.
 Dialogue: 0,0:14:21.80,0:14:23.46,Main,Musashi,0,0,0,,Hey, what gives?!
 Dialogue: 0,0:14:25.72,0:14:28.45,Main,Musashi,0,0,0,,Not that! \N Oh, for crying out loud...
 Dialogue: 0,0:14:28.45,0:14:30.94,Main,Musashi,0,0,0,,What are you doing, Mimikkyu! \N We’ve gotta take it back!
 Dialogue: 0,0:14:42.25,0:14:43.61,Main,Musashi,0,0,0,,Hey, you!
 Dialogue: 0,0:14:43.61,0:14:47.45,Main,Musashi,0,0,0,,That belongs to Mimikkyu! \N Give it back!
-Dialogue: 0,0:14:47.45,0:14:49.74,Main,Musashi,0,0,0,,And don’t eat the Malasada, either!
+Dialogue: 0,0:14:47.45,0:14:49.74,Main,Musashi,0,0,0,,And don’t eat the malasada, either!
 Dialogue: 0,0:14:49.74,0:14:50.67,Main,Musashi,0,0,0,,Give it back!
 Dialogue: 0,0:14:52.62,0:14:53.37,Main,Musashi,0,0,0,,Got it!
 Dialogue: 0,0:14:54.33,0:14:57.45,Main,Musashi,0,0,0,,Hey! Give it back! \N Give it back! Give it {\i1}back!
@@ -318,9 +318,9 @@ Dialogue: 0,0:15:42.18,0:15:43.75,Main,Musashi,0,0,0,,Why did this happen?
 Dialogue: 0,0:15:44.15,0:15:46.13,Main,Nyarth,0,0,0,,She really {\i1}did{\i0} explode, meow.
 Dialogue: 0,0:15:48.33,0:15:49.22,Main,Nyarth,0,0,0,,What, meow?
 Dialogue: 0,0:15:50.45,0:15:53.92,Main,Musashi,0,0,0,,Here, I got your treasure back.
-Dialogue: 0,0:15:54.68,0:15:56.67,Main,Musashi,0,0,0,,And the Malasada!
+Dialogue: 0,0:15:54.68,0:15:56.67,Main,Musashi,0,0,0,,And the malasada!
 Dialogue: 0,0:15:58.29,0:15:59.99,Main,Musashi,0,0,0,,The larger bit’s mine.
-Dialogue: 0,0:16:07.32,0:16:10.33,Main,Musashi,0,0,0,,We already ate the Malasada!
+Dialogue: 0,0:16:07.32,0:16:10.33,Main,Musashi,0,0,0,,We already ate the malasada!
 Dialogue: 0,0:16:10.33,0:16:12.99,Main,Musashi,0,0,0,,If that bothers you, \N just try and get back at us!
 Dialogue: 0,0:16:16.71,0:16:18.35,Main,Musashi,0,0,0,,Serves you right!
 Dialogue: 0,0:16:20.21,0:16:23.05,Main,Musashi,0,0,0,,Hey, you came to get back at us \N a bit {\i1}too{\i0} fast, don’t you think?!

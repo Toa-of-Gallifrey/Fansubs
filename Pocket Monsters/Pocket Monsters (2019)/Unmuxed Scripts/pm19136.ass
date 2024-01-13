@@ -43,7 +43,7 @@ Dialogue: 0,0:00:17.66,0:00:22.42,Main,Narrator,0,0,0,,Then, the Legendary Poké
 Dialogue: 0,0:00:25.42,0:00:28.17,Main,Satoshi,0,0,0,,Lucario, I choose you!{135}
 Dialogue: 0,0:00:31.89,0:00:34.51,Main,Go,0,0,0,,Inteleon, go!{135}
 Dialogue: 0,0:00:41.19,0:00:41.90,Main,Satoshi and Go,0,0,0,,Lugia!{135}
-Dialogue: 0,0:00:42.48,0:00:44.40,Main,Satoshi and Go,0,0,0,,Let’s have a Raid Battle!{135}
+Dialogue: 0,0:00:42.48,0:00:44.40,Main,Satoshi and Go,0,0,0,,It’s a Raid Battle!{Let’s have a Raid Battle!}{135}
 Comment: 0,0:00:44.40,0:00:44.40,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:00:59.25,0:01:01.50,Main,Satoshi,0,0,0,,Pikachu, use 100,000 Volts!
 Dialogue: 0,0:01:09.67,0:01:13.30,Main,Go,0,0,0,,We’re right behind you! \N Aceburn, use Pyro Ball!
@@ -151,7 +151,7 @@ Dialogue: 0,0:09:47.44,0:09:48.23,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:09:48.23,0:09:51.03,Main,Koharu,0,0,0,,So, when are you going to leave?
 Dialogue: 0,0:09:51.49,0:09:52.32,Main,Satoshi and Go,0,0,0,,Tomorrow!
 Dialogue: 0,0:09:52.32,0:09:54.07,Main,Koharu,0,0,0,,Huh?!
-Dialogue: 0,0:09:55.28,0:09:57.70,Main,Musashi,0,0,0,,Here is our report, \N Sakaki, sir!
+Dialogue: 0,0:09:55.28,0:09:57.70,Main,Musashi,0,0,0,,Here is our report, \N Sakaki, sir{Honorifics note: Sakaki-sama}!
 Dialogue: 0,0:09:57.70,0:10:01.79,Main,Kojiro,0,0,0,,Through our flawless maneuvers \N at the Masters Tournament...
 Dialogue: 0,0:10:01.79,0:10:05.00,Main,Nyarth,0,0,0,,...we have discovered the world’s \N strongest Pokémon, meow.
 Dialogue: 0,0:10:05.00,0:10:06.29,Main,Sakaki,0,0,0,,Oh?

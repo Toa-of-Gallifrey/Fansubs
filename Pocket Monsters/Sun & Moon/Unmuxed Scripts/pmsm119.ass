@@ -35,7 +35,7 @@ Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.77,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(424,150)}Bug-Z
-Dialogue: 0,0:00:06.77,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(870,150)}A year’s supply of Malasadas
+Dialogue: 0,0:00:06.77,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(870,150)}A year’s supply of malasadas
 Dialogue: 0,0:00:06.77,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(413,420)}Kuwagannon merchandise
 Dialogue: 1,0:00:06.78,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(870,420)}Silver medal
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,

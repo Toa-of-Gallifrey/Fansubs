@@ -35,7 +35,7 @@ Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(425,300)}Suicune
+Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(425,300)}Suikun
 Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(873,300)}Entei
 Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(424,573)}Zoroark
 Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(873,573)}Raikou
@@ -110,7 +110,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:01.31,0:00:03.61,Main,Burnet,0,0,0,,Burnet here! V! V!
 Dialogue: 0,0:00:04.10,0:00:06.99,Main,Burnet,0,0,0,,I’ll be presenting today’s PokéProblem!
 Dialogue: 0,0:00:07.40,0:00:10.76,Main,Burnet,0,0,0,,Which Pokémon \N is Gladio looking for in today’s episode?
-Dialogue: 0,0:00:10.76,0:00:11.40,Main,Burnet,0,0,0,,Blue: Suicune?
+Dialogue: 0,0:00:10.76,0:00:11.40,Main,Burnet,0,0,0,,Blue: Suikun?
 Dialogue: 0,0:00:11.40,0:00:12.17,Main,Burnet,0,0,0,,Red: Entei?
 Dialogue: 0,0:00:12.17,0:00:13.03,Main,Burnet,0,0,0,,Green: Zoroark?
 Dialogue: 0,0:00:13.03,0:00:13.96,Main,Burnet,0,0,0,,Or Yellow: Raikou?
@@ -391,5 +391,5 @@ Dialogue: 0,0:24:15.01,0:24:17.64,Main,Rotom,0,0,0,,Next time, on Pocket Monster
 Dialogue: 0,0:24:17.64,0:24:20.28,Main,Rotom,0,0,0,,The Curtain Rises! \N The Alola Pokémon League!!
 Dialogue: 0,0:24:20.28,0:24:21.86,Main,Satoshi,0,0,0,,All right! I won! {Foreshadowing. - Toa}
 Dialogue: 0,0:24:21.86,0:24:23.37,Main,Satoshi,0,0,0,,Time to eat!
-Dialogue: 0,0:24:23.37,0:24:25.03,Main,Suiren,0,0,0,,Oh, a Malasada. {Though if you were to take this as foreshadowing, it'd imply that Suiren would effortlessly steal the win at the very end. - Toa}
+Dialogue: 0,0:24:23.37,0:24:25.03,Main,Suiren,0,0,0,,Oh, a malasada. {Though if you were to take this as foreshadowing, it'd imply that Suiren would effortlessly steal the win at the very end. - Toa}
 Dialogue: 0,0:24:26.45,0:24:28.35,Main,Mao,0,0,0,,I see...

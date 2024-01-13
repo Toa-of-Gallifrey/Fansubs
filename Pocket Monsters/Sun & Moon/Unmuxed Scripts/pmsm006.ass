@@ -128,7 +128,7 @@ Dialogue: 0,0:00:45.43,0:00:49.82,Main,Kukui,0,0,0,,Pokémon researchers \N sure
 Dialogue: 0,0:00:50.36,0:00:53.03,Main,Kukui,0,0,0,,Though to be fair, so do I.
 Dialogue: 0,0:00:53.03,0:00:54.73,Main,Satoshi,0,0,0,,Have a nice trip!
 Dialogue: 0,0:00:56.04,0:00:57.00,Main,Kukui,0,0,0,,Sure! Thanks!
-Dialogue: 0,0:00:59.64,0:01:01.96,Main,Narrator,0,0,0,,Satoshi has enrolled in \N the Pokémon School,
+Dialogue: 0,0:00:59.64,0:01:01.96,Main,Narrator,0,0,0,,Satoshi has enrolled at \N the Pokémon School,
 Dialogue: 0,0:01:01.96,0:01:06.87,Main,Narrator,0,0,0,,and now lives with Professor Kukui, \N his teacher, along with Pikachu and the others.
 Dialogue: 0,0:01:06.87,0:01:11.64,Main,Narrator,0,0,0,,But it looks like today, \N they’re watching the house on their own.
 Dialogue: 0,0:01:11.64,0:01:14.92,Main,Narrator,0,0,0,,I fear trouble awaits...
@@ -218,7 +218,7 @@ Dialogue: 0,0:08:12.64,0:08:14.53,Main,Kojiro,0,0,0,,We finally got through \N a
 Dialogue: 0,0:08:14.53,0:08:16.41,Main,Musashi,0,0,0,,That was a crazy long line...
 Dialogue: 0,0:08:16.41,0:08:17.64,Main,Musashi,0,0,0,,Way too much work...
 Dialogue: 0,0:08:17.64,0:08:19.27,Main,Nyarth,0,0,0,,Of course, meow!
-Dialogue: 0,0:08:19.27,0:08:24.19,Main,Nyarth,0,0,0,,This Malasada Doughnut shop attracts \N more people than any other in Alola, meow! {I know that Nyarth says "Doughnuts", but I think that singular would be more grammatically correct and natural-sounding. - Toa}
+Dialogue: 0,0:08:19.27,0:08:24.19,Main,Nyarth,0,0,0,,This malasada doughnut shop attracts \N more people than any other in Alola, meow! {I know that Nyarth says "Doughnuts", but I think that singular would be more grammatically correct and natural-sounding. - Toa}
 Dialogue: 0,0:08:26.35,0:08:27.40,Main,Human being,0,0,0,,Good job!
 Dialogue: 0,0:08:27.90,0:08:29.48,Main,Human being,0,0,0,,You can take a break now.
 Dialogue: 0,0:08:29.48,0:08:31.36,Main,Team Rocket,0,0,0,,Thank you...
@@ -286,7 +286,7 @@ Dialogue: 0,0:12:28.60,0:12:30.43,Main,Mamane,0,0,0,,I’m totally fine!
 Dialogue: 0,0:12:31.36,0:12:35.44,Main,Mamane,0,0,0,,I mean, at night I’m not scared at all, \N because Togedemaru is there with me!
 Dialogue: 0,0:12:36.15,0:12:39.48,Main,Satoshi,0,0,0,,Well then, we’d better meet back up with \N Togedemaru and the others as quickly as possible!
 Dialogue: 0,0:12:40.57,0:12:41.24,Main,Mamane,0,0,0,,Yeah!
-Dialogue: 0,0:12:44.12,0:12:46.29,Main,Satoshi,0,0,0,,Um, how long till \N the shutters open again?
+Dialogue: 0,0:12:44.12,0:12:46.29,Main,Satoshi,0,0,0,,Um, how long ‘til \N the shutters open again?
 Dialogue: 0,0:12:46.29,0:12:50.14,Main,Human being,0,0,0,,I’m sorry... I’m trying, but...
 Dialogue: 0,0:12:50.14,0:12:51.62,Main,Mamane,0,0,0,,Let me see.
 Dialogue: 0,0:12:55.43,0:12:57.88,Main,Satoshi,0,0,0,,Can you do it, Māmane?

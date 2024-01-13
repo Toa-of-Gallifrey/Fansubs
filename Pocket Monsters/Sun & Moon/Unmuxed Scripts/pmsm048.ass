@@ -179,7 +179,7 @@ Dialogue: 0,0:05:26.74,0:05:27.95,Main,Mamane,0,0,0,,Contest?
 Dialogue: 0,0:05:27.95,0:05:28.89,Main,Mao,0,0,0,,Like what?
 Dialogue: 0,0:05:29.41,0:05:31.16,Main,Satoshi,0,0,0,,Let’s see...
 Dialogue: 0,0:05:33.18,0:05:35.73,Main,Lilie,0,0,0,,Is something wrong, Nebby?
-Dialogue: 0,0:05:36.17,0:05:39.80,Main,Satoshi,0,0,0,,Probably wants to play hide and seek. \N It’s been really into that lately. {Omitted implicit “it” at the start, added “been”. - Toa}
+Dialogue: 0,0:05:36.17,0:05:39.80,Main,Satoshi,0,0,0,,Probably wants to play hide-and-seek. \N It’s been really into that lately. {Omitted implicit “it” at the start, added “been”. - Toa}
 Dialogue: 0,0:05:39.80,0:05:42.93,Main,Satoshi,0,0,0,,It teleports off, \N like it’s saying “Try to find me!”
 Dialogue: 0,0:05:43.84,0:05:45.85,Main,Satoshi,0,0,0,,Let’s play “Look for Nebby”!
 Dialogue: 0,0:05:45.85,0:05:47.68,Main,Satoshi,0,0,0,,Whoever finds it first wins.
@@ -191,7 +191,7 @@ Dialogue: 0,0:05:53.39,0:05:55.62,Main,Them,0,0,0,,{\i1}Yeah!{\i0}
 Dialogue: 0,0:05:55.98,0:05:58.94,Main,Suiren,0,0,0,,I know exactly where Nebby is!
 Dialogue: 0,0:05:58.94,0:06:00.63,Main,Mamane,0,0,0,,What?! You already figured it out?!
 Dialogue: 0,0:06:04.07,0:06:05.59,Main,Suiren,0,0,0,,Too bad.
-Dialogue: 0,0:06:05.91,0:06:10.34,Main,Kaki,0,0,0,,Behold my glorious intuition, honed from \N playing hide and seek with Hoshi all the time!
+Dialogue: 0,0:06:05.91,0:06:10.34,Main,Kaki,0,0,0,,Behold my glorious intuition, honed from \N playing hide-and-seek with Hoshi all the time!
 Dialogue: 0,0:06:13.41,0:06:15.60,Main,Mao,0,0,0,,All right! I’ll try...
 Dialogue: 0,0:06:16.85,0:06:18.29,Main,Mao,0,0,0,,I found it!
 Dialogue: 0,0:06:20.05,0:06:22.09,Main,Satoshi,0,0,0,,It doesn’t count \N if you can’t catch it.
@@ -308,7 +308,7 @@ Dialogue: 0,0:11:13.42,0:11:17.64,Main,Lilie,0,0,0,,I had forgotten. \N Mother t
 Dialogue: 0,0:11:17.64,0:11:19.26,Main,Burnet,0,0,0,,I see.
 Dialogue: 0,0:11:19.26,0:11:21.68,Main,Satoshi,0,0,0,,All right! I’m done!
 Dialogue: 0,0:11:21.68,0:11:22.97,Main,Satoshi,0,0,0,,Can I put these in now?
-Dialogue: 0,0:11:22.97,0:11:24.78,Main,Burnet,0,0,0,,Wait till they cool down a bit.
+Dialogue: 0,0:11:22.97,0:11:24.78,Main,Burnet,0,0,0,,Wait ‘til they cool down a bit.
 Dialogue: 0,0:11:24.78,0:11:25.77,Main,Satoshi,0,0,0,,Okay.
 Dialogue: 0,0:11:31.77,0:11:33.65,Main,Kukui,0,0,0,,All right! Good work, everybody.
 Dialogue: 0,0:11:34.69,0:11:36.49,Main,Mamane,0,0,0,,We finally finished...
@@ -419,7 +419,7 @@ Dialogue: 0,0:17:20.39,0:17:24.52,Main,Kaki,0,0,0,,A mother, huh? \N My mom’s 
 Dialogue: 0,0:17:24.52,0:17:28.02,Main,Satoshi,0,0,0,,But I really like the food \N at your place, Kaki.
 Dialogue: 0,0:17:28.02,0:17:30.77,Main,Mao,0,0,0,,Yeah! It’s got that \N home-made feel to it!
 Dialogue: 0,0:17:30.77,0:17:32.72,Main,Kaki,0,0,0,,W-Well, I guess...
-Dialogue: 0,0:17:32.72,0:17:36.41,Main,Satoshi,0,0,0,,Speaking of cooking, \N the Malasadas at Māmane’s place are great too.
+Dialogue: 0,0:17:32.72,0:17:36.41,Main,Satoshi,0,0,0,,Speaking of cooking, \N the malasadas at Māmane’s place are great too.
 Dialogue: 0,0:17:36.41,0:17:39.81,Main,Mamane,0,0,0,,But when you get the same thing every day, \N you get sick of it.
 Dialogue: 0,0:17:39.81,0:17:42.29,Main,Mamane,0,0,0,,I kinda want something \N different once in a while.
 Dialogue: 0,0:17:42.29,0:17:45.79,Main,Suiren,0,0,0,,I know what you mean. Say something tastes good, \N and that’s all you ever get.

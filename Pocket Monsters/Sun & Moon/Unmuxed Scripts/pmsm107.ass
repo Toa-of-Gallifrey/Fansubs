@@ -118,7 +118,7 @@ Dialogue: 0,0:00:20.13,0:00:22.95,Main,Narrator,0,0,0,,Having seen off \N Suiren
 Dialogue: 0,0:00:22.95,0:00:26.52,Main,Narrator,0,0,0,,they've returned to the Pokémon Center \N and now enjoy Mao’s homemade breakfast.
 Dialogue: 0,0:00:28.25,0:00:30.19,Main,Satoshi,0,0,0,,What is this? \N It’s delicious!
 Dialogue: 0,0:00:30.19,0:00:31.48,Main,Mao,0,0,0,,It’s pot-au-feu.
-Dialogue: 0,0:00:31.48,0:00:33.75,Main,Mamane,0,0,0,,These Malasada Doughnuts \N are great, too!
+Dialogue: 0,0:00:31.48,0:00:33.75,Main,Mamane,0,0,0,,These malasada doughnuts \N are great, too!
 Dialogue: 0,0:00:33.75,0:00:35.09,Main,Lilie,0,0,0,,As are the cookies!
 Dialogue: 0,0:00:35.09,0:00:37.80,Main,Mao,0,0,0,,They’re all made from \N Poni Radishes!
 Dialogue: 0,0:00:38.23,0:00:40.03,Main,Suiren,0,0,0,,Mao’s a genius...
@@ -147,7 +147,7 @@ Dialogue: 0,0:03:13.21,0:03:14.27,Main,Hapu,0,0,0,,What brings you here?
 Dialogue: 0,0:03:14.27,0:03:16.58,Main,Mao,0,0,0,,I had something I wanted to ask you.
 Dialogue: 0,0:03:16.58,0:03:17.38,Main,Hapu,0,0,0,,Ask me? {RULE BREAKER! Original end time: 0:03:17.95. - Toa}
 Dialogue: 0,0:03:17.95,0:03:19.62,Main,Mao,0,0,0,,Ta-dough!{I kinda hate that they made this pun an actual episode title a while back... Makes it kinda un-ignoreable. -Starfish}
-Dialogue: 0,0:03:19.62,0:03:24.89,Main,Mao,0,0,0,,Look! Cookies, Malasada Doughnuts and pot-au-feu, \N all made from Poni Radishes!
+Dialogue: 0,0:03:19.62,0:03:24.89,Main,Mao,0,0,0,,Look! Cookies, malasada doughnuts, and pot-au-feu, \N all made from Poni Radishes!
 Dialogue: 0,0:03:27.45,0:03:29.26,Main,Hapu,0,0,0,,What of it?
 Dialogue: 0,0:03:29.26,0:03:32.68,Main,Mao,0,0,0,,My family runs a cafeteria \N on Melemele Island,
 Dialogue: 0,0:03:32.68,0:03:36.13,Main,Mao,0,0,0,,so I’ve been wanting to try and make \N some new, Poni Radish-based menu items!

@@ -14,6 +14,8 @@ Video Aspect Ratio: 0
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.375000
+Scroll Position: 175
+Active Line: 182
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +39,7 @@ Style: Logo - Accent,PMLogo,100,&H00D08900,&H000000FF,&H00000000,&H00000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:02.61,0:00:05.19,Main,Narrator,0,0,0,,This is the Sakuragi Institute.{The sign outside his laboratory says (in Poké-symbols) “SAKURAGI INSTITUTE IM DOING IT AS A JOB”. -Starfish}{BATCH CHANGE: Added "the". - Toa of the Batch}
+Dialogue: 0,0:00:02.61,0:00:05.19,Main,Narrator,0,0,0,,This is the Sakuragi Institute.{The sign outside his laboratory says (in Poké-symbols) “SAKURAGI INSTITUTE IM DOING IT AS A JOB”. -Starfish}
 Dialogue: 0,0:00:05.78,0:00:09.28,Main,Narrator,0,0,0,,Satoshi and Go now greet \N their first morning here.
 Dialogue: 0,0:00:15.08,0:00:17.83,Main,Go,0,0,0,,Satoshi, it’s morning.
 Dialogue: 0,0:00:19.42,0:00:21.25,Main,Go,0,0,0,,Wake up...
@@ -49,8 +51,8 @@ Dialogue: 0,0:00:50.70,0:00:54.03,Main,Go,0,0,0,,...research fellows here!
 Dialogue: 0,0:00:54.03,0:00:55.87,Main,Satoshi,0,0,0,,Being research fellows is amazing!
 Dialogue: 0,0:00:55.87,0:00:57.54,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:00:57.54,0:00:59.54,Main,Satoshi,0,0,0,,They’ve got Pokémon food, too!
-Dialogue: 0,0:01:01.54,0:01:04.54,Main,Satoshi,0,0,0,,So, I was thinking of \N using Electroweb,{BATCH CHANGE: "considering" -> "thinking of" - Toa of the Batch}{BATCH NOTE: Am okay with keeping it to Electroweb, but suggesting/pushing for "Electro Net" to get just a bit closer to the original, and for consistency in formatting with "Electro Ball" (エレキボール) (and what I'm thinking of using for エレキフィールド, Electro Field). For the matter of consistency, "Electro Web" also works, though I feel like that looks worse than both "Electro Net" and "Electroweb". - Toa of the Batch}
-Dialogue: 0,0:01:04.54,0:01:07.80,Main,Satoshi,0,0,0,,but then I realized I should go with \N 100,000 Volts instead! {BATCH CHANGE: Originally "but I figured I ought to go with 100,000 Volts instead!" - Toa of the Batch}
+Dialogue: 0,0:01:01.54,0:01:04.54,Main,Satoshi,0,0,0,,So, I was thinking of \N using Electroweb,
+Dialogue: 0,0:01:04.54,0:01:07.80,Main,Satoshi,0,0,0,,but then I realized I should go with \N 100,000 Volts instead!
 Dialogue: 0,0:01:07.80,0:01:09.01,Main,Satoshi,0,0,0,,Right, Pikachu?
 Dialogue: 0,0:01:11.55,0:01:13.85,Main,Go,0,0,0,,Director Sakuragi!
 Dialogue: 0,0:01:13.85,0:01:15.05,Main,Sakuragi,0,0,0,,Good morning.
@@ -65,14 +67,14 @@ Dialogue: 0,0:01:30.40,0:01:33.70,Main,Satoshi,0,0,0,,Yeah, stuffing my face sin
 Dialogue: 0,0:01:33.70,0:01:35.33,Main,Go,0,0,0,,I guess.
 Dialogue: 0,0:01:35.33,0:01:38.33,Main,Koharu,0,0,0,,Wanpachi, I’ll put your food \N and water here.
 Dialogue: 0,0:01:41.12,0:01:42.58,Main,Koharu,0,0,0,,See you later.
-Dialogue: 0,0:01:42.58,0:01:44.38,Main,Sakuragi,0,0,0,,All right. Take care. {BATCH CHANGE: "Sure" -> "All right". - Toa of the Batch}
+Dialogue: 0,0:01:42.58,0:01:44.38,Main,Sakuragi,0,0,0,,All right. Take care.
 Dialogue: 0,0:01:44.38,0:01:46.63,Main,Go,0,0,0,,You should eat with us, too.
 Dialogue: 0,0:01:46.63,0:01:50.34,Main,Koharu,0,0,0,,I already ate. \N And I don’t want to be late for school.
 Dialogue: 0,0:01:50.84,0:01:52.34,Main,Sakuragi,0,0,0,,Well, see you later.
 Dialogue: 0,0:01:53.38,0:01:54.68,Main,Go,0,0,0,,I’ll go!
-Dialogue: 0,0:01:54.68,0:01:56.22,Main,Satoshi,0,0,0,,Me, too!
+Dialogue: 0,0:01:54.68,0:01:56.22,Main,Satoshi,0,0,0,,Me too!
 Dialogue: 0,0:02:01.52,0:02:03.31,Main,Renji,0,0,0,,I’m so sorry!
-Dialogue: 0,0:02:05.10,0:02:07.44,Main,Renji,0,0,0,,The bus got... stuck in traffic... {BATCH CHANGE: added an ellipsis after "got". - Toa of the Batch}
+Dialogue: 0,0:02:05.10,0:02:07.44,Main,Renji,0,0,0,,The bus got... stuck in traffic...
 Dialogue: 0,0:02:08.44,0:02:12.78,Main,Sakuragi,0,0,0,,Oh, that’s right. \N I hadn’t introduced you yet.
 Dialogue: 0,0:02:12.78,0:02:14.91,Main,Renji,0,0,0,,I’m Renji, an assistant here.
 Dialogue: 0,0:02:14.91,0:02:17.16,Main,Sakuragi,0,0,0,,And my other assistant...
@@ -82,9 +84,9 @@ Dialogue: 0,0:02:25.25,0:02:26.58,Main,Satoshi,0,0,0,,Fushigisou!
 Dialogue: 0,0:02:27.67,0:02:31.21,Main,Go,0,0,0,,A city-wide outbreak of Fushigisou? {002 NEP}
 Dialogue: 0,0:02:31.21,0:02:34.76,Main,Sakuragi,0,0,0,,Fushigidane. Fushigisou. \N Fushigibana.
 Dialogue: 0,0:02:34.76,0:02:39.81,Main,Sakuragi,0,0,0,,True to the “fushigi” in their names, \N they’re full of mysteries.
-Dialogue: 0,0:02:34.76,0:02:39.81,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur3\pos(605,590)}mystery{BATCH CHANGE: Made formatting consistent with other TL notes. - Toa of the Batch}
+Dialogue: 0,0:02:34.76,0:02:39.81,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur3\pos(605,590)}mystery
 Dialogue: 0,0:02:39.81,0:02:41.35,Main,Satoshi,0,0,0,,Let’s go investigate! {002 NEP}
-Dialogue: 0,0:02:41.35,0:02:45.14,Main,Go,0,0,0,,This’ll be our first job as research fellows \N of the Sakuragi Institute! {BATCH CHANGE: "at" -> "of". - Toa of the Batch}
+Dialogue: 0,0:02:41.35,0:02:45.14,Main,Go,0,0,0,,This’ll be our first job as research fellows \N of the Sakuragi Institute!
 Dialogue: 0,0:02:45.14,0:02:47.81,Main,Satoshi,0,0,0,,Yeah! Let’s give it \N all we’ve got, Pikachu!
 Dialogue: 0,0:02:48.90,0:02:52.44,Main,Sakuragi,0,0,0,,By the way, Satoshi, \N do you have a smartphone?
 Dialogue: 0,0:02:52.44,0:02:53.70,Main,Satoshi,0,0,0,,Smartphone?
@@ -98,13 +100,13 @@ Dialogue: 0,0:03:08.29,0:03:09.71,Main,Satoshi & Go,0,0,0,,All right!
 Dialogue: 0,0:03:11.84,0:03:13.21,Main,Go,0,0,0,,It went in...
 Dialogue: 0,0:03:14.72,0:03:15.68,Main,Satoshi,0,0,0,,What’s this?
 Dialogue: 0,0:03:18.43,0:03:21.31,Main,Sakuragi,0,0,0,,It’s called a Smartphone Rotom.
-Dialogue: 0,0:03:21.31,0:03:22.97,Main,Sakuragi,0,0,0,,It functions as a Pokémon Index, too. {TL verification needed for this change. - Toa of the Batch}
+Dialogue: 0,0:03:21.31,0:03:22.97,Main,Sakuragi,0,0,0,,It functions as a Pokémon Index, too. {Lit. It has Pokémon Index functionalities as well}
 Dialogue: 0,0:03:22.97,0:03:25.06,Main,Satoshi,0,0,0,,Thank you, sir!
 Dialogue: 0,0:03:25.06,0:03:26.23,Main,Satoshi,0,0,0,,All right, now...
 Dialogue: 0,0:03:27.02,0:03:28.86,Main,Satoshi & Go,0,0,0,,Let’s go!
 Comment: 0,0:03:31.32,0:03:31.32,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:59.45,0:04:59.45,Main,,0,0,0,,{Part B}
-Dialogue: 0,0:05:10.16,0:05:14.29,Main,Sakaki,0,0,0,,I ask of you: what is Team Rocket? {Redid the punctuation and capitalization. (source: https://english.stackexchange.com/questions/275380/colon-or-semicolon-before-a-follow-up-question) - Toa of the Batch}
+Dialogue: 0,0:05:10.16,0:05:14.29,Main,Sakaki,0,0,0,,I ask of you: what is Team Rocket?
 Dialogue: 0,0:05:14.67,0:05:18.92,Main,Musashi,0,0,0,,An evil organization spearheading \N the Pokémon world, now and forever.
 Dialogue: 0,0:05:18.92,0:05:20.68,Main,Sakaki,0,0,0,,What evil do we commit?
 Dialogue: 0,0:05:20.68,0:05:24.68,Main,Kojiro,0,0,0,,We steal each and every \N strong or rare Pokémon.
@@ -112,12 +114,12 @@ Dialogue: 0,0:05:25.05,0:05:26.56,Main,Sakaki,0,0,0,,To what end?
 Dialogue: 0,0:05:26.56,0:05:30.89,Main,Nyarth,0,0,0,,To create the mightiest Pokémon army \N using the Pokémon we stole.
 Dialogue: 0,0:05:34.44,0:05:38.40,Main,Sakaki,0,0,0,,For that purpose, I have prepared \N the ultimate secret weapon.
 Dialogue: 0,0:05:38.40,0:05:42.45,Main,Sakaki,0,0,0,,Go! Make the whole world learn to fear \N the name of Team Rocket!
-Dialogue: 0,0:05:43.45,0:05:46.08,Main,Team Rocket,0,0,0,,{\i1}Your wish is our command, \N Sakaki, sir!{\i0}
+Dialogue: 0,0:05:43.45,0:05:46.08,Main,Team Rocket,0,0,0,,{\i1}Your wish is our command, \N Sakaki, sir{Honorifics note: Sakaki-sama}!{\i0}
 Dialogue: 0,0:05:51.04,0:05:53.00,Main,Go,0,0,0,,That’s weird...
 Dialogue: 0,0:05:53.00,0:05:56.04,Main,Go,0,0,0,,It should be around here...
 Dialogue: 0,0:05:58.42,0:06:00.42,Main,Junsa,0,0,0,,Please stop!
 Dialogue: 0,0:06:00.42,0:06:01.22,Main,Satoshi & Go,0,0,0,,Over there!
-Dialogue: 0,0:06:02.80,0:06:04.22,Main,Satoshi,0,0,0,,Ms. Junsa!
+Dialogue: 0,0:06:02.80,0:06:04.22,Main,Satoshi,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}!
 Dialogue: 0,0:06:04.64,0:06:06.26,Main,Go,0,0,0,,Did something happen?
 Dialogue: 0,0:06:06.26,0:06:07.81,Main,Junsa,0,0,0,,As you can see...
 Dialogue: 0,0:06:09.43,0:06:10.93,Main,Satoshi,0,0,0,,Fushigisou!
@@ -162,12 +164,12 @@ Dialogue: 0,0:08:05.76,0:08:07.38,Main,Go,0,0,0,,Oh, I see how it is.
 Dialogue: 0,0:08:07.38,0:08:10.59,Main,Go,0,0,0,,Sheesh... Back with Lugia, \N I accepted you as my friend,
 Dialogue: 0,0:08:10.59,0:08:13.26,Main,Go,0,0,0,,but it seems I misjudged you.
 Dialogue: 0,0:08:13.26,0:08:15.35,Main,Satoshi,0,0,0,,I don’t need you to be my friend!
-Dialogue: 0,0:08:17.27,0:08:19.48,Main,Go,0,0,0,,So you’re one of {\i1}those{\i0} guys, too...
+Dialogue: 0,0:08:17.27,0:08:19.48,Main,Go,0,0,0,,So you’re {\i1}that{\i0} kind of guy, too...
 Dialogue: 0,0:08:20.40,0:08:21.73,Main,Satoshi,0,0,0,,You say something?
 Dialogue: 0,0:08:23.40,0:08:26.65,Main,Go,0,0,0,,Forget it! \N I’ll investigate on my own! {002 NEP}
 Dialogue: 0,0:08:26.65,0:08:29.45,Main,Satoshi,0,0,0,,Oh, will you, now? \N Well, suit yourself! {002 NEP}
 Dialogue: 0,0:08:29.45,0:08:31.03,Main,Go,0,0,0,,Yeah, I will!
-Dialogue: 0,0:08:43.96,0:08:46.05,Main,Satoshi & Go,0,0,0,,All right! Me, too!
+Dialogue: 0,0:08:43.96,0:08:46.05,Main,Satoshi & Go,0,0,0,,All right! Me too!
 Dialogue: 0,0:08:48.76,0:08:50.05,Main,Go,0,0,0,,Don’t copy me!
 Dialogue: 0,0:08:50.05,0:08:51.64,Main,Satoshi,0,0,0,,Right back at you!
 Dialogue: 0,0:09:00.56,0:09:02.98,Main,Satoshi,0,0,0,,Rotom, what’s that?
@@ -181,7 +183,7 @@ Dialogue: 0,0:09:32.84,0:09:36.51,Main,Go,0,0,0,,...is a sign that they’re abo
 Dialogue: 0,0:09:43.44,0:09:45.27,Main,Rotom Go Ver,0,0,0,,Pocket Monsters!
 Comment: 0,0:09:48.48,0:09:48.48,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:10:01.41,0:10:03.75,Main,Satoshi,0,0,0,,They keep coming \N from that way, too.
-Dialogue: 0,0:10:04.92,0:10:06.29,Main,Satoshi,0,0,0,,There’s Fushigidane, too!
+Dialogue: 0,0:10:04.92,0:10:06.29,Main,Satoshi,0,0,0,,There’s Fushigidane too!
 Dialogue: 0,0:10:06.79,0:10:08.92,Main,Satoshi,0,0,0,,They’re so cute!
 Dialogue: 0,0:10:09.76,0:10:12.72,Main,Go,0,0,0,,Rotom, do you have any info \N on that place?
 Dialogue: 0,0:10:14.34,0:10:17.35,Main,Rotom Go Ver,0,0,0,,This is a photo from \N when construction was starting!
@@ -218,7 +220,7 @@ Dialogue: 0,0:12:59.17,0:13:02.14,Main,Satoshi,0,0,0,,I’m starting to feel lik
 Dialogue: 0,0:13:02.89,0:13:04.51,Main,Satoshi,0,0,0,,This feels so nice...
 Dialogue: 0,0:13:09.39,0:13:12.48,Main,Go,0,0,0,,Oh, man... \N It really {\i1}does{\i0} feel nice...
 Dialogue: 0,0:13:19.32,0:13:21.32,Main,Satoshi,0,0,0,,The wind’s so pleasant.
-Dialogue: 0,0:13:21.32,0:13:26.08,Main,Go,0,0,0,,This spot is famous in Kuchiba \N for its strong winds.{Tagging to ask for literal. - Toa of the Batch}
+Dialogue: 0,0:13:21.32,0:13:26.08,Main,Go,0,0,0,,This spot is famous for strong winds, \N even by Kuchiba standards.{This spot is famous for strong winds, even for Kuchiba.}{This spot is famously windy, even for Kuchiba.}
 Dialogue: 0,0:13:34.75,0:13:36.13,Main,Go,0,0,0,,Is this evolution? {002 NEP}
 Dialogue: 0,0:13:42.01,0:13:42.76,Main,Go,0,0,0,,What’s that?!
 Dialogue: 0,0:13:47.06,0:13:49.14,Main,Musashi,0,0,0,,If you ask us about “this” or “that”...{Yay, classic motto! Copy-pasting this straight from M2. -Starfish}
@@ -255,7 +257,7 @@ Dialogue: 0,0:15:23.86,0:15:25.86,Main,Nyarth,0,0,0,,But do we even have one?
 Dialogue: 0,0:15:25.86,0:15:27.11,Main,Musashi & Kojiro,0,0,0,,We sure do!
 Dialogue: 0,0:15:27.11,0:15:28.24,Main,Musashi,0,0,0,,Here goes!
 Dialogue: 0,0:15:29.58,0:15:30.62,Main,Musashi,0,0,0,,Rocket...
-Dialogue: 0,0:15:30.62,0:15:31.95,Main,Kojiro,0,0,0,,Capsule...{alts for rhyme: Capsulette/Capsule-ette/Capsulet/Capsu-lette/Capsu-let - Toa of the Batch}
+Dialogue: 0,0:15:30.62,0:15:31.95,Main,Kojiro,0,0,0,,Capsul-et...
 Dialogue: 0,0:15:31.95,0:15:33.75,Main,Musashi,0,0,0,,Secret!
 Dialogue: 0,0:15:35.87,0:15:40.71,Main,Musashi,0,0,0,,So these Balls have awesome Pokémon \N that Sakaki picked out, huh?
 Dialogue: 0,0:15:40.71,0:15:43.01,Main,Musashi,0,0,0,,Come on!
@@ -294,7 +296,7 @@ Dialogue: 0,0:17:55.05,0:17:56.97,Main,Satoshi,0,0,0,,Go!
 Dialogue: 0,0:18:10.61,0:18:13.16,Main,Musashi,0,0,0,,That Pikachu really is incredible.
 Dialogue: 0,0:18:13.16,0:18:15.24,Main,Kojiro,0,0,0,,So we’d better stick to \N our original plan.
 Dialogue: 0,0:18:15.24,0:18:17.74,Main,Nyarth,0,0,0,,We {\i1}will{\i0} get \N that Pikachu, meow!
-Dialogue: 0,0:18:20.70,0:18:22.62,Main,Musashi,0,0,0,,But now we’re blasting off... {What's the literal here? - Toa of the Batch}
+Dialogue: 0,0:18:20.70,0:18:22.62,Main,Musashi,0,0,0,,But now we’re \N flying through the air...
 Dialogue: 0,0:18:23.46,0:18:26.54,Main,Team Rocket,0,0,0,,{\i1}What an awful feeling!{\i0}
 Dialogue: 0,0:18:38.10,0:18:40.10,Main,Go,0,0,0,,They’ve started evolving!
 Dialogue: 0,0:18:47.61,0:18:49.32,Main,Satoshi,0,0,0,,Fushigibana!
@@ -519,7 +521,7 @@ Dialogue: 0,0:04:53.64,0:04:57.77,OPp2,,0,0,0,,Let's go! You pick yourself up by
 Dialogue: 1,0:04:57.77,0:04:59.44,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:04:57.77,0:04:59.44,OPp2,,0,0,0,,I choose you!
 Comment: 0,0:00:00.47,0:00:00.47,Main,,0,0,0,,
-Dialogue: 1,0:05:03.03,0:05:08.45,Episode titles,,0,0,0,,{\fad(180,0)\pos(525,135)}The Oh-Sou Mysterious{BATCH CHANGE: Removed italics (also from last episode's title screen) both because the font doesn't have an italics variant and because I just think it looked kind of awkward. - Toa of the Batch}
+Dialogue: 1,0:05:03.03,0:05:08.45,Episode titles,,0,0,0,,{\fad(180,0)\pos(525,135)}The Oh-Sou Mysterious
 Dialogue: 0,0:05:03.03,0:05:08.45,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(525,135)}The Oh-Sou Mysterious
 Dialogue: 1,0:05:03.03,0:05:08.45,Episode titles,,0,0,0,,{\fad(180,0)\pos(810,443)}Fushigisou!
 Dialogue: 0,0:05:03.03,0:05:08.45,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(810,443)}Fushigisou!

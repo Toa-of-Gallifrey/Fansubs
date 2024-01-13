@@ -135,7 +135,7 @@ Dialogue: 0,0:07:42.36,0:07:44.61,Main,Sakuragi,0,0,0,,It’s headed towards the
 Dialogue: 0,0:07:58.42,0:07:59.08,Main,Koharu,0,0,0,,Eevee!
 Dialogue: 0,0:08:25.03,0:08:27.15,Main,Enoki,0,0,0,,Oh, my...
 Dialogue: 0,0:08:28.53,0:08:30.91,Main,Enoki,0,0,0,,Where did you come from?
-Dialogue: 0,0:08:30.91,0:08:32.41,Main,Sakuragi,0,0,0,,Mr. Enoki!
+Dialogue: 0,0:08:30.91,0:08:32.41,Main,Sakuragi,0,0,0,,Mr. Enoki{Honorifics note: Enoki-san}!
 Dialogue: 0,0:08:33.49,0:08:35.12,Main,Enoki,0,0,0,,Sakuragi!
 Dialogue: 0,0:08:35.12,0:08:36.95,Main,Sakuragi,0,0,0,,I haven’t seen you in so long.
 Dialogue: 0,0:08:36.95,0:08:39.33,Main,Koharu,0,0,0,,That’s my Eevee you have there.
@@ -145,7 +145,7 @@ Dialogue: 0,0:08:55.10,0:08:56.77,Main,Koharu,0,0,0,,It evolved!
 Dialogue: 0,0:08:58.02,0:09:01.27,Main,Rotom Koharu Ver,0,0,0,,Nyorozo. Tadpole Pokémon. \N Water type.
 Dialogue: 0,0:09:01.27,0:09:06.61,Main,Rotom Koharu Ver,0,0,0,,Capable of living in or out of water.{partial Red/Blue dex entry} \N Its body surface is always wet and slick.{partial Emerald dex entry}
 Dialogue: 0,0:09:06.61,0:09:10.15,Main,Rotom Koharu Ver,0,0,0,,Staring at the swirl on its belly \N causes drowsiness.{partial Sword dex entry}
-Dialogue: 0,0:09:10.15,0:09:14.37,Main,Sakuragi,0,0,0,,Koharu, Mr. Enoki here \N is this forest’s caretaker.
+Dialogue: 0,0:09:10.15,0:09:14.37,Main,Sakuragi,0,0,0,,Koharu, Mr. Enoki{Honorifics note: Enoki-san} here \N is this forest’s caretaker.
 Dialogue: 0,0:09:14.37,0:09:17.54,Main,Sakuragi,0,0,0,,He took care of me a lot \N when I was young.
 Dialogue: 0,0:09:17.66,0:09:19.16,Main,Koharu,0,0,0,,When you were young?!
 Dialogue: 0,0:09:19.41,0:09:22.63,Main,Sakuragi,0,0,0,,He still helps out \N with my research, even now.
@@ -153,7 +153,7 @@ Dialogue: 0,0:09:22.63,0:09:26.00,Main,Enoki,0,0,0,,Oh, I really don’t do much
 Dialogue: 0,0:09:26.00,0:09:27.63,Main,Enoki,0,0,0,,Nice to meet you.
 Dialogue: 0,0:09:27.63,0:09:29.84,Main,Koharu,0,0,0,,Nice to meet you, I’m Koharu.
 Dialogue: 0,0:09:29.84,0:09:33.72,Main,Enoki,0,0,0,,Sakuragi Koharu, huh...? \N That’s a nice name.
-Dialogue: 0,0:09:39.02,0:09:43.35,Main,Sakuragi,0,0,0,,You’ve grown this \N into a marvelous forest, Mr. Enoki.
+Dialogue: 0,0:09:39.02,0:09:43.35,Main,Sakuragi,0,0,0,,You’ve grown this \N into a marvelous forest, Mr. Enoki{Honorifics note: Enoki-san}.
 Dialogue: 0,0:09:43.35,0:09:46.65,Main,Enoki,0,0,0,,Thank you. \N It’s taken this long to do it.
 Dialogue: 0,0:09:47.07,0:09:49.69,Main,Koharu,0,0,0,,Forests can grow?
 Dialogue: 0,0:09:49.69,0:09:55.41,Main,Enoki,0,0,0,,Yes... This forest was made \N by humans planting trees.

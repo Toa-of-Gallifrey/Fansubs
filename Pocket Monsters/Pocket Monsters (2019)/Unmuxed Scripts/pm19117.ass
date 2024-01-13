@@ -71,7 +71,7 @@ Dialogue: 0,0:03:01.08,0:03:06.17,Main,Satoshi,0,0,0,,Iris has been raising that
 Dialogue: 0,0:03:06.17,0:03:08.17,Main,Satoshi,0,0,0,,I haven’t seen him in so long...{Male since Emonga's Attract works on him in BW ep 24. - Toa}
 Dialogue: 0,0:03:09.09,0:03:11.38,Main,Hop,0,0,0,,What?! You know her too?!
 Dialogue: 0,0:03:11.38,0:03:15.05,Main,Go,0,0,0,,You see, Iris adventured \N around Isshu with Satoshi.
-Dialogue: 0,0:03:15.05,0:03:17.22,Main,Go,0,0,0,,He’s well acquainted \N with Ms. Shirona, too.
+Dialogue: 0,0:03:15.05,0:03:17.22,Main,Go,0,0,0,,He’s well acquainted \N with Ms. Shirona{Honorifics note: Shirona-san}, too.
 Dialogue: 0,0:03:17.22,0:03:19.76,Main,Hop,0,0,0,,Wh-What’s up with you, Satoshi...?{Protagonist Power. -TLC}
 Dialogue: 0,0:03:20.18,0:03:21.89,Main,Kojiro,0,0,0,,We’re bursting with excitement!
 Dialogue: 0,0:03:21.89,0:03:24.02,Main,Musashi,0,0,0,,It’s gonna be \N squishy against steely!
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:36.49,0:03:38.99,Main,Kojiro,0,0,0,,You’re right! \N It’s t
 Dialogue: 0,0:03:38.99,0:03:42.03,Main,Musashi,0,0,0,,My, oh my, \N she sure is all dressed up.
 Dialogue: 0,0:03:47.29,0:03:49.88,Main,Carne,0,0,0,,But Iris is a Dragon user...
 Dialogue: 0,0:03:49.88,0:03:51.88,Main,Alain,0,0,0,,Doryuzu was quite the surprise.
-Dialogue: 0,0:03:52.88,0:03:56.38,Main,Daigo,0,0,0,,Apparently, she’s even had lessons \N from Ms. Shirona.
+Dialogue: 0,0:03:52.88,0:03:56.38,Main,Daigo,0,0,0,,Apparently, she’s even had lessons \N from Ms. Shirona{Honorifics note: Shirona-san}.
 Dialogue: 0,0:03:57.30,0:04:00.43,Main,Alain,0,0,0,,So both of them \N know each other’s cards...
 Dialogue: 0,0:04:00.43,0:04:02.72,Main,Dande,0,0,0,,Will we get to see \N a changing of the guard?
 Dialogue: 0,0:04:02.72,0:04:04.64,Main,Dande,0,0,0,,This is one to watch!
@@ -101,12 +101,12 @@ Dialogue: 0,0:04:35.96,0:04:37.97,Main,Shirona,0,0,0,,Tritodon! \N Take the blow
 Dialogue: 0,0:04:39.51,0:04:41.05,Main,Mic,0,0,0,,It connec—
 Dialogue: 0,0:04:41.05,0:04:43.18,Main,Mic,0,0,0,,Whoa! It repelled him!
 Dialogue: 0,0:04:44.35,0:04:46.64,Main,Shirona,0,0,0,,I can tell you’ve \N sharpened up your attacks!
-Dialogue: 0,0:04:47.06,0:04:50.31,Main,Iris,0,0,0,,You taught me a lot, \N Ms. Shirona!
+Dialogue: 0,0:04:47.06,0:04:50.31,Main,Iris,0,0,0,,You taught me a lot, \N Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:04:50.31,0:04:52.52,Main,Iris,0,0,0,,Your advice from back then...
 Dialogue: 0,0:04:53.15,0:04:56.03,Main,Iris,0,0,0,,...is still helping us, \N even now!
 Dialogue: 0,0:04:56.44,0:04:59.28,Main,Iris,0,0,0,,Thanks to you, \N I even became Champion!
 Dialogue: 0,0:04:59.61,0:05:03.28,Main,Iris,0,0,0,,And today, \N as the Champion of Isshu, Iris...{'As the Pokemon League Champion Iris! I'm going to defeat you!!' is B2W2 game line, EN: "I'm Iris, the Pokémon League Champion, and I'm going to defeat you!"}
-Dialogue: 0,0:05:03.28,0:05:06.29,Main,Iris,0,0,0,,Ms. Shirona, \N I’m going to defeat you!
+Dialogue: 0,0:05:03.28,0:05:06.29,Main,Iris,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}, \N I’m going to defeat you!
 Dialogue: 0,0:05:09.54,0:05:11.08,Main,Shirona,0,0,0,,Tritodon, \N use Muddy Water!
 Dialogue: 0,0:05:11.58,0:05:12.50,Main,Iris,0,0,0,,Focus Blast!
 Dialogue: 0,0:05:24.01,0:05:25.47,Main,Iris,0,0,0,,Doryuzu!
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:49.29,0:05:50.20,Main,Iris,0,0,0,,Drill Liner!
 Dialogue: 0,0:05:58.09,0:06:02.47,Main,Mic,0,0,0,,Oh? Tritodon is completely unfazed \N by the Drill Liner!
 Dialogue: 0,0:06:03.43,0:06:07.39,Main,Satoshi,0,0,0,,Of course, Dissolve is a move \N that raises your defense.
 Dialogue: 0,0:06:07.39,0:06:10.77,Main,Go,0,0,0,,Her Water-type moves \N have been powered up with Rain Prayer, too.
-Dialogue: 0,0:06:10.77,0:06:13.31,Main,Hop,0,0,0,,Ms. Shirona is ruthless!
+Dialogue: 0,0:06:10.77,0:06:13.31,Main,Hop,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} is ruthless!
 Dialogue: 0,0:06:13.31,0:06:15.44,Main,Satoshi,0,0,0,,What’s your attack plan, Iris?
 Dialogue: 0,0:06:15.44,0:06:17.40,Main,Iris,0,0,0,,Don’t worry, Doryuzu!
 Dialogue: 0,0:06:19.15,0:06:21.03,Main,Shirona,0,0,0,,It’s our turn, Tritodon!
@@ -139,7 +139,7 @@ Dialogue: 0,0:07:27.51,0:07:29.89,Main,Mic,0,0,0,,The Rain Prayer’s effect \N 
 Dialogue: 0,0:07:29.89,0:07:32.39,Main,Iris,0,0,0,,All right!
 Dialogue: 0,0:07:32.39,0:07:35.27,Main,Satoshi,0,0,0,,Good going, Iris, Doryuzu!
 Dialogue: 0,0:07:35.85,0:07:38.15,Main,Go,0,0,0,,But she can’t let her guard down.
-Dialogue: 0,0:07:38.15,0:07:40.27,Main,Go,0,0,0,,She’s up against Ms. Shirona.
+Dialogue: 0,0:07:38.15,0:07:40.27,Main,Go,0,0,0,,She’s up against Ms. Shirona{Honorifics note: Shirona-san}.
 Dialogue: 0,0:07:40.27,0:07:44.11,Main,Kojiro,0,0,0,,You’re not half bad, \N frilly Isshu girl.
 Dialogue: 0,0:07:44.11,0:07:47.70,Main,Nyarth,0,0,0,,It’s thanks to all our training \N that you made it this far, meow.
 Dialogue: 0,0:07:47.70,0:07:50.45,Main,Musashi,0,0,0,,You should come \N thank us sometime.
@@ -159,7 +159,7 @@ Dialogue: 0,0:08:52.72,0:08:55.81,Main,Iris,0,0,0,,I couldn’t predict \N how M
 Dialogue: 0,0:08:55.81,0:08:59.31,Main,Mic,0,0,0,,This time, Competitor Iris \N takes the black mark!
 Dialogue: 0,0:09:00.31,0:09:03.06,Main,Iris,0,0,0,,Kairyu, I’m counting on you!
 Dialogue: 0,0:09:07.32,0:09:09.32,Main,Shirona,0,0,0,,Ooh, I haven’t seen him in a while.
-Dialogue: 0,0:09:09.32,0:09:13.45,Main,Iris,0,0,0,,Ms. Shirona, just watch and see \N what Kairyu can do!
+Dialogue: 0,0:09:09.32,0:09:13.45,Main,Iris,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}, just watch and see \N what Kairyu can do!
 Dialogue: 0,0:09:14.16,0:09:15.66,Main,Iris,0,0,0,,Thunder Punch!
 Dialogue: 0,0:09:21.67,0:09:25.09,Main,Mic,0,0,0,,An Electric move, \N super effective against Water types!
 Dialogue: 0,0:09:25.09,0:09:27.09,Main,Mic,0,0,0,,That’s gotta sting!
@@ -186,7 +186,7 @@ Dialogue: 0,0:10:52.05,0:10:53.84,Main,Go,0,0,0,,He’s really strong!
 Dialogue: 0,0:10:53.84,0:10:56.14,Main,Go,0,0,0,,I knew she’d pick him!
 Dialogue: 0,0:10:56.14,0:10:58.01,Main,Hop,0,0,0,,But he’s a Dragon type...
 Dialogue: 0,0:10:58.43,0:11:01.93,Main,Hop,0,0,0,,How’s he supposed to handle \N Milokaross’s Fairy moves?
-Dialogue: 0,0:11:02.56,0:11:03.52,Main,Iris,0,0,0,,Ms. Shirona!
+Dialogue: 0,0:11:02.56,0:11:03.52,Main,Iris,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:11:04.27,0:11:08.52,Main,Iris,0,0,0,,When I became the Champion, \N he’s the one who finished the battle!
 Dialogue: 0,0:11:08.52,0:11:12.53,Main,Iris,0,0,0,,He’s always giving me strength!
 Dialogue: 0,0:11:17.36,0:11:19.49,Main,Shirona,0,0,0,,Milokaross! Charm Voice!
@@ -203,7 +203,7 @@ Dialogue: 0,0:12:04.12,0:12:07.75,Main,Iris,0,0,0,,That was so cool, Ononox!
 Dialogue: 0,0:12:09.25,0:12:11.00,Main,Shirona,0,0,0,,You fought well,
 Dialogue: 0,0:12:11.00,0:12:12.34,Main,Shirona,0,0,0,,Milokaross.
 Dialogue: 0,0:12:15.38,0:12:19.39,Main,Mic,0,0,0,,Competitor Shirona is also left \N with only one Pokémon.
-Dialogue: 0,0:12:19.39,0:12:21.64,Main,Satoshi,0,0,0,,She’s got Ms. Shirona cornered!
+Dialogue: 0,0:12:19.39,0:12:21.64,Main,Satoshi,0,0,0,,She’s got Ms. Shirona{Honorifics note: Shirona-san} cornered!
 Dialogue: 0,0:12:21.64,0:12:23.14,Main,Hop,0,0,0,,Amazing...
 Dialogue: 0,0:12:23.14,0:12:25.72,Main,Go,0,0,0,,Is it finally time for her ace?
 Dialogue: 0,0:12:26.10,0:12:27.69,Main,Shirona,0,0,0,,Take to the skies...
@@ -241,7 +241,7 @@ Dialogue: 0,0:15:03.55,0:15:04.84,Main,Shirona,0,0,0,,Gaburias...
 Dialogue: 0,0:15:06.22,0:15:07.68,Main,Shirona,0,0,0,,Mega Evolve!
 Dialogue: 0,0:15:29.37,0:15:30.87,Main,Satoshi,0,0,0,,Mega Gaburias!
 Dialogue: 0,0:15:30.87,0:15:32.49,Main,Hop,0,0,0,,She’s so cool!
-Dialogue: 0,0:15:32.49,0:15:35.00,Main,Go,0,0,0,,Ms. Shirona \N used Mega Evolution?!
+Dialogue: 0,0:15:32.49,0:15:35.00,Main,Go,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} \N used Mega Evolution?!
 Dialogue: 0,0:15:35.62,0:15:38.96,Main,Dande,0,0,0,,I suppose this is \N her showing she’s serious.
 Dialogue: 0,0:15:38.96,0:15:42.38,Main,Alain,0,0,0,,However, Ononox has \N a lot of potential, too.
 Dialogue: 0,0:15:43.42,0:15:45.88,Main,Alain,0,0,0,,I can’t tell how the battle \N will play out.
@@ -274,7 +274,7 @@ Dialogue: 0,0:19:03.25,0:19:06.08,Main,Iris,0,0,0,,You did your best, Ononox.
 Dialogue: 0,0:19:10.09,0:19:14.93,Main,Iris,0,0,0,,Ononox... Kairyu... Doryuzu...
 Dialogue: 0,0:19:14.93,0:19:16.30,Main,Iris,0,0,0,,I love all of you.
 Dialogue: 0,0:19:17.47,0:19:18.60,Main,Shirona,0,0,0,,Iris?
-Dialogue: 0,0:19:20.97,0:19:22.43,Main,Iris,0,0,0,,Ms. Shirona...
+Dialogue: 0,0:19:20.97,0:19:22.43,Main,Iris,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...
 Dialogue: 0,0:19:23.10,0:19:24.85,Main,Iris,0,0,0,,Thank you very much.
 Dialogue: 0,0:19:24.85,0:19:27.90,Main,Iris,0,0,0,,I’m going to get \N a whole lot stronger.
 Dialogue: 0,0:19:28.65,0:19:30.86,Main,Shirona,0,0,0,,That was an unforgettable battle.
@@ -293,7 +293,7 @@ Dialogue: 0,0:20:23.20,0:20:25.45,Main,Satoshi,0,0,0,,Iris... Tough luck, huh?
 Dialogue: 0,0:20:26.71,0:20:28.42,Main,Iris,0,0,0,,Satoshi...
 Dialogue: 0,0:20:32.29,0:20:33.59,Main,Iris,0,0,0,,I lost.
 Dialogue: 0,0:20:34.13,0:20:35.34,Main,Satoshi,0,0,0,,You did, huh?
-Dialogue: 0,0:20:35.34,0:20:38.22,Main,Iris,0,0,0,,Ms. Shirona is so amazing!
+Dialogue: 0,0:20:35.34,0:20:38.22,Main,Iris,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} is so amazing!
 Dialogue: 0,0:20:43.10,0:20:44.22,Main,Iris,0,0,0,,She’s amazing...
 Dialogue: 0,0:20:45.77,0:20:47.18,Main,Iris,0,0,0,,Amazing, but...
 Dialogue: 0,0:21:03.41,0:21:05.66,Main,Iris,0,0,0,,Ah, now I feel better!
@@ -313,7 +313,7 @@ Dialogue: 0,0:23:11.66,0:23:13.87,Main,Kojiro,0,0,0,,Next is the fourth match \N
 Dialogue: 0,0:23:13.87,0:23:18.38,Main,Nyarth,0,0,0,,{\q2}The Champion of Hoenn, Competitor Daigo, \N versus the Champion of Alola, Competitor Brat Boy, meow!
 Dialogue: 0,0:23:18.38,0:23:20.00,Main,Kojiro,0,0,0,,So, what should we \N keep our eyes on?
 Dialogue: 0,0:23:20.00,0:23:22.30,Main,Musashi,0,0,0,,Let’s see, it’d have to be... \N My good looks, hmm?
-Dialogue: 0,0:23:22.30,0:23:23.84,Main,Kojiro,0,0,0,,Mr. Head Deluxe, go ahead!
+Dialogue: 0,0:23:22.30,0:23:23.84,Main,Kojiro,0,0,0,,Mr. Head Deluxe{Honorifics note: Head Deluxe-san}, go ahead!
 Dialogue: 0,0:23:23.84,0:23:26.93,Main,Nyarth,0,0,0,,The regional delicacies \N that Morpeko’s always snacking on, meow!
 Dialogue: 0,0:23:26.93,0:23:28.22,Main,Musashi/Kojiro,0,0,0,,You’re picking {\i1}that?!{\i0}
 Dialogue: 0,0:23:28.22,0:23:30.18,Main,Kojiro,0,0,0,,Next time, on Pocket Monsters:

@@ -66,11 +66,11 @@ Dialogue: 0,0:03:16.26,0:03:18.47,Main,Nyarth,0,0,0,,That won’t do any damage,
 Dialogue: 0,0:03:18.47,0:03:21.06,Main,Musashi,0,0,0,,Go snap those roots \N like they’re twigs!
 Dialogue: 0,0:03:26.14,0:03:27.15,Main,Dande,0,0,0,,Do it!
 Dialogue: 0,0:03:50.92,0:03:52.59,Main,Satoshi,0,0,0,,Kairyu, you okay?!
-Dialogue: 0,0:03:56.09,0:03:59.59,Main,Carne,0,0,0,,Her speed dropped... Drum Attack's doing, I take it?{Alt: Her speed dropped... That must be Drum Attack's doing.}{Looser alt: Her speed dropped... Fallout from Drum Attack, I presume.}
+Dialogue: 0,0:03:56.09,0:03:59.59,Main,Carne,0,0,0,,Her speed dropped... Drum Attack’s doing, I take it?{Alt: Her speed dropped... That must be Drum Attack's doing.}{Looser alt: Her speed dropped... Fallout from Drum Attack, I presume.}
 Dialogue: 0,0:04:01.60,0:04:06.56,Main,Dande,0,0,0,,When I send out a Grass type, \N my opponents tend to attack it with Flying-type moves,
 Dialogue: 0,0:04:06.56,0:04:08.39,Main,Dande,0,0,0,,so that was my counter.
 Dialogue: 0,0:04:09.52,0:04:12.15,Main,Hikari,0,0,0,, “The best defense\N is a good offense...”
-Dialogue: 0,0:04:12.15,0:04:14.65,Main,Hikari,0,0,0,,Mr. Dande’s kinda like Satoshi.
+Dialogue: 0,0:04:12.15,0:04:14.65,Main,Hikari,0,0,0,,Mr. Dande{Honorifics note: Dande-san}’s kinda like Satoshi.
 Dialogue: 0,0:04:14.65,0:04:15.53,Main,Koharu,0,0,0,,Huh?
 Dialogue: 0,0:04:15.53,0:04:18.74,Main,Hikari,0,0,0,,Don’t you think \N their battle styles are similar?
 Dialogue: 0,0:04:20.78,0:04:22.78,Main,Dande,0,0,0,,Now, show me more, Satoshi!{128}
@@ -127,7 +127,7 @@ Dialogue: 0,0:09:37.81,0:09:40.06,Main,Dande,0,0,0,,And yet, I’m sad.
 Dialogue: 0,0:09:40.06,0:09:42.02,Main,Dande,0,0,0,,You have two Pokémon left.
 Dialogue: 0,0:09:42.02,0:09:44.23,Main,Dande,0,0,0,,This incredibly exciting battle...
 Dialogue: 0,0:09:44.23,0:09:45.94,Main,Dande,0,0,0,,...is almost over.
-Dialogue: 0,0:09:47.07,0:09:50.24,Main,Satoshi,0,0,0,,It’s not over till it’s over, \N Mr. Dande!
+Dialogue: 0,0:09:47.07,0:09:50.24,Main,Satoshi,0,0,0,,It’s not over ‘til it’s over, \N Mr. Dande{Honorifics note: Dande-san}!
 Dialogue: 0,0:09:50.24,0:09:52.24,Main,Satoshi,0,0,0,,Come out, Uonoragon!
 Dialogue: 0,0:09:58.83,0:10:00.41,Main,Mic,0,0,0,,Uonoragon!
 Dialogue: 0,0:10:00.41,0:10:03.29,Main,Mic,0,0,0,,Its spikes are still morphed!{Alt: The morphed spikes are still present!}
@@ -172,7 +172,7 @@ Dialogue: 0,0:14:07.79,0:14:10.37,Main,Dande,0,0,0,,You battled well. Return!
 Dialogue: 0,0:14:12.79,0:14:15.58,Main,Dande,0,0,0,,Satoshi, this is my sixth Pokémon.
 Dialogue: 0,0:14:15.58,0:14:18.09,Main,Dande,0,0,0,,Come out, Lizardon!
 Dialogue: 0,0:14:24.01,0:14:28.89,Main,Mic,0,0,0,,Competitor Dande’s \N supreme partner, Lizardon!
-Dialogue: 0,0:14:31.14,0:14:34.65,Main,Satoshi,0,0,0,,Mr. Dande wants to finish the battle \N with Lizardon.
+Dialogue: 0,0:14:31.14,0:14:34.65,Main,Satoshi,0,0,0,,Mr. Dande{Honorifics note: Dande-san} wants to finish the battle \N with Lizardon.
 Dialogue: 0,0:14:35.48,0:14:37.23,Main,Satoshi,0,0,0,,I’m counting on you, Pikachu!
 Dialogue: 0,0:14:38.48,0:14:41.24,Main,Mic,0,0,0,,Left with only Pikachu,
 Dialogue: 0,0:14:41.24,0:14:45.28,Main,Mic,0,0,0,,will Competitor Satoshi \N be able to take down Lizardon?
@@ -182,7 +182,7 @@ Dialogue: 0,0:14:52.66,0:14:55.54,Main,Dande,0,0,0,,Lizardon was my first Pokém
 Dialogue: 0,0:14:55.54,0:15:00.13,Main,Dande,0,0,0,,My irreplaceable partner, \N who’s always traveled with me.
 Dialogue: 0,0:15:00.59,0:15:05.30,Main,Dande,0,0,0,,My first battle, my first catch, \N my first evolution...
 Dialogue: 0,0:15:05.30,0:15:07.72,Main,Dande,0,0,0,,He’s been there \N for everything and anything.
-Dialogue: 0,0:15:07.72,0:15:09.26,Main,Satoshi,0,0,0,,We’re the same, Mr. Dande!
+Dialogue: 0,0:15:07.72,0:15:09.26,Main,Satoshi,0,0,0,,We’re the same, Mr. Dande{Honorifics note: Dande-san}!
 Dialogue: 0,0:15:09.89,0:15:13.23,Main,Satoshi,0,0,0,,Me, I’ve always traveled \N with Pikachu.
 Dialogue: 0,0:15:13.23,0:15:15.64,Main,Satoshi,0,0,0,,And that’s why I wanna beat \N Lizardon with Pikachu!
 Dialogue: 0,0:15:22.36,0:15:25.82,Main,Dande,0,0,0,,That’s why... \N I’ll win with Lizardon!
@@ -213,7 +213,7 @@ Dialogue: 0,0:18:35.14,0:18:36.97,Main,Dande,0,0,0,,It’s Champion time!
 Dialogue: 0,0:18:36.97,0:18:39.31,Main,Dande,0,0,0,,Kyodai Hellfire!
 Dialogue: 0,0:19:00.45,0:19:02.08,Main,Dande,0,0,0,,This is perfect, Satoshi!
 Dialogue: 0,0:19:02.08,0:19:05.71,Main,Dande,0,0,0,,I’ve always wanted to try this... \N Kyodaimax versus Z-Move!
-Dialogue: 0,0:19:06.29,0:19:07.96,Main,Satoshi,0,0,0,,Me too, Mr. Dande!
+Dialogue: 0,0:19:06.29,0:19:07.96,Main,Satoshi,0,0,0,,Me too, Mr. Dande{Honorifics note: Dande-san}!
 Dialogue: 0,0:19:08.54,0:19:13.59,Main,Mic,0,0,0,,Kyodai Hellfire versus \N 10,000,000 Volts!
 Dialogue: 0,0:19:13.59,0:19:21.35,Main,Mic,0,0,0,,The tremendous energy \N leaves the whole of Shoot Stadium shaking!
 Dialogue: 0,0:19:47.25,0:19:50.25,Main,Magnolia,0,0,0,,What is this \N Galar particle reaction?

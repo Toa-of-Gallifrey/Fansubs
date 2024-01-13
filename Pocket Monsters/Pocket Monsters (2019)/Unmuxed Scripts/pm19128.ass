@@ -53,8 +53,8 @@ Dialogue: 0,0:00:14.33,0:00:20.00,Strictly text,,0,0,0,,{\an1\fad(200, 0)\fnRo G
 Dialogue: 0,0:00:20.00,0:00:22.50,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\shad2\blur0.3\fsp-2\fs35\pos(643.45,620.78)\c&H39FFFF&}Satoshi and Dande's secret promise!
 Dialogue: 1,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs35\pos(55,535)\c&HE7E7E7&\bord2.5\blur0.6}Battle Reviewer
 Dialogue: 0,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs35\pos(55,535)\1a&HFF&\3a&H20&\bord4.5\blur3\3c&H0001FF&}Battle Reviewer
-Dialogue: 1,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs45\pos(55,576.89)\c&HE7E7E7&\bord2.5\blur0.6}Mr. Great Blaze
-Dialogue: 0,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs45\pos(55,576.89)\1a&HFF&\3a&H20&\bord4.5\blur3\3c&H0001FF&}Mr. Great Blaze
+Dialogue: 1,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs45\pos(55,576.89)\c&HE7E7E7&\bord2.5\blur0.6}Mr. Great Blaze{Honorifics note: Daimonji-san}
+Dialogue: 0,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\fsp-2\fs45\pos(55,576.89)\1a&HFF&\3a&H20&\bord4.5\blur3\3c&H0001FF&}Mr. Great Blaze{Honorifics note: Daimonji-san}
 Dialogue: 0,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an7\bord0\blur0.6\pos(0,0)\p1\c&H333333&}m 456 600 l 1228 600 l 1190 700 l 420 700 {\p0}
 Dialogue: 0,0:02:06.90,0:02:16.45,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif Std U\blur0.3\fsp-2\fs34\pos(443.56,685.33)}A Battle Watcher who spectates 1000+ matches a year\NFavorite moves: Explosive Punch, EM Cannon, Purgatory
 Dialogue: 0,0:02:16.87,0:02:27.21,Strictly text,,0,0,0,,{\fad(150, 0)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\c&H343436&\bord2\3c&HFAFAFB&\shad3\pos(766.41,691.12)\4c&H61E3FF&}Champions compete to be the {\c&H1819E8&}world's strongest
@@ -230,11 +230,11 @@ Comment: 0,0:00:22.50,0:00:22.50,Main,,0,0,0,,{This will not carry over to the A
 Comment: 0,0:01:50.59,0:01:50.59,Main,,0,0,0,,{Part B}
 Dialogue: 5,0:02:00.31,0:02:04.90,Main,Newsy the Newscaster Caster of News,0,0,0,,Today, we’re bringing you a special \N on the impending finals.
 Dialogue: 5,0:02:04.90,0:02:06.90,Main,Newsy the Newscaster Caster of News,0,0,0,,And let us welcome our guest commentator...
-Dialogue: 5,0:02:07.48,0:02:10.23,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Mr. Great Blaze, the Battle Reviewer.{text: Battle Reviewer \N Mr. Great Blaze ---- A Battle Watcher who spectates 1000+ matches a year \N Favorite moves: Explosive Punch, EM Cannon, Purgatory}
+Dialogue: 5,0:02:07.48,0:02:10.23,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Mr. Great Blaze{Honorifics note: Daimonji-san}, the Battle Reviewer.{text: Battle Reviewer \N Mr. Great Blaze{Honorifics note: Daimonji-san} ---- A Battle Watcher who spectates 1000+ matches a year \N Favorite moves: Explosive Punch, Electromagnetic Cannon, Purgatory}
 Dialogue: 5,0:02:10.23,0:02:12.82,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Thank you for being here today.
 Dialogue: 5,0:02:12.82,0:02:14.86,Main,Daimonji,0,0,0,,{\an8}I’m gonna Super light this show on fire!
 Dialogue: 5,0:02:14.86,0:02:16.45,Main,Daimonji,0,0,0,,{\an8}Take it away!
-Dialogue: 5,0:02:16.82,0:02:19.91,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}This tournament \N has been called{titled} “a festival of dreams.”
+Dialogue: 5,0:02:16.82,0:02:19.91,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}This tournament \N has been called{titled} a festival of dreams.
 Dialogue: 5,0:02:19.91,0:02:26.38,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Let’s recap the all-star cast of competitors \N who have thrilled all of us Pokémon fans!
 Dialogue: 5,0:02:28.00,0:02:31.13,Main,Newsy the Newscaster Caster of News,0,0,0,,Ranked 8th, Competitor Satoshi!{text: All-stars! The tournament competitors}
 Dialogue: 5,0:02:28.84,0:02:30.21,Main,Satoshi,0,0,0,,{\an8}100,000 Volts!{From episode... whatever we don't need to source an attack command he does in every single battle}
@@ -256,7 +256,7 @@ Dialogue: 5,0:03:04.50,0:03:07.46,Main,Newsy the Newscaster Caster of News,0,0,0
 Dialogue: 5,0:03:05.87,0:03:09.25,Main,Dande,0,170,0,,{\an8}Me and my Pokémon \N will take down all comers!{115}
 Dialogue: 5,0:03:09.84,0:03:13.84,Main,Newsy the Newscaster Caster of News,0,0,5,,They are the members of the Masters Eight,
 Dialogue: 5,0:03:13.84,0:03:16.47,Main,Newsy the Newscaster Caster of News,0,0,5,,who reign over more than 10,000 trainers.
-Dialogue: 5,0:03:16.47,0:03:19.64,Main,Newsy the Newscaster Caster of News,0,0,5,,Don’t they make an amazing group, Mr. Great Blaze?
+Dialogue: 5,0:03:16.47,0:03:19.64,Main,Newsy the Newscaster Caster of News,0,0,5,,Don’t they make an amazing group, Mr. Great Blaze{Honorifics note: Daimonji-san}?
 Dialogue: 5,0:03:20.01,0:03:22.52,Main,Daimonji,0,0,0,,{\an8}Oh... It’s a miracle! A miracle!
 Dialogue: 5,0:03:22.52,0:03:25.05,Main,Daimonji,0,0,0,,{\an8}Getting to watch \N a tournament like this is just...!{*}
 Dialogue: 5,0:03:25.05,0:03:27.85,Main,Daimonji,0,0,0,,{\an8}With all the hot battles, \N ever since the first round,
@@ -264,12 +264,12 @@ Dialogue: 5,0:03:27.85,0:03:29.81,Main,Daimonji,0,0,0,,{\an8}everyone’s probab
 Dialogue: 5,0:03:29.81,0:03:32.28,Main,Daimonji,0,0,0,,{\an8}Because of the {\i1}hot{\i0} battles!
 Dialogue: 5,0:03:32.28,0:03:34.44,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Mm-hmm, you’re on fire today.
 Dialogue: 5,0:03:34.44,0:03:36.20,Main,Newsy the Newscaster Caster of News,0,0,0,,Now then, next up...
-Dialogue: 5,0:03:36.20,0:03:43.33,Main,Newsy the Newscaster Caster of News,0,0,0,, An in-depth look at the key moments from \N the fiercely fought semifinals, with Mr. Great Blaze!
+Dialogue: 5,0:03:36.20,0:03:43.33,Main,Newsy the Newscaster Caster of News,0,0,0,, An in-depth look at the key moments from \N the fiercely fought semifinals, with Mr. Great Blaze{Honorifics note: Daimonji-san}!
 Dialogue: 5,0:03:43.33,0:03:44.37,Main,Newsy the Newscaster Caster of News,0,0,0,,Called...
 Dialogue: 5,0:03:44.37,0:03:47.87,Main,Newsy the Newscaster Caster of News,0,0,0,,“Great Blaze’s \N Now That’s SUPER!”
 Dialogue: 5,0:03:47.87,0:03:49.67,Main,Newsy the Newscaster Caster of News,0,0,0,,Well then, over to you.
 Dialogue: 5,0:03:49.67,0:03:51.13,Main,Daimonji,0,0,0,,All right!
-Dialogue: 5,0:03:51.13,0:03:55.80,Main,Daimonji,0,0,18,,First, let’s take a look at the battle between li’l Dande and li’l Carne!{text: Dande \N Champion of Galar - Carne \N Champion of Kalos(I think these typesets were in the past PWCS News...)}
+Dialogue: 5,0:03:51.13,0:03:55.80,Main,Daimonji,0,0,18,,First, let’s take a look at the battle between li’l Dande{Honorifics note: Dande-chan} and li’l Carne{Honorifics note: Carne-chan}!{text: Dande \N Champion of Galar - Carne \N Champion of Kalos(I think these typesets were in the past PWCS News...)}
 Dialogue: 5,0:03:55.80,0:03:59.84,Main,Newsy the Newscaster Caster of News,0,0,0,,Until the endgame, Competitor Dande \N set the pace of the match.
 Dialogue: 5,0:03:59.84,0:04:03.85,Main,Newsy the Newscaster Caster of News,0,0,0,,Competitor Carne struggled \N to find a way out.
 Dialogue: 5,0:04:03.85,0:04:07.27,Main,Daimonji,0,0,0,,Mmm... Her strategies \N ended up backfiring.
@@ -289,24 +289,24 @@ Dialogue: 5,0:05:09.37,0:05:10.37,Main,Dande,0,0,0,,What?!{122}
 Dialogue: 5,0:05:10.83,0:05:14.79,Main,Daimonji,0,0,200,,It stole that Kyodai Hellfire with Psychokinesis!{text: Super! - Snatching control of the opponent's move \N with "Super" strong psycho power!!}
 Dialogue: 5,0:05:14.79,0:05:17.38,Main,Daimonji,0,0,200,,That’d usually be impossible.
 Dialogue: 5,0:05:17.38,0:05:22.01,Main,Daimonji,0,0,200,,That’s the Super psycho power \N of a Champion’s Sirknight!
-Dialogue: 5,0:05:22.01,0:05:23.01,Main,Newsy the Newscaster Caster of News,0,0,200,,Mr. Great Blaze,
+Dialogue: 5,0:05:22.01,0:05:23.01,Main,Newsy the Newscaster Caster of News,0,0,200,,Mr. Great Blaze{Honorifics note: Daimonji-san},
 Dialogue: 5,0:05:23.01,0:05:28.22,Main,Newsy the Newscaster Caster of News,0,0,200,,that was the first time someone had ever blocked \N Kyodai Hellfire in an official match.
 Dialogue: 5,0:05:28.22,0:05:31.73,Main,Daimonji,0,0,200,,You may be right there... \N Even I hadn’t seen that before.
-Dialogue: 5,0:05:31.73,0:05:34.06,Main,Daimonji,0,0,200,,Li’l Dande must’ve been panicking back then!
+Dialogue: 5,0:05:31.73,0:05:34.06,Main,Daimonji,0,0,200,,Li’l Dande{Honorifics note: Dande-chan} must’ve been panicking back then!
 Dialogue: 5,0:05:34.06,0:05:36.61,Main,Newsy the Newscaster Caster of News,0,0,200,,But it was stopped at the last moment!{text: Semifinals 1st Match \N Dande vs Carne}
 Dialogue: 5,0:05:36.61,0:05:39.44,Main,Newsy the Newscaster Caster of News,0,0,200,,Competitor Dande ended up taking the match.
 Dialogue: 5,0:05:40.03,0:05:46.16,Main,Newsy the Newscaster Caster of News,0,0,18,,Next, if you would go over the battle between \N Competitor Shirona and Competitor Satoshi.
 Dialogue: 5,0:05:46.16,0:05:49.87,Main,Daimonji,0,0,0,,Oh, there were so many highlights, \N I could go on for hours!
 Dialogue: 5,0:05:49.87,0:05:53.96,Main,Newsy the Newscaster Caster of News,0,0,0,,It was a battle where they both \N fully played to their strengths, wasn’t it?
 Dialogue: 5,0:05:53.96,0:05:55.71,Main,Daimonji,0,0,0,,You know it was.
-Dialogue: 5,0:05:55.71,0:06:00.34,Main,Daimonji,0,0,0,,Li’l Shirona picked Mikaruge for her first move. \N Her strategy was really sharp!
+Dialogue: 5,0:05:55.71,0:06:00.34,Main,Daimonji,0,0,0,,Li’l Shirona{Honorifics note: Shirona-chan} picked Mikaruge for her first move. \N Her strategy was really sharp!
 Dialogue: 5,0:06:00.34,0:06:01.26,Main,Newsy the Newscaster Caster of News,0,0,0,,Yes.
 Dialogue: 5,0:06:01.26,0:06:03.93,Main,Newsy the Newscaster Caster of News,0,0,0,,That combo of Hypnosis and Dream Eater...
 Dialogue: 5,0:06:03.93,0:06:06.85,Main,Newsy the Newscaster Caster of News,0,0,0,,Plus, striking first with Surprise Attack...
 Dialogue: 5,0:06:06.85,0:06:09.77,Main,Newsy the Newscaster Caster of News,0,0,0,,Competitor Satoshi looked like \N he was having a real tough time.{Competitor Satoshi seemed \N to have a real tough time.}
 Dialogue: 5,0:06:10.22,0:06:13.44,Main,Daimonji,0,0,0,,Mikaruge is a Pokémon \N of few weaknesses.
 Dialogue: 5,0:06:13.44,0:06:16.57,Main,Daimonji,0,0,0,,She must’ve planned to use Mikaruge \N as a starting point...
-Dialogue: 5,0:06:16.57,0:06:20.89,Main,Daimonji,0,0,0,,...to build upon, no matter \N what Pokémon li’l Satoshi picked.
+Dialogue: 5,0:06:16.57,0:06:20.89,Main,Daimonji,0,0,0,,...to build upon, no matter \N what Pokémon li’l Satoshi{Honorifics note: Satoshi-chan} picked.
 Dialogue: 5,0:06:20.89,0:06:23.15,Main,Newsy the Newscaster Caster of News,0,0,0,,So that explains it...
 Dialogue: 5,0:06:23.15,0:06:30.04,Main,Newsy the Newscaster Caster of News,0,0,0,,Indeed, she went on to swap Pokémon \N again and again, sending Mikaruge in at vital points.
 Dialogue: 5,0:06:30.54,0:06:32.58,Main,Newsy the Newscaster Caster of News,0,0,0,,And then...
@@ -334,9 +334,9 @@ Dialogue: 5,0:08:12.64,0:08:13.89,Main,Satoshi,0,0,0,,What?!{123}
 Dialogue: 5,0:08:22.44,0:08:23.77,Main,Satoshi,0,0,0,,Pikachu!{123}
 Dialogue: 5,0:08:24.28,0:08:27.32,Main,Mic,0,0,0,,It’s Drag Along!{123}
 Dialogue: 5,0:08:37.04,0:08:40.79,Main,Danpei,0,0,0,,Mikaruge and Pikachu are both \N unable to battle!{123}
-Dialogue: 5,0:08:41.42,0:08:44.50,Main,Daimonji,0,0,0,,Li’l Shirona really showed her scary side.
+Dialogue: 5,0:08:41.42,0:08:44.50,Main,Daimonji,0,0,0,,Li’l Shirona{Honorifics note: Shirona-chan} really showed her scary side.
 Dialogue: 5,0:08:44.50,0:08:46.17,Main,Daimonji,0,0,0,,I wanna watch that again to be sure,
-Dialogue: 5,0:08:46.17,0:08:49.55,Main,Daimonji,0,0,0,,but li’l Shirona \N didn’t even command that move!
+Dialogue: 5,0:08:46.17,0:08:49.55,Main,Daimonji,0,0,0,,but li’l Shirona{Honorifics note: Shirona-chan} \N didn’t even command that move!
 Dialogue: 5,0:08:50.22,0:08:51.97,Main,Satoshi,0,0,0,,Now! Iron Tail!{123}
 Dialogue: 5,0:08:53.39,0:08:55.26,Main,Shirona,0,0,0,,Mikaruge, go ahead!{123}
 Dialogue: 5,0:08:56.97,0:08:59.10,Main,Newsy the Newscaster Caster of News,0,0,200,,Oh! You’re right!{text: Super! - Her elaborate strategies and meticulous planning to guarantee her victory were "Super"!!}
@@ -356,18 +356,18 @@ Dialogue: 5,0:09:42.98,0:09:47.94,Main,Newsy the Newscaster Caster of News,0,0,0
 Dialogue: 5,0:09:47.94,0:09:51.49,Main,Newsy the Newscaster Caster of News,0,0,0,,Competitor Shirona sends Togekiss \N onto the battlefield.
 Dialogue: 5,0:09:51.49,0:09:53.32,Main,Newsy the Newscaster Caster of News,0,0,0,,And then...
 Dialogue: 5,0:09:53.66,0:09:55.24,Main,Daimonji,0,0,0,,Super!
-Dialogue: 5,0:09:55.24,0:09:59.20,Main,Daimonji,0,0,0,,Li’l Shirona’s usually such an angel, \N but she looked downright demonic...
+Dialogue: 5,0:09:55.24,0:09:59.20,Main,Daimonji,0,0,0,,Li’l Shirona{Honorifics note: Shirona-chan}’s usually such an angel, \N but she looked downright demonic...
 Dialogue: 5,0:10:00.50,0:10:02.16,Main,Shirona,0,0,0,,Return, Togekiss!{124}
 Dialogue: 5,0:10:03.71,0:10:04.71,Main,Satoshi,0,0,0,,Huh?!{124}
 Dialogue: 5,0:10:04.71,0:10:07.46,Main,Mic,0,0,0,,What? Yet another recall?{124}
-Dialogue: 5,0:10:10.59,0:10:12.22,Main,Satoshi,0,0,0,,A Daimax band!{124}
+Dialogue: 5,0:10:10.59,0:10:12.22,Main,Satoshi,0,0,0,,A Daimax Band!{124}
 Dialogue: 5,0:10:13.63,0:10:15.80,Main,Shirona,0,0,0,,Tower over all, white wings!{そびえよ 白き翼}{124}
 Dialogue: 5,0:10:19.35,0:10:22.98,Main,Shirona,0,0,0,,Daimax Togekiss!{124}
 Dialogue: 5,0:10:36.99,0:10:40.49,Main,Daimonji,0,0,0,,If I got started on how amazing that was, \N I could talk the rest of the show away.
 Dialogue: 5,0:10:40.49,0:10:47.21,Main,Daimonji,0,0,0,,But you have to admire the keen judgment \N she showed in picking Daimax over Mega Evolution.
 Dialogue: 5,0:10:47.21,0:10:53.17,Main,Newsy the Newscaster Caster of News,0,0,0,,Emotionally, she must’ve wanted to save Mega Evolution for her ace, Gaburias.
 Dialogue: 5,0:10:53.72,0:10:57.64,Main,Daimonji,0,0,0,,I think she wanted to press the win \N while she had the advantage.
-Dialogue: 5,0:10:57.64,0:11:00.89,Main,Daimonji,0,0,0,,After all, if li’l Satoshi gets going, \N there’s no stopping him.
+Dialogue: 5,0:10:57.64,0:11:00.89,Main,Daimonji,0,0,0,,After all, if li’l Satoshi{Honorifics note: Satoshi-chan} gets going, \N there’s no stopping him.
 Dialogue: 5,0:11:00.89,0:11:05.48,Main,Newsy the Newscaster Caster of News,0,0,0,,What do you suppose Competitor Shirona’s aim would have been?
 Dialogue: 5,0:11:05.48,0:11:10.32,Main,Daimonji,0,0,0,,Mmm... Well, pushing through with the power of Daimax must’ve been part of it...
 Dialogue: 5,0:11:10.32,0:11:11.57,Main,Daimonji,0,0,0,,But take a close look.
@@ -378,7 +378,7 @@ Dialogue: 5,0:11:19.12,0:11:20.49,Main,Shirona,0,0,0,,Dai Jet!{125}
 Dialogue: 5,0:11:26.21,0:11:28.71,Main,Newsy the Newscaster Caster of News,0,0,200,,She kept commanding Dai Jets.
 Dialogue: 5,0:11:28.71,0:11:33.05,Main,Daimonji,0,0,200,,Yeah! She was raising its speed \N with the effect of Dai Jet!
 Dialogue: 5,0:11:33.05,0:11:36.68,Main,Daimonji,0,0,200,,Speed up enough, \N and your opponent can’t land their attacks.
-Dialogue: 5,0:11:36.68,0:11:38.64,Main,Daimonji,0,0,200,,Li’l Shirona, always thinking \N several moves ahead...
+Dialogue: 5,0:11:36.68,0:11:38.64,Main,Daimonji,0,0,200,,Li’l Shirona{Honorifics note: Shirona-chan}, always thinking \N several moves ahead...
 Dialogue: 5,0:11:38.64,0:11:40.68,Main,Daimonji,0,0,200,,I bet you can see the future, can’t you?!
 Dialogue: 5,0:11:40.68,0:11:45.14,Main,Daimonji,0,0,200,,Her Natio-class predictive powers are Super!
 Dialogue: 5,0:11:45.14,0:11:47.98,Main,Daimonji,0,0,200,,And then, \N this next part was just incredible...
@@ -395,15 +395,15 @@ Dialogue: 5,0:12:19.13,0:12:22.01,Main,Gurl the Announcer,0,0,130,,Competitor Sh
 Dialogue: 5,0:12:22.01,0:12:23.60,Main,Gurl the Announcer,0,0,130,,That concludes the news flash.
 Dialogue: 5,0:12:03.20,0:12:03.95,Main,Daimonji,0,0,0,,{\an8}What?!
 Dialogue: 5,0:12:04.37,0:12:05.37,Main,Daimonji,0,0,0,,{\an8}Hold on a sec!
-Dialogue: 5,0:12:05.37,0:12:07.46,Main,Daimonji,0,0,0,,{\an8}Li’l Shirona, you’ve got so much potential!
+Dialogue: 5,0:12:05.37,0:12:07.46,Main,Daimonji,0,0,0,,{\an8}Li’l Shirona{Honorifics note: Shirona-chan}, you’ve got so much potential!
 Dialogue: 5,0:12:08.00,0:12:11.46,Main,Daimonji,0,0,0,,{drowned out by the other two voices and seems to fade out mid-yelling anyway}
-Dialogue: 5,0:12:07.46,0:12:08.71,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Mr. Great Blaze?
+Dialogue: 5,0:12:07.46,0:12:08.71,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Mr. Great Blaze{Honorifics note: Daimonji-san}?
 Dialogue: 5,0:12:08.71,0:12:09.83,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}Please calm down,
 Dialogue: 5,0:12:09.83,0:12:11.46,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}I can’t hear the news.
 Dialogue: 5,0:12:23.60,0:12:26.52,Main,Daimonji,0,0,130,,Oh, what a relief!
-Dialogue: 5,0:12:26.52,0:12:30.31,Main,Daimonji,0,0,130,,She {\i1}did{\i0} seem to be having lots of fun \N in her battle with li’l Satoshi!
+Dialogue: 5,0:12:26.52,0:12:30.31,Main,Daimonji,0,0,130,,She {\i1}did{\i0} seem to be having lots of fun \N in her battle with li’l Satoshi{Honorifics note: Satoshi-chan}!
 Dialogue: 5,0:12:30.31,0:12:33.86,Main,Daimonji,0,0,130,,Maybe that battle reminded her \N of the joys of childhood!
-Dialogue: 5,0:12:33.86,0:12:35.90,Main,Daimonji,0,0,130,,Thank you, li’l Satoshi!
+Dialogue: 5,0:12:33.86,0:12:35.90,Main,Daimonji,0,0,130,,Thank you, li’l Satoshi{Honorifics note: Satoshi-chan}!
 Dialogue: 5,0:12:35.90,0:12:36.53,Main,Newsy the Newscaster Caster of News,0,0,130,,Indeed.{text: In-depth look at the highlights of the final!}
 Dialogue: 5,0:12:36.53,0:12:38.62,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}While it may have interrupted this program,
 Dialogue: 5,0:12:38.62,0:12:43.24,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}that was a news flash reporting that \N Competitor Shirona will not be retiring.
@@ -417,7 +417,7 @@ Dialogue: 5,0:13:01.89,0:13:04.64,Main,Newsy the Newscaster Caster of News,0,0,0
 Dialogue: 5,0:13:04.64,0:13:09.10,Main,Newsy the Newscaster Caster of News,0,0,0,,{\an8}we have obtained the latest poster for the tournament ahead of anyone else.
 Dialogue: 5,0:13:09.10,0:13:11.48,Main,Newsy the Newscaster Caster of News,0,0,0,,Let’s take a look at it.{text: Unveiled! The latest poster}
 Dialogue: 5,0:13:22.45,0:13:24.41,Main,Newsy the Newscaster Caster of News,0,0,0,,“The Climax Concludes”!
-Dialogue: 5,0:13:24.41,0:13:26.08,Main,Newsy the Newscaster Caster of News,0,0,0,,What do you think, Mr. Great Blaze?
+Dialogue: 5,0:13:24.41,0:13:26.08,Main,Newsy the Newscaster Caster of News,0,0,0,,What do you think, Mr. Great Blaze{Honorifics note: Daimonji-san}?
 Dialogue: 5,0:13:26.08,0:13:30.54,Main,Daimonji,0,0,0,,H-Hold on a sec. These are the full teams \N heading into the finals?!
 Dialogue: 5,0:13:30.54,0:13:33.88,Main,Newsy the Newscaster Caster of News,0,0,0,,That’s right! \N Let’s take a closer look.
 Dialogue: 5,0:13:33.88,0:13:37.63,Main,Newsy the Newscaster Caster of News,0,0,0,,If you would start with \N Competitor Satoshi’s Pokémon.
@@ -441,7 +441,7 @@ Dialogue: 5,0:14:24.72,0:14:25.51,Main,Newsy the Newscaster Caster of News,0,400
 Dialogue: 5,0:14:25.51,0:14:29.47,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}It did manage to precisely catch \N Togekiss, despite its raised speed.
 Dialogue: 5,0:14:29.47,0:14:30.56,Main,Daimonji,0,400,0,,{\an8}Yeah!
 Dialogue: 5,0:14:30.56,0:14:33.60,Main,Daimonji,0,400,0,,{\an8}Its final move was timed perfectly, too!
-Dialogue: 5,0:14:33.60,0:14:36.98,Main,Daimonji,0,400,0,,{\an8}Li’l Satoshi too, giving the command \N like, “It’s now or never!”...
+Dialogue: 5,0:14:33.60,0:14:36.98,Main,Daimonji,0,400,0,,{\an8}Li’l Satoshi{Honorifics note: Satoshi-chan} too, giving the command \N like, “It’s now or never!”...
 Dialogue: 5,0:14:36.98,0:14:39.36,Main,Daimonji,0,400,0,,{\an8}Maybe he can control the Guiding Waves, too?
 Dialogue: 5,0:14:39.36,0:14:40.86,Main,Daimonji,0,400,0,,{\an8}Just kidding!{inb4 That's right, meow.}
 Dialogue: 5,0:14:40.86,0:14:42.28,Main,Newsy the Newscaster Caster of News,0,0,0,,Next...
@@ -459,7 +459,7 @@ Dialogue: 5,0:15:20.40,0:15:22.78,Main,Daimonji,0,400,0,,{\an8}It worked so hard
 Dialogue: 5,0:15:22.78,0:15:26.49,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}I get the feeling its power \N has been rising rapidly lately...
 Dialogue: 5,0:15:26.49,0:15:31.45,Main,Daimonji,0,400,0,,{\an8}Mmm... Perhaps its ancient senses \N are returning to it.
 Dialogue: 5,0:15:31.45,0:15:35.83,Main,Daimonji,0,400,0,,{\an8}It’s a species without much data, \N so I can’t wait to see it battle in the finals!
-Dialogue: 5,0:15:35.83,0:15:40.13,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Oh, it’s a Pokémon even you don’t know \N all that much about, Mr. Great Blaze?
+Dialogue: 5,0:15:35.83,0:15:40.13,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Oh, it’s a Pokémon even you don’t know \N all that much about, Mr. Great Blaze{Honorifics note: Daimonji-san}?
 Dialogue: 5,0:15:40.13,0:15:43.42,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}I think that’s a mystery \N our program should look into!
 Dialogue: 5,0:15:44.01,0:15:45.55,Main,Newsy the Newscaster Caster of News,0,0,0,,Next...
 Dialogue: 5,0:15:45.55,0:15:48.68,Main,Newsy the Newscaster Caster of News,0,0,0,,The elusive black demon, Gänger!
@@ -469,7 +469,7 @@ Dialogue: 5,0:15:59.61,0:16:01.98,Main,Daimonji,0,400,0,,{\an8}It’s bad news!
 Dialogue: 5,0:16:01.98,0:16:05.78,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Gänger has Kyodaimax to use \N as a trump card, too.
 Dialogue: 5,0:16:05.78,0:16:06.82,Main,Daimonji,0,400,0,,{\an8}Yeah!
 Dialogue: 5,0:16:06.82,0:16:09.74,Main,Daimonji,0,400,0,,{\an8}Mega Evolution... \N Z-Moves... Daimax...
-Dialogue: 5,0:16:09.74,0:16:13.37,Main,Daimonji,0,400,0,,{\an8}What’s li’l Satoshi \N gonna choose to use in the finals?
+Dialogue: 5,0:16:09.74,0:16:13.37,Main,Daimonji,0,400,0,,{\an8}What’s li’l Satoshi{Honorifics note: Satoshi-chan} \N gonna choose to use in the finals?
 Dialogue: 5,0:16:14.70,0:16:15.70,Main,Newsy the Newscaster Caster of News,0,0,0,,Lastly...
 Dialogue: 5,0:16:16.79,0:16:19.29,Main,Newsy the Newscaster Caster of News,0,0,0,,Meteor incarnate, Kairyu!
 Dialogue: 5,0:16:19.96,0:16:23.84,Main,Daimonji,0,400,0,,{\an8}Kairyu is sure to be key \N in aerial battles in the finals.
@@ -477,7 +477,7 @@ Dialogue: 5,0:16:23.84,0:16:28.18,Main,Newsy the Newscaster Caster of News,0,400
 Dialogue: 5,0:16:28.18,0:16:32.51,Main,Daimonji,0,400,0,,{\an8}Oh, it looks like \N it has so much fun flying...
 Dialogue: 5,0:16:32.51,0:16:34.47,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}According to an insider report,
 Dialogue: 5,0:16:34.47,0:16:39.73,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Competitor Satoshi is the one \N who taught Kairyu how to fly.
-Dialogue: 5,0:16:39.73,0:16:42.52,Main,Daimonji,0,400,0,,{\an8}Huh?! Li’l Satoshi can fly?!
+Dialogue: 5,0:16:39.73,0:16:42.52,Main,Daimonji,0,400,0,,{\an8}Huh?! Li’l Satoshi{Honorifics note: Satoshi-chan} can fly?!
 Dialogue: 5,0:16:42.52,0:16:45.98,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Our program should \N look into that mystery, too!
 Dialogue: 5,0:16:46.82,0:16:51.20,Main,Newsy the Newscaster Caster of News,0,0,0,,Now then, let’s continue with a look \N at Competitor Dande’s Pokémon.
 Dialogue: 5,0:16:51.20,0:16:53.24,Main,Daimonji,0,0,0,,I’ve been wondering about those!
@@ -493,7 +493,7 @@ Dialogue: 5,0:17:17.31,0:17:19.98,Main,Daimonji,0,400,0,,{\an8}Then, first up is
 Dialogue: 5,0:17:19.98,0:17:22.02,Main,Daimonji,0,400,0,,{\an8}But wouldn’t you say it’s odd?
 Dialogue: 5,0:17:22.02,0:17:23.56,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Hmm? In what way?
 Dialogue: 5,0:17:23.56,0:17:28.40,Main,Daimonji,0,400,0,,{\an8}It’s a Fire-type, just like Lizardon. \N That’s not exactly balanced.
-Dialogue: 5,0:17:28.40,0:17:30.86,Main,Daimonji,0,400,0,,{\an8}I can’t tell what li’l Dande’s plotting!
+Dialogue: 5,0:17:28.40,0:17:30.86,Main,Daimonji,0,400,0,,{\an8}I can’t tell what li’l Dande{Honorifics note: Dande-chan}’s plotting!
 Dialogue: 5,0:17:30.86,0:17:33.53,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}It really is exciting, isn’t it?
 Dialogue: 5,0:17:33.53,0:17:34.37,Main,Daimonji,0,400,0,,{\an8}Next is...
 Dialogue: 5,0:17:34.37,0:17:36.03,Main,Daimonji,0,400,0,,{\an8}...Inteleon, huh?
@@ -504,7 +504,7 @@ Dialogue: 5,0:17:46.63,0:17:48.96,Main,Daimonji,0,400,0,,{\an8}Last up is Barrik
 Dialogue: 5,0:17:48.96,0:17:51.13,Main,Daimonji,0,400,0,,{\an8}The one I’m most excited to see!
 Dialogue: 5,0:17:51.13,0:17:53.51,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}It doesn’t appear to be \N very strong, though...
 Dialogue: 5,0:17:53.51,0:17:55.76,Main,Daimonji,0,400,0,,{\an8}Ain’t that a good thing?
-Dialogue: 5,0:17:55.76,0:17:57.64,Main,Daimonji,0,400,0,,{\an8}If it’s li’l Dande’s Pokémon,
+Dialogue: 5,0:17:55.76,0:17:57.64,Main,Daimonji,0,400,0,,{\an8}If it’s li’l Dande{Honorifics note: Dande-chan}’s Pokémon,
 Dialogue: 5,0:17:57.64,0:18:01.73,Main,Daimonji,0,400,0,,{\an8}it {\i1}has{\i0} to be two-faced—\NNo, belly-faced!{\i0}{it has to have a hidden face— No, a stomach face!}{Awful pun, ura no kao = hidden side, kao = face, hara no kao = hara sounds like ura and it literally has a face on its stomach.}
 Dialogue: 5,0:18:02.35,0:18:05.44,Main,Newsy the Newscaster Caster of News,0,0,0,,Wow... I really can’t wait!
 Dialogue: 5,0:18:05.44,0:18:10.07,Main,Daimonji,0,0,0,,What kind of battle is it gonna be? \N I bet it’s gonna be something I can’t even imagine!
@@ -519,7 +519,7 @@ Dialogue: 5,0:18:47.23,0:18:49.23,Main,Dande,0,0,0,,Flamethrower!{13}
 Dialogue: 5,0:19:01.45,0:19:03.08,Main,Satoshi,0,0,0,,Don’t give up!{13}
 Dialogue: 5,0:19:32.53,0:19:33.65,Main,Dande,0,0,0,,Lizardon?!{13}
 Dialogue: 5,0:19:39.87,0:19:41.87,Main,Satoshi,0,0,0,,The Kyodaimax was a success!{13}
-Dialogue: 5,0:19:44.91,0:19:48.38,Main,Daimonji,0,0,0,,Li’l Satoshi’s Pikachu \N can Kyodaimax?!
+Dialogue: 5,0:19:44.91,0:19:48.38,Main,Daimonji,0,0,0,,Li’l Satoshi{Honorifics note: Satoshi-chan}’s Pikachu \N can Kyodaimax?!
 Dialogue: 5,0:19:48.38,0:19:50.34,Main,Newsy the Newscaster Caster of News,0,0,0,,That’s right.
 Dialogue: 5,0:19:50.34,0:19:57.59,Main,Newsy the Newscaster Caster of News,0,0,0,,Apparently Competitor Satoshi got his \N Daimax Band from Competitor Dande that day.
 Dialogue: 5,0:19:57.59,0:19:59.43,Main,Satoshi,0,0,0,,Kyodai Heavy Thunder!{13}
@@ -534,7 +534,7 @@ Dialogue: 5,0:20:49.27,0:20:53.73,Main,Dande,0,0,0,,But if you want to satisfy m
 Dialogue: 5,0:20:54.52,0:20:55.23,Main,Satoshi,0,0,0,,“Pop”?{13}
 Dialogue: 5,0:20:55.98,0:20:59.03,Main,Go,0,0,0,,Put on more of a show!{13}
 Dialogue: 5,0:20:59.03,0:20:59.91,Main,Dande,0,0,0,,Later, then.{13}
-Dialogue: 5,0:21:01.82,0:21:05.45,Main,Satoshi,0,0,0,,Mr. Dande! \N Please, battle me again someday!{13}
+Dialogue: 5,0:21:01.82,0:21:05.45,Main,Satoshi,0,0,0,,Mr. Dande{Honorifics note: Dande-san}! \N Please, battle me again someday!{13}
 Dialogue: 5,0:21:07.00,0:21:09.21,Main,Dande,0,0,0,,Our next match will be \N an official one, with a crowd!{13}
 Dialogue: 5,0:21:09.75,0:21:10.58,Main,Satoshi,0,0,0,,Yeah!{13}
 Dialogue: 5,0:21:11.96,0:21:16.92,Main,Daimonji,0,0,0,,So the finals will fulfill their promise \N from that day at last!

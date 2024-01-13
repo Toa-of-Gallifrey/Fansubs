@@ -64,7 +64,7 @@ Dialogue: 0,0:02:42.64,0:02:44.89,Main,Go,0,0,0,,Hop, can you scoot over a bit?
 Dialogue: 0,0:02:44.89,0:02:45.98,Main,Hop,0,0,0,,Okay!
 Dialogue: 0,0:02:46.90,0:02:48.02,Main,Hop,0,0,0,,The Champion of Isshu?!
 Dialogue: 0,0:02:48.02,0:02:49.32,Main,Iris,0,0,0,,Hey!
-Dialogue: 0,0:02:50.07,0:02:52.11,Main,Iris,0,0,0,,I hear you’re \N Mr. Dande’s little brother!
+Dialogue: 0,0:02:50.07,0:02:52.11,Main,Iris,0,0,0,,I hear you’re \N Mr. Dande{Honorifics note: Dande-san}’s little brother!
 Dialogue: 0,0:02:52.11,0:02:53.19,Main,Iris,0,0,0,,Nice to meet you!
 Dialogue: 0,0:02:53.19,0:02:54.15,Main,Hop,0,0,0,,Nice to meet you...
 Dialogue: 0,0:02:54.15,0:02:58.16,Main,Iris,0,0,0,,Wooloo! You’re so fluffy!
@@ -78,7 +78,7 @@ Dialogue: 0,0:03:15.01,0:03:21.76,Main,Danpei,0,0,0,,{\q2}Additionally, you are 
 Dialogue: 0,0:03:21.76,0:03:24.06,Main,Hop,0,0,0,,Satoshi has all of them!
 Dialogue: 0,0:03:24.06,0:03:24.93,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:03:24.93,0:03:26.89,Main,Go,0,0,0,,All his adventures \N have led to this!
-Dialogue: 0,0:03:26.89,0:03:30.94,Main,Satoshi,0,0,0,,Mr. Daigo! \N {\i1}We’ll{\i0} be heading on to the semifinals!
+Dialogue: 0,0:03:26.89,0:03:30.94,Main,Satoshi,0,0,0,,Mr. Daigo{Honorifics note: Daigo-san}! \N {\i1}We’ll{\i0} be heading on to the semifinals!
 Dialogue: 0,0:03:32.15,0:03:35.49,Main,Daigo,0,0,0,,You sound quite confident, \N given you’re facing me.{BATCH CHANGE - Original: You sound so confident \N despite facing me. | Alt take: You sound quite confident, \N given you’re up against me.}
 Dialogue: 0,0:03:35.49,0:03:38.49,Main,Daigo,0,0,0,,I can’t wait to see \N what this battle will bring.{BATCH CHANGE - Original: I can’t wait to see \N how this battle will go.}
 Dialogue: 0,0:03:39.03,0:03:42.99,Main,Danpei,0,0,0,,Now then, both battlers, \N send your first Pokémon out onto the field!
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:41.89,0:04:44.56,Main,Iris,0,0,0,,Plus, its ability is Strong J
 Dialogue: 0,0:04:44.56,0:04:46.85,Main,Iris,0,0,0,,That makes it even stronger!
 Dialogue: 0,0:04:47.31,0:04:50.73,Main,Satoshi,0,0,0,,Shinji... \N Our battle helped me out!
 Dialogue: 0,0:04:52.94,0:04:56.73,Main,Satoshi,0,0,0,,{\t(2939,3690,\c&HFFFFFF&\3c&HFFFFFF)}Approaching with Agility, \N then using Psychokinesis...
-Dialogue: 0,0:04:57.36,0:05:02.37,Main,Satoshi,0,0,0,,That training really {\i1}was{\i0} meant to prepare me \N for a battle with Mr. Daigo!
+Dialogue: 0,0:04:57.36,0:05:02.37,Main,Satoshi,0,0,0,,That training really {\i1}was{\i0} meant to prepare me \N for a battle with Mr. Daigo{Honorifics note: Daigo-san}!
 Dialogue: 0,0:05:03.62,0:05:05.58,Main,Daigo,0,0,0,,Return, Metagross.
 Dialogue: 0,0:05:08.62,0:05:10.33,Main,Daigo,0,0,0,,Come out, Bossgodra!
 Dialogue: 0,0:05:13.58,0:05:16.59,Main,Mic,0,0,0,,Competitor Daigo is swapping out \N his Pokémon already! {BATCH CHANGE - Original: Competitor Daigo \N already swaps out his Pokémon! | Another option: Competitor Daigo swaps out his Pokémon already! | Might play with a little more. - Toa}
@@ -128,7 +128,7 @@ Dialogue: 0,0:06:30.20,0:06:32.16,Main,Satoshi,0,0,0,,Can you keep going, Uonora
 Dialogue: 0,0:06:37.75,0:06:40.25,Main,Danpei,0,0,0,,Uonoragon is unable to battle!
 Dialogue: 0,0:06:40.25,0:06:43.26,Main,Mic,0,0,0,,Bossgodra gets the referee’s fan \N in a clash of strength!
 Dialogue: 0,0:06:46.51,0:06:49.43,Main,Iris,0,0,0,,Uonoragon... lost...
-Dialogue: 0,0:06:49.43,0:06:51.39,Main,Go,0,0,0,,Mr. Daigo’s strong...
+Dialogue: 0,0:06:49.43,0:06:51.39,Main,Go,0,0,0,,Mr. Daigo{Honorifics note: Daigo-san}’s strong...
 Dialogue: 0,0:06:53.27,0:06:55.02,Main,Musashi,0,0,0,,See?
 Dialogue: 0,0:06:55.02,0:06:57.56,Main,Musashi,0,0,0,,The brat boy just can’t cut it.
 Dialogue: 0,0:06:57.56,0:06:59.19,Main,Nyarth,0,0,0,,What’s got into you?
@@ -284,7 +284,7 @@ Dialogue: 0,0:20:02.39,0:20:04.81,Main,Nyarth,0,0,0,,Now there’s our Pikachu!{
 Dialogue: 0,0:20:04.81,0:20:06.56,Main,Kojiro,0,0,0,,There’s our brat boy!{Sasuga. line}
 Dialogue: 0,0:20:06.56,0:20:09.19,Main,Musashi,0,0,0,,Now, isn’t {\i1}this{\i0} quite the upset?!
 Dialogue: 0,0:20:09.19,0:20:12.32,Main,Musashi,0,0,0,,You know, maybe \N they just might...!{Not QUITE the same wording as Kojiro's earlier line but both have "moshikashitara moshika suru kamo" so tried to keep it similar. But Kojiro only mentions Satoshi whereas Musashi's "aitsura" also would logically include his team.}
-Dialogue: 0,0:20:16.36,0:20:17.78,Main,Satoshi,0,0,0,,Mr. Daigo.
+Dialogue: 0,0:20:16.36,0:20:17.78,Main,Satoshi,0,0,0,,Mr. Daigo{Honorifics note: Daigo-san}.
 Dialogue: 0,0:20:17.78,0:20:21.45,Main,Daigo,0,0,0,,The feelings you have \N for your Pokémon partners…{ORAS game line - tweaked to readd 'partners'}
 Dialogue: 0,0:20:21.45,0:20:25.83,Main,Daigo,0,0,0,,And the feelings of those Pokémon, \N responding to yours with all their might…{ORAS game line - slightly rewritten by anime}
 Dialogue: 0,0:20:26.46,0:20:31.29,Main,Daigo,0,0,0,,They came together as one, \N and created an even greater power.{ORAS game line}
@@ -293,7 +293,7 @@ Dialogue: 0,0:20:35.34,0:20:37.17,Main,Daigo,0,0,0,,A marvelous victory.
 Dialogue: 0,0:20:39.51,0:20:45.64,Main,Mic,0,0,0,,With this, the four trainers advancing to the \N Masters Tournament semifinals have been decided.
 Dialogue: 0,0:20:45.64,0:20:51.81,Main,Mic,0,0,0,,Competitor Dande, Competitor Carne, \N Competitor Shirona, and Competitor Satoshi.
 Dialogue: 0,0:20:51.81,0:20:56.99,Main,Mic,0,0,0,,The white-hot Masters Tournament \N is far from over!
-Dialogue: 0,0:21:01.24,0:21:02.99,Main,Daigo,0,0,0,,You’re facing Ms. Shirona next.
+Dialogue: 0,0:21:01.24,0:21:02.99,Main,Daigo,0,0,0,,You’re facing Ms. Shirona{Honorifics note: Shirona-san} next.
 Dialogue: 0,0:21:02.99,0:21:07.00,Main,Daigo,0,0,0,,But I’m sure \N you and Pikachu can win.
 Dialogue: 0,0:21:07.00,0:21:08.41,Main,Daigo,0,0,0,,I believe in you.
 Dialogue: 0,0:21:08.41,0:21:10.29,Main,Alain,0,0,0,,Satoshi, you better win!
@@ -301,7 +301,7 @@ Dialogue: 0,0:21:10.29,0:21:12.46,Main,Iris,0,0,0,,I’ll be waiting to hear you
 Dialogue: 0,0:21:12.46,0:21:14.46,Main,Satoshi,0,0,0,,Yeah! Leave it to me!
 Dialogue: 0,0:21:16.05,0:21:17.80,Main,Go,0,0,0,,You can’t let your guard down.
 Dialogue: 0,0:21:18.76,0:21:20.18,Main,Satoshi,0,0,0,,I know that!
-Dialogue: 0,0:21:20.18,0:21:22.80,Main,Satoshi,0,0,0,,I’m {\i1}gonna{\i0} battle Mr. Dande, \N for sure!
+Dialogue: 0,0:21:20.18,0:21:22.80,Main,Satoshi,0,0,0,,I’m {\i1}gonna{\i0} battle Mr. Dande{Honorifics note: Dande-san}, \N for sure!
 Dialogue: 0,0:21:22.80,0:21:24.18,Main,Satoshi,0,0,0,,Right, Pikachu?
 Dialogue: 0,0:21:26.26,0:21:28.77,Main,Iris,0,0,0,,Best wishes! \N Give it your all!
 Dialogue: 0,0:21:29.48,0:21:33.23,Main,Narrator,0,0,0,,The fierce first round \N of the Masters Tournament has concluded.

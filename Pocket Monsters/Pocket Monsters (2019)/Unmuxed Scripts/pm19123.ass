@@ -63,7 +63,7 @@ Dialogue: 0,0:01:47.63,0:01:48.88,Main,Carne,0,0,0,,What is it?
 Dialogue: 0,0:01:48.88,0:01:51.13,Main,Shirona,0,0,0,,Once this tournament’s over...{121}
 Dialogue: 0,0:01:51.13,0:01:53.18,Main,Shirona,0,0,0,,I’m retiring from battles.{121}
 Dialogue: 0,0:01:53.59,0:01:54.34,Main,Carne,0,0,0,,Huh?!{121}
-Dialogue: 0,0:01:55.72,0:01:57.47,Main,Carne,0,0,0,,Ms. Shirona...
+Dialogue: 0,0:01:55.72,0:01:57.47,Main,Carne,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...
 Comment: 0,0:01:59.97,0:01:59.97,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:28.06,0:03:28.06,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:03:39.28,0:03:41.95,Main,Okido,0,0,0,,Very well! Everyone is here!
@@ -143,7 +143,7 @@ Dialogue: 0,0:09:33.43,0:09:35.64,Main,Shirona,0,0,0,,Bloom, Roserade!{Same as i
 Dialogue: 0,0:09:41.89,0:09:45.65,Main,Mic,0,0,0,,Now, next up is \N Roserade versus Gänger!
 Dialogue: 0,0:09:45.98,0:09:49.90,Main,Hop,0,0,0,,Is Satoshi gonna Daimax it \N to turn the tide?!
 Dialogue: 0,0:09:49.90,0:09:51.11,Main,Go,0,0,0,,I don’t know...
-Dialogue: 0,0:09:52.57,0:09:57.12,Main,Satoshi,0,0,0,,This is how the Champion of Sinnoh, \N Ms. Shirona, battles...
+Dialogue: 0,0:09:52.57,0:09:57.12,Main,Satoshi,0,0,0,,This is how the Champion of Sinnoh, \N Ms. Shirona{Honorifics note: Shirona-san}, battles...
 Dialogue: 0,0:09:58.29,0:09:59.45,Main,Shirona,0,0,0,,Roserade...
 Dialogue: 0,0:09:59.45,0:10:00.96,Main,Shirona,0,0,0,,Seed Machine Gun!
 Dialogue: 0,0:10:03.75,0:10:05.13,Main,Satoshi,0,0,0,,Shadow Ball!
@@ -202,7 +202,7 @@ Dialogue: 0,0:14:00.65,0:14:04.32,Main,YOU,0,0,0,,it’s been depicted on good-l
 Dialogue: 0,0:14:04.32,0:14:06.20,Main,Hop,0,0,0,,Switching again...
 Dialogue: 0,0:14:06.20,0:14:08.87,Main,Hop,0,0,0,,She might be doing this \N to throw him off his game.
 Dialogue: 0,0:14:10.45,0:14:12.33,Main,Go,0,0,0,,Don’t panic.
-Dialogue: 0,0:14:12.33,0:14:15.38,Main,Go,0,0,0,,Don’t let Ms. Shirona \N set the pace!
+Dialogue: 0,0:14:12.33,0:14:15.38,Main,Go,0,0,0,,Don’t let Ms. Shirona{Honorifics note: Shirona-san} \N set the pace!
 Dialogue: 0,0:14:17.00,0:14:18.59,Main,Satoshi,0,0,0,,Pikachu...!
 Dialogue: 0,0:14:18.59,0:14:20.01,Main,Satoshi,0,0,0,,Counting on you!
 Dialogue: 0,0:14:23.38,0:14:26.26,Main,Mic,0,0,0,,Competitor Satoshi’s \N third Pokémon is Pikachu!
@@ -232,7 +232,7 @@ Dialogue: 0,0:15:41.96,0:15:43.92,Main,Satoshi,0,0,0,,Pikachu! Are you okay?
 Dialogue: 0,0:15:47.93,0:15:49.89,Main,Shirona,0,0,0,,Emerge from the waves!
 Dialogue: 0,0:15:49.89,0:15:50.80,Main,Shirona,0,0,0,,Tritodon!
 Dialogue: 0,0:15:58.31,0:16:00.77,Main,Hop,0,0,0,,Electric moves won’t work on Tritodon!
-Dialogue: 0,0:16:00.77,0:16:03.28,Main,Go,0,0,0,,Ms. Shirona knows Satoshi well.
+Dialogue: 0,0:16:00.77,0:16:03.28,Main,Go,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} knows Satoshi well.
 Dialogue: 0,0:16:03.73,0:16:08.16,Main,Go,0,0,0,,She’s expecting he’ll keep Pikachu in, \N and plans to take him out!
 Dialogue: 0,0:16:11.58,0:16:13.33,Main,Shirona,0,0,0,,Earth Power!
 Dialogue: 0,0:16:19.04,0:16:21.13,Main,Satoshi,0,0,0,,Pikachu, jump!
@@ -277,7 +277,7 @@ Dialogue: 0,0:18:52.44,0:18:58.58,Main,Mic,0,0,0,,Wow! Blocked by Pikachu’s 10
 Dialogue: 0,0:18:58.58,0:18:59.83,Main,Shirona,0,0,0,,That can’t...
 Dialogue: 0,0:18:59.83,0:19:00.99,Main,Satoshi,0,0,0,,Finish it!
 Dialogue: 0,0:19:03.62,0:19:07.42,Main,Dande,0,0,0,,It’s like they say...\N Offense is the best defense!
-Dialogue: 0,0:19:10.50,0:19:11.67,Main,Satoshi,0,0,0,,Ms. Shirona!
+Dialogue: 0,0:19:10.50,0:19:11.67,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:19:11.67,0:19:16.39,Main,Satoshi,0,0,0,,That was Counter Shield, a move we came up with \N when we traveled through Sinnoh!
 Dialogue: 0,0:19:17.76,0:19:21.81,Main,Shirona,0,0,0,,I remember it! \N You showed it off at the Sinnoh League.
 Dialogue: 0,0:19:21.81,0:19:25.02,Main,Satoshi,0,0,0,,We’re stronger \N than we were back then!
@@ -301,7 +301,7 @@ Dialogue: 0,0:21:06.12,0:21:08.83,Main,Carne,0,0,0,,He’s just suffered \N imme
 Dialogue: 0,0:21:08.83,0:21:13.59,Main,Dande,0,0,0,,Well, now... \N This is getting interesting, eh, Satoshi?
 Dialogue: 0,0:21:17.26,0:21:20.38,Main,Shirona,0,0,0,,Mikaruge... \N You truly fought well.
 Dialogue: 0,0:21:21.76,0:21:23.22,Main,Shirona,0,0,0,,Rest yourself.
-Dialogue: 0,0:21:26.14,0:21:28.77,Main,Satoshi,0,0,0,,Ms. Shirona’s strong...
+Dialogue: 0,0:21:26.14,0:21:28.77,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}’s strong...
 Dialogue: 0,0:21:30.89,0:21:33.10,Main,Narrator,0,0,0,,Pikachu is already down.
 Dialogue: 0,0:21:33.69,0:21:37.82,Main,Narrator,0,0,0,,Shirona stands tall before Satoshi \N and his hopes of reaching the finals.
 Dialogue: 0,0:21:38.53,0:21:41.40,Main,Narrator,0,0,0,,Their fierce fight is only just \N beginning!
