@@ -46,7 +46,7 @@ dengeki ha でんげきは (Shock Wave) - Shock Wave
 denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation [alt: EM Levitation]
 denji ha でんじは (Thunder Wave) - Electromagnetic Wave [alt: EM Wave]
 denji hou でんじほう (Zap Cannon) - Electromagnetic Cannon [alt: EM Cannon]
-denki shokku でんきショック (Thunder Shock) - Thunder Shock
+denki shokku でんきショック (Thunder Shock) - Electric Shock
 denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
 dogeza tsuki (False Surrender) - Groveling Jab
 doku no kona どくのこな (Poison Powder) - Poison Powder
