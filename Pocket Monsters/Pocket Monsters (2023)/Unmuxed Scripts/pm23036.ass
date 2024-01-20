@@ -50,7 +50,7 @@ Dialogue: 0,0:01:18.68,0:01:22.52,Main,Gurumin,0,0,0,,“Recently, I became \N t
 Dialogue: 0,0:01:22.52,0:01:28.99,Main,Gurumin,0,0,0,,“In Pigton Town, where I live, there’s going to be \N a Pokémon Tag Battle tournament soon...”{Ton = pig/pork}
 Dialogue: 0,0:01:28.99,0:01:31.07,Main,Gurumin,0,0,0,,Ooh, sounds like fun!
 Dialogue: 0,0:01:31.82,0:01:35.91,Main,Gurumin,0,0,0,,“But my Perfuton doesn’t want to team up \N with anyone, and seems really down.
-Dialogue: 0,0:01:35.91,0:01:38.70,Main,Gurumin,0,0,0,,“Gurumin, what do you think I should I do?” {doushi}
+Dialogue: 0,0:01:35.91,0:01:38.70,Main,Gurumin,0,0,0,,“Gurumin, what do you think I should do?” {doushi}
 Dialogue: 0,0:01:39.16,0:01:41.37,Main,Gurumin,0,0,0,,Good question...{TL: What, indeed...}
 Dialogue: 0,0:01:41.37,0:01:42.29,Main,Gurumin,0,0,0,,Ooh!
 Dialogue: 0,0:01:42.29,0:01:45.67,Main,Gurumin,0,0,0,,I know {\i1}just{\i0} the girl for the job!
@@ -103,7 +103,7 @@ Dialogue: 0,0:05:52.42,0:05:55.29,Main,Yuno,0,0,0,,Huh?! Liko, {\i1}you’re{\i0
 Dialogue: 0,0:05:55.29,0:05:56.67,Main,Liko,0,0,0,,Y-Yeah...
 Dialogue: 0,0:05:56.67,0:05:59.26,Main,Yuno,0,0,0,,I saw the collab you were in with Nanjamo!
 Dialogue: 0,0:05:59.26,0:06:02.30,Main,Yuno,0,0,0,,You and Nyahoja really are great friends.
-Dialogue: 0,0:06:02.76,0:06:05.72,Main,Yuno,0,0,0,,We’re just like that! \N I’m a Twirls{Honorifics note: Twirly-chan}Superfan!
+Dialogue: 0,0:06:02.76,0:06:05.72,Main,Yuno,0,0,0,,It’s the same with me! \N I’m a total Twirls{Honorifics note: Twirly-chan}Superfan!
 Dialogue: 0,0:06:05.72,0:06:06.80,Main,Yuno,0,0,0,,But lately...
 Dialogue: 0,0:06:07.18,0:06:09.35,Main,Yuno,0,0,0,,Twirls{Honorifics note: Twirly-chan} is sighing a lot,
 Dialogue: 0,0:06:09.35,0:06:11.60,Main,Yuno,0,0,0,,and I don’t know what to do. {doushi}
@@ -192,7 +192,7 @@ Dialogue: 0,0:12:10.17,0:12:12.96,Main,Liko,0,0,0,,N-Not perfect, but you’re d
 Dialogue: 0,0:12:12.96,0:12:14.67,Main,Yuno,0,0,0,,You look fantastic, Twirls{Honorifics note: Twirly-chan}!
 Dialogue: 0,0:12:15.09,0:12:18.63,Main,Yuno,0,0,0,,We’ve gotta put Renta and the others \N in their place, no matter what!
 Dialogue: 0,0:12:18.63,0:12:20.05,Main,Yuno,0,0,0,,For sure, for sure!
-Dialogue: 0,0:12:21.05,0:12:25.43,Main,Liko,0,0,0,,Could it be that Renta \N is the one who Yuno is...?{Could it be that Yuno, when it comes to Renta...}
+Dialogue: 0,0:12:21.05,0:12:25.43,Main,Liko,0,0,0,,Does... Yuno like Renta...?
 Dialogue: 0,0:12:35.15,0:12:35.90,Main,Yuno,0,0,0,,Renta!
 Dialogue: 0,0:12:37.15,0:12:38.86,Main,Renta,0,0,0,,What now, Yuno?
 Dialogue: 0,0:12:38.86,0:12:42.07,Main,Renta,0,0,0,,Prince told you he didn’t \N wanna team up, didn’t he?
@@ -299,9 +299,9 @@ Dialogue: 0,0:20:38.97,0:20:40.59,Main,Gurumin,0,0,0,,Congratulations!
 Dialogue: 0,0:20:40.59,0:20:41.93,Main,Yuno,0,0,0,,Thank you!
 Dialogue: 0,0:20:41.93,0:20:46.43,Main,Yuno,0,0,0,,We couldn’t have won without Gurumin, \N Ms. NyahojaSuperfan{Honorifics note: NyahojaSuperfan-san}, and everyone else’s help!
 Dialogue: 0,0:20:46.43,0:20:47.98,Main,Gurumin,0,0,0,,Glad to hear!
-Dialogue: 0,0:20:47.98,0:20:50.90,Main,Gurumin,0,0,0,,Are you getting along well \N with your ideal partner?
-Dialogue: 0,0:20:50.90,0:20:53.11,Main,Yuno,0,0,0,,H-H-He is {\i1}not{\i0} ideal for me!
-Dialogue: 0,0:20:53.11,0:20:55.23,Main,Yuno,0,0,0,,And it’s definitely not \N like that with us!
+Dialogue: 0,0:20:47.98,0:20:50.90,Main,Gurumin,0,0,0,,Are you getting along well \N with your super perfect partner?
+Dialogue: 0,0:20:50.90,0:20:53.11,Main,Yuno,0,0,0,,H-H-He is {\i1}not{\i0} super perfect for me!
+Dialogue: 0,0:20:53.11,0:20:55.23,Main,Yuno,0,0,0,,And it’s definitely {\i1}not{\i0} \N like that with us!
 Dialogue: 0,0:20:55.23,0:20:56.07,Main,Gurumin,0,0,0,,Huh?
 Dialogue: 0,0:20:56.07,0:20:58.74,Main,Gurumin,0,0,0,,I thought your partner was Twirls{Honorifics note: Twirly-chan}...
 Dialogue: 0,0:20:59.78,0:21:02.74,Main,Yuno,0,0,0,,I-I’m getting along great \N with Twirls{Honorifics note: Twirly-chan}!
@@ -313,7 +313,7 @@ Dialogue: 0,0:21:19.09,0:21:22.68,Main,Dot,0,0,0,,Just as planned, \N views and 
 Dialogue: 0,0:21:23.22,0:21:24.26,Main,Dot,0,0,0,,Huh?
 Dialogue: 0,0:21:24.26,0:21:27.22,Main,Dot,0,0,0,,“So Gurumin plays Cupid, huh?”
 Dialogue: 0,0:21:27.22,0:21:29.64,Main,Dot,0,0,0,,“Help me out with my crush!”
-Dialogue: 0,0:21:29.64,0:21:31.60,Main,Dot,0,0,0,,“How do I befriend the one I admire?”
+Dialogue: 0,0:21:29.64,0:21:31.60,Main,Dot,0,0,0,,“I think I’m in love! \N How do I approach them?”
 Dialogue: 0,0:21:32.23,0:21:35.61,Main,Dot,0,0,0,,Hey! I’m not taking \N those kinds of requests!
 Dialogue: 0,0:21:35.61,0:21:39.57,Main,Dot,0,0,0,,Aaagh! Now what do I do?! {doushi}
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
@@ -321,13 +321,13 @@ Dialogue: 0,0:21:45.91,0:21:47.16,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.16,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N the Hog Pokémon, Perfuton.
 Dialogue: 1,0:21:54.50,0:21:58.17,Main,Friede,0,0,0,,A Pokémon that gives off \N a sweet scent from the tip of its tail.
-Dialogue: 0,0:21:58.17,0:22:02.13,Main,Friede,0,0,0,,It has a trait closely linked to that scent,
+Dialogue: 0,0:21:58.17,0:22:02.13,Main,Friede,0,0,0,,It has a trait that is closely linked to that scent,
 Dialogue: 0,0:22:02.13,0:22:05.18,Main,Friede,0,0,0,,but do you know which trait that is?
 Dialogue: 0,0:22:05.18,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
 Dialogue: 0,0:23:39.40,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
-Dialogue: 0,0:23:42.19,0:23:45.20,Main,Friede,0,0,220,,The answer is \N A: Its gourmet palate!
+Dialogue: 0,0:23:42.19,0:23:45.20,Main,Friede,0,0,220,,The answer is \N A: Gourmet palate!
 Dialogue: 0,0:23:45.20,0:23:49.07,Main,Friede,0,0,220,,Perfuton is a Pokémon gourmet, \N being quite picky about its food.
 Dialogue: 0,0:23:49.07,0:23:53.87,Main,Friede,0,0,220,,It came to smell so nice due to \N having eaten tasty food for a long time.
 Dialogue: 0,0:23:56.96,0:24:00.50,Main,Friede,0,0,0,,Even Cap can’t resist that scent.{Sasuga. line}
