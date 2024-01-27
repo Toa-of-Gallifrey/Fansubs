@@ -1,239 +1,790 @@
 MOVE NAMES
 
+aamaa kyanon アーマーキャノン (Armor Cannon) - Armor Cannon
 aamu hammaa アームハンマー (Hammer Arm) - Arm Hammer
 abareru あばれる (Thrash) - Thrash
+afuro bureiku アフロブレイク (Head Charge) - Afro Break
 aian heddo アイアンヘッド (Iron Head) - Iron Head
+aian rooraa アイアンローラー (Steel Roller) - Iron Roller
 aian teeru アイアンテール (Iron Tail) - Iron Tail
+aisu booru アイスボール (Ice Ball) - Ice Ball
+aisu hammaa アイスハンマー (Ice Hammer) - Ice Hammer
+aisu supinaa アイススピナー (Ice Spinner) - Ice Spinner
 aku no hadou あくのはどう (Dark Pulse) - Evil Pulse
 akua boreiku アクアブレイク (Liquidation) - Aqua Break
+akua jetto アクアジェット (Aqua Jet) - Aqua Jet
+akua kattaa アクアカッター (Aqua Cutter) - Aqua Cutter
+akua suteppu アクアステップ (Aqua Step) - Aqua Step
 akua teeru アクアテール (Aqua Tail) - Aqua Tail
 akubi あくび (Yawn) - Yawn
+akuma no kissu あくまのキッス (Lovely Kiss) - # TBD #
+akumu あくむ (Nightmare) - # TBD #
 akurobatto アクロバット (Acrobatics) - Acrobatics
+akuseru bureiku アクセルブレイク (Collision Course) - Accel Break
+akuseru rokku アクセルロック (Accelerock) - Accel Rock
+akuu setsudan あくうせつだん (Spacial Rend) - # TBD #
+amaeru あまえる (Charm) - # TBD #
 amagoi あまごい (Rain Dance) - Rain Prayer
 amai kaori あまいかおり (Sweet Scent) - Sweet Scent
 ana o horu あなをほる (Dig) - Dig
+ankaa shotto アンカーショット (Anchor Shot) - Anchor Shot
 ankoku kyouda あんこくきょうだ (Wicked Blow) - Dark Blow
+ankooru アンコール (Encore) - Encore
+aoi honoo あおいほのお (Blue Flare) - # TBD #
+arare あられ (Hail) - Hail
+aroma misuto アロマミスト (Aromatic Mist) - # TBD #
 aromaserapii アロマセラピー (Aromatherapy) - Aromatherapy
+asa no hizashi あさのひざし (Morning Sun) - # TBD #
+ashiddo bomu アシッドボム (Acid Spray) - Acid Bomb
+ashisuto gia アシストギア (Gear Up) - # TBD #
+ashisuto pawaa アシストパワー (Stored Power) - # TBD #
+asutoraru bitto アストラルビット (Astral Barrage) - # TBD #
 ateminage あてみなげ (Vital Throw) - Parry Throw
 awa あわ (Bubble) - Bubbles
 ayashii hikari あやしいひかり (Confuse Ray) - Eerie Light
+ayashii kaze あやしいかぜ (Ominous Wind) - # TBD #
 baaku auto バークアウト (Snarl) - Bark Out
-babaru kousen バブルこうせん (Bubble Beam) - Bubble Beam
+baburu kousen バブルこうせん (Bubble Beam) - Bubble Beam
+bachibachi akuseru ばちばちアクセル (Zippy Zap) - # TBD #
+bakajikara ばかぢから (Superpower) - # TBD #
 bakuonpa ばくおんぱ (Boomburst) - Blast Waves
 bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
+baretto panchi バレットパンチ (Bullet Punch) - Bullet Punch
+bariaa バリアー (Barrier) - Barrier
+bariaa rasshu バリアーラッシュ (Psyshield Bash) - # TBD #
+baton tacchi バトンタッチ (Baton Pass) - # TBD #
 benomu shokku ベノムショック (Venoshock) - Venom Shock
+benomu torappu ベノムトラップ (Venom Drench) - Venom Trap
+bikkuri heddo ビックリヘッド (Mind Blown) - # TBD #
 biribiri chikuchiku びりびりちくちく (Zing Zap) - Shocking Prickles
+biribiri ereki びりびりエレキ (Buzzy Buzz) - # TBD #
 birudo appu ビルドアップ (Bulk Up) - Build Up
+bodi paaji ボディパージ (Autotomize) - Body Purge
 bodi puresu ボディプレス (Body Press) - Body Press
 boon rasshu ボーンラッシュ (Bone Rush) - Bone Rush
 borutekkaa ボルテッカー (Volt Tackle) - Voltteccer
+boruto chenji ボルトチェンジ (Volt Switch) - # TBD #
 boufuu ぼうふう (Hurricane) - Hurricane
+bougyo shirei ぼうぎょしれい (Defend Order) - Defend Order
+buchikamashi ぶちかまし (Headlong Rush) - # TBD #
+buibui bureiku ブイブイブレイク (Veevee Volley) - # TBD #
+bukimi na juumon ぶきみなじゅもん (Eerie Spell) - # TBD #
 bunmawasu ぶんまわす (Brutal Swing) - Brutal Swing
 burasuto baan ブラストバーン (Blast Burn) - Blast Burn
 bureibu baado ブレイブバード (Brave Bird) - Brave Bird
+bureibu chaaji ブレイブチャージ (Take Heart) - # TBD #
 bureiku kuroo ブレイククロー (Crush Claw) - Break Claw
 bureizu kikku ブレイズキック (Blaze Kick) - Blaze Kick
+burizaado ransu ブリザードランス (Glacial Lance) - # TBD #
+burokkingu ブロッキング (Obstruct) - # TBD #
+chaaji bimu チャージビーム (Charge Beam) - Charge Beam
 chaamu boisu チャームボイス (Disarming Voice) - Charm Voice
+chiisakunaru ちいさくなる (Minimize) - Shrink
+chikara o suitoru ちからをすいとる (Strength Sap) - # TBD #
 chikyuunage ちきゅうなげ (Seismic Toss) - Globe Throw
-chou onpa ちょうおんぱ (Supersonic) - Supersonic Waves
+chou no mai ちょうのまい (Quiver Dance) - # TBD #
+chouhatsu ちょうはつ (Taunt) - Taunt
+chouonpa ちょうおんぱ (Supersonic) - Supersonic Waves
+daaku hooru ダークホール (Dark Void) - Dark Hole
+daburu atakku ダブルアタック (Double Hit) - Double Attack
+daburu choppu ダブルチョップ (Double Chop) - Double Chop
 daburu niidoru ダブルニードル (Twineedle) - Double Needle
 daburu panzaa ダブルパンツァー (Double Iron Bash) - Double Panzer
+daburu uingu ダブルウイング (Dual Wingbeat) - # TBD #
+dai bakahatsu だいばくはつ (Explosion) - Explosion
+daibingu ダイビング (Dive) - # TBD #
+daichi no chikara だいちのちから (Earth Power) - Earth Power
+daichi no hadou だいちのはどう (Terrain Pulse) - # TBD #
+daifungeki だいふんげき (Raging Fury) - # TBD #
+daimakkusu hou ダイマックスほう (Dynamax Cannon) - Daimax Cannon
 daimonji だいもんじ (Fire Blast) - Great Blaze
+daiya sutoomu ダイヤストーム (Diamond Storm) - # TBD #
+dakuryuu だくりゅう (Muddy Water) - Muddy Water
 damashiuchi だましうち (Feint Attack) - Sneak Attack
+dame oshi ダメおし (Assurance) - # TBD #
+dangai no tsurugi だんがいのつるぎ (Precipice Blades) - Precipice Blades
+dasuto shuuto ダストシュート (Gunk Shot) - # TBD #
 DD rariatto ＤＤラリアット (Darkest Lariat) - DD Lariat
-daku ryuu だくりゅう (Muddy Water) - Muddy Water
+deaigashira であいがしら (First Impression) - # TBD #
+deka hammaa デカハンマー (Gigaton Hammer) - # TBD #
+dekoreeshon デコレーション (Decorate) - Decoration
+dengeki kushibashi でんげきくちばし (Bolt Beak) - # TBD #
 dengeki ha でんげきは (Shock Wave) - Shock Wave
 denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation [alt: EM Levitation]
 denji ha でんじは (Thunder Wave) - Electromagnetic Wave [alt: EM Wave]
 denji hou でんじほう (Zap Cannon) - Electromagnetic Cannon [alt: EM Cannon]
 denki shokku でんきショック (Thunder Shock) - Electric Shock
 denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
+denkou sougeki でんこうそうげき (Double Shock) - # TBD #
+desu uingu デスウイング (Oblivion Wing) - Death Wing
+dobadoba oora どばどばオーラ (Glitzy Glow) - # TBD #
 dogeza tsuki (False Surrender) - Groveling Jab
+dogezan ドゲザン (Kowtow Cleave) - # TBD #
+doku gasu どくガス (Poison Gas) - Poison Gas
+doku no ito どくのいと (Toxic Thread) - # TBD #
 doku no kona どくのこな (Poison Powder) - Poison Powder
 dokubari どくばり (Poison Sting) - Poison Needle
+dokubari senbon どくばりセンボン (Barb Barrage) - # TBD #
+dokubishi どくびし (Toxic Spikes) - # TBD #
+dokudoku どくどく (Toxic) - Toxic
+dokudoku no kiba どくどくのキバ (Poison Fang) - # TBD #
 dokudzuki どくづき (Poison Jab) - Poison Jab
 doragon aroo ドラゴンアロー (Dragon Darts) - Dragon Arrow
 doragon daibu ドラゴンダイブ (Dragon Rush) - Dragon Dive
+doragon eeru ドラゴンエール (Dragon Cheer) - # TBD #
+doragon enajii ドラゴンエナジー (Dragon Energy) - Dragon Energy
+doragon hammaa ドラゴンハンマー (Dragon Hammer) - Dragon Hammer
 doragon kuroo ドラゴンクロー (Dragon Claw) - Dragon Claw
 doragon teeru ドラゴンテール (Dragon Tail) - Dragon Tail
+doramu atakku ドラムアタック (Drum Beating) - Drum Attack
+dorein kissu ドレインキッス (Draining Kiss) - Drain Kiss
+dorein panchi ドレインパンチ (Drain Punch) - Drain Punch
+doriru kuchibashi ドリルくちばし (Drill Peck) - Drill Beak
 doriru rainaa ドリルライナー (Drill Run) - Drill Liner
+doro asobi どろあそび (Mud Sport) - # TBD #
+doro bakudan どろばくだん (Mud Bomb) - Mud Bomb
+dorobou どろぼう (Thief) - Thief
+dorokake どろかけ (Mud-Slap) - Mud Spray
+dowasure ドわすれ (Amnesia) - # TBD #
 ea kattaa エアカッター (Air Cutter) - Air Cutter
 ea surasshu エアスラッシュ (Air Slash) - Air Slash
-enagii booru エナジーボール (Energy Ball) - Energy Ball
+earoburasuto エアロブラスト (Aeroblast) - Aeroblast
+edadzuki えだづき (Branch Poke) - Branch Jab
+ekoo boisu エコーボイス (Echoed Voice) - # TBD #
+enajii booru エナジーボール (Energy Ball) - Energy Ball
+enmaku えんまく (Smokescreen) - Smokescreen
 eragami エラがみ (Fishious Rend) - Jaw Bite
 ereki booru エレキボール (Electro Ball) - Electro Ball
 ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
 ereki netto エレキネット (Electroweb) - Electroweb
+erekuturo biimu エレクトロビーム (Electro Shot) - # TBD #
+fasuto gaado ファストガード (Quick Guard) - # TBD #
+fearii rokku フェアリーロック (Fairy Lock) - Fairy Lock
 feinto フェイント (Feint) - Feint
+feitaru kuroo フェイタルクロー (Dire Claw) - Fatal Claw
+fezaa dansu フェザーダンス (Feather Dance) - Feather Dance
+foton geizaa フォトンゲイザー (Photon Geyser) - Photon Geyser
+fruuru kanon フルールカノン (Fleur Cannon) - Fleur Cannon
 fubuki ふぶき (Blizzard) - Blizzard
 fuiuchi ふいうち (Sucker Punch) - Surprise Attack
+fukitobashi ふきとばし (Whirlwind) - Blow Away
+fukurodataki ふくろだたき (Beat Up) - # TBD #
+fumitsuki ふみつけ (Stomp) - Stomp
+fun'en ふんえん (Lava Plume) - # TBD #
+fundo no kobushi ふんどのこぶし (Rage Fist) - # TBD #
+funjin ふんじん (Powder) - # TBD #
+funka ふんか (Eruption) - # TBD #
+furafura dansu フラフラダンス (Teeter Dance) - Wobbly Dance
 furaingu puresu フライングプレス (Flying Press) - Flying Press
+furasshu フラッシュ (Flash) - Flash
+furawaa gaado フラワーガード (Flower Shield) - # TBD #
+furawaa hiiru フラワーヒール (Floral Healing) - # TBD #
 furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
+furea songu フレアソング (Torch Song) - # TBD #
 furii fooru フリーフォール (Sky Drop) - Freefall
+furiizu boruto フリーズボルト (Freeze Shock) - # TBD #
 furiizu dorai フリーズドライ (Freeze-Dry) - Freeze-Dry
+furui tateru ふるいたてる (Work Up) - Work Up
+fushoku gasu ふしょくガス (Corrosive Gas) - # TBD #
+fuuin ふういん (Imprison) - Seal
+fuwafuwa fooru ふわふわフォール (Floaty Fall) - # TBD #
+G no chikara Ｇのちから (Grav Apple) - # TBD #
+gaado shea ガードシェア (Guard Split) - Guard Share
+gaado suwappu ガードスワップ (Guard Swap) - Guard Swap
+gaman がまん (Bide) - Bide
+gamushara がむしゃら (Endeavor) - # TBD #
+ganseki akkusu がんせきアックス (Rock Axe) - Rock Axe
 ganseki fuuji がんせきふうじ (Rock Tomb) - Rock Seal
+ganseki hou がんせきほう (Rock Wrecker) - # TBD #
+garyou tensei ガリョウテンセイ (Dragon Ascent) - # TBD #
 gekirin げきりん (Outrage) - Reversed Scale
+genshi no chikara げんしのちから (Ancient Power) - Primal Power
+geppu ゲップ (Belch) - Belch
+gia chenji ギアチェンジ (Shift Gear) - # TBD #
+gia soosaa ギアソーサー (Gear Grind) - # TBD #
+gifuto pasu ギフトパス (Bestow) - # TBD #
+giga dorein ギガドレイン (Giga Drain) - Giga Drain
+giga impakuto ギガインパクト (Giga Impact) - Giga Impact
+gin'iro no kaze ぎんいろのかぜ (Silver Wind) - Silver Wind
 goddo baado ゴッドバード (Sky Attack) - God Bird
+goorudo rasshu ゴールドラッシュ (Make It Rain) - Gold Rush
 goosuto daibu ゴーストダイブ (Phantom Force) - Ghost Dive
+gurando foosu グランドフォース (Land's Wrath) - Ground Force
+gurasu fiirudo グラスフィールド (Grassy Terrain) - Grass Field
+gurasu mikusaa グラスミキサー (Leaf Tornado) - # TBD #
+gurasu suraidaa グラススライダー (Grassy Glide) - # TBD #
+habanero ekusu ハバネロエキス (Spicy Extract) - # TBD #
+haado puranto ハードプラント (Frenzy Plany) - # TBD #
+haado puresu ハードプレス (Hard Press) - Hard Press
+haado rooraa ハードローラー (Steamroller) - # TBD #
 guroo panchi グロウパンチ (Power-Up Punch) - Grow Punch
+haato sutampu ハートスタンプ (Heart Stamp) - Heart Stamp
+haato suwappu ハートスワップ (Heart Swap) - Heart Swap
 hadoudan はどうだん (Aura Sphere) - Guiding Wave Sphere
 hagane no tsubasa はがねのつばさ (Steel Wing) - Steel Wing
-haidoro pampu ハイドロポンプ (Hydro Pump) - Hydro Pump
+haidoro kyanon ハイドロカノン (Hydro Cannon) - Hydro Cannon
+haidoro pompu ハイドロポンプ (Hydro Pump) - Hydro Pump
+haidoro suchiimu ハイドロスチーム (Hydro Steam) - Hydro Steam
+haipaa boisu ハイパーボイス (Hyper Voice) - Hyper Voice
+haipaa doriru ハイパードリル (Hyper Drill) - Hyper Drill
+haisui no jin はいすいのじん (No Retreat) - # TBD #
+haiyoru ichigeki はいよるいちげき (Skitter Smack) - # TBD #
 hajikeru honoo はじけるほのお (Flame Burst) - Flame Burst
 hakai kousen はかいこうせん (Hyper Beam) - Destroyer Beam
+hakidasu はきだす (Spit Up) - # TBD #
 hakkei はっけい (Force Palm) - Force Palm
+hametsu no hikari はめつのひかり (Light of Ruin) - # TBD #
+hametsu no negai はめつのねがい (Doom Desire) - # TBD #
+hana fubuki はなふぶき (Petal Blizzard) - Petal Blizzard
+hanabira no mai はなびらのまい (Petal Dance) - # TBD #
+hane yasume はねやすめ (Roost) - Roost [subject to change]
 haneru はねる (Splash) - Flop
 happa kattaa はっぱカッター (Razor Leaf) - Razor Leaf
+happii taimu ハッピータイム (Happy Hour) - # TBD #
+haradaiko はらだいこ (Belly Drum) - # TBD #
 harouin ハロウィン (Trick-or-Treat) - Halloween
+haru no arashi はるのあらし (Springtide Storm) - # TBD #
+hasami girochin ハサミギロチン (Guillotine) - # TBD #
+hasamu はさむ (Vise Grip) - # TBD #
+hataki otosu はたきおとす (Knock Off) - Knock Off
 hataku はたく (Pound) - Pound
+hayate gaeshi はやてがえし (Upper Hand) - # TBD #
+hebi nimari へびにらみ (Glare) - # TBD #
 hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
 hedoro bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
+hedoro kougeki ヘドロこうげき (Sludge) - Sludge Attack
+hedoro ueebu ヘドロウェーブ (Sludge Wave) - Sludge Wave
+henshin へんしん (Transform) - Transform
+hiito sutampu ヒートスタンプ (Heat Crash) - # TBD #
 hikari no kabe ひかりのかべ (Light Screen) - Light Screen
+hiken: chienami ひけん・ちえなみ (Ceaseless Edge) - # TBD #
+hikkaku ひっかく (Scratch) - Scratch
+hikkuri kaesu ひっくりかえす (Topsy-Turvy) - # TBD #
+himitsu no chikara ひみつのちから (Secret Power) - Secret Power
 hinoko ひのこ (Ember) - Ember
+hissatsu maeba ひっさつまえば (Hyper Fang) - # TBD #
+hiya mizu ひやみず (Chilling Water) - # TBD #
+hoeru ほえる (Roar) - Roar
+hogoshoku ほごしょく (Camouflage) - # TBD #
+hoiiru supin ホイールスピン (Spin Out) - Wheel Spin
 hone buumeran ホネブーメラン (Bonemerang) - Bone Boomerang
+hone konbou ホネこんぼう (Bone Club) - # TBD #
+honoo no chikai ほのおのちかい (Fire Pledge) - Fire Pledge
 honoo no kiba ほのおのキバ (Fire Fang) - Fire Fang
+honoo no mai ほのおのまい (Fiery Dance) - # TBD #
+honoo no muchi ほのおのムチ (Fire Lash) - # TBD #
 honoo no panchi ほのおのパンチ (Fire Punch) - Fire Punch
 honoo no uzu ほのおのうず (Fire Spin) - Fire Vortex
+hoobaru ほおばる (Stuff Cheeks) - # TBD #
 hoppe surisuri ほっぺすりすり (Nuzzle) - Cheek Rub
+horobi no uta ほろびのうた (Perish Song) - # TBD #
+hoshigaru ほしがる (Covet) - # TBD #
+hotarubi ほたるび (Tail Glow) - # TBD #
 houden ほうでん (Discharge) - Discharge
+houfuku ほうふく (Comeuppance) - # TBD #
+hyakki yakou ひゃっきやこう (Infernal Parade) - # TBD #
+hyouzan oroshi ひょうざんおろし (Mountain Gale) - # TBD #
 iai giri いあいぎり (Cut) - Slicing Draw
+ibaru いばる (Swagger) - # TBD #
+ibiki いびき (Snore) - # TBD #
+icchou agari いっちょうあがり (Order Up) - # TBD #
+ichamon いちゃもん (Torment) - # TBD #
 ieki いえき (Gastro Acid) - Gastro Acid
+ijigen hooru いじげんホール (Hyperspace Hole) - # TBD #
+ijigen rasshu いじげんラッシュ (Hyperspace Fury) - # TBD #
+ikari いかり (Rage) - Rage
 ikari no maeba いかりのまえば (Super Fang) - Fangs of Rage
+ikasama イカサマ (Foul Play) - # TBD #
+ikiiki baburu いきいきバブル (Bouncy Bubble) - # TBD #
+inazuma doraibu イナズマドライブ (Electro Drift) - # TBD #
 infaito インファイト (Close Combat) - Infight
+inishie no uta いにしえのうた (Relic Song) - # TBD #
+inochi no shizuku いのちのしずく (Life Dew) - # TBD #
+inochigake いのちがけ (Final Gambit) - # TBD #
+itamiwake いたみわけ (Pain Split) - # TBD #
+itetsuku shisen いてつくしせん (Freezing Glare) - # TBD #
 ito o haku いとをはく (String Shot) - String Shot
+iwa nadare いわなだれ (Rock Slide) - Rock Slide
+iwa otoshi いわおとし (Rock Throw) - Rock Throw
+iwakudaki いわくだき (Rock Smash) - # TBD #
+iya na oto いやなおと (Screech) - # TBD #
 iyashi no hadou いやしのはどう (Heal Pulse) - Heal Pulse
+iyashi no negai いやしのねがい (Healing Wish) - # TBD #
+iyashi no suzu いやしのすず (Heal Bell) - # TBD #
+jadoku no kusari じゃどくのくさり (Malignant Chain) - # TBD #
 jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
+janguru hiiru ジャングルヒール (Jungle Healing) - # TBD #
 jaretsuku じゃれつく (Play Rough) - Play Rough
+jetto panchi ジェットパンチ (Jet Punch) - Jet Punch
+jiba sousa じばそうさ (Magnetic Flux) - # TBD #
 jibaku じばく (Self-Destruct) - Self-Destruct
 jidanda じだんだ (Stomping Tantrum) - Stomping Tantrum
-jigoku dzuki  じごくづき (Throat Chop) - Hell Thrust
-jinarashi じならし (Bulldoze) - Bulldoze
+jigoku guruma じごくぐるま (Submission) - # TBD #
+jigokudzuki  じごくづき (Throat Chop) - Hell Thrust
+jikoanji じこあんじ (Psych Up) - # TBD #
+jinarashi じならし (Bulldoze) - Ground Stomp
+jinrai じんらい (Thunderclap) - # TBD #
+jintsuuriki じんつうりき (Extrasensory) - # TBD #
+jiokontorooru ジオコントロール (Geomancy) - # TBD #
+jishin じしん (Earthquake) - # TBD #
+jitabata じたばた (Flail) - # TBD #
 jiware じわれ (Fissure) - Fissure
+jouka じょうか (Purify) - # TBD #
+juuden じゅうでん (Charge) - Charge
+juuman bariki １０まんばりき (High Horsepower) - 100,000 Horsepower
 juuman boruto １０まんぼると (Thunderbolt) - 100,000 Volts
+juuryoku じゅうりょく (Gravity) - # TBD #
 kaen booru かえんボール (Pyro Ball) - Pyro Ball
+kaen guruma かえんぐるま (Flame Wheel) - Flame Wheel
+kaen no mamori かえんのまもり (Burning Bulwark) - # TBD #
+kaendan かえんだん (Searing Shot) - # TBD #
 kaenhousha かえんほうしゃ (Flamethrower) - Flamethrower
+kafun dango かふんだんご (Pollen Puff) - # TBD #
 kage bunshin かげぶんしん (Double Team) - Shadow Clones
+kagenui かげぬい (Spirit Shackle) - # TBD #
 kageuchi かげうち (Shadow Sneak) - Shadow Strike
+kagiwakeru かぎわける (Odor Sleuth) - # TBD #
+kaidenpa かいでんぱ (Eerie Impulse) - # TBD #
+kaifuku fuuji かいふくふうじ (Heal Block) - # TBD #
+kaifuku shirei かいふくしれい (Heal Order) - Heal Order
 kairiki かいりき (Strength) - Superstrength
+kakato otoshi かかとおとし (Axe Kick) - # TBD #
+kakubaru かくばる (Sharpen) - # TBD #
+kamaitachi かまいたち (Razor Wind) - # TBD #
 kamikudaku かみくだく (Crunch) - Crunch
 kaminari かみなり (Thunder) - Thunder
+kaminari arashi かみなりあらし (Wildbolt Storm) - # TBD #
+kaminari no kiba かみなりのキバ (Thunder Fang) - Thunder Fang
 kaminari panchi かみなりパンチ (Thunder Punch) - Thunder Punch
 kamitsuku かみつく (Bite) - Bite
+kanashibari かなしばり (Disable) - # TBD #
+kara de hasamu からではさむ (Clamp) - # TBD #
+kara ni komoru からにこもる (Withdraw) - # TBD #
+kara o yaburu からをやぶる (Shell Smash) - # TBD #
+karagenki からげんき (Facade) - Bravado [subject to change]
+karamitsuku からみつく (Constrict) - # TBD #
 karate choppu からてチョップ (Karate Chop) - Karate Chop
+kataki uchi かたきうち (Retaliate) - # TBD #
 kataku naru かたくなる (Harden) - Harden
+katasutorofi カタストロフィ (Ruination) - Catastrophe
+kauntaa カウンター (Counter) - Counter
 kawarawari かわらわり (Brick Break) - Brick Break
 kazeokoshi かぜおこし (Gust) - Wind Gust
 ketaguri けたぐり (Low Kick) - Kick Down [subject to change]
 kiai dama きあいだま (Focus Blast) - Focus Blast
 kiai dame きあいだめ (Focus Energy) - Focus Energy
 kiai panchi きあいパンチ (Focus Punch) - Focus Punch
+kimagu reezaa きまぐレーザー (Fickle Beam) - # TBD #
+kingu shiirudo キングシールド (King's Shield) - # TBD #
+kinoko no hoshi キノコのほうし (Spore) - Mushroom Spore
+kinzokuon きんぞくおん (Metal Sound) - Metal Sound
+kiraa supin キラースピン (Mortal Spin) - # TBD #
+kirakira sutoomu きらきらストーム (Sparkly Swirl) - # TBD #
+kiribarai きりばらい (Defog) - # TBD #
+kirifuda きりふだ (Trump Card) - Trump Card
 kirisaku きりさく (Slash) - Slash
 kishi kaisei きしかいせい (Reversal) - Reversal
+kitsuke きつけ (Smelling Salts) - # TBD #
+koa panissha コアパニッシャー (Core Enforcer) - # TBD #
+kochikochi furosuto こちこちフロスト (Freezy Frost) - # TBD #
+kogarashi arashi こがらしあらし (Bleakwind Storm) - # TBD #
 kogoeru kaze こごえるかぜ (Icy Wind) - Icy Wind
+kogoeru sekai こごえるせかい (Glaciate) - # TBD #
+kokoro no me こころのめ (Mind Reader) - # TBD #
 kometto panchi コメットパンチ (Meteor Mash) - Comet Punch
+konayuki こなゆき (Powder Snow) - Powder Snow
+kongen no hadou こんげんのはどう (Origin Pulse) - Origin Pulse
+kono yubi tomare このゆびとまれ (Follow Me) - # TBD #
 konoha このは (Leafage) - Leafage
+koochingu コーチング (Coaching) - Coaching
+koori no ibuki こおりのいぶき (Frost Breath) - Ice Breath
 koori no kiba こおりのキバ (Ice Fang) - Ice Fang
 koori no tsubute こおりのつぶて (Ice Shard) - Ice Shard
-korabbuhammaa クラブハンマー (Crabhammer) - Crabhammer
+koorudo furea コールドフレア (Ice Burn) - # TBA #
+kooto chenji コートチェンジ (Court Change) - Court Change
+koraeru こらえる (Endure) - # TBD #
 korogaru ころがる (Rollout) - Rollout
+kosumo pawaa コスモパワー (Cosmic Power) - # TBD #
+kotton gaado コットンガード (Cotton Guard) - Cotton Guard
+kougeki shirei こうげきしれい (Attack Order) - Attack Order
+kougousei こうごうせい (Synthesis) - Photosynthesis
 kousoku idou こうそくいどう (Agility) - Agility
-kousoku spin こうそくスピン (Rapid Spin) - Rapid Spin
+kousoku supin こうそくスピン (Rapid Spin) - Rapid Spin
 kowai kao こわいかお (Scary Face) - Scary Face
+kuchibashi kyanon くちばしキャノン (Beak Blast) - Beak Cannon
+kuikku taan クイックターン (Flip Turn) - # TBD #
+kumo no su クモのす (Spider Web) - # TBD #
+kurabbu hammaa クラブハンマー (Crabhammer) - Crabhammer
+kuraitsuku くらいつく (Jaw Lock) - # TBD #
+kuria sumoggu クリアスモッグ (Clear Smog) - Clear Smog
+kuroi kiri くろいきり (Haze) - # TBD #
+kuroi manazashi くろいまなざし (Mean Look) - # TBD #
+kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
+kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
+kurosu fureimu クロスフレイム (Fusion Flare) - # TBD #
+kurosu poizun クロスポイズン (Cross Poison) - Cross Poison
+kurosu sandaa クロスサンダー (Fusion Bolt) - # TBD #
+kusa musubi くさむすび (Grass Knot) - # TBD #
+kusa no chikai くさのちかい (Grass Pledge) - Grass Pledge
+kusawake くさわけ (Trailblaze) - # TBD #
+kusabue くさぶえ (Grass Whistle) - # TBD #
 kusuguru くすぐる (Tickle) - Tickle
+kyojuudan きょじゅうだん (Behemoth Bash) - # TBD #
+kyojuuzan きょじゅうざん (Behemoth Blade) - # TBD #
+kyoken totsugeki きょけんとつげき (Glaive Rush) - # TBD #
+kyuuketsu きゅうけつ (Leech Life) - # TBD #
+maddo shotto マッドショット (Mud Shot) - Mud Shot
+maguma sutoomu マグマストーム (Magma Storm) - Magma Storm
+magunetto bomu マグネットボム (Magnet Bomb) - Magnet Bomb
+magunichuudo マグニチュード (Magnitude) - Magnitude
 mahha panchi マッハパンチ (Mach Punch) - Mach Punch
+mahou no kona まほうのこな (Magic Powder) - Magic Powder
+majikaru fureimu マジカルフレイム (Mystical Fire) - Magical Flame
 majikaru riifu マジカルリーフ (Magical Leaf) - Magical Leaf
 majikaru shain マジカルシャイン (Dazzling Gleam) - Magical Shine
+majikku kooto マジックコート (Magic Coat) - Magic Coat
+majikku ruumu マジックルーム (Magic Room) - Magic Room
+makibishi まきびし (Spikes) - # TBD #
 makitsuku まきつく (Wrap) - Wrap
 mamoru まもる (Protect) - Protect
 manekko まねっこ (Copycat) - Copycat
+maruchi atakku マルチアタック (Multi-Attack) - Multi-Attack
+marukunaru まるくなる (Defense Curl) - Curl Up
+matowaritsuku まとわりつく (Infestation) - # TBD #
+mawashigeri まわしげり (Rolling Kick) - # TBD #
+mega dorein メガドレイン (Mega Drain) - Mega Drain
 megahoon メガホーン (Megahorn) - Megahorn
+megaton kikku メガトンキック (Mega Kick) - Megaton Kick
 megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
+meisou めいそう (Calm Mind) - Meditation [subject to change]
+meramera baan めらめらバーン (Sizzly Slide) - # TBD #
+meromero メロメロ (Attract) - Attract
+metaru basutoo メタルバースト (Metal Burst) - Metal Burst
 metaru kuroo メタルクロー (Metal Claw) - Metal Claw
 meteo biimu メテオビーム (Meteor Beam) - Meteor Beam
+meteo doraibu メテオドライブ (Sunsteel Strike) - Meteor Drive
+mezamashi binta めざましビンタ (Wake-Up Slap) # TBD #
+mezameru dansu めざめるダンス (Revelation Dance) - # TBD #
+mezameru pawaa めざめるパワー (Hidden Power) - # TBD #
+mi o kezuru みをけずる (Fillet Away) - # TBD #
 michizure みちづれ (Destiny Bond) - Drag Along
+midare dzuki みだれづき (Fury Attack) - Chaotic Jabs
 midare hikkaki みだれひっかき (Fury Swipes) - Chaotic Scratches
+migawari みがわり (Substitute) - Substitute
+mikadzuki no inori みかづきのいのり (Lunar Blessing) - # TBD #
+mikadzuki no mai みかづきのまい (Lunar Dance) - # TBD #
 mikiri みきり (Detect) - Detect
+mineuchi みねうち (False Swipe) - Blunt Edge Strike
+miraa kooto ミラーコート (Mirror Coat) - Mirror Coat
+miraa shotto ミラーショット (Mirror Shot) - Mirror Shot
+miraa taipu ミラータイプ (Reflect Type) - Mirror Type
+mirai yochi みらいよち (Future Sight) - # TBD #
+mirakuru ai ミラクルアイ (Miracle Eye) - Miracle Eye
+miruku nomi ミルクのみ (Milk Drink) - # TBD #
 misairubari ミサイルばり (Pin Missile) - Needle Missile
+misuto baasuto ミストバースト (Misty Explosion) - Mist Burst
+misuto booru ミストボール (Mist Ball) - Mist Ball
+misuto fiirudo ミストフィールド (Misty Terrain) - Mist Field
+miwaku no boisu みわくのボイス (Alluring Voice) - # TBD #
 miyaburu みやぶる (Foresight) - True Sight
+mizu asobi みずあそび (Water Sport) - # TBD #
 mizu deppou みずでっぽう (Water Gun) - Water Gun
-mizu no chikai みずのちかい (Water Pulse) - Water Pulse
+mizu no chikai みずのちかい (Water Pledge) - Water Pledge
+mizu no hadou みずのはどう (Water Pulse) - Water Pulse
+mizu shuriken みずしゅりけん (Water Shuriken) - Water Shuriken
+mizuame bomu みずあめボム (Syrup Bomb) - # TBD #
+mizubitashi みずびたし (Soak) - # TBD #
 moeagaru ikari もえあがるいかり (Fiery Wrath) - Blazing Rage
 moetsukiru もえつきる (Burn Up) - Burn Up
+monomane ものまね (Mimic) - # TBD #
+mori no noroi もりののろい (Forest's Curse) - Forest's Curse
+moroha no zutsuki もろはのずつき (Head Smash) - # TBD #
+mugendai biimu ムゲンダイビーム (Eternabeam) - # TBD #
 munen no tsurugi むねんのつるぎ (Bitter Blade) - Sword of Regrets
-muunfoosu ムーンフォース (Moonblast) Moonforce
+muunfoosu ムーンフォース (Moonblast) - Moonforce
+mushi kui むしくい (Bug Bite) - Bug Bite
+mushi no sazameki むしのさざめき (Bug Buzz) - # TBD #
+mushi no teikou むしのていこう (Struggle Bug) - # TBD #
+nagetsukeru なげつける (Fling) - # TBD #
+naishobanashi ないしょばなし (Confide) - # TBD #
 naito baasuto ナイトバースト (Night Daze) - Night Burst
 naito heddo ナイトヘッド (Night Shade) - Night Head
 nakama zukuri なかまづくり (Entrainment) - Befriend [subject to change]
+nakayoku suru なかよくする (Play Nice) - # TBD #
+nakigoe なきごえ (Growl) - Growl
+namakeru なまける (Slack Off) - Slack Off
+namidame なみだめ (Tearful Look) - # TBD #
+naminori なみのり (Surf) - Surf
+narikiri なりきり (Role Play) - # TBD #
+nashikuzushi なしくずし (Chip Away) - # TBD #
+nayami no tane なやみのタネ (Worry Seed) - # TBD #
 ne o haru ねをはる (Ingrain) - Take Root
+nebaneba netto ねばねばネット (Sticky Web) - Sticky Web
+negaigoto ねがいごと (Wish) - Wish
+negoto ねごと (Sleep Talk) - Sleep Talk
+neko ni koban ネコにこばん (Pay Day) - # TBD #
+neko no te ねこのて (Assist) - # TBD #
+nekodamashi ねこだまし (Fake Out) - # TBD #
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
+nemuru ねむる (Rest) - # TBD #
 nenriki ねんりき (Confusion) - Mind Power
+neppuu ねっぷう (Heat Wave) - Heat Wave
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
+nessa no arashi ねっさのあらし (Sandsear Storm) - # TBD #
+nessa no daichi ねっさのだいち (Scorching Sands) - # TBD #
+nettou ねっとう (Scald) - # TBD #
+nezumizan ネズミざん (Population Bomb) - # TBD #
 nidogeri にどげり (Double Kick) - Double Kick
+nigiri tsubusu にぎりつぶす (Crush Grip) - # TBD #
 nihonbare にほんばれ (Sunny Day) - Clear Skies
+niidoru aamu ニードルアーム (Needle Arm) - Needle Arm
 niidoru gaado ニードルガード (Spiky Shield) - Needle Guard
+niramitsukeru にらみつける (Leer) - Scowl
 nitoro chaaji ニトロチャージ (Flame Charge) - Nitro Charge
+nomikomu のみこむ (Swallow) - # TBD #
+noroi のろい (Curse) - Curse
 noshikakari のしかかり (Body Slam) - Body Slam
+ochakai おちゃかい (Teatime) - Tea Party
+odateru おだてる (Flatter) - # TBD #
+odorokasu おどろかす (Astonish) - # TBD #
+ohakamairi おはかまいり (Last Respects) - # TBD #
+oikaze おいかぜ (Tailwind) - Tailwind
+oiuchi おいうち (Pursuit) - # TBD #
+oiwai おいわい (Celebrate) - # TBD #
+okatadzuke おかたづけ (Tidy Up) - # TBD #
+okimiyage おきみやげ (Memento) - # TBD #
+okutank hou オクタンほう (Octazooka) - # TBD #
+omajinai おまじない (Lucky Chant) - # TBD #
+ongaeshi おんがえし (Return) - # TBD #
 onibi おにび (Will-O-Wisp) - Will-O-Wisp
+onnen おんねん (Grudge) - # TBD #
+oobadoraibu オーバードライブ (Overdrive) - Overdrive
 oobaahiito オーバーヒート (Overheat) - Overheat
-ooroora beiru オーロラベール (Aurora Veil) - Aurora Veil
+oora guruma オーラぐるま (Aura Wheel) - # TBD #
+oora uingu オーラウイング (Esper Wing) - # TBD #
+oorora beeru オーロラベール (Aurora Veil) - Aurora Veil
+oorora biimu オーロラビーム (Aurora Beam) - Aurora Beam
+osaki ni douzou おさきにどうぞ (After You) - # TBD #
+oshaberi おしゃべり (Chatter) - # TBD #
+oshioki おしおき (Punishment) - # TBD #
+otakebi おたけび (Noble Roar) - # TBD #
 oufuku binta おうふくビンタ (Double Slap) - Round-Trip Slap
 oumu gaeshi オウムがえし (Mirror Move) - Parrot Mimicry [subject to change]
+parabora chaaji パラボラチャージ (Parabolic Charge) - # TBD #
 pawaa jemu パワージェム (Power Gem) - Power Gem
+pawaa shea パワーシェア (Power Split) - # TBD #
+pawaa shifuto パワーシフト (Power Shift) - Power Shift
+pawaa suwappu パワースワップ (Power Swap) - Power Swap
+pawaa torikku パワートリック (Power Trick) - Power Trick
 pawaa uippu パワーウィップ (Power Whip) - Power Whip
-piyopiyo panchi ピヨピヨパンチ (Dizzy Punch) - Chirp Chirp Punch
+pikapika sandaa ピカピカサンダー (Pika Papow) - # TBD #
+piyopiyo panchi ピヨピヨパンチ (Dizzy Punch) - Chirp-Chirp Punch
+poizun teeru ポイズンテール (Poison Tail) - Poison Tail
+porutaagaisuto ポルターガイスト (Poltergeist) - Poltergeist
+purazuma fisuto プラズマフィスト (Plasma Fists) - Plasma Fists [subject to change]
+purazuma shawaa プラズマシャワー (Ion Deluge) - Plasma Shower
+purezento プレゼント (Present) - Present
+purizumu reezaa プリズムレーザー (Prismatic Laser) - Prism Laser
+raigeki らいげき (Bolt Strike) - # TBD #
 raijingu boruto ライジングボルト (Rising Voltage) - Rising Bolt
+raimai geri らいめいげり (Thunderous Kick) - # TBD #
 rasutaa kanon ラスターカノン (Flash Cannon) - Luster Cannon
+rasutaa paaji ラスターパージ (Luster Purge) - Luster Purge
+reijingu buru レイジングブル (Raging Bull) - Raging Bull
 reitou biimu れいとうビーム (Ice Beam) - Ice Beam
 reitou panchii れいとうパンチ (Ice Punch) - Ice Punch
 rengoku れんごく (Inferno) - Purgatory
 renzoku giri れんぞくぎり (Fury Cutter) - Consecutive Cut
+renzoku panchi れんぞくパンチ (Comet Punch) - Consecutive Punch [subject to change]
+ribenji リベンジ (Revenge) - Revenge
 rifurektaa リフレクター (Reflect) - Reflector
+rifuresshu リフレッシュ (Refresh) - Refresh
+riifu bureido リーフブレード (Leaf Blade) - Leaf Blade
 riifu sutoomu リーフストーム (Leaf Storm) - Leaf Storm
-roketto zutsuki ロケットずつき (Skull Bash) - Rocket Headbutt
-roku burasuto ロックブラスト (Rock Blast) - Rock Blast
+ringo san りんごさん (Apple Acid) - # TBD #
+rinshou りんしょう (Round) - Round
+risaikuru リサイクル (Recycle) - Recycle
+rokketo zutsuki ロケットずつき (Skull Bash) - Rocket Headbutt
+rokku burasuto ロックブラスト (Rock Blast) - Rock Blast
+rokku katto ロックカット (Rock Polish) - # TBD #
+rokku kuraimu ロッククライム (Rock Climb) - Rock Climb
+rokku on ロックオン (Lock-On) - Lock-On
 rou kikku ローキック (Low Sweep) - Low Kick
+rumina korijon ルミナコリジョン (Lumina Crash) - Lumina Collision
 ryuu no hadou りゅうのはどう (Dragon Pulse) - Dragon Pulse
 ryuu no ibuki りゅうのいぶき (Dragon Breath) - Dragon Breath
+ryuu no ikari りゅうのいかり (Dragon Rage) - Dragon Rage
 ryuu no mai りゅうのまい (Dragon Dance) - Dragon Dance
 ryuuseigun りゅうせいぐん (Draco Meteor) - Draco Meteor
+sabaki no tsubute さばきのつぶて (Judgment) - # TBD #
+saido chenji サイドチェンジ (Ally Switch) - # TBD #
+saihai さいはい (Instruct) - # TBD #
 saike kousen サイケこうせん (Psybeam) - Psybeam
+saiki no inori さいきのいのり (Revival Blessing) - # TBD #
+saiko bureido サイコブレイド (Psyblade) - # TBD #
+saiko bureiku サイコブレイク (Psystrike) - # TBD #
+saiko buusuto サイコブースト (Psycho Boost) - Psycho Boost
+saiko fangu サイコファング (Psychic Fangs) - # TBD #
+saiko fiirudo サイコフィールド (Psychic Terrain) - Psycho Field
 saiko kattaa サイコカッター (Psycho Cut) - Psycho Cutter
+saiko noizu サイコノイズ (Psychic Noise) - # TBD #
+saiko shifuto サイコシフト (Psycho Shift) - Psycho Shift
 saiko shokku サイコショック (Psyshock) - Psycho Shock
+saiko ueebu サイコウェーブ (Psywave) - # TBD #
 saikokineshisu サイコキネシス (Psychic) - Psychokinesis
+saimin jutsu さいみんじゅつ (Hypnosis) - Hypnosis
+saki okuri さきおくり (Quash) - Postpone [subject to change]
+sakidori さきどり (Me First) - # TBD #
+samui gyagu さむいギャグ (Chilly Reception) - # TBD #
+sanbon no ya ３ぼんのや (Triple Arrows) - # TBD #
+sandaa daibu サンダーダイブ (Supercell Slam) - Thunder Dive
+sandaa purizun サンダープリズン (Thunder Cage) - Thunder Prison
+sashiosae さしおさえ (Embargo) - # TBD #
+sauzando aroo サウザンアロー (Thousand Arrows) - Thousand Arrows
+sauzando ueebu サウザンウェーブ (Thousand Waves) - Thousand Waves
 sawagu さわぐ (Uproar) - Uproar
+seichou せいちょう (Growth) - Growth
+seinaru honoo せいなるほのお (Sacred Fire) - Sacred Fire
 seinaru tsurugi せいなるつるぎ (Sacred Sword) - Sacred Sword
-shadou booru シャドーボール (Shadow Ball) - Shadow Ball
+shadoo boon シャドーボーン (Shadow Bone) - Shadow Bone
+shadoo booru シャドーボール (Shadow Ball) - Shadow Ball
+shadoo daibu シャドーダイブ (Shadow Force) - Shadow Dive
+shadoo kuroo シャドークロー (Shadow Claw) - Shadow Claw
+shadoo panchi シャドーパンチ (Shadow Punch) - Shadow Punch
+shadoo rei シャドーレイ (Moongeist Beam) - Shadow Ray
+shadoo suchiiru シャドースチール (Spectral Thief) - Shadow Steal
+shakashaka hou シャカシャカほう (Matcha Gotcha) - # TBD #
+sheru aamuzu シェルアームズ (Shell Side Arm) - # TBD #
+sheru bureedo シェルブレード (Razor Shell) - Shell Blade
 shibiregona しびれごな (Stun Spore) - Stun Spore
+shiboritoru しぼりとる (Wring Out) - # TBD #
+shiido furea シードフレア (Seed Flare) - Seed Flare
+shigunaru biimu シグナルビーム (Signal Beam) - Signal Beam
 shimetsukeru しめつける (Bind) - Bind
+shinen no zutsuki しねんのずつき (Zen Headbutt) - Mind Headbutt
+shinkuronoizu シンクロノイズ (Synchronoise) - # TBD #
 shinkuu ha しんくうは (Vacuum Wave) - Vacuum Wave
+shinpi no chikara しんぴのちから (Mystical Power) - # TBD #
+shinpi no mamori しんぴのまもり (Safeguard) - # TBD #
+shinpi no tsurugi しんぴのつるぎ (Secret Sword) - # TBD #
+shinpuru biimu シンプルビーム (Simple Beam) - Simple Beam
 shinsoku しんそく (Extreme Speed) - Divine Speed
 shiodzuke しおづけ (Salt Cure) - Salt Pickling
+shiofuki しおふき (Water Spout) - # TBD #
+shiomizu しおみず (Brine) - # TBD #
+shippegaeshi しっぺがえし (Payback) - # TBD #
+shippo kuri しっぽきり (Shed Tail) - # TBD #
+shippo o furu しっぽをふる (Tail Whip) - # TBD #
+shiroi kiri しろいきり (Mist) - White Mist
+shita de nameru したでなめる (Lick) - # TBD #
+shitto no honoo しっとのほのお (Burning Jealousy) - # TBD #
 shizaa kurosu シザークロス (X-Scissor) - Scissor Cross
+shizen no chikara しぜんのちから (Nature Power) - # TBD #
+shizen no ikari しぜんのいかり (Nature's Madness) - Nature's Wrath [subject to change]
+shizen no megumi しぜんのめぐみ (Natural Gift) - # TBD #
+shoori no mai しょうりのまい (Victory Dance) - # TBD #
+sonikku buumu ソニックブーム (Sonic Boom) - Sonic Boom
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
+sooraa bureedo ソーラーブレード (Solar Blade) - Solar Blade
+sora o tobu そらをとぶ (Fly) - # TBD #
+souden そうでん (Electrify) - # TBD #
+sourubiito ソウルビート (Clangorous Soul) - Soulbeat
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
+suchiimu baasuto スチームバースト (Steam Eruption) - # TBD #
+suiipu binta スイープビンタ (Tail Slap) - # TBD #
+suiryuu renda すいりゅうれんだ (Surging Strikes) - Pouring Strikes
+suitoru すいとる (Absorb) - # TBD #
+sukai appaa スカイアッパー (Sky Uppercut) - # TBD #
+sukecchi スケッチ (Sketch) - Sketch
+sukeiru noizu スケイルノイズ (Scale Noise) - Scale Noise [subject to change]
+sukeiru shotto スケイルショット (Scale Shot) - Scale Shot
+sukiru suwappu スキルスワップ (Skill Swap) - Skill Swap
+sukusuku bombaa すくすくボンバー (Sappy Seed) - # TBD #
+sumaato hoon スマートホーン (Smart Strike) - Smart Horn
+sumoggu スモッグ (Smog) - # TBD #
 suna arashi すなあらし (Sandstorm) - Sandstorm
+suna jigoku すなじごく (Sand Tomb) - Sand Hell
+sunaatsume すなあつめ (Shore Up) - # TBD #
+sunakake すなかけ (Sand Attack) - Sand Attack [subject to change]
 supaaku スパーク (Spark) - Spark
 supiido sutaa スピードスター (Swift) - Speed Star
+supiido suwappu スピードスワップ (Speed Swap) - Speed Swap
+supottoraito スポットライト (Spotlight) - Spotlight
+supuun mage スプーンまげ (Kinesis) - # TBD #
+sureddo torappu スレッドトラップ (Silk Trap) - # TBD #
+surikae すりかえ (Switcheroo) - # TBD #
+sutaa asaruto スターアサルト (Meteor Assault) - Star Assault
+sute zerifu すてゼリフ (Parting Shot) - # TBD #
 sutemi takkuru すてみタックル (Double-Edge) - Desperate Tackle
+suterusu rokku ステルスロック (Stealth Rock) - Stealth Rock
 sutoon ejji ストーンエッジ (Stone Edge) - Stone Edge
+taaru shotto タールショット (Tar Shot) - Tar Shot
+tagayasu たがやす (Rototiller) - # TBD #
 taiatari たいあたり (Tackle) - Tackle
+taki nobori たきのぼり (Waterfall) - # TBD #
+takion kattaa タキオンカッター (Tachyon Cutter) - # TBD #
 takogatame たこがため (Octolock) - Octolock
+takuwaeru たくわえる (Stockpile) - Stockpile
+tamago bakudan タマゴばくだん (Egg Bomb) - Egg Bomb
+tamago umi タマゴうみ (Soft-Boiled) - # TBD #
+tamanage たまなげ (Barrage) - # TBD #
+tane bakudan タネばくだん (Seed Bomb) - Seed Bomb
 tane mashingan タネマシンガン (Bullet Seed) - Seed Machine Gun
+tatakitsukeru たたきつける (Slam) - Slam
+tatamigaeshi たたみがえし (Mat Block) - # TBD #
 tatari me たたりめ (Hex) - Evil Eye
+tatekomoru たてこもる (Shelter) - # TBD #
 tatsumaki たつまき (Twister) - Twister
+te o tsunagu てをつなぐ (Hold Hands) - # TBD #
+tedasuke てだすけ (Helping Hand) - # TBD #
+tekagen てかげん (Hold Back) - # TBD #
+tekuno basutaa テクノバスター (Techno Blast) - # TBD #
+tekusuchaa テクスチャー (Conversion) - Texture
+tekusuchaa 2 テクスチャー２ (Conversion 2) - Texture 2
+tenshi no kissu てんしのキッス (Sweet Kiss) - # TBD #
 teppeki てっぺき (Iron Defense) - Iron Defense
+tera baasuto テラバースト (Tera Blast) - # TBD #
+tera kurasutaa テラクラスター (Tera Starstorm) - # TBD #
+terekineshisu テレキネシス (Telekinesis) - Telekinesis
+terepooto テレポート (Teleport) - Teleport
 tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
-tobihizageri とびひざげり (High Jump Kick) - High Jump Kick
+tobigeri とびげり (Jump Kick) - # TBD #
+tobihaneru とびはねる (Bounce) - # TBD #
+tobihizageri とびひざげり (High Jump Kick) - High Jump Kick [subject to change]
+tobikakaru とびかかる (Lunge) - # TBD #
+tobitsuku とびつく (Pounce) - # TBD #
+todomebari とどめばり (Fell Stinger) - # TBD #
+toge kyanon とげキャノン (Spike Cannon) - Spike Cannon [subject to change]
+togisumasu とぎすます (Laser Focus) - # TBD #
+toguro o maku とぐろをまく (Coil) - # TBD #
+tokeru とける (Acid Armor) - # TBD #
+toki no houkou ときのほうこう (Roar of Time) - # TBD #
 tomoenage ともえなげ (Circle Throw) - Circle Throw
 tonbo gaeri とんぼがえり (U-Turn) - Dragonfly Turnaround
+tooboe とおぼえ (Howl) - # TBD #
+toochika トーチカ (Baneful Bunker) - # TBD #
+toosenbou とおせんぼう (Block) - # TBD #
+torabasami トラバサミ (Snap Trap) - # TBD #
 torai atakku トライアタック (Tri Attack) - Tri Attack
-torappu sheru トラップシェル (Shell Trap) - Shell Trap
+torappu sheru トラップシェル (Shell Trap) - Trap Shell [subject to change]
+torikku トリック (Trick) - Trick
 torikku furawaa トリックフラワー (Flower Trick) - Trick Flowers
+torikku gaado トリックガード (Crafty Shield) - # TBD #
+torikku ruumu トリックルーム (Trick Room) - Trick Room
+toripuru akuseru トリプルアクセル (Triple Axel) - Triple Axel
+toripuru daibu トリプルダイブ (Triple Dive) - Triple Dive
 toriporu kikku トリプルキック (Triple Kick) - Triple Kick
+toropikaru kikku トロピカルキック (Trop Kick) - Tropical Kick
 tosshin とっしん (Take Down) - Take Down
+totteoki とっておき (Last Resort) - # TBD #
 tsubame gaeshi つばめがえし (Aerial Ace) - Turning Swallow Strike
 tsubasa de utsu つばさでうつ (Wing Attack) - Wing Attack
+tsubo o tsuku つぼをつく (Accupressure) - # TBD #
+tsuburana hitomi つぶらなひとみ (Baby-Doll Eyes) - # TBD #
+tsuibamu ついばむ (Pluck) - # TBD #
+tsuin biimu ツインビーム (Twin Beam) - # TBD #
 tsujigiri つじぎり (Night Slash) - Crossroad Kill
+tsukeagaru つけあがる (Power Trip) - # TBD #
 tsuki no hikari つきのひかり (Moonlight) - Moonlight
 tsumetogi つめとぎ (Hone Claws) - Hone Claws
 tsuno de tsuku つのでつく (Horn Attack) - Horn Attack
@@ -241,15 +792,49 @@ tsuno doriru つのドリル (Horn Drill) - Horn Drill
 tsuppari つっぱり (Arm Thrust) - Arm Thrust
 tsurara bari つららばり (Icicle Spear) - Icicle Spears
 tsurara otoshi つららおとし (Icicle Crash) - Icicle Drop
-tsuru no michi つるのムチ (Vine Whip) - Vine Whip
+tsuru no muchi つるのムチ (Vine Whip) - Vine Whip
 tsurugi no mai つるぎのまい (Swords Dance) - Swords Dance
+tsuta konbou ツタこんぼう (Ivy Cudgel) - # TBD #
 tsutsuku つつく (Peck) - Peck
+uchiotosu うちおとす (Smack Down) - # TBD #
 uddo hammaa ウッドハンマー (Wood Hammer) - Wood Hammer
-uddo hoonu ウッドホーン (Horn Leech) - Wood Horn
+uddo hoon ウッドホーン (Horn Leech) - Wood Horn
+ueebu takkaru ウェーブタックル (Wave Crash) - Wave Tackle
+uezaa booru ウェザーボール (Weather Ball) - Weather Ball
+uppun barashi うっぷんばらし (Lash Out) - # TBD #
+urami うらみ (Spite) - # TBD #
+urami tsurami うらみつらみ (Bitter Malice) - # TBD #
+uso naki うそなき (Fake Tears) - Fake Tears
+utakata no aria うたかた (Sparkling Aria) - # TBD #
+utau うたう (Sing) - Sing
+utsushie うつしえ (Doodle) - # TBD #
 uzushio うずしお (Whirlpool) - Whirlpool
+V jenereeto Ｖジェネレート (V-create) - # TBD #
 waido bureikaa ワイドブレイカー (Breaking Swipe) - Wide Breaker
+waido foosu ワイドフォース (Expanding Force) - Wide Force
+waido gaado ワイドガード (Wide Guard) - Wide Guard
 wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
+wandaa ruumu ワンダールーム (Wonder Room) - Wonder Room
+wandaa suchiimu ワンダースチーム (Strange Steam) - Wonder Steam
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
+waruagaki わるあがき (Struggle) - Struggle in Vain [subject to change]
+waruwaru zoon わるわるゾーン (Baddy Bad) - # TBD #
+wata houshi わたほうし (Cotton Spore) - Cotton Spore
+yadorigi no tane やどりぎのタネ (Leech Seed) - # TBD #
+yakeppachi やけっぱち (Temper Flare) - # TBD #
+yaki tsukusu やきつくす (Incinerate) - # TBD #
+yama arashi やまあらし (Storm Throw) - # TBD #
+yatsuatari やつあたり (Frustration) - # TBD #
+yoga no poozu ヨガのポーズ (Meditate) - # TBD #
+yokodori よこどり (Snatch) - # TBD #
+youkaieki ようかいえき (Acid) - Acid
+yousei no kaze ようせいのかぜ (Fairy Wind) - Fairy Wind
+yubi o furu ゆびをふる (Metronome) - # TBD #
+yuki geshiki ゆきげしき (Snowscape) - # TBD #
+yuki nadare ゆきなだれ (Avalanche) - # TBD #
+yume kui ゆめくい (Dream Eater) - Dream Eater
+yuuwaku ゆうわく (Captivate) - # TBD #
+zabuzabu saafu ざぶざぶサーフ (Splishy Splash) - # TBD #
 zettai reido ぜったいれいど (Sheer Cold) - Absolute Zero
 zutsuki ずつき (Headbutt) - Headbutt
 
@@ -258,32 +843,39 @@ zutsuki ずつき (Headbutt) - Headbutt
 Z-MOVE NAMES
 
 arutimetto doragon baan アルティメット ドラゴン バーン (Devastating Drake) - Ultimate Dragon Burn
+ashiddo poizun deriito アシッドポイズンデリート (Acid Downpour) - Acid Poison Delete
 burakku hooru ikuripusu ブラックホールイクリプス (Black Hole Eclipse) - Black Hole Eclipse
+bureijingu soorubiito ブレイジングソウルビート (Clangorous Soulblaze) - Blazing Soulbeat
 buruumu shain ekusutora ブルームシャインエクストラ (Bloom Doom) - Bloom Shine Extra
 chouzetsu rasen rengeki 超絶螺旋連撃 (Corkscrew Crash) - Super Spiral Combo
 dainamiku furu fureimu ダイナミックフルフレイム (Inferno Overdrive) - Dynamic Full Flame
 fainaru daibu kurasshu ファイナルダイブクラッシュ (Supersonic Skystrike) - Final Dive Crash
-gaadian de aroura ガーディアン・デ・アローラ (Guardian of Alola) - Guardian de Alola
-hissatsu no pikachoot ひっさつのピカチュート (Catastropika) - Fatal Pikachoot
+gaadian de aroora ガーディアン・デ・アローラ (Guardian of Alola) - Guardian de Alola
 haipaa daaku kurasshaa ハイパーダーククラッシャー (Malicious Moonsault) - Hyper Dark Crusher
+hissatsu no pikachoot ひっさつのピカチュート (Catastropika) - Fatal Pikachoot
 honki o dasu kougeki ほんきをだすこうげき (Pulverizing Pancake) - Actually Serious Attack
+makishimaru saibureikaa マキシマムサイブレイカー (Shattered Psyche) - Maximum Psybreaker
 mugen an'ya e no izanai 無限暗夜への誘い (Never-Ending Nightmare) - Call of the Endless Night
 muunraito burasutaa ムーンライトブラスター (Menacing Moonraze Maelstrom) - Moonlight Blaster
 nain eboru buusuto ナインエボルブースト (Extreme Evoboost) - Nine Evol Boost
 poka-boka furendo taimu ぽかぼかフレンドタイム (Let's Snuggle Forever) - Snuggly Friend Time
+raburii sutaa impakuto ラブリースターインパクト (Twinkle Tackle) - Lovely Star Impact
 raijingu rando oubaa ライジングランドオーバー (Tectonic Rage) - Rising Land Over
+raitoningu saafu raido ライトニングサーフライド (Stoked Sparksurfer) - Lightning Surf Ride
 rajiaru ejjisutoomu ラジアルエッジストーム (Splintered Stormshards) - Radial Edgestorm
 reijingu jiofuriizu レイジングジオフリーズ (Subzero Slammer) - Raging Geofreeze
+sanshain sumasshaa サンシャインスマッシャー (Searing Sunraze Smash) - Sunshine Smasher
 senman boruto １０００まんボルト (10,000,000 Volt Thunderbolt) - 10,000,000 Volts
 shadou aroozu sutoraiku シャドーアローズストライク (Sinister Arrow Raid) - Shadow Arrows Strike
-sanshain sumasshaa サンシャインスマッシャー (Searing Sunraze Smash) - Sunshine Smasher
+shichisei dakkontai 七星奪魂腿 (Soul-Stealing 7-Star Strike) - # TBD #
 supaa akua toruneedo スーパーアクアトルネード (Hydro Vortex) - Super Aqua Tornado
 supaakingu gigaboruto スパーキングギガボルト (Gigavolt Havoc) - Sparking Gigavolt
+ten kogasu metsubou no hikari 天焦がす滅亡の光 (Light That Burns the Sky) - # TBD #
 urutora dasshu atakku ウルトラダッシュアタック (Breakneck Blitz) - Ultra Dash Attack
 waaruzu endo fooru ワールズエンドフォール (Continental Crush) - World's End Fall
 wadatsumi no shinfonia わだつみのシンフォニア (Oceanic Operetta) - Sea God's Symphonia
 zenryoku musou gekiretsu ken 全力無双激烈拳 (All-Out Pummeling) - Full Power Peerless Fists of Fury
-zettai Hoshoku kaitenzan 全力無双激烈拳 (Savage Spin-Out) - Absolute Predatory Spin-Out
+zettai hoshoku kaitenzan 全力無双激烈拳 (Savage Spin-Out) - Absolute Predatory Spin-Out
 
 
 
@@ -294,41 +886,364 @@ dai aisu ダイアイス (Max Hailstorm) - Dai Ice
 dai ashiddo ダイアシッド (Max Ooze) - Dai Acid
 dai atakku ダイアタック (Max Strike) - Dai Attack
 dai baan ダイバーン (Max Flare) - Dai Burn
+dai daaku ダイアーク (Max Darkness) - Dai Dark
 dai doraguun ダイドラグーン (Max Wyrmwind) - Dai Dragoon
 dai fearii ダイフェアリー (Max Starfall) - Dai Fairy
+dai horoo ダイホロウ (Max Phantasm) - Dai Hollow
 dai jetto ダイジェット (Max Airstream) - Dai Jet
 dai nakkuru ダイナックル (Max Knuckle) - Dai Knuckle
 dai rokku ダイロック (Max Rockfall) - Dai Rock
+dai saiko ダイサイコ (Max Mindstorm) - Dai Psycho
 dai sandaa ダイサンダー (Max Lightning) - Dai Thunder
 dai sougen ダイソウゲン (Max Overgrowth) - Dai Grassland
 dai suchiru ダイスチル (Max Steelspike) - Dai Steel
 dai sutoriimu ダイストリーム (Max Geyser) - Dai Stream
 dai uooru ダイウォール (Max Guard) - Dai Wall
+dai waamu ダイワーム (Max Flutterby) - Dai Worm
 kyodai banrai キョダイバンライ (G-Max Volt Crash) - Kyodai Heavy Thunder
+kyodai bentatsu キョダイベンタツ (G-Max Vine Lash) - # TBD #
 kyodai dan'en キョダイダンエン (G-Max Finale) - Kyodai Finale
+kyodai fuugeki キョダイフウゲキ (G-Max Wind Rage) - # TBD #
+kyodai funseki キョダイフンセキ (G-Max Volcalith) - # TBD #
+kyodai ganjin キョダイガンジン (G-Max Stonesurge) - # TBD #
 kyodai gen'ei キョダイゲンエイ (G-Max Terror) - Kyodai Phantom
 kyodai gensui キョダイゲンスイ (G-Max Depletion) - Kyodai Decay
 kyodai gokuen キョダイゴクエン (G-Max Wildfire) - Kyodai Hellfire
+kyodai hooyoo キョダイホーヨー (G-Max Cuddle) - # TBD #
+kyodai hougeki キョダイホウゲキ (G-Max Cannonade) - # TBD #
+kyodai houmatsu キョダイホウマツ (G-Max Foam Burst) - # TBD #
+kyodai hyakka キョダイヒャッカ (G-Max Centiferno) - # TBD #
+kyodai ichigeki キョダイイチゲキ (G-Max One Blow) - # TBD #
+kyodai kakyuu キョダイカキュウ (G-Max Fireball) - # TBD #
+kyodai kanden キョダイカンデン (G-Max Stun Shock) - # TBD #
+kyodai kanro キョダイカンロ (G-Max Sweetness) - # TBD #
 kyodai koban キョダイコバン (G-Max Gold Rush) - Kyodai Charm
+kyodai koujin キョダイコウジン (G-Max Steelsurge) - # TBD #
 kyodai koranda キョダイコランダ (G-Max Drum Solo) - Kyodai Drum Bash
+kyodai kowaku キョダイコワク (G-Max Befuddle) - # TBD #
+kyodai rengeki キョダイレンゲキ (G-Max Rapid Flow) - # TBD #
+kyodai saisei キョダイサイセイ (G-Max Replenish) - # TBD #
+kyodai sajin キョダイサジン (G-Max Sandblast) - # TBD #
+kyodai sangeki キョダイサンゲキ (G-Max Tartness) - # TBD #
+kyodai senritsu キョダイセンリツ (G-Max Resonance) - # TBD #
 kyodai shingeki キョダイシンゲキ (G-Max Chi Strike) - Kyodai Focus Blow
 kyodai shuuki キョダイシュウキ (G-Max Malodor) - Kyodai Stench
+kyodai sogeki キョダイソゲキ (G-Max Hydrosnipe) - # TBD #
 kyodai suima キョダイスイマ (G-Max Snooze) - Kyodai Snooze
+kyodai tenbatsu キョダイテンバツ (G-Max Smite) - # TBD #
+kyodai tendou キョダイテンドウ (G-Max Gravitas) - # TBD #
+kyodai yuugeki キョダイユウゲキ (G-Max Meltdown) - # TBD #
 
 
 
 ABILITY NAMES
 
+aisu bodii アイスボディ (Ice Body) - Ice Body
+aisu feisu アイスフェイス (Ice Face) - Ice Face
+akushuu あくしゅう (Stench) - # TBD #
+ama no jaku あまのじゃく (Contrary) - # TBD #
+ame ukezara あめうけざら (Rain Dish) - # TBD #
+amefurashi あめふらし (Drizzle) - # TBD #
+anaraizu アナライズ (Analytic) - # TBD #
+AR shisutemu ＡＲシステム (RKS System) - AR System
+arijigoku ありじごく (Arena Trap) - # TBD #
+aroma beeru アロマベール (Aroma Veil) - Aroma Veil
+atodashi あとだし (Stall) - # TBD #
+atsui shibou あついしぼう (Thick Fat) - Thick Fat
+bake no kawa ばけのかわ (Disguise) - # TBD #
+banken ばんけん (Guard Dog) - # TBD #
+baria furii バリアフリー (Screen Cleaner) - # TBD #
+batoru suicchi バトルスイッチ (Stance Change) - # TBD #
+batterii バッテリー (Battery) - Battery
+bibiddo bodi ビビッドボディ (Dazzling) - # TBD #
+bibiri びびり (Rattled) - # TBD #
+biisuto buusuto ビーストブースト (Beast Boost) - Beast Boost
+binjou びんじょう (Opportunist) - # TBD #
+bouon ぼうおん (Soundproof) - # TBD #
+boudan ぼうだん (Bulletproof) - # TBD #
+boujin ぼうじん (Overcoat) - # TBD #
+bukiyou ぶきよう (Klutz) - # TBD #
+burein foosu ブレインフォース (Neuroforce) - # TBD #
+chidori ashi ちどりあし (Tangled Feet) - # TBD #
+chikara mochi ちからもち (Huge Power) - # TBD #
+chikara zuku ちからずく (Sheer Force) - # TBD #
+chikuden ちくでん (Volt Absorb) - # TBD #
+chosui ちょすい (Water Absorb) - # TBD #
+daaku oora ダークオーラ (Dark Aura) - Dark Aura
+dappai だっぴ (Shed Skin) - # TBD #
+daruma moodo ダルマモード (Zen Mode) - Daruma Mode
+daunroodo ダウンロード (Download) - Download
 denki enjin でんきエンジン (Motor Drive) - Electric Engine
+denki ni kaeru でんきにかえる (Electromorphosis) - # TBD #
+deruta sutoriimu デルタストリーム (Delta Stream) - Delta Stream
+doku bousou どくぼうそう (Toxic Boost) - # TBD #
+doku kugutsu どくくぐつ (Poison Puppeteer) - # TBD #
+doku no kusari どくのくさり (Toxic Chain) - # TBD #
+doku no toge どくのトゲ (Poison Point) - # TBD #
+dokugeshou どくげしょう (Toxic Debris) - # TBD #
+dokushu どくしゅ (Poison Touch) - # TBD #
+donkan どんかん (Oblivious) - # TBD #
+doshoku どしょく (Earth Eater) - # TBD #
+ea rokku エアロック (Air Lock) - Air Lock
+enkaku えんかく (Long Reach) - # TBD #
+ereki meikaa エレキメイカー (Eletric Surge) - # TBD #
+ereki sukin エレキスキン (Galvanize) - # TBD #
+faa kooto ファーコート (Fur Coat) - Fur Coat
+fantomu gaado ファントムガード (Shadow Shield) - Phantom Guard
+fearii oora フェアリーオーラ (Fairy Aura) - Fairy Aura
+fearii sukin フェアリースキン (Pixilate) - # TBD #
+firutaa フィルター (Filter) - Filter
+fukashi no kobushi ふかしのこぶし (Unseen Fist) - # TBD #
+fukugan ふくがん (Compound Eyes) - # TBD #
 fukutsu no kokoro ふくつのこころ (Steadfast) - Steadfast Heart
+fukutsu no tate ふくつのたて (Dauntless Shield) - # TBD #
+fumin ふみん (Insomnia) - # TBD #
+furawaa beeru フラワーベール (Flower Veil) - # TBD #
+furawaa gifuto フラワーギフト (Flower Gift) - # TBD #
+furendo gaado フレンドガード (Friend Guard) - # TBD #
+furiizu sukin フリーズスキン (Refrigerate) - # TBD #
+fushigi na uroko ふしぎなうろこ (Fushigi na Uroko) - # TBD #
+fushigi na mamori ふしぎなまもり (Wonder Guard) - # TBD #
+fushoku ふしょく (Corrosion) - # TBD #
+futou no ken ふとうのけん (Intrepid Sword) - # TBD #
+fuuryoku denki ふうりょくでんき (Wind Power) - # TBD #
+fuyuu ふゆう (Levitate) - # TBD #
+ganjou がんじょう (Sturdy) - # TBD #
+ganjou ago がんじょうあご (Strong Jaw) - # TBD #
+gekiryuu げきりゅう (Torrent) - # TBD #
+gitai ぎたい (Mimicry) - # TBD #
+gorimuchuu ごりむちゅう (Gorilla Tactics) - # TBD #
+gurasu meikaa グラスメイカー (Grassy Surge) - # TBD #
+gyakujou ぎゃくじょう (Berserk) - # TBD #
+gyogun ぎょぐん (Schooling) - # TBD #
+haado rokku ハードロック (Solid Rock) - # TBD #
+hadoron enjin ハドロンエンジン (Hadron Engine) - Hadron Engine
+hagane no seishin はがねのせいしん (Steely Spirit) - # TBD #
+hagane tsukai はがねつかい (Steelworker) - # TBD #
+hajimari no umi はじまりのうみ (Primordial Sea) - # TBD #
+hakkou はっこう (Illuminate) - # TBD #
+hansuu はんすう (Cud Chew) - # TBD #
+harapeko suicchi はらぺこスイッチ (Hunger Switch) - # TBD #
+harakiri はりきり (Hustle) - # TBD #
+harikomi はりこみ (Stakeout) - # TBD #
+hato mune はとむね (Big Pecks) - # TBD #
+hayaashi はやあし (Quick Feet) - # TBD #
+hayaoki はやおき (Early Bird) - # TBD #
+hayate no tsubasa はやてのつばさ (Gale Wings) - # TBD #
+hedoro eki ヘドロえき (Liquid Ooze) - # TBD #
+hengen jizai へんげんじざい (Protean) - Protean
+henshoku へんしょく (Color Change) - # TBD #
+hevi metaru ヘヴィメタル (Heavy Metal) - Heavy Metal
+hideri ひでり (Drought) - # TBD #
+hihi'iro no kodou ひひいろのこどう (Orichalcum Pulse) - # TBD #
+hiraishin ひらいしん (Lightning Rod) - # TBD #
+hiiringu shifuto ヒーリングシフト (Triage) - # TBD #
+hitodenashi ひとでなし (Merciless) - # TBD #
+honoo no karada ほのおのからだ (Flame Body) - Flame Body
+hoo bukuro ほおぶくろ (Cheek Pouch) - # TBD #
+horobi no bodi ほろびのボディ (Perish Body) - # TBD #
+houshi ほうし (Effect Spore) - # TBD #
+ikaku いかく (Intimidate) - Intimidate
+ikari no koura いかりのこうら (Anger Shell) - # TBD #
+ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
+iromegane いろめがね (Tinted Lens) - # TBD #
+iryuujon イリュージョン (Illusion) - Illusion
+ishi atama いしあたま (Rock Head) - # TBD #
+itazura gokoro いたずらごころ (Prankster) - # TBD #
+iwahakobi いわはこび (Rocky Payload) - # TBD #
+iyashi no kokoro いやしのこころ (Healer) - # TBD #
+jikyuuryoku じきゅうりょく (Stamina) - # TBD #
+jinba ittai じんばいったい (As One) - # TBD #
+jiryoku じりょく (Magnet Pull) - # TBD #
+jishin kajou じしんかじょう (Moxie) - # TBD #
+joukikan じょうききかん (Steam Engine) - # TBD #
+jo'ou no igen じょおうのいげん (Queenly Majesty) - # TBD #
+jukusei じゅくせい (Ripen) - # TBD #
+juunan じゅうなん (Limber) - # TBD #
+kabuto aamaa カブトアーマー (Battle Armor) - # TBD #
+kachiki かちき (Competitive) - # TBD #
+kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
+kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
+kage fumin かげふみ (Shadow Tag) - # TBD #
+kairiki basami かいりきバサミ (Hyper Cutter) - # TBD #
+kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
+kansou hada かんそうはだ (Dry Skin) - # TBD #
+kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
+karuwaza かるわざ (Unburden) - # TBD #
+kasoku かそく (Speed Boost) - # TBD #
+katai tsume かたいツメ (Tough Claws) - # TBD #
+katayaburi かたやぶり (Mold Breaker) - # TBD #
+kawari mono かわりもの (Imposter) - # TBD #
+kazenori かぜのり (Wind Rider) - # TBD #
+kiken yochi きけんよち (Anticipation) - # TBD #
+kiki kaihi ききかいひ (Emergency Exit) - # TBD #
+kimottama きもったま (Scrappy) - # TBD #
+kimyou na kusuri きみょうなくすり (Curious Medicine) - # TBD #
+kinchoukan きんちょうかん (Unnerve) - # TBD #
+kinshi no chikara きんしのちから (Mycelium Might) - # TBD #
+kireaji きれあじ (Sharpness) - # TBD #
+kiyome no shio きよめのしお (Purifying Salt) - # TBD #
+kizuna henge きずなへんげ (Battle Bond) - # TBD #
 kobore dane こぼれダネ (Seed Sower) - Falling Seeds
+kodaikassei こだいかっせい (Protosynthesis) - # TBD #
+kongari bodi こんがりボディ (Well-Baked Body) - # TBD #
+konjou こんじょう (Guts) - # TBD #
+koori no rinpun こおりのりんぷん (Ice Scales) - # TBD #
 kudakeru yoroi くだけるよろい (Weak Armor) - Breaking Armor
+kuikku doroo クイックドロウ (Quick Draw) - Quick Draw
+kuishinbou くいしんぼう (Gluttony) - # TBD #
+kuooku chaaji クォークチャージ (Quark Drive) - # TBD #
+kuria bodi クリアボディ (Clear Body) - Clear Body
+kuro no inanaki くろのいななき (Grim Neigh) - # TBD #
+kusa no kegawa くさのけがわ (Grass Pelt) - # TBD #
+kyouen きょうえん (Costar) - # TBD #
+kyousei きょうせい (Symbiosis) - # TBD #
+kyouun きょううん (Super Luck) - # TBD #
+kyuuban きゅうばん (Suction Cups) - # TBD #
+maguma no yoroi マグマのよろい (Magma Armor) - # TBD #
+mai peesu マイペース (Own Tempo) - # TBD #
+mainasu マイナス (Minus) - Minus
+maiti chenji マイティチェンジ (Zero to Hero) - Mighty Change
+majikku gaado マジックガード (Magic Guard) - Magic Guard
+majikku miraa マジックミラー (Magic Bounce) - Magic Mirror
+majishan マジシャン (Magician) - # TBD #
+makenki まけんき (Defiant) - # TBD #
+maruchisukeiru マルチスケイル (Multiscale) - Multiscale
+maruchitaipu マルチタイプ (Multitype) - Multitype
+mega ranchaa メガランチャー (Mega Launcher) - Mega Launcher
+men'eki めんえき (Immunity) - # TBD #
+meromero bodi メロメロボディ (Cute Charm) - # TBD #
+metaru purotekuto メタルプロテクト (Full Metal Body) - # TBD #
+miira ミイラ (Mummy) - # TBD #
+miraa aamaa ミラーアーマー (Mirror Armor) - Mirror Armor
+mirakuru sukin ミラクルスキン (Wonder Skin) - Miracle Skin
+misuto meikaa ミストメイカー (Misty Surge) - # TBD #
+mitsu atsume みつあつめ (Honey Gather) - # TBD #
+mizu gatame みずがため (Water Compaction) - # TBD #
+mizu no beeru みずのベール (Water Veil) - # TBD #
+mofumofu もふもふ (Fluffy) - # TBD #
+mouka もうか (Blaze) - # TBD #
+mono hiroi ものひろい (Pickup) - # TBD #
 moraibi もらいび (Flash Fire) - Kindled Fire
+murakke ムラっけ (Moody) - # TBD #
 mushi no shirase むしのしらせ (Swarm) - Bugout
-nihonbare にほんばれ (Sunny Day) - Clear Skies
+naitomea ナイトメア (Bad Dreams) - Nightmare
+namake なまけ (Truant) - # TBD #
+nenchaku ねんちゃく (Sticky Hold) - Sticky Hold
+netsu bousou ねつぼうそう (Flare Boost) - # TBD #
+netsu koukan ねつこうかん (Thermal Exchange) - # TBD #
+nige ashi にげあし (Run Away) - # TBD #
+nigegoshi にげごし (Wimp Out) - # TBD #
+noo gaado ノーガード (No Guard) - No Guard
+noo tenki ノーてんき (Cloud Nine) - # TBD #
+noomaru sukin ノーマルスキン (Normalize) - # TBD #
+noroware bodi のろわれボディ (Cursed Body) - # TBD #
+numenume ぬめぬめ (Gooey) - # TBD #
+odoriko おどりこ (Dancer) - # TBD #
+omitooshi おみとおし (Frisk) - # TBD #
+omokage yadoshi おもかげやどし (Embody Aspect) - # TBD #
+omotenashi おもてなし (Hospitality) - # TBD #
+oora bureiku オーラブレイク (Aura Break) - Aura Break
+ougon no karada おうごんのからだ (Good as Gold) - Golden Body
+owari no daichi おみとおし (Desolate Land) - # TBD #
+oyaki ai おやこあい (Parental Bond) - # TBD #
+panku rokku パンクロック (Punk Rock) - Punk Rock
+pasuteru beeru パステルベール (Pastel Veil) - Pastel Veil
+pawaa supotto パワースポット (Power Spot) - Power Spot
+poizun hiiru ポイズンヒール (Poison Heal) - Poison Heal
+purasu プラス (Plus) - Plus
+puresshaa プレッシャー (Pressure) - Pressure
+purizumu aamaa プリズムアーマー (Prism Armor) - Prism Armor
+raito metaru ライトメタル (Light Metal) - Light Metal
+reshiibaa レシーバー (Receiver) - Receiver
+ribero リベロ (Libero) - Libero
+riifu gaado リーフガード (Leaf Guard) - Leaf Guard
+rimitto shiirudo リミットシールド (Shields Down) - # TBD #
+rinpun りんぷん (Shield Dust) - # TBD #
+ryuu no agito りゅうのあぎと (Dragon's Maw) - # TBD #
+saafu teeru サーフテール (Surge Surfer) - # TBD #
+saiko meikaa サイコメイカー (Psychic Surge) - # TBD #
+saiseiryoku さいせいりょく (Regenerator) - # TBD #
+samayou tamashii さまようたましい (Wandering Spirit) - # TBD #
+samehada さめはだ (Rough Skin) - # TBD #
+san pawaa サンパワー (Solar Power) - # TBD #
+seidenki せいでんき (Static) - # TBD #
 seigi no kokoro ふくつのこころ (Justified) - Heart of Justice
+seishinryoku せいしんりょく (Inner Force) - # TBD #
+sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
+shimerike しめりけ (Damp) - # TBD #
+shingan しんがん (Mind's Eye) - # TBD #
+shinkuro シンクロ (Synchronize) - # TBD #
+shinryoku しんりょく (Overgrow) - # TBD #
+shireitou しれいとう (Commander) - # TBD #
+shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
+shiroi kemuri しろいけむり (Shiroi Kemuri) - White Smoke
+shizen kaifuku しぜんかいふく (Natural Cure) - Natural Cure
+shouri no hoshi しょうりのほし (Victory Star) - # TBD #
+shuukaku しゅうかく (Harvest) - # TBD #
+sou on そうおん (Cacophony) - # TBD #
+soudaishou そうだいしょう (Supreme Overlord) - # TBD #
+souru haato ソウルハート (Soul-Heart) - Soul Heart
+soushoku そうしょく (Sap Sipper) - # TBD #
+suihou すいほう (Water Bubble) - # TBD #
+suisui すいすい (Swift Swim) - # TBD #
+suiito beeru スイートベール (Sweet Veil) - Sweet Veil
+sujiganeiri すじがねいり (Stalwart) - # TBD #
+sukai sukin スカイスキン (Aerilate) - # TBD #
+sukuryuu obire スクリューおびれ (Propeller Tail) - # TBD #
+sukiru rinku スキルリンク (Skill Link) - Skill Link
+suna haki すなはき (Sand Spit) - # TBD #
+suna no chikara すなのちから (Sand Force) - # TBD #
+suna okoshi すなおこし (Sand Stream) - # TBD #
+sunagakure すながくれ (Sand Veil) - # TBD #
+sunaipaa スナイパー (Sniper) - Sniper
+sunakaki すなかき (Sand Rush) - # TBD #
+surinuke すりぬけ (Infiltrator) - # TBD #
+suroo sutaato スロースタート (Slow Start) - Slow Start
+surudoi me するどいめ (Keen Eyes) - # TBD #
+sutemi すてみ (Reckless) - # TBD #
+suwaamu chenji スワームチェンジ (Power Construct) - # TBD #
+taabobureizu ターボブレイズ (Turboblaze) - Turboblaze
+tainetsu たいねつ (Heatproof) - # TBD #
+tama hiroi たまひろい (Ball Fetch) - # TBD #
+tanjun たんじゅん (Simple) - # TBD #
+teiru aamaa テイルアーマー (Armor Tail) - # TBD #
+tekiouryouku てきおうりょく (Adaptability) - # TBD #
+tekunishan テクニシャン (Technician) - Technician
 ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
+tenkiya てんきや (Forecast) - # TBD #
+tennen てんねん (Unaware) - # TBD #
+tera chenji テラスチェンジ (Tera Shift) - Tera Change
+tera sheru テラスシェル (Tera Shell) - Tera Shell
+teraboruteeji テラボルテージ (Teravolt) - # TBD #
+terepashii テレパシー (Telepathy) - Telepathy
+tetsu no kobushi てつのこぶし (Iron Fist) - Iron Fist
+tetsu no toge てつのトゲ (Iron Barbs) - Iron Barbs
+tobidasu nakami とびだすなかみ (Innards Out) - # TBD #
+toranjisuta トランジスタ (Transistor) - Transistor
+toreesu トレース (Trace) - Trace
+torenai nioi とれないにおい (Lingering Aroma) - # TBD #
+tousoushin とうそうしん (Rivalry) - # TBD #
+u no misairu うのミサイル (Gulp Missile) - # TBD #
+uruoi bodi うるおいボディ (Hydration) - # TBD #
+uruoi boisu うるおいボイス (Liquid Voice) - # TBD #
+waruite guse わるいてぐせ (Pickpocket) - # TBD #
+watage わたげ (Cotton Down) - # TBD #
+wazawai no ofuda わざわいのおふだ (Tablets of Ruin) - # TBD #
+wazawai no tama わざわいのたま (Beads of Ruin) - # TBD #
+wazawai no tsurugi わざわいのつるぎ (Sword of Ruin) - # TBD #
+wazawai no utsawa わざわいのうつわ (Vessel of Ruin) - # TBD #
+yaruki やるき (Vital Spirit) - # TBD #
+yobimizu よびみず (Storm Drain) - # TBD #
+yochimu よちむ (Forewarn) - # TBD #
+yoga pawaa ヨガパワー (Pure Power) - # TBD #
+youryokuso ようりょくそ (Chlorophyll) - # TBD #
+yowaki よわき (Defeatist) - # TBD #
+yuki furashi ゆきふらし (Snow Warning) - # TBD #
+yuki kaki ゆきかき (Slush Rush) - # TBD #
+yukigakure ゆきがくれ (Snow Cloak) - # TBD #
 yuubaku ゆうばく (Aftermath) - Induced Explosion
+zero foomingu ゼロフォーミング (Teraform Zero) - Zero-Forming [subject to change]
 zettai nemuri ぜったいねむり (Comatose) - Hyper Sleep
 
 
@@ -689,7 +1604,7 @@ POKÉMON NAMES
 0352 カクレオン Kakuleon - いろへんげポケモン Color Swap Pokémon
 0353 カゲボウズ Kagebouzu
 0354 ジュペッタ Jupetta
-0355 ヨマワル 
+0355 ヨマワル Yomawaru
 0356 サマヨール Samayouru
 0357 トロピウス Tropius
 0358 チリーン 
@@ -885,9 +1800,9 @@ POKÉMON NAMES
 0548 チュリネ 
 0549 ドレディア Dredear
 0550 バスラオ 
-0551 メグロコ Meguroco
-0552 ワルビル 
-0553 ワルビアル Waruvial
+0551 メグロコ Meguroco - さばくワニポケモン Desert Croc Pokémon
+0552 ワルビル Waruvile - さばくワニポケモン Desert Croc Pokémon
+0553 ワルビアル Waruvial - いかくポケモン Intimidation Pokémon
 0554 ダルマッカ Darumakka
 0555 ヒヒダルマ Hihidaruma
 0556 マラカッチ 
@@ -1065,9 +1980,9 @@ POKÉMON NAMES
 0728 アシマリ Ashimari
 0729 オシャマリ Oshamari
 0730 アシレーヌ Ashirène
-0731 ツツケラ Tsutsukera
-0732 ケララッパ Kerarappa
-0733 ドデカバシ Dodekabashi
+0731 ツツケラ Tsutsukera - きつつきポケモン Woodpecker Pokémon
+0732 ケララッパ Kerarappa - ラッパぐちポケモン Bugle Beak Pokémon
+0733 ドデカバシ Dodekabashi - おおづつポケモン Cannon Pokémon
 0734 ヤングース Youngoose
 0735 デカグース Dekagoose
 0736 アゴジムシ Agojimushi
@@ -1258,7 +2173,7 @@ POKÉMON NAMES
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
 0922 パモット 
 0923 パーモット 
-0924 ワッカネズミ 
+0924 ワッカネズミ Wakkanezumi
 0925 イッカネズミ 
 0926 パピモッチ Puppymocchi - こいぬポケモン Puppy Pokémon
 0927 バウッツェル
@@ -1380,12 +2295,18 @@ Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
 Kasumi's Udeppou - Male (referred to as "otoko" in MPM)
 
 Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
-Iris's Doryuzu - Male (affected by Attract from female Emonga in BW)
+Iris's Doryuzu - Male (attracted to female Emonga in BW)
 Iris's Emonga - Female
 
 Shirona's Gaburias - Female (gender design difference)
 
 Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
+
+Liko's Nyahoja - Female (attracted to male Perfuton in PM23)
+
+Roy's Hogator - Male (not attracted to male Perfuton in PM23)
+
+Dot's Kuwassu - Male (attracted female Pokémon in PM23)
 
 Friede's Pikachu - Male (gender design difference)
 
