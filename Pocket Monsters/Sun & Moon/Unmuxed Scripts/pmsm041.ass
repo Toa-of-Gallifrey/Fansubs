@@ -153,7 +153,7 @@ Dialogue: 0,0:04:35.83,0:04:37.80,Main,Satoshi,0,0,0,,Here it comes!
 Dialogue: 0,0:04:37.80,0:04:38.92,Main,Kaki,0,0,0,,Wait, Satoshi!
 Dialogue: 0,0:04:41.80,0:04:43.43,Main,Kaki,0,0,0,,T-This is...
 Dialogue: 0,0:04:43.43,0:04:45.49,Main,Kaki,0,0,0,,Something’s not right.
-Dialogue: 0,0:04:45.49,0:04:50.05,Main,Mamane,0,0,0,,Oh, you see, it seems \N my Denjimushi has a Mild nature.
+Dialogue: 0,0:04:45.49,0:04:50.05,Main,Mamane,0,0,0,,Oh, you see, it seems \N my Denjimushi has a mild nature.
 Dialogue: 0,0:04:50.05,0:04:51.85,Main,Mamane,0,0,0,,But I’m sure he can go fast \N once it gets used to—
 Dialogue: 0,0:04:52.74,0:04:56.44,Main,Mamane,0,0,0,,Really, Denjimushi? \N This is so sticky, I can’t get it off!
 Dialogue: 0,0:04:56.86,0:04:58.83,Main,Kaki,0,0,0,,All we can do is train, I suppose.
@@ -214,7 +214,7 @@ Dialogue: 0,0:07:51.45,0:07:53.75,Main,Human being,0,0,0,,It’s Hayate with \N 
 Dialogue: 0,0:07:53.75,0:07:56.51,Main,Human being,0,0,0,,So here come the \N favorites to win...{Xemnas: Is the actual term used when referring to the most likely team to win}
 Dialogue: 0,0:07:56.51,0:08:01.38,Main,Hayate,0,0,0,,This is the ultimate Denjimushi, whom our daddy \N went to great lengths to find for us!
 Dialogue: 0,0:08:01.38,0:08:02.86,Main,Hayate,0,0,0,,It’s alternate-color, even!
-Dialogue: 0,0:08:02.86,0:08:05.75,Main,Hayate,0,0,0,,And with its Timid nature and the perfect ability, \N Run Away, it’s as fast as can be!
+Dialogue: 0,0:08:02.86,0:08:05.75,Main,Hayate,0,0,0,,And with its timid nature and the perfect ability, \N Run Away, it’s as fast as can be!
 Dialogue: 0,0:08:05.75,0:08:08.01,Main,Yansu,0,0,0,,The car frame is \N custom-made too, yo!
 Dialogue: 0,0:08:08.01,0:08:10.12,Main,Dana,0,0,0,,It’s completely unrivaled, dude!
 Dialogue: 0,0:08:10.12,0:08:13.22,Main,Hayate,0,0,0,,You small-fry couldn’t win \N even if you all ganged up on us!
@@ -372,7 +372,7 @@ Dialogue: 0,0:16:42.87,0:16:44.67,Main,Mamane,0,0,0,,Move at a constant speed.
 Dialogue: 0,0:16:45.27,0:16:48.65,Main,Mamane,0,0,0,,The desert will drain your stamina. \N Is Denjimushi doing all right?
 Dialogue: 0,0:16:48.65,0:16:51.20,Main,Satoshi,0,0,0,,The Moomoo Milk from earlier \N is working!
 Dialogue: 0,0:16:51.20,0:16:55.06,Main,Satoshi,0,0,0,,And it looks like the headwind isn’t a problem either, \N thanks to the goggles!
-Dialogue: 0,0:16:56.62,0:16:58.81,Main,Mamane,0,0,0,,This is where being Mild \N comes in handy!
+Dialogue: 0,0:16:56.62,0:16:58.81,Main,Mamane,0,0,0,,This is where being mild \N comes in handy!
 Dialogue: 0,0:16:58.81,0:16:59.91,Main,Mamane,0,0,0,,We’re catching back up!
 Dialogue: 0,0:17:01.69,0:17:04.48,Main,Hayate,0,0,0,,You’ve reached the \N final pit by now, I hope.
 Dialogue: 0,0:17:04.48,0:17:06.79,Main,Yansu,0,0,0,,Well... Sorry, bro!
@@ -474,7 +474,7 @@ Dialogue: 0,0:21:50.45,0:21:55.00,Main,Narrator,0,0,0,,Māmane and Denjimushi’
 Comment: 0,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:22.92,0:23:24.33,Main,Mamane,0,0,0,,Thanks for waiting!
-Dialogue: 0,0:23:24.33,0:23:28.09,Main,Mamane,0,0,0,,The answer to the PokéProblem \N was Mild!
+Dialogue: 0,0:23:24.33,0:23:28.09,Main,Mamane,0,0,0,,The answer to the PokéProblem \N was mild!
 Dialogue: 0,0:23:28.52,0:23:32.35,Main,Mamane,0,0,0,,The Battery Pokémon Denjimushi \N is the evolved form of Agojimushi,
 Dialogue: 0,0:23:32.35,0:23:34.34,Main,Mamane,0,0,0,,and is a Bug/Electric type.
 Dialogue: 0,0:23:34.34,0:23:38.85,Main,Mamane,0,0,0,,It’s got the power to \N release stored energy like a battery!

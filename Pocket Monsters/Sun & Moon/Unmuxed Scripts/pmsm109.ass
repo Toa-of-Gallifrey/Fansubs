@@ -205,7 +205,7 @@ Dialogue: 0,0:09:43.57,0:09:46.38,Main,Kaki,0,0,0,,The Poni Island Grand Trial \
 Dialogue: 0,0:09:46.38,0:09:47.39,Main,Kaki,0,0,0,,Begin!
 Dialogue: 0,0:09:47.39,0:09:49.90,Main,Sign,0,0,0,,{\an8}Grand Trial
 Dialogue: 0,0:09:49.90,0:09:51.35,Main,Satoshi,0,0,0,,Right, let’s—
-Dialogue: 0,0:09:51.35,0:09:53.53,Main,Hapu,0,0,0,,Banbadoro! \N High Horsepower!
+Dialogue: 0,0:09:51.35,0:09:53.53,Main,Hapu,0,0,0,,Banbadoro! \N 100,000 Horsepower!
 Dialogue: 0,0:09:59.69,0:10:00.74,Main,Satoshi,0,0,0,,Right off the bat, huh?
 Dialogue: 0,0:10:01.14,0:10:03.62,Main,Satoshi,0,0,0,,Pikachu, dodge it with Lightning Speed!
 Dialogue: 0,0:10:10.25,0:10:11.75,Main,Satoshi,0,0,0,,Now go!
@@ -226,7 +226,7 @@ Dialogue: 0,0:11:07.31,0:11:08.93,Main,Satoshi,0,0,0,,Right! You got it!
 Dialogue: 0,0:11:14.90,0:11:17.28,Main,Kaki,0,0,0,,Pikachu’s attacks aren’t hurting it.
 Dialogue: 0,0:11:17.98,0:11:20.32,Main,Kaki,0,0,0,,Is it because Banbadoro’s \N Defense has gone up?
 Dialogue: 0,0:11:21.34,0:11:23.19,Main,Kaki,0,0,0,,This will be a long battle.
-Dialogue: 0,0:11:28.00,0:11:30.12,Main,Hapu,0,0,0,,Banbadoro, attack with \N High Horsepower!
+Dialogue: 0,0:11:28.00,0:11:30.12,Main,Hapu,0,0,0,,Banbadoro, attack with \N 100,000 Horsepower!
 Dialogue: 0,0:11:31.50,0:11:34.09,Main,Satoshi,0,0,0,,Pikachu! Lightning Speed!
 Dialogue: 0,0:11:36.75,0:11:38.39,Main,Satoshi,0,0,0,,And then Iron Tail! {Not sure if this should get cut to an earlier keyframe, gonna play it safe and not. - Toa}{I'd say the line is short enough that cutting it off a little bit early is fine. It's CLOSE ENOUGH to the end of the audio clip anyway. -Starfish}
 Dialogue: 0,0:11:40.87,0:11:45.97,Main,Satoshi,0,0,0,,Even if its Defense has gone up, \N Iron Tail’s definitely gonna hurt!{It's a RESISTED MOVE, you dolt! Look I'm sorry, I generally try *NOT* to Rules Lawyer the battles in the show because it's never going to be true to the game anyway, but this battle is just SUCH BULL. -Starfish}
@@ -242,7 +242,7 @@ Dialogue: 0,0:12:25.17,0:12:28.35,Main,Hapu,0,0,0,,Well, Satoshi, \N what will y
 Dialogue: 0,0:12:30.45,0:12:34.02,Main,Satoshi,0,0,0,,You shouldn’t even have to ask! \N We {\i1}always{\i0} fight at full power!
 Dialogue: 0,0:12:34.48,0:12:36.22,Main,Satoshi,0,0,0,,Isn’t that right, Pikachu?
 Dialogue: 0,0:12:38.02,0:12:42.01,Main,Hapu,0,0,0,,Banbadoro! Can you, too, \N feel their determination?
-Dialogue: 0,0:12:43.65,0:12:45.12,Main,Hapu,0,0,0,,If so... Bulldoze! {RULE BREAKER! - Toa}
+Dialogue: 0,0:12:43.65,0:12:45.12,Main,Hapu,0,0,0,,If so... Ground Stomp! {RULE BREAKER! - Toa}
 Dialogue: 0,0:12:51.79,0:12:53.33,Main,Satoshi,0,0,0,,Pikachu, dodge!
 Dialogue: 0,0:12:56.58,0:12:57.46,Main,Satoshi,0,0,0,,Pikachu!
 Dialogue: 0,0:13:06.86,0:13:08.72,Main,Mao,0,0,0,,I’m soaked!
@@ -250,7 +250,7 @@ Dialogue: 0,0:13:08.72,0:13:10.06,Main,Rotom,0,0,0,,Be careful-roto!
 Dialogue: 0,0:13:10.45,0:13:12.28,Main,Satoshi,0,0,0,,Pikachu, are you all right?!
 Dialogue: 0,0:13:13.89,0:13:16.42,Main,Hapu,0,0,0,,You narrowly succeeded \N in evading it, did you?
 Dialogue: 0,0:13:16.42,0:13:17.86,Main,Hapu,0,0,0,,But I will not hold back!
-Dialogue: 0,0:13:17.86,0:13:19.90,Main,Hapu,0,0,0,,Banbadoro, it is time for a \N Bulldoze combo attack! {RULE BREAKER! - Toa}
+Dialogue: 0,0:13:17.86,0:13:19.90,Main,Hapu,0,0,0,,Banbadoro, it is time for a \N Ground Stomp combo attack! {RULE BREAKER! - Toa}
 Dialogue: 0,0:13:22.53,0:13:23.78,Main,Satoshi,0,0,0,,Dodge, Pikachu!
 Dialogue: 0,0:13:30.53,0:13:31.66,Main,Satoshi,0,0,0,,Here comes another! {RULE BREAKER! - Toa}
 Dialogue: 0,0:13:39.95,0:13:43.69,Main,Satoshi,0,0,0,,We managed to dodge that, \N but she’s totally controlling the battle.
@@ -282,7 +282,7 @@ Dialogue: 0,0:16:25.77,0:16:27.88,Main,Hapu,0,0,0,,Banbadoro, \N restrain them w
 Dialogue: 0,0:16:34.42,0:16:36.82,Main,Hapu,0,0,0,,We will not lose \N a battle of endurance!{She literally uses the English word "Stamina", but I would like to avoid using that word IN A BATTLE FEATURING A POKÉMON WHOSE ABILITY IS LITERALLY CALLED STAMINA. -Starfish}
 Dialogue: 0,0:16:36.82,0:16:39.23,Main,Hapu,0,0,0,,Banbadoro, \N continue attacking with Stomp!{Contemplated bringing in my own RULE BREAKER here but I decided against it. -Starfish}
 Dialogue: 0,0:16:42.94,0:16:44.94,Main,Satoshi,0,0,0,,Pikachu, \N stop where you are!
-Dialogue: 0,0:16:48.40,0:16:49.65,Main,Hapu,0,0,0,,Now! Bulldoze!
+Dialogue: 0,0:16:48.40,0:16:49.65,Main,Hapu,0,0,0,,Now! Ground Stomp!
 Dialogue: 0,0:16:51.94,0:16:53.94,Main,Satoshi,0,0,0,,Pikachu, jump off the pillar! {RULE BREAKER! - Toa}
 Dialogue: 0,0:17:04.37,0:17:06.70,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
 Dialogue: 0,0:17:13.22,0:17:14.55,Main,Hapu,0,0,0,,What?!

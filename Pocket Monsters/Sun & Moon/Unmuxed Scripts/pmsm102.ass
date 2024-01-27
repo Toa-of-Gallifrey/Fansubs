@@ -341,16 +341,16 @@ Dialogue: 0,0:10:25.38,0:10:26.35,Main,Suiren,0,0,0,,Sandy?
 Dialogue: 0,0:10:34.19,0:10:35.19,Main,Mao,0,0,0,,Amazing!
 Dialogue: 0,0:10:36.47,0:10:39.40,Main,Suiren,0,0,0,,Sandy, is that Mantine \N a friend of yours?
 Dialogue: 0,0:10:42.19,0:10:44.46,Main,Satoshi,0,0,0,,All right! Let’s try, too!
-Dialogue: 0,0:10:44.46,0:10:47.71,Main,Satoshi,0,0,0,,We’ll jump our way \N to Treasure Island! {I didn't stretch this one to the keyframe and I feel like it should probably end sooner, but I'm leaving it since it got TPP'd here and I don't think I botched the rough timing for this line. - Toa}{I say it cuts off exactly where it should imo. -Starfish}
+Dialogue: 0,0:10:44.46,0:10:47.71,Main,Satoshi,0,0,0,,We’ll jump our way \N to Treasure Island!
 Dialogue: 0,0:10:55.02,0:10:56.88,Main,Kaki,0,0,0,,Let’s go, Garagara!
-Dialogue: 0,0:10:57.71,0:11:00.51,Main,Kaki,0,0,0,,Huntail Spiral! {JP: “Screw Huntail”, which is... unfortunately phrased. -Starfish}
+Dialogue: 0,0:10:57.71,0:11:00.51,Main,Kaki,0,0,0,,Huntail Screw!
 Dialogue: 0,0:11:03.64,0:11:05.68,Main,Suiren,0,0,0,,Sandy! Ashimari!
 Dialogue: 0,0:11:07.08,0:11:08.56,Main,Suiren,0,0,0,,Go!
-Dialogue: 0,0:11:09.14,0:11:10.83,Main,Suiren,0,0,0,,Ashirène Twist! {JP: “Ashirene Flip” -Starfish}
+Dialogue: 0,0:11:09.14,0:11:10.83,Main,Suiren,0,0,0,,Ashirène Flip!
 Dialogue: 0,0:11:13.23,0:11:15.02,Main,Kasumi,0,0,0,,I challenge you, Satoshi!
 Dialogue: 0,0:11:15.02,0:11:16.58,Main,Satoshi,0,0,0,,Bring it on!
-Dialogue: 0,0:11:18.19,0:11:20.64,Main,Kasumi,0,0,0,,Starmie 720! {JP: “Starmie Tornado” -Starfish}
-Dialogue: 0,0:11:23.62,0:11:25.87,Main,Satoshi,0,0,0,,Koiking Splash! {JP: “Koiking Special” -Starfish}
+Dialogue: 0,0:11:18.19,0:11:20.64,Main,Kasumi,0,0,0,,Starmie Tornado!
+Dialogue: 0,0:11:23.62,0:11:25.87,Main,Satoshi,0,0,0,,Koiking Special!
 Dialogue: 0,0:11:29.30,0:11:30.73,Main,Lilie,0,0,0,,You’re all doing wonderfully!
 Dialogue: 0,0:11:30.73,0:11:32.00,Main,Mao,0,0,0,,This is great!
 Dialogue: 0,0:11:32.43,0:11:35.50,Main,Them,0,0,0,,{\i1}Yahoo!{\i0}

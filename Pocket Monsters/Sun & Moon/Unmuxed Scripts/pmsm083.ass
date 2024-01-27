@@ -68,7 +68,7 @@ Dialogue: 0,0:05:48.95,0:05:54.00,OPp2,,0,0,0,,When we hold hands, see, we’re 
 Dialogue: 1,0:05:55.87,0:06:01.88,OP,,0,0,0,,You’re my sunshine and I love you
 Dialogue: 0,0:05:55.87,0:06:01.88,OPp2,,0,0,0,,You’re my sunshine and I love you
 Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
-Dialogue: 0,0:06:15.43,0:06:20.44,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,299)}Satoshi Minimizes
+Dialogue: 0,0:06:15.43,0:06:20.44,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,299)}Satoshi Shrinks
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:11:02.60,0:11:05.56,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,478)}Name: Banbadoro\N{\fs40}Type:   Ground
 Comment: 0,0:13:31.97,0:13:33.97,Main,,0,0,0,,
@@ -108,7 +108,7 @@ Dialogue: 1,0:23:10.11,0:23:14.62,ED,,0,0,0,,{\fad(0,400)}‘Cause you can be an
 Dialogue: 0,0:23:10.11,0:23:14.62,EDp2,,0,0,0,,{\fad(0,400)}‘Cause you can be anything and do anything you want
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,GREEN NEP TITLE
 Comment: 0,0:24:26.39,0:24:29.85,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,100)}Next time
-Comment: 0,0:24:26.39,0:24:29.85,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,350)}Satoshi Minimizes
+Comment: 0,0:24:26.39,0:24:29.85,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,350)}Satoshi Shrinks
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,RED NEP TITLE
 Dialogue: 0,0:24:00.54,0:24:26.65,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:26.65,0:24:30.49,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H2215F2&\fs50\pos(640,150)}Next time
@@ -194,7 +194,7 @@ Dialogue: 0,0:06:27.53,0:06:29.55,Main,Mamane,0,0,0,,Is this even possible?
 Dialogue: 0,0:06:29.55,0:06:30.86,Main,Mao,0,0,0,,This can’t be real!
 Dialogue: 0,0:06:30.86,0:06:32.78,Main,Sauboh,0,0,0,,Th-This is almost like...
 Dialogue: 0,0:06:32.78,0:06:34.54,Main,Suiren,0,0,0,,A Satoshi figurine!
-Dialogue: 0,0:06:34.54,0:06:38.92,Main,Kukui,0,0,0,,Rather, it’s exactly like \N the Pokémon move, Minimize.
+Dialogue: 0,0:06:34.54,0:06:38.92,Main,Kukui,0,0,0,,Rather, it’s exactly like \N the Pokémon move, Shrink.
 Dialogue: 0,0:06:38.92,0:06:40.19,Main,Mao,0,0,0,,Sauboh!
 Dialogue: 0,0:06:40.19,0:06:42.13,Main,Kaki,0,0,0,,What have you done?!
 Dialogue: 0,0:06:42.13,0:06:43.31,Main,Sauboh,0,0,0,,Oh, um...

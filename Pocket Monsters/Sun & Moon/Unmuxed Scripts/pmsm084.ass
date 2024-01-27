@@ -131,11 +131,11 @@ Dialogue: 0,0:01:07.67,0:01:09.34,Main,Rotom,0,0,0,,Stellar work, both of you-ro
 Dialogue: 0,0:01:13.26,0:01:15.30,Main,Satoshi,0,0,0,,Lugarugan! Accelerock!
 Dialogue: 0,0:01:18.47,0:01:20.31,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:01:36.61,0:01:38.46,Main,Satoshi,0,0,0,,Bebenom...
-Dialogue: 0,0:01:38.46,0:01:41.83,Main,Rotom,0,0,0,,When did it learn \N Fury Attack-roto?
+Dialogue: 0,0:01:38.46,0:01:41.83,Main,Rotom,0,0,0,,When did it learn \N Chaotic Jabs-roto?
 Dialogue: 0,0:01:42.48,0:01:43.66,Main,Satoshi,0,0,0,,Stop!
 Dialogue: 0,0:01:45.71,0:01:48.59,Main,Satoshi,0,0,0,,Bebenom! \N It’s not your turn right now!
 Dialogue: 0,0:01:48.59,0:01:50.42,Main,Satoshi,0,0,0,,Don’t get in their way!
-Dialogue: 0,0:01:53.81,0:01:56.47,Main,Satoshi,0,0,0,,But your Fury Attack \N packed a punch!
+Dialogue: 0,0:01:53.81,0:01:56.47,Main,Satoshi,0,0,0,,But your Chaotic Jabs \N packed a punch!
 Dialogue: 0,0:02:00.43,0:02:02.57,Main,Rotom,0,0,0,,What a mess-roto...
 Dialogue: 0,0:02:12.39,0:02:14.65,Main,Rotom,0,0,0,,Another of Bebenom’s doodles-roto!
 Dialogue: 0,0:02:16.44,0:02:19.75,Main,Satoshi,0,0,0,,You really like Pikachu a lot, huh?
@@ -340,7 +340,7 @@ Dialogue: 0,0:18:58.91,0:19:00.49,Main,Matsurika,0,0,0,,Oh, fine...
 Dialogue: 0,0:19:00.49,0:19:02.16,Main,Matsurika,0,0,0,,Aburibbon, Pollen Puff!
 Dialogue: 0,0:19:11.68,0:19:12.46,Main,Wrap,0,0,0,,Zubat!
 Dialogue: 0,0:19:12.46,0:19:14.75,Main,Satoshi,0,0,0,,Pikachu, Iron Tail!
-Dialogue: 0,0:19:15.31,0:19:17.47,Main,Satoshi,0,0,0,,Bebenom, Fury Attack!
+Dialogue: 0,0:19:15.31,0:19:17.47,Main,Satoshi,0,0,0,,Bebenom, Chaotic Jabs!
 Dialogue: 0,0:19:31.10,0:19:33.37,Main,Wrap,0,0,0,,It wasn’t {\i1}just{\i0} cute...
 Dialogue: 0,0:19:33.37,0:19:35.61,Main,Them,0,0,0,,{\i1}Remember this, y’all!{\i0}
 Dialogue: 0,0:19:36.62,0:19:39.17,Main,Kaki,0,0,0,,It’s Satoshi, \N so he’ll probably forget.

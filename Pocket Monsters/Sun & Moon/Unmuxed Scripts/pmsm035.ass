@@ -185,7 +185,7 @@ Dialogue: 0,0:06:44.80,0:06:45.67,Main,Satoshi,0,0,0,,What’re those?
 Dialogue: 0,0:06:45.67,0:06:47.34,Main,Mao,0,0,0,,Vegetables?
 Dialogue: 0,0:06:47.34,0:06:49.43,Main,Rotom,0,0,0,,Wrong-roto. \N They’re Pokémon-roto.
 Dialogue: 0,0:06:51.43,0:06:54.47,Main,Rotom,0,0,0,,Karikiri. Grass Sickle Pokémon. \N Grass type.
-Dialogue: 0,0:06:54.47,0:06:58.31,Main,Rotom,0,0,0,,During the day, it naps while \N spreading its leaves to use Synthesis.{This does not match any of its game Dex entries. -Starfish}
+Dialogue: 0,0:06:54.47,0:06:58.31,Main,Rotom,0,0,0,,During the day, it naps while \N spreading its leaves to use Photosynthesis.{This does not match any of its game Dex entries. -Starfish}
 Dialogue: 0,0:06:58.31,0:07:00.02,Main,Satoshi,0,0,0,,Karikiri, huh?
 Dialogue: 0,0:07:00.02,0:07:02.69,Main,Mao,0,0,0,,So they’re all enjoying nap time together.
 Dialogue: 0,0:07:03.40,0:07:04.36,Main,Satoshi,0,0,0,,Let’s see...
@@ -195,7 +195,7 @@ Dialogue: 0,0:07:08.78,0:07:11.82,Main,Satoshi,0,0,0,,Mago Berry... Mago Berry..
 Dialogue: 0,0:07:11.82,0:07:13.32,Main,Satoshi,0,0,0,,There!
 Dialogue: 0,0:07:18.37,0:07:20.50,Main,Rotom,0,0,0,,That’s Karikiri’s Leafage-roto!
 Dialogue: 0,0:07:22.88,0:07:25.75,Main,Satoshi,0,0,0,,W-What’d you have to {\i1}attack{\i0} us for?!
-Dialogue: 0,0:07:26.17,0:07:31.55,Main,Rotom,0,0,0,,Karikiri’s greatest joy in life is \N using Synthesis while napping-roto.
+Dialogue: 0,0:07:26.17,0:07:31.55,Main,Rotom,0,0,0,,Karikiri’s greatest joy in life is \N using Photosynthesis while napping-roto.
 Dialogue: 0,0:07:31.55,0:07:34.14,Main,Rotom,0,0,0,,If they get disturbed doing that, \N they become very angry-roto.
 Dialogue: 0,0:07:34.14,0:07:36.51,Main,Satoshi,0,0,0,,Couldn’t you have \N said that sooner?
 Dialogue: 0,0:07:36.89,0:07:38.97,Main,Mao,0,0,0,,What now? Do we give up.
@@ -327,7 +327,7 @@ Dialogue: 0,0:16:50.69,0:16:52.65,Main,Satoshi,0,0,0,,Mokuroh!
 Dialogue: 0,0:16:54.78,0:16:56.61,Main,Satoshi,0,0,0,,Use Peck on Larantes!
 Dialogue: 0,0:16:59.24,0:17:01.37,Main,Satoshi,0,0,0,,Nyabby, you use \N Ember on Larantes!
 Dialogue: 0,0:17:10.38,0:17:11.38,Main,Mao,0,0,0,,What’s that?
-Dialogue: 0,0:17:11.38,0:17:16.18,Main,Rotom,0,0,0,,Using Synthesis in harsh sunlight \N lets it recover its health-roto!
+Dialogue: 0,0:17:11.38,0:17:16.18,Main,Rotom,0,0,0,,Using Photosynthesis in harsh sunlight \N lets it recover its health-roto!
 Dialogue: 0,0:17:16.18,0:17:17.39,Main,Satoshi,0,0,0,,No way...
 Dialogue: 0,0:17:23.52,0:17:24.48,Main,Satoshi,0,0,0,,Nyabby!
 Dialogue: 0,0:17:24.48,0:17:27.69,Main,Mamane,0,0,0,,Satoshi, you’ll lose at this rate!

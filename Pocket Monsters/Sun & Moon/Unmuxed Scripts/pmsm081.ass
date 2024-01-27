@@ -152,7 +152,7 @@ Dialogue: 0,0:01:30.15,0:01:33.93,Main,Satoshi,0,0,0,,Lucky them... \N They went
 Dialogue: 0,0:01:33.93,0:01:35.40,Main,Kojiro,0,0,0,,Oh, my!
 Dialogue: 0,0:01:35.40,0:01:38.53,Main,Kojiro,0,0,0,,Elecible is coming in for a punch \N from behind Gaogaen!
 Dialogue: 0,0:01:41.23,0:01:43.74,Main,Kojiro,0,0,0,,Gaogaen knocked Elecible back!
-Dialogue: 0,0:01:43.74,0:01:45.12,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:01:43.74,0:01:45.12,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:01:47.12,0:01:48.27,Main,Kojiro,0,0,0,,There it is!
 Dialogue: 0,0:01:48.27,0:01:51.04,Main,Nyarth,0,0,0,,This is how \N they usually win{It’s their usual victory pattern}{”This is where they always win”? Not entirely sure about that phrasing so I decided to go literal just in case -Starfish}, meow!
 Dialogue: 0,0:01:57.51,0:02:00.91,Main,Kojiro,0,0,0,,What’s this? Mad Boobur and \N Booburn interrupt the match!
@@ -334,7 +334,7 @@ Dialogue: 0,0:14:14.75,0:14:16.65,Main,Mad Boobur,0,0,0,,Use Flamethrower!
 Dialogue: 0,0:14:17.42,0:14:19.57,Main,Kukui,0,0,0,,Counter it with Cross Chop!
 Dialogue: 0,0:14:21.80,0:14:23.76,Main,Kojiro,0,0,0,,Their moves clash instantly! {Suggesting “instantly” in place of “immediately”. - Toa}
 Dialogue: 0,0:14:23.76,0:14:25.01,Main,Mad Boobur,0,0,0,,Karate Chop!
-Dialogue: 0,0:14:25.01,0:14:26.22,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:14:25.01,0:14:26.22,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:14:27.19,0:14:30.22,Main,Nyarth,0,0,0,,Both their hits connected \N this time, meow! {Suggesting “Both their hits connected this time, meow!”. - Toa}
 Dialogue: 0,0:14:33.75,0:14:34.77,Main,Kukui,0,0,0,,Royal Satoshi!
 Dialogue: 0,0:14:34.77,0:14:35.52,Main,Satoshi,0,0,0,,Yes!

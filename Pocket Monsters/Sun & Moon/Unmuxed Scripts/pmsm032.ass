@@ -115,7 +115,7 @@ Dialogue: 0,0:01:22.14,0:01:25.64,Main,Lychee,0,0,0,,Today you’ll be using the
 Dialogue: 0,0:01:25.64,0:01:27.55,Main,Satoshi,0,0,0,,Search for treasure?
 Dialogue: 0,0:01:27.55,0:01:28.68,Main,Kukui,0,0,0,,That’s right.
 Dialogue: 0,0:01:28.68,0:01:33.19,Main,Kukui,0,0,0,,The Mooland on this ranch are really good at \N finding things buried in the ground.
-Dialogue: 0,0:01:33.19,0:01:37.57,Main,Lychee,0,0,0,,You might find rare food ingredients, \N stones, or maybe even Fossils!
+Dialogue: 0,0:01:33.19,0:01:37.57,Main,Lychee,0,0,0,,You might find rare food ingredients, \N stones, or maybe even fossils!
 Dialogue: 0,0:01:40.16,0:01:44.25,Main,Lychee,0,0,0,,Will you be able to befriend your Mooland \N and draw out its searching abilities?
 Dialogue: 0,0:01:44.25,0:01:45.78,Main,Lychee,0,0,0,,That’s today’s assignment.
 Dialogue: 0,0:01:45.78,0:01:48.87,Main,Lychee,0,0,0,,And whoever finds \N the greatest treasure, wins!
@@ -227,7 +227,7 @@ Dialogue: 0,0:09:35.77,0:09:37.29,Main,Mamane,0,0,0,,No reaction, huh?
 Dialogue: 0,0:09:39.99,0:09:41.89,Main,Mamane,0,0,0,,I feel like there’s something here.
 Dialogue: 0,0:09:44.40,0:09:47.60,Main,Mamane,0,0,0,,Some treasure in this area \N that’ll net me a high score...
 Dialogue: 0,0:09:48.82,0:09:49.98,Main,Mamane,0,0,0,,A Star Piece?
-Dialogue: 0,0:09:50.70,0:09:53.63,Main,Mamane,0,0,0,,Rare fruits, pretty stones, Fossils... {Searching the index, I can only find MSB(E) and this episode as ones that mentions “fossil" and “fossils". MSB(E) had them lower-cased, while this episode has them upper. Leaving it to your preference. - Toa}
+Dialogue: 0,0:09:50.70,0:09:53.63,Main,Mamane,0,0,0,,Rare fruits, pretty stones, fossils... {Searching the index, I can only find MSB(E) and this episode as ones that mentions “fossil" and “fossils". MSB(E) had them lower-cased, while this episode has them upper. Leaving it to your preference. - Toa}
 Dialogue: 0,0:09:53.63,0:09:54.82,Main,Mamane,0,0,0,,It’s just like Ms. Lychee said!
 Dialogue: 0,0:09:56.49,0:09:57.83,Main,Mamane,0,0,0,,I see.
 Dialogue: 0,0:09:57.83,0:10:01.20,Main,Mamane,0,0,0,,“Three hundred years ago, \N a meteor struck Akala Island,
@@ -261,7 +261,7 @@ Dialogue: 0,0:11:28.38,0:11:30.12,Main,Lilie,0,0,0,,Yes! I shall do my best!
 Dialogue: 0,0:11:30.12,0:11:31.95,Main,Lychee,0,0,0,,Lastly, Kaki.
 Dialogue: 0,0:11:31.95,0:11:32.71,Main,Kaki,0,0,0,,Yes.
 Dialogue: 0,0:11:36.09,0:11:38.21,Main,Satoshi,0,0,0,,What’s that? A pebble?
-Dialogue: 0,0:11:38.21,0:11:41.77,Main,Lychee,0,0,0,,No, this is a Pokémon Fossil.
+Dialogue: 0,0:11:38.21,0:11:41.77,Main,Lychee,0,0,0,,No, this is a Pokémon fossil.
 Dialogue: 0,0:11:41.77,0:11:43.64,Main,Lychee,0,0,0,,Part of a Zugaidos’s head!
 Dialogue: 0,0:11:44.93,0:11:48.14,Main,Lychee,0,0,0,,You get one hundred points! \N You’ve got a strong lead.
 Dialogue: 0,0:11:48.56,0:11:50.02,Main,Kaki,0,0,0,,How’s that, Satoshi?!
@@ -300,8 +300,8 @@ Dialogue: 0,0:14:16.51,0:14:17.54,Main,Suiren,0,0,0,,Mooland?
 Dialogue: 0,0:14:30.47,0:14:32.26,Main,Suiren,0,0,0,,Thank you, Mooland.
 Dialogue: 0,0:14:35.80,0:14:37.90,Main,Suiren,0,0,0,,You want me to get on?
 Dialogue: 0,0:14:46.65,0:14:47.53,Main,Kaki,0,0,0,,Did you find something?
-Dialogue: 0,0:14:54.50,0:14:59.83,Main,Mao,0,0,0,,Mooland, it looks like Fossils will get us \N more points than food will.
-Dialogue: 0,0:15:01.38,0:15:02.79,Main,Mao,0,0,0,,Could it be a Fossil?!
+Dialogue: 0,0:14:54.50,0:14:59.83,Main,Mao,0,0,0,,Mooland, it looks like fossils will get us \N more points than food will.
+Dialogue: 0,0:15:01.38,0:15:02.79,Main,Mao,0,0,0,,Could it be a fossil?!
 Dialogue: 0,0:15:04.79,0:15:07.43,Main,Mao,0,0,0,,There are so many \N delicious-looking fruits!
 Dialogue: 0,0:15:07.43,0:15:10.43,Main,Mao,0,0,0,,I have to say, \N you really are a glutton!
 Dialogue: 0,0:15:13.36,0:15:14.43,Main,Mao,0,0,0,,Huh?
@@ -379,9 +379,9 @@ Dialogue: 0,0:20:18.70,0:20:19.57,Main,Kukui,0,0,0,,Yeah.
 Dialogue: 0,0:20:19.57,0:20:23.56,Main,Kaki,0,0,0,,In that case, I’ll let you \N ride my Lizardon later!
 Dialogue: 0,0:20:23.56,0:20:27.49,Main,Lilie,0,0,0,,I... I think I’ll pass, for now...
 Dialogue: 0,0:20:27.49,0:20:29.08,Main,Lychee,0,0,0,,Well then, next up is Kaki.
-Dialogue: 0,0:20:32.00,0:20:33.22,Main,Satoshi,0,0,0,,Another Fossil!
+Dialogue: 0,0:20:32.00,0:20:33.22,Main,Satoshi,0,0,0,,Another fossil!
 Dialogue: 0,0:20:33.22,0:20:34.58,Main,Mao,0,0,0,,It looks like a plume of some kind.
-Dialogue: 0,0:20:34.58,0:20:37.65,Main,Lychee,0,0,0,,Yes, this is an Archen Fossil.
+Dialogue: 0,0:20:34.58,0:20:37.65,Main,Lychee,0,0,0,,Yes, this is an Archen fossil.
 Dialogue: 0,0:20:37.65,0:20:39.16,Main,Lychee,0,0,0,,Two hundred points.
 Dialogue: 0,0:20:39.16,0:20:40.46,Main,Lychee,0,0,0,,That’s three hundred in total.
 Dialogue: 0,0:20:41.04,0:20:41.84,Main,Kaki,0,0,0,,All right!

@@ -304,13 +304,13 @@ Dialogue: 0,0:11:58.95,0:12:00.19,Main,Kukui,0,0,0,,Grab him, Gaogaen!
 Dialogue: 0,0:12:03.16,0:12:04.03,Main,Satoshi,0,0,0,,Nyabby!
 Dialogue: 0,0:12:05.42,0:12:09.29,Main,Kukui,0,0,0,,Nyabby, why did you \N want Gaogaen to go all out?
 Dialogue: 0,0:12:09.92,0:12:14.17,Main,Kukui,0,0,0,,Are you trying to become stronger \N by battling an opponent far above your level?
-Dialogue: 0,0:12:15.25,0:12:16.42,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:12:15.25,0:12:16.42,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:12:24.84,0:12:27.47,Main,Satoshi,0,0,0,,{\fad(0,1250)}Nyabby!
 Comment: 0,0:12:33.48,0:12:33.48,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:12:34.32,0:12:36.40,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 0,0:12:43.99,0:12:46.25,Main,Satoshi,0,0,0,,Nyabby must be frustrated.
 Dialogue: 0,0:12:46.25,0:12:48.17,Main,Satoshi,0,0,0,,It was over in a single blow, after all.{Um... No it wasn’t? Did everyone just forget that that DD Lariat happened?}
-Dialogue: 0,0:12:48.17,0:12:52.09,Main,Kaki,0,0,0,,That Throat Chop had been \N powered up by Build Up-roto.
+Dialogue: 0,0:12:48.17,0:12:52.09,Main,Kaki,0,0,0,,That Hell Thrust had been \N powered up by Build Up-roto.
 Dialogue: 0,0:12:52.09,0:12:53.62,Main,Suiren,0,0,0,,But he did his best.
 Dialogue: 0,0:12:53.62,0:12:57.88,Main,Kojiro,0,0,0,,He just picked the wrong opponent. \N That was Gaogaen going all out! {Changed pronoun. - Toa}
 Dialogue: 0,0:12:57.88,0:13:00.51,Main,Musashi,0,0,0,,{\i1}One{\i0} loss, and he’s acting like \N it’s the end of the world... {Changed pronoun. - Toa}
@@ -358,7 +358,7 @@ Dialogue: 0,0:16:52.53,0:16:53.90,Main,Satoshi,0,0,0,,Please!
 Dialogue: 0,0:16:53.90,0:16:55.53,Main,Kukui,0,0,0,,Come at me!
 Dialogue: 0,0:16:55.53,0:16:59.54,Main,Kukui,0,0,0,,Time for a super serious \N all-out battle! {Removed comma before linebreak. - Toa}
 Dialogue: 0,0:17:00.04,0:17:02.86,Main,Satoshi,0,0,0,,Let’s go, Nyabby! Fire Fang!
-Dialogue: 0,0:17:04.72,0:17:06.65,Main,Kukui,0,0,0,,Counter with Throat Chop!
+Dialogue: 0,0:17:04.72,0:17:06.65,Main,Kukui,0,0,0,,Counter with Hell Thrust!
 Dialogue: 0,0:17:10.85,0:17:12.01,Main,Kaki,0,0,0,,Already?!
 Dialogue: 0,0:17:12.01,0:17:13.57,Main,Lillie,0,0,0,,Hang in there, Nyabby!
 Dialogue: 0,0:17:15.89,0:17:17.91,Main,Satoshi,0,0,0,,Don’t lose, Nyabby! \N Use Ember!
@@ -401,7 +401,7 @@ Dialogue: 0,0:19:46.37,0:19:47.87,Main,Kukui,0,0,0,,DD Lariat!
 Dialogue: 0,0:19:57.97,0:19:59.07,Main,Satoshi,0,0,0,,How’s that?!
 Dialogue: 0,0:20:00.38,0:20:04.14,Main,Kukui,0,0,0,,So hot! You’re on fire, \N Satoshi! Nyaheat!
 Dialogue: 0,0:20:04.14,0:20:06.30,Main,Kukui,0,0,0,,Gaogaen! Build Up!
-Dialogue: 0,0:20:07.01,0:20:08.27,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:20:07.01,0:20:08.27,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:20:08.27,0:20:10.27,Main,Satoshi,0,0,0,,Nyaheat! Nitro Charge!
 Dialogue: 0,0:20:35.05,0:20:36.21,Main,Satoshi,0,0,0,,Nyaheat!
 Dialogue: 0,0:20:40.06,0:20:42.12,Main,Satoshi,0,0,0,,Hang in there, Nyaheat!

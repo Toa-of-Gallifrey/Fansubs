@@ -229,7 +229,7 @@ Comment: 0,0:10:30.52,0:10:30.52,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:10:31.36,0:10:33.48,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 0,0:10:46.20,0:10:47.83,Main,Jeekyo,0,0,0,,Nyaheat is so quick!
 Dialogue: 0,0:10:47.83,0:10:49.21,Main,Satoshi,0,0,0,,Fire Fang!
-Dialogue: 0,0:10:51.21,0:10:52.33,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:10:51.21,0:10:52.33,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:11:05.56,0:11:07.10,Main,Satoshi,0,0,0,,It really is tough!
 Dialogue: 0,0:11:07.10,0:11:11.10,Main,Jeekyo,0,0,0,,Were they using this first round \N to size each other up, perhaps?
 Dialogue: 0,0:11:11.10,0:11:15.61,Main,Kukui,0,0,0,,Satoshi! \N I could really feel Nyaheat’s power!
@@ -258,7 +258,7 @@ Dialogue: 0,0:13:00.84,0:13:04.17,Main,Kaki,0,0,0,,He won’t get out of \N that
 Dialogue: 0,0:13:04.17,0:13:06.84,Main,Mao,0,0,0,,Him raising his speed \N won’t help here!
 Dialogue: 0,0:13:09.10,0:13:11.97,Main,Kukui,0,0,0,,Let’s see you fight back \N from {\i1}there!{\i0}
 Dialogue: 0,0:13:13.10,0:13:16.10,Main,Jeekyo,0,0,0,,Things seem hopeless for Nyaheat!
-Dialogue: 0,0:13:27.11,0:13:28.78,Main,Kukui,0,0,0,,Throat Chop!
+Dialogue: 0,0:13:27.11,0:13:28.78,Main,Kukui,0,0,0,,Hell Thrust!
 Dialogue: 0,0:13:37.04,0:13:38.38,Main,Satoshi,0,0,0,,Nyaheat!
 Dialogue: 0,0:13:57.56,0:13:59.35,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:13:59.35,0:14:02.07,Main,Satoshi,0,0,0,,That’s right, Nyaheat! \N We can still go on!
@@ -286,7 +286,7 @@ Dialogue: 0,0:16:09.78,0:16:12.90,Main,Jeekyo,0,0,0,,Both fighters use Dynamic F
 Dialogue: 0,0:16:12.90,0:16:19.08,Main,Jeekyo,0,0,0,,Their Z-Moves clash and turn into a massive fireball \N that consumes the battlefield!
 Dialogue: 0,0:16:36.09,0:16:39.01,Main,Satoshi,0,0,0,,Nyaheat! Let’s finish this!
 Dialogue: 0,0:16:39.01,0:16:40.06,Main,Satoshi,0,0,0,,Revenge!
-Dialogue: 0,0:16:42.52,0:16:44.85,Main,Kukui,0,0,0,,Let’s go, Gaogaen! \N Use Throat Chop!
+Dialogue: 0,0:16:42.52,0:16:44.85,Main,Kukui,0,0,0,,Let’s go, Gaogaen! \N Use Hell Thrust!
 Dialogue: 0,0:17:39.99,0:17:42.29,Main,Hala,0,0,0,,Gaogaen is unable to battle!
 Dialogue: 0,0:17:42.29,0:17:47.25,Main,Jeekyo,0,0,0,,Down! Gaogaen is down!
 Dialogue: 0,0:17:47.67,0:17:51.00,Main,Satoshi,0,0,0,,All right, Nyaheat, you did it!

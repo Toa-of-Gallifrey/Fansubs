@@ -129,7 +129,7 @@ Comment: 0,0:24:25.10,0:24:29.77,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,600
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,GREEN NEP TITLE
 Dialogue: 0,0:24:00.50,0:24:26.94,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:26.94,0:24:30.45,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,100)}Next time
-Dialogue: 0,0:24:26.94,0:24:30.45,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,350)}Satoshi Minimizes
+Dialogue: 0,0:24:26.94,0:24:30.45,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,350)}Satoshi Shrinks
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{PokéProblem - Question
 Dialogue: 0,0:00:02.49,0:00:03.89,Main,Mao,0,0,0,,Alola!
@@ -462,8 +462,8 @@ Dialogue: 0,0:24:10.32,0:24:11.83,Main,Kaki,0,0,0,,Though I kinda messed it up t
 Dialogue: 0,0:24:11.83,0:24:13.93,Main,Satoshi,0,0,0,,Well, that’s neat, \N but I want something cooler!
 Dialogue: 0,0:24:13.93,0:24:16.19,Main,Lilie,0,0,0,,Maybe Teleport, like Nebby!
 Dialogue: 0,0:24:16.19,0:24:18.43,Main,Mao,0,0,0,,Or how about Shadow Clones? \N It’d be really helpful!
-Dialogue: 0,0:24:18.43,0:24:19.56,Main,Suiren,0,0,0,,Or Minimize!
+Dialogue: 0,0:24:18.43,0:24:19.56,Main,Suiren,0,0,0,,Or Shrink!
 Dialogue: 0,0:24:19.56,0:24:22.10,Main,Mamane,0,0,0,,That definitely wouldn’t be possible!
 Dialogue: 0,0:24:22.10,0:24:24.76,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
-Dialogue: 0,0:24:24.76,0:24:26.94,Main,Satoshi,0,0,0,,Satoshi Minimizes
+Dialogue: 0,0:24:24.76,0:24:26.94,Main,Satoshi,0,0,0,,Satoshi Shrinks
 Dialogue: 0,0:24:26.94,0:24:28.96,Main,Mamane,0,0,0,,What?! For real?!
