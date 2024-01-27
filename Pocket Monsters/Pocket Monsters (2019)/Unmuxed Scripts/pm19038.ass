@@ -43,7 +43,7 @@ Dialogue: 0,0:00:01.40,0:00:04.98,Main,Narrator,0,0,0,,Satoshi, who aims to batt
 Dialogue: 0,0:00:05.37,0:00:10.11,Main,Narrator,0,0,0,,And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
 Dialogue: 0,0:00:10.11,0:00:15.25,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 0,0:00:22.33,0:00:25.44,Main,Hibana,0,0,0,,Fossils are {\i1}enchanting!{\i0}{Truly, this episode set in Nibi City saw fit to bring back the one character everyone was waiting for... THE RANDOM IDOL CHICK FROM EPISODE 7!!!!!!!!!!!!!!! -Sarcasticfish}
-Dialogue: 0,0:00:25.44,0:00:29.50,Main,Hibana,0,0,0,,The largest-ever Tatetops, \N restored from a Fossil!
+Dialogue: 0,0:00:25.44,0:00:29.50,Main,Hibana,0,0,0,,The largest-ever Tatetops, \N restored from a fossil!
 Dialogue: 0,0:00:29.50,0:00:33.63,Main,Hibana,0,0,0,,All the good little kids, \N come see this {\i1}enchanting{\i0} sight!
 Dialogue: 0,0:00:34.13,0:00:36.31,Main,Satoshi,0,0,0,,The largest-ever...
 Dialogue: 0,0:00:36.31,0:00:37.87,Main,Go,0,0,0,,Tatetops...
@@ -75,7 +75,7 @@ Dialogue: 0,0:03:07.76,0:03:09.91,Main,Go,0,0,0,,Satoshi, it’s a real live Omu
 Dialogue: 0,0:03:07.74,0:03:09.91,Main,Satoshi,0,0,0,,{\an8}Look, Go, a Kabuto!
 Dialogue: 0,0:03:09.91,0:03:11.86,Main,Go,0,0,0,,Whoa, a real Kabuto!
 Dialogue: 0,0:03:09.91,0:03:11.86,Main,Satoshi,0,0,0,,{\an8}Whoa, an Omunite!
-Dialogue: 0,0:03:11.86,0:03:15.13,Main,Go,0,0,0,,Man, I wanna catch {\i1}all{\i0} the \N Fossil Pokémon here!
+Dialogue: 0,0:03:11.86,0:03:15.13,Main,Go,0,0,0,,Man, I wanna catch \N {\i1}all{\i0} the Fossil Pokémon here!
 Dialogue: 0,0:03:15.13,0:03:17.96,Main,Satoshi,0,0,0,,Wait... So where’s the Tatetops?
 Dialogue: 0,0:03:18.56,0:03:20.63,Main,Koharu,0,0,0,,Probably over there.
 Dialogue: 0,0:03:20.63,0:03:27.14,Main,Human being,0,0,0,,The line for the largest-ever Tatetops exhibition \N is closed for the day.
@@ -96,7 +96,7 @@ Dialogue: 0,0:04:00.21,0:04:00.92,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:04:01.09,0:04:03.16,Main,Go,0,0,0,,We’re in!
 Dialogue: 0,0:04:03.16,0:04:04.84,Main,Koharu,0,0,0,,Hey, hang on!{037 NEP (partial)}
 Dialogue: 0,0:04:15.99,0:04:17.90,Main,Musashi,0,0,0,,Look here! \N I got something!
-Dialogue: 0,0:04:18.66,0:04:21.97,Main,Kojiro,0,0,0,,Hmm... I don’t think \N that’s a Pokémon Fossil.
+Dialogue: 0,0:04:18.66,0:04:21.97,Main,Kojiro,0,0,0,,Hmm... I don’t think \N that’s a Pokémon fossil.
 Dialogue: 0,0:04:22.64,0:04:24.10,Main,Musashi,0,0,0,,I’ve had it!
 Dialogue: 0,0:04:24.10,0:04:28.66,Main,Musashi,0,0,0,,Who was the {\i1}genius{\i0} that said \N we could get loads of Fossil Pokémon here?!
 Dialogue: 0,0:04:28.66,0:04:30.04,Main,Nyarth,0,0,0,,You, meow.
@@ -162,7 +162,7 @@ Dialogue: 0,0:07:55.17,0:07:57.41,Main,Satoshi,0,0,0,,But it might not be...
 Dialogue: 0,0:07:57.83,0:07:59.20,Main,Koharu,0,0,0,,Could it be \N a brand-new discovery?!
 Dialogue: 0,0:07:59.20,0:08:02.55,Main,Koharu,0,0,0,,Go, what do you think...?
 Dialogue: 0,0:08:09.26,0:08:10.63,Main,Koharu,0,0,0,,All right...
-Dialogue: 0,0:08:10.63,0:08:13.31,Main,Koharu,0,0,0,,I’ll get the President \N to look at this.
+Dialogue: 0,0:08:10.63,0:08:13.31,Main,Koharu,0,0,0,,I’ll get the president \N to look at this.
 Dialogue: 0,0:08:13.31,0:08:15.16,Main,Satoshi,0,0,0,,I’m coming with you.
 Dialogue: 0,0:08:15.16,0:08:16.21,Main,Koharu,0,0,0,,Thanks.
 Dialogue: 0,0:08:34.77,0:08:37.16,Main,Koharu,0,0,0,,Go, time’s up.
