@@ -28,8 +28,8 @@ Dialogue: 0,0:00:24.48,0:00:25.90,Main,Haru,0,0,0,,Wednesday, \N I trimmed my ey
 Dialogue: 0,0:00:25.90,0:00:28.06,Main,Haru,0,0,0,,Thursday, the curry I spent \N three hours making tasted terrible.
 Dialogue: 0,0:00:28.06,0:00:29.48,Main,Haru,0,0,0,,Friday, I messed up \N a vital presentation.
 Dialogue: 0,0:00:29.48,0:00:32.90,Main,Haru,0,0,0,,And on Sunday, \N I stepped in gum again!
-Dialogue: 0,0:00:35.23,0:00:37.48,Main,Haru,0,0,0,,And because of that,
-Dialogue: 0,0:00:37.48,0:00:39.77,Main,Haru,0,0,0,,I am now here.
+Dialogue: 0,0:00:35.23,0:00:37.48,Main,Haru,0,0,0,,And after all that...
+Dialogue: 0,0:00:37.48,0:00:39.77,Main,Haru,0,0,0,,I find myself here.
 Dialogue: 0,0:00:43.48,0:00:45.81,Main,Human being,0,0,0,,Daddy! Look at the Camome!
 Dialogue: 0,0:00:46.44,0:00:48.94,Main,Human being,0,0,0,,You can see the island!
 Dialogue: 0,0:01:05.56,0:01:07.60,Main,Human being,0,0,0,,Come on, let’s get going!
@@ -69,7 +69,7 @@ Dialogue: 0,0:03:08.94,0:03:11.06,Main,Watanabe,0,0,0,,Okay, that’s enough.
 Dialogue: 0,0:03:11.06,0:03:14.81,Main,Watanabe,0,0,0,,Ootachi, no fighting here, got it?
 Dialogue: 0,0:03:17.81,0:03:20.60,Main,Watanabe,0,0,0,,Let’s get you somewhere \N a little more spacious.
 Dialogue: 0,0:03:22.44,0:03:26.31,Main,Watanabe,0,0,0,,It’s also a concierge’s job \N to keep our guests safe.
-Dialogue: 0,0:03:28.81,0:03:33.81,Main,Watanabe,0,0,0,,Now then, I know you’ve just arrived \N but I’ve got a very important job for you.
+Dialogue: 0,0:03:28.81,0:03:33.81,Main,Watanabe,0,0,0,,Now then, I know you’ve just arrived, \N but I’ve got a very important job for you.
 Dialogue: 0,0:03:33.81,0:03:35.81,Main,Haru,0,0,0,,R-Right!
 Dialogue: 0,0:03:35.81,0:03:41.15,Main,Watanabe,0,0,0,,I’d like for you \N to spend the day as a guest.
 Dialogue: 0,0:03:41.15,0:03:42.81,Main,Haru,0,0,0,,A guest?
@@ -157,7 +157,7 @@ Dialogue: 0,0:09:29.02,0:09:29.52,Main,Watanabe,0,0,0,,Yes.
 Dialogue: 0,0:09:30.10,0:09:31.56,Main,Watanabe,0,0,0,,Please come right this way.
 Dialogue: 0,0:09:31.56,0:09:33.85,Main,Haru,0,0,0,,What? From you, Watanabe-san?
 Dialogue: 0,0:09:33.85,0:09:34.94,Main,Watanabe,0,0,0,,That’s right.
-Dialogue: 0,0:09:34.94,0:09:39.44,Main,Watanabe,0,0,0,,I’m so skilled I can make \N any Pokémon fall asleep with a touch.
+Dialogue: 0,0:09:34.94,0:09:39.44,Main,Watanabe,0,0,0,,I’m skilled enough to make \N any Pokémon fall asleep with but a touch.
 Dialogue: 0,0:09:41.06,0:09:43.52,Main,Haru,0,0,0,,Yeah, but maybe... I don’t know...
 Dialogue: 0,0:09:43.52,0:09:45.35,Main,Watanabe,0,0,0,,Just leave it to me!
 Dialogue: 0,0:09:53.35,0:09:58.56,Main,Haru,0,0,0,,Um... I met some of the other staff...
@@ -178,7 +178,7 @@ Dialogue: 0,0:11:14.40,0:11:16.40,Main,Haru,0,0,0,,Uh... Sure.
 Dialogue: 0,0:11:16.77,0:11:18.02,Main,Watanabe,0,0,0,,So, then...
 Dialogue: 0,0:11:18.02,0:11:21.23,Main,Watanabe,0,0,0,,What did you think? \N Could you give me your impressions?
 Dialogue: 0,0:11:22.35,0:11:23.31,Main,Haru,0,0,0,,Right here!
-Dialogue: 0,0:11:23.94,0:11:25.23,Main,Watanabe,0,0,0,,What’s this?
+Dialogue: 0,0:11:23.94,0:11:25.23,Main,Watanabe,0,0,0,,What is this?
 Dialogue: 0,0:11:25.60,0:11:30.85,Main,Haru,0,0,0,,Right! I built a report on my activities yesterday \N and drafted a personal work plan!
 Dialogue: 0,0:11:30.85,0:11:34.02,Main,Haru,0,0,0,,The Pokémon Resort prides itself \N in its luxurious atmosph—
 Dialogue: 0,0:11:34.02,0:11:35.73,Main,Watanabe,0,0,0,,Hold on.
@@ -199,7 +199,7 @@ Dialogue: 0,0:12:44.27,0:12:47.31,Main,Haru,0,0,0,,I’ve just had nothing but \
 Dialogue: 0,0:12:47.31,0:12:50.10,Main,Haru,0,0,0,,And it made me wonder, \N what even {\i1}is{\i0} my life?!
 Dialogue: 0,0:12:50.10,0:12:54.98,Main,Haru,0,0,0,,But I’ve been having so much fun that \N all those gloomy feelings just faded away!
 Dialogue: 0,0:12:54.98,0:12:57.10,Main,Haru,0,0,0,,Oh... I’m sorry!
-Dialogue: 0,0:12:57.10,0:12:59.94,Main,Haru,0,0,0,,This is supposed to be my job, \N and here I talk about it like a little kid...
+Dialogue: 0,0:12:57.10,0:12:59.94,Main,Haru,0,0,0,,This is supposed to be my job, \N and here I am going on about it like a kid...
 Dialogue: 0,0:13:00.52,0:13:03.23,Main,Watanabe,0,0,0,,No, that is exactly \N what I wanted to hear.
 Dialogue: 0,0:13:03.23,0:13:03.69,Main,Haru,0,0,0,,Huh?
 Dialogue: 0,0:13:04.52,0:13:06.94,Main,Watanabe,0,0,0,,As long as you understand that, \N you’ll do just fine.
