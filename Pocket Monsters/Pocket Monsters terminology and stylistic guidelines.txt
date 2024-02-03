@@ -157,7 +157,7 @@ eragami エラがみ (Fishious Rend) - Jaw Bite
 ereki booru エレキボール (Electro Ball) - Electro Ball
 ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
 ereki netto エレキネット (Electroweb) - Electroweb
-erekuturo biimu エレクトロビーム (Electro Shot) - # TBD #
+erekutoro biimu エレクトロビーム (Electro Shot) - # TBD #
 fasuto gaado ファストガード (Quick Guard) - # TBD #
 fearii rokku フェアリーロック (Fairy Lock) - Fairy Lock
 feinto フェイント (Feint) - Feint
@@ -2173,8 +2173,8 @@ POKÉMON NAMES
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
 0922 パモット 
 0923 パーモット 
-0924 ワッカネズミ Wakkanezumi
-0925 イッカネズミ 
+0924 ワッカネズミ Wakkanezumi - カップルポケモン Couple Pokémon
+0925 イッカネズミ Ikkanezumi - ファミリーポケモン Family Pokémon
 0926 パピモッチ Puppymocchi - こいぬポケモン Puppy Pokémon
 0927 バウッツェル
 0928 ミニーブ Minive - オリーブポケモン Olive Pokémon
