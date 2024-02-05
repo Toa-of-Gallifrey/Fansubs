@@ -1524,102 +1524,102 @@ POKÉMON NAMES
 0272 ルンパッパ Runpappa - のうてんきポケモン Carefree Pokémon
 0273 タネボー 
 0274 コノハナ 
-0275 ダーテング Dirtengu
-0276 スバメ Subame
-0277 オオスバメ Ohsubame
-0278 キャモメ Camome
-0279 ペリッパー Pelipper
+0275 ダーテング Dirtengu - よこしまポケモン 
+0276 スバメ Subame - こツバメポケモン 
+0277 オオスバメ Ohsubame - ツバメポケモン 
+0278 キャモメ Camome - うみねこポケモン 
+0279 ペリッパー Pelipper - みずどりポケモン Water Bird Pokémon
 0280 ラルトス 
 0281 キルリア 
-0282 サーナイト Sirknight
-0283 アメタマ Ametama
-0284 アメモース Amemoth
+0282 サーナイト Sirknight - ほうようポケモン 
+0283 アメタマ Ametama - あめんぼポケモン Pond Skater Pokémon
+0284 アメモース Amemoth - めだまポケモン 
 0285 キノココ Kinokoko - きのこポケモン Mushroom Pokémon
 0286 キノガッサ 
 0287 ナマケロ Namakero - なまけものポケモン Slacker Pokémon
-0288 ヤルキモノ Yarukimono
+0288 ヤルキモノ Yarukimono - あばれザルポケモン 
 0289 ケッキング Kekking - ものぐさポケモン Lazy Pokémon
-0290 ツチニン Tsuchinin
+0290 ツチニン Tsuchinin - したづみポケモン Trainee Pokémon
 0291 テッカニン Tekkanin - しのびポケモン Shinobi Pokémon
 0292 ヌケニン Nukenin - ぬけがらポケモン Shed Shell Pokémon
 0293 ゴニョニョ Gonyonyo - ささやきポケモン Whisper Pokémon
 0294 ドゴーム Dogomb - おおごえポケモン Loud Voice Pokémon
 0295 バクオング 
 0296 マクノシタ 
-0297 ハリテヤマ Hariteyama
-0298 ルリリ Ruriri
+0297 ハリテヤマ Hariteyama - つっぱりポケモン Arm Thrust Pokémon
+0298 ルリリ Ruriri - みずたまポケモン 
 0299 ノズパス Nosepass - コンパスポケモン Compass Pokémon
-0300 エネコ Eneko
+0300 エネコ Eneko - こねこポケモン 
 0301 エネコロロ 
 0302 ヤミラミ Yamirami - くらやみポケモン Darkness Pokémon
-0303 クチート Kucheat
-0304 ココドラ Kokodra
-0305 コドラ Kodra
-0306 ボスゴドラ Bossgodra
-0307 アサナン Asanan
-0308 チャーレム Charem
+0303 クチート Kucheat - あざむきポケモン 
+0304 ココドラ Kokodra - てつヨロイポケモン Iron Armor Pokémon
+0305 コドラ Kodra - てつヨロイポケモン Iron Armor Pokémon
+0306 ボスゴドラ Bossgodra - てつヨロイポケモン Iron Armor Pokémon
+0307 アサナン Asanan - めいそうポケモン 
+0308 チャーレム Charem - めいそうポケモン 
 0309 ラクライ 
 0310 ライボルト 
-0311 プラスル Plusle
-0312 マイナン Minun
+0311 プラスル Plusle - おうえんポケモン Cheering Pokémon
+0312 マイナン Minun - おうえんポケモン Cheering Pokémon
 0313 バルビート 
 0314 イルミーゼ 
-0315 ロゼリア Roselia
-0316 ゴクリン Gokurin
-0317 マルノーム Marunomu
-0318 キバニア Kibanha
+0315 ロゼリア Roselia - いばらポケモン 
+0316 ゴクリン Gokurin - いぶくろポケモン 
+0317 マルノーム Marunomu - どくぶくろポケモン 
+0318 キバニア Kibanha - どうもうポケモン Savage Pokémon
 0319 サメハダー Samehada - きょうぼうポケモン Brutal Pokémon
-0320 ホエルコ Whaleko
-0321 ホエルオー Whaleoh
-0322 ドンメル 
-0323 バクーダ Bakuda
+0320 ホエルコ Whaleko - たまくじらポケモン 
+0321 ホエルオー Whaleoh - うきくじらポケモン Float Whale Pokémon
+0322 ドンメル Donmel - どんかんポケモン 
+0323 バクーダ Bakuda - ふんかポケモン 
 0324 コータス Cortoise - せきたんポケモン Coal Pokémon
-0325 バネブー Baneboo
+0325 バネブー Baneboo - とびはねポケモン
 0326 ブーピッグ 
 0327 パッチール 
-0328 ナックラー Nuckrar
-0329 ビブラーバ Vibrava
-0330 フライゴン Flygon
+0328 ナックラー Nuckrar - ありじごくポケモン Ant Pit Pokémon
+0329 ビブラーバ Vibrava - しんどうポケモン Vibration Pokémon
+0330 フライゴン Flygon - せいれいポケモン Spirit Pokémon
 0331 サボネア 
 0332 ノクタス 
-0333 チルット 
-0334 チルタリス Tyltalis
-0335 ザングース Zangoose
-0336 ハブネーク Habunake
-0337 ルナトーン Lunatone
-0338 ソルロック Solrock
+0333 チルット Tyltto - わたどりポケモン Cotton Bird Pokémon
+0334 チルタリス Tyltalis - ハミングポケモン Humming Pokémon
+0335 ザングース Zangoose - ネコイタチポケモン 
+0336 ハブネーク Habunake - キバへびポケモン 
+0337 ルナトーン Lunatone - いんせきポケモン Meteorite Pokémon
+0338 ソルロック Solrock - いんせきポケモン Meteorite Pokémon
 0339 ドジョッチ 
-0340 ナマズン Namazun
-0341 ヘイガニ Heigani
-0342 シザリガー Scizarigar
+0340 ナマズン Namazun - ひげうおポケモン 
+0341 ヘイガニ Heigani - ごろつきポケモン 
+0342 シザリガー Scizarigar - ならずものポケモン Rogue Pokémon
 0343 ヤジロン 
 0344 ネンドール 
 0345 リリーラ 
 0346 ユレイドル Yuradle - いわつぼポケモン Rock Crevice Pokémon
-0347 アノプス Anoph
-0348 アーマルド Armaldo
+0347 アノプス Anopth - むかしエビポケモン 
+0348 アーマルド Armaldo - かっちゅうポケモン Plate Pokémon
 0349 ヒンバス Hinbass - さかなポケモン Fish Pokémon
 0350 ミロカロス Milokaross - いつくしみポケモン Tender Pokémon
-0351 ポワルン Powarun
+0351 ポワルン Powarun - てんきポケモン Weather Pokémon
 0352 カクレオン Kakuleon - いろへんげポケモン Color Swap Pokémon
-0353 カゲボウズ Kagebouzu
-0354 ジュペッタ Jupetta
-0355 ヨマワル Yomawaru
-0356 サマヨール Samayouru
-0357 トロピウス Tropius
+0353 カゲボウズ Kagebouzu - にんぎょうポケモン 
+0354 ジュペッタ Jupetta - ぬいぐるみポケモン Plush Doll Pokémon
+0355 ヨマワル Yomawaru - おむかえポケモン 
+0356 サマヨール Samayouru - てまねきポケモン Beckon Pokémon
+0357 トロピウス Tropius - フルーツポケモン Fruit Pokémon
 0358 チリーン 
-0359 アブソル Absol
-0360 ソーナノ Sonano
-0361 ユキワラシ Yukiwarashi
-0362 オニゴーリ Onigori
-0363 タマザラシ Tamazarashi
+0359 アブソル Absol - わざわいポケモン Disaster Pokémon
+0360 ソーナノ Sonano - ほがらかポケモン 
+0361 ユキワラシ Yukiwarashi - ゆきかさポケモン Snow Hat Pokémon
+0362 オニゴーリ Onigohri - がんめんポケモン Face Pokémon
+0363 タマザラシ Tamazarashi - てたたきポケモン 
 0364 トドグラー 
-0365 トドゼルガ 
-0366 パールル 
-0367 ハンテール Huntail
-0368 サクラビス Sakurabyss
-0369 ジーランス Jilanth
-0370 ラブカス Lovecus
+0365 トドゼルガ Todoserga - こおりわりポケモン 
+0366 パールル Pearlulu - 2まいがいポケモン 
+0367 ハンテール Huntail - しんかいポケモン Deep Sea Pokémon
+0368 サクラビス Sakurabyss - なんかいポケモン South Sea Pokémon
+0369 ジーランス Jilanth - ちょうじゅポケモン 
+0370 ラブカス Lovecus - ランデブーポケモン Rendezvous Pokémon
 0371 タツベイ 
 0372 コモルー Komoru - にんたいポケモン 
 0373 ボーマンダ Bohmander - ドラゴンポケモン Dragon Pokémon
@@ -1704,7 +1704,7 @@ POKÉMON NAMES
 0452 ドラピオン Drapion - ばけさそりポケモン Monster Scorpion Pokémon
 0453 グレッグル Gureggru - どくづきポケモン Poison Jab Pokémon
 0454 ドクロッグ Dokurog - どくづきポケモン Poison Jab Pokémon
-0455 マスキッパ 
+0455 マスキッパ Muscippa - むしとりポケモン 
 0456 ケイコウオ Keikouo - はねうおポケモン 
 0457 ネオラント Neolant - ネオンポケモン Neon Pokémon
 0458 タマンタ Tamanta - カイトポケモン Kite Pokémon
@@ -1756,125 +1756,125 @@ POKÉMON NAMES
 0504 ミネズミ 
 0505 ミルホッグ Miruhog - けいかいポケモン 
 0506 ヨーテリー Yorterrie - こいぬポケモン Puppy Pokémon
-0507 ハーデリア Herderrie
-0508 ムーランド Mooland
-0509 チョロネコ Choroneko
-0510 レパルダス Leopardas
-0511 ヤナップ Yanape
+0507 ハーデリア Herderrie - ちゅうけんポケモン 
+0508 ムーランド Mooland - かんだいポケモン Big-Hearted Pokémon
+0509 チョロネコ Choroneko - しょうわるポケモン Devious Pokémon
+0510 レパルダス Leopardas - れいこくポケモン 
+0511 ヤナップ Yanape - くさざるポケモン 
 0512 ヤナッキー 
-0513 バオップ Baope
+0513 バオップ Baope - こうおんポケモン 
 0514 バオッキー 
-0515 ヒヤップ Hiyape
+0515 ヒヤップ Hiyape - みずかけポケモン 
 0516 ヒヤッキー 
-0517 ムンナ Munna
+0517 ムンナ Munna - ゆめくいポケモン 
 0518 ムシャーナ 
-0519 マメパト Mamepato
+0519 マメパト Mamepato - こばとポケモン 
 0520 ハトーボー 
 0521 ケンホロウ 
-0522 シママ Shimama
+0522 シママ Shimama - たいでんポケモン 
 0523 ゼブライカ 
-0524 ダンゴロ Dangoro
-0525 ガントル Gantle
-0526 ギガイアス Gigaiath
-0527 コロモリ Koromori
+0524 ダンゴロ Dangoro - マントルポケモン Mantle Pokémon
+0525 ガントル Gantle - こうせきポケモン Ore Pokémon
+0526 ギガイアス Gigaiath - こうあつポケモン 
+0527 コロモリ Koromori - こうもりポケモン 
 0528 ココロモリ 
 0529 モグリュー Mogurew - もぐらポケモン Mole Pokémon
 0530 ドリュウズ Doryuzu - ちていポケモン Subterrene Pokémon
-0531 タブンネ Tabunne
+0531 タブンネ Tabunne - ヒヤリングポケモン 
 0532 ドッコラー Dokkorar - きんこつポケモン Muscular Pokémon
 0533 ドテッコツ Dotekkotsu - きんこつポケモン Muscular Pokémon
 0534 ローブシン Roubushin - きんこつポケモン Muscular Pokémon
 0535 オタマロ 
-0536 ガマガル Gamagaru
-0537 ガマゲロゲ Gamageroge
-0538 ナゲキ Nageki
-0539 ダゲキ Dageki
+0536 ガマガル Gamagaru - しんどうポケモン Vibration Pokémon
+0537 ガマゲロゲ Gamageroge - しんどうポケモン Vibration Pokémon
+0538 ナゲキ Nageki - じゅうどうポケモン Judo Pokémon
+0539 ダゲキ Dageki - からてポケモン Karate Pokémon
 0540 クルミル 
 0541 クルマユ 
-0542 ハハコモリ Hahakomori
-0543 フシデ Fushide
+0542 ハハコモリ Hahakomori - こそだてポケモン Nurturing Pokémon
+0543 フシデ Fushide - ムカデポケモン Centipede Pokémon
 0544 ホイーガ 
-0545 ペンドラー Pendrar
-0546 モンメン Monmen
-0547 エルフーン Elfoon
+0545 ペンドラー Pendrar - メガムカデポケモン Mega Centipede Pokémon
+0546 モンメン Monmen - わたたまポケモン 
+0547 エルフーン Elfoon - かぜかくれポケモン 
 0548 チュリネ 
-0549 ドレディア Dredear
+0549 ドレディア Dredear - はなかざりポケモン Flowering Pokémon --- Hisuian Form - スピンポケモン 
 0550 バスラオ 
 0551 メグロコ Meguroco - さばくワニポケモン Desert Croc Pokémon
 0552 ワルビル Waruvile - さばくワニポケモン Desert Croc Pokémon
 0553 ワルビアル Waruvial - いかくポケモン Intimidation Pokémon
-0554 ダルマッカ Darumakka
-0555 ヒヒダルマ Hihidaruma
+0554 ダルマッカ Darumakka - だるまポケモン 
+0555 ヒヒダルマ Hihidaruma - えんじょうポケモン Blazing Pokémon
 0556 マラカッチ 
-0557 イシズマイ Ishizumai
-0558 イワパレス Iwapalace
+0557 イシズマイ Ishizumai - いしやどポケモン 
+0558 イワパレス Iwapalace - いわやどポケモン 
 0559 ズルッグ 
 0560 ズルズキン 
-0561 シンボラー Symboler
-0562 デスマス Deathmas
-0563 デスカーン Deathkan
-0564 プロトーガ Protoga
-0565 アバゴーラ Abagoura
-0566 アーケン Archen
-0567 アーケオス Archeos
-0568 ヤブクロン Yabukuron
-0569 ダストダス Dustdas
-0570 ゾロア Zoroa
-0571 ゾロアーク Zoroark
-0572 チラーミィ Chillarmy
+0561 シンボラー Symboler - とりもどきポケモン 
+0562 デスマス Deathmas - たましいポケモン Soul Pokémon
+0563 デスカーン Deathkan - かんおけポケモン 
+0564 プロトーガ Protoga - こだいがめポケモン 
+0565 アバゴーラ Abagoura - こだいがめポケモン 
+0566 アーケン Archen - さいこどりポケモン 
+0567 アーケオス Archeos - さいこどりポケモン 
+0568 ヤブクロン Yabukuron - ゴミぶくろポケモン 
+0569 ダストダス Dustdas - ゴミすてばポケモン 
+0570 ゾロア Zoroa - わるぎつねポケモン  - Hisuian Form - うらみぎつねポケモン 
+0571 ゾロアーク Zoroark - ばけぎつねポケモン Illusion Fox - Hisuian Form - のろいぎつねポケモン 
+0572 チラーミィ Chillarmy - チンチラポケモン Chinchilla Pokémon
 0573 チラチーノ 
-0574 ゴチム Gothim
+0574 ゴチム Gothim - ぎょうしポケモン 
 0575 ゴチミル 
 0576 ゴチルゼル 
 0577 ユニラン 
 0578 ダブラン 
 0579 ランクルス 
 0580 コアルヒー 
-0581 スワンナ Swanna
-0582 バニプッチ Vanipetit
-0583 バニリッチ Vanirich
+0581 スワンナ Swanna - しらとりポケモン 
+0582 バニプッチ Vanipetit - しんせつポケモン Fresh Snow Pokémon
+0583 バニリッチ Vanirich - ひょうせつポケモン 
 0584 バイバニラ 
 0585 シキジカ 
 0586 メブキジカ 
-0587 エモンガ Emonga
+0587 エモンガ Emonga - モモンガポケモン 
 0588 カブルモ 
-0589 シュバルゴ Chevargo
+0589 シュバルゴ Chevargo - きへいポケモン 
 0590 タマゲタケ Tamagetake - きのこポケモン Kinoko Pokémon
 0591 モロバレル Morobareru - きのこポケモン Kinoko Pokémon
-0592 プルリル Pururill
+0592 プルリル Pururill - ふゆうポケモン 
 0593 ブルンゲル 
-0594 ママンボウ Mamanbou
+0594 ママンボウ Mamanbou - かいほうポケモン Caring Pokémon
 0595 バチュル 
-0596 デンチュラ Dentula
+0596 デンチュラ Dentula - でんきグモポケモン 
 0597 テッシード 
-0598 ナットレイ Nutrey
-0599 ギアル Gear
-0600 ギギアル Gegear
-0601 ギギギアル Gegegear
+0598 ナットレイ Nutrey - とげだまポケモン Thorn Pod Pokémon
+0599 ギアル Gear - はぐるまポケモン 
+0600 ギギアル Gegear - はぐるまポケモン 
+0601 ギギギアル Gegegear - はぐるまポケモン 
 0602 シビシラス 
 0603 シビビール 
-0604 シビルドン Shibirudon
-0605 リグレー Ligray
-0606 オーベム Ohbem
+0604 シビルドン Shibirudon - でんきうおポケモン 
+0605 リグレー Ligray - ブレインポケモン Brain Pokémon
+0606 オーベム Ohbem - ブレインポケモン Brain Pokémon
 0607 ヒトモシ Hitomoshi - ろうそくポケモン Candle Pokémon
-0608 ランプラー Lampler
+0608 ランプラー Lampler - ランプポケモン Lamp Pokémon
 0609 シャンデラ 
-0610 キバゴ Kibago
+0610 キバゴ Kibago - キバポケモン 
 0611 オノンド 
-0612 オノノクス Ononox
-0613 クマシュン Kumashun
-0614 ツンベアー Tunbear
+0612 オノノクス Ononox - あごオノポケモン Axe Jaw Pokémon
+0613 クマシュン Kumashun - ひょうけつポケモン 
+0614 ツンベアー Tunbear - とうけつポケモン Freezing Pokémon
 0615 フリージオ 
-0616 チョボマキ Chobomaki
-0617 アギルダー Agilder
-0618 マッギョ Maggyo
+0616 チョボマキ Chobomaki - マイマイポケモン 
+0617 アギルダー Agilder - からぬけポケモン 
+0618 マッギョ Maggyo - トラップポケモン Trap Pokémon
 0619 コジョフー 
-0620 コジョンド Kojondo
-0621 クリムガン Crimgan
+0620 コジョンド Kojondo - ぶじゅつポケモン Martial Arts Pokémon
+0621 クリムガン Crimgan - ほらあなポケモン Cave Pokémon
 0622 ゴビット 
-0623 ゴルーグ Golugh
+0623 ゴルーグ Golugh - ゴーレムポケモン Golem Pokémon
 0624 コマタナ 
-0625 キリキザン Kirikizan
+0625 キリキザン Kirikizan - とうじんポケモン  
 0626 バッフロン 
 0627 ワシボン Washibon - ヒナわしポケモン 
 0628 ウォーグル Warrgle - ゆうもうポケモン Valiant Pokémon --- Hisuian Form - おたけびポケモン 
@@ -1995,70 +1995,70 @@ POKÉMON NAMES
 0743 アブリボン Aburibbon - ツリアブポケモン Bee Fly Pokémon
 0744 イワンコ Iwanko - こいぬポケモン Puppy Pokémon
 0745 ルガルガン Lugarugan - オオカミポケモン Wolf Pokémon
-0746 ヨワシ Yowashi
-0747 ヒドイデ Hidoide
-0748 ドヒドイデ Dohidoide
-0749 ドロバンコ Dorobanko
-0750 バンバドロ Banbadoro
-0751 シズクモ Shizukumo
-0752 オニシズクモ Onishizukumo
-0753 カリキリ Karikiri
-0754 ラランテス Larantes
-0755 ネマシュ Nemush
-0756 マシェード Mushade
-0757 ヤトウモリ Yatoumori
-0758 エンニュート Ennewt
-0759 ヌイコグマ Nuikoguma
-0760 キテルグマ Kiteruguma
-0761 アマカジ Amakaji
-0762 アママイコ Amamaiko
-0763 アマージョ Amajo
-0764 キュワワー Cuwawa
-0765 ヤレユータン Yareyutan
-0766 ナゲツケサル Nagetsukesaru
-0767 コソクムシ Kosokumushi
-0768 グソクムシャ Gusokumusha
-0769 スナバァ Sunaba
-0770 シロデスナ Shirodeathna
-0771 ナマコブシ Namakobushi
-0772 タイプ：ヌル Type: Null
-0773 シルヴァディ Silvuddy
-0774 メテノ Meteno
-0775 ネッコアラ Nekkoala
-0776 バクガメス Bakugames
-0777 トゲデマル Togedemaru
-0778 ミミッキュ Mimikkyu
-0779 ハギギシリ Hagigishiri
-0780 ジジーロン Jijilong
-0781 ダダリン Dadarin
-0782 ジャラコ Jarako
-0783 ジャランゴ Jarango
-0784 ジャラランガ Jararanga
-0785 カプ・コケコ Kapu-Kokeko
-0786 カプ・テテフ Kapu-Tetefu
-0787 カプ・ブルル Kapu-Bulul
-0788 カプ・レヒレ Kapu-Rehire
-0789 コスモッグ Cosmog
-0790 コスモウム Cosmovum
-0791 ソルガレオ Solgaleo
-0792 ルナアーラ Lunala
-0793 ウツロイド Utsuroid
-0794 マッシブーン Massivoon
-0795 フェローチェ Pheroache
-0796 デンジュモク Denjumoku
-0797 テッカグヤ Tekkaguya
-0798 カミツルギ Kamitsurugi
-0799 アクジキング Akujiking
-0800 ネクロズマ Necrozma
-0801 マギアナ Magearna
-0802 マーシャドー Marshadow
-0803 ベベノム Bebenom
-0804 アーゴヨン Agoyon
-0805 ツンデツンデ Tsundetsunde
-0806 ズガドーン Zugadon
-0807 ゼラオラ Zeraora
-0808 メルタン Meltan
-0809 メルメタル Melmetal
+0746 ヨワシ Yowashi - こざかなポケモン Small Fry Pokémon
+0747 ヒドイデ Hidoide - ヒトデナシポケモン Brutal Star Pokémon
+0748 ドヒドイデ Dohidoide - ヒトデナシポケモン Brutal Star Pokémon
+0749 ドロバンコ Dorobanko - うさぎうまポケモン Donkey Pokémon
+0750 バンバドロ Banbadoro - ばんばポケモン Draft Horse Pokémon
+0751 シズクモ Shizukumo - すいほうポケモン Water Bubble Pokémon
+0752 オニシズクモ Onishizukumo - すいほうポケモン Water Bubble Pokémon
+0753 カリキリ Karikiri - かまくさポケモン Sickle Grass Pokémon
+0754 ラランテス Larantes - はなかまポケモン Flower Sickle Pokémon
+0755 ネマシュ Nemush - はっこうポケモン Illuminating Pokémon
+0756 マシェード Mushade - はっこうポケモン Illuminating Pokémon
+0757 ヤトウモリ Yatoumori - どくトカゲポケモン Poison Lizard Pokémon
+0758 エンニュート Ennewt - どくトカゲポケモン Poison Lizard Pokémon
+0759 ヌイコグマ Nuikoguma - じたばたポケモン Flailing Pokémon
+0760 キテルグマ Kiteruguma - ごうわんポケモン Strong Arm Pokémon
+0761 アマカジ Amakaji - フルーツポケモン Fruit Pokémon
+0762 アママイコ Amamaiko - フルーツポケモン Fruit Pokémon
+0763 アマージョ Amajo - フルーツポケモン Fruit Pokémon
+0764 キュワワー Cuwawa - はなつみポケモン Flower Picker Pokémon
+0765 ヤレユータン Yareyutan - けんじゃポケモン Sage Pokémon
+0766 ナゲツケサル Nagetsukesaru - れんけいポケモン Teamwork Pokémon
+0767 コソクムシ Kosokumushi - そうこうポケモン Hightail Pokémon
+0768 グソクムシャ Gusokumusha - そうこうポケモン Platemail Pokémon
+0769 スナバァ Sunaba - すなやまポケモン Sand Heap Pokémon
+0770 シロデスナ Shirodeathna - すなのしろポケモン Sand Castle Pokémon
+0771 ナマコブシ Namakobushi - なまこポケモン Sea Cucumber Pokémon
+0772 タイプ：ヌル Type: Null - じんこうポケモン 
+0773 シルヴァディ Silvuddy - じんこうポケモン 
+0774 メテノ Meteno - ながれぼしポケモン Meteor Pokémon
+0775 ネッコアラ Nekkoala - ゆめうつつポケモン Drowsing Pokémon
+0776 バクガメス Bakugames - ばくはつがめポケモン 
+0777 トゲデマル Togedemaru - まるまりポケモン Roly-Poly Pokémon
+0778 ミミッキュ Mimikkyu - ばけのかわポケモン Disguise Pokémon
+0779 ハギギシリ Hagigishiri - はぎしりポケモン Bruxism Pokémon
+0780 ジジーロン Jijilong - ゆうゆうポケモン Placid Pokémon
+0781 ダダリン Dadarin - もくずポケモン Sea Creeper Pokémon
+0782 ジャラコ Jarako - うろこポケモン 
+0783 ジャランゴ Jarango - うろこポケモン 
+0784 ジャラランガ Jararanga - うろこポケモン 
+0785 カプ・コケコ Kapu-Kokeko - とちがみポケモン Land God Pokémon
+0786 カプ・テテフ Kapu-Tetefu - とちがみポケモン Land God Pokémon
+0787 カプ・ブルル Kapu-Bulul - とちがみポケモン Land God Pokémon
+0788 カプ・レヒレ Kapu-Rehire - とちがみポケモン Land God Pokémon
+0789 コスモッグ Cosmog - せいうんポケモン 
+0790 コスモウム Cosmovum - げんしせいポケモン 
+0791 ソルガレオ Solgaleo - にちりんポケモン Sunne Pokémon
+0792 ルナアーラ Lunala - がちりんポケモン Moone Pokémon
+0793 ウツロイド Utsuroid - きせいポケモン 
+0794 マッシブーン Massivoon - ぼうちょうポケモン Swollen Pokémon
+0795 フェローチェ Pheroache - えんびポケモン Sensual Pokémon
+0796 デンジュモク Denjumoku - でんしょくポケモン Glowing Pokémon
+0797 テッカグヤ Tekkaguya - うちあげポケモン Launch Pokémon
+0798 カミツルギ Kamitsurugi - ばっとうポケモン Drawn Sword Pokémon
+0799 アクジキング Akujiking - あくじきポケモン Junkivore Pokémon
+0800 ネクロズマ Necrozma - プリズムポケモン Prism Pokémon
+0801 マギアナ Magearna - じんぞうポケモン Artificial Pokémon
+0802 マーシャドー Marshadow - かげすみポケモン 
+0803 ベベノム Bebenom - どくばりポケモン Poison Needle Pokémon
+0804 アーゴヨン Agoyon - どくばりポケモン Poison Needle Pokémon
+0805 ツンデツンデ Tsundetsunde - いしがきポケモン Stone Wall Pokémon
+0806 ズガドーン Zugadon - はなびポケモン Fireworks Pokémon
+0807 ゼラオラ Zeraora - じんらいポケモン 
+0808 メルタン Meltan - ナットポケモン Hex Nut Pokémon
+0809 メルメタル Melmetal - ナットポケモン Hex Nut Pokémon
 0810 サルノリ Sarunori - こざるポケモン Chimp Pokémon
 0811 バチンキー Bachinkey - ビートポケモン Beat Pokémon
 0812 ゴリランダー Gorillander - ドラマーポケモン Drummer Pokémon
