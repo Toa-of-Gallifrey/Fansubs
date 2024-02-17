@@ -2167,7 +2167,7 @@ POKÉMON NAMES
 0915 グルトン Gourton - ぶたポケモン Hog Pokémon
 0916 パフュートン Perfuton - ぶたポケモン Hog Pokémon
 0917 タマンチュラ 
-0918 ワナイダー 
+0918 ワナイダー Wanaider - トラップポケモン Trap Pokémon
 0919 マメバッタ 
 0920 エクスレッグ 
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
@@ -2217,7 +2217,7 @@ POKÉMON NAMES
 0965 ブロロン 
 0966 ブロロローム 
 0967 モトトカゲ Mototokage - ライドポケモン Ride Pokémon
-0968 ミミズズ 
+0968 ミミズズ Mimizuzu - ミミズポケモン Earthworm Pokémon
 0969 キラーメ 
 0970 キラフロル 
 0971 ボチ 
