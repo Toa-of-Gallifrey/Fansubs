@@ -37,8 +37,8 @@ Style: Traffic sign,PixelSplitter,48,&H00016AD2,&H000071D4,&H00000A7A,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:57.26,0:02:02.73,Main,,0,0,0,,Revolutionary Girl Utena
-Dialogue: 0,0:54:54.86,0:54:58.07,Main,,0,0,0,,{\bord2.5\an8\fs35\3c&HE2DFD3&\c&HE2DFD3&\blur1.5\fad(0,150)\pos(640,125)\1a&H00&\t(6990,7035,\1a&HFF&)}Interview Room
-Dialogue: 1,0:54:54.86,0:54:58.07,Main,,0,0,0,,{\bord0\an8\fs35\c&H0A1724&\blur0.7\fad(0,100)\pos(640,125)\4a&HFF&}Interview Room
+Dialogue: 0,0:54:54.86,0:54:58.07,Main,,0,0,0,,{\bord2.5\an8\fs35\3c&HE2DFD3&\c&HE2DFD3&\blur1.5\fad(0,150)\pos(640,125)\1a&H00&\t(6990,7035,\1a&HFF&)}Reception Booth
+Dialogue: 1,0:54:54.86,0:54:58.07,Main,,0,0,0,,{\bord0\an8\fs35\c&H0A1724&\blur0.7\fad(0,100)\pos(640,125)\4a&HFF&}Reception Booth
 Dialogue: 0,0:56:19.15,0:56:26.24,Main,,0,0,0,,{\bord2.5\an8\fs35\3c&H030045&\c&H030045&\blur5\fad(150,150)\pos(640,145)\1a&HFF&\t(55,100,\1a&H00&)\t(6990,7035,\1a&HFF&)}All those engaged, please wait in the back.
 Dialogue: 1,0:56:19.15,0:56:26.24,Main,,0,0,0,,{\bord0\an8\fs35\c&H0719FE&\blur0.7\fad(100,100)\pos(640,145)\4a&HFF&}All those engaged, please wait in the back.
 Dialogue: 0,1:04:51.17,1:04:51.20,Road,,0,0,0,,{\blur2\fs50\frx65\pos(640,70)\alpha&H50&}STOP
@@ -772,6 +772,7 @@ Dialogue: 0,1:17:44.15,1:17:46.14,Main,,0,0,0,,{\bord2.5\blur1.5\c0\3c&HFFFFFF\f
 Dialogue: 1,1:17:44.15,1:17:46.14,Main,,0,0,0,,{\bord0\blur0.7\c0\3c&HFFFFFF\fs40\pos(826.92,665)\4a&HFF&}Himemiya Anthy
 Dialogue: 0,1:17:53.15,1:18:02.70,Main,,0,0,0,,{\bord2.5\blur1.5\c0\3c&HFFFFFF\fs40\fad(0,6000)\t(3550,3595,\1a&HFF&)}Tenjou Utena
 Dialogue: 1,1:17:53.15,1:18:02.70,Main,,0,0,0,,{\bord0\blur0.7\c0\3c&HFFFFFF\fs40\fad(0,6000)\4a&HFF&}Tenjou Utena
+Comment: 0,1:20:54.04,1:20:54.08,Main,,0,0,0,,Revolutionary Girl\NUtena\NAdolescence Apocalypse
 Comment: 0,0:00:00.00,0:00:00.00,Duel Songs JP,,0,0,0,,
 Comment: 0,0:16:44.78,0:16:48.32,Duel Songs JP,,0,0,0,,watashi no subete chuusei ni shite
 Comment: 0,0:16:48.32,0:16:50.03,Duel Songs JP,,0,0,0,,sukora chuushou
@@ -1137,7 +1138,7 @@ Dialogue: 0,0:06:45.22,0:06:47.64,Main,Wakaba,0,0,0,,Maybe she’ll be your riva
 Dialogue: 0,0:06:47.64,0:06:48.76,Main,Utena,0,0,0,,Huh?
 Dialogue: 0,0:06:48.76,0:06:52.22,Main,Wakaba,0,0,0,,Oh, and... the boy is Kaoru Miki,
 Dialogue: 0,0:06:52.22,0:06:53.56,Main,Wakaba,0,0,0,,or “Mickey” as we call him.{Same as a line from the next episode preview at the end of episode 3}
-Dialogue: 0,0:06:56.65,0:07:01.40,Main,Wakaba,0,0,0,,He’s only a first-year middle school student, \N but he’s a super genius who’s already in a few college classes.{Calls to mind lines from episode 4, but not a direct quote}
+Dialogue: 0,0:06:56.65,0:07:01.40,Main,Wakaba,0,0,0,,{\q2}He’s only a first-year middle school student, \N but he’s a super genius who’s already in a few college classes.{Calls to mind lines from episode 4, but not a direct quote}
 Dialogue: 0,0:07:01.40,0:07:03.53,Main,Wakaba,0,0,0,,He’s cute and popular...
 Dialogue: 0,0:07:14.87,0:07:20.13,Main,Wakaba,0,0,0,,...but they say that his twin sister gets in the way, \N so he can’t get a girlfriend because of her.
 Dialogue: 0,0:07:21.25,0:07:22.96,Main,Wakaba,0,0,0,,Huh? Utena?
@@ -1189,7 +1190,7 @@ Dialogue: 0,0:13:20.11,0:13:22.45,Main,Saionji,0,0,0,,What are you doing \N to t
 Dialogue: 0,0:13:22.95,0:13:23.99,Main,Utena,0,0,0,,The Rose...
 Dialogue: 0,0:13:25.37,0:13:26.37,Main,Utena,0,0,0,,...Bride?
 Dialogue: 0,0:13:29.20,0:13:32.58,Main,Saionji,0,0,0,,Only those authorized \N may step foot in here.
-Dialogue: 0,0:13:36.38,0:13:40.51,Main,Saionji,0,0,0,,I see. You are also a Duelist.
+Dialogue: 0,0:13:36.38,0:13:39.88,Main,Saionji,0,0,0,,I see. You are also a Duelist.
 Dialogue: 0,0:13:40.51,0:13:41.68,Main,Utena,0,0,0,,Duelist?
 Dialogue: 0,0:13:41.68,0:13:43.84,Main,Saionji,0,0,0,,Pardon me.
 Dialogue: 0,0:13:43.84,0:13:47.31,Main,Saionji,0,0,0,,I’ve never seen you before, \N but it appears you {\i1}do{\i0} possess the right to be here.
@@ -1207,7 +1208,7 @@ Dialogue: 0,0:14:21.97,0:14:23.51,Main,Saionji,0,0,0,,Oh, my...
 Dialogue: 0,0:14:23.51,0:14:26.14,Main,Saionji,0,0,0,,You possess the Rose Seal...
 Dialogue: 0,0:14:26.72,0:14:30.56,Main,Saionji,0,0,0,,...and yet, you didn’t even know that?
 Dialogue: 0,0:14:37.56,0:14:42.44,Main,Saionji,0,0,0,,Perhaps you weren’t meant \N to be my opponent in a duel after all.
-Dialogue: 0,0:14:46.87,0:14:50.12,Main,Touga,0,0,0,,It is what led me to this academy.{Same as 09:33}
+Dialogue: 0,0:14:46.87,0:14:49.95,Main,Touga,0,0,0,,It is what led me to this academy.{Same as 09:33}
 Dialogue: 0,0:14:50.49,0:14:52.45,Main,Touga,0,0,0,,The Rose Seal.{Same as 09:38}
 Dialogue: 0,0:15:17.98,0:15:19.31,Main,Saionji,0,0,0,,Anthy...
 Dialogue: 0,0:15:19.82,0:15:20.94,Main,Saionji,0,0,0,,Prepare us.
@@ -1221,7 +1222,7 @@ Dialogue: 0,0:15:58.56,0:16:03.11,Main,Saionji,0,0,0,,A duel against one \N with
 Dialogue: 0,0:16:05.57,0:16:07.32,Main,Utena,0,0,0,,If it’s a sword I need, I’ve got one.
 Dialogue: 0,0:16:07.32,0:16:08.11,Main,Anthy,0,0,0,,Wait...
 Dialogue: 0,0:16:14.70,0:16:16.41,Main,Utena,0,0,0,,Any objections?
-Dialogue: 0,0:16:18.04,0:16:18.92,Main,Saionji,0,0,0,,Fine by me!
+Dialogue: 0,0:16:17.87,0:16:18.92,Main,Saionji,0,0,0,,Fine by me!
 Dialogue: 0,0:16:25.92,0:16:28.22,Main,Anthy,0,0,0,,Master Saionji, she might—{it could be that she—}
 Dialogue: 0,0:16:30.76,0:16:33.26,Main,Saionji,0,0,0,,When the bells toll, the duel begins.
 Dialogue: 0,0:16:33.68,0:16:35.27,Main,Saionji,0,0,0,,Don’t interfere, Anthy!
