@@ -941,7 +941,7 @@ Dialogue: 0,0:02:35.13,0:02:36.01,Main,Miki,0,0,0,,Will do.
 Dialogue: 0,0:02:36.01,0:02:38.67,Main,Miki,0,0,0,,Um... \N Are you feeling better now?
 Dialogue: 0,0:02:38.67,0:02:41.81,Main,Teacher,0,0,0,,Mmm... \N I’ve been a bother, haven’t I?
 Dialogue: 0,0:02:41.81,0:02:42.99,Main,Miki,0,0,0,,Not at all.
-Dialogue: 0,0:02:42.99,0:02:47.02,Main,Teacher,0,0,0,,To be honest, I need to bother you again \N for some advice, Mickey.
+Dialogue: 0,0:02:42.99,0:02:47.02,Main,Teacher,0,0,0,,To tell you the truth, I need to bother you \N for some advice again, Mickey.
 Dialogue: 0,0:02:51.24,0:02:53.09,Main,Human being,0,0,0,,Hmm? What’s wrong?
 Dialogue: 0,0:02:53.70,0:02:54.54,Main,Human being,0,0,0,,Hey!
 Comment: 0,0:03:01.87,0:03:01.87,Main,,0,0,0,,{Title}
