@@ -43,7 +43,7 @@ Dialogue: 0,0:01:05.17,0:01:06.00,Main,Blanca,0,0,0,,“You there?!”
 Dialogue: 0,0:01:06.00,0:01:07.67,Main,Blanca,0,0,0,,“You just read my message!”
 Dialogue: 0,0:01:07.67,0:01:12.59,Main,Murdock,0,0,0,,H-H-H-Hey! Don’t you {\i1}dare{\i0} \N make a hammer out of that!
 Dialogue: 0,0:01:12.59,0:01:14.10,Main,Dot,0,0,0,,Were you just setting up a joke?
-Dialogue: 0,0:01:14.10,0:01:16.18,Main,Murdock,0,0,0,,This is {\i1}not{\i0} a joke! {alt: I'm not joking/kidding around!}
+Dialogue: 0,0:01:14.10,0:01:16.18,Main,Murdock,0,0,0,,I’m {\i1}not{\i0} kidding around!
 Dialogue: 0,0:01:17.27,0:01:18.64,Main,Murdock,0,0,0,,Wait!
 Dialogue: 0,0:01:18.64,0:01:19.89,Main,Dot,0,0,0,,Ahh, wait!
 Dialogue: 0,0:01:24.65,0:01:27.32,Main,Blanca,0,0,0,,“Where’s my regular report?!” {regular report -ed}
@@ -234,11 +234,11 @@ Dialogue: 0,0:12:34.44,0:12:36.15,Main,Dot,0,0,0,,O-On second thought, forget it
 Dialogue: 0,0:12:36.15,0:12:38.40,Main,Dot,0,0,0,,I can’t make you an app.
 Dialogue: 0,0:12:45.54,0:12:47.33,Main,Dot,0,0,0,,What a weirdo.
 Dialogue: 0,0:12:47.33,0:12:49.54,Main,Dot,0,0,0,,Oh no, Nanjamo’s stream started!
-Dialogue: 0,0:12:50.54,0:12:55.55,Main,Nanjamo,0,0,0,,Keep up the questions, queries and Pokémon “Q”s! \N I’m waiting on all of your comments!{question, doubt, pokemon, mon(all words end in mon)}
+Dialogue: 0,0:12:50.54,0:12:55.55,Main,Nanjamo,0,0,0,,Keep up the questions, queries, and Pokémon “Q”s! \N I’m waiting on all of your comments!{question, doubt, pokemon, mon(all words end in mon)}
 Dialogue: 0,0:12:55.92,0:12:57.42,Main,Dot,0,0,0,,Questions, queries...
 Dialogue: 0,0:13:00.93,0:13:02.05,Main,Dot,0,0,0,,Yeah, right.
 Dialogue: 0,0:13:02.55,0:13:06.27,Main,Nanjamo,0,0,0,,Ooh! I spy a curious comment \N a-comin’-trekkin’-Kentauros!{An interesting comment spotted(ends in ken), adventure(ends in ken), kentauros}
-Dialogue: 0,0:13:06.27,0:13:08.31,Main,Nanjamo,0,0,0,,It’s a question from Homebody!
+Dialogue: 0,0:13:06.27,0:13:08.31,Main,Nanjamo,0,0,0,,It’s a question from Homebody-shi!
 Dialogue: 0,0:13:08.31,0:13:10.14,Main,Dot,0,0,0,,Huh? No way! This can’t be...!
 Dialogue: 0,0:13:10.14,0:13:12.27,Main,Dot,0,0,0,,Th-Th-Th-That’s my comment...!
 Dialogue: 0,0:13:12.27,0:13:14.36,Main,Nanjamo,0,0,0,,“I’m a streamer as well.
@@ -250,7 +250,7 @@ Dialogue: 0,0:13:29.62,0:13:30.54,Main,Dot,0,0,0,,Get moving...
 Dialogue: 0,0:13:30.54,0:13:34.34,Main,Nanjamo,0,0,0,,Oh, but I wouldn’t wanna \N stop streaming... Oh, I know!
 Dialogue: 0,0:13:34.34,0:13:39.38,Main,Nanjamo,0,0,0,,I’d have my studio grow wings, \N so I could fly all over!
 Dialogue: 0,0:13:39.38,0:13:41.38,Main,Nanjamo,0,0,0,,Did that help you out?
-Dialogue: 0,0:13:41.38,0:13:44.80,Main,Nanjamo,0,0,0,,If it didn’t, laugh it away \N with a “Nanjamo-nee!”{alliterative 'Nif it Nwasn't, go "Nanjamo-Nee~!" and [laugh/smile] please!}
+Dialogue: 0,0:13:41.38,0:13:44.80,Main,Nanjamo,0,0,0,,If not, just laugh it off \N as some Nanjamo nonsense!
 Dialogue: 0,0:13:46.60,0:13:49.22,Main,Blanca,0,0,0,,Dot! When are you gonna wake up?!
 Dialogue: 0,0:13:49.22,0:13:51.81,Main,Blanca,0,0,0,,Big Bro and Friede left ages ago!
 Dialogue: 0,0:13:52.69,0:13:54.94,Main,Dot,0,0,0,,Not like that matters to me...
@@ -261,7 +261,7 @@ Dialogue: 0,0:14:18.59,0:14:20.51,Main,Friede,0,0,0,,Wanna join us aboard our sh
 Dialogue: 0,0:14:24.26,0:14:25.68,Main,Liko,0,0,0,,I had no idea...
 Dialogue: 0,0:14:25.68,0:14:27.85,Main,Roy,0,0,0,,So then what happened?
 Dialogue: 0,0:14:27.85,0:14:30.60,Main,Dot,0,0,0,,I made the app \N and came aboard the ship.
-Dialogue: 0,0:14:30.60,0:14:33.94,Main,Dot,0,0,0,,I convinced my mom \N by telling it was a trial period.
+Dialogue: 0,0:14:30.60,0:14:33.94,Main,Dot,0,0,0,,I convinced my mom \N by telling her it would be a trial period.
 Dialogue: 0,0:14:34.44,0:14:39.73,Main,Dot,0,0,0,,And she said I could stay here \N until she came to pick me up.
 Dialogue: 0,0:14:39.73,0:14:41.32,Main,Liko,0,0,0,,So that’s how it is...
 Dialogue: 0,0:14:41.32,0:14:43.82,Main,Blanca,0,0,0,,Oh! Dot, you’re out of your room!
@@ -278,7 +278,7 @@ Dialogue: 0,0:15:09.97,0:15:13.31,Main,Blanca,0,0,0,,but Dot never tells me anyt
 Dialogue: 0,0:15:13.31,0:15:14.10,Main,Dot,0,0,0,,So annoying...
 Dialogue: 0,0:15:14.48,0:15:15.60,Main,Blanca,0,0,0,,Annoying?!
 Dialogue: 0,0:15:15.60,0:15:19.11,Main,Blanca,0,0,0,,‘Course I’m annoying! \N I {\i1}know{\i0} I’m annoying!
-Dialogue: 0,0:15:19.11,0:15:20.19,Main,Blanca,0,0,0,,But I am your—
+Dialogue: 0,0:15:19.11,0:15:20.19,Main,Blanca,0,0,0,,But I’m—
 Dialogue: 0,0:15:20.19,0:15:21.19,Main,Liko,0,0,0,,Um!
 Dialogue: 0,0:15:21.78,0:15:23.07,Main,Liko,0,0,0,,Blanca-san...
 Dialogue: 0,0:15:23.07,0:15:27.11,Main,Liko,0,0,0,,Dot just needs to find \N the right moment to talk about this... I think.
@@ -314,7 +314,7 @@ Dialogue: 0,0:16:48.49,0:16:50.91,Main,Dot,0,0,0,,This battle seems so pointless
 Dialogue: 0,0:16:51.87,0:16:53.28,Main,Dot,0,0,0,,But...
 Dialogue: 0,0:16:53.28,0:16:56.29,Main,Dot,0,0,0,,Somehow, I just...
 Dialogue: 0,0:16:56.29,0:16:59.29,Main,Dot,0,0,0,,Feel like I shouldn’t run away.
-Dialogue: 0,0:17:01.29,0:17:03.42,Main,Dot,0,0,0,,Mental switch, on!
+Dialogue: 0,0:17:01.29,0:17:03.42,Main,Dot,0,0,0,,Self switch, on!
 Dialogue: 0,0:17:04.38,0:17:05.88,Main,Blanca,0,0,0,,Mom switch...
 Dialogue: 0,0:17:06.84,0:17:07.84,Main,Blanca,0,0,0,,On!
 Dialogue: 0,0:17:07.84,0:17:10.68,Main,Dot,0,0,0,,The first strike seizes victory! \N Kuwassu, use Water Gun!
