@@ -370,7 +370,7 @@ katasutorofi カタストロフィ (Ruination) - Catastrophe
 kauntaa カウンター (Counter) - Counter
 kawarawari かわらわり (Brick Break) - Brick Break
 kazeokoshi かぜおこし (Gust) - Wind Gust
-ketaguri けたぐり (Low Kick) - Kick Down [subject to change]
+ketaguri けたぐり (Low Kick) - Kick Down
 kiai dama きあいだま (Focus Blast) - Focus Blast
 kiai dame きあいだめ (Focus Energy) - Focus Energy
 kiai panchi きあいパンチ (Focus Punch) - Focus Punch
@@ -2213,7 +2213,7 @@ POKÉMON NAMES
 0961 ウミトリオ 
 0962 オトシドリ 
 0963 ナミイルカ 
-0964 イルカマン 
+0964 イルカマン Irukaman
 0965 ブロロン 
 0966 ブロロローム 
 0967 モトトカゲ Mototokage - ライドポケモン Ride Pokémon
