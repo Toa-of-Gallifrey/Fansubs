@@ -28,7 +28,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:08.74,0:00:12.70,Main,Gurumin,0,0,0,,Ahem, ahem, mic check, 1, 2.
-Dialogue: 0,0:00:15.75,0:00:17.96,Main,Gurumin,0,0,0,,Mental switch...{lit. Myself switch}
+Dialogue: 0,0:00:15.75,0:00:17.96,Main,Gurumin,0,0,0,,Self switch...
 Dialogue: 0,0:00:17.96,0:00:18.62,Main,Gurumin,0,0,0,,...on!
 Dialogue: 0,0:00:18.62,0:00:22.84,Main,Gurumin,0,0,0,,Yo-ssu, everyone! \N Y’all been groovin’?
 Comment: 0,0:00:24.63,0:00:24.63,Main,,0,0,0,,{Opening}
@@ -42,7 +42,7 @@ Dialogue: 0,0:02:35.89,0:02:36.68,Main,Friede,0,0,0,,Cap...
 Dialogue: 0,0:02:36.68,0:02:38.22,Main,Friede,0,0,0,,Watch the wheel a sec. {Cap proceeds to quite literally watch the wheel}
 Dialogue: 0,0:03:01.04,0:03:02.70,Main,Liko,0,0,0,,This feels great!
 Dialogue: 0,0:03:05.71,0:03:07.71,Main,Liko,0,0,0,,Nyahoja loves grooming.
-Dialogue: 0,0:03:07.71,0:03:10.46,Main,Liko,0,0,0,,It’d groom all day if I let it.{DREADED "IT" PRONOUN: Nyahoja}
+Dialogue: 0,0:03:07.71,0:03:10.46,Main,Liko,0,0,0,,She’d groom all day if I let her.
 Dialogue: 0,0:03:11.25,0:03:13.30,Main,Roy,0,0,0,,Liko! Liko!
 Dialogue: 0,0:03:13.88,0:03:15.30,Main,Roy,0,0,0,,There you are!
 Dialogue: 0,0:03:15.30,0:03:17.80,Main,Liko,0,0,0,,Roy... You’re so energetic \N first thing in the morning...
@@ -222,7 +222,7 @@ Dialogue: 0,0:12:50.62,0:12:51.88,Main,Roy,0,0,0,,Hogator! Ember!
 Dialogue: 0,0:12:55.55,0:12:57.26,Main,Roy,0,0,0,,There’s lots of Caps?!
 Dialogue: 0,0:12:57.26,0:12:58.42,Main,Liko,0,0,0,,What is this?
 Dialogue: 0,0:12:58.42,0:13:00.26,Main,Friede,0,0,0,,Shadow Clones.
-Dialogue: 0,0:13:04.51,0:13:06.64,Main,Liko,0,0,0,,They’re provoking it \N and making it mad...{DREADED "IT" PRONOUN: Nyahoja}
+Dialogue: 0,0:13:04.51,0:13:06.64,Main,Liko,0,0,0,,They’re provoking her \N and making her mad...
 Dialogue: 0,0:13:07.98,0:13:09.52,Main,Liko,0,0,0,,Nyahoja, stop! Calm down!
 Dialogue: 0,0:13:17.82,0:13:19.61,Main,Friede,0,0,0,,Liko! Roy!
 Dialogue: 0,0:13:19.61,0:13:21.24,Main,Friede,0,0,0,,Watch Cap closely!
@@ -287,9 +287,9 @@ Dialogue: 0,0:17:10.43,0:17:11.80,Main,Orio,0,0,0,,Oh?
 Dialogue: 0,0:17:11.80,0:17:14.43,Main,Murdock,0,0,0,,They’ve stopped ordering moves blindly.
 Dialogue: 0,0:17:15.43,0:17:17.31,Main,Liko,0,0,0,,How will Hogator move?
 Dialogue: 0,0:17:17.85,0:17:18.81,Main,Liko,0,0,0,,How?
-Dialogue: 0,0:17:25.11,0:17:27.15,Main,Liko,0,0,0,,I-It’s not moving...{DREADED "IT" PRONOUN: Hogator}
+Dialogue: 0,0:17:25.11,0:17:27.15,Main,Liko,0,0,0,,H-He’s not moving...
 Dialogue: 0,0:17:27.15,0:17:29.24,Main,Liko,0,0,0,,Then we’ll go first!
-Dialogue: 0,0:17:31.20,0:17:32.95,Main,Roy,0,0,0,,Here it comes, Hogator!{DREADED "IT" PRONOUN: Nyahoja}
+Dialogue: 0,0:17:31.20,0:17:32.95,Main,Roy,0,0,0,,Here she comes, Hogator!
 Dialogue: 0,0:17:34.20,0:17:34.95,Main,Liko,0,0,0,,Scratch!
 Dialogue: 0,0:17:34.95,0:17:35.70,Main,Roy,0,0,0,,Dodge!
 Dialogue: 0,0:17:36.70,0:17:37.95,Main,Roy,0,0,0,,Now, use Tackle!

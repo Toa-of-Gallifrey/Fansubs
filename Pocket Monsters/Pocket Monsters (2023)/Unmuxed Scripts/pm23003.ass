@@ -135,7 +135,7 @@ Dialogue: 0,0:07:44.11,0:07:45.53,Main,Human child,0,0,0,,It’s my fault!
 Dialogue: 0,0:07:47.11,0:07:48.57,Main,Liko,0,0,0,,So, I’m not the only one...
 Dialogue: 0,0:07:49.82,0:07:51.28,Main,Liko,0,0,0,,What should I do?
 Dialogue: 0,0:07:51.28,0:07:53.08,Main,Liko,0,0,0,,What if Nyahoja has already \N gotten hurt?
-Dialogue: 0,0:07:54.25,0:07:56.46,Main,Liko,0,0,0,,What if something awful \N has happened to it...?{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:07:54.25,0:07:56.46,Main,Liko,0,0,0,,What if something awful \N has happened to her...?
 Dialogue: 0,0:07:58.17,0:08:00.08,Main,Conia,0,0,0,,You ate it all up already?
 Dialogue: 0,0:08:00.08,0:08:02.96,Main,Conia,0,0,0,,Sorry, but that’s the last of it.
 Dialogue: 0,0:08:06.13,0:08:07.88,Main,Conia,0,0,0,,So cute!
@@ -177,7 +177,7 @@ Dialogue: 0,0:10:05.84,0:10:08.38,Main,Liko,0,0,0,,Lucky! Take these!
 Dialogue: 0,0:10:08.38,0:10:10.21,Main,Molly,0,0,0,,Hey, wait!
 Dialogue: 0,0:10:09.05,0:10:10.21,Main,Liko,0,0,0,,{\an8}Sorry!
 Dialogue: 0,0:10:10.21,0:10:13.22,Main,Conia,0,0,0,,No! These are for \N my sweet little Nyahoja!
-Dialogue: 0,0:10:13.59,0:10:15.55,Main,Murdock,0,0,0,,Iwanko! Did you find it?!{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:10:13.59,0:10:15.55,Main,Murdock,0,0,0,,Iwanko! Did you find her?!
 Dialogue: 0,0:10:16.22,0:10:17.97,Main,Liko,0,0,0,,Everyone! Iwanko!
 Dialogue: 0,0:10:17.97,0:10:19.72,Main,Conia,0,0,0,,Ack! How is this happening?!
 Dialogue: 0,0:10:20.10,0:10:20.68,Main,Friede,0,0,0,,Liko!
@@ -209,8 +209,8 @@ Dialogue: 0,0:11:33.71,0:11:35.59,Main,Friede,0,0,0,,Hey, hold it right there!
 Dialogue: 0,0:11:35.59,0:11:37.89,Main,Friede,0,0,0,,Listen! It’s gonna be \N dangerous in there.
 Dialogue: 0,0:11:37.89,0:11:39.26,Main,Liko,0,0,0,,I know.
 Dialogue: 0,0:11:39.26,0:11:41.81,Main,Liko,0,0,0,,But Nyahoja is my Pokémon!
-Dialogue: 0,0:11:41.81,0:11:44.93,Main,Liko,0,0,0,,It must be so lonely without me...{Nope he’s kind of chilling in the lap of luxury as it turns out.}{DREADED “IT” PRONOUN: Nyahoja}
-Dialogue: 0,0:11:44.93,0:11:47.02,Main,Liko,0,0,0,,I have to go find it...{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:11:41.81,0:11:44.93,Main,Liko,0,0,0,,She must be so lonely without me...{Nope she’s kind of chilling in the lap of luxury as it turns out.}
+Dialogue: 0,0:11:44.93,0:11:47.02,Main,Liko,0,0,0,,I have to go find her...
 Dialogue: 0,0:11:47.02,0:11:49.31,Main,Liko,0,0,0,,After all, I’m Nyahoja’s...
 Dialogue: 0,0:11:51.19,0:11:54.40,Main,Liko,0,0,0,,I’m Nyahoja’s... trainer...
 Dialogue: 0,0:11:54.40,0:11:57.32,Main,Friede,0,0,0,,Okay, I get it...
@@ -221,7 +221,7 @@ Dialogue: 0,0:12:06.62,0:12:07.79,Main,Liko,0,0,0,,Yes.
 Dialogue: 0,0:12:07.79,0:12:11.21,Main,Friede,0,0,0,,But if it gets dicey, \N you turn and run.
 Dialogue: 0,0:12:11.21,0:12:12.54,Main,Liko,0,0,0,,Got it.
 Dialogue: 0,0:12:12.54,0:12:14.09,Main,Friede,0,0,0,,All right!
-Dialogue: 0,0:12:14.09,0:12:15.71,Main,Friede,0,0,0,,Let’s go rescue it!{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:12:14.09,0:12:15.71,Main,Friede,0,0,0,,Let’s go rescue her!
 Dialogue: 0,0:12:15.71,0:12:17.01,Main,Liko,0,0,0,,Yes!
 Dialogue: 0,0:12:25.52,0:12:27.52,Main,Friede,0,0,0,,There you are, Amethio.
 Dialogue: 0,0:12:28.48,0:12:30.52,Main,Amethio,0,0,0,,Do you have the pendant?

@@ -47,7 +47,7 @@ Dialogue: 0,0:00:54.45,0:00:58.00,Main,Liko,0,0,0,,My first Pokémon was Nyahoja
 Dialogue: 0,0:00:58.00,0:00:59.46,Main,Liko,0,0,0,,So cute!{001}
 Dialogue: 0,0:00:59.46,0:01:00.67,Main,Liko,0,0,0,,But...
 Dialogue: 0,0:01:01.17,0:01:02.29,Main,Liko,0,0,0,,Ow!{001}
-Dialogue: 0,0:01:02.29,0:01:05.67,Main,Liko,0,0,0,,...it’s very fickle, and I don’t know \N what it’s thinking a lot of the time. {DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:01:02.29,0:01:05.67,Main,Liko,0,0,0,,...she’s very fickle, and I don’t know \N what she’s thinking a lot of the time.
 Dialogue: 0,0:01:06.75,0:01:08.80,Main,Liko,0,0,0,,Nyahoja! Leafage!{001}
 Dialogue: 0,0:01:15.35,0:01:17.68,Main,Liko,0,0,0,,Please! Stop being so reckless!{001}
 Dialogue: 1,0:01:23.44,0:01:28.44,Main,Liko,0,0,0,,One thing led to another, \N and my dizzying life went on, until one day...
@@ -344,7 +344,7 @@ Dialogue: 0,0:24:04.13,0:24:06.38,Main,Gurumin,0,0,0,,The battle for the pendant
 Dialogue: 0,0:24:06.38,0:24:09.89,Main,Gurumin,0,0,0,,...on the airship headin’ for the storm \N hits a boiling point!
 Dialogue: 0,0:24:10.35,0:24:13.68,Main,Gurumin,0,0,0,,Or so I thought, but then Nyahoja \N {\i1}disappeared with that freaky group!{\i0}
 Dialogue: 0,0:24:13.68,0:24:16.43,Main,Gurumin,0,0,0,,“Hey! What are you \N going to do, Liko?!”
-Dialogue: 0,0:24:16.43,0:24:19.81,Main,Gurumin,0,0,0,,“It’s obvious, Liko. \N We have to find it.”{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:24:16.43,0:24:19.81,Main,Gurumin,0,0,0,,“It’s obvious, Liko. \N We have to find her.”
 Dialogue: 0,0:24:19.81,0:24:24.07,Main,Gurumin,0,0,0,,So we better join in \N and give her a big “Go for it!”!
 Dialogue: 0,0:24:24.07,0:24:24.82,Main,Gurumin,0,0,0,,And so!{001}
 Dialogue: 0,0:24:24.82,0:24:26.70,Main,Gurumin,0,0,0,,To be continued next time \N on Pocket Monsters!{001}

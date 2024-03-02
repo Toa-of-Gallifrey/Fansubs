@@ -184,8 +184,8 @@ Dialogue: 0,0:10:41.00,0:10:43.04,Main,Liko,0,0,0,,I’m looking for Nyahoja now
 Dialogue: 0,0:10:46.38,0:10:49.50,Main,Liko,0,0,0,,Nyahoja! \N Where are you?
 Dialogue: 0,0:10:57.01,0:10:58.30,Main,Liko,0,0,0,,There you are.
 Dialogue: 0,0:10:59.76,0:11:02.77,Main,Liko,0,0,0,,Nyahoja... You’ve been acting strange \N ever since we got here.
-Dialogue: 0,0:11:03.64,0:11:05.60,Main,Alex,0,0,0,,It’s not listening to you?{DREADED “IT” PRONOUN: Nyahoja}
-Dialogue: 0,0:11:05.60,0:11:08.69,Main,Liko,0,0,0,,It usually behaves better than this.{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:11:03.64,0:11:05.60,Main,Alex,0,0,0,,She’s not listening to you?
+Dialogue: 0,0:11:05.60,0:11:08.69,Main,Liko,0,0,0,,She usually behaves better than this.
 Dialogue: 0,0:11:12.11,0:11:14.57,Main,Liko,0,0,0,,I’ll head back to the ship for today.
 Dialogue: 0,0:11:14.57,0:11:16.70,Main,Alex,0,0,0,,What? You’re going back?
 Dialogue: 0,0:11:16.70,0:11:20.99,Main,Liko,0,0,0,,Mother’s not here today, \N and you’re busy, right?
@@ -194,8 +194,8 @@ Dialogue: 0,0:11:22.24,0:11:23.87,Main,Liko,0,0,0,,Nyahoja, let’s go.
 Dialogue: 0,0:11:25.37,0:11:28.54,Main,Liko,0,0,0,,No choice... \N Come on, return!
 Dialogue: 0,0:11:32.30,0:11:34.22,Main,Liko,0,0,0,,Fine, I get it.
 Dialogue: 0,0:11:34.22,0:11:35.09,Main,Alex,0,0,0,,Liko...
-Dialogue: 0,0:11:35.09,0:11:37.76,Main,Liko,0,0,0,,Father, I’ll leave it here for tonight.{DREADED “IT” PRONOUN: Nyahoja}
-Dialogue: 0,0:11:37.76,0:11:39.43,Main,Liko,0,0,0,,I’ll come and get it tomorrow.{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:11:35.09,0:11:37.76,Main,Liko,0,0,0,,Father, I’ll leave her here for tonight.
+Dialogue: 0,0:11:37.76,0:11:39.43,Main,Liko,0,0,0,,I’ll come and get her tomorrow.
 Dialogue: 0,0:11:47.60,0:11:50.15,Main,Liko,0,0,0,,I’ll see you tomorrow. \N Good luck with work.
 Dialogue: 0,0:11:50.15,0:11:53.03,Main,Alex,0,0,0,,Sorry... Tomorrow, then.
 Dialogue: 0,0:11:53.73,0:11:54.78,Main,Friede,0,0,0,,If you’ll excuse us.
@@ -227,8 +227,8 @@ Dialogue: 0,0:14:06.99,0:14:08.83,Main,Liko,0,0,0,,What I want to do...
 Dialogue: 0,0:14:11.66,0:14:12.58,Main,Roy,0,0,0,,Morning!
 Dialogue: 0,0:14:13.62,0:14:16.54,Main,Liko,0,0,0,,Morning, Roy and Hogator.
 Dialogue: 0,0:14:17.13,0:14:20.55,Main,Roy,0,0,0,,Hey, I’ve been thinking about Nyahoja.
-Dialogue: 0,0:14:20.55,0:14:25.76,Main,Roy,0,0,0,,I think it was sulking yesterday because \N you and Puppymocchi were getting along so well.{DREADED “IT” PRONOUN: Nyahoja}
-Dialogue: 0,0:14:27.01,0:14:32.89,Main,Roy,0,0,0,,After all, it started acting weird when Hogator \N balled up and started playing with Puppymocchi...{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:14:20.55,0:14:25.76,Main,Roy,0,0,0,,I think she was sulking yesterday because \N you and Puppymocchi were getting along so well.
+Dialogue: 0,0:14:27.01,0:14:32.89,Main,Roy,0,0,0,,After all, she started acting weird when Hogator \N balled up and started playing with Puppymocchi...
 Dialogue: 0,0:14:34.14,0:14:39.15,Main,Liko,0,0,0,,I was so blind that \N I didn’t even realize that...
 Dialogue: 0,0:14:40.82,0:14:43.15,Main,Roy,0,0,0,,I bet Nyahoja’s waiting for you.
 Dialogue: 0,0:14:43.15,0:14:44.74,Main,Liko,0,0,0,,You’re right.

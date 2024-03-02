@@ -64,8 +64,8 @@ Dialogue: 0,0:03:30.11,0:03:32.57,Main,Roy,0,0,0,,I’m sorry! \N I won’t do i
 Dialogue: 0,0:03:33.07,0:03:35.40,Main,Friede,0,0,0,,So? Why’d you wanna \N see Hogator again?
 Dialogue: 0,0:03:35.40,0:03:38.49,Main,Roy,0,0,0,,I don’t wanna just \N say goodbye to Hogator!
 Dialogue: 0,0:03:38.49,0:03:39.28,Main,Liko,0,0,0,,Huh?
-Dialogue: 0,0:03:40.28,0:03:42.66,Main,Roy,0,0,0,,I wanna eat berries with it,{DREADED “IT” PRONOUN: Hogator}
-Dialogue: 0,0:03:42.66,0:03:44.45,Main,Roy,0,0,0,,and practice singing with it again!{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:03:40.28,0:03:42.66,Main,Roy,0,0,0,,I wanna eat berries with him,
+Dialogue: 0,0:03:42.66,0:03:44.45,Main,Roy,0,0,0,,and practice singing with him again!
 Dialogue: 0,0:03:44.45,0:03:47.87,Main,Liko,0,0,0,,Are you saying \N you want to be Hogator’s partner?
 Dialogue: 0,0:03:49.00,0:03:50.04,Main,Roy,0,0,0,,Yeah, I think so!
 Dialogue: 0,0:03:50.04,0:03:51.63,Main,Friede,0,0,0,,Hold it, you two.
@@ -88,11 +88,11 @@ Dialogue: 0,0:04:30.54,0:04:31.88,Main,Liko,0,0,0,,I think so.
 Dialogue: 0,0:04:31.88,0:04:32.79,Main,Roy,0,0,0,,Let’s go!
 Dialogue: 0,0:04:44.51,0:04:45.52,Main,Liko,0,0,0,,No luck.
 Dialogue: 0,0:04:45.52,0:04:47.68,Main,Liko,0,0,0,,Hogator’s a glutton,
-Dialogue: 0,0:04:47.68,0:04:49.94,Main,Liko,0,0,0,,so I thought it’d be here...{DREADED “IT” PRONOUN: Hogator}
-Dialogue: 0,0:04:49.94,0:04:51.81,Main,Roy,0,0,0,,Maybe it’s hiding somewhere!{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:04:47.68,0:04:49.94,Main,Liko,0,0,0,,so I thought he’d be here...
+Dialogue: 0,0:04:49.94,0:04:51.81,Main,Roy,0,0,0,,Maybe he’s hiding somewhere!
 Dialogue: 0,0:04:53.48,0:04:56.86,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
 Dialogue: 0,0:04:56.86,0:04:58.65,Main,Liko,0,0,0,,Is that Hogator’s...?
-Dialogue: 0,0:05:00.53,0:05:03.24,Main,Roy,0,0,0,,I thought maybe it’d join in if it was here.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:05:00.53,0:05:03.24,Main,Roy,0,0,0,,I thought maybe he’d join in if he was here.
 Dialogue: 0,0:05:03.24,0:05:07.25,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
 Dialogue: 0,0:05:14.09,0:05:15.29,Main,Liko,0,0,0,,That just leaves here.
 Dialogue: 0,0:05:15.29,0:05:17.34,Main,Roy,0,0,0,,Hogator! \N I’ve been dying to see you!
@@ -104,7 +104,7 @@ Dialogue: 0,0:05:41.82,0:05:44.49,Main,Liko,0,0,0,,I bet it’ll all turn out ok
 Dialogue: 0,0:05:45.99,0:05:48.95,Main,Liko,0,0,0,,I was anxious at first, too.
 Dialogue: 0,0:05:48.95,0:05:52.21,Main,Liko,0,0,0,,I didn’t know \N what Nyahoja was thinking.
 Dialogue: 0,0:05:54.38,0:05:59.13,Main,Liko,0,0,0,,Then I realized we’re \N two of a kind in that way.
-Dialogue: 0,0:05:59.63,0:06:05.22,Main,Liko,0,0,0,,And once I said I wanted it \N to learn all about me, we just kinda...{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:05:59.63,0:06:05.22,Main,Liko,0,0,0,,And once I said I wanted her \N to learn all about me, we just kinda...
 Dialogue: 0,0:06:05.64,0:06:08.76,Main,Roy,0,0,0,,I get it... \N So that’s how it works.
 Dialogue: 0,0:06:09.31,0:06:12.27,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
 Dialogue: 0,0:06:10.27,0:06:12.27,Main,Liko,0,0,0,,{\an8}You’re doing that now?
@@ -246,7 +246,7 @@ Dialogue: 0,0:14:20.67,0:14:23.84,Main,Roy,0,0,0,,All right, all clean. \N Your 
 Dialogue: 0,0:14:24.68,0:14:27.35,Main,Roy,0,0,0,,But where were you hiding?
 Dialogue: 0,0:14:27.35,0:14:29.39,Main,Roy,0,0,0,,I looked everywhere!
 Dialogue: 0,0:14:30.35,0:14:31.98,Main,Roy,0,0,0,,What’s this all of a sudden?
-Dialogue: 0,0:14:31.98,0:14:33.85,Main,Liko,0,0,0,,It’s like it’s fawning over you.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:14:31.98,0:14:33.85,Main,Liko,0,0,0,,It’s like he’s fawning over you.
 Dialogue: 0,0:14:34.52,0:14:36.15,Main,Roy,0,0,0,,Hogator...
 Dialogue: 0,0:14:37.27,0:14:38.98,Main,Roygrandpa,0,0,0,,What’s that?!
 Dialogue: 0,0:14:38.98,0:14:41.49,Main,Liko,0,0,0,,The Explorers found us?

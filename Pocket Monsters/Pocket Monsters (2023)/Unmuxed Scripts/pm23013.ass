@@ -341,7 +341,7 @@ Dialogue: 0,0:19:40.66,0:19:44.91,Main,Roy,0,0,0,,Yeah. Even though I tried \N t
 Dialogue: 0,0:19:44.91,0:19:47.92,Main,Liko,0,0,0,,That Kaiden must be a glutton.
 Dialogue: 0,0:19:47.92,0:19:49.54,Main,Liko,0,0,0,,Just like Hogator.
 Dialogue: 0,0:19:49.54,0:19:51.29,Main,Roy,0,0,0,,You think so?
-Dialogue: 0,0:19:51.29,0:19:56.84,Main,Roy,0,0,0,,It was kinda weird, \N teasing Hogator and glaring at it...{DREADED “IT” PRONOUN: Kaiden}{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:19:51.29,0:19:56.84,Main,Roy,0,0,0,,It was kinda weird, \N teasing Hogator and glaring at him...{DREADED “IT” PRONOUN: Kaiden}
 Dialogue: 0,0:19:56.84,0:20:00.64,Main,Roy,0,0,0,,But it could run fast, \N its wings were all sparkly,{DREADED “IT” PRONOUN: Kaiden}
 Dialogue: 0,0:20:00.64,0:20:02.14,Main,Roy,0,0,0,,and it was {\i1}cool!{\i0}{DREADED “IT” PRONOUN: Kaiden}
 Dialogue: 0,0:20:02.14,0:20:03.31,Main,Liko,0,0,0,,Is that so?

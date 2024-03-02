@@ -191,7 +191,7 @@ Dialogue: 0,0:11:25.90,0:11:28.88,Main,Diana,0,0,0,,She can be more stubborn \N 
 Dialogue: 0,0:11:28.88,0:11:33.21,Main,Diana,0,0,0,,but she’s very kind, \N so take good care of her.
 Dialogue: 0,0:11:33.21,0:11:34.21,Main,Diana,0,0,0,,Whoops!
 Dialogue: 0,0:11:34.21,0:11:35.36,Main,Liko,0,0,0,,Nyahoja!
-Dialogue: 0,0:11:35.36,0:11:38.22,Main,Diana,0,0,0,,Splendid! It’s got some real grit!{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:11:35.36,0:11:38.22,Main,Diana,0,0,0,,Splendid! She’s got some real grit!
 Dialogue: 0,0:11:38.65,0:11:42.72,Main,Liko,0,0,0,,Even Nyahoja can’t shake her... \N That’s my grandma.{Sasuga. line}
 Dialogue: 0,0:11:42.72,0:11:46.23,Main,Diana,0,0,0,,Don’t be shy. \N Make yourselves at home.
 Dialogue: 0,0:11:54.13,0:11:56.34,Main,Liko,0,0,0,,Is this your home?
@@ -243,8 +243,8 @@ Dialogue: 0,0:14:22.17,0:14:23.54,Main,Liko,0,0,0,,This little one...
 Dialogue: 0,0:14:23.54,0:14:25.18,Main,Friede,0,0,0,,...was one of Lucius’s Pokémon?
 Dialogue: 0,0:14:25.18,0:14:27.14,Main,Roy,0,0,0,,This is bad! Look at Hogator!
 Dialogue: 0,0:14:27.50,0:14:28.56,Main,Liko,0,0,0,,What’s wrong?
-Dialogue: 0,0:14:29.25,0:14:30.18,Main,Roy,0,0,0,,It seems...{DREADED “IT” PRONOUN: Hogator}
-Dialogue: 0,0:14:31.70,0:14:33.89,Main,Roy,0,0,0,,...like it’s hungry.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:14:29.25,0:14:30.18,Main,Roy,0,0,0,,He seems...
+Dialogue: 0,0:14:31.70,0:14:33.89,Main,Roy,0,0,0,,...like he’s hungry.
 Dialogue: 0,0:14:36.81,0:14:40.25,Main,Diana,0,0,0,,Well then, why don’t we \N have something to eat?
 Dialogue: 0,0:14:49.78,0:14:53.62,Main,Zir,0,0,0,,We trailed them all the way \N to this general area...
 Dialogue: 0,0:14:55.19,0:14:56.62,Main,Amethio,0,0,0,,What’s that?

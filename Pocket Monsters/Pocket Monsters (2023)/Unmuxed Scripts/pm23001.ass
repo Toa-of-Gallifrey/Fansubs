@@ -178,9 +178,9 @@ Dialogue: 0,0:08:57.60,0:09:02.73,Main,Liko,0,0,0,,Why? Why? Why?! No! No! \N I 
 Dialogue: 0,0:09:02.73,0:09:03.52,Main,Liko,0,0,0,,Oh, right!
 Dialogue: 0,0:09:03.52,0:09:06.48,Main,Liko,0,0,0,,My best lead is \N Nyahoja’s Sweet Scent.
 Dialogue: 0,0:09:17.41,0:09:19.58,Main,Liko,0,0,0,,If I follow this scent... {felt off to have scent capitalized when not part of the full proper move name}
-Dialogue: 0,0:09:23.33,0:09:25.92,Main,Liko,0,0,0,,Did it... go up there?{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:09:23.33,0:09:25.92,Main,Liko,0,0,0,,Did she... go up there?
 Dialogue: 0,0:09:27.63,0:09:30.30,Main,Liko,0,0,0,,The scent is stronger here, but...
-Dialogue: 0,0:09:32.76,0:09:34.10,Main,Liko,0,0,0,,Found it!{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:09:32.76,0:09:34.10,Main,Liko,0,0,0,,Found her!
 Dialogue: 0,0:09:34.93,0:09:36.97,Main,Liko,0,0,0,,Being up there is dangerous!
 Dialogue: 0,0:09:39.85,0:09:43.02,Main,Liko,0,0,0,,Why did you go up there? \N What were you thinking?
 Dialogue: 0,0:09:43.60,0:09:46.44,Main,Liko,0,0,0,,Wait! I didn’t mean— \N Stop! Stop! Stop!
@@ -258,11 +258,11 @@ Dialogue: 0,0:14:44.41,0:14:46.57,Main,Anne,0,0,0,,That’s a rare sight, Liko!{
 Dialogue: 0,0:14:47.66,0:14:49.03,Main,Anne,0,0,0,,What’s up?
 Dialogue: 0,0:14:49.03,0:14:50.87,Main,Anne,0,0,0,,Something bugging you?
 Dialogue: 0,0:14:51.70,0:14:53.87,Main,Liko,0,0,0,,I really envy you and Mijumaru...
-Dialogue: 0,0:14:53.87,0:14:57.21,Main,Anne,0,0,0,,Nyahoja on your mind? \N Isn’t it nice that it’s so free-spirited?{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:14:53.87,0:14:57.21,Main,Anne,0,0,0,,Nyahoja on your mind? \N Isn’t it nice that she’s so free-spirited?
 Dialogue: 0,0:14:57.21,0:14:58.71,Main,Liko,0,0,0,,I’m not so sure...
 Dialogue: 0,0:14:58.71,0:15:02.30,Main,Anne,0,0,0,,You have a tough time \N getting others to understand you, right?
 Dialogue: 0,0:15:02.30,0:15:03.84,Main,Anne,0,0,0,,Maybe Nyahoja has \N the same problem.
-Dialogue: 0,0:15:03.84,0:15:06.84,Main,Anne,0,0,0,,You’ve gotta really show it \N who you are!{DREADED “IT” PRONOUN: Nyahoja}
+Dialogue: 0,0:15:03.84,0:15:06.84,Main,Anne,0,0,0,,You’ve gotta really show her \N who you are!
 Dialogue: 0,0:15:09.93,0:15:11.14,Main,Liko,0,0,0,,What does that even mean?
 Dialogue: 0,0:15:11.14,0:15:12.60,Main,Liko,0,0,0,,It sounds tough.
 Dialogue: 0,0:15:16.23,0:15:17.48,Main,Liko,0,0,0,,Nyahoja?

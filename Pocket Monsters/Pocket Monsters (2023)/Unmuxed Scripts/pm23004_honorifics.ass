@@ -70,9 +70,9 @@ Dialogue: 0,0:05:11.37,0:05:12.00,Main,Roy,0,0,0,,Hup!
 Dialogue: 0,0:05:15.38,0:05:17.88,Main,Roy,0,0,0,,All right! Top form! {predicting catchphrase}
 Dialogue: 0,0:05:22.72,0:05:24.10,Main,Roy,0,0,0,,So cool!
 Dialogue: 0,0:05:25.72,0:05:27.77,Main,Liko,0,0,0,,Oh, where’s Hogator?
-Dialogue: 0,0:05:30.35,0:05:32.52,Main,Murdock,0,0,0,,No, I haven’t seen it.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:05:30.35,0:05:32.52,Main,Murdock,0,0,0,,No, I haven’t seen him.
 Dialogue: 0,0:05:32.52,0:05:34.31,Main,Murdock,0,0,0,,Oh, that’s right.
-Dialogue: 0,0:05:34.31,0:05:40.11,Main,Murdock,0,0,0,,It was trying to sneak food from the kitchen, \N so Iwanko told it off.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:05:34.31,0:05:40.11,Main,Murdock,0,0,0,,He was trying to sneak food from the kitchen, \N so Iwanko told him off.
 Dialogue: 0,0:05:42.11,0:05:43.74,Main,Liko,0,0,0,,Trying to sneak food...
 Dialogue: 0,0:05:43.74,0:05:46.12,Main,Orio,0,0,0,,Murdock! Come help me!
 Dialogue: 0,0:05:48.16,0:05:50.58,Main,Orio,0,0,0,,I’m {\i1}terrible{\i0} at this!
@@ -81,28 +81,28 @@ Dialogue: 0,0:05:55.29,0:05:58.13,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Hoga
 Dialogue: 0,0:05:58.75,0:06:03.22,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Fire energy that leaks out \N from inside its body flickers atop its head.
 Dialogue: 0,0:06:03.22,0:06:06.64,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When it gets excited, \N its head spouts larger flames.{Scar/Viol website description, reworded}
 Dialogue: 0,0:06:06.64,0:06:08.89,Main,Liko,0,0,0,,No clues, huh...?
-Dialogue: 0,0:06:09.47,0:06:12.06,Main,Liko,0,0,0,,It was making that weird noise \N all morning...{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:06:09.47,0:06:12.06,Main,Liko,0,0,0,,He was making that weird noise \N all morning...
 Dialogue: 0,0:06:12.06,0:06:13.23,Main,Liko,0,0,0,,What was that?
 Dialogue: 0,0:06:13.23,0:06:14.15,Main,Landau,0,0,0,,A song.
 Dialogue: 0,0:06:15.77,0:06:17.48,Main,Liko,0,0,0,,Huh? A song?
 Dialogue: 0,0:06:17.48,0:06:20.03,Main,Landau,0,0,0,,Seems to like singing.
 Dialogue: 0,0:06:21.49,0:06:23.15,Main,Liko,0,0,0,,So that was a song...
-Dialogue: 0,0:06:23.15,0:06:27.58,Main,Landau,0,0,0,,But if someone hears it, \N it stops singing.{Double DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:06:23.15,0:06:27.58,Main,Landau,0,0,0,,But if someone hears him, \N he stops singing.
 Dialogue: 0,0:06:30.45,0:06:34.08,Main,Liko,0,0,0,,Of course! That explains \N what happened earlier...
 Dialogue: 0,0:06:36.67,0:06:40.13,Main,Molly,0,0,0,,Hogator... \N Did you check the observation deck?
-Dialogue: 0,0:06:40.13,0:06:43.76,Main,Molly,0,0,0,,Normally, it’d be up there \N waiting for Lizardon to come back.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:06:40.13,0:06:43.76,Main,Molly,0,0,0,,Normally, he’d be up there \N waiting for Lizardon to come back.
 Dialogue: 0,0:06:43.76,0:06:44.97,Main,Liko,0,0,0,,Lizardon?
-Dialogue: 0,0:06:44.97,0:06:47.43,Main,Molly,0,0,0,,Yeah. It looks up to it.{DREADED “IT” PRONOUN: Hogator}{DREADED “IT” PRONOUN: Lizardon}
+Dialogue: 0,0:06:44.97,0:06:47.43,Main,Molly,0,0,0,,Yeah. He looks up to it.{DREADED “IT” PRONOUN: Lizardon}
 Dialogue: 0,0:06:47.43,0:06:49.22,Main,Molly,0,0,0,,Okay, you’ve got \N a clean bill of health.
 Dialogue: 0,0:06:50.22,0:06:51.81,Main,Liko,0,0,0,,Oh, that’s right...
-Dialogue: 0,0:06:53.85,0:06:58.86,Main,Molly,0,0,0,,It might’ve even settled down here \N just to be with Lizardon.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:06:53.85,0:06:58.86,Main,Molly,0,0,0,,He might’ve even settled down here \N just to be with Lizardon.{DREADED “IT” PRONOUN: Hogator}
 Dialogue: 0,0:07:01.65,0:07:03.32,Main,Liko,0,0,0,,Not here either...
-Dialogue: 0,0:07:07.11,0:07:09.45,Main,Liko,0,0,0,,Where could it have gone?{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:07:07.11,0:07:09.45,Main,Liko,0,0,0,,Where could he have gone?
 Dialogue: 0,0:07:11.62,0:07:13.33,Main,Liko,0,0,0,,What? What is it?!
 Dialogue: 0,0:07:14.71,0:07:18.54,Main,Liko,0,0,0,,What are... those marks?
 Dialogue: 0,0:07:23.63,0:07:24.51,Main,Liko,0,0,0,,What if...?
 Dialogue: 0,0:07:27.80,0:07:30.05,Main,Liko,0,0,0,,Hogator might’ve fallen off!
-Dialogue: 0,0:07:42.48,0:07:44.03,Main,Liko,0,0,0,,Let’s go and look for it!{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:07:42.48,0:07:44.03,Main,Liko,0,0,0,,Let’s go and look for him!
 Dialogue: 0,0:08:00.84,0:08:04.30,Main,Roy,0,0,0,,Whoops! Today’s desk...
 Dialogue: 0,0:08:05.34,0:08:07.05,Main,Roy,0,0,0,,Here seems good!
 Dialogue: 0,0:08:10.39,0:08:11.55,Main,Roy,0,0,0,,All set!
@@ -132,7 +132,7 @@ Dialogue: 0,0:09:14.99,0:09:16.12,Main,Students,0,0,0,,{\i1}Yes!{\i0}
 Dialogue: 0,0:09:16.12,0:09:18.37,Main,Teacher,0,0,0,,I’ve marked you all present.
 Dialogue: 0,0:09:18.37,0:09:21.62,Main,Teacher,0,0,0,,Well then, class is in session. \N Yesterday, we left off...
 Dialogue: 0,0:09:31.80,0:09:34.76,Main,Liko,0,0,0,,Hogator! Hogator!
-Dialogue: 0,0:09:36.81,0:09:38.97,Main,Liko,0,0,0,,Where did it run off to?{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:09:36.81,0:09:38.97,Main,Liko,0,0,0,,Where did he run off to?
 Dialogue: 0,0:09:43.35,0:09:44.98,Main,Liko,0,0,0,,Was Hogator here?
 Dialogue: 0,0:09:46.11,0:09:47.65,Main,Liko,0,0,0,,Hogator?
 Dialogue: 0,0:09:50.36,0:09:52.66,Main,Liko,0,0,0,,Huh? Are they angry?
@@ -157,7 +157,7 @@ Dialogue: 0,0:11:05.77,0:11:09.11,Main,Roy,0,0,0,,Aw, my secret base!
 Dialogue: 0,0:11:21.41,0:11:22.33,Main,Roy,0,0,0,,What’s that?
 Dialogue: 0,0:11:34.67,0:11:35.72,Main,Roy,0,0,0,,A song?
 Dialogue: 0,0:11:43.85,0:11:45.98,Main,Roy,0,0,0,,Up there! \N A Pokémon I’ve never seen before!
-Dialogue: 0,0:11:53.23,0:11:55.40,Main,Roy,0,0,0,,Looks like it’s having fun.{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:11:53.23,0:11:55.40,Main,Roy,0,0,0,,Looks like he’s having fun.
 Dialogue: 0,0:11:57.03,0:11:59.07,Main,Roy,0,0,0,,Your singing’s great!
 Dialogue: 0,0:12:00.24,0:12:04.33,Main,Roy,0,0,0,,Wait! Hey! \N You don’t have to run!
 Dialogue: 0,0:12:12.59,0:12:13.75,Main,Roy,0,0,0,,Don’t go that way!
@@ -207,7 +207,7 @@ Dialogue: 0,0:15:03.80,0:15:05.76,Main,Liko,0,0,0,,Huh? What happened?
 Dialogue: 0,0:15:06.68,0:15:07.30,Main,Liko,0,0,0,,Huh?
 Dialogue: 0,0:15:07.72,0:15:09.64,Main,Liko,0,0,0,,Hogator, and...?
 Dialogue: 0,0:15:10.18,0:15:11.89,Main,Roy,0,0,0,,Here, climb up!
-Dialogue: 0,0:15:11.89,0:15:15.19,Main,Liko,0,0,0,,Who?! Hogator? \N But why? Why is it on his back?{DREADED “IT” PRONOUN: Hogator}
+Dialogue: 0,0:15:11.89,0:15:15.19,Main,Liko,0,0,0,,Who?! Hogator? \N But why? Why is he on his back?
 Dialogue: 0,0:15:15.19,0:15:16.52,Main,Liko,0,0,0,,What’s going on—?
 Dialogue: 0,0:15:16.52,0:15:18.31,Main,Liko,0,0,0,,Wait, now’s not the time!
 Dialogue: 0,0:15:23.49,0:15:25.24,Main,Roy,0,0,0,,Quick, now’s our chance!
