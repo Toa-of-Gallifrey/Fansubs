@@ -526,7 +526,7 @@ neko ni koban ネコにこばん (Pay Day) - # TBD #
 neko no te ねこのて (Assist) - # TBD #
 nekodamashi ねこだまし (Fake Out) - # TBD #
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
-nemuru ねむる (Rest) - # TBD #
+nemuru ねむる (Rest) - Sleep
 nenriki ねんりき (Confusion) - Mind Power
 neppuu ねっぷう (Heat Wave) - Heat Wave
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
@@ -686,7 +686,7 @@ shoori no mai しょうりのまい (Victory Dance) - # TBD #
 sonikku buumu ソニックブーム (Sonic Boom) - Sonic Boom
 sooraa biimu ソーラービーム (Solar Beam) - Solar Beam
 sooraa bureedo ソーラーブレード (Solar Blade) - Solar Blade
-sora o tobu そらをとぶ (Fly) - # TBD #
+sora o tobu そらをとぶ (Fly) - Fly
 souden そうでん (Electrify) - # TBD #
 sourubiito ソウルビート (Clangorous Soul) - Soulbeat
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
