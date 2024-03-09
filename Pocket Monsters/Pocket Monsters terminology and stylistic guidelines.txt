@@ -1647,7 +1647,7 @@ POKÉMON NAMES
 0395 エンペルト Emperte - こうていポケモン Emperor Pokémon
 0396 ムックル Mukkuru - むくどりポケモン Starling Pokémon
 0397 ムクバード 
-0398 ムクホーク 
+0398 ムクホーク Mukuhawk - もうきんポケモン 
 0399 ビッパ 
 0400 ビーダル Beadaru - ビーバーポケモン 
 0401 コロボーシ Koroboushi - こおろぎポケモン Cricket Pokémon
@@ -1753,7 +1753,7 @@ POKÉMON NAMES
 0501 ミジュマル Mijumaru - ラッコポケモン 
 0502 フタチマル Futachimaru - しゅぎょうポケモン 
 0503 ダイケンキ 
-0504 ミネズミ 
+0504 ミネズミ Minezumi - みはりポケモン Scout Pokémon
 0505 ミルホッグ Miruhog - けいかいポケモン 
 0506 ヨーテリー Yorterrie - こいぬポケモン Puppy Pokémon
 0507 ハーデリア Herderrie - ちゅうけんポケモン 
@@ -2184,8 +2184,8 @@ POKÉMON NAMES
 0932 コジオ 
 0933 ジオヅム 
 0934 キョジオーン Kyojiohn - がんえんポケモン Rock Salt Pokémon
-0935 カルボウ 
-0936 グレンアルマ 
+0935 カルボウ Carbou - ひのこポケモン 
+0936 グレンアルマ Guren'arma - ひのせんしポケモン 
 0937 ソウブレイズ Soublades - ひのけんしポケモン Fire Swordsman
 0938 ズピカ 
 0939 ハラバリー 
@@ -2199,7 +2199,7 @@ POKÉMON NAMES
 0947 アノホラグサ Anohoragusa - ころがりぐさポケモン Tumbleweed Pokémon
 0948 ノノクラゲ 
 0949 リククラゲ Rikukurage - きくらげポケモン 
-0950 ガケガニ 
+0950 ガケガニ Gakegani - まちぶせポケモン 
 0951 カプサイジ 
 0952 スコヴィラン 
 0953 シガロコ 
@@ -2209,11 +2209,11 @@ POKÉMON NAMES
 0957 カヌチャン 
 0958 ナカヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
 0959 デカヌチャン 
-0960 ウミディグダ 
+0960 ウミディグダ Umidigda - あなごポケモン Garden Eel Pokémon
 0961 ウミトリオ 
 0962 オトシドリ 
-0963 ナミイルカ 
-0964 イルカマン Irukaman
+0963 ナミイルカ Namiiruka - イルカポケモン Dolphin Pokémon
+0964 イルカマン Irukaman - イルカポケモン Dolphin Pokémon --- Mighty Forme - ヒーローポケモン Hero Pokémon
 0965 ブロロン 
 0966 ブロロローム 
 0967 モトトカゲ Mototokage - ライドポケモン Ride Pokémon
@@ -2280,13 +2280,13 @@ POKÉMON NAMES
 
 FORMS
 
-rotom zukan ロトム図鑑 (Rotomdex) - Index Rotom
-sumaho rotom スマホロトム (Rotom Phone) - Smartphone Rotom
-hiito rotom ヒートロトム (Heat Rotom) - Heat Rotom
-wosshu rotom ウォッシュロトム (Wash Rotom) - Wash Rotom
-furosuto rotom フロストロトム (Frost Rotom) - Frost Rotom
-supin rotom スピンロトム (Fan Rotom) - Spin Rotom
-katto rotom カットロトム (Mow Rotom) - Cut Rotom
+rotomu zukan ロトム図鑑 (Rotomdex) - Index Rotom
+sumaho rotomu スマホロトム (Rotom Phone) - Smartphone Rotom
+hiito rotomu ヒートロトム (Heat Rotom) - Heat Rotom
+wosshu rotomu ウォッシュロトム (Wash Rotom) - Wash Rotom
+furosuto rotomu フロストロトム (Frost Rotom) - Frost Rotom
+supin rotomu スピンロトム (Fan Rotom) - Spin Rotom
+katto rotomu カットロトム (Mow Rotom) - Cut Rotom
 
 
 
@@ -2348,6 +2348,8 @@ MISC
 
 monsutaa booru モンスターボール (Poké Ball) - Monster Ball
 pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
+sugata すがた (Form) - Form
+forumu フォルム (Forme) - Forme
 roketto-dan ロケット団 (Team Rocket) - Team Rocket
 aku taipu あくタイプ (Dark type) - Evil type
 hadou 波導 (Aura) - Guiding Waves
