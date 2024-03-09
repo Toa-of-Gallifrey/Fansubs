@@ -13,6 +13,8 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 	+ The Hallowed God, Arceus  
 	+ Aim to be a Pokémon Master  
   - Pocket Monsters (2023)  
+  	+ Extras  
+	  - Pokémon GO Collab Short  
   - Movies (M01)  
   - Mewtwo Saga  
   - Twilight Wings  
