@@ -1174,7 +1174,7 @@ sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
 shingan しんがん (Mind's Eye) - # TBD #
 shinkuro シンクロ (Synchronize) - # TBD #
-shinryoku しんりょく (Overgrow) - # TBD #
+shinryoku しんりょく (Overgrow) - Budding Greenery
 shireitou しれいとう (Commander) - # TBD #
 shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
 shiroi kemuri しろいけむり (Shiroi Kemuri) - White Smoke
