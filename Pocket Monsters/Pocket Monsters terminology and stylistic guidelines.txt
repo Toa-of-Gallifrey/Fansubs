@@ -196,7 +196,7 @@ gamushara がむしゃら (Endeavor) - # TBD #
 ganseki akkusu がんせきアックス (Rock Axe) - Rock Axe
 ganseki fuuji がんせきふうじ (Rock Tomb) - Rock Seal
 ganseki hou がんせきほう (Rock Wrecker) - # TBD #
-garyou tensei ガリョウテンセイ (Dragon Ascent) - # TBD #
+garyou tensei ガリョウテンセイ (Dragon Ascent) - Draconic Masterstroke
 gekirin げきりん (Outrage) - Reversed Scale
 genshi no chikara げんしのちから (Ancient Power) - Primal Power
 geppu ゲップ (Belch) - Belch
@@ -2156,7 +2156,7 @@ POKÉMON NAMES
 0904 ハリーマン 
 0905 ラブトロス 
 0906 ニャオハ Nyahoja - くさねこポケモン Grass Cat Pokémon
-0907 ニャローテ 
+0907 ニャローテ Nyarote - くさねこポケモン Grass Cat Pokémon
 0908 マスカーニャ Masquernya - マジシャンポケモン Magician Pokémon
 0909 ホゲータ Hogator - ほのおワニポケモン Fire Croc Pokémon
 0910 アチゲータ 
