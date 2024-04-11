@@ -293,16 +293,16 @@ Dialogue: 0,0:21:27.43,0:21:29.14,Main,Roy,0,0,0,,Hogator!
 Dialogue: 0,0:21:32.02,0:21:34.15,Main,Friede,0,0,0,,Ooh, now what was that?
 Dialogue: 0,0:21:35.32,0:21:36.86,Main,Dot,0,0,0,,She’s gotten even stronger...
 Dialogue: 0,0:21:36.86,0:21:38.74,Main,Liko,0,0,0,,Nice, Nyahoja!
-Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.28,0:21:47.29,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.29,0:21:49.41,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N the Trap Pokémon, Wanaider.
+Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Trap Pokémon, Wanaider.
 Dialogue: 0,0:21:55.21,0:21:59.55,Main,Friede,0,0,0,,{\q2}A Pokémon that clings to tree branches and ceilings, \N moving without making a sound.{Paraphrasing Scarlet dex}
 Dialogue: 0,0:21:59.55,0:22:02.80,Main,Friede,0,0,0,,It makes use of a certain something \N when catching prey in its traps,
 Dialogue: 0,0:22:02.80,0:22:05.22,Main,Friede,0,0,0,,but do you know what that thing is?
 Dialogue: 0,0:22:05.22,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.40,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.28,0:23:45.61,Main,Friede,0,0,220,,The answer is B: Threads!
 Dialogue: 0,0:23:45.61,0:23:50.24,Main,Friede,0,0,220,,Wanaider uses its strong, \N sticky threads to lay traps.

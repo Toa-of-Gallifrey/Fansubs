@@ -382,15 +382,15 @@ Dialogue: 0,0:21:27.93,0:21:28.68,Main,Blanca,0,0,0,,You want this?
 Dialogue: 0,0:21:28.68,0:21:30.19,Main,Dot,0,0,0,,No way!
 Dialogue: 0,0:21:30.19,0:21:31.39,Main,Blanca,0,0,0,,H-H-Hey...
 Dialogue: 0,0:21:31.39,0:21:33.98,Main,Blanca,0,0,0,,You’re supposed to \N just accept it, you know?
-Comment: 0,0:21:45.41,0:21:45.41,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.41,0:21:45.41,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.20,0:21:47.24,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.24,0:21:49.33,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.83,0:21:54.42,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N Lugarugan: Midnight Form.
+Dialogue: 0,0:21:50.83,0:21:54.42,Main,Friede,0,0,0,,Today, let’s take a look at \N Lugarugan: Midnight Form.
 Dialogue: 0,0:21:54.88,0:21:58.51,Main,Friede,0,0,0,,It’s a Pokémon that lives alone \N rather than forming packs.
 Dialogue: 0,0:21:58.51,0:22:03.97,Main,Friede,0,0,0,,Do you know what battle style \N this Lugarugan excels at?{What battle style does it excel at? Hit and run, feints, countering}
 Dialogue: 0,0:22:03.97,0:22:06.05,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.39,0:22:07.39,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.40,0:23:37.40,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.40,0:23:37.40,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.23,0:23:41.40,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.19,0:23:45.07,Main,Friede,0,0,220,,The answer is C: Countering!
 Dialogue: 0,0:23:45.07,0:23:50.20,Main,Friede,0,0,220,,It uses Taunt on its opponents, and when they rush in \N to strike, it launches its Counter attack.

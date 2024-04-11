@@ -316,16 +316,16 @@ Dialogue: 0,0:21:27.22,0:21:29.64,Main,Dot,0,0,0,,“Help me out with my crush!�
 Dialogue: 0,0:21:29.64,0:21:31.60,Main,Dot,0,0,0,,“I think I’m in love! \N How do I approach them?”
 Dialogue: 0,0:21:32.23,0:21:35.61,Main,Dot,0,0,0,,Hey! I’m not taking \N those kinds of requests!
 Dialogue: 0,0:21:35.61,0:21:39.57,Main,Dot,0,0,0,,Aaagh! Now what do I do?! {doushi}
-Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:45.91,0:21:47.16,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.16,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N the Hog Pokémon, Perfuton.
+Dialogue: 0,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Hog Pokémon, Perfuton.
 Dialogue: 1,0:21:54.50,0:21:58.17,Main,Friede,0,0,0,,A Pokémon that gives off \N a sweet scent from the tip of its tail.
 Dialogue: 0,0:21:58.17,0:22:02.13,Main,Friede,0,0,0,,It has a trait that is closely linked to that scent,
 Dialogue: 0,0:22:02.13,0:22:05.18,Main,Friede,0,0,0,,but do you know which trait that is?
 Dialogue: 0,0:22:05.18,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.40,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.19,0:23:45.20,Main,Friede,0,0,220,,The answer is \N A: Gourmet palate!
 Dialogue: 0,0:23:45.20,0:23:49.07,Main,Friede,0,0,220,,Perfuton is a Pokémon gourmet, \N being quite picky about its food.
@@ -333,13 +333,12 @@ Dialogue: 0,0:23:49.07,0:23:53.87,Main,Friede,0,0,220,,It came to smell so nice 
 Dialogue: 0,0:23:56.96,0:24:00.50,Main,Friede,0,0,0,,Even Cap can’t resist that scent.{Sasuga. line}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:00.88,0:24:03.13,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 0,0:24:03.13,0:24:04.21,Main,Gurumin,0,0,0,,Y’all been groovin’?
-Dialogue: 0,0:24:04.21,0:24:06.26,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 0,0:24:03.13,0:24:06.26,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
 Dialogue: 0,0:24:06.26,0:24:10.89,Main,Gurumin,0,0,0,,A job turned up \N for the Rising Voltteccers!
 Dialogue: 0,0:24:10.89,0:24:16.14,Main,Gurumin,0,0,0,,The job’s at a ruin excavation site and has ‘em \N using the airship to move a rock out of the way!
 Dialogue: 0,0:24:16.14,0:24:20.52,Main,Gurumin,0,0,0,,And then, a new door \N finally opens for Hogator!
 Dialogue: 0,0:24:21.65,0:24:24.46,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters:
-Dialogue: 0,0:24:24.46,0:24:26.95,Main,Gurumin,0,0,0,,Hogator Turns Bad?!
+Dialogue: 0,0:24:24.46,0:24:26.95,Main,Gurumin,0,0,0,,Hogator on the Vile Side?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:46.27,0:02:50.73,OP,,0,0,0,,{=997}{\fad(1020,0)\blur1\3c&HAF7E09&}Now, head forth! Pierce through the clouds
 Dialogue: 1,0:02:59.74,0:03:02.66,OP,,0,0,0,,{\blur1\3c&HA8602C&}The words that I couldn't say
@@ -1072,56 +1071,56 @@ Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1036}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Hogator Turns Ba{\fsp5}d?!{\fsp}
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}I Found You, Hogator
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Hogator Turns Ba{\fsp5}d?!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Hogator Turns Ba{\fsp5}d?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Hogator on the Vile Sid{\fsp5}e?!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]

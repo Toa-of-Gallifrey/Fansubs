@@ -289,15 +289,15 @@ Dialogue: 0,0:21:33.64,0:21:35.92,Main,Gurumin,0,0,0,,Iron’s always drawing \N
 Dialogue: 0,0:21:35.92,0:21:38.24,Main,Gurumin,0,0,0,,She’ll make a hammer \N out of anything.
 Dialogue: 0,0:21:40.52,0:21:41.16,Main,Gurumin,0,0,0,,Huh?
 Dialogue: 0,0:21:41.16,0:21:42.16,Main,Gurumin,0,0,0,,Hold on! Hold on! \N Hey—
-Comment: 0,0:21:45.45,0:21:45.45,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.45,0:21:45.45,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.13,0:21:47.23,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.23,0:21:49.43,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.93,0:21:54.46,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N the Metalsmith Pokémon, Kanuchan.
+Dialogue: 0,0:21:50.93,0:21:54.46,Main,Friede,0,0,0,,Today, let’s take a look at \N the Metalsmith Pokémon, Kanuchan.
 Dialogue: 0,0:21:55.25,0:21:59.25,Main,Friede,0,0,0,,The hammer Kanuchan holds is handmade.
 Dialogue: 0,0:21:59.25,0:22:04.52,Main,Friede,0,0,0,,Do you know what she collects \N to make her hammer?
 Dialogue: 0,0:22:04.52,0:22:06.63,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.43,0:22:07.43,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.44,0:23:37.44,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.44,0:23:37.44,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.30,0:23:41.44,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.27,0:23:45.52,Main,Friede,0,0,220,,The answer is B: Metal!
 Dialogue: 0,0:23:45.52,0:23:49.35,Main,Friede,0,0,220,,The primary material \N in her hammers is metal, such as iron.

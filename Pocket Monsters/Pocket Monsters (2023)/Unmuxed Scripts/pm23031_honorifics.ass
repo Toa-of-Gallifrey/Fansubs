@@ -309,7 +309,7 @@ Dialogue: 0,0:23:29.47,0:23:33.43,Main,Gurumin,0,0,0,,Its pals all seem kinda sc
 Dialogue: 0,0:23:33.43,0:23:36.52,Main,Gurumin,0,0,0,,Wait, what’s this? \N Terapagos wants to talk to Laplace!
 Dialogue: 0,0:23:36.52,0:23:39.73,Main,Gurumin,0,0,0,,You kidding me? You think it’ll {\i1}listen?{\i0}{DREADED “IT” PRONOUN: Laplace}
 Dialogue: 0,0:23:39.73,0:23:41.90,Main,Gurumin,0,0,0,,And that’s all next time \N on Pocket Monsters:{No "tsuzuki wa" so my phrasing is also different. -TL}
-Dialogue: 0,0:23:41.90,0:23:44.28,Main,Gurumin,0,0,0,,Laplace’s Feelings For Its Friends
+Dialogue: 0,0:23:41.90,0:23:44.28,Main,Gurumin,0,0,0,,Laplace’s Feelings For Its Friends{DREADED “IT” PRONOUN: Laplace}
 Comment: 0,0:23:45.40,0:23:45.40,Main,,0,0,0,,{Terapagos no Kirakira Tankenki}
 Dialogue: 0,0:23:45.90,0:23:47.57,Main,Liko,0,0,0,,Another day bursting with energy!
 Dialogue: 0,0:23:47.57,0:23:50.41,Main,Liko,0,0,0,,Terapagos’s Sparkly Exploration Diary!

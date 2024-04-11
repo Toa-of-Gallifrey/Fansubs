@@ -183,16 +183,16 @@ Dialogue: 0,0:21:09.50,0:21:12.67,Main,Diana,0,0,0,,{\t(2312,3063,\c&HFFFFFF&\3c
 Dialogue: 0,0:21:13.04,0:21:15.55,Main,Liko,0,0,0,,That’s your teacup from before?!
 Dialogue: 0,0:21:16.88,0:21:21.09,Main,Diana,0,0,0,,Potdeath creates more of its kin \N by pouring tea into cups!
 Dialogue: 0,0:21:21.09,0:21:22.80,Main,Liko,0,0,0,,So this one is...?
-Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.37,0:21:47.37,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.37,0:21:49.50,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:51.12,0:21:54.54,Main,Friede,0,0,0,,Today we’ll be looking at \N the Black Tea Pokémon, Potdeath.
+Dialogue: 0,0:21:51.12,0:21:54.54,Main,Friede,0,0,0,,Today, let’s take a look at \N the Black Tea Pokémon, Potdeath.
 Dialogue: 0,0:21:55.09,0:21:57.34,Main,Friede,0,0,0,,This Pokémon lives in old teapots.{Not quite the same as the Dex phrasing. -TL}
 Dialogue: 0,0:21:57.34,0:22:00.09,Main,Friede,0,0,0,,Its body is made of black tea!
 Dialogue: 0,0:22:00.09,0:22:04.89,Main,Friede,0,0,0,,Is this tea tasty? Average? Or nasty?
 Dialogue: 0,0:22:04.89,0:22:07.51,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.51,0:22:07.51,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.52,0:23:37.52,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.52,0:23:37.52,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.40,0:23:41.52,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.36,0:23:45.49,Main,Friede,0,0,220,,The answer is A: Tasty!
 Dialogue: 0,0:23:45.49,0:23:50.16,Main,Friede,0,0,220,,Its distinctive taste and aroma \N has made it popular among enthusiasts.

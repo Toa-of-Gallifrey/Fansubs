@@ -261,7 +261,7 @@ Dialogue: 0,0:21:32.15,0:21:34.31,Main,Gibeon,0,0,0,,The Rakurium will be mine.
 Dialogue: 0,0:21:36.02,0:21:38.86,Main,Gibeon,0,0,0,,This adventure is not over.
 Dialogue: 0,0:21:38.86,0:21:40.74,Main,Gibeon,0,0,0,,Isn’t that right,
 Dialogue: 0,0:21:40.74,0:21:42.07,Main,Gibeon,0,0,0,,Lucius?
-Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.24,0:21:47.37,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.37,0:21:49.54,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 0,0:21:51.04,0:21:54.54,Main,Friede,0,0,0,,Today, let’s take a look at \N the Heavens Pokémon, Rekkuuza.
@@ -269,14 +269,14 @@ Dialogue: 0,0:21:55.34,0:22:00.22,Main,Friede,0,0,0,,It flies endlessly through 
 Dialogue: 0,0:22:00.22,0:22:04.47,Main,Friede,0,0,0,,Do you know where Rekkuuza lives?
 Dialogue: 0,0:22:04.47,0:22:06.51,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.51,0:22:07.51,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.52,0:23:37.52,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.52,0:23:37.52,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.36,0:23:41.52,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
 Dialogue: 0,0:23:42.07,0:23:45.82,Main,Friede,0,0,220,,The answer is... C: The ozone layer!
 Dialogue: 0,0:23:45.82,0:23:50.62,Main,Friede,0,0,220,,Rekkuuza lives in the ozone layer, \N much higher than any mountain.
 Dialogue: 0,0:23:50.62,0:23:54.20,Main,Friede,0,0,220,,It’s said to have lived there \N for hundreds of millions of years.
 Dialogue: 0,0:23:56.12,0:23:59.29,Main,Friede,0,0,0,,The skies stir up \N your spirit of adventure!{roman}
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.13,0:24:04.80,Main,Liko,0,0,0,,To all Pokémon Trainers out there... \N It’s time for the preview!
+Dialogue: 0,0:24:01.13,0:24:04.80,Main,Liko,0,0,0,,All you Pokémon Trainers out there... \N It’s time for the preview!
 Dialogue: 0,0:24:05.55,0:24:08.22,Main,Roy,0,0,0,,What’s the Terastal training{shugyou} \N Friede mentioned gonna be?
 Dialogue: 0,0:24:08.59,0:24:11.35,Main,Dot,0,0,0,,Dunno... \N Sitting under waterfalls, maybe?
 Dialogue: 0,0:24:11.35,0:24:14.60,Main,Liko,0,0,0,,Looks like we’ll be \N going to school in Paldea!

@@ -360,7 +360,7 @@ Dialogue: 0,0:21:37.48,0:21:41.15,Main,Friede,0,0,0,,Rising Voltteccers... Set o
 Comment: 0,0:21:45.45,0:21:45.45,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.16,0:21:47.41,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.41,0:21:49.50,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.96,0:21:54.46,Main,Friede,0,0,0,,Today, let’s take a look at \N this Pokémon here: Terapagos!
+Dialogue: 0,0:21:50.96,0:21:54.46,Main,Friede,0,0,0,,Today, let’s take a look at \N this Pokémon: Terapagos!
 Dialogue: 0,0:21:54.46,0:21:58.30,Main,Friede,0,0,0,,A Pokémon steeped in mystery, \N who awakened from Liko’s pendant.
 Dialogue: 0,0:21:58.30,0:22:02.55,Main,Friede,0,0,0,,Symbols resembling something \N appeared on its shell during battle...
 Dialogue: 0,0:22:02.55,0:22:05.18,Main,Friede,0,0,0,,But do you know what?
@@ -383,7 +383,7 @@ Dialogue: 0,0:24:16.98,0:24:18.60,Main,Gurumin,0,0,0,,Could this be a kidnapping
 Dialogue: 0,0:24:18.60,0:24:21.56,Main,Gurumin,0,0,0,,That duo’s rage will finally explode!
 Dialogue: 0,0:24:22.40,0:24:25.11,Main,Gurumin,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
 Dialogue: 0,0:24:25.11,0:24:27.95,Main,Gurumin,0,0,0,,Friede and Cap: The Duo in the Wilderness
-Dialogue: 0,0:24:27.95,0:24:30.41,Main,Gurumin,0,0,0,,Wait, {\i1}that’s {\i0}Cap’s weakness...?
+Dialogue: 0,0:24:27.95,0:24:30.41,Main,Gurumin,0,0,0,,Wait, {\i1}that’s{\i0} Cap’s weakness?
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:00:49.32,0:00:53.78,OP,,0,0,0,,{=997}{\fad(1020,0)\blur1\3c&HAF7E09&}Now, head forth! Pierce through the clouds
 Dialogue: 1,0:01:02.79,0:01:05.71,OP,,0,0,0,,{\blur1\3c&HA8602C&}The words that I couldn't say

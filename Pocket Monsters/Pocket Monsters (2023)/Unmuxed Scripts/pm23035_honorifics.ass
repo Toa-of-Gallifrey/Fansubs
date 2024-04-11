@@ -112,9 +112,9 @@ Dialogue: 0,0:05:45.07,0:05:47.16,Main,Shine,0,0,0,,This is the Pokémon \N I wa
 Dialogue: 0,0:05:47.16,0:05:48.62,Main,Roy,0,0,0,,That’s a Pokémon?
 Dialogue: 0,0:05:48.62,0:05:51.08,Main,Friede,0,0,0,,That’s... an Anokusa.
 Dialogue: 0,0:05:51.08,0:05:52.16,Main,Shine,0,0,0,,Yeah.
-Dialogue: 0,0:05:52.16,0:05:55.00,Main,Shine,0,0,0,,I caught it when I went \N to Paldea last month.{Dread Anokusa}
-Dialogue: 0,0:05:55.00,0:05:57.17,Main,Shine,0,0,0,,I’ve been taking it \N on walks now and then,{Dread Anokusa}
-Dialogue: 0,0:05:57.17,0:05:59.63,Main,Shine,0,0,0,,but yesterday \N a strong wind blew it away.{Dread Anokusa}
+Dialogue: 0,0:05:52.16,0:05:55.00,Main,Shine,0,0,0,,I caught it when I went \N to Paldea last month.{DREADED “IT” PRONOUN: Anokusa}
+Dialogue: 0,0:05:55.00,0:05:57.17,Main,Shine,0,0,0,,I’ve been taking it \N on walks now and then,{DREADED “IT” PRONOUN: Anokusa}
+Dialogue: 0,0:05:57.17,0:05:59.63,Main,Shine,0,0,0,,but yesterday \N a strong wind blew it away.{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:06:00.30,0:06:02.51,Main,Liko,0,0,0,,A Pokémon was \N blown away by the wind?
 Dialogue: 0,0:06:03.01,0:06:06.18,Main,Shine,0,0,0,,I’d look for it myself, \N but I have work.
 Dialogue: 0,0:06:06.18,0:06:07.22,Main,Shine,0,0,0,,To tell the truth,
@@ -124,7 +124,7 @@ Dialogue: 0,0:06:14.23,0:06:17.61,Main,Friede,0,0,0,,Shine works to protect wild
 Dialogue: 0,0:06:17.61,0:06:21.32,Main,Friede,0,0,0,,Catching evil hunters is part of his job.
 Dialogue: 0,0:06:21.32,0:06:22.53,Main,Roy,0,0,0,,Whoa...
 Dialogue: 0,0:06:22.95,0:06:26.99,Main,Friede,0,0,0,,I understand the situation. \N You can leave Anokusa to us.
-Dialogue: 0,0:06:26.99,0:06:28.83,Main,Friede,0,0,0,,We’ll find it no matter what.{Dread Anokusa}
+Dialogue: 0,0:06:26.99,0:06:28.83,Main,Friede,0,0,0,,We’ll find it no matter what.{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:06:28.83,0:06:29.99,Main,Friede,0,0,0,,Right, Cap?
 Dialogue: 0,0:06:31.04,0:06:34.54,Main,Liko,0,0,0,,They really are an ideal pair! So reliable!{Sasuga. line}
 Dialogue: 0,0:06:35.75,0:06:40.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Anokusa. Tumbleweed Pokémon. \N Grass/Ghost type.
@@ -137,7 +137,7 @@ Dialogue: 0,0:06:58.19,0:06:59.19,Main,Friede,0,0,0,,Bingo!
 Dialogue: 0,0:07:00.11,0:07:02.94,Main,Roy,0,0,0,,Hey! Anokusa!
 Dialogue: 0,0:07:02.94,0:07:06.20,Main,Roy,0,0,0,,Shine-san asked us to look for you!
 Dialogue: 0,0:07:10.20,0:07:11.45,Main,Roy,0,0,0,,Wait!
-Dialogue: 0,0:07:17.33,0:07:18.96,Main,Friede,0,0,0,,Cap! Can you catch up to it?{Dread Anokusa}
+Dialogue: 0,0:07:17.33,0:07:18.96,Main,Friede,0,0,0,,Cap! Can you catch up to it?{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:07:34.48,0:07:36.23,Main,Roy,0,0,0,,Leave it to me!
 Dialogue: 0,0:07:38.44,0:07:39.31,Main,Roy,0,0,0,,Whoops!
 Dialogue: 0,0:07:52.08,0:07:53.95,Main,Liko,0,0,0,,We lost track of Anokusa...
@@ -145,7 +145,7 @@ Dialogue: 0,0:07:54.50,0:07:57.54,Main,Friede,0,0,0,,Desert to the left, \N oasi
 Dialogue: 0,0:07:57.54,0:07:59.25,Main,Friede,0,0,0,,All right, let’s head left.
 Dialogue: 0,0:07:59.25,0:08:00.96,Main,Liko,0,0,0,,Huh? Why?
 Dialogue: 0,0:08:01.67,0:08:04.55,Main,Friede,0,0,0,,Anokusa usually hate getting wet.{rest of Violet dex entry, slightly tweaked}
-Dialogue: 0,0:08:05.46,0:08:08.59,Main,Friede,0,0,0,,It’d want to steer clear of water.{Dread Anokusa}
+Dialogue: 0,0:08:05.46,0:08:08.59,Main,Friede,0,0,0,,It’d want to steer clear of water.{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:08:08.59,0:08:10.72,Main,Roy,0,0,0,,Whoa! That’s a Pokémon Professor for ya!{Sasuga. line}
 Dialogue: 0,0:08:10.72,0:08:11.93,Main,Friede,0,0,0,,Now, let’s go.
 Dialogue: 0,0:08:15.68,0:08:17.48,Main,Liko,0,0,0,,What is it, Cap?
@@ -161,17 +161,17 @@ Dialogue: 0,0:08:40.92,0:08:43.25,Main,Roy,0,0,0,,Should we just check both ways
 Dialogue: 0,0:08:43.25,0:08:46.38,Main,Liko,0,0,0,,Guess they don’t {\i1}always{\i0} \N see eye to eye...
 Dialogue: 0,0:08:53.30,0:08:54.60,Main,Liko,0,0,0,,Up there!
 Dialogue: 0,0:08:54.60,0:08:56.47,Main,Roy,0,0,0,,They were {\i1}both{\i0} wrong!
-Dialogue: 0,0:09:00.77,0:09:02.10,Main,Friede,0,0,0,,After it!{Dread Anokusa}
+Dialogue: 0,0:09:00.77,0:09:02.10,Main,Friede,0,0,0,,After it!{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:09:09.36,0:09:11.20,Main,Roy,0,0,0,,We wound up back in the desert!
 Dialogue: 0,0:09:11.20,0:09:13.78,Main,Friede,0,0,0,,It’ll be easier to spot \N in a wide open area.
 Dialogue: 0,0:09:17.91,0:09:20.87,Main,Roy,0,0,0,,There’s loads of Anokusa!
 Dialogue: 0,0:09:20.87,0:09:23.04,Main,Friede,0,0,0,,No, those are tumbleweeds.
 Dialogue: 0,0:09:23.54,0:09:27.30,Main,Friede,0,0,0,,They look just like Anokusa, \N but they’re only clumps of dry grass.
 Dialogue: 0,0:09:27.30,0:09:29.80,Main,Roy,0,0,0,,Anokusa! You out there?
-Dialogue: 0,0:09:33.55,0:09:34.55,Main,Roy,0,0,0,,It {\i1}is{\i0} here!{Dread Anokusa}
+Dialogue: 0,0:09:33.55,0:09:34.55,Main,Roy,0,0,0,,It {\i1}is{\i0} here!{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:09:34.55,0:09:38.93,Main,Friede,0,0,0,,We’ll just have to \N check them one by one.
-Dialogue: 0,0:09:39.85,0:09:41.44,Main,Friede,0,0,0,,Not it...{Dread Anokusa}
-Dialogue: 0,0:09:41.94,0:09:43.94,Main,Roy,0,0,0,,It’s not here...{Dread Anokusa}
+Dialogue: 0,0:09:39.85,0:09:41.44,Main,Friede,0,0,0,,Not it...{DREADED “IT” PRONOUN: Anokusa}
+Dialogue: 0,0:09:41.94,0:09:43.94,Main,Roy,0,0,0,,It’s not here...{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:09:52.53,0:09:54.49,Main,Liko,0,0,0,,Guess we couldn’t find it, Nyahoja...
 Dialogue: 0,0:10:00.70,0:10:02.04,Main,Liko,0,0,0,,Huh?!
 Dialogue: 0,0:10:02.04,0:10:03.42,Main,Liko,0,0,0,,Wasn’t that Anokusa?
@@ -217,7 +217,7 @@ Dialogue: 0,0:12:25.72,0:12:27.85,Main,Friede,0,0,0,,Ow, ow, ow!
 Dialogue: 0,0:12:27.85,0:12:30.19,Main,Friede,0,0,0,,Don’t take it out on me!
 Dialogue: 0,0:12:30.19,0:12:33.69,Main,Liko,0,0,0,,Hmm... {\i1}Is{\i0} this the ideal bond?
 Dialogue: 0,0:12:34.61,0:12:37.78,Main,Roy,0,0,0,,Anokusa! Answer if you can hear me!
-Dialogue: 0,0:12:37.78,0:12:39.70,Main,Liko,0,0,0,,Where could it have gone?{Dread Anokusa}
+Dialogue: 0,0:12:37.78,0:12:39.70,Main,Liko,0,0,0,,Where could it have gone?{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:12:41.45,0:12:42.28,Main,Roy,0,0,0,,Huh?
 Dialogue: 0,0:12:44.37,0:12:46.87,Main,Hunter,0,0,0,,Hey, would you say this one’s cute?{Hey, would you call this one cute?}
 Dialogue: 0,0:12:46.87,0:12:49.87,Main,Hunter,0,0,0,,She didn’t like that Anokusa \N we grabbed earlier, either...
@@ -320,12 +320,12 @@ Dialogue: 0,0:18:29.96,0:18:32.17,Main,Liko,0,0,0,,Huh? H-Huh?!
 Dialogue: 0,0:18:32.84,0:18:34.51,Main,Liko,0,0,0,,We better save Anokusa while we can!
 Dialogue: 0,0:18:34.51,0:18:36.51,Main,Friede,0,0,0,,Don’t worry.
 Dialogue: 0,0:18:36.51,0:18:39.14,Main,Friede,0,0,0,,Anokusa! Rapid Spin in place!
-Dialogue: 0,0:18:52.36,0:18:53.74,Main,Roy,0,0,0,,It evolved?!{Dread Anokusa}
-Dialogue: 0,0:18:53.74,0:18:58.37,Main,Friede,0,0,0,,{\q2}Anokusa may not have been strong enough to break out, \N but now that it’s evolved into Anohoragusa...{Dread Anokusa}
+Dialogue: 0,0:18:52.36,0:18:53.74,Main,Roy,0,0,0,,It evolved?!{DREADED “IT” PRONOUN: Anokusa}
+Dialogue: 0,0:18:53.74,0:18:58.37,Main,Friede,0,0,0,,{\q2}Anokusa may not have been strong enough to break out, \N but now that it’s evolved into Anohoragusa...{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:18:58.37,0:19:00.12,Main,Friede,0,0,0,,Anohoragusa! Power Whip!
 Dialogue: 0,0:19:11.17,0:19:12.63,Main,Liko,0,0,0,,Wow!
 Dialogue: 0,0:19:13.80,0:19:17.64,Main,Friede,0,0,0,,Anokusa is a Pokémon that evolves \N by walking around a lot.
-Dialogue: 0,0:19:18.18,0:19:21.72,Main,Friede,0,0,0,,It must’ve been ready to evolve \N after tumbling around in the wind so much.{Dread Anokusa}
+Dialogue: 0,0:19:18.18,0:19:21.72,Main,Friede,0,0,0,,It must’ve been ready to evolve \N after tumbling around in the wind so much.{DREADED “IT” PRONOUN: Anokusa}
 Dialogue: 0,0:19:22.60,0:19:24.60,Main,Friede,0,0,0,,I saw a hint of it earlier,
 Dialogue: 0,0:19:24.60,0:19:28.06,Main,Friede,0,0,0,,so I figured it could escape \N if those guys took their eyes off the cage.
 Dialogue: 0,0:19:28.06,0:19:31.73,Main,Roy,0,0,0,,So, that argument \N was part of your plan?
@@ -358,15 +358,15 @@ Dialogue: 0,0:21:26.81,0:21:31.06,Main,Liko,0,0,0,,Just having him there \N give
 Dialogue: 0,0:21:31.06,0:21:35.07,Main,Liko,0,0,0,,I hope to be a trainer like him someday!
 Dialogue: 0,0:21:35.07,0:21:38.44,Main,Liko,0,0,0,,And that’s why I intend...
 Dialogue: 0,0:21:38.44,0:21:40.90,Main,Liko,0,0,0,,...to keep on watching them!
-Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friedeâ€™s PokÃ©mon Seminar A}
+Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.24,0:21:47.33,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.33,0:21:49.45,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:51.00,0:21:54.50,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N the Tumbleweed Pokémon, Anokusa.
+Dialogue: 0,0:21:51.00,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Tumbleweed Pokémon, Anokusa.
 Dialogue: 0,0:21:55.17,0:21:59.51,Main,Friede,0,0,0,,A Pokémon which tumbles and rolls \N around the windy wilderness.{lots of initial k- sounds}
 Dialogue: 0,0:21:59.51,0:22:04.22,Main,Friede,0,0,0,,But do you know \N the effect rolling has on it?
 Dialogue: 0,0:22:04.22,0:22:06.76,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friedeâ€™s PokÃ©mon Seminar B}
+Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.48,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.11,0:23:45.82,Main,Friede,0,0,220,,The answer is... \N B: Energy gathering!
 Dialogue: 0,0:23:45.82,0:23:50.33,Main,Friede,0,0,220,,As it rolls, it sucks up energy \N from nearby plants.
@@ -374,8 +374,7 @@ Dialogue: 0,0:23:50.33,0:23:54.62,Main,Friede,0,0,220,,By rolling so much, \N it
 Dialogue: 0,0:23:56.96,0:24:00.50,Main,Friede,0,0,0,,Its way and whether it evolves \N are at the whims of the wind.{lots of initial sh- sounds}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.21,0:24:03.30,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 0,0:24:03.30,0:24:04.63,Main,Gurumin,0,0,0,,Y’all been groovin’?
-Dialogue: 0,0:24:04.63,0:24:07.05,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 0,0:24:03.30,0:24:07.05,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
 Dialogue: 0,0:24:07.05,0:24:11.85,Main,Gurumin,0,0,0,,A super popular Gurumin vid \N brought in a request for advice!
 Dialogue: 0,0:24:12.56,0:24:14.85,Main,Gurumin,0,0,0,,A certain trainer girl says...
 Dialogue: 0,0:24:14.85,0:24:18.94,Main,Gurumin,0,0,0,,“As of late, my Pokémon’s had \N no energy at all! What should I do?!”

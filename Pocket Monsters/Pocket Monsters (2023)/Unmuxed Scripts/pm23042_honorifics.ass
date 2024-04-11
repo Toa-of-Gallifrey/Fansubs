@@ -329,16 +329,16 @@ Dialogue: 0,0:21:29.14,0:21:31.77,Main,Landau,0,0,0,,Hmm? What is that?
 Dialogue: 0,0:21:33.40,0:21:36.53,Main,Swim Trunks Guy,0,0,0,,Some strangers rolled in recently \N and put that up.
 Dialogue: 0,0:21:36.53,0:21:38.99,Main,Swim Trunks Guy,0,0,0,,They’re a suspicious bunch, \N if you ask me.
 Dialogue: 0,0:21:39.69,0:21:41.49,Main,Friede,0,0,0,,A suspicious bunch...?
-Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
+Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 0,0:21:46.20,0:21:47.20,Main,Friede,0,0,0,,Friede here.
 Dialogue: 0,0:21:47.20,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:51.00,0:21:54.50,Main,Friede,0,0,0,,Today, we’ll be taking a look at \N Irukaman: Mighty Forme.
+Dialogue: 0,0:21:51.00,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N Irukaman: Mighty Forme.
 Dialogue: 0,0:21:54.50,0:21:58.30,Main,Friede,0,0,0,,The Hero of the Ocean, \N whose ancient genes have awakened.
 Dialogue: 0,0:21:58.30,0:22:02.63,Main,Friede,0,0,0,,By transforming from Naïve Forme, \N it gains a certain power.
 Dialogue: 0,0:22:02.63,0:22:05.35,Main,Friede,0,0,0,,But do you know what that power is?
 Dialogue: 0,0:22:05.35,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
-Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
+Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 0,0:23:39.27,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 0,0:23:42.40,0:23:45.20,Main,Friede,0,0,220,,The answer is: All of them!
 Dialogue: 0,0:23:45.20,0:23:48.49,Main,Friede,0,0,220,,When it awakens its genes, \N it powers up dramatically!
@@ -352,7 +352,7 @@ Dialogue: 0,0:24:09.51,0:24:14.10,Main,Gurumin,0,0,0,,I’m not into the waiting
 Dialogue: 0,0:24:15.10,0:24:20.06,Main,Gurumin,0,0,0,,{\q2}At one such shop, Liko and Roy get targeted by \N a mysterious girl who’s after some limited-supply sweets...
 Dialogue: 0,0:24:20.56,0:24:22.07,Main,Gurumin,0,0,0,,I sense a battle brewing...
 Dialogue: 0,0:24:22.07,0:24:24.94,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters:
-Dialogue: 0,0:24:24.94,0:24:26.95,Main,Gurumin,0,0,0,,A Challenge From the Explorers
+Dialogue: 0,0:24:24.94,0:24:26.95,Main,Gurumin,0,0,0,,A Letter of Challenge From the Explorers
 Dialogue: 0,0:24:27.99,0:24:30.45,Main,Gurumin,0,0,0,,Where have I seen her before...?
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:03:15.47,0:03:19.93,OP,,0,0,0,,{=997}{\fad(1020,0)\blur1\3c&HAF7E09&}Now, head forth! Pierce through the clouds
@@ -1086,56 +1086,56 @@ Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1036}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}A Challenge From the Explorers
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}A Challenge From the Explorers
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}A Letter of Challenge From the Explorers
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}A Letter of Challenge From the Explorers
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}I Found You, Hogator
 Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}I Found You, Hogator
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}A Challenge From the Explorers
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}A Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}A Letter of Challenge From the Explorers
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}A Letter of Challenge From the Explorers
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]

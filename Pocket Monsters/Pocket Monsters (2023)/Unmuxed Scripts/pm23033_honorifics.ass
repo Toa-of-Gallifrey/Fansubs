@@ -37,8 +37,8 @@ Dialogue: 0,0:00:32.26,0:00:33.22,Main,Amethio,0,0,0,,Let’s go!
 Comment: 0,0:00:39.56,0:00:39.56,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:09.65,0:02:09.65,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:02:20.91,0:02:26.88,Main,Liko,0,0,0,,{\q2}The Rising Voltteccers entered an ocean enveloped \N in fog, hoping to meet Laplace of the Six Heroes.
-Dialogue: 0,0:02:28.17,0:02:31.13,Main,Liko,0,0,0,,At long last, we were able to \N pinpoint its location. {Dread Laplace}
-Dialogue: 0,0:02:31.84,0:02:36.84,Main,Liko,0,0,0,,In the end, Laplace was moved by \N Terapagos’s feelings and came with us.{alt: In the end, Terapagos’s feelings \N moved Laplace and it came with us.}{Dread Laplace}
+Dialogue: 0,0:02:28.17,0:02:31.13,Main,Liko,0,0,0,,At long last, we were able to \N pinpoint its location. {DREADED “IT” PRONOUN: Laplace}
+Dialogue: 0,0:02:31.84,0:02:36.84,Main,Liko,0,0,0,,In the end, Laplace was moved by \N Terapagos’s feelings and came with us.{alt: In the end, Terapagos’s feelings \N moved Laplace and it came with us.}{DREADED “IT” PRONOUN: Laplace}
 Dialogue: 0,0:02:37.85,0:02:43.27,Main,Liko,0,0,0,,Just when it seemed all was said and done, \N we found ourselves face to face with...
 Dialogue: 0,0:02:44.60,0:02:46.06,Main,Roy,0,0,0,,Rekkuuza!{032}
 Dialogue: 0,0:02:46.06,0:02:47.36,Main,Liko,0,0,0,,Y-You’re kidding!{032}
@@ -49,7 +49,7 @@ Dialogue: 0,0:03:15.63,0:03:18.14,Main,Friede,0,0,0,,Did the Heroes call out to 
 Dialogue: 0,0:03:19.64,0:03:21.14,Main,Diana,0,0,0,,I see...
 Dialogue: 0,0:03:21.14,0:03:25.02,Main,Diana,0,0,0,,You must be Lucius’s greatest partner!
 Dialogue: 0,0:03:27.69,0:03:30.02,Main,Roy,0,0,0,,We’re down here, Rekkuuza!
-Dialogue: 0,0:03:31.36,0:03:33.32,Main,Liko,0,0,0,,Please, let us get through to it...{Dread Rekkuuza}
+Dialogue: 0,0:03:31.36,0:03:33.32,Main,Liko,0,0,0,,Please, let us get through to it...{DREADED “IT” PRONOUN: Rekkuuza}
 Dialogue: 0,0:03:44.66,0:03:47.12,Main,Murdock,0,0,0,,Uh, are we... gonna be okay, here?
 Dialogue: 0,0:03:47.12,0:03:47.92,Main,Landau,0,0,0,,Mm-hmm.
 Dialogue: 0,0:03:47.92,0:03:49.92,Main,Landau,0,0,0,,It does not seem to wish to fight.
@@ -78,11 +78,11 @@ Dialogue: 0,0:05:36.69,0:05:38.86,Main,Murdock,0,0,0,,Get the two of them \N bac
 Dialogue: 0,0:05:39.86,0:05:40.65,Main,Friede,0,0,0,,Here we go!
 Dialogue: 0,0:05:40.65,0:05:42.86,Main,Roy,0,0,0,,Rekkuuza! Let me go! \N Or Rekkuuza’ll—
 Dialogue: 0,0:05:42.86,0:05:45.20,Main,Diana,0,0,0,,Liko! You stand back, too!
-Dialogue: 0,0:05:46.33,0:05:48.58,Main,Liko,0,0,0,,Grandma! We have to talk to it! {Dread Rekkuuza}
+Dialogue: 0,0:05:46.33,0:05:48.58,Main,Liko,0,0,0,,Grandma! We have to talk to it! {DREADED “IT” PRONOUN: Rekkuuza}
 Dialogue: 0,0:05:48.58,0:05:50.83,Main,Liko,0,0,0,,Terapagos is here, too!
-Dialogue: 0,0:05:50.83,0:05:55.42,Main,Diana,0,0,0,,I realize that! \N But it’s just too riled up! {Dread Rekkuuza}
-Dialogue: 0,0:05:55.42,0:05:56.84,Main,Diana,0,0,0,,Now’s not the time.{Dread Rekkuuza}{Literally "At this moment that (talking) is no good."}
-Dialogue: 0,0:06:05.55,0:06:07.93,Main,Amethio,0,0,0,,Knock it out of the skies!{Dread Rekkuuza} \N Sword of Regrets!
+Dialogue: 0,0:05:50.83,0:05:55.42,Main,Diana,0,0,0,,I realize that! \N But it’s just too riled up! {DREADED “IT” PRONOUN: Rekkuuza}
+Dialogue: 0,0:05:55.42,0:05:56.84,Main,Diana,0,0,0,,Now’s not the time.{DREADED “IT” PRONOUN: Rekkuuza}{Literally "At this moment that (talking) is no good."}
+Dialogue: 0,0:06:05.55,0:06:07.93,Main,Amethio,0,0,0,,Knock it out of the skies!{DREADED “IT” PRONOUN: Rekkuuza} \N Sword of Regrets!
 Dialogue: 0,0:06:25.28,0:06:26.41,Main,Amethio,0,0,0,,Soublades!
 Dialogue: 0,0:06:37.25,0:06:38.84,Main,Amethio,0,0,0,,What a monster...
 Dialogue: 0,0:06:38.84,0:06:39.96,Main,Amethio,0,0,0,,Armorgaw!
@@ -113,24 +113,24 @@ Dialogue: 0,0:09:38.60,0:09:40.02,Main,Friede,0,0,0,,Let’s head back to the sh
 Dialogue: 0,0:09:40.73,0:09:41.52,Main,Roy,0,0,0,,Sure.
 Dialogue: 0,0:09:47.44,0:09:48.19,Main,Liko,0,0,0,,Grandma?
 Dialogue: 0,0:09:51.36,0:09:54.37,Main,Diana,0,0,0,,Yes... I’ll be right there.
-Dialogue: 0,0:10:00.12,0:10:02.62,Main,Molly,0,0,0,,It doesn’t seem injured.{Dread Terapagos}
-Dialogue: 0,0:10:03.21,0:10:06.25,Main,Molly,0,0,0,,It must be worn out \N after using up all its energy like that.{Dread Terapagos x2}
+Dialogue: 0,0:10:00.12,0:10:02.62,Main,Molly,0,0,0,,It doesn’t seem injured.{DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 0,0:10:03.21,0:10:06.25,Main,Molly,0,0,0,,It must be worn out \N after using up all its energy like that.{DREADED “IT” PRONOUN: Terapagos x2}
 Dialogue: 0,0:10:09.92,0:10:13.38,Main,Molly,0,0,0,,You go to bed, Liko. \N I’ll stay here overnight.
 Dialogue: 0,0:10:14.51,0:10:15.26,Main,Liko,0,0,0,,Okay...
-Dialogue: 0,0:10:25.86,0:10:28.61,Main,Roy,0,0,0,,I wanted to see it for so long... {Dread Rekkuuza}
+Dialogue: 0,0:10:25.86,0:10:28.61,Main,Roy,0,0,0,,I wanted to see it for so long... {DREADED “IT” PRONOUN: Rekkuuza}
 Dialogue: 0,0:10:28.61,0:10:30.61,Main,Roy,0,0,0,,But when the time came, \N I couldn’t do a thing...
-Dialogue: 0,0:10:31.82,0:10:34.03,Main,Roy,0,0,0,,It barely even looked my way. {Dread Rekkuuza}
+Dialogue: 0,0:10:31.82,0:10:34.03,Main,Roy,0,0,0,,It barely even looked my way. {DREADED “IT” PRONOUN: Rekkuuza}
 Dialogue: 0,0:10:35.20,0:10:37.70,Main,Roy,0,0,0,,But next time, for sure...
 Dialogue: 0,0:10:38.83,0:10:39.66,Main,Roy,0,0,0,,Hogator?
 Comment: 0,0:10:48.54,0:10:48.54,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:11:03.93,0:11:09.52,Main,Friede,0,0,0,,So, Terapagos really was the Pokémon \N depicted in Lucius’s journal?
-Dialogue: 0,0:11:09.52,0:11:13.32,Main,Diana,0,0,0,,Yes. The power I sensed from it \N was identical to that of the Six Heroes.{Dread Terapagos}
-Dialogue: 0,0:11:14.03,0:11:18.70,Main,Friede,0,0,0,,But after it used that power, \N it immediately reverted to its usual form.{Dread Terapagos}
+Dialogue: 0,0:11:09.52,0:11:13.32,Main,Diana,0,0,0,,Yes. The power I sensed from it \N was identical to that of the Six Heroes.{DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 0,0:11:14.03,0:11:18.70,Main,Friede,0,0,0,,But after it used that power, \N it immediately reverted to its usual form.{DREADED “IT” PRONOUN: Terapagos}
 Dialogue: 0,0:11:20.20,0:11:24.50,Main,Diana,0,0,0,,And it seems Rekkuuza decided to leave \N the moment it saw that happen.
-Dialogue: 0,0:11:25.41,0:11:30.09,Main,Friede,0,0,0,,Almost as if it had no interest whatsoever \N in the untransformed Terapagos.{Dread Rekkuuza}
+Dialogue: 0,0:11:25.41,0:11:30.09,Main,Friede,0,0,0,,Almost as if it had no interest whatsoever \N in the untransformed Terapagos.{DREADED “IT” PRONOUN: Rekkuuza}
 Dialogue: 0,0:11:30.71,0:11:34.47,Main,Diana,0,0,0,,Rekkuuza may have been \N testing Terapagos’s power.
 Dialogue: 0,0:11:35.09,0:11:40.39,Main,Friede,0,0,0,,Meeting Oliva, Galarian Fire, and Laplace \N may have awakened Terapagos...
-Dialogue: 0,0:11:40.39,0:11:42.47,Main,Friede,0,0,0,,...and granted it some power.{Dread Terapagos}
+Dialogue: 0,0:11:40.39,0:11:42.47,Main,Friede,0,0,0,,...and granted it some power.{DREADED “IT” PRONOUN: Terapagos}
 Dialogue: 0,0:11:42.47,0:11:45.85,Main,Friede,0,0,0,,But maybe that power \N isn’t complete yet?
 Dialogue: 0,0:11:46.39,0:11:50.40,Main,Diana,0,0,0,,Aside from Rekkuuza, \N two of the Six Heroes remain.
 Dialogue: 0,0:11:50.40,0:11:52.61,Main,Diana,0,0,0,,Basagiri and Entei.
