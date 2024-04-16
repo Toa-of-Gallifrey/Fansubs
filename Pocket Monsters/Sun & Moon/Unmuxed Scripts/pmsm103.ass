@@ -209,7 +209,7 @@ Dialogue: 0,0:06:23.93,0:06:24.90,Main,Kaki,0,0,0,,What’s wrong?
 Dialogue: 0,0:06:32.53,0:06:34.41,Main,Kaki,0,0,0,,A Garura! Is it wild?
 Dialogue: 0,0:06:34.41,0:06:35.93,Main,Kaki,0,0,0,,What’s it doing here?
 Dialogue: 0,0:06:35.93,0:06:37.86,Main,Lilie,0,0,0,,It might have \N stumbled its way in here.
-Dialogue: 0,0:06:39.38,0:06:42.56,Main,Rotom,0,0,0,,Garura. Parent Pokémon. \N Normal type.
+Dialogue: 0,0:06:39.38,0:06:42.56,Main,Rotom,0,0,0,,Garura. Parent and Child Pokémon. \N Normal type.
 Dialogue: 0,0:06:42.56,0:06:44.42,Main,Rotom,0,0,0,,It raises its offspring \N in its belly pouch. {X Pokédex entry}
 Dialogue: 0,0:06:44.86,0:06:49.36,Main,Rotom,0,0,0,,Garura’s maternal love is so deep that \N it will brave death to protect its offspring. {Sun Pokédex entry}
 Dialogue: 0,0:06:49.36,0:06:51.34,Main,Suiren,0,0,0,,The mother’s angry.
@@ -464,7 +464,7 @@ Comment: 0,0:21:59.51,0:21:59.51,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.51,0:23:20.51,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.44,0:23:24.75,Main,Kaki,0,0,0,,Thanks for waiting!
 Dialogue: 0,0:23:24.75,0:23:28.35,Main,Kaki,0,0,0,,The Pokémon that came to \N my family farm was Garura!
-Dialogue: 0,0:23:28.35,0:23:31.53,Main,Kaki,0,0,0,,The Parent Pokémon Garura \N is a Normal type.
+Dialogue: 0,0:23:28.35,0:23:31.53,Main,Kaki,0,0,0,,The Parent and Child Pokémon Garura \N is a Normal type.
 Dialogue: 0,0:23:31.53,0:23:35.36,Main,Kaki,0,0,0,,It’s said that the child in its pouch \N leaves home after roughly three years. {Moon Pokédex entry... Minus the “It’s said that” part. That’s not in the game.}
 Dialogue: 0,0:23:35.36,0:23:39.98,Main,Kaki,0,0,0,,But I can’t believe he was able to calm \N that enraged Garura and treat its child’s leg...
 Dialogue: 0,0:23:39.98,0:23:42.11,Main,Kaki,0,0,0,,Takeshi’s skills are frightening!
