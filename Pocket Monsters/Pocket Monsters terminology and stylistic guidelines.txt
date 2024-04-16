@@ -2030,7 +2030,7 @@ POKÉMON NAMES
 0778 ミミッキュ Mimikkyu - ばけのかわポケモン Disguise Pokémon
 0779 ハギギシリ Hagigishiri - はぎしりポケモン Bruxism Pokémon
 0780 ジジーロン Jijilong - ゆうゆうポケモン Placid Pokémon
-0781 ダダリン Dadarin - もくずポケモン Sea Creeper Pokémon
+0781 ダダリン Dadarin - もくずポケモン Sea Scrap Pokémon
 0782 ジャラコ Jarako - うろこポケモン 
 0783 ジャランゴ Jarango - うろこポケモン 
 0784 ジャラランガ Jararanga - うろこポケモン 
@@ -2171,8 +2171,8 @@ POKÉMON NAMES
 0919 マメバッタ 
 0920 エクスレッグ 
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
-0922 パモット 
-0923 パーモット 
+0922 パモット Pamot - ねずみポケモン Mouse Pokémon
+0923 パーモット Parmot -  - てあてポケモン 
 0924 ワッカネズミ Wakkanezumi - カップルポケモン Couple Pokémon
 0925 イッカネズミ Ikkanezumi - ファミリーポケモン Family Pokémon
 0926 パピモッチ Puppymocchi - こいぬポケモン Puppy Pokémon
@@ -2290,7 +2290,7 @@ katto rotomu カットロトム (Mow Rotom) - Cut Rotom
 
 
 
-CONFIRMED POKÉMON GENDERS
+GENDERS
 
 Satoshi's Pikachu - Male (gender design difference)
 Satoshi's Heigani - Male (referred to as "otoko" in MPM)
@@ -2307,9 +2307,13 @@ Iris's Emonga - Female
 
 Shirona's Gaburias - Female (gender design difference)
 
+Go's Aceburn - Male (referred to as "aniki" by Yasuda in behind the scenes material)
+Go's Inteleon - Male (Yabashi's Kakuleon falls for him in PM19)
+
 Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
 
-Liko's Nyahoja - Female (attracted to male Perfuton in PM23)
+Liko's Nyarote - Female (attracted to male Perfuton in PM23)
+Liko's Mibrim - Female (monogender species)
 
 Roy's Hogator - Male (not attracted to male Perfuton in PM23)
 
