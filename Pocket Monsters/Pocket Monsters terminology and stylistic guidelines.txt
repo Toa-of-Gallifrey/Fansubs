@@ -23,7 +23,7 @@ akurobatto アクロバット (Acrobatics) - Acrobatics
 akuseru bureiku アクセルブレイク (Collision Course) - Accel Break
 akuseru rokku アクセルロック (Accelerock) - Accel Rock
 akuu setsudan あくうせつだん (Spacial Rend) - # TBD #
-amaeru あまえる (Charm) - # TBD #
+amaeru あまえる (Charm) - Fawn
 amagoi あまごい (Rain Dance) - Rain Prayer
 amai kaori あまいかおり (Sweet Scent) - Sweet Scent
 ana o horu あなをほる (Dig) - Dig
@@ -1465,7 +1465,7 @@ POKÉMON NAMES
 0213 ツボツボ Tsubotsubo - はっこうポケモン 
 0214 ヘラクロス Heracross - 1ぽんヅノポケモン Single Horn Pokémon
 0215 ニューラ Nyula - かぎづめポケモン 
-0216 ヒメグマ Himeguma - こぐまポケモン 
+0216 ヒメグマ Himeguma - こぐまポケモン Little Bear Pokémon
 0217 リングマ Ringuma - とうみんポケモン 
 0218 マグマッグ 
 0219 マグカルゴ 
@@ -2166,7 +2166,7 @@ POKÉMON NAMES
 0914 ウェーニバル
 0915 グルトン Gourton - ぶたポケモン Hog Pokémon
 0916 パフュートン Perfuton - ぶたポケモン Hog Pokémon
-0917 タマンチュラ 
+0917 タマンチュラ Tamantula - いとだまポケモン 
 0918 ワナイダー Wanaider - トラップポケモン Trap Pokémon
 0919 マメバッタ 
 0920 エクスレッグ 
