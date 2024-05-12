@@ -18,9 +18,9 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
 Style: Insert,Candara,60,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,8,45,45,60,0
 Style: Episode titles,Waukegan LDO,80,&H00FAFE1F,&H00341DFF,&H00FFFFFF,&H00444445,-1,-1,0,0,100,100,0,0,1,4,3,2,45,45,45,0
-Style: OP,AokaneStd-EB-Oblique-NoJP-Mod,75,&H005895F9,&H00F3FFF4,&H00E8F5FE,&H001E466D,0,0,0,0,100,100,0,0,1,0,2,8,45,45,30,0
-Style: OPp2,AokaneStd-EB-Oblique-NoJP-Mod,75,&H00E8F5FE,&H00F3FFF4,&H00E8F5FE,&H004B6E91,0,0,0,0,100,100,0,0,1,5,3,8,45,45,30,0
-Style: ED,Ro GSan Serif Std U,63,&H00000000,&H00F3FFF4,&H00FFFFFF,&HFF000000,0,0,0,0,100,100,0,0,1,5,4,8,45,45,30,0
+Style: OP,AokaneStd-EB-Oblique-NoJP-Mod,75,&H005895F9,&H00F3FFF4,&H00E8F5FE,&H001E466D,0,0,0,0,100,100,0.0001,0,1,0,2,8,45,45,30,0
+Style: OPp2,AokaneStd-EB-Oblique-NoJP-Mod,75,&H00E8F5FE,&H00F3FFF4,&H00E8F5FE,&H004B6E91,0,0,0,0,100,100,0.0001,0,1,5,3,8,45,45,30,0
+Style: ED,Ro GSan Serif Std U,63,&H00000000,&H00F3FFF4,&H00FFFFFF,&HFF000000,0,0,0,0,100,100,0.0001,0,1,5,4,8,45,45,30,0
 Style: Logo,PmLogo2023,100,&H00C98000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 
@@ -426,7 +426,7 @@ Dialogue: 0,0:24:13.60,0:24:15.89,Main,Dot,0,0,0,,Being first up to bat \N must 
 Dialogue: 0,0:24:16.69,0:24:19.90,Main,Liko,0,0,0,,My first time Terastallizing... \N I’m going to ace this!
 Dialogue: 0,0:24:19.90,0:24:23.53,Main,Roy,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
 Dialogue: 0,0:24:23.53,0:24:24.82,Main,Roy,0,0,0,,Ready, and...
-Dialogue: 0,0:24:24.82,0:24:26.95,Main,Them,0,0,0,,Liko and Nyarote, Put Your Hearts Into It
+Dialogue: 0,0:24:24.82,0:24:26.95,Main,Them,0,0,0,,{\i1}Liko and Nyarote, Put Your Hearts Into It{\i0}
 Dialogue: 0,0:24:27.40,0:24:28.82,Main,Liko,0,0,0,,I’m going to ace this!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 2,0:04:05.48,0:04:08.85,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
@@ -894,37 +894,37 @@ Dialogue: 2,0:04:38.55,0:04:40.76,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:04:38.55,0:04:40.76,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Closer than yesterday (Best friends)
 Dialogue: 2,0:04:38.55,0:04:40.76,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Closer than yesterday (Best friends)
 Dialogue: 2,0:04:38.55,0:04:40.76,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Closer than yesterday (Best friends)
-Comment: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Let’s make our debut into a new world, with you
-Comment: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Let’s make our debut into a new world, with you
-Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Let’s make our debut into a new world, with you
+Comment: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}I’m making my debut into a new world with you
+Comment: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}I’m making my debut into a new world with you
+Dialogue: 2,0:04:40.76,0:04:44.89,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}I’m making my debut into a new world with you
 Comment: 2,0:04:44.89,0:04:47.81,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}We’re the challengers
 Comment: 2,0:04:44.89,0:04:47.81,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}We’re the challengers
 Dialogue: 2,0:04:44.89,0:04:47.81,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}We’re the challengers
@@ -1468,7 +1468,7 @@ Dialogue: 1,0:04:30.58,0:04:32.75,OPp2,,0,0,0,,{\blur0.6}The rest is easy, leave
 Dialogue: 1,0:04:32.75,0:04:36.59,OPp2,,0,0,0,,{\blur0.6}You and I will add to our story (oh-oh)
 Dialogue: 1,0:04:36.59,0:04:38.55,OPp2,,0,0,0,,{\blur0.6}Always a little bit more (We are)
 Dialogue: 1,0:04:38.55,0:04:40.76,OPp2,,0,0,0,,{\blur0.6}Closer than yesterday (Best friends)
-Dialogue: 1,0:04:40.76,0:04:44.89,OPp2,,0,0,0,,{\blur0.6}Let’s make our debut into a new world, with you
+Dialogue: 1,0:04:40.76,0:04:44.89,OPp2,,0,0,0,,{\blur0.6}I’m making my debut into a new world with you
 Dialogue: 1,0:04:44.89,0:04:47.81,OPp2,,0,0,0,,{\blur0.6}We’re the challengers
 Dialogue: 1,0:04:47.81,0:04:52.31,OPp2,,0,0,0,,{\blur0.6}It’s set into motion now, our fateful adventure
 Dialogue: 1,0:04:52.31,0:04:55.90,OPp2,,0,0,0,,{\blur0.6}We’re the challengers
@@ -1501,7 +1501,7 @@ Dialogue: 0,0:04:30.58,0:04:32.75,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}T
 Dialogue: 0,0:04:32.75,0:04:36.59,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}You and I will add to our story (oh-oh)
 Dialogue: 0,0:04:36.59,0:04:38.55,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Always a little bit more (We are)
 Dialogue: 0,0:04:38.55,0:04:40.76,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Closer than yesterday (Best friends)
-Dialogue: 0,0:04:40.76,0:04:44.89,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Let’s make our debut into a new world, with you
+Dialogue: 0,0:04:40.76,0:04:44.89,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}I’m making my debut into a new world with you
 Dialogue: 0,0:04:44.89,0:04:47.81,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We’re the challengers
 Dialogue: 0,0:04:47.81,0:04:52.31,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}It’s set into motion now, our fateful adventure
 Dialogue: 0,0:04:52.31,0:04:55.90,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We’re the challengers
@@ -1564,9 +1564,9 @@ Dialogue: 0,0:22:40.55,0:22:43.26,ED,,0,0,0,,{\blur0.6\4a&H00&}Even by the small
 Dialogue: 0,0:22:43.26,0:22:45.55,ED,,0,0,0,,{\blur0.6\4a&H00&}It's a new personal best!
 Dialogue: 0,0:22:45.55,0:22:47.26,ED,,0,0,0,,{\blur0.6\4a&H00&\c&H2725F5&}Tel{\c&H000000&}ling a {\c&H2725F5&}r{\c&H000000&}e{\c&H2725F5&}a{\c&H000000&}l hero-to-{\c&H2725F5&}c{\c&H000000&}ome's {\c&H2725F5&}S{\c&H000000&}tory{lit. Story of [one who] can become a hero}
 Dialogue: 0,0:22:47.26,0:22:49.14,ED,,0,0,0,,{\blur0.6\4a&H00&}Look to the fu{\c&HFE21A3&}t{\c&H000000&}ure, som{\c&HFE21A3&}e{\c&H000000&}day I'{\c&HFE21A3&}l{\c&H000000&}l get t{\c&HFE21A3&}o {\c&H000000&}cla{\c&HFE21A3&}i{\c&H000000&}m {\c&HFE21A3&}V{\c&H000000&}ictory{lit. If you look to tomorrow, sooner or later [I] claim Victory}
-Dialogue: 0,0:22:49.14,0:22:50.72,ED,,0,0,0,,{\blur0.6\4a&H00&}Nice to meet you, to beat y'all
+Dialogue: 0,0:22:49.14,0:22:50.72,ED,,0,0,0,,{\blur0.6\4a&H00&}Nice to meet you, to the beat y'all
 Dialogue: 0,0:22:50.72,0:22:53.02,ED,,0,0,0,,{\blur0.6\4a&H00&}It's super promising!
-Dialogue: 0,0:22:53.02,0:22:56.69,ED,,0,0,0,,{\blur0.6\4a&H00&}I'm all set to polish my skills 'til I'm satisfied
+Dialogue: 0,0:22:53.02,0:22:56.69,ED,,0,0,0,,{\blur0.6\4a&H00&}I'm all set to hone my skills until I'm satisfied
 Dialogue: 0,0:22:56.69,0:22:58.77,ED,,0,0,0,,{\blur0.6\4a&H00&}(Ready, hop! Ready, jump!)
 Dialogue: 0,0:22:58.77,0:23:01.15,ED,,0,0,0,,{\blur0.6\4a&H00&}And go! Head past the furthest reaches
 Dialogue: 0,0:23:01.15,0:23:03.45,ED,,0,0,0,,{\blur0.6\4a&H00&}Never bind myself with limits

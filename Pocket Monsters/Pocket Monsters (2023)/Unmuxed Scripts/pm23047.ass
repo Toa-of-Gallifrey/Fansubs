@@ -18,9 +18,9 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
 Style: Insert,Candara,60,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,8,45,45,60,0
 Style: Episode titles,Waukegan LDO,80,&H00FAFE1F,&H00341DFF,&H00FFFFFF,&H00444445,-1,-1,0,0,100,100,0,0,1,4,3,2,45,45,45,0
-Style: OP,AokaneStd-EB-Oblique-NoJP-Mod,75,&H005895F9,&H00F3FFF4,&H00E8F5FE,&H001E466D,0,0,0,0,100,100,0,0,1,0,2,8,45,45,30,0
-Style: OPp2,AokaneStd-EB-Oblique-NoJP-Mod,75,&H00E8F5FE,&H00F3FFF4,&H00E8F5FE,&H004B6E91,0,0,0,0,100,100,0,0,1,5,3,8,45,45,30,0
-Style: ED,Ro GSan Serif Std U,63,&H00000000,&H00F3FFF4,&H00FFFFFF,&HFF000000,0,0,0,0,100,100,0,0,1,5,4,8,45,45,30,0
+Style: OP,AokaneStd-EB-Oblique-NoJP-Mod,75,&H005895F9,&H00F3FFF4,&H00E8F5FE,&H001E466D,0,0,0,0,100,100,0.0001,0,1,0,2,8,45,45,30,0
+Style: OPp2,AokaneStd-EB-Oblique-NoJP-Mod,75,&H00E8F5FE,&H00F3FFF4,&H00E8F5FE,&H004B6E91,0,0,0,0,100,100,0.0001,0,1,5,3,8,45,45,30,0
+Style: ED,Ro GSan Serif Std U,63,&H00000000,&H00F3FFF4,&H00FFFFFF,&HFF000000,0,0,0,0,100,100,0.0001,0,1,5,4,8,45,45,30,0
 Style: Logo,PmLogo2023,100,&H00C98000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 
@@ -57,7 +57,7 @@ Dialogue: 0,0:03:26.89,0:03:28.98,Main,Roy,0,0,0,,Something smells good!
 Dialogue: 0,0:03:28.98,0:03:30.31,Main,Roy,0,0,0,,It’s that way!
 Dialogue: 0,0:03:31.27,0:03:34.86,Main,Dot,0,0,0,,H-Hey! Don’t run off on your own!
 Dialogue: 0,0:03:34.86,0:03:36.78,Main,Liko,0,0,0,,Hold on!
-Dialogue: 0,0:03:41.70,0:03:43.87,Main,Liko,0,0,0,,“Pâtisserie Mukuroji”...
+Dialogue: 0,0:03:41.70,0:03:43.87,Main,Liko,0,0,0,,“Pâtisserie Soapberry”...
 Dialogue: 0,0:03:44.25,0:03:48.25,Main,Dot,0,0,0,,That reminds me... \N The Gym Leader’s a pâtissière...
 Dialogue: 0,0:03:48.25,0:03:50.25,Main,Liko,0,0,0,,If she’s a pâtissière...
 Dialogue: 0,0:03:50.25,0:03:52.25,Main,Roy,0,0,0,,Maybe she’s here! Let’s ask!
@@ -66,7 +66,7 @@ Dialogue: 0,0:03:54.30,0:03:55.63,Main,Liko,0,0,0,,And Nyarote!
 Dialogue: 0,0:04:02.68,0:04:05.18,Main,Liko,0,0,0,,I guess it’s snack time first.
 Dialogue: 0,0:04:07.44,0:04:08.85,Main,Waitoresu,0,0,0,,Please relax and enjoy.
 Dialogue: 0,0:04:10.73,0:04:12.44,Main,Roy,0,0,0,,So this is...
-Dialogue: 0,0:04:12.44,0:04:14.23,Main,Liko,0,0,0,,Mukuroji’s famous...
+Dialogue: 0,0:04:12.44,0:04:14.23,Main,Liko,0,0,0,,Soapberry’s famous...
 Dialogue: 0,0:04:14.23,0:04:16.61,Main,Dot,0,0,0,,Tamantu-la-Torte!{タマンチュ・ラ・トルテ}
 Dialogue: 0,0:04:18.28,0:04:20.24,Main,Them,0,0,0,,Time to dig in!
 Dialogue: 0,0:04:28.50,0:04:30.75,Main,Roy,0,0,0,,It tastes amazing!
@@ -84,9 +84,9 @@ Dialogue: 0,0:05:27.81,0:05:31.81,Main,Dot,0,0,0,,Oh, shush. Molly picked these 
 Dialogue: 0,0:05:31.81,0:05:33.27,Main,Dot,0,0,0,,Wait, never mind about {\i1}me!{\i0}
 Dialogue: 0,0:05:33.27,0:05:35.77,Main,Roy,0,0,0,,Shouldn’t you be on the ship, Murdock?
 Dialogue: 0,0:05:36.19,0:05:40.44,Main,Murdock,0,0,0,,I left the ship repairs to Orio \N and came here to earn some money.
-Dialogue: 0,0:05:40.44,0:05:43.24,Main,Murdock,0,0,0,,I’m working part-time at Mukuroji.
+Dialogue: 0,0:05:40.44,0:05:43.24,Main,Murdock,0,0,0,,I’m working part-time at Soapberry.
 Dialogue: 0,0:05:43.61,0:05:45.03,Main,Liko,0,0,0,,Working part-time...
-Dialogue: 0,0:05:45.03,0:05:50.58,Main,Murdock,0,0,0,,But Mukuroji’s sweets are so popular \N that every day is crazy busy!
+Dialogue: 0,0:05:45.03,0:05:50.58,Main,Murdock,0,0,0,,But Soapberry’s sweets are so popular \N that every day is crazy busy!
 Dialogue: 0,0:05:50.58,0:05:52.21,Main,Murdock,0,0,0,,And the owner’s just lovely, too!
 Dialogue: 0,0:05:52.21,0:05:55.04,Main,Murdock,0,0,0,,She even makes extra cakes \N for the staff as a treat.
 Dialogue: 0,0:05:55.59,0:05:56.63,Main,Roy,0,0,0,,Sounds like...
@@ -123,7 +123,7 @@ Dialogue: 0,0:07:05.86,0:07:07.45,Main,Murdock,0,0,0,,Better not let your guard 
 Dialogue: 0,0:07:09.70,0:07:12.83,Main,Murdock,0,0,0,,Ms. Kaede{Honorifics note: Kaede-san}, I’ll handle this.
 Dialogue: 0,0:07:12.83,0:07:15.08,Main,Murdock,0,0,0,,Now... I’m sorry, \N but we’re all out for today.
 Dialogue: 0,0:07:16.25,0:07:17.58,Main,Liko,0,0,0,,Ms. Kaede{Honorifics note: Kaede-san}?
-Dialogue: 0,0:07:20.34,0:07:25.17,Main,Murdock,0,0,0,,Yep! Meet the owner of Mukuroji \N {\i1}and{\i0} the Gym Leader...
+Dialogue: 0,0:07:20.34,0:07:25.17,Main,Murdock,0,0,0,,Yep! Meet the owner of Soapberry \N {\i1}and{\i0} the Gym Leader...
 Dialogue: 0,0:07:25.63,0:07:28.97,Main,Kaede,0,0,0,,Pleased to meet you. \N I’m Kaede.
 Dialogue: 0,0:07:28.97,0:07:31.35,Main,Kaede,0,0,0,,Welcome to Cercle Town.
 Dialogue: 0,0:07:33.81,0:07:36.85,Main,Liko,0,0,0,,N-Nice to meet you! \N My name’s Liko.
