@@ -348,37 +348,37 @@ Dialogue: 0,0:24:20.94,0:24:25.28,Main,Liko,0,0,0,,Yay, yay! And so, to be conti
 Dialogue: 0,0:24:25.28,0:24:28.70,Main,Liko & Roy,0,0,0,,{\i1}Dazzle, Terastal! \N Dance Dance Kuwassu!!{\i0}
 Dialogue: 0,0:24:28.70,0:24:30.45,Main,Dot,0,0,0,,Hey!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Comment: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
-Comment: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\fad(350,0)\c&H60ADF8&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FABF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EAAF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EA9F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EA8F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5DA6F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5CA5F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5CA3F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5BA1F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5A9FF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\fad(350,0)\c&H599DF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\fad(350,0)\c&H589BF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5798F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5696F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5593F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5490F7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\fad(350,0)\c&H538DF7&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\fad(350,0)\c&H518AF6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5086F6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4E83F6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4D7FF6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4B7BF6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4A77F6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4873F6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\fad(350,0)\c&H466FF6&}Together, we challenge, chasing the future
-Dialogue: 2,0:01:26.73,0:01:30.07,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\fad(350,0)\c&H456BF6&}Together, we challenge, chasing the future
+Comment: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
+Comment: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\fad(350,0)\c&H60ADF8&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FACF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5FABF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EAAF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EA9F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5EA8F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5DA6F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5CA5F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5CA3F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5BA1F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5A9FF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\fad(350,0)\c&H599DF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\fad(350,0)\c&H589BF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5798F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5696F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5593F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5490F7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\fad(350,0)\c&H538DF7&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\fad(350,0)\c&H518AF6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\fad(350,0)\c&H5086F6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4E83F6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4D7FF6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4B7BF6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4A77F6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\fad(350,0)\c&H4873F6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\fad(350,0)\c&H466FF6&}Together, we challenge, chasing the future
+Dialogue: 2,0:01:26.69,0:01:30.07,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\fad(350,0)\c&H456BF6&}Together, we challenge, chasing the future
 Comment: 2,0:01:30.07,0:01:31.07,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}(Let’s go!)
 Comment: 2,0:01:30.07,0:01:31.07,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}(Let’s go!)
 Dialogue: 2,0:01:30.07,0:01:31.07,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}(Let’s go!)
@@ -472,68 +472,68 @@ Dialogue: 2,0:01:33.74,0:01:34.78,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:01:33.74,0:01:34.78,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}(Hey, let’s go!)
 Dialogue: 2,0:01:33.74,0:01:34.78,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}(Hey, let’s go!)
 Dialogue: 2,0:01:33.74,0:01:34.78,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}(Hey, let’s go!)
-Comment: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Never give up - Every time you fall, stand up
-Comment: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Never give up - Every time you fall, stand up
-Dialogue: 2,0:01:34.78,0:01:38.24,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Never give up - Every time you fall, stand up
-Comment: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Yeah, yeah, yeah, yeah, yeah
-Comment: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 2,0:01:38.24,0:01:40.33,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Yeah, yeah, yeah, yeah, yeah
+Comment: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Never give up - Every time you fall, stand up
+Comment: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Never give up - Every time you fall, stand up
+Dialogue: 2,0:01:34.78,0:01:38.20,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Never give up - Every time you fall, stand up
+Comment: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Yeah, yeah, yeah, yeah, yeah
+Comment: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 2,0:01:38.20,0:01:40.33,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Yeah, yeah, yeah, yeah, yeah
 Comment: 2,0:01:40.33,0:01:41.83,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}(Take a step out, go!)
 Comment: 2,0:01:40.33,0:01:41.83,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}(Take a step out, go!)
 Dialogue: 2,0:01:40.33,0:01:41.83,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}(Take a step out, go!)
@@ -596,68 +596,68 @@ Dialogue: 2,0:01:41.83,0:01:42.62,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:01:41.83,0:01:42.62,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}(hey buddy)
 Dialogue: 2,0:01:41.83,0:01:42.62,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}(hey buddy)
 Dialogue: 2,0:01:41.83,0:01:42.62,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}(hey buddy)
-Comment: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Imagining, dreaming, with my friend (oh)
-Comment: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Imagining, dreaming, with my friend (oh)
-Dialogue: 2,0:01:42.62,0:01:46.92,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Imagining, dreaming, with my friend (oh)
-Comment: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}The light ahead of us, so bright
-Comment: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}The light ahead of us, so bright
-Dialogue: 2,0:01:46.92,0:01:49.67,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}The light ahead of us, so bright
+Comment: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Imagining, dreaming, with my friend (oh)
+Comment: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Imagining, dreaming, with my friend (oh)
+Dialogue: 2,0:01:42.62,0:01:46.88,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Imagining, dreaming, with my friend (oh)
+Comment: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}The light ahead of us, so bright
+Comment: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}The light ahead of us, so bright
+Dialogue: 2,0:01:46.88,0:01:49.67,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}The light ahead of us, so bright
 Comment: 2,0:01:49.67,0:01:51.80,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Once it catches your eye
 Comment: 2,0:01:49.67,0:01:51.80,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Once it catches your eye
 Dialogue: 2,0:01:49.67,0:01:51.80,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Once it catches your eye
@@ -1061,68 +1061,68 @@ Dialogue: 2,0:02:25.12,0:02:27.21,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:02:25.12,0:02:27.21,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Wish it, and it’ll come true, you know it
 Dialogue: 2,0:02:25.12,0:02:27.21,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Wish it, and it’ll come true, you know it
 Dialogue: 2,0:02:25.12,0:02:27.21,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Wish it, and it’ll come true, you know it
-Comment: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Get over here, Challenger
-Comment: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Get over here, Challenger
-Dialogue: 2,0:02:27.21,0:02:28.59,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Get over here, Challenger
-Comment: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Now, to chase spark-spark-sparkling bright tomorrows
-Comment: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Now, to chase spark-spark-sparkling bright tomorrows
-Dialogue: 2,0:02:28.59,0:02:32.51,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Comment: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Get over here, Challenger
+Comment: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Get over here, Challenger
+Dialogue: 2,0:02:27.21,0:02:28.54,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Get over here, Challenger
+Comment: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Now, to chase spark-spark-sparkling bright tomorrows
+Comment: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 2,0:02:28.54,0:02:32.51,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Now, to chase spark-spark-sparkling bright tomorrows
 Comment: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Leap out into that vast sky
 Comment: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Leap out into that vast sky
 Dialogue: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Leap out into that vast sky
@@ -1154,99 +1154,99 @@ Dialogue: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Leap out into that vast sky
 Dialogue: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Leap out into that vast sky
 Dialogue: 2,0:02:32.51,0:02:34.47,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Leap out into that vast sky
-Comment: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}You sparkling Challenger
-Comment: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}You sparkling Challenger
-Dialogue: 2,0:02:34.47,0:02:37.30,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}You sparkling Challenger
-Comment: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}We’re the challengers
-Comment: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}We’re the challengers
-Dialogue: 2,0:02:37.30,0:02:40.14,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}We’re the challengers
-Comment: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Hand in hand, flying up-up-up higher
-Comment: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Hand in hand, flying up-up-up higher
-Dialogue: 2,0:02:40.14,0:02:44.98,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Hand in hand, flying up-up-up higher
+Comment: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}You sparkling Challenger
+Comment: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}You sparkling Challenger
+Dialogue: 2,0:02:34.47,0:02:37.26,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}You sparkling Challenger
+Comment: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}We’re the challengers
+Comment: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}We’re the challengers
+Dialogue: 2,0:02:37.26,0:02:40.10,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}We’re the challengers
+Comment: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Hand in hand, flying up-up-up higher
+Comment: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Hand in hand, flying up-up-up higher
+Dialogue: 2,0:02:40.10,0:02:44.98,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Hand in hand, flying up-up-up higher
 Comment: 2,0:02:44.98,0:02:48.65,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}We’re the challengers
 Comment: 2,0:02:44.98,0:02:48.65,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}We’re the challengers
 Dialogue: 2,0:02:44.98,0:02:48.65,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}We’re the challengers
@@ -1309,79 +1309,79 @@ Dialogue: 2,0:02:48.65,0:02:50.40,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30
 Dialogue: 2,0:02:48.65,0:02:50.40,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Yeah, yeah, yeah, yeah, yeah
 Dialogue: 2,0:02:48.65,0:02:50.40,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Yeah, yeah, yeah, yeah, yeah
 Dialogue: 2,0:02:48.65,0:02:50.40,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Yeah, yeah, yeah, yeah, yeah
-Comment: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}(Take a step out, go!)
-Comment: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}(Take a step out, go!)
-Dialogue: 2,0:02:50.40,0:02:51.98,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}(Take a step out, go!)
-Comment: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Let’s challenge
-Comment: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Let’s challenge
-Dialogue: 2,0:02:51.98,0:02:54.74,OP,,42,0,0,,{=1050}{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Let’s challenge
+Comment: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}(Take a step out, go!)
+Comment: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}(Take a step out, go!)
+Dialogue: 2,0:02:50.40,0:02:51.94,OP,,42,0,0,,{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}(Take a step out, go!)
+Comment: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Let’s challenge
+Comment: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\blur0.6\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,46,1910,48)\pos(958.5,30)\blur0.6\c&H60ADF8&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,48,1910,50)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,50,1910,52)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,52,1910,54)\pos(958.5,30)\blur0.6\c&H5FACF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,54,1910,56)\pos(958.5,30)\blur0.6\c&H5FABF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,56,1910,58)\pos(958.5,30)\blur0.6\c&H5EAAF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,58,1910,60)\pos(958.5,30)\blur0.6\c&H5EA9F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,60,1910,62)\pos(958.5,30)\blur0.6\c&H5EA8F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,62,1910,64)\pos(958.5,30)\blur0.6\c&H5DA6F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,64,1910,66)\pos(958.5,30)\blur0.6\c&H5CA5F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,66,1910,68)\pos(958.5,30)\blur0.6\c&H5CA3F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,68,1910,70)\pos(958.5,30)\blur0.6\c&H5BA1F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,70,1910,72)\pos(958.5,30)\blur0.6\c&H5A9FF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,72,1910,74)\pos(958.5,30)\blur0.6\c&H599DF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,74,1910,76)\pos(958.5,30)\blur0.6\c&H589BF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,76,1910,78)\pos(958.5,30)\blur0.6\c&H5798F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,78,1910,80)\pos(958.5,30)\blur0.6\c&H5696F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,80,1910,82)\pos(958.5,30)\blur0.6\c&H5593F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,82,1910,84)\pos(958.5,30)\blur0.6\c&H5490F7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,84,1910,86)\pos(958.5,30)\blur0.6\c&H538DF7&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,86,1910,88)\pos(958.5,30)\blur0.6\c&H518AF6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,88,1910,90)\pos(958.5,30)\blur0.6\c&H5086F6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,90,1910,92)\pos(958.5,30)\blur0.6\c&H4E83F6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,92,1910,94)\pos(958.5,30)\blur0.6\c&H4D7FF6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,94,1910,96)\pos(958.5,30)\blur0.6\c&H4B7BF6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,96,1910,98)\pos(958.5,30)\blur0.6\c&H4A77F6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,98,1910,100)\pos(958.5,30)\blur0.6\c&H4873F6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{\clip(15,100,1910,102)\pos(958.5,30)\blur0.6\c&H466FF6&}Let’s challenge
+Dialogue: 2,0:02:51.94,0:02:54.74,OP,,42,0,0,,{=1050}{\clip(15,102,1910,104)\pos(958.5,30)\blur0.6\c&H456BF6&}Let’s challenge
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:01:26.73,0:01:30.07,OPp2,,0,0,0,,{=1047}{\blur0.6\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Together, we challenge, chasing the future
+Dialogue: 1,0:01:26.69,0:01:30.07,OPp2,,0,0,0,,{=1047}{\blur0.6\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Together, we challenge, chasing the future
 Dialogue: 1,0:01:30.07,0:01:31.07,OPp2,,0,0,0,,{\blur0.6}(Let’s go!)
 Dialogue: 1,0:01:31.07,0:01:33.74,OPp2,,0,0,0,,{\blur0.6}We gather, let’s catch it, chasing tomorrow
 Dialogue: 1,0:01:33.74,0:01:34.78,OPp2,,0,0,0,,{\blur0.6}(Hey, let’s go!)
-Dialogue: 1,0:01:34.78,0:01:38.24,OPp2,,0,0,0,,{\blur0.6}Never give up - Every time you fall, stand up
-Dialogue: 1,0:01:38.24,0:01:40.33,OPp2,,0,0,0,,{\blur0.6}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 1,0:01:34.78,0:01:38.20,OPp2,,0,0,0,,{\blur0.6}Never give up - Every time you fall, stand up
+Dialogue: 1,0:01:38.20,0:01:40.33,OPp2,,0,0,0,,{\blur0.6}Yeah, yeah, yeah, yeah, yeah
 Dialogue: 1,0:01:40.33,0:01:41.83,OPp2,,0,0,0,,{\blur0.6}(Take a step out, go!)
 Dialogue: 1,0:01:41.83,0:01:42.62,OPp2,,0,0,0,,{\blur0.6}(hey buddy)
-Dialogue: 1,0:01:42.62,0:01:46.92,OPp2,,0,0,0,,{\blur0.6}Imagining, dreaming, with my friend (oh)
-Dialogue: 1,0:01:46.92,0:01:49.67,OPp2,,0,0,0,,{\blur0.6}The light ahead of us, so bright
+Dialogue: 1,0:01:42.62,0:01:46.88,OPp2,,0,0,0,,{\blur0.6}Imagining, dreaming, with my friend (oh)
+Dialogue: 1,0:01:46.88,0:01:49.67,OPp2,,0,0,0,,{\blur0.6}The light ahead of us, so bright
 Dialogue: 1,0:01:49.67,0:01:51.80,OPp2,,0,0,0,,{\blur0.6}Once it catches your eye
 Dialogue: 1,0:01:51.80,0:01:53.97,OPp2,,0,0,0,,{\blur0.6}The rest is easy, leave it to me
 Dialogue: 1,0:01:53.97,0:01:57.81,OPp2,,0,0,0,,{\blur0.6}You and I will add to our story (oh-oh)
@@ -1395,26 +1395,26 @@ Dialogue: 1,0:02:17.12,0:02:19.29,OPp2,,0,0,0,,{\blur0.6}Watch us, tell us...
 Dialogue: 1,0:02:19.29,0:02:20.66,OPp2,,0,0,0,,{\blur0.6}(hey buddy, let’s go)
 Dialogue: 1,0:02:20.66,0:02:25.12,OPp2,,0,0,0,,{\blur0.6}We are buddy-buddy-buddies, chasing piles of dreams
 Dialogue: 1,0:02:25.12,0:02:27.21,OPp2,,0,0,0,,{\blur0.6}Wish it, and it’ll come true, you know it
-Dialogue: 1,0:02:27.21,0:02:28.59,OPp2,,0,0,0,,{\blur0.6}Get over here, Challenger
-Dialogue: 1,0:02:28.59,0:02:32.51,OPp2,,0,0,0,,{\blur0.6}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 1,0:02:27.21,0:02:28.54,OPp2,,0,0,0,,{\blur0.6}Get over here, Challenger
+Dialogue: 1,0:02:28.54,0:02:32.51,OPp2,,0,0,0,,{\blur0.6}Now, to chase spark-spark-sparkling bright tomorrows
 Dialogue: 1,0:02:32.51,0:02:34.47,OPp2,,0,0,0,,{\blur0.6}Leap out into that vast sky
-Dialogue: 1,0:02:34.47,0:02:37.30,OPp2,,0,0,0,,{\blur0.6}You sparkling Challenger
-Dialogue: 1,0:02:37.30,0:02:40.14,OPp2,,0,0,0,,{\blur0.6}We’re the challengers
-Dialogue: 1,0:02:40.14,0:02:44.98,OPp2,,0,0,0,,{\blur0.6}Hand in hand, flying up-up-up higher
+Dialogue: 1,0:02:34.47,0:02:37.26,OPp2,,0,0,0,,{\blur0.6}You sparkling Challenger
+Dialogue: 1,0:02:37.26,0:02:40.10,OPp2,,0,0,0,,{\blur0.6}We’re the challengers
+Dialogue: 1,0:02:40.10,0:02:44.98,OPp2,,0,0,0,,{\blur0.6}Hand in hand, flying up-up-up higher
 Dialogue: 1,0:02:44.98,0:02:48.65,OPp2,,0,0,0,,{\blur0.6}We’re the challengers
 Dialogue: 1,0:02:48.65,0:02:50.40,OPp2,,0,0,0,,{\blur0.6}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 1,0:02:50.40,0:02:51.98,OPp2,,0,0,0,,{\blur0.6}(Take a step out, go!)
-Dialogue: 1,0:02:51.98,0:02:54.74,OPp2,,0,0,0,,{\blur0.6}Let’s challenge
-Dialogue: 0,0:01:26.73,0:01:30.07,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Together, we challenge, chasing the future
+Dialogue: 1,0:02:50.40,0:02:51.94,OPp2,,0,0,0,,{\blur0.6}(Take a step out, go!)
+Dialogue: 1,0:02:51.94,0:02:54.74,OPp2,,0,0,0,,{\blur0.6}Let’s challenge
+Dialogue: 0,0:01:26.69,0:01:30.07,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Together, we challenge, chasing the future
 Dialogue: 0,0:01:30.07,0:01:31.07,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(Let’s go!)
 Dialogue: 0,0:01:31.07,0:01:33.74,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We gather, let’s catch it, chasing tomorrow
 Dialogue: 0,0:01:33.74,0:01:34.78,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(Hey, let’s go!)
-Dialogue: 0,0:01:34.78,0:01:38.24,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Never give up - Every time you fall, stand up
-Dialogue: 0,0:01:38.24,0:01:40.33,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Yeah, yeah, yeah, yeah, yeah
+Dialogue: 0,0:01:34.78,0:01:38.20,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Never give up - Every time you fall, stand up
+Dialogue: 0,0:01:38.20,0:01:40.33,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Yeah, yeah, yeah, yeah, yeah
 Dialogue: 0,0:01:40.33,0:01:41.83,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(Take a step out, go!)
 Dialogue: 0,0:01:41.83,0:01:42.62,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(hey buddy)
-Dialogue: 0,0:01:42.62,0:01:46.92,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Imagining, dreaming, with my friend (oh)
-Dialogue: 0,0:01:46.92,0:01:49.67,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}The light ahead of us, so bright
+Dialogue: 0,0:01:42.62,0:01:46.88,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Imagining, dreaming, with my friend (oh)
+Dialogue: 0,0:01:46.88,0:01:49.67,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}The light ahead of us, so bright
 Dialogue: 0,0:01:49.67,0:01:51.80,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Once it catches your eye
 Dialogue: 0,0:01:51.80,0:01:53.97,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}The rest is easy, leave it to me
 Dialogue: 0,0:01:53.97,0:01:57.81,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}You and I will add to our story (oh-oh)
@@ -1428,16 +1428,16 @@ Dialogue: 0,0:02:17.12,0:02:19.29,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}W
 Dialogue: 0,0:02:19.29,0:02:20.66,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(hey buddy, let’s go)
 Dialogue: 0,0:02:20.66,0:02:25.12,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We are buddy-buddy-buddies, chasing piles of dreams
 Dialogue: 0,0:02:25.12,0:02:27.21,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Wish it, and it’ll come true, you know it
-Dialogue: 0,0:02:27.21,0:02:28.59,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Get over here, Challenger
-Dialogue: 0,0:02:28.59,0:02:32.51,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Now, to chase spark-spark-sparkling bright tomorrows
+Dialogue: 0,0:02:27.21,0:02:28.54,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Get over here, Challenger
+Dialogue: 0,0:02:28.54,0:02:32.51,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Now, to chase spark-spark-sparkling bright tomorrows
 Dialogue: 0,0:02:32.51,0:02:34.47,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Leap out into that vast sky
-Dialogue: 0,0:02:34.47,0:02:37.30,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}You sparkling Challenger
-Dialogue: 0,0:02:37.30,0:02:40.14,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We’re the challengers
-Dialogue: 0,0:02:40.14,0:02:44.98,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Hand in hand, flying up-up-up higher
+Dialogue: 0,0:02:34.47,0:02:37.26,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}You sparkling Challenger
+Dialogue: 0,0:02:37.26,0:02:40.10,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We’re the challengers
+Dialogue: 0,0:02:40.10,0:02:44.98,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Hand in hand, flying up-up-up higher
 Dialogue: 0,0:02:44.98,0:02:48.65,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}We’re the challengers
 Dialogue: 0,0:02:48.65,0:02:50.40,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}Yeah, yeah, yeah, yeah, yeah
-Dialogue: 0,0:02:50.40,0:02:51.98,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(Take a step out, go!)
-Dialogue: 0,0:02:51.98,0:02:54.74,OPp2,,0,0,0,,{=1048}{\blur8\shad0\bord5\3c&HFFFFFF&}Let’s challenge
+Dialogue: 0,0:02:50.40,0:02:51.94,OPp2,,0,0,0,,{\blur8\shad0\bord5\3c&HFFFFFF&}(Take a step out, go!)
+Dialogue: 0,0:02:51.94,0:02:54.74,OPp2,,0,0,0,,{=1048}{\blur8\shad0\bord5\3c&HFFFFFF&}Let’s challenge
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:11:01.47,0:11:11.48,Logo,,0,0,0,,{=1019}{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\pos(1456.01,811.71)\clip(27,653.97,1911.9,804)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:11:01.47,0:11:11.48,Logo,,0,0,0,,{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\pos(1456.01,811.71)\clip(27,822,1904.17,957.48)}p{\fsp-13}O{\fsp-9}Cket Monsters
