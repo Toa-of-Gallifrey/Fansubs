@@ -974,7 +974,7 @@ dappai だっぴ (Shed Skin) - # TBD #
 daruma moodo ダルマモード (Zen Mode) - Daruma Mode
 daunroodo ダウンロード (Download) - Download
 denki enjin でんきエンジン (Motor Drive) - Electric Engine
-denki ni kaeru でんきにかえる (Electromorphosis) - # TBD #
+denki ni kaeru でんきにかえる (Electromorphosis) - Making Electribbity
 deruta sutoriimu デルタストリーム (Delta Stream) - Delta Stream
 doku bousou どくぼうそう (Toxic Boost) - # TBD #
 doku kugutsu どくくぐつ (Poison Puppeteer) - # TBD #
@@ -2186,9 +2186,9 @@ POKÉMON NAMES
 0934 キョジオーン Kyojiohn - がんえんポケモン Rock Salt Pokémon
 0935 カルボウ Carbou - ひのこポケモン 
 0936 グレンアルマ Guren'arma - ひのせんしポケモン 
-0937 ソウブレイズ Soublades - ひのけんしポケモン Fire Swordsman
+0937 ソウブレイズ Soublades - ひのけんしポケモン Fire Swordsman Pokémon
 0938 ズピカ 
-0939 ハラバリー 
+0939 ハラバリー Harabari - でんきがえるポケモン Electric Frog Pokémon
 0940 カイデン Kaiden - うみつばめポケモン Storm Petrel Pokémon
 0941 タイカイデン 
 0942 オラチフ 
