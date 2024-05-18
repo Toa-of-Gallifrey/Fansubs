@@ -1622,107 +1622,107 @@ Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1042}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,300)\c&HFFFFFF&\4c&HFFFFFF&}Dazzle, Terastal!
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,300)\c&HFFFFFF&}Dazzle, Terastal!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\c&HFAFE1F&\clip(12.59,230.82,1904.19,273.58)}Dazzle, Terastal!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\clip(12.59,230.82,1904.19,273.58)\c&HFFB122&}Dazzle, Terastal!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\clip(12.59,230.82,1904.19,273.58)\c&HAB6882&}Dazzle, Terastal!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\c&H341DFF&\clip(12.59,230.82,1904.19,273.58)}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,230,1904,231)\pos(960,300)\bord0\shad0\blur0.6\c&HFAFE1F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,231,1904,232)\pos(960,300)\bord0\shad0\blur0.6\c&HFAF81F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,232,1904,233)\pos(960,300)\bord0\shad0\blur0.6\c&HFAF31F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,233,1904,234)\pos(960,300)\bord0\shad0\blur0.6\c&HFBED1F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,234,1904,235)\pos(960,300)\bord0\shad0\blur0.6\c&HFBE81F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,235,1904,236)\pos(960,300)\bord0\shad0\blur0.6\c&HFBE220&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,236,1904,237)\pos(960,300)\bord0\shad0\blur0.6\c&HFCDD20&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,237,1904,238)\pos(960,300)\bord0\shad0\blur0.6\c&HFCD720&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,238,1904,239)\pos(960,300)\bord0\shad0\blur0.6\c&HFCD220&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,239,1904,240)\pos(960,300)\bord0\shad0\blur0.6\c&HFDCC20&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,240,1904,241)\pos(960,300)\bord0\shad0\blur0.6\c&HFDC721&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,241,1904,242)\pos(960,300)\bord0\shad0\blur0.6\c&HFDC121&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,242,1904,243)\pos(960,300)\bord0\shad0\blur0.6\c&HFEBC21&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,243,1904,244)\pos(960,300)\bord0\shad0\blur0.6\c&HFEB621&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,244,1904,245)\pos(960,300)\bord0\shad0\blur0.6\c&HFFB122&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,245,1904,246)\pos(960,300)\bord0\shad0\blur0.6\c&HFFB122&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,246,1904,247)\pos(960,300)\bord0\shad0\blur0.6\c&HF8AB29&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,247,1904,248)\pos(960,300)\bord0\shad0\blur0.6\c&HF2A530&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,248,1904,249)\pos(960,300)\bord0\shad0\blur0.6\c&HEBA038&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,249,1904,250)\pos(960,300)\bord0\shad0\blur0.6\c&HE59A3F&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,250,1904,251)\pos(960,300)\bord0\shad0\blur0.6\c&HDE9446&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,251,1904,252)\pos(960,300)\bord0\shad0\blur0.6\c&HD88F4E&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,252,1904,253)\pos(960,300)\bord0\shad0\blur0.6\c&HD18955&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,253,1904,254)\pos(960,300)\bord0\shad0\blur0.6\c&HCB845D&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,254,1904,255)\pos(960,300)\bord0\shad0\blur0.6\c&HC47E64&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,255,1904,256)\pos(960,300)\bord0\shad0\blur0.6\c&HBE786B&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,256,1904,257)\pos(960,300)\bord0\shad0\blur0.6\c&HB77373&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,257,1904,258)\pos(960,300)\bord0\shad0\blur0.6\c&HB16D7A&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,258,1904,259)\pos(960,300)\bord0\shad0\blur0.6\c&HAB6882&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,259,1904,260)\pos(960,300)\bord0\shad0\blur0.6\c&HAB6882&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,260,1904,261)\pos(960,300)\bord0\shad0\blur0.6\c&HA1628B&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,261,1904,262)\pos(960,300)\bord0\shad0\blur0.6\c&H985C95&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,262,1904,263)\pos(960,300)\bord0\shad0\blur0.6\c&H8F569E&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,263,1904,264)\pos(960,300)\bord0\shad0\blur0.6\c&H8650A8&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,264,1904,265)\pos(960,300)\bord0\shad0\blur0.6\c&H7D4BB2&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,265,1904,266)\pos(960,300)\bord0\shad0\blur0.6\c&H7445BB&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,266,1904,267)\pos(960,300)\bord0\shad0\blur0.6\c&H6A3FC5&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,267,1904,268)\pos(960,300)\bord0\shad0\blur0.6\c&H6139CE&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,268,1904,269)\pos(960,300)\bord0\shad0\blur0.6\c&H5834D8&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,269,1904,270)\pos(960,300)\bord0\shad0\blur0.6\c&H4F2EE2&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,270,1904,271)\pos(960,300)\bord0\shad0\blur0.6\c&H4628EB&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,271,1904,272)\pos(960,300)\bord0\shad0\blur0.6\c&H3D22F5&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,272,1904,273)\pos(960,300)\bord0\shad0\blur0.6\c&H341DFF&}Dazzle, Terastal!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,300)\c&H341DFF&\clip(14.88,273,1904.19,1050.25)}Dazzle, Terastal!
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,300)\c&HFFFFFF&\4c&HFFFFFF&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,300)\c&HFFFFFF&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\c&HFAFE1F&\clip(12.59,230.82,1904.19,273.58)}Dazzle, Terasta{\fsp5}l!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\clip(12.59,230.82,1904.19,273.58)\c&HFFB122&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\clip(12.59,230.82,1904.19,273.58)\c&HAB6882&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,300)\c&H341DFF&\clip(12.59,230.82,1904.19,273.58)}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,230,1904,231)\pos(960,300)\bord0\shad0\blur0.6\c&HFAFE1F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,231,1904,232)\pos(960,300)\bord0\shad0\blur0.6\c&HFAF81F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,232,1904,233)\pos(960,300)\bord0\shad0\blur0.6\c&HFAF31F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,233,1904,234)\pos(960,300)\bord0\shad0\blur0.6\c&HFBED1F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,234,1904,235)\pos(960,300)\bord0\shad0\blur0.6\c&HFBE81F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,235,1904,236)\pos(960,300)\bord0\shad0\blur0.6\c&HFBE220&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,236,1904,237)\pos(960,300)\bord0\shad0\blur0.6\c&HFCDD20&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,237,1904,238)\pos(960,300)\bord0\shad0\blur0.6\c&HFCD720&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,238,1904,239)\pos(960,300)\bord0\shad0\blur0.6\c&HFCD220&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,239,1904,240)\pos(960,300)\bord0\shad0\blur0.6\c&HFDCC20&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,240,1904,241)\pos(960,300)\bord0\shad0\blur0.6\c&HFDC721&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,241,1904,242)\pos(960,300)\bord0\shad0\blur0.6\c&HFDC121&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,242,1904,243)\pos(960,300)\bord0\shad0\blur0.6\c&HFEBC21&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,243,1904,244)\pos(960,300)\bord0\shad0\blur0.6\c&HFEB621&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,244,1904,245)\pos(960,300)\bord0\shad0\blur0.6\c&HFFB122&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,245,1904,246)\pos(960,300)\bord0\shad0\blur0.6\c&HFFB122&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,246,1904,247)\pos(960,300)\bord0\shad0\blur0.6\c&HF8AB29&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,247,1904,248)\pos(960,300)\bord0\shad0\blur0.6\c&HF2A530&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,248,1904,249)\pos(960,300)\bord0\shad0\blur0.6\c&HEBA038&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,249,1904,250)\pos(960,300)\bord0\shad0\blur0.6\c&HE59A3F&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,250,1904,251)\pos(960,300)\bord0\shad0\blur0.6\c&HDE9446&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,251,1904,252)\pos(960,300)\bord0\shad0\blur0.6\c&HD88F4E&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,252,1904,253)\pos(960,300)\bord0\shad0\blur0.6\c&HD18955&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,253,1904,254)\pos(960,300)\bord0\shad0\blur0.6\c&HCB845D&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,254,1904,255)\pos(960,300)\bord0\shad0\blur0.6\c&HC47E64&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,255,1904,256)\pos(960,300)\bord0\shad0\blur0.6\c&HBE786B&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,256,1904,257)\pos(960,300)\bord0\shad0\blur0.6\c&HB77373&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,257,1904,258)\pos(960,300)\bord0\shad0\blur0.6\c&HB16D7A&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,258,1904,259)\pos(960,300)\bord0\shad0\blur0.6\c&HAB6882&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,259,1904,260)\pos(960,300)\bord0\shad0\blur0.6\c&HAB6882&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,260,1904,261)\pos(960,300)\bord0\shad0\blur0.6\c&HA1628B&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,261,1904,262)\pos(960,300)\bord0\shad0\blur0.6\c&H985C95&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,262,1904,263)\pos(960,300)\bord0\shad0\blur0.6\c&H8F569E&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,263,1904,264)\pos(960,300)\bord0\shad0\blur0.6\c&H8650A8&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,264,1904,265)\pos(960,300)\bord0\shad0\blur0.6\c&H7D4BB2&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,265,1904,266)\pos(960,300)\bord0\shad0\blur0.6\c&H7445BB&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,266,1904,267)\pos(960,300)\bord0\shad0\blur0.6\c&H6A3FC5&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,267,1904,268)\pos(960,300)\bord0\shad0\blur0.6\c&H6139CE&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,268,1904,269)\pos(960,300)\bord0\shad0\blur0.6\c&H5834D8&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,269,1904,270)\pos(960,300)\bord0\shad0\blur0.6\c&H4F2EE2&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,270,1904,271)\pos(960,300)\bord0\shad0\blur0.6\c&H4628EB&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,271,1904,272)\pos(960,300)\bord0\shad0\blur0.6\c&H3D22F5&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,272,1904,273)\pos(960,300)\bord0\shad0\blur0.6\c&H341DFF&}Dazzle, Terasta{\fsp5}l!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,300)\c&H341DFF&\clip(14.88,273,1904.19,1050.25)}Dazzle, Terasta{\fsp5}l!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1051}{\bord5\shad3\blur6\pos(960,800)\c&HFFFFFF&\4c&HFFFFFF&}Dance Dance Kuwassu!!
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,800)\c&HFFFFFF&}Dance Dance Kuwassu!!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\c&HFAFE1F&\clip(12.59,730.82,1904.19,773.58)}Dance Dance Kuwassu!!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\clip(12.59,730.82,1904.19,773.58)\c&HFFB122&}Dance Dance Kuwassu!!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\clip(12.59,730.82,1904.19,773.58)\c&HAB6882&}Dance Dance Kuwassu!!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\c&H341DFF&\clip(12.59,730.82,1904.19,773.58)}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,730,1904,731)\pos(960,800)\bord0\shad0\blur0.6\c&HFAFE1F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,731,1904,732)\pos(960,800)\bord0\shad0\blur0.6\c&HFAF81F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,732,1904,733)\pos(960,800)\bord0\shad0\blur0.6\c&HFAF31F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,733,1904,734)\pos(960,800)\bord0\shad0\blur0.6\c&HFBED1F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,734,1904,735)\pos(960,800)\bord0\shad0\blur0.6\c&HFBE81F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,735,1904,736)\pos(960,800)\bord0\shad0\blur0.6\c&HFBE220&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,736,1904,737)\pos(960,800)\bord0\shad0\blur0.6\c&HFCDD20&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,737,1904,738)\pos(960,800)\bord0\shad0\blur0.6\c&HFCD720&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,738,1904,739)\pos(960,800)\bord0\shad0\blur0.6\c&HFCD220&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,739,1904,740)\pos(960,800)\bord0\shad0\blur0.6\c&HFDCC20&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,740,1904,741)\pos(960,800)\bord0\shad0\blur0.6\c&HFDC721&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,741,1904,742)\pos(960,800)\bord0\shad0\blur0.6\c&HFDC121&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,742,1904,743)\pos(960,800)\bord0\shad0\blur0.6\c&HFEBC21&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,743,1904,744)\pos(960,800)\bord0\shad0\blur0.6\c&HFEB621&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,744,1904,745)\pos(960,800)\bord0\shad0\blur0.6\c&HFFB122&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,745,1904,746)\pos(960,800)\bord0\shad0\blur0.6\c&HFFB122&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,746,1904,747)\pos(960,800)\bord0\shad0\blur0.6\c&HF8AB29&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,747,1904,748)\pos(960,800)\bord0\shad0\blur0.6\c&HF2A530&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,748,1904,749)\pos(960,800)\bord0\shad0\blur0.6\c&HEBA038&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,749,1904,750)\pos(960,800)\bord0\shad0\blur0.6\c&HE59A3F&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,750,1904,751)\pos(960,800)\bord0\shad0\blur0.6\c&HDE9446&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,751,1904,752)\pos(960,800)\bord0\shad0\blur0.6\c&HD88F4E&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,752,1904,753)\pos(960,800)\bord0\shad0\blur0.6\c&HD18955&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,753,1904,754)\pos(960,800)\bord0\shad0\blur0.6\c&HCB845D&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,754,1904,755)\pos(960,800)\bord0\shad0\blur0.6\c&HC47E64&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,755,1904,756)\pos(960,800)\bord0\shad0\blur0.6\c&HBE786B&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,756,1904,757)\pos(960,800)\bord0\shad0\blur0.6\c&HB77373&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,757,1904,758)\pos(960,800)\bord0\shad0\blur0.6\c&HB16D7A&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,758,1904,759)\pos(960,800)\bord0\shad0\blur0.6\c&HAB6882&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,759,1904,760)\pos(960,800)\bord0\shad0\blur0.6\c&HAB6882&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,760,1904,761)\pos(960,800)\bord0\shad0\blur0.6\c&HA1628B&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,761,1904,762)\pos(960,800)\bord0\shad0\blur0.6\c&H985C95&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,762,1904,763)\pos(960,800)\bord0\shad0\blur0.6\c&H8F569E&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,763,1904,764)\pos(960,800)\bord0\shad0\blur0.6\c&H8650A8&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,764,1904,765)\pos(960,800)\bord0\shad0\blur0.6\c&H7D4BB2&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,765,1904,766)\pos(960,800)\bord0\shad0\blur0.6\c&H7445BB&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,766,1904,767)\pos(960,800)\bord0\shad0\blur0.6\c&H6A3FC5&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,767,1904,768)\pos(960,800)\bord0\shad0\blur0.6\c&H6139CE&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,768,1904,769)\pos(960,800)\bord0\shad0\blur0.6\c&H5834D8&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,769,1904,770)\pos(960,800)\bord0\shad0\blur0.6\c&H4F2EE2&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,770,1904,771)\pos(960,800)\bord0\shad0\blur0.6\c&H4628EB&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,771,1904,772)\pos(960,800)\bord0\shad0\blur0.6\c&H3D22F5&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,772,1904,773)\pos(960,800)\bord0\shad0\blur0.6\c&H341DFF&}Dance Dance Kuwassu!!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1052}{\bord0\shad0\blur0.6\pos(960,800)\c&H341DFF&\clip(14.88,773,1904.19,1050.25)}Dance Dance Kuwassu!!
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1051}{\bord5\shad3\blur6\pos(960,800)\c&HFFFFFF&\4c&HFFFFFF&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,800)\c&HFFFFFF&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\c&HFAFE1F&\clip(12.59,730.82,1904.19,773.58)}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\clip(12.59,730.82,1904.19,773.58)\c&HFFB122&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\clip(12.59,730.82,1904.19,773.58)\c&HAB6882&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,800)\c&H341DFF&\clip(12.59,730.82,1904.19,773.58)}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,730,1904,731)\pos(960,800)\bord0\shad0\blur0.6\c&HFAFE1F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,731,1904,732)\pos(960,800)\bord0\shad0\blur0.6\c&HFAF81F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,732,1904,733)\pos(960,800)\bord0\shad0\blur0.6\c&HFAF31F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,733,1904,734)\pos(960,800)\bord0\shad0\blur0.6\c&HFBED1F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,734,1904,735)\pos(960,800)\bord0\shad0\blur0.6\c&HFBE81F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,735,1904,736)\pos(960,800)\bord0\shad0\blur0.6\c&HFBE220&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,736,1904,737)\pos(960,800)\bord0\shad0\blur0.6\c&HFCDD20&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,737,1904,738)\pos(960,800)\bord0\shad0\blur0.6\c&HFCD720&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,738,1904,739)\pos(960,800)\bord0\shad0\blur0.6\c&HFCD220&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,739,1904,740)\pos(960,800)\bord0\shad0\blur0.6\c&HFDCC20&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,740,1904,741)\pos(960,800)\bord0\shad0\blur0.6\c&HFDC721&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,741,1904,742)\pos(960,800)\bord0\shad0\blur0.6\c&HFDC121&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,742,1904,743)\pos(960,800)\bord0\shad0\blur0.6\c&HFEBC21&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,743,1904,744)\pos(960,800)\bord0\shad0\blur0.6\c&HFEB621&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,744,1904,745)\pos(960,800)\bord0\shad0\blur0.6\c&HFFB122&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,745,1904,746)\pos(960,800)\bord0\shad0\blur0.6\c&HFFB122&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,746,1904,747)\pos(960,800)\bord0\shad0\blur0.6\c&HF8AB29&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,747,1904,748)\pos(960,800)\bord0\shad0\blur0.6\c&HF2A530&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,748,1904,749)\pos(960,800)\bord0\shad0\blur0.6\c&HEBA038&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,749,1904,750)\pos(960,800)\bord0\shad0\blur0.6\c&HE59A3F&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,750,1904,751)\pos(960,800)\bord0\shad0\blur0.6\c&HDE9446&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,751,1904,752)\pos(960,800)\bord0\shad0\blur0.6\c&HD88F4E&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,752,1904,753)\pos(960,800)\bord0\shad0\blur0.6\c&HD18955&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,753,1904,754)\pos(960,800)\bord0\shad0\blur0.6\c&HCB845D&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,754,1904,755)\pos(960,800)\bord0\shad0\blur0.6\c&HC47E64&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,755,1904,756)\pos(960,800)\bord0\shad0\blur0.6\c&HBE786B&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,756,1904,757)\pos(960,800)\bord0\shad0\blur0.6\c&HB77373&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,757,1904,758)\pos(960,800)\bord0\shad0\blur0.6\c&HB16D7A&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,758,1904,759)\pos(960,800)\bord0\shad0\blur0.6\c&HAB6882&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,759,1904,760)\pos(960,800)\bord0\shad0\blur0.6\c&HAB6882&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,760,1904,761)\pos(960,800)\bord0\shad0\blur0.6\c&HA1628B&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,761,1904,762)\pos(960,800)\bord0\shad0\blur0.6\c&H985C95&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,762,1904,763)\pos(960,800)\bord0\shad0\blur0.6\c&H8F569E&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,763,1904,764)\pos(960,800)\bord0\shad0\blur0.6\c&H8650A8&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,764,1904,765)\pos(960,800)\bord0\shad0\blur0.6\c&H7D4BB2&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,765,1904,766)\pos(960,800)\bord0\shad0\blur0.6\c&H7445BB&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,766,1904,767)\pos(960,800)\bord0\shad0\blur0.6\c&H6A3FC5&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,767,1904,768)\pos(960,800)\bord0\shad0\blur0.6\c&H6139CE&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,768,1904,769)\pos(960,800)\bord0\shad0\blur0.6\c&H5834D8&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,769,1904,770)\pos(960,800)\bord0\shad0\blur0.6\c&H4F2EE2&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,770,1904,771)\pos(960,800)\bord0\shad0\blur0.6\c&H4628EB&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,771,1904,772)\pos(960,800)\bord0\shad0\blur0.6\c&H3D22F5&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,772,1904,773)\pos(960,800)\bord0\shad0\blur0.6\c&H341DFF&}Dance Dance Kuwass{\fsp5}u!!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1052}{\bord0\shad0\blur0.6\pos(960,800)\c&H341DFF&\clip(14.88,773,1904.19,1050.25)}Dance Dance Kuwass{\fsp5}u!!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
