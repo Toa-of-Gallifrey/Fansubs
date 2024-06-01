@@ -1453,8 +1453,8 @@ POKÉMON NAMES
 0201 アンノーン Unknown - シンボルポケモン Symbol Pokémon
 0202 ソーナンス Sonansu - がまんポケモン 
 0203 キリンリキ Kirinriki - くびながポケモン 
-0204 クヌギダマ Kunugidama - みのむしポケモン 
-0205 フォレトス Foretos - みのむしポケモン 
+0204 クヌギダマ Kunugidama - みのむしポケモン Bagworm Pokémon
+0205 フォレトス Foretos - みのむしポケモン Bagworm Pokémon
 0206 ノコッチ 
 0207 グライガー 
 0208 ハガネール Haganail - てつへびポケモン Iron Snake Pokémon
@@ -2190,17 +2190,17 @@ POKÉMON NAMES
 0938 ズピカ 
 0939 ハラバリー Harabari - でんきがえるポケモン Electric Frog Pokémon
 0940 カイデン Kaiden - うみつばめポケモン Storm Petrel Pokémon
-0941 タイカイデン 
+0941 タイカイデン Taikaiden - ぐんかんどりポケモン Frigatebird Pokémon
 0942 オラチフ 
 0943 マフィティフ 
 0944 シルシュルー 
 0945 タギングル 
 0946 アノクサ Anokusa - ころがりぐさポケモン Tumbleweed Pokémon
 0947 アノホラグサ Anohoragusa - ころがりぐさポケモン Tumbleweed Pokémon
-0948 ノノクラゲ 
-0949 リククラゲ Rikukurage - きくらげポケモン 
+0948 ノノクラゲ Nonokurage - きくらげポケモン Wood Ear Pokémon
+0949 リククラゲ Rikukurage - きくらげポケモン Wood Ear Pokémon
 0950 ガケガニ Gakegani - まちぶせポケモン 
-0951 カプサイジ 
+0951 カプサイジ Capsaiji - ハバネロポケモン Habanero Pokémon
 0952 スコヴィラン 
 0953 シガロコ 
 0954 ベラカス 
@@ -2221,7 +2221,7 @@ POKÉMON NAMES
 0969 キラーメ 
 0970 キラフロル 
 0971 ボチ 
-0972 ハカドッグ 
+0972 ハカドッグ Hakadog - おばけいぬポケモン Ghost Dog Pokémon
 0973 カラミンゴ 
 0974 アルクジラ 
 0975 ハルクジラ Hulkujira - りくくじらポケモン 
