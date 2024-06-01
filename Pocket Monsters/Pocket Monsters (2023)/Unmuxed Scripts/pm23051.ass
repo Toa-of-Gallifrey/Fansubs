@@ -247,10 +247,10 @@ Dialogue: 0,0:24:06.55,0:24:08.47,Main,Liko,0,0,0,,U-Um...
 Dialogue: 0,0:24:09.22,0:24:09.84,Main,Dot,0,0,0,,Capsaiji!
 Dialogue: 0,0:24:09.84,0:24:11.01,Main,Roy,0,0,0,,Correct!
 Dialogue: 0,0:24:11.60,0:24:13.10,Main,Liko,0,0,0,,Amazing, Dot!{Sasuga. line}
-Dialogue: 0,0:24:13.10,0:24:19.48,Main,Dot,0,0,0,,{\q2}Apparently the front teeth that Capsaiji shed \N are even used in traditional super-spicy Paldean dishes!{Violet dex entry}
+Dialogue: 0,0:24:13.10,0:24:19.48,Main,Dot,0,0,0,,{\q2}Apparently, the front teeth that Capsaiji shed \N are even used in traditional super-spicy Paldean cuisine!{Violet dex entry}
 Dialogue: 0,0:24:20.06,0:24:21.40,Main,Liko,0,0,0,,Wow!
 Dialogue: 0,0:24:21.40,0:24:24.53,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters!
-Dialogue: 0,0:24:24.53,0:24:26.95,Main,Roy,0,0,0,,Kaiden, Hurricane Warning!
+Dialogue: 0,0:24:24.53,0:24:26.95,Main,Roy,0,0,0,,Kaiden, Strong Wind Warning!
 Dialogue: 0,0:24:26.95,0:24:28.78,Main,Dot,0,0,0,,It’s nothing to do with Capsaiji?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 2,0:01:29.99,0:01:33.36,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
@@ -1580,56 +1580,56 @@ Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1042}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Kaiden, Hurricane Warnin{\fsp5}g!{\fsp}
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Kaiden, Strong Wind Warnin{\fsp5}g!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
