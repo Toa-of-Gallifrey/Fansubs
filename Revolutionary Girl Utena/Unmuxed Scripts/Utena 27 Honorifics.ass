@@ -119,12 +119,12 @@ Dialogue: 0,0:21:54.63,0:21:57.46,ED EN,,525,0,0,,{\an1\blur0.3\q2}Celestial bod
 Dialogue: 0,0:21:57.46,0:22:03.13,ED EN,,525,0,0,,{\an1\blur0.3\q2}Yes, a child of the earth is conceived
 Dialogue: 0,0:22:03.13,0:22:09.18,ED EN,,525,0,0,,{\an1\blur0.3}An embryo of philosophy
 Dialogue: 0,0:22:09.18,0:22:10.23,ED EN,,525,0,0,,{\an1\blur0.3\fad(0,10)}And...
-Dialogue: 0,0:22:10.23,0:22:11.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Sphere of the Moon,
-Dialogue: 0,0:22:11.18,0:22:13.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Mercury, Sphere of Venus,
-Dialogue: 0,0:22:13.48,0:22:15.65,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of the Sun, Sphere of Mars,
-Dialogue: 0,0:22:15.65,0:22:17.90,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Jupiter, Sphere of Saturn,
-Dialogue: 0,0:22:17.90,0:22:19.03,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Fixed Stars,
-Dialogue: 0,0:22:19.03,0:22:20.03,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Primum Mobile
+Dialogue: 0,0:22:10.23,0:22:11.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Heaven of the Moon,
+Dialogue: 0,0:22:11.18,0:22:13.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Mercury, Heaven of Venus,
+Dialogue: 0,0:22:13.48,0:22:15.65,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of the Sun, Heaven of Mars,
+Dialogue: 0,0:22:15.65,0:22:17.90,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Jupiter, Heaven of Saturn,
+Dialogue: 0,0:22:17.90,0:22:19.03,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Fixed Stars,
+Dialogue: 0,0:22:19.03,0:22:20.03,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Primum Mobile
 Dialogue: 0,0:22:20.03,0:22:20.69,ED EN,,0,517,0,,{\an3\blur0.3}Further beyond...
 Dialogue: 0,0:22:20.69,0:22:20.74,ED EN,,0,517,0,,{\an3\blur0.3\clip(126.61,673.6,605.81,705.6)\q2}Further beyond...
 Dialogue: 2,0:22:20.69,0:22:20.74,ED EN,,0,517,0,,{\c&HFAB7FF&\an3\blur0.3\clip(126.61,588.8,612.22,673.6)\q2}Further beyond...

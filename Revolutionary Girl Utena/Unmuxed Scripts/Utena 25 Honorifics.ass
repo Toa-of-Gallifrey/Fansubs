@@ -116,12 +116,12 @@ Dialogue: 0,0:21:55.61,0:21:58.47,ED EN,,525,0,0,,{\an1\blur0.3\q2}Celestial bod
 Dialogue: 0,0:21:58.47,0:22:04.13,ED EN,,525,0,0,,{\an1\blur0.3\q2}Yes, a child of the earth is conceived
 Dialogue: 0,0:22:04.13,0:22:10.19,ED EN,,525,0,0,,{\an1\blur0.3}An embryo of philosophy
 Dialogue: 0,0:22:10.19,0:22:11.23,ED EN,,525,0,0,,{\an1\blur0.3\fad(0,10)}And...
-Dialogue: 0,0:22:11.23,0:22:12.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Sphere of the Moon
-Dialogue: 0,0:22:12.18,0:22:14.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Mercury, Sphere of Venus,
-Dialogue: 0,0:22:14.48,0:22:16.66,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of the Sun, Sphere of Mars,
-Dialogue: 0,0:22:16.66,0:22:18.91,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Jupiter, Sphere of Saturn,
-Dialogue: 0,0:22:18.91,0:22:20.04,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Fixed Stars,
-Dialogue: 0,0:22:20.04,0:22:21.04,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Primum Mobile
+Dialogue: 0,0:22:11.23,0:22:12.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Heaven of the Moon,
+Dialogue: 0,0:22:12.18,0:22:14.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Mercury, Heaven of Venus,
+Dialogue: 0,0:22:14.48,0:22:16.66,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of the Sun, Heaven of Mars,
+Dialogue: 0,0:22:16.66,0:22:18.91,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Jupiter, Heaven of Saturn,
+Dialogue: 0,0:22:18.91,0:22:20.04,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Fixed Stars,
+Dialogue: 0,0:22:20.04,0:22:21.04,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Primum Mobile
 Dialogue: 0,0:22:21.04,0:22:21.70,ED EN,,0,517,0,,{\an3\blur0.3}Further beyond...
 Dialogue: 0,0:22:21.70,0:22:21.74,ED EN,,0,517,0,,{\an3\blur0.3\clip(126.61,673.6,605.81,705.6)\q2}Further beyond...
 Dialogue: 2,0:22:21.70,0:22:21.74,ED EN,,0,517,0,,{\c&HFAB7FF&\an3\blur0.3\clip(126.61,588.8,612.22,673.6)\q2}Further beyond...
@@ -212,22 +212,22 @@ Dialogue: 0,0:18:39.18,0:18:41.25,Duel Songs EN,,0,0,89,,Air, atoms{jp notes: wi
 Dialogue: 0,0:18:41.25,0:18:44.19,Duel Songs EN,,0,0,89,,Celestial body of causality{jp notes: the cause behind everything is god.}
 Dialogue: 0,0:18:44.19,0:18:49.81,Duel Songs EN,,0,0,89,,Yes, a child of the earth is conceived{jp notes: The soul separates from the Great Spirit and descends to the earth, dwelling in a substance made from the earth. Minerals, plants, animals, all are children of the earth.}
 Dialogue: 0,0:18:49.81,0:18:56.66,Duel Songs EN,,0,0,89,,An embryo of philosophy{jp notes: tetsugaku = alchemy}
-Dialogue: 0,0:19:02.12,0:19:04.28,Duel Songs EN,,0,0,89,,An egg, perfection {jp notes: To get a philosophical child, you need a philosophical egg (philosopher's stone). A concept that includes a thorough knowledge of gold materials, operating procedures, and principles. More practically, also usually a round crucible, in which ingredients are placed and heated in alchemy.The egg is considered perfect because it alone gives rise to a living organism. Anything can happen from the perfect philosophical egg. In particular, generating gold, which is a perfect metal, proves that you have obtained the egg of philosophy.}
+Dialogue: 0,0:19:02.12,0:19:04.28,Duel Songs EN,,0,0,89,,An egg, perfection{jp notes: To get a philosophical child, you need a philosophical egg (philosopher's stone). A concept that includes a thorough knowledge of gold materials, operating procedures, and principles. More practically, also usually a round crucible, in which ingredients are placed and heated in alchemy.The egg is considered perfect because it alone gives rise to a living organism. Anything can happen from the perfect philosophical egg. In particular, generating gold, which is a perfect metal, proves that you have obtained the egg of philosophy.}
 Dialogue: 0,0:19:04.28,0:19:06.88,Duel Songs EN,,0,0,89,,Origin in that which is nested{in the jp notes ireko setsu (nesting theory) is mentioned as something that's been around since ancient greece. When I tried investigating ireko setsu I found a few results for zensei setsu which mention ireko inside the article. So I read about zensei setsu or preformationism in english. Look it up, but basically it's the belief that organisms develop from miniature versions of themselves, e.g. sperm is a tiny man that somehow becomes you? or your descendants? Anyway. So ireko is basically a thing that goes into another thing (like matryoshka dolls, or ever smaller boxes inside each other). And preformationism logically leads to the idea that in each organism there is an inifinite chain of ever smaller organisms, which are themselves? or their descendants? or both? This seems to be connected to homunculi somehow as well. I guess coz tiny men? So all of this is to say that, this line - in nesting lies the origin, is perhaps the answer to the question of: what came first - the chicken or the egg? Which I guess loses its meaning if the egg and the chicken are an infinite chain or ever smaller versions of the same thing.}
 Dialogue: 0,0:19:06.88,0:19:09.08,Duel Songs EN,,0,0,89,,Stamen, pistil
-Dialogue: 0,0:19:09.08,0:19:12.01,Duel Songs EN,,0,0,89,,a single seed {jp notes: In Indian religion, the world is said to have arisen from a single seed. The one before creation = the power that exists within everyone and has the potential to appear in the outside world.}
+Dialogue: 0,0:19:09.08,0:19:12.01,Duel Songs EN,,0,0,89,,A single seed{jp notes: In Indian religion, the world is said to have arisen from a single seed. The one before creation = the power that exists within everyone and has the potential to appear in the outside world.}
 Dialogue: 0,0:19:12.01,0:19:17.26,Duel Songs EN,,0,0,89,,Yes, a child of the earth grows
-Dialogue: 0,0:19:17.26,0:19:23.80,Duel Songs EN,,0,0,89,,A child of philosophy {jp notes: Substances and artificial humans created by alchemy}
-Dialogue: 0,0:19:23.80,0:19:25.89,Duel Songs EN,,0,0,89,,{\t(500, 1500, \c&HFFD9F9&\3c&H674360&)}And... Sphere of the Moon, {Apparently these are from Dante's Paradise. See TL notes here: https://ohtori.nu/audiology/albums/02/01_Virtual_Star_Embryology.html - Toa}{jp notes link this to the nesting thing from before since cocentric spheres.}
-Dialogue: 0,0:19:25.89,0:19:27.96,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Sphere of Mercury, Sphere of Venus,
-Dialogue: 0,0:19:27.96,0:19:30.18,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Sphere of the Sun, Sphere of Mars,
-Dialogue: 0,0:19:30.18,0:19:32.17,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Sphere of Jupiter, Sphere of Saturn,
-Dialogue: 0,0:19:32.17,0:19:34.62,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Sphere of Fixed Stars, Sphere of Primum Mobile
-Dialogue: 0,0:19:34.62,0:19:37.23,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Further beyond... {this line is evoking moving into the empyrean from the previous spheres and the next lines sound pretty empyrean}
+Dialogue: 0,0:19:17.26,0:19:23.80,Duel Songs EN,,0,0,89,,A child of philosophy{jp notes: Substances and artificial humans created by alchemy}
+Dialogue: 0,0:19:23.80,0:19:25.89,Duel Songs EN,,0,0,89,,{\t(500, 1500, \c&HFFD9F9&\3c&H674360&)}And... Heaven of the Moon,{jp notes link this to the nesting thing from before since cocentric spheres.}{The celestial spheres, depicted as the heavens in Dante's paradise.}
+Dialogue: 0,0:19:25.89,0:19:27.96,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Heaven of Mercury, Heaven of Venus,
+Dialogue: 0,0:19:27.96,0:19:30.18,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Heaven of the Sun, Heaven of Mars,
+Dialogue: 0,0:19:30.18,0:19:32.17,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Heaven of Jupiter, Heaven of Saturn,
+Dialogue: 0,0:19:32.17,0:19:34.62,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Heaven of Fixed Stars, Heaven of Primum Mobile
+Dialogue: 0,0:19:34.62,0:19:37.23,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Further beyond...{this line is evoking moving into the empyrean from the previous spheres and the next lines sound pretty empyrean}
 Dialogue: 0,0:19:37.23,0:19:40.19,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}...the infinite, endless circle{jp notes: Circular motion has no beginning or end and continues forever.}{enkan can be circle, ring or torus}{gonna go with circle because in Dante's paradiso, god in the final sphere - the empyrean is reprsented by 3 circles.}
 Dialogue: 0,0:19:40.19,0:19:43.20,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}A type of organic mechanism{jp notes: Heaven's movement is equivalent to human movement.}
-Dialogue: 0,0:19:43.20,0:19:46.11,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}A type of perpetual motion machine {jp notes: Heaven keeps moving without needing energy.}
-Dialogue: 0,0:19:46.11,0:19:51.42,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Ah, motion from nothing {jp notes: Aimless movement, without meaning or a goal.}{Considering that the previous line is talking about a perpetual motion machine and the whole song is about creationism, this seemed more appropriate than empty movement.}
+Dialogue: 0,0:19:43.20,0:19:46.11,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}A type of perpetual motion machine{jp notes: Heaven keeps moving without needing energy.}
+Dialogue: 0,0:19:46.11,0:19:51.42,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Ah, motion from nothing{jp notes: Aimless movement, without meaning or a goal.}{Considering that the previous line is talking about a perpetual motion machine and the whole song is about creationism, this seemed more appropriate than empty movement.}
 Dialogue: 0,0:19:51.42,0:19:54.98,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}It is motion...
 Dialogue: 0,0:19:54.98,0:19:55.71,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}...from nothing
 Dialogue: 0,0:19:55.71,0:20:05.68,Duel Songs EN,,0,0,89,,{\c&HFFD9F9&\3c&H674360&}Nothing
@@ -396,8 +396,8 @@ Dialogue: 0,0:09:42.69,0:09:46.63,Main,Touga,0,0,0,,You haven’t really given u
 Dialogue: 0,0:09:47.34,0:09:48.86,Main,Touga,0,0,0,,There it is. \N Can you not hear it?
 Dialogue: 0,0:09:48.86,0:09:50.07,Main,Saionji,0,0,0,,Hear what?
 Dialogue: 0,0:09:50.61,0:09:54.49,Main,Touga,0,0,0,,So long as your soul \N has not truly given up...
-Dialogue: 0,0:09:56.50,0:09:58.49,Main,Touga,0,0,0,,...you can hear \N the sound that races...
-Dialogue: 0,0:09:59.50,0:10:02.50,Main,Touga,0,0,0,,...across the end of the world!
+Dialogue: 0,0:09:56.50,0:09:58.49,Main,Touga,0,0,0,,...you should be able to \N hear the sound...
+Dialogue: 0,0:09:59.50,0:10:02.50,Main,Touga,0,0,0,,...that races across \N the end of the world!
 Dialogue: 0,0:10:02.50,0:10:04.21,Main,Saionji,0,0,0,,What nonsense are you spewing?
 Dialogue: 0,0:10:07.46,0:10:08.38,Main,Saionji,0,0,0,,What...?
 Dialogue: 0,0:10:08.38,0:10:09.63,Main,Saionji,0,0,0,,What is that?!

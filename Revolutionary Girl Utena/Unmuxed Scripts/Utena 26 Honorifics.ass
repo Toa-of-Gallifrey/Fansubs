@@ -112,12 +112,12 @@ Dialogue: 0,0:21:54.63,0:21:57.46,ED EN,,525,0,0,,{\an1\blur0.3\q2}Celestial bod
 Dialogue: 0,0:21:57.46,0:22:03.13,ED EN,,525,0,0,,{\an1\blur0.3\q2}Yes, a child of the earth is conceived
 Dialogue: 0,0:22:03.13,0:22:09.18,ED EN,,525,0,0,,{\an1\blur0.3}An embryo of philosophy
 Dialogue: 0,0:22:09.18,0:22:10.23,ED EN,,525,0,0,,{\an1\blur0.3\fad(0,10)}And...
-Dialogue: 0,0:22:10.23,0:22:11.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Sphere of the Moon
-Dialogue: 0,0:22:11.18,0:22:13.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Mercury, Sphere of Venus,
-Dialogue: 0,0:22:13.48,0:22:15.65,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of the Sun, Sphere of Mars,
-Dialogue: 0,0:22:15.65,0:22:17.90,ED EN,,0,517,0,,{\an3\blur0.3\q2}Sphere of Jupiter, Sphere of Saturn,
-Dialogue: 0,0:22:17.90,0:22:19.03,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Fixed Stars,
-Dialogue: 0,0:22:19.03,0:22:20.03,ED EN,,0,517,0,,{\an3\blur0.3}Sphere of Primum Mobile
+Dialogue: 0,0:22:10.23,0:22:11.18,ED EN,,0,517,0,,{\fad(150,0)\an3\blur0.3}Heaven of the Moon,
+Dialogue: 0,0:22:11.18,0:22:13.48,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Mercury, Heaven of Venus,
+Dialogue: 0,0:22:13.48,0:22:15.65,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of the Sun, Heaven of Mars,
+Dialogue: 0,0:22:15.65,0:22:17.90,ED EN,,0,517,0,,{\an3\blur0.3\q2}Heaven of Jupiter, Heaven of Saturn,
+Dialogue: 0,0:22:17.90,0:22:19.03,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Fixed Stars,
+Dialogue: 0,0:22:19.03,0:22:20.03,ED EN,,0,517,0,,{\an3\blur0.3}Heaven of Primum Mobile
 Dialogue: 0,0:22:20.03,0:22:20.69,ED EN,,0,517,0,,{\an3\blur0.3}Further beyond...
 Dialogue: 0,0:22:20.69,0:22:20.74,ED EN,,0,517,0,,{\an3\blur0.3\clip(126.61,673.6,605.81,705.6)\q2}Further beyond...
 Dialogue: 2,0:22:20.69,0:22:20.74,ED EN,,0,517,0,,{\c&HFAB7FF&\an3\blur0.3\clip(126.61,588.8,612.22,673.6)\q2}Further beyond...
@@ -430,8 +430,8 @@ Dialogue: 0,0:12:10.09,0:12:11.50,Main,Miki,0,0,0,,Someone you want me to meet?
 Dialogue: 0,0:12:11.50,0:12:13.79,Main,Touga,0,0,0,,There it is. \N Can you not hear it?{Repeated from episode 25. - Toa}
 Dialogue: 0,0:12:13.79,0:12:14.89,Main,Miki,0,0,0,,Hear what?
 Dialogue: 0,0:12:15.92,0:12:19.51,Main,Touga,0,0,0,,So long as your soul \N has not truly given up...
-Dialogue: 0,0:12:21.22,0:12:23.06,Main,Touga,0,0,0,,...you can hear \N the sound that races...
-Dialogue: 0,0:12:24.96,0:12:26.64,Main,Touga,0,0,0,,...across the end of the world!
+Dialogue: 0,0:12:21.22,0:12:23.06,Main,Touga,0,0,0,,...you should be able to \N hear the sound...
+Dialogue: 0,0:12:24.96,0:12:26.64,Main,Touga,0,0,0,,...that races across \N the end of the world!
 Dialogue: 0,0:12:27.37,0:12:28.73,Main,Miki,0,0,0,,What are you talking about?
 Dialogue: 0,0:12:32.48,0:12:33.39,Main,Miki,0,0,0,,I hear it!
 Dialogue: 0,0:12:34.26,0:12:35.90,Main,Miki,0,0,0,,I really hear it!
@@ -499,7 +499,7 @@ Dialogue: 0,0:18:30.25,0:18:31.82,Main,Kozue,0,0,0,,Ready? Here we go.
 Dialogue: 0,0:18:31.82,0:18:32.53,Main,Miki,0,0,0,,Yeah.
 Dialogue: 0,0:18:34.54,0:18:36.13,Main,Anthy,0,0,0,,Utena-sama?
 Dialogue: 0,0:18:36.13,0:18:36.86,Main,Utena,0,0,0,,Right.
-Dialogue: 0,0:18:44.51,0:18:46.52,Main,Anthy,0,0,0,,O Rose of Noble Emotion...
+Dialogue: 0,0:18:44.51,0:18:46.52,Main,Anthy,0,0,0,,Rose of Noble Emotion...
 Dialogue: 0,0:18:47.06,0:18:49.74,Main,Anthy,0,0,0,,I beg of you, manifest...
 Dialogue: 0,0:19:05.88,0:19:08.75,Main,Utena & Anthy,0,0,0,,The power to revolutionize the world!
 Dialogue: 0,0:19:42.45,0:19:45.41,Main,Utena,0,0,0,,I thought we were friends!{lit. I thought we had already become friends}
