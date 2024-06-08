@@ -2106,7 +2106,7 @@ POKÉMON NAMES
 0854 ヤバチャ Yabacha - こうちゃポケモン Black Tea Pokémon
 0855 ポットデス Potdeath - こうちゃポケモン Black Tea Pokémon
 0856 ミブリム Mibrim - おだやかポケモン Calm Pokémon
-0857 テブリム Tebrim - せいしゅくポケモン Serene Pokémon
+0857 テブリム Tebrim - せいしゅくポケモン Silencing Pokémon
 0858 ブリムオン Brimuon - せいじゃくポケモン Silent Pokémon
 0859 ベロバー Beroba - いじわるポケモン Mean Pokémon
 0860 ギモー Gimoh - しょうわるポケモン Devious Pokémon
@@ -2228,7 +2228,7 @@ POKÉMON NAMES
 0976 ミガルーサ 
 0977 ヘイラッシャ 
 0978 シャリタツ 
-0979 コノヨザル 
+0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
 0980 ドオー 
 0981 リキキリン 
 0982 ノココッチ 
