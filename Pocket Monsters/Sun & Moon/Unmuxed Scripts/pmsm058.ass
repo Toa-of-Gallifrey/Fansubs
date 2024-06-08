@@ -104,7 +104,7 @@ Dialogue: 0,0:19:17.06,0:19:20.27,Insert,Team Rocket Theme,0,0,0,,{\an8}The litt
 Dialogue: 0,0:19:20.27,0:19:21.64,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Course, we’re villains!”
 Dialogue: 0,0:19:21.64,0:19:23.19,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:19:23.19,0:19:26.61,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
-Dialogue: 0,0:19:26.61,0:19:29.69,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off again,{Couldn’t resist -Starfish}
+Dialogue: 0,0:19:26.61,0:19:29.69,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,{Couldn’t resist -Starfish}
 Dialogue: 0,0:19:29.69,0:19:33.03,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
 Dialogue: 0,0:19:33.03,0:19:36.28,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:19:36.28,0:19:41.37,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together! What a great feeling!
@@ -113,7 +113,7 @@ Dialogue: 0,0:19:44.25,0:19:47.42,Insert,Team Rocket Theme,0,0,0,,{\an8}we’ll 
 Dialogue: 0,0:19:47.42,0:19:50.91,Insert,Team Rocket Theme,0,0,0,,{\an8}We look up and see the shining moon
 Dialogue: 0,0:19:50.91,0:19:54.04,Insert,Team Rocket Theme,0,0,0,,{\an8}We look each other in the eye and laugh together
 Dialogue: 0,0:19:57.05,0:20:03.64,Insert,Team Rocket Theme,0,0,0,,{\an8}We’re the invincible Team Rocket!
-Dialogue: 0,0:20:03.64,0:20:07.06,Insert,Team Rocket Theme,0,0,0,,{\an8}Scaring crying children into silence...
+Dialogue: 0,0:20:03.64,0:20:07.06,Insert,Team Rocket Theme,0,0,0,,{\an8}Tricking crying children into silence...
 Dialogue: 0,0:20:07.52,0:20:09.32,Insert,Team Rocket Theme,0,0,0,,{\an8}Team Rocket!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.46,0:24:26.02,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode

@@ -239,7 +239,7 @@ Dialogue: 0,0:08:33.00,0:08:35.41,Main,Musashi,0,0,0,,All right! I got a snack!
 Dialogue: 0,0:08:35.41,0:08:36.83,Main,Nyarth,0,0,0,,Oh, nice, meow.
 Dialogue: 0,0:08:36.83,0:08:38.02,Main,Kojiro,0,0,0,,No fair.
 Dialogue: 0,0:08:40.17,0:08:41.00,Main,Nyarth,0,0,0,,Musashi?
-Dialogue: 0,0:08:42.42,0:08:44.73,Main,Kojiro,0,0,0,,It looks like it can use Puffs \N offensively, too. {Suggestion to condense “to attack with” into “offensively”. - Toa}
+Dialogue: 0,0:08:42.42,0:08:44.73,Main,Kojiro,0,0,0,,It looks like it can use Puffs \N offensively, too.
 Dialogue: 0,0:08:45.42,0:08:48.50,Main,Musashi,0,0,0,,Why didn’t you say so sooner?
 Dialogue: 0,0:08:49.39,0:08:51.47,Main,Mao,0,0,0,,Look! Isn’t this the place?
 Dialogue: 0,0:08:51.47,0:08:53.01,Main,Suiren,0,0,0,,Yeah! We found it!
@@ -319,7 +319,7 @@ Dialogue: 0,0:13:44.64,0:13:47.31,Main,Mao,0,0,0,,Yeah! \N Thanks to the Bitters
 Dialogue: 0,0:13:47.31,0:13:48.76,Main,Suiren,0,0,0,,Thank you, \N Bittersweet Berries.
 Dialogue: 0,0:13:53.19,0:13:54.83,Main,Suiren,0,0,0,,Wait, Bittersweet Berries!
 Dialogue: 0,0:14:26.22,0:14:29.47,Main,Satoshi,0,0,0,,You rode on his back?! Awesome!
-Dialogue: 0,0:14:29.81,0:14:31.65,Main,Suiren,0,0,0,,Yep. That was a close call. {Changed “yeah” to “yep”. - Toa}
+Dialogue: 0,0:14:29.81,0:14:31.65,Main,Suiren,0,0,0,,Yep. That was a close call.
 Dialogue: 0,0:14:31.65,0:14:34.06,Main,Mao,0,0,0,,Yeah, we really were in trouble.
 Dialogue: 0,0:14:34.06,0:14:35.60,Main,Satoshi,0,0,0,,Lucky you...
 Dialogue: 0,0:14:35.60,0:14:37.48,Main,Rotom,0,0,0,,I got it-roto!
@@ -346,7 +346,7 @@ Dialogue: 0,0:15:34.28,0:15:38.91,Main,Nyarth,0,0,0,,I just came up with \N an a
 Dialogue: 0,0:15:39.76,0:15:41.67,Main,Satoshi,0,0,0,,So, where is Jijilong?
 Dialogue: 0,0:15:41.67,0:15:46.25,Main,Rotom,0,0,0,,Jijilong loves berries-roto. \N That might be a hint-roto.
 Dialogue: 0,0:15:46.80,0:15:48.07,Main,Suiren,0,0,0,,Maybe there?
-Dialogue: 0,0:15:49.18,0:15:52.03,Main,Suiren,0,0,0,,The place where \N we played a lot with Grampa! {Replaced “plenty” with “a lot”. - Toa}
+Dialogue: 0,0:15:49.18,0:15:52.03,Main,Suiren,0,0,0,,The place where \N we played a lot with Grampa!
 Dialogue: 0,0:15:55.02,0:15:57.64,Main,Mao,0,0,0,,Is this a Pokémon home?
 Dialogue: 0,0:16:02.40,0:16:03.53,Main,Mao,0,0,0,,Bittersweet Berries!
 Dialogue: 0,0:16:03.53,0:16:06.38,Main,Suiren,0,0,0,,These came rolling earlier, too.
@@ -372,7 +372,7 @@ Dialogue: 0,0:17:53.05,0:17:55.05,Main,Them,0,0,0,,Forest Grampa!
 Dialogue: 0,0:17:55.05,0:17:56.17,Main,Satoshi,0,0,0,,Jijilong!
 Dialogue: 0,0:17:57.89,0:18:00.22,Main,Musashi,0,0,0,,Shtop right dere!
 Dialogue: 0,0:18:00.22,0:18:01.43,Main,Mao,0,0,0,,Huh? What?
-Dialogue: 0,0:18:02.12,0:18:04.36,Main,Musashi,0,0,0,,If asked “Huh? What?”..
+Dialogue: 0,0:18:02.12,0:18:04.36,Main,Musashi,0,0,0,,If asked “Huh? What?”...
 Dialogue: 0,0:18:04.36,0:18:06.81,Main,Kojiro,0,0,0,,Let ush tell you ouw names!{In case it wasn’t clear enough, they’re trying REALLY hard to sound like five-year-olds here. -Starfish}
 Dialogue: 0,0:18:07.40,0:18:09.70,Main,Musashi,0,0,0,,Naïve, innocent and pure of heart.
 Dialogue: 0,0:18:09.70,0:18:12.57,Main,Musashi,0,0,0,,A girl who loves dolls and playing house!
@@ -428,7 +428,7 @@ Dialogue: 0,0:21:50.33,0:21:52.06,Main,Them,0,0,0,,{\i1}Bitter...{\i0}
 Comment: 0,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.09,0:23:24.51,Main,Suiren,0,0,0,,Thanks for waiting!
-Dialogue: 0,0:23:24.51,0:23:28.34,Main,Suiren,0,0,0,,I used to call Mao \N “Ms. Aina Cafeteria”.
+Dialogue: 0,0:23:24.51,0:23:28.34,Main,Suiren,0,0,0,,I used to call Mao \N “Ms. Aina Cafeteria.”
 Dialogue: 0,0:23:28.89,0:23:32.89,Main,Suiren,0,0,0,,The Placid Pokémon Jijilong \N is a Normal/Dragon type.
 Dialogue: 0,0:23:32.89,0:23:35.90,Main,Suiren,0,0,0,,Jijilong gets along great with people \N and loves to play with children...
 Dialogue: 0,0:23:35.90,0:23:39.10,Main,Suiren,0,0,0,,So the nickname “Forest Grampa” \N fits it perfectly!

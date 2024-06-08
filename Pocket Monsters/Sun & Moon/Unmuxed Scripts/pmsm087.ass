@@ -143,7 +143,7 @@ Dialogue: 0,0:01:27.20,0:01:31.00,Main,Burnet,0,0,0,,Yeah... Just a bit sleepy..
 Dialogue: 0,0:01:31.00,0:01:33.13,Main,Satoshi,0,0,0,,You’re not going to \N the ocean today?
 Dialogue: 0,0:01:33.13,0:01:36.07,Main,Burnet,0,0,0,,I’ll just observe {\i1}these{\i0} instead... \N Good enough.
 Dialogue: 0,0:01:37.49,0:01:42.07,Main,Narrator,0,0,0,,What’s this? They seem to be \N acting somewhat strange today...
-Dialogue: 0,0:01:43.52,0:01:45.50,Main,Narrator,0,0,0,,Well.. Whatever...
+Dialogue: 0,0:01:43.52,0:01:45.50,Main,Narrator,0,0,0,,Well... Whatever...
 Comment: 0,0:01:45.50,0:01:45.50,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:13.46,0:03:13.46,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:03:22.47,0:03:23.81,Main,Satoshi,0,0,0,,Alola!
@@ -348,7 +348,7 @@ Dialogue: 0,0:15:40.51,0:15:43.33,Main,Lusamine,0,0,0,,The seventh one \N should
 Dialogue: 0,0:15:43.89,0:15:45.14,Main,Satoshi,0,0,0,,Seventh one?
 Dialogue: 0,0:15:53.35,0:15:54.35,Main,Gladio,0,0,0,,Satoshi!
 Dialogue: 0,0:15:54.35,0:15:55.72,Main,Satoshi,0,0,0,,Gladio!
-Dialogue: 0,0:15:55.72,0:15:58.35,Main,Lilie,0,0,0,,Big brother! But why?
+Dialogue: 0,0:15:55.72,0:15:58.35,Main,Lilie,0,0,0,,Big Brother! But why?
 Dialogue: 0,0:15:58.35,0:16:00.67,Main,Gladio,0,0,0,,Silvuddy is frightened.
 Dialogue: 0,0:16:00.67,0:16:05.23,Main,Gladio,0,0,0,,If the cause is an Ultra Beast, \N then it could be the most dangerous one yet.
 Dialogue: 0,0:16:05.99,0:16:07.24,Main,Satoshi,0,0,0,,Really?
@@ -424,7 +424,7 @@ Dialogue: 0,0:21:12.33,0:21:16.33,Main,Mamane,0,0,0,,Can you believe it? First w
 Dialogue: 0,0:21:16.33,0:21:17.75,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:21:17.75,0:21:19.84,Main,Rotom,0,0,0,,This is the best-roto!
 Dialogue: 0,0:21:20.63,0:21:22.22,Main,Gladio,0,0,0,,Calm down, Silvuddy!
-Dialogue: 0,0:21:22.71,0:21:27.55,Main,Lilie,0,0,0,,Big brother, does this mean that \N Lunala was the one sucking in Ultra Aura?
+Dialogue: 0,0:21:22.71,0:21:27.55,Main,Lilie,0,0,0,,Big Brother, does this mean that \N Lunala was the one sucking in Ultra Aura?
 Dialogue: 0,0:21:27.55,0:21:28.57,Main,Gladio,0,0,0,,No...
 Dialogue: 0,0:21:29.12,0:21:31.10,Main,Gladio,0,0,0,,It’s not! \N There’s another one coming!
 Dialogue: 0,0:21:32.65,0:21:33.77,Main,Satoshi,0,0,0,,Another one?

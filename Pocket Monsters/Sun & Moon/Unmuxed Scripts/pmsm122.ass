@@ -103,7 +103,7 @@ Dialogue: 0,0:15:20.20,0:15:23.53,Insert,Team Rocket Theme,0,0,0,,{\an8}The litt
 Dialogue: 0,0:15:23.53,0:15:25.04,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Course, we’re villains!”
 Dialogue: 0,0:15:25.04,0:15:26.45,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:15:26.45,0:15:30.18,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
-Dialogue: 0,0:15:30.18,0:15:33.20,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off again,{Couldn't resist -Starfish}
+Dialogue: 0,0:15:30.18,0:15:33.20,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,{Couldn't resist -Starfish}
 Dialogue: 0,0:15:33.20,0:15:36.53,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
 Dialogue: 0,0:15:36.53,0:15:39.76,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:15:39.76,0:15:43.46,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together!
@@ -228,7 +228,7 @@ Dialogue: 0,0:08:39.45,0:08:43.73,Main,Matori,0,0,0,,Spectacular! Its physical p
 Dialogue: 0,0:08:46.47,0:08:49.09,Main,Matori,0,0,0,,You will hand it over... Now!
 Dialogue: 0,0:08:50.40,0:08:52.47,Main,Musashi,0,0,0,,W-Well, that’s a bit...
 Dialogue: 0,0:08:52.47,0:08:54.06,Main,Matori,0,0,0,,“A bit”... what?
-Dialogue: 0,0:08:54.06,0:08:55.97,Main,Kojiro,0,0,0,,When it all comes down to it, \N it’s kinda....
+Dialogue: 0,0:08:54.06,0:08:55.97,Main,Kojiro,0,0,0,,When it all comes down to it, \N it’s kinda...
 Dialogue: 0,0:08:55.97,0:08:56.97,Main,Matori,0,0,0,,“When it all comes down to it”?
 Dialogue: 0,0:08:56.97,0:08:58.73,Main,Nyarth,0,0,0,,Well, we just...
 Dialogue: 0,0:08:58.73,0:09:00.48,Main,Matori,0,0,0,,“Just...”?

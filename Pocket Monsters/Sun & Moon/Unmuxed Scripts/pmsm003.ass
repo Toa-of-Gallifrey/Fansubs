@@ -187,7 +187,7 @@ Dialogue: 0,0:04:57.06,0:04:58.86,Main,Rotom,0,0,0,,“Awesome!”
 Dialogue: 0,0:04:58.86,0:05:01.86,Main,Rotom,0,0,0,,Does not compute... Does not compute... \N Does not compute...
 Dialogue: 0,0:05:02.78,0:05:07.07,Main,Kukui,0,0,0,,Satoshi was admiring your functions, \N saying that they were incredible.
 Dialogue: 0,0:05:07.07,0:05:08.58,Main,Rotom,0,0,0,,Understood-roto!
-Dialogue: 0,0:05:08.58,0:05:10.79,Main,Rotom,0,0,0,,“Awesome” means “Incredible”.
+Dialogue: 0,0:05:08.58,0:05:10.79,Main,Rotom,0,0,0,,“Awesome” means “Incredible.”
 Dialogue: 0,0:05:11.41,0:05:14.79,Main,Rotom,0,0,0,,Which means I, the Index Rotom \N am incredible!
 Dialogue: 0,0:05:16.12,0:05:18.92,Main,Kukui,0,0,0,,You seem quite dependable!
 Dialogue: 0,0:05:18.92,0:05:21.55,Main,Kukui,0,0,0,,I’m Kukui! I might not look it, \N but I’m a professor!
@@ -212,7 +212,7 @@ Dialogue: 0,0:06:21.23,0:06:22.48,Main,Rotom,0,0,0,,I have no choice...
 Dialogue: 0,0:06:22.48,0:06:25.90,Main,Rotom,0,0,0,,I will permit you to just \N call me Rotom-roto, User Satoshi.
 Dialogue: 0,0:06:25.90,0:06:28.32,Main,Satoshi,0,0,0,,You can just call me Satoshi, too.
 Dialogue: 0,0:06:28.32,0:06:30.03,Main,Satoshi,0,0,0,,A shorter name is \N easier to use, right? {Can it be "shorter" instead of "short"? - Toa}
-Dialogue: 0,0:06:31.07,0:06:32.78,Main,Rotom,0,0,0,,“Satoshi”. Understood-roto!
+Dialogue: 0,0:06:31.07,0:06:32.78,Main,Rotom,0,0,0,,“Satoshi.” Understood-roto!
 Dialogue: 0,0:06:32.78,0:06:35.04,Main,Satoshi,0,0,0,,Say, Rotom...
 Dialogue: 0,0:06:35.04,0:06:39.39,Main,Satoshi,0,0,0,,Can you tell me how Pikachu is \N described in your Index?
 Dialogue: 0,0:06:40.42,0:06:41.75,Main,Rotom,0,0,0,,By all means-roto!

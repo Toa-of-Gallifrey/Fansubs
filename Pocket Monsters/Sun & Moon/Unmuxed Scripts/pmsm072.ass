@@ -150,13 +150,13 @@ Dialogue: 0,0:00:58.53,0:01:00.26,Main,Mao’s Father,0,0,0,,Yeah, it’s a...
 Dialogue: 0,0:01:00.26,0:01:02.25,Main,Ulu,0,0,0,,Hold it!
 Dialogue: 0,0:01:04.89,0:01:07.17,Main,Ulu,0,0,0,,{\i1}I{\i0} can explain it for you!
 Dialogue: 0,0:01:07.17,0:01:08.39,Main,Mao’s Father,0,0,0,,{\an8}`Ulu
-Dialogue: 0,0:01:07.17,0:01:08.39,Main,Mao,0,0,0,,Big brother!
-Dialogue: 0,0:01:08.39,0:01:10.30,Main,Satoshi,0,0,0,,Huh? B-Big brother?
+Dialogue: 0,0:01:07.17,0:01:08.39,Main,Mao,0,0,0,,Big Brother!
+Dialogue: 0,0:01:08.39,0:01:10.30,Main,Satoshi,0,0,0,,Huh? B-Big Brother?
 Dialogue: 0,0:01:12.31,0:01:13.30,Main,Ulu,0,0,0,,Grin!
 Dialogue: 0,0:01:13.30,0:01:15.57,Main,Satoshi,0,0,0,,You don’t mean...
 Dialogue: 0,0:01:15.57,0:01:22.06,Main,Rotom,0,0,0,,The one who had left on a cooking journey, \N and who sent the recipe for the Mythical Alola Stew-roto?
 Dialogue: 0,0:01:22.70,0:01:25.06,Main,Ulu,0,0,0,,Dad, Mao, I’m home! {Suggesting moving “Dad” and “Mao” to the front of the line since they read a little weird to me in the back end. - Toa}
-Dialogue: 0,0:01:26.45,0:01:28.66,Main,Mao,0,0,0,,Welcome home, big brother!
+Dialogue: 0,0:01:26.45,0:01:28.66,Main,Mao,0,0,0,,Welcome home, Big Brother!
 Dialogue: 0,0:01:28.66,0:01:29.98,Main,Ulu,0,0,0,,Calm down...
 Dialogue: 0,0:01:32.36,0:01:35.45,Main,Ulu,0,0,0,,Amakaji! So you’ve evolved!
 Dialogue: 0,0:01:36.24,0:01:39.42,Main,Mao,0,0,0,,She’s not Amakaji anymore, \N she’s Amamaiko.
@@ -166,7 +166,7 @@ Dialogue: 0,0:01:43.18,0:01:44.93,Main,Ulu,0,0,0,,How’ve you two been?
 Dialogue: 0,0:01:44.93,0:01:45.96,Main,Mao,0,0,0,,Great!
 Dialogue: 0,0:01:46.67,0:01:48.00,Main,Mao,0,0,0,,But Dad’s...
 Dialogue: 0,0:01:49.56,0:01:50.50,Main,Mao’s Father,0,0,0,,I’m ashamed of myself.
-Dialogue: 0,0:01:50.89,0:01:54.75,Main,Mao,0,0,0,,Big brother, this is Satoshi. \N He’s a Pokémon School classmate.
+Dialogue: 0,0:01:50.89,0:01:54.75,Main,Mao,0,0,0,,Big Brother, this is Satoshi. \N He’s a Pokémon School classmate.
 Dialogue: 0,0:01:54.75,0:01:57.69,Main,Ulu,0,0,0,,Sorry I didn’t introduce myself sooner. \N Name’s `Ulu.
 Dialogue: 0,0:01:57.69,0:01:59.34,Main,Ulu,0,0,0,,This is Berolinga.
 Dialogue: 0,0:02:00.64,0:02:03.16,Main,Satoshi,0,0,0,,Nice to meet you, Mr. `Ulu. \N I’m Satoshi.
@@ -214,7 +214,7 @@ Dialogue: 0,0:05:54.46,0:05:56.05,Main,Mao,0,0,0,,I’ll help, too.
 Dialogue: 0,0:05:56.05,0:05:57.05,Main,Ulu,0,0,0,,Really?
 Dialogue: 0,0:05:57.05,0:06:01.05,Main,Mao,0,0,0,,I was planning \N to help Dad bake today, anyway.
 Dialogue: 0,0:06:01.05,0:06:04.30,Main,Ulu,0,0,0,,Thank you so much, \N my sister!
-Dialogue: 0,0:06:03.22,0:06:05.13,Main,Mao,0,0,0,,{\an8}Big brother, I can’t breathe...
+Dialogue: 0,0:06:03.22,0:06:05.13,Main,Mao,0,0,0,,{\an8}Big Brother, I can’t breathe...
 Dialogue: 0,0:06:07.02,0:06:08.18,Main,Noa,0,0,0,,Alola!
 Dialogue: 0,0:06:08.69,0:06:11.26,Main,Noa,0,0,0,,Is the lunch box I ordered done?
 Dialogue: 0,0:06:12.18,0:06:13.36,Main,Mao,0,0,0,,Yes!
@@ -231,7 +231,7 @@ Dialogue: 0,0:06:39.18,0:06:41.00,Main,Ulu,0,0,0,,It must be fate!
 Dialogue: 0,0:06:41.00,0:06:42.60,Main,Noa,0,0,0,,Um...
 Dialogue: 0,0:06:42.60,0:06:46.09,Main,Noa,0,0,0,,I’m just here to pick up \N the lunch box I ordered...
 Dialogue: 0,0:06:46.09,0:06:48.10,Main,Mao,0,0,0,,Sorry to keep you waiting!
-Dialogue: 0,0:06:48.10,0:06:49.52,Main,Mao,0,0,0,,Hey, big brother!
+Dialogue: 0,0:06:48.10,0:06:49.52,Main,Mao,0,0,0,,Hey, Big Brother!
 Dialogue: 0,0:06:49.52,0:06:52.56,Main,Mao,0,0,0,,You’re not making Noa \N uncomfortable again, are you?
 Dialogue: 0,0:06:52.56,0:06:54.99,Main,Ulu,0,0,0,,Come again? How rude!
 Dialogue: 0,0:06:54.99,0:06:58.85,Main,Mao,0,0,0,,You always get so riled up \N in front of her.
@@ -249,9 +249,9 @@ Dialogue: 0,0:07:33.61,0:07:35.22,Main,Ulu,0,0,0,,Um...
 Dialogue: 0,0:07:40.31,0:07:41.78,Main,Ulu,0,0,0,,If I win...
 Dialogue: 0,0:07:41.78,0:07:45.44,Main,Ulu,0,0,0,,Can I please bake bread for you every morning \N forever and ever?!
 Dialogue: 0,0:07:46.66,0:07:47.69,Main,Noa,0,0,0,,Thank you!
-Dialogue: 0,0:08:02.88,0:08:04.47,Main,Mao,0,0,0,,Congratulations, \N big brother!
-Dialogue: 0,0:08:04.47,0:08:07.35,Main,Mao,0,0,0,,Big brother! Big brother!
-Dialogue: 0,0:08:07.35,0:08:10.52,Main,Mao,0,0,0,,Big brother, can you hear me?
+Dialogue: 0,0:08:02.88,0:08:04.47,Main,Mao,0,0,0,,Congratulations, \N Big Brother!
+Dialogue: 0,0:08:04.47,0:08:07.35,Main,Mao,0,0,0,,Big Brother! Big Brother!
+Dialogue: 0,0:08:07.35,0:08:10.52,Main,Mao,0,0,0,,Big Brother, can you hear me?
 Dialogue: 0,0:08:10.52,0:08:14.44,Main,Ulu,0,0,0,,Aren’t you glad, Mao? \N You’re getting a big sister!{Getting Overly Confident there aren’t you... -Vgtw}
 Dialogue: 0,0:08:14.44,0:08:15.18,Main,Mao,0,0,0,,What?
 Dialogue: 0,0:08:15.18,0:08:16.98,Main,Amamaiko,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fscy80\blur3\pos(640,638)}Sweet?
@@ -296,7 +296,7 @@ Dialogue: 0,0:09:47.82,0:09:50.07,Main,Mamane,0,0,0,,But it’s so sweet and tas
 Dialogue: 0,0:09:50.07,0:09:51.58,Main,Kaki,0,0,0,,What are you talking about?
 Dialogue: 0,0:09:51.58,0:09:54.37,Main,Kaki,0,0,0,,It’s {\i1}unbelievably{\i0} sour! Right?
 Dialogue: 0,0:09:54.37,0:09:55.99,Main,Satoshi,0,0,0,,Sour... Sour... Sour...!
-Dialogue: 0,0:09:57.42,0:09:59.74,Main,Mao,0,0,0,,Big brother, \N what does this mean?
+Dialogue: 0,0:09:57.42,0:09:59.74,Main,Mao,0,0,0,,Big Brother, \N what does this mean?
 Dialogue: 0,0:09:59.74,0:10:04.97,Main,Ulu,0,0,0,,Well, I wanted to try making bread \N using berries that Pokémon like...
 Dialogue: 0,0:10:04.97,0:10:08.29,Main,Ulu,0,0,0,,So I picked Ubu Berries, \N thinking they’d go well with Danish... {Denmark confirmed! Some societies survived the Poképocalypse after all! - Toa}
 Dialogue: 0,0:10:08.29,0:10:10.26,Main,Lilie,0,0,0,,Ubu Berries... I knew it.
@@ -381,7 +381,7 @@ Dialogue: 0,0:14:06.17,0:14:08.99,Main,Ulu,0,0,0,,I’m so moved!
 Dialogue: 0,0:14:08.99,0:14:11.38,Main,Noa,0,0,0,,Hang in there! You’ve got this!
 Dialogue: 0,0:14:11.38,0:14:12.16,Main,Ulu,0,0,0,,Sure! Sure!
 Dialogue: 0,0:14:13.57,0:14:15.73,Main,Mao,0,0,0,,Thank you, Noa!
-Dialogue: 0,0:14:17.24,0:14:18.83,Main,Mao,0,0,0,,Big brother?
+Dialogue: 0,0:14:17.24,0:14:18.83,Main,Mao,0,0,0,,Big Brother?
 Dialogue: 0,0:14:18.83,0:14:20.96,Main,Ulu,0,0,0,,It’s settled...
 Dialogue: 0,0:14:20.96,0:14:25.51,Main,Ulu,0,0,0,,Now that I’ve been blessed by the Goddess of Victory, \N my success is a foregone conclusion.
 Dialogue: 0,0:14:25.51,0:14:30.22,Main,Ulu,0,0,0,,Now Noa and I will get m-m-m-m—
@@ -503,7 +503,7 @@ Dialogue: 0,0:20:48.32,0:20:53.43,Main,District President,0,0,0,,...was what lan
 Dialogue: 0,0:20:53.43,0:20:55.10,Main,Mao,0,0,0,,Thank you so much!
 Dialogue: 0,0:20:55.10,0:20:56.48,Main,Mao,0,0,0,,That jam bread...
 Dialogue: 0,0:20:56.48,0:20:59.76,Main,Mao,0,0,0,,...was made with the cooperation of \N my friends and family, so...
-Dialogue: 0,0:21:01.73,0:21:04.41,Main,Mao,0,0,0,,Hm? Big brother?
+Dialogue: 0,0:21:01.73,0:21:04.41,Main,Mao,0,0,0,,Hm? Big Brother?
 Dialogue: 0,0:21:04.41,0:21:06.46,Main,Mao,0,0,0,,Where is he?
 Dialogue: 0,0:21:11.25,0:21:12.61,Main,Mao,0,0,0,,What’s this?
 Dialogue: 0,0:21:14.00,0:21:18.38,Main,Ulu,0,0,0,,To Mao. I’ve learned that \N I still have a long way to go.
