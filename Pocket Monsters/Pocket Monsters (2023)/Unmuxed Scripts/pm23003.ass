@@ -28,13 +28,13 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:03.23,0:00:05.44,Main,Liko,0,0,0,,Ooh! It’s so pretty!
-Dialogue: 0,0:00:06.65,0:00:11.66,Main,Likograndma,0,0,0,,I know the day will come when you go on\N your own adventure, with this around your neck.
+Dialogue: 0,0:00:06.65,0:00:11.66,Main,Diana,0,0,0,,I know the day will come when you go on\N your own adventure, with this around your neck.
 Dialogue: 0,0:00:11.66,0:00:13.16,Main,Liko,0,0,0,,Really...?
 Dialogue: 0,0:00:13.16,0:00:15.58,Main,Liko,0,0,0,,But aren’t adventures scary?
-Dialogue: 0,0:00:15.58,0:00:18.04,Main,Likograndma,0,0,0,,The only scary part is the first step.
-Dialogue: 0,0:00:18.79,0:00:21.88,Main,Likograndma,0,0,0,,If you take that step, \N you’ll find brand-new horizons...
-Dialogue: 0,0:00:21.88,0:00:25.21,Main,Likograndma,0,0,0,,...and forget you were ever \N scared in the first place.
-Dialogue: 0,0:00:25.21,0:00:28.01,Main,Likograndma,0,0,0,,With Pokémon by your side, \N you’ll do just fine.
+Dialogue: 0,0:00:15.58,0:00:18.04,Main,Diana,0,0,0,,The only scary part is the first step.
+Dialogue: 0,0:00:18.79,0:00:21.88,Main,Diana,0,0,0,,If you take that step, \N you’ll find brand-new sights...
+Dialogue: 0,0:00:21.88,0:00:25.21,Main,Diana,0,0,0,,...and forget you were ever \N scared in the first place.
+Dialogue: 0,0:00:25.21,0:00:28.01,Main,Diana,0,0,0,,With Pokémon by your side, \N you’ll do just fine.
 Dialogue: 0,0:00:52.03,0:00:52.82,Main,Friede,0,0,0,,{\an8}No!{002}
 Dialogue: 0,0:00:52.03,0:00:52.82,Main,Liko,0,0,0,,Nyahoja!{002}
 Dialogue: 0,0:00:57.00,0:00:57.91,Main,Amethio,0,0,0,,Withdraw!{002}
@@ -302,7 +302,7 @@ Dialogue: 0,0:17:43.17,0:17:45.17,Main,Liko,0,0,0,,“With Pokémon by your side
 Dialogue: 0,0:17:45.67,0:17:49.21,Main,Liko,0,0,0,,I finally understood what \N my grandma meant by that.
 Dialogue: 0,0:17:50.30,0:17:53.09,Main,Liko,0,0,0,,{\t(1938,2689,\c&HFFFFFF&\3c&HFFFFFF)}I stepped forward, again and again...
 Dialogue: 0,0:17:53.47,0:17:56.22,Main,Liko,0,0,0,,I could move forward, thanks to you.
-Dialogue: 0,0:17:58.47,0:18:01.52,Main,Liko,0,0,0,,I found it. A new horizon!
+Dialogue: 0,0:17:58.47,0:18:01.52,Main,Liko,0,0,0,,I did it... I found new sights!
 Dialogue: 0,0:18:03.73,0:18:07.73,Main,Murdock,0,0,0,,Your nose really is the best!{He says “Pika-ichi” which I have little doubt is going to be a catchphrase later but I feel like we might need to hear more examples of how he uses it before we can really settle on a handling for it... -TLC}
 Dialogue: 0,0:18:07.73,0:18:10.49,Main,Friede,0,0,0,,Yeah, props to you!
 Dialogue: 0,0:18:11.32,0:18:12.99,Main,Orio,0,0,0,,Heya, Liko!

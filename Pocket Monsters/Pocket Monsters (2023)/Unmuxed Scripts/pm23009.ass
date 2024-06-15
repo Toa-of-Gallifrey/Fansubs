@@ -289,13 +289,13 @@ Dialogue: 0,0:18:25.71,0:18:27.67,Main,Liko,0,0,0,,I met Roy...
 Dialogue: 0,0:18:29.71,0:18:33.43,Main,Liko,0,0,0,,Living with everyone aboard the airship,
 Dialogue: 0,0:18:33.43,0:18:35.22,Main,Liko,0,0,0,,I finally realized...
 Dialogue: 0,0:18:35.22,0:18:38.51,Main,Liko,0,0,0,,...what my grandma \N was trying to tell me, long ago...
-Dialogue: 0,0:18:45.90,0:18:50.98,Main,Likograndma,0,0,0,,I know the day will come when you go on \N your own adventure, with this around your neck.{003}
+Dialogue: 0,0:18:45.90,0:18:50.98,Main,Diana,0,0,0,,I know the day will come when you go on \N your own adventure, with this around your neck.{003}
 Dialogue: 0,0:18:50.98,0:18:52.49,Main,Liko,0,0,0,,Really...?{003}
 Dialogue: 0,0:18:52.49,0:18:54.82,Main,Liko,0,0,0,,But aren’t adventures scary?{003}
-Dialogue: 0,0:18:54.82,0:18:57.37,Main,Likograndma,0,0,0,,The only scary part is the first step.{003}
-Dialogue: 0,0:18:58.03,0:19:01.12,Main,Likograndma,0,0,0,,If you take that step, \N you’ll find brand-new horizons...{003}
-Dialogue: 0,0:19:01.12,0:19:04.37,Main,Likograndma,0,0,0,,...and forget you were ever \N scared in the first place.{003}
-Dialogue: 0,0:19:04.37,0:19:07.29,Main,Likograndma,0,0,0,,With Pokémon by your side, \N you’ll do just fine.{003}
+Dialogue: 0,0:18:54.82,0:18:57.37,Main,Diana,0,0,0,,The only scary part is the first step.{003}
+Dialogue: 0,0:18:58.03,0:19:01.12,Main,Diana,0,0,0,,If you take that step, \N you’ll find brand-new sights...{003}
+Dialogue: 0,0:19:01.12,0:19:04.37,Main,Diana,0,0,0,,...and forget you were ever \N scared in the first place.{003}
+Dialogue: 0,0:19:04.37,0:19:07.29,Main,Diana,0,0,0,,With Pokémon by your side, \N you’ll do just fine.{003}
 Dialogue: 0,0:19:15.26,0:19:18.26,Main,Liko,0,0,0,,With Nyahoja by my side, I...
 Dialogue: 0,0:19:18.26,0:19:21.56,Main,Liko,0,0,0,,I want to keep traveling \N with Friede and the crew!
 Dialogue: 0,0:19:21.64,0:19:24.23,Main,Liko,0,0,0,,Please, Father!
