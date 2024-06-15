@@ -1822,7 +1822,7 @@ POKÉMON NAMES
 0570 ゾロア Zoroa - わるぎつねポケモン  - Hisuian Form - うらみぎつねポケモン 
 0571 ゾロアーク Zoroark - ばけぎつねポケモン Illusion Fox - Hisuian Form - のろいぎつねポケモン 
 0572 チラーミィ Chillarmy - チンチラポケモン Chinchilla Pokémon
-0573 チラチーノ 
+0573 チラチーノ Chillaccino - スカーフポケモン Scarf Pokémon
 0574 ゴチム Gothim - ぎょうしポケモン 
 0575 ゴチミル 
 0576 ゴチルゼル 
@@ -1844,7 +1844,7 @@ POKÉMON NAMES
 0592 プルリル Pururill - ふゆうポケモン 
 0593 ブルンゲル 
 0594 ママンボウ Mamanbou - かいほうポケモン Caring Pokémon
-0595 バチュル 
+0595 バチュル Bachul - くっつきポケモン 
 0596 デンチュラ Dentula - でんきグモポケモン 
 0597 テッシード 
 0598 ナットレイ Nutrey - とげだまポケモン Thorn Pod Pokémon
