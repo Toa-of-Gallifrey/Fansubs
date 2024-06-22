@@ -106,7 +106,7 @@ dangai no tsurugi だんがいのつるぎ (Precipice Blades) - Precipice Blades
 dasuto shuuto ダストシュート (Gunk Shot) - # TBD #
 DD rariatto ＤＤラリアット (Darkest Lariat) - DD Lariat
 deaigashira であいがしら (First Impression) - # TBD #
-deka hammaa デカハンマー (Gigaton Hammer) - # TBD #
+deka hammaa デカハンマー (Gigaton Hammer) - Giant Hammer
 dekoreeshon デコレーション (Decorate) - Decoration
 dengeki kushibashi でんげきくちばし (Bolt Beak) - # TBD #
 dengeki ha でんげきは (Shock Wave) - Shock Wave
@@ -188,7 +188,7 @@ furui tateru ふるいたてる (Work Up) - Work Up
 fushoku gasu ふしょくガス (Corrosive Gas) - # TBD #
 fuuin ふういん (Imprison) - Seal
 fuwafuwa fooru ふわふわフォール (Floaty Fall) - # TBD #
-G no chikara Ｇのちから (Grav Apple) - # TBD #
+G no chikara Ｇのちから (Grav Apple) - G Power
 gaado shea ガードシェア (Guard Split) - Guard Share
 gaado suwappu ガードスワップ (Guard Swap) - Guard Swap
 gaman がまん (Bide) - Bide
@@ -431,7 +431,7 @@ kusabue くさぶえ (Grass Whistle) - # TBD #
 kusuguru くすぐる (Tickle) - Tickle
 kyojuudan きょじゅうだん (Behemoth Bash) - # TBD #
 kyojuuzan きょじゅうざん (Behemoth Blade) - # TBD #
-kyoken totsugeki きょけんとつげき (Glaive Rush) - # TBD #
+kyoken totsugeki きょけんとつげき (Glaive Rush) - Giant Sword Charge
 kyuuketsu きゅうけつ (Leech Life) - # TBD #
 maddo shotto マッドショット (Mud Shot) - Mud Shot
 maguma sutoomu マグマストーム (Magma Storm) - Magma Storm
@@ -736,7 +736,7 @@ tatari me たたりめ (Hex) - Evil Eye
 tatekomoru たてこもる (Shelter) - # TBD #
 tatsumaki たつまき (Twister) - Twister
 te o tsunagu てをつなぐ (Hold Hands) - # TBD #
-tedasuke てだすけ (Helping Hand) - # TBD #
+tedasuke てだすけ (Helping Hand) - Helping Hand
 tekagen てかげん (Hold Back) - # TBD #
 tekuno basutaa テクノバスター (Techno Blast) - # TBD #
 tekusuchaa テクスチャー (Conversion) - Texture
@@ -1131,7 +1131,7 @@ naitomea ナイトメア (Bad Dreams) - Nightmare
 namake なまけ (Truant) - # TBD #
 nenchaku ねんちゃく (Sticky Hold) - Sticky Hold
 netsu bousou ねつぼうそう (Flare Boost) - # TBD #
-netsu koukan ねつこうかん (Thermal Exchange) - # TBD #
+netsu koukan ねつこうかん (Thermal Exchange) - Thermal Exchange
 nige ashi にげあし (Run Away) - # TBD #
 nigegoshi にげごし (Wimp Out) - # TBD #
 noo gaado ノーガード (No Guard) - No Guard
@@ -2090,7 +2090,7 @@ POKÉMON NAMES
 0838 トロッゴン Toroggon - せきたんポケモン Coal Pokémon
 0839 セキタンザン Sekitanzan - せきたんポケモン Coal Pokémon
 0840 カジッチュ 
-0841 アップリュー 
+0841 アップリュー Appryuu - りんごはねポケモン 
 0842 タルップル Tarpple - りんごじるポケモン Apple Juice Pokémon
 0843 スナヘビ Sunahebi - すなへびポケモン Sand Snake Pokémon
 0844 サダイジャ Sadaija - すなへびポケモン Sand Snake Pokémon
@@ -2206,9 +2206,9 @@ POKÉMON NAMES
 0954 ベラカス 
 0955 ヒラヒナ 
 0956 クエスパトラ 
-0957 カヌチャン 
-0958 ナカヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
-0959 デカヌチャン 
+0957 カヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
+0958 ナカヌチャン Nakanuchan - ハンマーポケモン Hammer Pokémon
+0959 デカヌチャン Dekanuchan - ハンマーポケモン Hammer Pokémon
 0960 ウミディグダ Umidigda - あなごポケモン Garden Eel Pokémon
 0961 ウミトリオ 
 0962 オトシドリ 
@@ -2247,7 +2247,7 @@ POKÉMON NAMES
 0995 テツノイバラ 
 0996 セビエ 
 0997 セゴール 
-0998 セグレイブ 
+0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
 0999 コレクレー 
 1000 サーフゴー 
 1001 チオンジェン 
