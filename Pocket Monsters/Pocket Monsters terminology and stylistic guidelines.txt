@@ -2210,7 +2210,7 @@ POKÉMON NAMES
 0958 ナカヌチャン Nakanuchan - ハンマーポケモン Hammer Pokémon
 0959 デカヌチャン Dekanuchan - ハンマーポケモン Hammer Pokémon
 0960 ウミディグダ Umidigda - あなごポケモン Garden Eel Pokémon
-0961 ウミトリオ 
+0961 ウミトリオ Umitrio - あなごポケモン Garden Eel Pokémon
 0962 オトシドリ 
 0963 ナミイルカ Namiiruka - イルカポケモン Dolphin Pokémon
 0964 イルカマン Irukaman - イルカポケモン Dolphin Pokémon --- Mighty Forme - ヒーローポケモン Hero Pokémon
