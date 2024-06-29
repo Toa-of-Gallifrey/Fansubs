@@ -504,7 +504,7 @@ munen no tsurugi むねんのつるぎ (Bitter Blade) - Sword of Regrets
 muunfoosu ムーンフォース (Moonblast) - Moonforce
 mushi kui むしくい (Bug Bite) - Bug Bite
 mushi no sazameki むしのさざめき (Bug Buzz) - # TBD #
-mushi no teikou むしのていこう (Struggle Bug) - # TBD #
+mushi no teikou むしのていこう (Struggle Bug) - Bug Struggle
 nagetsukeru なげつける (Fling) - # TBD #
 naishobanashi ないしょばなし (Confide) - # TBD #
 naito baasuto ナイトバースト (Night Daze) - Night Burst
@@ -751,8 +751,8 @@ tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
 tobigeri とびげり (Jump Kick) - # TBD #
 tobihaneru とびはねる (Bounce) - # TBD #
 tobihizageri とびひざげり (High Jump Kick) - High Jump Kick [subject to change]
-tobikakaru とびかかる (Lunge) - # TBD #
-tobitsuku とびつく (Pounce) - # TBD #
+tobikakaru とびかかる (Lunge) - Lunge
+tobitsuku とびつく (Pounce) - Pounce
 todomebari とどめばり (Fell Stinger) - # TBD #
 toge kyanon とげキャノン (Spike Cannon) - Spike Cannon [subject to change]
 togisumasu とぎすます (Laser Focus) - # TBD #
@@ -2169,7 +2169,7 @@ POKÉMON NAMES
 0917 タマンチュラ Tamantula - いとだまポケモン 
 0918 ワナイダー Wanaider - トラップポケモン Trap Pokémon
 0919 マメバッタ 
-0920 エクスレッグ 
+0920 エクスレッグ Exleg - バッタポケモン 
 0921 パモ Pamo - ねずみポケモン Mouse Pokémon
 0922 パモット Pamot - ねずみポケモン Mouse Pokémon
 0923 パーモット Parmot -  - てあてポケモン 
@@ -2229,7 +2229,7 @@ POKÉMON NAMES
 0977 ヘイラッシャ 
 0978 シャリタツ 
 0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
-0980 ドオー 
+0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
 0981 リキキリン 
 0982 ノココッチ 
 0983 ドドゲザン 
