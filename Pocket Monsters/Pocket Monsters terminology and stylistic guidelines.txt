@@ -1820,7 +1820,7 @@ POKÉMON NAMES
 0568 ヤブクロン Yabukuron - ゴミぶくろポケモン 
 0569 ダストダス Dustdas - ゴミすてばポケモン 
 0570 ゾロア Zoroa - わるぎつねポケモン  - Hisuian Form - うらみぎつねポケモン 
-0571 ゾロアーク Zoroark - ばけぎつねポケモン Illusion Fox - Hisuian Form - のろいぎつねポケモン 
+0571 ゾロアーク Zoroark - ばけぎつねポケモン Transforming Fox - Hisuian Form - のろいぎつねポケモン 
 0572 チラーミィ Chillarmy - チンチラポケモン Chinchilla Pokémon
 0573 チラチーノ Chillaccino - スカーフポケモン Scarf Pokémon
 0574 ゴチム Gothim - ぎょうしポケモン 
@@ -2181,7 +2181,7 @@ POKÉMON NAMES
 0929 オリーニョ Oliño - オリーブポケモン Olive Pokémon
 0930 オリーヴァ Oliva - オリーブポケモン Olive Pokémon
 0931 イキリンコ Ikirinko - インコポケモン Parrot Pokémon
-0932 コジオ 
+0932 コジオ Kojio - がんえんポケモン Rock Salt Pokémon
 0933 ジオヅム 
 0934 キョジオーン Kyojiohn - がんえんポケモン Rock Salt Pokémon
 0935 カルボウ Carbou - ひのこポケモン 
@@ -2232,7 +2232,7 @@ POKÉMON NAMES
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
 0981 リキキリン 
 0982 ノココッチ 
-0983 ドドゲザン 
+0983 ドドゲザン Dodogezan - だいとうポケモン 
 0984 イダイナキバ 
 0985 サケブシッポ 
 0986 アラブルタケ 
@@ -2248,7 +2248,7 @@ POKÉMON NAMES
 0996 セビエ 
 0997 セゴール 
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
-0999 コレクレー 
+0999 コレクレー Collecurei - たからばこポケモン --- Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
 1000 サーフゴー 
 1001 チオンジェン 
 1002 パオジアン 
