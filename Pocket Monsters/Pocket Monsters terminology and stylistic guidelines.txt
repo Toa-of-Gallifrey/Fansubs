@@ -11,7 +11,7 @@ aisu booru アイスボール (Ice Ball) - Ice Ball
 aisu hammaa アイスハンマー (Ice Hammer) - Ice Hammer
 aisu supinaa アイススピナー (Ice Spinner) - Ice Spinner
 aku no hadou あくのはどう (Dark Pulse) - Evil Pulse
-akua boreiku アクアブレイク (Liquidation) - Aqua Break
+akua bureiku アクアブレイク (Liquidation) - Aqua Break
 akua jetto アクアジェット (Aqua Jet) - Aqua Jet
 akua kattaa アクアカッター (Aqua Cutter) - Aqua Cutter
 akua suteppu アクアステップ (Aqua Step) - Aqua Step
@@ -118,8 +118,8 @@ denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
 denkou sougeki でんこうそうげき (Double Shock) - All-Out Lightning Attack
 desu uingu デスウイング (Oblivion Wing) - Death Wing
 dobadoba oora どばどばオーラ (Glitzy Glow) - # TBD #
-dogeza tsuki (False Surrender) - Groveling Jab
-dogezan ドゲザン (Kowtow Cleave) - # TBD #
+dogezatsuki どげざつき (False Surrender) - Groveling Jab
+dogezan ドゲザン (Kowtow Cleave) - Groveling Cleave
 doku gasu どくガス (Poison Gas) - Poison Gas
 doku no ito どくのいと (Toxic Thread) - # TBD #
 doku no kona どくのこな (Poison Powder) - Poison Powder
@@ -2232,7 +2232,7 @@ POKÉMON NAMES
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
 0981 リキキリン 
 0982 ノココッチ 
-0983 ドドゲザン Dodogezan - だいとうポケモン 
+0983 ドドゲザン Dodogezan - だいとうポケモン Glaive Pokémon
 0984 イダイナキバ 
 0985 サケブシッポ 
 0986 アラブルタケ 
