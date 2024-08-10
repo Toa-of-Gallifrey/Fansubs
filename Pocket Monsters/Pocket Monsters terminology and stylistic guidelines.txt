@@ -249,7 +249,7 @@ hasamu はさむ (Vise Grip) - # TBD #
 hataki otosu はたきおとす (Knock Off) - Knock Off
 hataku はたく (Pound) - Pound
 hayate gaeshi はやてがえし (Upper Hand) - # TBD #
-hebi nimari へびにらみ (Glare) - # TBD #
+hebi nimari へびにらみ (Glare) - Snake Glare
 hebii bombaa ヘビーボンバー (Heavy Slam) - Heavy Bomber
 hedoro bakudan ヘドロばくだん (Sludge Bomb) - Sludge Bomb
 hedoro kougeki ヘドロこうげき (Sludge) - Sludge Attack
@@ -361,7 +361,7 @@ kanashibari かなしばり (Disable) - # TBD #
 kara de hasamu からではさむ (Clamp) - # TBD #
 kara ni komoru からにこもる (Withdraw) - # TBD #
 kara o yaburu からをやぶる (Shell Smash) - # TBD #
-karagenki からげんき (Facade) - Bravado [subject to change]
+karagenki からげんき (Facade) - False Bravado
 karamitsuku からみつく (Constrict) - # TBD #
 karate choppu からてチョップ (Karate Chop) - Karate Chop
 kataki uchi かたきうち (Retaliate) - # TBD #
@@ -464,7 +464,7 @@ metaru kuroo メタルクロー (Metal Claw) - Metal Claw
 meteo biimu メテオビーム (Meteor Beam) - Meteor Beam
 meteo doraibu メテオドライブ (Sunsteel Strike) - Meteor Drive
 mezamashi binta めざましビンタ (Wake-Up Slap) # TBD #
-mezameru dansu めざめるダンス (Revelation Dance) - # TBD #
+mezameru dansu めざめるダンス (Revelation Dance) - Awakening Dance
 mezameru pawaa めざめるパワー (Hidden Power) - # TBD #
 mi o kezuru みをけずる (Fillet Away) - # TBD #
 michizure みちづれ (Destiny Bond) - Drag Along
@@ -1455,7 +1455,7 @@ POKÉMON NAMES
 0203 キリンリキ Kirinriki - くびながポケモン 
 0204 クヌギダマ Kunugidama - みのむしポケモン Bagworm Pokémon
 0205 フォレトス Foretos - みのむしポケモン Bagworm Pokémon
-0206 ノコッチ 
+0206 ノコッチ Nokotchi - つちへびポケモン Land Snake Pokémon
 0207 グライガー 
 0208 ハガネール Haganail - てつへびポケモン Iron Snake Pokémon
 0209 ブルー Bullu - ようせいポケモン Fairy Pokémon
@@ -1862,8 +1862,8 @@ POKÉMON NAMES
 0610 キバゴ Kibago - キバポケモン 
 0611 オノンド 
 0612 オノノクス Ononox - あごオノポケモン Axe Jaw Pokémon
-0613 クマシュン Kumashun - ひょうけつポケモン 
-0614 ツンベアー Tunbear - とうけつポケモン Freezing Pokémon
+0613 クマシュン Kumashun - ひょうけつポケモン Freezing Pokémon
+0614 ツンベアー Tunbear - とうけつポケモン Frozen Pokémon
 0615 フリージオ 
 0616 チョボマキ Chobomaki - マイマイポケモン 
 0617 アギルダー Agilder - からぬけポケモン 
@@ -1961,7 +1961,7 @@ POKÉMON NAMES
 0709 オーロット Ohrot - ろうぼくポケモン Elder Tree Pokémon
 0710 バケッチャ 
 0711 パンプジン Pumpjin - かぼちゃポケモン Pumpkin Pokémon
-0712 カチコール 
+0712 カチコール Kachikooru - ひょうかいポケモン Ice Chunk Pokémon
 0713 クレベース Crebase - ひょうざんポケモン 
 0714 オンバット 
 0715 オンバーン Onvern - おんぱポケモン Sound Wave Pokémon
@@ -2231,7 +2231,7 @@ POKÉMON NAMES
 0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
 0981 リキキリン 
-0982 ノココッチ 
+0982 ノココッチ Nokokotchi - つちへびポケモン Land Snake Pokémon
 0983 ドドゲザン Dodogezan - だいとうポケモン Glaive Pokémon
 0984 イダイナキバ 
 0985 サケブシッポ 
@@ -2245,7 +2245,7 @@ POKÉMON NAMES
 0993 テツノコウベ 
 0994 テツノドクガ 
 0995 テツノイバラ 
-0996 セビエ 
+0996 セビエ Sebie - こおりビレポケモン Ice Fin Pokémon
 0997 セゴール 
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
 0999 コレクレー Collecurei - たからばこポケモン --- Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
