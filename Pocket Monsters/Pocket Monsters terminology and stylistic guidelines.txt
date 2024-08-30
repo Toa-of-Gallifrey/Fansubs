@@ -2220,7 +2220,7 @@ POKÉMON NAMES
 0968 ミミズズ Mimizuzu - ミミズポケモン Earthworm Pokémon
 0969 キラーメ 
 0970 キラフロル 
-0971 ボチ 
+0971 ボチ Bochi - おばけいぬポケモン Ghost Dog Pokémon
 0972 ハカドッグ Hakadog - おばけいぬポケモン Ghost Dog Pokémon
 0973 カラミンゴ 
 0974 アルクジラ 
