@@ -136,7 +136,7 @@ Dialogue: 0,0:08:12.39,0:08:14.97,Main,Dot,0,0,0,,Please pick up...
 Dialogue: 0,0:08:16.14,0:08:17.94,Main,Nanjamo,0,0,0,,Oha-kon-hello-ciao!{game line (edited for accuracy)}
 Dialogue: 0,0:08:17.94,0:08:20.02,Main,Nanjamo,0,0,0,,Whatcha wantin’ from Nanjamo?
 Dialogue: 0,0:08:20.02,0:08:22.06,Main,Dot,0,0,0,,Nanjamo{Honorifics note: Nanjamo-neesan}! It’s been a while!
-Dialogue: 0,0:08:22.06,0:08:25.78,Main,Nanjamo,0,0,0,,Ooh! Madam Gurumin{Honorifics note: Gurumin-shi} outta the suit! \N Long time no see!
+Dialogue: 0,0:08:22.06,0:08:25.78,Main,Nanjamo,0,0,0,,Ooh! Madam Gurumin{Honorifics note: Gurumin-shi} sans the suit! \N Long time no see!
 Dialogue: 0,0:08:25.78,0:08:29.03,Main,Nanjamo,0,0,0,,Once just a fan of mine, \N now a popular streamer.
 Dialogue: 0,0:08:29.03,0:08:31.24,Main,Nanjamo,0,0,0,,You really make me \N hold my head high!{hana ga takai (proud) means literally 'my nose is high' so she sticks her nose up.}
 Dialogue: 0,0:08:31.24,0:08:34.87,Main,Nanjamo,0,0,0,,Well, you still \N can’t touch my popularity.
@@ -148,7 +148,7 @@ Dialogue: 0,0:08:45.46,0:08:48.51,Main,Nanjamo,0,0,0,,Y’know, I {\i1}am{\i0} a
 Dialogue: 0,0:08:48.51,0:08:52.51,Main,Dot,0,0,0,,My IRL friend disappeared! \N I have to find her!{riaru no tomodachi}
 Dialogue: 0,0:08:52.51,0:08:56.10,Main,Nanjamo,0,0,0,,Ooh! You made an IRL pal?{riatomo}
 Dialogue: 0,0:08:56.10,0:08:58.60,Main,Dot,0,0,0,,Yeah. A very precious friend.
-Dialogue: 0,0:08:58.60,0:09:00.98,Main,Nanjamo,0,0,0,,Gotcha, gotcha! \N Readin’ you like a book!{okeoke (okay okay abbreviated) naruheso (pun upon naruhodo) monogatari ('story', naruheso monogatari seems to be nanjamo-exclusive punning)}{Game line, re-translated from scratch because they screw it up by deleting the neruheso monogatari's imagery and make it into a normal pre-existing phrase. - Toa}
+Dialogue: 0,0:08:58.60,0:09:00.98,Main,Nanjamo,0,0,0,,Gotcha, gotcha! \N Belly-ve I read ya!{okeoke (okay okay abbreviated) naruheso (pun upon naruhodo) monogatari ('story', naruheso monogatari seems to be nanjamo-exclusive punning)}{Game line, re-translated from scratch because they screw it up by deleting the neruheso monogatari's imagery and make it into a normal pre-existing phrase. - Toa}
 Dialogue: 0,0:09:01.90,0:09:04.52,Main,Nanjamo,0,0,0,,But just “looking” \N ain’t gonna hype anyone up.
 Dialogue: 0,0:09:04.52,0:09:06.19,Main,Dot,0,0,0,,Right. So I’ve got an idea.
 Dialogue: 0,0:09:06.19,0:09:08.69,Main,Nanjamo,0,0,0,,Ooh! An idea, she says?
