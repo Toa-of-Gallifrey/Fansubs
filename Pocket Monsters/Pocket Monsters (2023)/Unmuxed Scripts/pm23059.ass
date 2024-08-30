@@ -27,31 +27,31 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 10,0:00:02.11,0:00:05.53,Main,Liko,0,0,0,,On the road to our Terastal course \N Implementation tests,
+Dialogue: 10,0:00:02.11,0:00:05.53,Main,Liko,0,0,0,,On the road to our Terastal Course \N implementation tests,
 Dialogue: 10,0:00:05.99,0:00:07.61,Main,Liko,0,0,0,,we’ve arrived at Champuru Town.
-Dialogue: 10,0:00:08.49,0:00:12.74,Main,Liko,0,0,0,,An unexpected turn of events led to \N us helping out at the Anything Eatery...
-Dialogue: 10,0:00:13.37,0:00:14.91,Main,Liko,0,0,0,,...but us helping out went smoothly.{repetition in JP}
-Dialogue: 10,0:00:14.91,0:00:18.04,Main,Liko,0,0,0,,And now, it’s finally time for \N Dot’s Implementation test.
+Dialogue: 10,0:00:08.49,0:00:12.74,Main,Liko,0,0,0,,An unexpected turn of events led to \N us needing to chip in at the Anything Eatery...
+Dialogue: 10,0:00:13.37,0:00:14.91,Main,Liko,0,0,0,,...but it all worked out in the end.{...but us helping out went smoothly.}{repetition in JP, but keeping it is not necessary}
+Dialogue: 10,0:00:14.91,0:00:18.04,Main,Liko,0,0,0,,And now, it’s finally time for \N Dot’s implementation test.
 Dialogue: 10,0:00:20.63,0:00:21.67,Main,Dot,0,0,0,,Huh?!
 Dialogue: 10,0:00:22.13,0:00:24.96,Main,Dot,0,0,0,,Gym Leader Aoki{Honorifics note: Aoki-san} isn’t here?!
 Dialogue: 10,0:00:24.96,0:00:27.05,Main,Gym Person,0,0,0,,I do apologize.
-Dialogue: 10,0:00:27.05,0:00:30.68,Main,Gym Person,0,0,0,,Aoki’s making the rounds right now.
+Dialogue: 10,0:00:27.05,0:00:30.68,Main,Gym Person,0,0,0,,Aoki’s out making the rounds right now.
 Dialogue: 10,0:00:30.68,0:00:32.05,Main,Roy,0,0,0,,Making the rounds?
-Dialogue: 10,0:00:32.05,0:00:36.35,Main,Gym Person,0,0,0,,He headed out to visit gym clientèle.
+Dialogue: 10,0:00:32.05,0:00:36.35,Main,Gym Person,0,0,0,,He’s gone out to meet with Gym clients.
 Dialogue: 10,0:00:36.35,0:00:39.44,Main,Gym Person,0,0,0,,He should still be \N somewhere in town, though.
 Dialogue: 10,0:00:51.45,0:00:52.95,Main,Dot,0,0,0,,Such a pain...
-Dialogue: 10,0:00:52.95,0:00:56.24,Main,Dot,0,0,0,,I wanna get to passing my \N Implementation test already!{I wanna hurry up and pass my Implementation test.}
-Dialogue: 10,0:00:56.24,0:00:57.66,Main,Liko,0,0,0,,You’re quite confident...
+Dialogue: 10,0:00:52.95,0:00:56.24,Main,Dot,0,0,0,,I wanna get to passing my \N implementation test already!{I wanna hurry up and pass my implementation test.}
+Dialogue: 10,0:00:56.24,0:00:57.66,Main,Liko,0,0,0,,You’re quite confident...{alt that cheats the punctuation a bit: You’re... quite confident.}
 Dialogue: 10,0:00:57.66,0:00:59.54,Main,Roy,0,0,0,,You got a plan for the test?
-Dialogue: 10,0:00:59.54,0:01:00.71,Main,Dot,0,0,0,,Of course!
+Dialogue: 10,0:00:59.54,0:01:00.71,Main,Dot,0,0,0,,‘Course I do!
 Dialogue: 10,0:01:00.71,0:01:03.29,Main,Dot,0,0,0,,I’ve studied every last one of \N Mr. Aoki{Honorifics note: Aoki-san}’s battle vids...{not the game term}
-Dialogue: 10,0:01:03.29,0:01:06.71,Main,Dot,0,0,0,,And since we have to use \N two Pokémon in our Implementation tests,
+Dialogue: 10,0:01:03.29,0:01:06.71,Main,Dot,0,0,0,,And since we have to use \N two Pokémon in our implementation tests,
 Dialogue: 10,0:01:06.71,0:01:10.72,Main,Dot,0,0,0,,I’ve come up with strategies \N for both Kuwassu and Kanuchan!
-Dialogue: 10,0:01:16.47,0:01:19.27,Main,Dot,0,0,0,,Oh,  geez... Are you okay?
-Dialogue: 10,0:01:19.27,0:01:21.81,Main,Liko,0,0,0,,No shortage of fighting spirit, huh?
+Dialogue: 10,0:01:16.47,0:01:19.27,Main,Dot,0,0,0,,Oh, geez... Are you okay?
+Dialogue: 10,0:01:19.27,0:01:21.81,Main,Liko,0,0,0,,They’ve got plenty of fighting spirit, huh?
 Dialogue: 10,0:01:20.60,0:01:22.48,Main,Dot,0,0,0,,{\an8}There, there... There, there...
 Dialogue: 10,0:01:23.10,0:01:25.48,Main,Dot,0,0,0,,Okay, how about \N we start looking for Mr. Aoki{Honorifics note: Aoki-san}?
-Dialogue: 10,0:01:25.48,0:01:27.36,Main,Dot,0,0,0,,Not gonna be easy, though.
+Dialogue: 10,0:01:25.48,0:01:27.36,Main,Dot,0,0,0,,Easier said than done, though...
 Dialogue: 10,0:01:27.36,0:01:28.99,Main,Liko,0,0,0,,Yeah...
 Dialogue: 10,0:01:33.20,0:01:34.24,Main,Dot,0,0,0,,Kuwassu?
 Dialogue: 10,0:01:34.24,0:01:35.95,Main,Liko,0,0,0,,What’s going on?
@@ -62,48 +62,48 @@ Dialogue: 10,0:03:26.31,0:03:28.48,Main,Dot,0,0,0,,Where’s Kuwassu?
 Dialogue: 10,0:03:28.48,0:03:30.82,Main,Roy,0,0,0,,There’s lots of people here.
 Dialogue: 10,0:03:30.82,0:03:32.94,Main,Dot,0,0,0,,Over there!
 Dialogue: 10,0:03:33.57,0:03:36.61,Main,Dot,0,0,0,,Kuwassu! You can’t just run off like that!
-Dialogue: 10,0:03:49.58,0:03:51.21,Main,Diva,0,0,0,,One last step!{idk if this is meant to be her name or just a general "this kinda character" indicator but it's the only kind of name we have. -Tim}
+Dialogue: 10,0:03:49.58,0:03:51.21,Main,Diva,0,0,0,,One last dance step!{idk if this is meant to be her name or just a general "this kinda character" indicator but it's the only kind of name we have. -Tim}{steppu}
 Dialogue: 10,0:03:51.75,0:03:54.34,Main,Diva,0,0,0,,Odoridori! Use Feather Dance!
 Dialogue: 10,0:04:03.85,0:04:05.02,Main,Dot,0,0,0,,Ooh...
 Dialogue: 10,0:04:05.02,0:04:05.64,Main,Liko,0,0,0,,Wow!
 Dialogue: 10,0:04:05.64,0:04:06.85,Main,Roy,0,0,0,,Awesome!
-Dialogue: 10,0:04:13.40,0:04:15.11,Main,Diva,0,0,0,,Do you wanna dance, too?
-Dialogue: 10,0:04:17.61,0:04:20.24,Main,Dot,0,0,0,,No way! We don’t have time to waste!
+Dialogue: 10,0:04:13.40,0:04:15.11,Main,Diva,0,0,0,,Do you wanna dance with us?
+Dialogue: 10,0:04:17.61,0:04:20.24,Main,Dot,0,0,0,,No way! \N We can’t waste time like that!
 Dialogue: 10,0:04:20.24,0:04:22.95,Main,Dot,0,0,0,,We need to find Mr. Aoki{Honorifics note: Aoki-san}, quick!
 Dialogue: 10,0:04:22.95,0:04:26.87,Main,Diva,0,0,0,,Oh, are you guys looking for \N Gym Leader Aoki{Honorifics note: Aoki-san}?
 Dialogue: 10,0:04:26.87,0:04:28.12,Main,Liko,0,0,0,,Do you know him?
 Dialogue: 10,0:04:28.12,0:04:29.58,Main,Diva,0,0,0,,Sure do!
-Dialogue: 10,0:04:29.58,0:04:32.21,Main,Diva,0,0,0,,He’s a big name here in town.
-Dialogue: 10,0:04:32.21,0:04:34.63,Main,Diva,0,0,0,,Do you wanna know where he{Aoki-san} is?
-Dialogue: 10,0:04:34.63,0:04:35.92,Main,Roy,0,0,0,,We sure do!
+Dialogue: 10,0:04:29.58,0:04:32.21,Main,Diva,0,0,0,,He’s a big name in this town.{alt:round this town -- "here in town" I pretty much always here in a slightly different kind of context}
+Dialogue: 10,0:04:32.21,0:04:34.63,Main,Diva,0,0,0,,You wanna know where he{Aoki-san} is?
+Dialogue: 10,0:04:34.63,0:04:35.92,Main,Roy,0,0,0,,Yeah, please!{alt:Yes, please!}{alt:[Yeah,] Could you tell us?}
 Dialogue: 10,0:04:37.17,0:04:39.51,Main,Diva,0,0,0,,Okay! But first...
-Dialogue: 10,0:04:39.88,0:04:41.93,Main,Diva,0,0,0,,Let’s get acquainted with a dance.
+Dialogue: 10,0:04:39.88,0:04:41.93,Main,Diva,0,0,0,,Let’s get acquainted by dancing together.
 Dialogue: 10,0:04:41.93,0:04:42.76,Main,Dot,0,0,0,,Huh?
 Dialogue: 10,0:04:42.76,0:04:45.77,Main,Them,0,0,0,,{\i1}Yay!{\i0}
 Dialogue: 10,0:04:45.77,0:04:47.64,Main,Dot,0,0,0,,Gah, guess I’ve got no choice.
 Dialogue: 10,0:04:47.64,0:04:49.85,Main,Dot,0,0,0,,Kuwassu, show your stuff!
-Dialogue: 10,0:05:01.57,0:05:03.32,Main,Liko,0,0,0,,He’s doing Kick Down steps!{suteppu}
+Dialogue: 10,0:05:01.57,0:05:03.32,Main,Liko,0,0,0,,He’s doing Kick Down dance steps!{steppu}
 Dialogue: 10,0:05:03.32,0:05:04.45,Main,Roy,0,0,0,,So cool!
 Dialogue: 10,0:05:14.25,0:05:16.30,Main,Diva,0,0,0,,Not half bad.
-Dialogue: 10,0:05:16.30,0:05:17.80,Main,Diva,0,0,0,,Now, we better turn it up, too!
+Dialogue: 10,0:05:16.30,0:05:17.80,Main,Diva,0,0,0,,Now, we oughta turn it up, too!
 Dialogue: 10,0:05:18.34,0:05:19.80,Main,Diva,0,0,0,,Odoridori! Come on!
-Dialogue: 10,0:05:29.89,0:05:31.64,Main,Dot,0,0,0,,Those moves...
+Dialogue: 10,0:05:29.89,0:05:31.64,Main,Dot,0,0,0,,Those movements...{movements line}
 Dialogue: 10,0:05:32.81,0:05:34.65,Main,Dot,0,0,0,,That’s Awakening Dance!
 Dialogue: 10,0:05:36.15,0:05:38.65,Main,Liko,0,0,0,,Ooh! So pretty!
 Dialogue: 10,0:05:55.67,0:05:56.88,Main,Dot,0,0,0,,Kuwassu?
 Dialogue: 10,0:05:56.88,0:05:58.38,Main,Liko,0,0,0,,He’s doing the same dance?
 Dialogue: 10,0:06:02.68,0:06:05.18,Main,Diva,0,0,0,,Whoo!{onomatopoeia of whistling} Good stuff!
 Dialogue: 10,0:06:05.80,0:06:08.76,Main,Diva,0,0,0,,Show ‘em your sizzling steps!{steppu}
-Dialogue: 10,0:06:23.78,0:06:26.03,Main,Diva,0,0,0,,{You're}That was unreal!
-Dialogue: 10,0:06:26.03,0:06:29.41,Main,Diva,0,0,0,,Weaving Kick Down and Awakening Dance \N into your dance routine...
+Dialogue: 10,0:06:23.78,0:06:26.03,Main,Diva,0,0,0,,That was unreal!
+Dialogue: 10,0:06:26.03,0:06:29.41,Main,Diva,0,0,0,,Weaving Kick Down and Awakening Dance \N into your dance routine...{0:15:00.75}
 Dialogue: 10,0:06:29.41,0:06:32.29,Main,Diva,0,0,0,,You must’ve had a lot of practice!{You sure have practiced a lot.}{renshuu practice}
-Dialogue: 10,0:06:34.25,0:06:36.79,Main,Dot,0,0,0,,Kuwassu {\i1}is{\i0} always working hard.
+Dialogue: 10,0:06:34.25,0:06:36.79,Main,Dot,0,0,0,,Yeah, Kuwassu {\i1}is{\i0} always working hard.
 Dialogue: 10,0:06:39.34,0:06:41.88,Main,Roy,0,0,0,,So... Where’s Mr. Aoki{Honorifics note: Aoki-san}?
 Dialogue: 10,0:06:41.88,0:06:43.76,Main,Diva,0,0,0,,Oh, right.
 Dialogue: 10,0:06:49.81,0:06:52.31,Main,Liko,0,0,0,,The Treasure Eatery?
 Dialogue: 10,0:06:52.31,0:06:56.02,Main,Roy,0,0,0,,This place was \N the Anything Eatery’s rival, right?
-Dialogue: 10,0:06:56.02,0:06:59.69,Main,Dot,0,0,0,,Yeah. I’d heard about it, \N but it sure is striking...
-Dialogue: 10,0:06:59.69,0:07:00.82,Main,Dot,0,0,0,,Let’s head in.
+Dialogue: 10,0:06:56.02,0:06:59.69,Main,Dot,0,0,0,,Yeah. I’d heard about it, \N but it sure is something...
+Dialogue: 10,0:06:59.69,0:07:00.82,Main,Dot,0,0,0,,Let’s go.
 Dialogue: 10,0:07:01.61,0:07:03.82,Main,Eatery Lady,0,0,0,,Heya! Come on in!
 Dialogue: 10,0:07:05.24,0:07:06.66,Main,Dot,0,0,0,,U-Uh... U-Umm! Ao—
 Dialogue: 10,0:07:06.66,0:07:08.37,Main,Eatery Gentleman,0,0,0,,Table for three?
@@ -112,57 +112,57 @@ Dialogue: 10,0:07:09.20,0:07:13.45,Main,Liko,0,0,0,,Actually, we came here to \N
 Dialogue: 10,0:07:13.45,0:07:15.46,Main,Roy,0,0,0,,We heard he’d be here.
 Dialogue: 10,0:07:15.46,0:07:18.29,Main,Eatery Gentleman,0,0,0,,Oh, acquaintances of Mr. Aoki{Honorifics note: Aoki-san}?
 Dialogue: 10,0:07:18.29,0:07:19.96,Main,Eatery Gentleman,0,0,0,,Mr. Aoki{Honorifics note: Aoki-san}!
-Dialogue: 10,0:07:19.96,0:07:21.09,Main,Aoki,0,0,0,,Right.
-Dialogue: 10,0:07:38.19,0:07:41.40,Main,Aoki,0,0,0,,Ms. Dot{Honorifics note: Dot-san}, right? \N Here for your Implementation test, yes?
+Dialogue: 10,0:07:19.96,0:07:21.09,Main,Aoki,0,0,0,,Very well.
+Dialogue: 10,0:07:38.19,0:07:41.40,Main,Aoki,0,0,0,,Ms. Dot{Honorifics note: Dot-san}, isn’t it? \N Here for your implementation test, yes?
 Dialogue: 10,0:07:41.40,0:07:44.07,Main,Aoki,0,0,0,,Good day. My name is Aoki.
 Dialogue: 10,0:07:44.07,0:07:46.99,Main,Aoki,0,0,0,,I believe we met before, \N during the friendly matches.
 Dialogue: 10,0:07:46.99,0:07:47.82,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:07:47.82,0:07:48.91,Main,Roy,0,0,0,,Hmm?
-Dialogue: 10,0:07:53.87,0:07:57.29,Main,Roy,0,0,0,,Wha—?!{\i1} You’re{\i0} the Aoki{Honorifics note: Aoki-san} \N from the Elite Four?!
+Dialogue: 10,0:07:53.87,0:07:57.29,Main,Roy,0,0,0,,Wha—?! You’re {\i1}the{\i0} Aoki{Honorifics note: Aoki-san} \N from the Elite Four?!
 Dialogue: 10,0:07:57.29,0:07:59.54,Main,Roy,0,0,0,,A Gym Leader’s in the Elite Four?!
 Dialogue: 10,0:07:59.54,0:08:01.34,Main,Dot,0,0,0,,Wait, you didn’t notice?
 Dialogue: 10,0:08:01.34,0:08:02.13,Main,Roy,0,0,0,,Yeah...
 Dialogue: 10,0:08:02.55,0:08:06.72,Main,Aoki,0,0,0,,Don’t fret. I am often told \N that I don’t stand out.
 Dialogue: 10,0:08:07.34,0:08:11.39,Main,Aoki,0,0,0,,But I am proud to blend into the crowd \N as a simple office worker.
-Dialogue: 10,0:08:11.39,0:08:15.47,Main,Aoki,0,0,0,,Anyway, my boss will not be pleased \N if I spend too much time chitchatting,{Now then, my boss won't be happy if I keep chitchattings,}{ENgame: Anyway, my boss will dock my pay if I spend too much time chitchatting.}
-Dialogue: 10,0:08:15.47,0:08:17.10,Main,Aoki,0,0,0,,so let’s start the test.{ENgame: Let's get this [test] over with.}
+Dialogue: 10,0:08:11.39,0:08:15.47,Main,Aoki,0,0,0,,Anyway... My boss won’t be pleased \N if I spend too much time chitchatting,{Now then, my boss won't be happy if I keep chitchattings,}{ENgame: Anyway, my boss will dock my pay if I spend too much time chitchatting.}
+Dialogue: 10,0:08:15.47,0:08:17.10,Main,Aoki,0,0,0,,so let’s begin the test.{ENgame: Let's get this [test] over with.}
 Dialogue: 10,0:08:17.60,0:08:19.77,Main,Aoki,0,0,0,,Ma’am, if I could ask for your assistance.
 Dialogue: 10,0:08:19.77,0:08:21.48,Main,Eatery Lady,0,0,0,,Sure thing!
 Dialogue: 10,0:08:21.48,0:08:24.90,Main,Eatery Lady,0,0,0,,Guests in the parlor! \N If you wouldn’t mind...{If you would excuse us, guests in the parlor!}
 Dialogue: 10,0:08:32.66,0:08:34.58,Main,Okyakusan,0,0,0,,Ooh, does that mean \N what I think it means?!{TL: Oh, is *that* about to begin?!}
-Dialogue: 10,0:08:34.58,0:08:35.66,Main,Okyakusan,0,0,0,,I’ve been waiting for this!
-Dialogue: 10,0:08:36.08,0:08:38.16,Main,Okyakusan,0,0,0,,Excited to watch, Mr. Aoki{Honorifics note: Aoki-san}!
+Dialogue: 10,0:08:34.58,0:08:35.66,Main,Okyakusan,0,0,0,,Nice, it’s finally time!
+Dialogue: 10,0:08:36.08,0:08:38.16,Main,Okyakusan,0,0,0,,Can’t wait to see this, Mr. Aoki{Honorifics note: Aoki-san}!
 Dialogue: 10,0:08:54.18,0:08:56.43,Main,Them,0,0,0,,{\i1}Huh?!{\i0}
 Comment: 0,0:09:01.44,0:09:01.44,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:09:11.95,0:09:13.41,Main,Roy,0,0,0,,Cool!
 Dialogue: 10,0:09:13.41,0:09:14.58,Main,Dot,0,0,0,,What a contraption...
 Dialogue: 10,0:09:23.58,0:09:28.34,Main,Aoki,0,0,0,,I’ve just finished eating, \N so let’s not strain ourselves too hard.{Let's not make this too rough, as I just ate.}{Since this is also after-meal exercise, let's do this at a moderate extent.}{ENgame: I just ate, so...let’s not go too hard.}
-Dialogue: 10,0:09:28.84,0:09:32.89,Main,Aoki,0,0,0,,For your Implementation test, \N you’ll battle with two Pokémon.
+Dialogue: 10,0:09:28.84,0:09:32.89,Main,Aoki,0,0,0,,For your implementation test, \N you’ll battle with two Pokémon.
 Dialogue: 10,0:09:33.51,0:09:39.02,Main,Aoki,0,0,0,,You will be judged on how well you make use \N of Terastal under those conditions.
 Dialogue: 10,0:09:39.02,0:09:40.68,Main,Dot,0,0,0,,How well we make use of it...
-Dialogue: 10,0:09:41.44,0:09:43.77,Main,Dot,0,0,0,,So I’ve got to time it {\i1}just{\i0} right.
+Dialogue: 10,0:09:41.44,0:09:43.77,Main,Dot,0,0,0,,So I’ll have to time it {\i1}just{\i0} right.
 Dialogue: 10,0:09:43.77,0:09:44.90,Main,Liko,0,0,0,,Dot!
 Dialogue: 10,0:09:44.90,0:09:46.69,Main,Roy,0,0,0,,Go for it!
-Dialogue: 10,0:09:48.90,0:09:52.15,Main,Aoki,0,0,0,,Then, if you would, \N choose your first Pokémon for this battle.{Then, if you would choose your first Pokemon for the battle.}
+Dialogue: 10,0:09:48.90,0:09:52.15,Main,Aoki,0,0,0,,Now... Select your first Pokémon \N for this battle, if you would.
 Dialogue: 10,0:09:52.70,0:09:54.91,Main,Dot,0,0,0,,Kanuchan has never battled before...
-Dialogue: 10,0:09:54.91,0:09:56.66,Main,Dot,0,0,0,,I’ll start with Kuwassu!
+Dialogue: 10,0:09:54.91,0:09:56.66,Main,Dot,0,0,0,,So I’ll start with Kuwassu!
 Dialogue: 10,0:09:57.91,0:09:59.83,Main,Aoki,0,0,0,,Nokokotchi. Let’s go.
 Dialogue: 10,0:10:08.05,0:10:11.47,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Nokokotchi. Land Snake Pokémon. \N Normal type.
 Dialogue: 10,0:10:11.47,0:10:15.18,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It uses its hard tail to make its nest \N by boring holes into bedrock deep underground.
 Dialogue: 10,0:10:15.64,0:10:18.60,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Their nests can reach \N ten kilometers in length.{Scarlet dex entry}
 Dialogue: 10,0:10:18.60,0:10:20.52,Main,Roy,0,0,0,,It’s a Normal type...
 Dialogue: 10,0:10:20.52,0:10:22.18,Main,Liko,0,0,0,,Dot... What’s your plan?
-Dialogue: 10,0:10:22.81,0:10:24.94,Main,Aoki,0,0,0,,Now, we shall begin the test.
-Dialogue: 10,0:10:25.65,0:10:27.06,Main,Aoki,0,0,0,,Let the battle begin!
+Dialogue: 10,0:10:22.81,0:10:24.94,Main,Aoki,0,0,0,,Now, we shall start the test.
+Dialogue: 10,0:10:25.65,0:10:27.06,Main,Aoki,0,0,0,,Let the battle begin.
 Dialogue: 10,0:10:27.06,0:10:29.32,Main,Dot,0,0,0,,Let’s do it like we planned, Kuwassu!
 Dialogue: 10,0:10:29.32,0:10:30.28,Main,Dot,0,0,0,,Water Gun!
-Dialogue: 10,0:10:35.82,0:10:38.91,Main,Dot,0,0,0,,All right! Now, Kuwassu! Aqua Break!
+Dialogue: 10,0:10:35.82,0:10:38.91,Main,Dot,0,0,0,,All right! Now, Kuwassu... Aqua Break!
 Dialogue: 10,0:10:42.96,0:10:44.96,Main,Aoki,0,0,0,,Nokokotchi. Use Snake Glare.
 Dialogue: 10,0:10:49.30,0:10:50.25,Main,Dot,0,0,0,,Don’t look, Kuwassu!
 Dialogue: 10,0:10:57.39,0:10:59.22,Main,Liko,0,0,0,,He’s paralyzed!
 Dialogue: 10,0:10:59.22,0:11:01.14,Main,Roy,0,0,0,,Gotta avoid looking at that pattern!
-Dialogue: 10,0:11:02.31,0:11:03.77,Main,Dot,0,0,0,,He countered that quickly...
-Dialogue: 10,0:11:03.77,0:11:07.27,Main,Aoki,0,0,0,,Now, we will attack with Blast Waves.
+Dialogue: 10,0:11:02.31,0:11:03.77,Main,Dot,0,0,0,,He shut that down in no time...
+Dialogue: 10,0:11:03.77,0:11:07.27,Main,Aoki,0,0,0,,Next, we will attack with Blast Waves.
 Dialogue: 10,0:11:11.15,0:11:12.57,Main,Dot,0,0,0,,Run for it, Kuwassu!
 Dialogue: 10,0:11:19.16,0:11:20.91,Main,Dot,0,0,0,,Return for now, Kuwassu.
 Dialogue: 10,0:11:22.91,0:11:24.50,Main,Dot,0,0,0,,Kanuchan, let’s go!
@@ -174,27 +174,27 @@ Dialogue: 10,0:11:50.56,0:11:52.02,Main,Aoki,0,0,0,,Well, once more...
 Dialogue: 10,0:11:52.02,0:11:53.69,Main,Aoki,0,0,0,,Use Snake Glare.
 Dialogue: 10,0:11:55.53,0:11:57.32,Main,Dot,0,0,0,,I won’t fall for that again!
 Dialogue: 10,0:11:57.32,0:11:59.95,Main,Dot,0,0,0,,Kanuchan! \N Use your hammer as a blindfold!
-Dialogue: 10,0:12:03.54,0:12:05.29,Main,Dot,0,0,0,,All right, good work!
+Dialogue: 10,0:12:03.54,0:12:05.29,Main,Dot,0,0,0,,Yes! Good work!
 Dialogue: 10,0:12:05.29,0:12:07.16,Main,Aoki,0,0,0,,In that case, use Hyper Drill.
 Dialogue: 10,0:12:08.62,0:12:09.67,Main,Dot,0,0,0,,Kanuchan, dodge it!
 Dialogue: 10,0:12:12.04,0:12:13.42,Main,Roy,0,0,0,,Good work!
-Dialogue: 10,0:12:14.55,0:12:15.97,Main,Dot,0,0,0,,And then...
+Dialogue: 10,0:12:14.55,0:12:15.97,Main,Dot,0,0,0,,And now...
 Dialogue: 10,0:12:15.97,0:12:17.17,Main,Dot,0,0,0,,Brutal Swing!
-Dialogue: 10,0:12:24.31,0:12:25.10,Main,Aoki,0,0,0,,Hrm...
+Dialogue: 10,0:12:24.31,0:12:25.10,Main,Aoki,0,0,0,,Oh?
 Dialogue: 10,0:12:25.68,0:12:27.06,Main,Aoki,0,0,0,,Not bad.
 Dialogue: 10,0:12:34.28,0:12:35.82,Main,Dot,0,0,0,,Good! They canceled each other out!
 Dialogue: 10,0:12:35.82,0:12:37.32,Main,Liko,0,0,0,,Nice!
-Dialogue: 10,0:12:42.32,0:12:45.91,Main,Dot,0,0,0,,Let’s keep it up, Kanuchan. \N One more Brutal Swing!
+Dialogue: 10,0:12:42.32,0:12:45.91,Main,Dot,0,0,0,,Let’s keep it up, Kanuchan. \N Do another Brutal Swing!
 Dialogue: 10,0:12:47.87,0:12:49.50,Main,Aoki,0,0,0,,Nokokotchi, return.
 Dialogue: 10,0:12:51.79,0:12:53.92,Main,Aoki,0,0,0,,Mukuhawk, let’s go.
 Dialogue: 10,0:12:58.05,0:12:58.92,Main,Aoki,0,0,0,,Now...
-Dialogue: 10,0:12:58.92,0:13:00.34,Main,Aoki,0,0,0,,Wing Attack!
+Dialogue: 10,0:12:58.92,0:13:00.34,Main,Aoki,0,0,0,,Wing Attack.
 Dialogue: 10,0:13:06.39,0:13:08.60,Main,Aoki,0,0,0,,I can see Kanuchan is unable to battle.
-Dialogue: 10,0:13:10.10,0:13:13.02,Main,Dot,0,0,0,,But you did your best, Kanuchan. Return.
+Dialogue: 10,0:13:10.10,0:13:13.02,Main,Dot,0,0,0,,You did your best though, Kanuchan. Return.
 Dialogue: 10,0:13:14.90,0:13:17.44,Main,Aoki,0,0,0,,Will that be all?
 Dialogue: 10,0:13:23.87,0:13:25.33,Main,Dot,0,0,0,,Kuwassu!
 Dialogue: 10,0:13:25.33,0:13:26.70,Main,Dot,0,0,0,,Let’s run the plan again!
-Dialogue: 10,0:13:26.70,0:13:28.33,Main,Dot,0,0,0,,It’ll work this time!
+Dialogue: 10,0:13:26.70,0:13:28.33,Main,Dot,0,0,0,,It’s gotta work this time!
 Dialogue: 10,0:13:28.33,0:13:29.46,Main,Dot,0,0,0,,Water Gun!
 Dialogue: 10,0:13:31.96,0:13:33.46,Main,Aoki,0,0,0,,I see...
 Dialogue: 10,0:13:34.79,0:13:36.21,Main,Dot,0,0,0,,Next, use Pound!
@@ -211,23 +211,23 @@ Dialogue: 10,0:14:13.54,0:14:15.29,Main,Roy,0,0,0,,Hang in there, Kuwassu!
 Dialogue: 10,0:14:16.46,0:14:20.17,Main,Dot,0,0,0,,No way... No matter what plan \N or attack I go with...
 Dialogue: 10,0:14:20.17,0:14:22.59,Main,Dot,0,0,0,,He’s always one step ahead.{he outdoes them all.}
 Dialogue: 10,0:14:22.59,0:14:24.01,Main,Aoki,0,0,0,,I see...
-Dialogue: 10,0:14:24.51,0:14:28.85,Main,Aoki,0,0,0,,Ms. Dot{Honorifics note: Dot-san}, are plans something \N you execute by yourself?
+Dialogue: 10,0:14:24.51,0:14:28.85,Main,Aoki,0,0,0,,Ms. Dot{Honorifics note: Dot-san}, is a “plan” something \N to be carried out all by oneself?
 Dialogue: 10,0:14:28.85,0:14:29.77,Main,Dot,0,0,0,,Huh?
 Dialogue: 10,0:14:30.85,0:14:33.23,Main,Dot,0,0,0,,Kuwassu’s... flapping his wings?
 Dialogue: 10,0:14:33.81,0:14:35.52,Main,Dot,0,0,0,,Could that mean...?
-Dialogue: 10,0:14:35.52,0:14:39.27,Main,Dot,0,0,0,,He’s trying to copy Mukuhawk’s moves?
-Dialogue: 10,0:14:39.82,0:14:43.86,Main,Dot,0,0,0,,Of course... \N He’s practiced his moves again and again...{renshuu practice}
+Dialogue: 10,0:14:35.52,0:14:39.27,Main,Dot,0,0,0,,He’s trying to move like Mukuhawk?
+Dialogue: 10,0:14:39.82,0:14:43.86,Main,Dot,0,0,0,,Of course! He’s had a ton of practice \N copying how others move...{renshuu practice}
 Dialogue: 10,0:14:43.86,0:14:45.24,Main,Dot,0,0,0,,In that case...
 Dialogue: 10,0:14:45.24,0:14:47.07,Main,Dot,0,0,0,,Do this, Kuwassu!
-Dialogue: 10,0:14:52.45,0:14:56.33,Main,Dot,0,0,0,,Remember?! Combine the moves!
+Dialogue: 10,0:14:52.45,0:14:56.33,Main,Dot,0,0,0,,Remember?! \N Blend those movements together!{movements line}
 Dialogue: 10,0:14:56.33,0:14:58.34,Main,Dot,0,0,0,,Like you did \N when you were dancing, right?!
 Dialogue: 10,0:14:58.34,0:14:59.21,Main,Liko,0,0,0,,Huh?
-Dialogue: 10,0:15:00.75,0:15:04.68,Main,Diva,0,0,0,,Weaving Kick Down and Awakening Dance \N into your dance routine...
+Dialogue: 10,0:15:00.75,0:15:04.68,Main,Diva,0,0,0,,Weaving Kick Down and Awakening Dance \N into your dance routine...{0:06:26.03}
 Dialogue: 10,0:15:09.56,0:15:10.76,Main,Dot,0,0,0,,Go!
 Dialogue: 10,0:15:12.14,0:15:15.02,Main,Dot,0,0,0,,Suck in lots of air just like Nokokotchi,
 Dialogue: 10,0:15:15.02,0:15:16.15,Main,Dot,0,0,0,,then use Water Gun!
 Dialogue: 10,0:15:21.02,0:15:21.90,Main,Aoki,0,0,0,,Ah!
-Dialogue: 10,0:15:22.53,0:15:25.40,Main,Dot,0,0,0,,Then use Kick Down \N with Odoridori’s steps!{steppu}
+Dialogue: 10,0:15:22.53,0:15:25.40,Main,Dot,0,0,0,,Then use Kick Down \N with Odoridori’s dance steps!{steppu}
 Dialogue: 10,0:15:32.04,0:15:34.20,Main,Dot,0,0,0,,Follow up with \N Mukuhawk flapping his{game gender} wings!
 Dialogue: 10,0:15:34.20,0:15:35.41,Main,Dot,0,0,0,,Use your wings to Pound!{Pound with your wings!}
 Dialogue: 10,0:15:38.42,0:15:41.92,Main,Dot,0,0,0,,This is it!{This is the last!} Use Aqua Break \N while spinning like Kanuchan!
@@ -248,32 +248,32 @@ Dialogue: 10,0:17:08.01,0:17:09.17,Main,Aoki,0,0,0,,Air Slash!
 Dialogue: 10,0:17:24.77,0:17:26.28,Main,Dot,0,0,0,,Now, let’s finish this!
 Dialogue: 10,0:17:28.57,0:17:29.61,Main,Dot,0,0,0,,Welcamo!
 Dialogue: 10,0:17:29.61,0:17:33.07,Main,Aoki,0,0,0,,It seems like Snake Glare’s effect \N has persisted.
-Dialogue: 10,0:17:33.07,0:17:37.04,Main,Aoki,0,0,0,,Opportunities arise after putting in \N a lot of hard, honest work.{Opportunities arise at the end of much honest hard work.}
-Dialogue: 10,0:17:38.45,0:17:41.50,Main,Aoki,0,0,0,,I suppose I should go the extra mile.{ENgame: I suppose I can put on a bit more of a show.}
-Dialogue: 10,0:17:57.85,0:18:02.35,Main,Aoki,0,0,0,,Mind if I show you \N a special trick grown-ups use?{ENgame: I think it’s time to show you that real life isn’t all just being true to yourself...}
-Dialogue: 10,0:18:03.27,0:18:04.73,Main,Aoki,0,0,0,,Stand firm!
-Dialogue: 10,0:18:04.73,0:18:05.98,Main,Aoki,0,0,0,,Use Bravado!
+Dialogue: 10,0:17:33.07,0:17:37.04,Main,Aoki,0,0,0,,Put in enough grunt work \N and it’s bound to pay off eventually.
+Dialogue: 10,0:17:38.45,0:17:41.50,Main,Aoki,0,0,0,,Perhaps I need to give this{put in} \N a bit more effort.{ENgame: I suppose I can put on a bit more of a show.}{'doing more for customer'}
+Dialogue: 10,0:17:57.85,0:18:02.35,Main,Aoki,0,0,0,,Mind if I show you a little technique \N every adult knows all too well?{ENgame: I think it’s time to show you that real life isn’t all just being true to yourself...}
+Dialogue: 10,0:18:03.27,0:18:04.73,Main,Aoki,0,0,0,,Grin and bear it!
+Dialogue: 10,0:18:04.73,0:18:05.98,Main,Aoki,0,0,0,,Use False Bravado!{looser alt: Time for False Bravado!}
 Dialogue: 10,0:18:20.33,0:18:21.62,Main,Dot,0,0,0,,Welcamo...
 Dialogue: 10,0:18:29.30,0:18:31.26,Main,Aoki,0,0,0,,Task complete.{ENgame: [...] knock this task off our list [...]}
 Dialogue: 10,0:18:31.26,0:18:32.97,Main,Eatery Lady,0,0,0,,That’s our Aoki{Honorifics note: Aoki-san}!{Sasuga. line}
 Dialogue: 10,0:18:32.97,0:18:33.84,Main,Okyakusan,0,0,0,,You did it!
-Dialogue: 10,0:18:33.84,0:18:36.85,Main,Okyakusan,0,0,0,,Challenger, you did well too!
-Dialogue: 10,0:18:39.43,0:18:41.77,Main,Dot,0,0,0,,I was so close...
+Dialogue: 10,0:18:33.84,0:18:36.85,Main,Okyakusan,0,0,0,,You did well too, challenger!
+Dialogue: 10,0:18:39.43,0:18:41.77,Main,Dot,0,0,0,,I was {\i1}so{\i0} close...
 Dialogue: 10,0:18:48.07,0:18:48.90,Main,Aoki,0,0,0,,Now...
 Dialogue: 10,0:18:49.36,0:18:52.53,Main,Aoki,0,0,0,,Although I’ve recently \N tended to forego these...{While in recent days I have tended to omit them,}
 Dialogue: 10,0:18:52.90,0:18:57.45,Main,Aoki,0,0,0,,My boss has asked me to \N start putting together proper reports, so...
-Dialogue: 10,0:18:58.03,0:18:59.79,Main,Aoki,0,0,0,,Course student Dot{Honorifics note: Dot-san}.
+Dialogue: 10,0:18:58.03,0:18:59.79,Main,Aoki,0,0,0,,Course attendee Dot{Honorifics note: Dot-san}.
 Dialogue: 10,0:19:00.41,0:19:04.92,Main,Aoki,0,0,0,,Following an impartial examination \N by Gym Leader Aoki of Champuru Town,
-Dialogue: 10,0:19:05.42,0:19:08.50,Main,Aoki,0,0,0,,you have been awarded a passing grade \N on your Implementation test.
+Dialogue: 10,0:19:05.42,0:19:08.50,Main,Aoki,0,0,0,,you have been awarded a passing grade \N on your implementation test.
 Dialogue: 10,0:19:09.80,0:19:10.92,Main,Dot,0,0,0,,Huh?
 Dialogue: 10,0:19:10.92,0:19:12.55,Main,Dot,0,0,0,,I-I passed?!
 Dialogue: 10,0:19:12.55,0:19:14.68,Main,Aoki,0,0,0,,The reasons are as follows:
 Dialogue: 10,0:19:14.68,0:19:17.93,Main,Aoki,0,0,0,,Battling effectively using two Pokémon.
-Dialogue: 10,0:19:19.10,0:19:19.93,Main,Aoki,0,0,0,,In addition,
-Dialogue: 10,0:19:19.93,0:19:24.43,Main,Aoki,0,0,0,,evolving Kuwassu into Welcamo \N and Terastallizing at an appropriate time.
-Dialogue: 10,0:19:24.89,0:19:26.52,Main,Aoki,0,0,0,,And lastly,
-Dialogue: 10,0:19:26.52,0:19:31.90,Main,Aoki,0,0,0,,{\q2}your marvelous show of observing your surroundings, \N following your Pokémon’s intent, and combining their moves.
-Dialogue: 10,0:19:31.90,0:19:35.70,Main,Aoki,0,0,0,,Your hard work studying the basics \N has paid off in your Implementation test.
+Dialogue: 10,0:19:19.10,0:19:19.93,Main,Aoki,0,0,0,,In addition...
+Dialogue: 10,0:19:19.93,0:19:24.43,Main,Aoki,0,0,0,,Evolving Kuwassu into Welcamo \N and Terastallizing at an appropriate time.
+Dialogue: 10,0:19:24.89,0:19:29.11,Main,Aoki,0,0,0,,And lastly... Showed situational awareness \N in reading your Pokémon’s intentions...
+Dialogue: 10,0:19:29.11,0:19:31.90,Main,Aoki,0,0,0,,...and thereby combining their moves. \N Marvelously done.
+Dialogue: 10,0:19:31.90,0:19:35.70,Main,Aoki,0,0,0,,Your hard work studying the basics \N has paid off in your implementation test.
 Dialogue: 10,0:19:35.70,0:19:37.32,Main,Aoki,0,0,0,,Congratulations.
 Dialogue: 10,0:19:39.62,0:19:41.54,Main,Dot,0,0,0,,Thank you so much.
 Dialogue: 10,0:19:42.04,0:19:43.62,Main,Dot,0,0,0,,Does that mean...
@@ -297,7 +297,7 @@ Dialogue: 10,0:20:37.13,0:20:38.26,Main,Roy,0,0,0,,Yeah!
 Dialogue: 10,0:20:39.76,0:20:40.51,Main,Dot,0,0,0,,Huh?
 Dialogue: 10,0:20:44.01,0:20:46.02,Main,Roy,0,0,0,,I knew it...
 Dialogue: 10,0:20:49.90,0:20:52.44,Main,Eatery Lady,0,0,0,,The Treasure Eatery’s secret menu item:
-Dialogue: 10,0:20:52.44,0:20:55.28,Main,Eatery Lady,0,0,0,,Onigiri ala Great Blaze with lemon!{ENgame: Grilled rice balls, Fire Blast style, with fresh lemon on the side!}
+Dialogue: 10,0:20:52.44,0:20:55.28,Main,Eatery Lady,0,0,0,,Onigiri à la Great Blaze with lemon!{ENgame: Grilled rice balls, Fire Blast style, with fresh lemon on the side!}
 Dialogue: 10,0:20:55.28,0:20:57.65,Main,Roy,0,0,0,,Time to dig in!
 Dialogue: 10,0:21:02.53,0:21:04.16,Main,Liko,0,0,0,,Delicious!
 Dialogue: 10,0:21:08.00,0:21:09.37,Main,Dot,0,0,0,,That’s not bad.
@@ -324,10 +324,10 @@ Dialogue: 10,0:23:41.07,0:23:44.03,Main,Friede,0,0,220,,The answer is B: Footwor
 Dialogue: 10,0:23:44.03,0:23:47.74,Main,Friede,0,0,220,,Competing lets them all \N learn from one another.
 Dialogue: 10,0:23:47.74,0:23:52.45,Main,Friede,0,0,220,,They mimic all sorts of moves \N and even incorporate them into their own attacks!
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.46,0:24:04.05,Main,Liko,0,0,0,,Dot, congrats on passing \N your Implementation test!
-Dialogue: 10,0:24:04.05,0:24:06.34,Main,Roy,0,0,0,,And it was such a surprise \N when you evolved Kuwassu!
-Dialogue: 10,0:24:06.34,0:24:08.55,Main,Dot,0,0,0,,It was a surprise to me, too!
-Dialogue: 10,0:24:09.09,0:24:11.35,Main,Dot,0,0,0,,Next, it’s finally time for \N Roy’s Implementation test.
+Dialogue: 10,0:24:01.46,0:24:04.05,Main,Liko,0,0,0,,Dot, congrats on passing \N your implementation test!
+Dialogue: 10,0:24:04.05,0:24:06.34,Main,Roy,0,0,0,,And it was a real surprise \N when Kuwassu evolved!
+Dialogue: 10,0:24:06.34,0:24:08.55,Main,Dot,0,0,0,,It was a surprise for me, too!
+Dialogue: 10,0:24:09.09,0:24:11.35,Main,Dot,0,0,0,,Next, it’s finally time for \N Roy’s implementation test.
 Dialogue: 10,0:24:11.35,0:24:14.31,Main,Liko,0,0,0,,To get to the Fridge Town Gym, \N we’ll have to pass through Mt. Nappé.
 Dialogue: 10,0:24:14.31,0:24:18.35,Main,Roy,0,0,0,,{\q2}It snows on Mt. Nappé, right?! \N You gotta be looking forward to that, right, Hogator?
 Dialogue: 10,0:24:18.90,0:24:21.65,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters!

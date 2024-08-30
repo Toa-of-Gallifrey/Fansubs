@@ -49,7 +49,7 @@ Comment: 0,0:01:15.43,0:01:15.43,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:45.52,0:02:45.52,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:59.70,0:03:02.04,Main,Dot,0,0,0,,So this is Fridge Town!
 Dialogue: 10,0:03:04.04,0:03:06.71,Main,Liko,0,0,0,,There’s so many candles... \N It’s really pretty!
-Dialogue: 10,0:03:06.71,0:03:09.88,Main,Human,0,0,0,,Those candles are kept lit to help guide departing souls.
+Dialogue: 10,0:03:06.71,0:03:09.88,Main,Human,0,0,0,,Those candles are kept lit \N to help guide departing souls.
 Dialogue: 10,0:03:10.29,0:03:13.34,Main,Human also,0,0,0,,This is the town of \N snow and requiems, after all.
 Dialogue: 10,0:03:13.34,0:03:17.47,Main,Liko,0,0,0,,Requiems... \N A town that helps souls find peace?
 Dialogue: 10,0:03:17.47,0:03:21.64,Main,Human,0,0,0,,Yep. There’s a legend passed down \N in the mountains ‘round here.
@@ -105,10 +105,10 @@ Dialogue: 10,0:06:57.27,0:06:58.65,Main,Nemo,0,0,0,,Nice catch!
 Dialogue: 10,0:06:58.65,0:07:00.02,Main,Liko,0,0,0,,Nemo?!
 Dialogue: 10,0:07:02.94,0:07:06.91,Main,Nemo,0,0,0,,I see. So your implementation test \N is with Ms. Rhyme{Honorifics note: Rhyme-san}, Roy?
 Dialogue: 10,0:07:06.91,0:07:07.99,Main,Roy,0,0,0,,Yeah!
-Dialogue: 10,0:07:07.99,0:07:10.16,Main,Roy,0,0,0,,But I guess she went to go see the concert,
+Dialogue: 10,0:07:07.99,0:07:10.16,Main,Roy,0,0,0,,But I guess she went \N to go see the concert,
 Dialogue: 10,0:07:10.16,0:07:11.91,Main,Roy,0,0,0,,so we’re going over to look for her.
 Dialogue: 10,0:07:12.29,0:07:14.16,Main,Nemo,0,0,0,,Huh? No, not quite...
-Dialogue: 10,0:07:14.16,0:07:16.42,Main,Nemo,0,0,0,,Ms. Rhyme{Honorifics note: Rhyme-san} is {\i1}performing{\i} at the concert.
+Dialogue: 10,0:07:14.16,0:07:16.42,Main,Nemo,0,0,0,,Ms. Rhyme{Honorifics note: Rhyme-san} is {\i1}performing{\i} \N at the concert.
 Dialogue: 10,0:07:16.42,0:07:18.00,Main,Liko,0,0,0,,Performing?
 Dialogue: 10,0:07:18.00,0:07:21.38,Main,Nemo,0,0,0,,She’s a Gym Leader {\i1}and{\i0} \N a super-famous rapper!
 Dialogue: 10,0:07:21.38,0:07:23.09,Main,Roy,0,0,0,,Huh?! For real?!
@@ -149,12 +149,12 @@ Dialogue: 10,0:09:11.36,0:09:13.16,Main,MC Kammer,0,0,0,,Power Gem!
 Dialogue: 10,0:09:15.83,0:09:17.87,Main,Roy,0,0,0,,Now it’s our turn!
 Dialogue: 10,0:09:17.87,0:09:20.62,Main,Roy,0,0,0,,Get! Back! On your feet!
 Dialogue: 10,0:09:20.62,0:09:23.96,Main,Roy,0,0,0,,Don’t give up, don’t give up! Go for it!
-Dialogue: 10,0:09:23.96,0:09:27.16,Main,Roy,0,0,0,,{\an8}Don’t! You! Forget it!
-Dialogue: 10,0:09:27.16,0:09:30.55,Main,Roy,0,0,0,,{\an8}Don’t give up, don’t give up! Go for it!
+Dialogue: 10,0:09:23.96,0:09:27.17,Main,Roy,0,0,0,,{\an8}Don’t! You! Forget it!
+Dialogue: 10,0:09:27.17,0:09:30.55,Main,Roy,0,0,0,,{\an8}Don’t give up, don’t give up! Go for it!
 Dialogue: 10,0:09:30.55,0:09:33.43,Main,Roy,0,0,0,,{\an8}Get! Back! On your feet!
-Dialogue: 10,0:09:33.43,0:09:36.65,Main,Roy,0,0,0,,{\an8}Don’t give up, Hogator! Go for it!
-Dialogue: 10,0:09:36.65,0:09:39.38,Main,Roy,0,0,0,,{\an8}Don’t! You! Forget it!
-Dialogue: 10,0:09:39.38,0:09:41.44,Main,Roy,0,0,0,,{\an8}Don’t give up, don’t give up!
+Dialogue: 10,0:09:33.43,0:09:36.64,Main,Roy,0,0,0,,{\an8}Don’t give up, Hogator! Go for it!
+Dialogue: 10,0:09:36.64,0:09:39.39,Main,Roy,0,0,0,,{\an8}Don’t! You! Forget it!
+Dialogue: 10,0:09:39.39,0:09:41.44,Main,Roy,0,0,0,,{\an8}Don’t give up, don’t give up!
 Dialogue: 10,0:09:23.96,0:09:25.92,Main,Nemo,0,0,0,,Huh? He’s singing?
 Dialogue: 10,0:09:25.92,0:09:30.55,Main,Liko,0,0,0,,Roy and Hogator have won \N lots of battles by singing together.
 Dialogue: 10,0:09:30.55,0:09:34.47,Main,Nemo,0,0,0,,Ah... So that’s how \N they get in sync with each other?
@@ -184,16 +184,25 @@ Dialogue: 10,0:10:47.92,0:10:50.34,Main,Rhyme,0,0,0,,The Soulful Beat! \N Hands 
 Dialogue: 10,0:10:50.34,0:10:53.51,Main,Rhyme,0,0,0,,Couldn’t sit still \N in my Gym Leader seat.{Couldn't in a Gym Leader seat, sit still[-jitto]}
 Dialogue: 10,0:10:53.51,0:10:55.76,Main,Rhyme,0,0,0,,This rap’s gonna teach you \N all about vibes.{Learn about the thing called "vibes" through rap}
 Dialogue: 10,0:10:55.76,0:10:58.76,Main,Rhyme,0,0,0,,So it’s time for wannabes \N to say bye-bye.{This is where wannabes that don't get it say bye-bye}
-Dialogue: 10,0:10:58.76,0:11:00.68,Main,Rhyme,0,0,0,,Living with Ghost-types \N is my history.{A road living with Ghost-types[-michi]}
+Dialogue: 10,0:10:58.76,0:11:00.68,Main,Rhyme,0,0,0,,Living with Ghost types \N is my history.{A road living with Ghost-types[-michi]}
 Dialogue: 10,0:11:00.68,0:11:03.06,Main,Rhyme,0,0,0,,Ghosts but they’re alive, \N ain’t that a mystery?{Ghosts but alive, how strange[-michi]}
 Dialogue: 10,0:11:03.06,0:11:05.69,Main,Rhyme,0,0,0,,Word is when I’ve got my Ghost types,{When I am to use Ghost types,}
 Dialogue: 10,0:11:05.69,0:11:08.19,Main,Rhyme,0,0,0,,ain’t nobody can beat me, yeah!{supposedly there is nobody superior to me.}
-Dialogue: 10,0:11:08.19,0:11:11.69,Main,Rhyme,0,0,0,,{\an8}Put your hands up, \N ‘cause I’m Rhyme, I’m hot dynamite.
+Dialogue: 10,0:11:08.19,0:11:10.48,Main,Rhyme,0,0,0,,{\an8}Put your hands up, ‘cause I’m Rhyme.
+Dialogue: 10,0:11:10.48,0:11:11.69,Main,Rhyme,0,0,0,,{\an8}I’m hot dynamite.
 Dialogue: 10,0:11:11.69,0:11:13.11,Main,Rhyme,0,0,0,,{\an8}Thank you, baby!
-Dialogue: 10,0:11:13.11,0:11:17.53,Main,Rhyme,0,0,0,,{\an8}Explosive vibes! \N Bomb bomb check it, ghost flow.
-Dialogue: 10,0:11:17.53,0:11:21.74,Main,Rhyme,0,0,0,,{\an8}Put your hands up, \N ‘cause I’m Rhyme, I’m hot dynamite.
+Dialogue: 10,0:11:13.11,0:11:15.53,Main,Rhyme,0,0,0,,{\an8}Explosive vibes!
+Dialogue: 10,0:11:15.53,0:11:17.53,Main,Rhyme,0,0,0,,{\an8}Bomb bomb check it, ghost flow!
+Dialogue: 10,0:11:17.53,0:11:20.41,Main,Rhyme,0,0,0,,{\an8}Put your hands up, ‘cause I’m Rhyme.
+Dialogue: 10,0:11:20.41,0:11:21.74,Main,Rhyme,0,0,0,,{\an8}I’m hot dynamite.
 Dialogue: 10,0:11:21.74,0:11:22.66,Main,Rhyme,0,0,0,,{\an8}Thank you, baby!
-Dialogue: 10,0:11:22.66,0:11:28.17,Main,Rhyme,0,0,0,,{\an8}Sharing soulful tunes anytime, \N check it out, make it hot, ghost flow.
+Dialogue: 10,0:11:22.66,0:11:25.29,Main,Rhyme,0,0,0,,{\an8}Sharing soulful tunes anytime.
+Dialogue: 10,0:11:25.29,0:11:27.83,Main,Rhyme,0,0,0,,{\an8}Check it out, make it hot, ghost flow!
+Dialogue: 10,0:11:27.83,0:11:30.21,Main,Rhyme,0,0,0,,{\an8}I say “Rhyme,” you say “Rhyme”!
+Dialogue: 10,0:11:30.21,0:11:31.34,Main,Rhyme,0,0,0,,{\an8}Rhyme!
+Dialogue: 10,0:11:31.34,0:11:32.67,Main,Rhyme,0,0,0,,{\an8}Rhyme!
+Dialogue: 10,0:11:32.67,0:11:35.01,Main,Rhyme,0,0,0,,{\an8}I say “Rhyme,” you say “Rhyme”!
+Dialogue: 10,0:11:35.01,0:11:36.18,Main,Rhyme,0,0,0,,{\an8}Rhyme!
 Dialogue: 10,0:11:10.48,0:11:13.11,Main,Roy,0,0,0,,H-Huh?! Y-You’re kidding me!
 Dialogue: 10,0:11:13.11,0:11:13.82,Main,Liko,0,0,0,,Roy?
 Dialogue: 10,0:11:13.82,0:11:15.15,Main,Dot,0,0,0,,What’s got you so surprised?
@@ -202,14 +211,15 @@ Dialogue: 10,0:11:17.53,0:11:22.66,Main,Nemo,0,0,0,,Sure is. She’s a rapper {\
 Dialogue: 10,0:11:22.66,0:11:24.25,Main,Roy,0,0,0,,That was {\i1}her!{\i0}
 Dialogue: 10,0:11:24.25,0:11:28.88,Main,Roy,0,0,0,,You know, that mysterious trainer I told you about! \N The one who told me about Konoyozaru!
 Dialogue: 10,0:11:28.88,0:11:30.63,Main,Liko,0,0,0,,Huh?! That was Ms. Rhyme{Honorifics note: Rhyme-san}?
-Dialogue: 10,0:11:30.63,0:11:32.88,Main,Dot,0,0,0,,So you really {\i1}weren’t{\i0} just dreaming?!
-Dialogue: 10,0:11:32.88,0:11:35.42,Main,Roy,0,0,0,,I told you so!
-Dialogue: 10,0:11:36.18,0:11:38.76,Main,Rhyme,0,0,0,,Rhyme! Say “Gym Leader”!
-Dialogue: 10,0:11:38.76,0:11:39.51,Main,Audiences,0,0,0,,Gym Leader!
+Dialogue: 10,0:11:30.63,0:11:32.67,Main,Dot,0,0,0,,So you really {\i1}weren’t{\i0} just dreaming?!
+Dialogue: 10,0:11:32.67,0:11:35.01,Main,Roy,0,0,0,,I told you so!
+Dialogue: 10,0:11:36.18,0:11:37.05,Main,Rhyme,0,0,0,,Rhyme!
+Dialogue: 10,0:11:37.05,0:11:38.76,Main,Rhyme,0,0,0,,Say “Gym Leader”!
+Dialogue: 10,0:11:38.76,0:11:39.51,Main,Audiences,0,0,0,,{\i1}Gym Leader!{\i0}
 Dialogue: 10,0:11:39.51,0:11:41.22,Main,Rhyme,0,0,0,,Say “Ghost type”!
-Dialogue: 10,0:11:41.22,0:11:42.01,Main,Audiences,0,0,0,,Ghost type!
-Dialogue: 10,0:11:42.01,0:11:43.60,Main,Rhyme,0,0,0,,Say “flow and rhyme”!
-Dialogue: 10,0:11:43.60,0:11:44.43,Main,Audiences,0,0,0,,Flow and rhyme!
+Dialogue: 10,0:11:41.22,0:11:42.01,Main,Audiences,0,0,0,,{\i1}Ghost type!{\i0}
+Dialogue: 10,0:11:42.01,0:11:43.60,Main,Rhyme,0,0,0,,Say “Flow & Rhyme”!
+Dialogue: 10,0:11:43.60,0:11:44.43,Main,Audiences,0,0,0,,{\i1}Flow & Rhyme!{\i0}
 Dialogue: 10,0:11:44.43,0:11:47.52,Main,Rhyme,0,0,0,,Now raise your voice and your hands, \N let’s make some noise!
 Dialogue: 10,0:11:47.52,0:11:51.40,Main,MC Kammer,0,0,0,,Okay! Time for our show’s \N signature open participation section!
 Dialogue: 10,0:11:51.40,0:11:55.74,Main,Rhyme,0,0,0,,So, who thinks they’re ready \N to bring some heat to this stage?
@@ -361,8 +371,8 @@ Dialogue: 10,0:19:39.37,0:19:41.62,Main,Rhyme,0,0,0,,Strinder! Evil Eye!
 Dialogue: 10,0:19:45.08,0:19:46.75,Main,Roy,0,0,0,,Jump and dodge it, Hogator!
 Dialogue: 10,0:19:47.50,0:19:49.04,Main,Rhyme,0,0,0,,Overdrive!
 Dialogue: 10,0:19:53.38,0:19:54.67,Main,Roy,0,0,0,,Hogator!
-Dialogue: 10,0:19:56.72,0:19:58.55,Main,Roy,0,0,0,,At this point...
-Dialogue: 10,0:19:58.55,0:20:00.39,Main,Roy,0,0,0,,Terastallize!
+Dialogue: 10,0:19:56.72,0:19:58.89,Main,Roy,0,0,0,,At this point...
+Dialogue: 10,0:19:58.89,0:20:00.39,Main,Roy,0,0,0,,Terastallize!
 Dialogue: 10,0:20:08.52,0:20:10.90,Main,Rhyme,0,0,0,,Terastallizing out of desperation...
 Dialogue: 10,0:20:10.90,0:20:13.73,Main,Rhyme,0,0,0,,Is that the kind of path \N that’ll lead you to Rekkuuza?
 Dialogue: 10,0:20:14.73,0:20:18.82,Main,Rhyme,0,0,0,,You can’t beat my Strinder \N with those weak vibes!
