@@ -1259,7 +1259,7 @@ POKÉMON NAMES
 0007 ゼニガメ Zenigame - かめのこポケモン 
 0008 カメール Kameil - かめポケモン Turtle Pokémon
 0009 カメックス Kamex - こうらポケモン 
-0010 キャタピー Caterpie - いもむしポケモン 
+0010 キャタピー Caterpie - いもむしポケモン Caterpillar Pokémon
 0011 トランセル Trancell - さなぎポケモン Chrysalis Pokémon
 0012 バタフリー Butterfree - ちょうちょポケモン Butterfly Pokémon
 0013 ビードル Beedle - けむしポケモン 
@@ -1514,7 +1514,7 @@ POKÉMON NAMES
 0262 グラエナ Graena - かみつきポケモン Bite Pokémon
 0263 ジグザグマ Zigzaguma - まめだぬきポケモン 
 0264 マッスグマ Massuguma - とっしんポケモン 
-0265 ケムッソ Kemusso - いもむしポケモン 
+0265 ケムッソ Kemusso - いもむしポケモン Caterpillar Pokémon
 0266 カラサリス Karasalis - さなぎポケモン Chrysalis Pokémon
 0267 アゲハント Agehunt - ちょうちょポケモン Butterfly Pokémon
 0268 マユルド Mayuld - さなぎポケモン Chrysalis Pokémon
@@ -2121,7 +2121,7 @@ POKÉMON NAMES
 0869 マホイップ Mawhip - クリームポケモン Cream Pokémon
 0870 タイレーツ Tairetsu - じんけいポケモン Formation Pokémon
 0871 バチンウニ Bachin'uni - うにポケモン 
-0872 ユキハミ 
+0872 ユキハミ Yukihami - いもむしポケモン Caterpillar Pokémon
 0873 モスノウ Mosnow - こおりがポケモン 
 0874 イシヘンジン Ishihengin - きょせきポケモン Big Rock Pokémon
 0875 コオリッポ Koorippo - ペンギンポケモン Penguin Pokémon
@@ -2223,8 +2223,8 @@ POKÉMON NAMES
 0971 ボチ Bochi - おばけいぬポケモン Ghost Dog Pokémon
 0972 ハカドッグ Hakadog - おばけいぬポケモン Ghost Dog Pokémon
 0973 カラミンゴ 
-0974 アルクジラ 
-0975 ハルクジラ Hulkujira - りくくじらポケモン 
+0974 アルクジラ Arukujira - りくくじらポケモン Land Whale Pokémon
+0975 ハルクジラ Hulkujira - りくくじらポケモン Land Whale Pokémon
 0976 ミガルーサ 
 0977 ヘイラッシャ 
 0978 シャリタツ 
