@@ -21,139 +21,140 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:39.19,0:00:43.06,Main,,0,0,0,,{\fscx70\fscy70\fnFOT-Klee Pro DB\bord5\blur0.6\an5\b0\3c&HFFFFFF&\c&HFFFFFF&\pos(969,455.1)}Episode 3   "Take a Breath"
 Dialogue: 1,0:00:39.19,0:00:43.06,Main,,0,0,0,,{\fscx70\fscy70\fnFOT-Klee Pro DB\c&H000000&\3c&H000000&\bord1\blur0.6\an5\b0\4a&HFF&\pos(969,455.1)}Episode 3   "Take a Breath"
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:01.65,0:00:06.56,Main,Hohma,0,0,0,,“Prodigy Nemo on a three-win streak against Aliquis!\N A battle playing out like a rerun!”{『天才ネモ、アリキスに3連勝！再放送のようなバトル展開！』}
-Dialogue: 0,0:00:07.60,0:00:09.77,Main,Hohma,0,0,0,,Why would you reject my article?!{なんでこれがボツなんですかー！}
-Dialogue: 0,0:00:10.52,0:00:14.56,Main,Club President,0,0,0,,Well, I just feel like that’s not \N the right angle for covering that match.{いやー、あの試合で注目するのはそこじゃないと思うよ}
-Dialogue: 0,0:00:15.85,0:00:17.23,Main,Club President,0,0,0,,So, next suggestion.{次行ってみようか}
-Dialogue: 0,0:00:17.23,0:00:18.73,Main,Club Member A,0,0,0,,Allow me.{では、自分が。}
-Dialogue: 0,0:00:18.73,0:00:21.31,Main,Club Member A,0,0,0,,How about an exclusive report \N on Team Star?{スター団の独占取材はどうでしょう！}
-Dialogue: 0,0:00:21.31,0:00:24.60,Main,Club President,0,0,0,,Who was that particularly \N nasty group? The Caph Squad?{チーム・カーフだっけ？とりわけヤバいの}
-Dialogue: 0,0:00:24.60,0:00:28.44,Main,Club President,0,0,0,,But yeah, if we report on Team Star, \N that’ll really capture people’s attention!{でもこのスター団取材できたら一気に注目されるよなー}
-Dialogue: 0,0:00:28.44,0:00:30.23,Main,Club Member B,0,0,0,,Nah, it’s just too dangerous!{いやいや、危険すぎるよ}
-Dialogue: 0,0:00:30.23,0:00:33.10,Main,Hohma,0,0,0,,Why was my article not good enough?{（どうして僕の記事じゃだめなんでしょう）}
-Dialogue: 0,0:00:37.27,0:00:38.19,Main,Hohma,0,0,0,,Hmm?{ん？}
+Dialogue: 10,0:00:01.65,0:00:06.56,Main,Hohma,0,0,0,,“Prodigy Nemo on a three-win streak against Aliquis!\N A battle playing out like a rerun!”{『天才ネモ、アリキスに3連勝！再放送のようなバトル展開！』}
+Dialogue: 10,0:00:07.60,0:00:09.77,Main,Hohma,0,0,0,,Why would you reject my article?!{なんでこれがボツなんですかー！}
+Dialogue: 10,0:00:10.52,0:00:14.56,Main,Club President,0,0,0,,Well, I just feel like that’s not \N the right angle for covering that match.{いやー、あの試合で注目するのはそこじゃないと思うよ}
+Dialogue: 10,0:00:15.85,0:00:17.23,Main,Club President,0,0,0,,So, next suggestion.{次行ってみようか}
+Dialogue: 10,0:00:17.23,0:00:18.73,Main,Club Member A,0,0,0,,Allow me.{では、自分が。}
+Dialogue: 10,0:00:18.73,0:00:21.31,Main,Club Member A,0,0,0,,How about an exclusive report \N on Team Star?{スター団の独占取材はどうでしょう！}
+Dialogue: 10,0:00:21.31,0:00:24.60,Main,Club President,0,0,0,,Who was that particularly \N nasty group? The Caph Squad?{チーム・カーフだっけ？とりわけヤバいの}
+Dialogue: 10,0:00:24.60,0:00:28.44,Main,Club President,0,0,0,,But yeah, if we report on Team Star, \N that’ll really capture people’s attention!{でもこのスター団取材できたら一気に注目されるよなー}
+Dialogue: 10,0:00:28.44,0:00:30.23,Main,Club Member B,0,0,0,,Nah, it’s just too dangerous!{いやいや、危険すぎるよ}
+Dialogue: 10,0:00:30.23,0:00:33.10,Main,Hohma,0,0,0,,Why was my article not good enough?{（どうして僕の記事じゃだめなんでしょう）}
+Dialogue: 10,0:00:37.27,0:00:38.19,Main,Hohma,0,0,0,,Hmm?{ん？}
 Comment: 0,0:00:39.19,0:00:39.19,Main,,0,0,0,,
-Dialogue: 0,0:00:41.19,0:00:43.06,Main,Aliquis,0,0,0,,Um, about before...{えっと……あの時は……}
-Dialogue: 0,0:00:46.23,0:00:47.81,Main,Aliquis,0,0,0,,Sorry I lashed out at you!{当たって悪かった！}
-Dialogue: 0,0:00:51.23,0:00:53.98,Main,Ohara,0,0,0,,I went a bit too far, too...{私もちょっと言いすぎちゃったし……}
-Dialogue: 0,0:00:53.98,0:00:56.19,Main,Ohara,0,0,0,,But you still have something \N to say to Hogator!{でも、ホゲータのことは別だからね！}
-Dialogue: 0,0:00:57.73,0:00:59.15,Main,Aliquis,0,0,0,,Right...{ああ}
-Dialogue: 0,0:00:59.15,0:00:59.90,Main,Aliquis,0,0,0,,I’m sorry.{ごめんな}
-Dialogue: 0,0:01:05.69,0:01:08.48,Main,Aliquis,0,0,0,,Now Nemo’s beaten me three times...{ネモにはこれで３連敗かぁ}
-Dialogue: 0,0:01:08.48,0:01:11.73,Main,Aliquis,0,0,0,,But we’re not done just yet!{だけどよ、俺たちはまだまだこれからだ}
-Dialogue: 0,0:01:13.44,0:01:15.48,Main,Hohma,0,0,0,,Here to join you now...{お疲れ様です}
-Dialogue: 0,0:01:16.27,0:01:17.98,Main,Aliquis,0,0,0,,Oha-kon-hello-ciao!
-Dialogue: 0,0:01:18.56,0:01:22.48,Main,Ohara,0,0,0,,Even if we get the Wind Ensemble \N to help us with music...{音楽は吹奏楽のみんなに協力してもらうとしても……}
-Dialogue: 0,0:01:22.48,0:01:24.35,Main,Ohara,0,0,0,,...the footage just isn’t up to snuff.{肝心の映像がね}
-Dialogue: 0,0:01:24.35,0:01:26.60,Main,Ohara,0,0,0,,This won’t make for \N much of a school presentation...{これで学校紹介になるかなぁ……}
-Dialogue: 0,0:01:27.56,0:01:32.02,Main,Aliquis,0,0,0,,Then we should get someone to help us \N get some more impressive footage.{なら、もっと映像がすごくなるように誰かに手伝ってもらおうぜ}
-Dialogue: 0,0:01:32.02,0:01:33.19,Main,Ohara,0,0,0,,Like who?{誰に？}
-Dialogue: 0,0:01:33.19,0:01:34.15,Main,Aliquis,0,0,0,,Uh...{えっと}
-Dialogue: 0,0:01:34.15,0:01:35.31,Main,Aliquis,0,0,0,,Nanjamo, maybe?{……ナンジャモとか？}
-Dialogue: 0,0:01:35.31,0:01:39.02,Main,Ohara,0,0,0,,Wha—?! Do you really think someone \N as famous as {\i1}her{\i0} will give us the time of day?!{え〜！そんな有名人、相手してくれるかなぁ？}
-Dialogue: 0,0:01:39.02,0:01:42.98,Main,Hohma,0,0,0,,The two of them seem... \N different, somehow...{（なんでしょう……お二人とも、変わりました？）}
-Dialogue: 0,0:01:42.98,0:01:45.81,Main,Hohma,0,0,0,,Not good... \N I’m being left behind, even here...{（まずいです。ここでも置いてけぼり……）}
-Dialogue: 0,0:01:39.02,0:01:41.23,Main,Aliquis,0,0,0,,{\an8}We won’t know unless we try!{sky-ears}
-Dialogue: 0,0:01:41.23,0:01:43.52,Main,Hohma,0,0,0,,{\an8}Would someone as great \N as her really help us?{sky-ears}
-Dialogue: 0,0:01:43.52,0:01:45.81,Main,Aliquis,0,0,0,,{\an8}Do you have any other suggestions?{sky-ears}
-Dialogue: 0,0:01:45.98,0:01:49.85,Main,Club President,0,0,120,,{\t(3770,3860,\c&HFFFFFF&\3c&HFFFFFF&)}If we report on Team Star, \N that’ll really capture people’s attention!{Same line as earlier but the "demo" at the start is not included. -TL}{このスター団取材できたら一気に注目されるよなー}
-Dialogue: 0,0:01:49.94,0:01:52.35,Main,Hohma,0,0,0,,Of course! Team Star!{そうです！スター団です！}
-Dialogue: 0,0:01:52.35,0:01:57.40,Main,Hohma,0,0,0,,If I deliver an exclusive scoop on \N Caph Squad, all eyes will be on me for sure!{あのチーム・カーフから特ダネ持ってくれば大注目間違いなしです！}
-Dialogue: 0,0:01:57.40,0:01:58.77,Main,Aliquis,0,0,0,,Where’d this come from?{なんだよ急に}
-Dialogue: 0,0:01:58.77,0:02:00.90,Main,Ohara,0,0,0,,Team Star? \N What are you talking about?{スター団？なんのこと？}
-Dialogue: 0,0:02:00.90,0:02:03.73,Main,Hohma,0,0,0,,Oh, well, just an idea for the video!{あ、いや〜、動画のアイデアですよ}
-Dialogue: 0,0:02:03.73,0:02:06.73,Main,Hohma,0,0,0,,Just imagine how great it would be \N if we had footage of Team Star!{スター団の映像とかいれれば凄くないですか？}
-Dialogue: 0,0:02:06.73,0:02:08.81,Main,Ohara,0,0,0,,Huh? That’s so dangerous, though.{え？危ないよ}
-Dialogue: 0,0:02:08.81,0:02:12.40,Main,Hohma,0,0,0,,The name Hohma will be known \N to everyone in the academy!{これでホーマの名がアカデミー中から注目されますよぉ}
-Dialogue: 0,0:02:19.65,0:02:20.90,Main,Hohma,0,0,0,,Prepare yourselves!{覚悟してください}
-Dialogue: 0,0:02:20.90,0:02:22.60,Main,Hohma,0,0,0,,I {\i1}will{\i0} nab that exclusive scoop!{特ダネかっさらってやります！}
-Dialogue: 0,0:02:22.60,0:02:23.85,Main,Tanaka,0,0,0,,Who the heck’re you?{あんた誰？}
-Dialogue: 0,0:02:24.65,0:02:25.56,Main,Hohma,0,0,0,,U-Uh...{あのぉっ}
-Dialogue: 0,0:02:26.10,0:02:27.60,Main,Hohma,0,0,0,,U-Um...{えーっと}
-Dialogue: 0,0:02:31.27,0:02:33.94,Main,Hohma,0,0,0,,S-Starrific work!{お、お疲れさまでスター！！}
-Dialogue: 0,0:02:33.94,0:02:35.31,Main,Hohma,0,0,0,,My name is Hohma.{僕の名前はホーマ}
-Dialogue: 0,0:02:35.31,0:02:37.69,Main,Hohma,0,0,0,,Please let me join Team Star!{スター団に入団させてくださいっ！！}
-Dialogue: 0,0:02:45.90,0:02:47.56,Main,Tanaka,0,0,0,,Hang on a sec.{ちょっと待ってて}
-Dialogue: 0,0:02:47.56,0:02:50.85,Main,Tanaka,0,0,0,,And stay out of \N that storeroom, you hear?{倉庫の中、勝手に入っちゃダメだからね}
-Dialogue: 0,0:02:52.94,0:02:54.69,Main,Hohma,0,0,0,,I smell a scoop! {特ダネの匂いです！}
-Dialogue: 0,0:03:04.02,0:03:06.77,Main,Hohma,0,0,0,,A three-person cart, \N propelled by mounting a Burorom—{ブロロン一匹がマウントして動かせるのは3人乗りのカート……}
-Dialogue: 0,0:03:06.77,0:03:07.94,Main,Hohma,0,0,0,,No, two Burorom!{それが2匹も！}
-Dialogue: 0,0:03:07.94,0:03:10.35,Main,Hohma,0,0,0,,Two, {\i1}and{\i0} a Burororoom!{さらにブロロロームも1匹マウント……！}
-Dialogue: 0,0:03:10.35,0:03:14.10,Main,Hohma,0,0,0,,I can’t believe they were hiding \N such a nasty secret weapon...!{こんなやばそうな秘密兵器を隠し持っていたとは…}
-Dialogue: 0,0:03:14.85,0:03:16.15,Main,Hohma,0,0,0,,Eek!{でたー！}
-Dialogue: 0,0:03:18.65,0:03:21.69,Main,Tanaka,0,0,0,,I told you to stay {\i1}out!{\i0}{あんた勝手に中に入って！}
-Dialogue: 0,0:03:21.69,0:03:23.65,Main,Biwa,0,0,0,,No need to {Team }yell.{そんなに怒らなくても}
-Dialogue: 0,0:03:24.23,0:03:26.44,Main,Biwa,0,0,0,,I’m sorry I scared you.{さっきは驚かせてごめんね}
-Dialogue: 0,0:03:26.44,0:03:27.40,Main,Biwa,0,0,0,,Name’s Biwa.{わたしはビワ}
-Dialogue: 0,0:03:27.40,0:03:28.40,Main,Biwa,0,0,0,,You?{あなたは？}
-Dialogue: 0,0:03:28.40,0:03:31.06,Main,Hohma,0,0,0,,I-I’m... Hohma.{僕は……ホーマと言います}
-Dialogue: 0,0:03:31.06,0:03:32.19,Main,Biwa,0,0,0,,Pleasure!{よろしく！}
-Dialogue: 0,0:03:32.19,0:03:34.40,Main,Biwa,0,0,0,,Thank you for coming \N to the Caph Squad.{チーム・カーフへ来てくれてありがとう}
-Dialogue: 0,0:03:34.40,0:03:36.69,Main,Biwa,0,0,0,,‘Kay, let’s get started!{それじゃあ早速始めるよ！}
-Dialogue: 0,0:03:36.69,0:03:37.65,Main,Hohma,0,0,0,,Eh?{え？}
-Dialogue: 0,0:03:37.65,0:03:39.56,Main,Biwa,0,0,0,,First up, a run!{まずはランニング！}
-Dialogue: 0,0:03:47.31,0:03:48.65,Main,Hohma,0,0,0,,Why do I have to run...?{なんで走らなきゃ……}
-Dialogue: 0,0:03:57.40,0:03:59.77,Main,Biwa,0,0,0,,Next, pose practice!{次はポーズ練！}
-Dialogue: 0,0:03:59.77,0:04:02.52,Main,Biwa,0,0,0,,Starrific work!{お疲れさまでスター！！}
-Dialogue: 0,0:04:03.06,0:04:05.65,Main,Team Star,0,0,0,,{\i1}Starrific work!{\i0}{お疲れさまでスター！！}
-Dialogue: 0,0:04:05.65,0:04:09.15,Main,Hohma,0,0,0,,S-Starrific work...{お、お疲れさま、でスター……}
-Dialogue: 0,0:04:24.98,0:04:26.98,Main,Biwa,0,0,0,,You take a break, \N and you gotta start over!{休んだらもう1セットね！}
-Dialogue: 0,0:04:26.98,0:04:28.81,Main,Hohma,0,0,0,,Please, spare me!{勘弁してください〜}
-Dialogue: 0,0:04:40.60,0:04:44.31,Main,Biwa,0,0,0,,Congratulations! \N You’ll be ready for anything now!{おめでとう！これで何が来てもへっちゃらだね！}
-Dialogue: 0,0:05:01.48,0:05:02.81,Main,Tanaka,0,0,0,,Biwa-chan!{ビワちゃん！}
-Dialogue: 0,0:05:12.02,0:05:12.90,Main,Biwa,0,0,0,,Konoyozaru!{コノヨザル！}
-Dialogue: 0,0:05:17.44,0:05:18.65,Main,Hohma,0,0,0,,A Lum Berry!{ラムのみ！}
-Dialogue: 0,0:05:22.73,0:05:23.85,Main,Biwa,0,0,0,,Sorry...{ごめんね}
-Dialogue: 0,0:05:23.85,0:05:26.10,Main,Biwa,0,0,0,,Calm down... Calm down...{おちついて……おちついて……}
-Dialogue: 0,0:05:37.69,0:05:39.56,Main,Biwa,0,0,0,,Are you okay, Hohma-kun?{ホーマくん、大丈夫だった？}
-Dialogue: 0,0:05:39.56,0:05:41.56,Main,Hohma,0,0,0,,Ah... Y-Yes...{あ、は、はい……}
-Dialogue: 0,0:05:41.56,0:05:43.69,Main,Tanaka,0,0,0,,Biwa-chan, thank you!{ビワちゃん！ありがとう！}
-Dialogue: 0,0:05:43.69,0:05:46.77,Main,Tanaka,0,0,0,,But don’t push yourself \N too hard on our behalf.{でも、みんなのために頑張りすぎないでね}
-Dialogue: 0,0:05:46.77,0:05:49.02,Main,Biwa,0,0,0,,Nah, you’ve got it all wrong.{ううん、逆だよ}
-Dialogue: 0,0:05:49.02,0:05:51.19,Main,Biwa,0,0,0,,I push myself because y’all \N give me the strength to.{みんながいるから頑張れるんだもん}
-Dialogue: 0,0:05:51.19,0:05:53.35,Main,Starry McStar A,0,0,0,,Oh... Biwa-chan...{もう〜ビワちゃんってば〜}
-Dialogue: 0,0:05:53.35,0:05:55.31,Main,Starry McStar B,0,0,0,,That’s {\i1}our{\i0} line...{こちらこそだよ〜}
-Dialogue: 0,0:06:16.94,0:06:18.56,Main,Hohma,0,0,0,,Team Star...{スター団……}
-Dialogue: 0,0:06:18.56,0:06:22.69,Main,Hohma,0,0,0,,The rumors were all wrong. \N They were kind, compassionate people...{噂と違って仲間思いの優しい方々でした……}
-Dialogue: 0,0:06:32.31,0:06:33.90,Main,Hohma,0,0,0,,And... it’s gone.{消しちゃいました}
-Dialogue: 0,0:06:35.35,0:06:38.60,Main,Hohma,0,0,0,,What was the point \N of anything I did today?{今日は本当に何をやってんでしょうね}
-Dialogue: 0,0:06:38.60,0:06:41.98,Main,Hohma,0,0,0,,I came all this way, \N but with no scoop to show for it...{ここまで来たのに特ダネなしです}
-Dialogue: 0,0:06:41.98,0:06:43.85,Main,Hohma,0,0,0,,{\i1}Nobody’s{\i0} gonna know my name...{これじゃ誰も僕を……}
-Dialogue: 0,0:06:46.85,0:06:49.06,Main,Hohma,0,0,0,,What’s gotten into you?{どうしたんです？急に……}
-Dialogue: 0,0:07:02.85,0:07:03.73,Main,Hohma,0,0,0,,Wait...{もしかして……}
-Dialogue: 0,0:07:04.98,0:07:07.44,Main,Hohma,0,0,120,,Have you been trying to \N cheer me up all this time?{僕のこと、元気づけようと……？}
-Dialogue: 0,0:07:24.48,0:07:29.10,Main,Hohma,0,0,0,,You were always watching, \N right by my side...{いつも、僕のことを、一番近くで見てくれていたんですね……}
-Dialogue: 0,0:07:31.94,0:07:34.35,Main,Hohma,0,0,0,,We sure took \N quite the roundabout path.{ずいぶん遠回りしちゃいました}
-Dialogue: 0,0:07:35.06,0:07:37.81,Main,Hohma,0,0,0,,Now, let’s go home, Welcamo.{さあ、帰りましょう、ウェルカモ}
-Dialogue: 0,0:07:40.02,0:07:42.90,Main,Hohma,0,0,0,,I’m sure the club president \N will yell at me again...{また部長に怒られちゃいますね}
-Dialogue: 0,0:07:43.73,0:07:44.77,Main,Hohma,0,0,0,,Oh, well.{まっ、いっか}
-Dialogue: 0,0:07:50.06,0:07:52.65,Main,Aliquis,0,0,0,,Not getting a reply from Nanjamo.{ナンジャモから返信来ないなぁ}
-Dialogue: 0,0:07:52.65,0:07:55.81,Main,Ohara,0,0,0,,Maybe it was too much to hope for.{やっぱり難しいんじゃないかな？}
-Dialogue: 0,0:07:55.81,0:07:58.31,Main,Hohma,0,0,0,,Um! May I make a suggestion?{あのっ！ひとつ提案いいですか？}
-Dialogue: 0,0:07:58.31,0:08:02.31,Main,Hohma,0,0,0,,Why not make the sort of video \N that will make Nanjamo-san {\i1}want{\i0} to participate?{ナンジャモさんが参加したくなるような動画にするのはどうでしょうか？}
-Dialogue: 0,0:08:03.27,0:08:04.56,Main,Aliquis,0,0,0,,What’s that supposed to mean?{どういうこと？}
-Dialogue: 0,0:08:04.56,0:08:06.94,Main,Hohma,0,0,0,,Nanjamo-san is an influencer.{ナンジャモさんはインフルエンサーです}
-Dialogue: 0,0:08:06.94,0:08:10.23,Main,Hohma,0,0,0,,She might just latch on to us \N if she thinks our video will go viral!{バズりそうな要素があれば食いついてくると思うんです！}
-Dialogue: 0,0:08:10.23,0:08:12.10,Main,Ohara,0,0,0,,“Go viral”?{バズりそうな要素って？}
-Dialogue: 0,0:08:12.10,0:08:15.81,Main,Hohma,0,0,0,,We’ll get plenty of people \N all over Paldea to participate!{パルデア地方の色んな人に参加してもらうんです！}
-Dialogue: 0,0:08:15.81,0:08:18.44,Main,Hohma,0,0,0,,Such as Gym Leaders \N or the Elite Four!{ジムリーダーや四天王の皆さんとか！}
-Dialogue: 0,0:08:18.44,0:08:21.19,Main,Aliquis,0,0,0,,That could work if we ask \N Chairwoman Omodaka for advice.{オモダカ理事長に相談したらいけるかな}
-Dialogue: 0,0:08:21.19,0:08:23.94,Main,Hohma,0,0,0,,Or we could approach Rhyme-san!{それに、ライムさんにオファーとか！}
-Dialogue: 0,0:08:23.94,0:08:27.15,Main,Aliquis,0,0,0,,Ohara and the band’s performance, \N coupled with Rhyme-san’s rapping...{オハラたちの吹奏楽にライムさんのラップ……}
-Dialogue: 0,0:08:27.15,0:08:28.85,Main,Aliquis,0,0,0,,That could be fun.{面白くなりそうだな}
-Dialogue: 0,0:08:28.85,0:08:30.65,Main,Hohma,0,0,0,,It’ll go viral for sure!{バズりそうでしょう！？}
-Dialogue: 0,0:08:30.65,0:08:34.56,Main,Ohara,0,0,0,,But that won’t really be much of a presentation \N of the school... That was the assignment.{でもそれだと校長先生からの学校紹介ってお題が……}
-Dialogue: 0,0:08:34.56,0:08:35.73,Main,Hohma,0,0,0,,Don’t worry!{大丈夫です！}
-Dialogue: 0,0:08:35.73,0:08:39.23,Main,Hohma,0,0,0,,Life here at the academy \N reaches far beyond its walls!{アカデミーの生活は校舎の中にとどまりません！}
-Dialogue: 0,0:08:39.94,0:08:43.85,Main,Hohma,0,0,120,,One could say that {\i1}all{\i0} of Paldea \N is our place of learning!{パルデア地方全体が学びの場と言えますから！}
-Dialogue: 0,0:08:43.85,0:08:45.48,Main,Hohma,0,0,120,,{\t(1442,1620,\c&HFFFFFF&\3c&HFFFFFF&)}Don’t you think?{そうでしょう！？}
-Dialogue: 0,0:08:45.60,0:08:47.23,Main,Ohara,0,0,0,,That {\i1}does{\i0} make sense.{一理あるかも}
-Dialogue: 0,0:08:47.23,0:08:50.10,Main,Ohara,0,0,0,,The Treasure Hunt \N covers all of Paldea too, after all.{宝探しもパルデア中が範囲だもんね}
-Dialogue: 0,0:08:50.10,0:08:55.48,Main,Hohma,0,0,0,,{\q2}Let’s film the people and lifestyles from all over Paldea, \N and how the Treasure Hunt connects them all!{宝探しでつながっているパルデア地方の人々や生活をぜひ撮っていきましょう！}
-Dialogue: 0,0:08:55.48,0:08:56.44,Main,Aliquis & Ohara,0,0,0,,Great idea!{いいな！}
-Dialogue: 0,0:08:56.77,0:08:59.85,Main,Ohara,0,0,0,,Of course, we have to \N introduce the teachers!{先生の紹介は絶対必要だよね}
-Dialogue: 0,0:08:59.85,0:09:02.48,Main,Aliquis,0,0,0,,Ooh! We definitely need \N footage of Table City.{あ、テーブルシティの映像は押さえないとな}
-Dialogue: 0,0:09:02.48,0:09:05.19,Main,Hohma,0,0,0,,I would like to go shoot \N the Ten Sights of Paldea, as well!{パルデア十景とか撮りにいきたいですね}
-Dialogue: 0,0:09:05.19,0:09:07.85,Main,Aliquis,0,0,0,,All right! The plan’s starting to \N come together!{よーし、アイデア固まってきたな！}
-Dialogue: 0,0:09:07.85,0:09:09.77,Main,Ohara,0,0,0,,We start filming tomorrow!{明日から早速撮り始めよっ！}
-Dialogue: 0,0:09:09.77,0:09:10.98,Main,Aliquis and Hohma,0,0,0,,Yeah!{おー！}
+Dialogue: 10,0:00:41.19,0:00:43.06,Main,Aliquis,0,0,0,,Um, about before...{えっと……あの時は……}
+Dialogue: 10,0:00:46.23,0:00:47.81,Main,Aliquis,0,0,0,,Sorry I lashed out at you!{当たって悪かった！}
+Dialogue: 10,0:00:51.23,0:00:53.98,Main,Ohara,0,0,0,,I went a bit too far, too...{私もちょっと言いすぎちゃったし……}
+Dialogue: 10,0:00:53.98,0:00:56.19,Main,Ohara,0,0,0,,But you still have something \N to say to Hogator!{でも、ホゲータのことは別だからね！}
+Dialogue: 10,0:00:57.73,0:00:59.15,Main,Aliquis,0,0,0,,Right...{ああ}
+Dialogue: 10,0:00:59.15,0:00:59.90,Main,Aliquis,0,0,0,,I’m sorry.{ごめんな}
+Dialogue: 10,0:01:05.69,0:01:08.48,Main,Aliquis,0,0,0,,Now Nemo’s beaten me three times...{ネモにはこれで３連敗かぁ}
+Dialogue: 10,0:01:08.48,0:01:11.73,Main,Aliquis,0,0,0,,But we’re not done just yet!{だけどよ、俺たちはまだまだこれからだ}
+Dialogue: 10,0:01:13.44,0:01:15.48,Main,Hohma,0,0,0,,Here to join you now...{お疲れ様です}
+Dialogue: 10,0:01:16.27,0:01:17.98,Main,Aliquis,0,0,0,,Oha-kon-hello-ciao!
+Dialogue: 10,0:01:18.56,0:01:22.48,Main,Ohara,0,0,0,,Even if we get the Wind Ensemble \N to help us with music,{音楽は吹奏楽のみんなに協力してもらうとしても……}
+Dialogue: 10,0:01:22.48,0:01:24.35,Main,Ohara,0,0,0,,the footage just isn’t up to snuff.{肝心の映像がね}
+Dialogue: 10,0:01:24.35,0:01:26.60,Main,Ohara,0,0,0,,This won’t make for \N much of a school presentation...{これで学校紹介になるかなぁ……}
+Dialogue: 10,0:01:27.56,0:01:32.02,Main,Aliquis,0,0,0,,Then we should get someone to help us \N get some more impressive footage.{なら、もっと映像がすごくなるように誰かに手伝ってもらおうぜ}
+Dialogue: 10,0:01:32.02,0:01:33.19,Main,Ohara,0,0,0,,Like who?{誰に？}
+Dialogue: 10,0:01:33.19,0:01:34.15,Main,Aliquis,0,0,0,,Uh...{えっと}
+Dialogue: 10,0:01:34.15,0:01:35.31,Main,Aliquis,0,0,0,,Nanjamo, maybe?{……ナンジャモとか？}
+Dialogue: 10,0:01:35.31,0:01:39.02,Main,Ohara,0,0,0,,Wha—?! Do you really think someone \N as famous as {\i1}her{\i0} will give us the time of day?!{え〜！そんな有名人、相手してくれるかなぁ？}
+Dialogue: 10,0:01:39.02,0:01:42.98,Main,Hohma,0,0,0,,The two of them seem... \N different, somehow...{（なんでしょう……お二人とも、変わりました？）}
+Dialogue: 10,0:01:42.98,0:01:45.81,Main,Hohma,0,0,0,,Not good... \N I’m being left behind, even here...{（まずいです。ここでも置いてけぼり……）}
+Dialogue: 10,0:01:39.02,0:01:41.23,Main,Aliquis,0,0,0,,{\an8}We won’t know unless we try!{sky-ears}
+Dialogue: 10,0:01:41.23,0:01:43.52,Main,Hohma,0,0,0,,{\an8}Would someone as great \N as her really help us?{sky-ears}
+Dialogue: 10,0:01:43.52,0:01:45.81,Main,Aliquis,0,0,0,,{\an8}Do you have any other suggestions?{sky-ears}
+Dialogue: 10,0:01:45.98,0:01:49.85,Main,Club President,0,0,120,,{\t(3770,3860,\c&HFFFFFF&\3c&HFFFFFF&)}If we report on Team Star, \N that’ll really capture people’s attention!{Same line as earlier but the "demo" at the start is not included. -TL}{このスター団取材できたら一気に注目されるよなー}
+Dialogue: 10,0:01:49.94,0:01:52.35,Main,Hohma,0,0,0,,Of course! Team Star!{そうです！スター団です！}
+Dialogue: 10,0:01:52.35,0:01:57.40,Main,Hohma,0,0,0,,If I deliver an exclusive scoop on \N Caph Squad, all eyes will be on me for sure!{あのチーム・カーフから特ダネ持ってくれば大注目間違いなしです！}
+Dialogue: 10,0:01:57.40,0:01:58.77,Main,Aliquis,0,0,0,,Where’d this come from?{なんだよ急に}
+Dialogue: 10,0:01:58.77,0:02:00.90,Main,Ohara,0,0,0,,Team Star? \N What are you talking about?{スター団？なんのこと？}
+Dialogue: 10,0:02:00.90,0:02:03.73,Main,Hohma,0,0,0,,Oh, well, just an idea for the video!{あ、いや〜、動画のアイデアですよ}
+Dialogue: 10,0:02:03.73,0:02:06.73,Main,Hohma,0,0,0,,Just imagine how great it would be \N if we had footage of Team Star!{スター団の映像とかいれれば凄くないですか？}
+Dialogue: 10,0:02:06.73,0:02:08.81,Main,Ohara,0,0,0,,Huh? That’s so dangerous, though.{え？危ないよ}
+Dialogue: 10,0:02:08.81,0:02:12.40,Main,Hohma,0,0,0,,The name Hohma will be known \N to everyone in the academy!{これでホーマの名がアカデミー中から注目されますよぉ}
+Dialogue: 10,0:02:19.65,0:02:20.90,Main,Hohma,0,0,0,,Prepare yourselves!{覚悟してください}
+Dialogue: 10,0:02:20.90,0:02:22.60,Main,Hohma,0,0,0,,I {\i1}will{\i0} nab that exclusive scoop!{特ダネかっさらってやります！}
+Dialogue: 10,0:02:22.60,0:02:23.85,Main,Tanaka,0,0,0,,Who the heck’re you?{あんた誰？}
+Dialogue: 10,0:02:24.65,0:02:25.56,Main,Hohma,0,0,0,,U-Uh...{あのぉっ}
+Dialogue: 10,0:02:26.10,0:02:27.60,Main,Hohma,0,0,0,,U-Um...{えーっと}
+Dialogue: 10,0:02:31.27,0:02:33.94,Main,Hohma,0,0,0,,S-Starrific work!{お、お疲れさまでスター！！}
+Dialogue: 10,0:02:33.94,0:02:35.31,Main,Hohma,0,0,0,,My name is Hohma.{僕の名前はホーマ}
+Dialogue: 10,0:02:35.31,0:02:37.69,Main,Hohma,0,0,0,,Please let me join Team Star!{スター団に入団させてくださいっ！！}
+Dialogue: 10,0:02:45.90,0:02:47.56,Main,Tanaka,0,0,0,,Hang on a sec.{ちょっと待ってて}
+Dialogue: 10,0:02:47.56,0:02:50.85,Main,Tanaka,0,0,0,,And stay out of \N that storeroom, you hear?{倉庫の中、勝手に入っちゃダメだからね}
+Dialogue: 10,0:02:52.94,0:02:54.69,Main,Hohma,0,0,0,,I smell a scoop! {特ダネの匂いです！}
+Dialogue: 10,0:03:04.02,0:03:06.77,Main,Hohma,0,0,0,,A three-person cart, \N propelled by mounting a Burorom—{ブロロン一匹がマウントして動かせるのは3人乗りのカート……}
+Dialogue: 10,0:03:06.77,0:03:07.94,Main,Hohma,0,0,0,,No, two Burorom!{それが2匹も！}
+Dialogue: 10,0:03:07.94,0:03:10.35,Main,Hohma,0,0,0,,Two, {\i1}and{\i0} a Burororoom!{さらにブロロロームも1匹マウント……！}
+Dialogue: 10,0:03:10.35,0:03:13.77,Main,Hohma,0,0,0,,I can’t believe they were hiding \N such a nasty secret weapon...!{こんなやばそうな秘密兵器を隠し持っていたとは…}
+Dialogue: 10,0:03:14.85,0:03:16.15,Main,Hohma,0,0,0,,Eek!{でたー！}
+Dialogue: 10,0:03:18.65,0:03:21.69,Main,Tanaka,0,0,0,,I told you to stay {\i1}out!{\i0}{あんた勝手に中に入って！}
+Dialogue: 10,0:03:21.69,0:03:23.65,Main,Biwa,0,0,0,,No need to {Team }yell.{そんなに怒らなくても}
+Dialogue: 10,0:03:24.23,0:03:26.44,Main,Biwa,0,0,0,,I’m sorry I scared you.{さっきは驚かせてごめんね}
+Dialogue: 10,0:03:26.44,0:03:27.40,Main,Biwa,0,0,0,,Name’s Biwa.{わたしはビワ}
+Dialogue: 10,0:03:27.40,0:03:28.40,Main,Biwa,0,0,0,,You?{あなたは？}
+Dialogue: 10,0:03:28.40,0:03:31.06,Main,Hohma,0,0,0,,I-I’m... Hohma.{僕は……ホーマと言います}
+Dialogue: 10,0:03:31.06,0:03:32.19,Main,Biwa,0,0,0,,Pleasure!{よろしく！}
+Dialogue: 10,0:03:32.19,0:03:34.40,Main,Biwa,0,0,0,,Thank you for coming \N to the Caph Squad.{チーム・カーフへ来てくれてありがとう}
+Dialogue: 10,0:03:34.40,0:03:36.69,Main,Biwa,0,0,0,,‘Kay, let’s get started!{それじゃあ早速始めるよ！}
+Dialogue: 10,0:03:36.69,0:03:37.65,Main,Hohma,0,0,0,,Eh?{え？}
+Dialogue: 10,0:03:37.65,0:03:39.56,Main,Biwa,0,0,0,,First up, a run!{まずはランニング！}
+Dialogue: 10,0:03:47.31,0:03:48.65,Main,Hohma,0,0,0,,Why do I have to run...?{なんで走らなきゃ……}
+Dialogue: 10,0:03:57.40,0:03:59.77,Main,Biwa,0,0,0,,Next, pose practice!{次はポーズ練！}
+Dialogue: 10,0:03:59.77,0:04:02.52,Main,Biwa,0,0,0,,Starrific work!{お疲れさまでスター！！}
+Dialogue: 10,0:04:03.06,0:04:05.65,Main,Team Star,0,0,0,,{\i1}Starrific work!{\i0}{お疲れさまでスター！！}
+Dialogue: 10,0:04:05.65,0:04:09.15,Main,Hohma,0,0,0,,S-Starrific work...{お、お疲れさま、でスター……}
+Dialogue: 10,0:04:24.98,0:04:26.98,Main,Biwa,0,0,0,,You take a break, \N and you gotta start over!{休んだらもう1セットね！}
+Dialogue: 10,0:04:26.98,0:04:28.81,Main,Hohma,0,0,0,,Please, spare me!{勘弁してください〜}
+Dialogue: 10,0:04:40.60,0:04:44.31,Main,Biwa,0,0,0,,Congratulations! \N You’ll be ready for anything now!{おめでとう！これで何が来てもへっちゃらだね！}
+Dialogue: 10,0:05:01.48,0:05:02.81,Main,Tanaka,0,0,0,,Biwa-chan!{ビワちゃん！}
+Dialogue: 10,0:05:12.02,0:05:12.90,Main,Biwa,0,0,0,,Konoyozaru!{コノヨザル！}
+Dialogue: 10,0:05:17.44,0:05:18.65,Main,Hohma,0,0,0,,A Lum Berry!{ラムのみ！}
+Dialogue: 10,0:05:22.73,0:05:23.85,Main,Biwa,0,0,0,,Sorry...{ごめんね}
+Dialogue: 10,0:05:23.85,0:05:26.10,Main,Biwa,0,0,0,,Calm down... Calm down...{おちついて……おちついて……}
+Dialogue: 10,0:05:37.69,0:05:39.56,Main,Biwa,0,0,0,,Are you okay, Hohma-kun?{ホーマくん、大丈夫だった？}
+Dialogue: 10,0:05:39.56,0:05:41.56,Main,Hohma,0,0,0,,Ah... Y-Yes...{あ、は、はい……}
+Dialogue: 10,0:05:41.56,0:05:43.69,Main,Tanaka,0,0,0,,Biwa-chan, thank you!{ビワちゃん！ありがとう！}
+Dialogue: 10,0:05:43.69,0:05:46.77,Main,Tanaka,0,0,0,,But don’t push yourself \N too hard on our behalf.{でも、みんなのために頑張りすぎないでね}
+Dialogue: 10,0:05:46.77,0:05:49.02,Main,Biwa,0,0,0,,Nah, you’ve got it all wrong.{ううん、逆だよ}
+Dialogue: 10,0:05:49.02,0:05:51.19,Main,Biwa,0,0,0,,I push myself because y’all \N give me the strength to.{みんながいるから頑張れるんだもん}
+Dialogue: 10,0:05:51.19,0:05:53.35,Main,Starry McStar A,0,0,0,,Oh... Biwa-chan...{もう〜ビワちゃんってば〜}
+Dialogue: 10,0:05:53.35,0:05:55.31,Main,Starry McStar B,0,0,0,,That’s {\i1}our{\i0} line...{こちらこそだよ〜}
+Dialogue: 10,0:06:16.94,0:06:18.56,Main,Hohma,0,0,0,,Team Star...{スター団……}
+Dialogue: 10,0:06:18.56,0:06:22.69,Main,Hohma,0,0,0,,The rumors were all wrong. \N They were kind, compassionate people...{噂と違って仲間思いの優しい方々でした……}
+Dialogue: 10,0:06:32.31,0:06:33.90,Main,Hohma,0,0,0,,And... it’s gone.{消しちゃいました}
+Dialogue: 10,0:06:35.35,0:06:38.60,Main,Hohma,0,0,0,,What was the point \N of anything I did today?{今日は本当に何をやってんでしょうね}
+Dialogue: 10,0:06:38.60,0:06:41.98,Main,Hohma,0,0,0,,I came all this way, \N but with no scoop to show for it...{ここまで来たのに特ダネなしです}
+Dialogue: 10,0:06:41.98,0:06:43.85,Main,Hohma,0,0,0,,{\i1}Nobody’s{\i0} gonna know my name...{これじゃ誰も僕を……}
+Dialogue: 10,0:06:46.85,0:06:49.06,Main,Hohma,0,0,0,,What’s gotten into you?{どうしたんです？急に……}
+Dialogue: 10,0:07:02.85,0:07:03.73,Main,Hohma,0,0,0,,Wait...{もしかして……}
+Dialogue: 10,0:07:04.98,0:07:07.44,Main,Hohma,0,0,120,,Have you been trying to \N cheer me up all this time?{僕のこと、元気づけようと……？}
+Dialogue: 10,0:07:24.48,0:07:29.10,Main,Hohma,0,0,0,,You were always watching, \N right by my side...{いつも、僕のことを、一番近くで見てくれていたんですね……}
+Dialogue: 10,0:07:31.94,0:07:34.35,Main,Hohma,0,0,0,,We sure took \N quite the roundabout path.{ずいぶん遠回りしちゃいました}
+Dialogue: 10,0:07:35.06,0:07:37.81,Main,Hohma,0,0,0,,Now, let’s go home, Welcamo.{さあ、帰りましょう、ウェルカモ}
+Dialogue: 10,0:07:40.02,0:07:42.90,Main,Hohma,0,0,0,,I’m sure the club president \N will yell at me again...{また部長に怒られちゃいますね}
+Dialogue: 10,0:07:43.73,0:07:44.77,Main,Hohma,0,0,0,,Oh, well.{まっ、いっか}
+Dialogue: 10,0:07:50.06,0:07:52.65,Main,Aliquis,0,0,0,,Not getting a reply from Nanjamo.{ナンジャモから返信来ないなぁ}
+Dialogue: 10,0:07:52.65,0:07:55.81,Main,Ohara,0,0,0,,Maybe it was too much to hope for.{やっぱり難しいんじゃないかな？}
+Dialogue: 10,0:07:55.81,0:07:58.31,Main,Hohma,0,0,0,,Um! May I make a suggestion?{あのっ！ひとつ提案いいですか？}
+Dialogue: 10,0:07:58.31,0:08:02.31,Main,Hohma,0,0,0,,Why not make the sort of video \N that will make Nanjamo-san {\i1}want{\i0} to participate?{ナンジャモさんが参加したくなるような動画にするのはどうでしょうか？}
+Dialogue: 10,0:08:03.27,0:08:04.56,Main,Aliquis,0,0,0,,What’s that supposed to mean?{どういうこと？}
+Dialogue: 10,0:08:04.56,0:08:06.94,Main,Hohma,0,0,0,,Nanjamo-san is an influencer.{ナンジャモさんはインフルエンサーです}
+Dialogue: 10,0:08:06.94,0:08:10.23,Main,Hohma,0,0,0,,She might just latch on to us \N if she thinks our video will go viral!{バズりそうな要素があれば食いついてくると思うんです！}
+Dialogue: 10,0:08:10.23,0:08:12.10,Main,Ohara,0,0,0,,“Go viral”?{バズりそうな要素って？}
+Dialogue: 10,0:08:12.10,0:08:15.81,Main,Hohma,0,0,0,,We’ll get plenty of people \N all over Paldea to participate!{パルデア地方の色んな人に参加してもらうんです！}
+Dialogue: 10,0:08:15.81,0:08:18.44,Main,Hohma,0,0,0,,Such as Gym Leaders \N or the Elite Four!{ジムリーダーや四天王の皆さんとか！}
+Dialogue: 10,0:08:18.44,0:08:21.19,Main,Aliquis,0,0,0,,That could work if we ask \N Chairwoman Omodaka for advice.{オモダカ理事長に相談したらいけるかな}
+Dialogue: 10,0:08:21.19,0:08:23.94,Main,Hohma,0,0,0,,Or we could approach Rhyme-san!{それに、ライムさんにオファーとか！}
+Dialogue: 10,0:08:23.94,0:08:27.15,Main,Aliquis,0,0,0,,Ohara and the band’s performance, \N coupled with Rhyme-san’s rapping...{オハラたちの吹奏楽にライムさんのラップ……}
+Dialogue: 10,0:08:27.15,0:08:28.85,Main,Aliquis,0,0,0,,That could be fun.{面白くなりそうだな}
+Dialogue: 10,0:08:28.85,0:08:30.65,Main,Hohma,0,0,0,,It’ll go viral for sure!{バズりそうでしょう！？}
+Dialogue: 10,0:08:30.65,0:08:34.56,Main,Ohara,0,0,0,,But that won’t really be much of a presentation \N of the school... That was the assignment.{でもそれだと校長先生からの学校紹介ってお題が……}
+Dialogue: 10,0:08:34.56,0:08:35.73,Main,Hohma,0,0,0,,Don’t worry!{大丈夫です！}
+Dialogue: 10,0:08:35.73,0:08:39.23,Main,Hohma,0,0,0,,Life here at the academy \N reaches far beyond its walls!{アカデミーの生活は校舎の中にとどまりません！}
+Dialogue: 10,0:08:39.94,0:08:43.85,Main,Hohma,0,0,120,,One could say that {\i1}all{\i0} of Paldea \N is our place of learning!{パルデア地方全体が学びの場と言えますから！}
+Dialogue: 10,0:08:43.85,0:08:45.48,Main,Hohma,0,0,120,,{\t(1442,1620,\c&HFFFFFF&\3c&HFFFFFF&)}Don’t you think?{そうでしょう！？}
+Dialogue: 10,0:08:45.60,0:08:47.23,Main,Ohara,0,0,0,,That {\i1}does{\i0} make sense.{一理あるかも}
+Dialogue: 10,0:08:47.23,0:08:50.10,Main,Ohara,0,0,0,,The treasure hunt \N covers all of Paldea too, after all.{宝探しもパルデア中が範囲だもんね}
+Dialogue: 10,0:08:50.10,0:08:55.48,Main,Hohma,0,0,0,,{\q2}Let’s film people and lifestyles from all over Paldea \N and show how the treasure hunt connects them all!{宝探しでつながっているパルデア地方の人々や生活をぜひ撮っていきましょう！}
+Dialogue: 10,0:08:55.48,0:08:56.44,Main,Aliquis & Ohara,0,0,0,,Great idea!{いいな！}
+Dialogue: 10,0:08:56.77,0:08:59.19,Main,Ohara,0,0,0,,Of course, we have to \N introduce the teachers!{先生の紹介は絶対必要だよね}
+Dialogue: 10,0:08:59.19,0:08:59.90,Main,Aliquis,0,0,0,,Mm-hmm!
+Dialogue: 10,0:08:59.90,0:09:02.48,Main,Aliquis,0,0,0,,Oh! We definitely need \N footage of Table City!{あ、テーブルシティの映像は押さえないとな}
+Dialogue: 10,0:09:02.48,0:09:05.19,Main,Hohma,0,0,0,,I’d like to go shoot \N the Ten Sights of Paldea, as well!{パルデア十景とか撮りにいきたいですね}
+Dialogue: 10,0:09:05.19,0:09:07.85,Main,Aliquis,0,0,0,,All right! The plan’s starting to \N come together!{よーし、アイデア固まってきたな！}
+Dialogue: 10,0:09:07.85,0:09:09.77,Main,Ohara,0,0,0,,We start filming tomorrow!{明日から早速撮り始めよっ！}
+Dialogue: 10,0:09:09.77,0:09:10.98,Main,Aliquis and Hohma,0,0,0,,Yeah!{おー！}
