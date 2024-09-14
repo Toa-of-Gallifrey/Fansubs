@@ -81,7 +81,7 @@ Dialogue: 10,0:05:10.62,0:05:12.75,Main,Roy,0,0,0,,Gotcha. So...
 Dialogue: 10,0:05:12.75,0:05:13.92,Main,Roy,0,0,0,,Hogator! Stomping Tantrum!
 Dialogue: 10,0:05:17.92,0:05:20.84,Main,Onyx,0,0,0,,Kyojiohn! Crush it with Stone Edge!
 Dialogue: 10,0:05:25.39,0:05:27.52,Main,Dot,0,0,0,,Now, Welcamo! Aqua Break!
-Dialogue: 10,0:05:31.35,0:05:32.44,Main,Roy and Dot,0,0,0,,It landed!
+Dialogue: 10,0:05:31.27,0:05:32.44,Main,Roy and Dot,0,0,0,,It landed!
 Dialogue: 10,0:05:36.36,0:05:38.15,Main,Dot,0,0,0,,Now, stand back and let us—{(us through)}
 Dialogue: 10,0:05:38.15,0:05:39.32,Main,Onyx,0,0,0,,Kyojiohn!
 Dialogue: 10,0:05:39.32,0:05:40.32,Main,Onyx,0,0,0,,Self-Regenerate!
@@ -188,7 +188,7 @@ Dialogue: 10,0:13:32.04,0:13:33.42,Main,Roy,0,0,0,,Hogator!
 Dialogue: 10,0:13:33.83,0:13:36.42,Main,Sango,0,0,0,,C’mon! That all you got?!
 Dialogue: 10,0:13:37.30,0:13:39.17,Main,Roy,0,0,0,,What now? The way this is going...
 Dialogue: 10,0:13:39.17,0:13:42.18,Main,Sango,0,0,0,,This is a total drag! \N They’ve got zero fight in ‘em!
-Dialogue: 10,0:13:42.18,0:13:44.01,Main,Sango,0,0,0,,Guess it’s time I wrap this us!
+Dialogue: 10,0:13:42.18,0:13:44.01,Main,Sango,0,0,0,,Guess it’s time I wrap this up!
 Dialogue: 10,0:13:44.01,0:13:47.51,Main,Onyx,0,0,0,,Don’t forget! \N Our goal is to slow them down!
 Dialogue: 10,0:13:47.51,0:13:50.06,Main,Sango,0,0,0,,But I’m so bored!
 Dialogue: 10,0:13:50.06,0:13:52.44,Main,Sango,0,0,0,,About time for me to spice things up!
@@ -237,7 +237,7 @@ Dialogue: 10,0:16:19.50,0:16:24.46,Main,Liko,0,0,0,,Then couldn’t we work toge
 Dialogue: 10,0:16:24.46,0:16:25.34,Main,Amethio,0,0,0,,Not possible.
 Dialogue: 10,0:16:25.34,0:16:26.01,Main,Liko,0,0,0,,Why?!
 Dialogue: 10,0:16:26.63,0:16:30.22,Main,Amethio,0,0,0,,Our goals may be the same, \N but our paths are not.
-Dialogue: 10,0:16:30.22,0:16:32.01,Main,Amethio,0,0,0,,I will follow my own path.
+Dialogue: 10,0:16:30.22,0:16:32.47,Main,Amethio,0,0,0,,I will follow my own path.
 Dialogue: 10,0:16:38.02,0:16:40.35,Main,Liko,0,0,0,,We better get going too, Nyarote!
 Dialogue: 10,0:16:52.99,0:16:53.91,Main,Grusha,0,0,0,,Look.
 Dialogue: 10,0:16:55.20,0:16:56.45,Main,Roy,0,0,0,,A mark in the snow...
@@ -252,8 +252,8 @@ Dialogue: 10,0:17:22.65,0:17:23.36,Main,Liko,0,0,0,,Huh?!
 Dialogue: 10,0:17:23.81,0:17:24.90,Main,Roy,0,0,0,,Liko!
 Dialogue: 10,0:17:24.90,0:17:26.15,Main,Liko,0,0,0,,Roy! Dot!
 Dialogue: 10,0:17:26.15,0:17:28.40,Main,Dot,0,0,0,,Are you okay? \N I’m so glad to see you!
-Dialogue: 10,0:17:31.41,0:17:35.03,Main,Liko,0,0,0,,I’m sorry... and thank you! I’m okay!
-Dialogue: 10,0:17:38.50,0:17:40.91,Main,Friede,0,0,0,,Turns out we didn’t need \N to intervene after all.
+Dialogue: 10,0:17:31.41,0:17:35.03,Main,Liko,0,0,0,,I’m sorry... \N And thank you! I’m okay!
+Dialogue: 10,0:17:38.50,0:17:40.91,Main,Friede,0,0,0,,Guess they don’t need \N our help after all.
 Dialogue: 10,0:17:47.96,0:17:49.67,Main,Grusha,0,0,0,,You’d better warm yourselves up.
 Dialogue: 10,0:17:50.38,0:17:51.88,Main,Friede,0,0,0,,Thank you very much.
 Dialogue: 10,0:17:52.51,0:17:53.64,Main,Liko,0,0,0,,Grusha-san!
@@ -269,7 +269,7 @@ Dialogue: 10,0:18:19.08,0:18:21.00,Main,Friede,0,0,0,,What did Spinel come out h
 Dialogue: 10,0:18:21.58,0:18:22.37,Main,Liko,0,0,0,,Well...
 Dialogue: 10,0:18:23.08,0:18:27.71,Main,Liko,0,0,0,,When he used this pink crystal thing \N on his Blacky, it went on a rampage...
 Dialogue: 10,0:18:30.21,0:18:33.30,Main,Liko,0,0,0,,Spinel called it the Eternal Blessing.
-Dialogue: 10,0:18:33.30,0:18:35.72,Main,Friede,0,0,0,,So they have the Rakurium?!
+Dialogue: 10,0:18:33.30,0:18:35.72,Main,Friede,0,0,0,,So he has the Rakurium?!
 Dialogue: 10,0:18:35.72,0:18:36.80,Main,Roy,0,0,0,,Rakurium?
 Dialogue: 10,0:18:36.80,0:18:41.56,Main,Friede,0,0,0,,A mysterious substance \N they kept at a lab I used to work at.
 Dialogue: 10,0:18:41.56,0:18:43.81,Main,Friede,0,0,0,,I never knew it could do that...
