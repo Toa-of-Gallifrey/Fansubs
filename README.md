@@ -13,11 +13,13 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 	+ The Hallowed God, Arceus  
 	+ Aim to be a Pokémon Master  
   - Pocket Monsters (2023)  
-  	+ Extras  
+  	+ Extras
+  	  - Audio Dramas  
 	  - Pokémon GO Collab Short  
   - Movies (M01)  
   - Mewtwo Saga  
   - Twilight Wings  
+  - Pokétoon  
   - Pokémon Evolutions  
   - Twin Indigo of Melting Snow  
   - Afterschool Breath  
@@ -27,8 +29,7 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 	+ The Distant Blue Sky  
 	+ Original Series Episode 20  
 	+ Advanced Generation Episode 131  
-	+ PokéPark  
-	+ Yume no Tsubomi (Pokétoon #3)
+	+ PokéPark
 
 **Projects planned to be added eventually:**  
 * Pocket Monsters Movies (M02, M03, M21, M22, M23)  
