@@ -171,7 +171,7 @@ fukitobashi ふきとばし (Whirlwind) - Blow Away
 fukurodataki ふくろだたき (Beat Up) - # TBD #
 fumitsuki ふみつけ (Stomp) - Stomp
 fun'en ふんえん (Lava Plume) - # TBD #
-fundo no kobushi ふんどのこぶし (Rage Fist) - # TBD #
+fundo no kobushi ふんどのこぶし (Rage Fist) - Fist of Wrath
 funjin ふんじん (Powder) - # TBD #
 funka ふんか (Eruption) - # TBD #
 furafura dansu フラフラダンス (Teeter Dance) - Wobbly Dance
@@ -322,6 +322,7 @@ jidanda じだんだ (Stomping Tantrum) - Stomping Tantrum
 jigoku guruma じごくぐるま (Submission) - # TBD #
 jigokudzuki  じごくづき (Throat Chop) - Hell Thrust
 jikoanji じこあんじ (Psych Up) - # TBD #
+jikosaisei じこさいせい (Recover) - Self-Regenerate
 jinarashi じならし (Bulldoze) - Ground Stomp
 jinrai じんらい (Thunderclap) - # TBD #
 jintsuuriki じんつうりき (Extrasensory) - # TBD #
@@ -1427,7 +1428,7 @@ POKÉMON NAMES
 0175 トゲピー Togepi - はりたまポケモン 
 0176 トゲチック Togechick - しあわせポケモン Happiness Pokémon
 0177 ネイティ Naty - ことりポケモン Tiny Bird Pokémon
-0178 ネイティオ 
+0178 ネイティオ Natio - せいれいポケモン Spirit Pokémon
 0179 メリープ Mareep - わたげポケモン 
 0180 モココ Mokoko - わたげポケモン 
 0181 デンリュウ Denryu - ライトポケモン Light Pokémon
@@ -2149,7 +2150,7 @@ POKÉMON NAMES
 0897 レイスポス 
 0898 バドレックス 
 0899 アヤシシ 
-0900 バサギリ 
+0900 バサギリ Basagiri - まさかりポケモン 
 0901 ガチグマ 
 0902 イダイトウ 
 0903 オオニューラ 
@@ -2262,7 +2263,7 @@ POKÉMON NAMES
 1010 テツノイサハ 
 1011 カミッチュ 
 1012 チャデス 
-1013 ヤバソチャ 
+1013 ヤバソチャ Yabasocha - まっちゃポケモン 
 1014 イイネイヌ 
 1015 マシマシラ 
 1016 キチキギス 
