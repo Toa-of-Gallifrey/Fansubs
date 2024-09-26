@@ -22,7 +22,7 @@ Style: Song EN,Fh_Hyperbole,72,&H00767B7E,&H00F3FFF4,&H00FFFFFF,&H00FFFFFF,-1,-1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 10,0:00:02.60,0:00:08.73,Main,Boy,0,0,0,,Over my summer vacation, \N I decided to observe friend, Okorizaru!{Immediate note on how to write this kid: He is UNFAILINGLY polite and cheerful. Ironic given that he is voiced by the Quintessential Tsundere, KugiRie. -TL}
+Dialogue: 10,0:00:02.60,0:00:08.73,Main,Boy,0,0,0,,Over my summer vacation, \N I decided to observe my friend, Okorizaru!{Immediate note on how to write this kid: He is UNFAILINGLY polite and cheerful. Ironic given that he is voiced by the Quintessential Tsundere, KugiRie. -TL}
 Dialogue: 10,0:00:09.65,0:00:11.81,Main,Boy,0,0,0,,Okorizaru is very short-tempered.
 Dialogue: 10,0:00:11.81,0:00:13.06,Main,Boy,0,0,0,,Whether it’s playing...
 Dialogue: 10,0:00:13.06,0:00:14.52,Main,Boy,0,0,0,,...or eating.
@@ -139,7 +139,7 @@ Comment: 0,0:09:06.98,0:09:06.98,Main,,0,0,0,,{Ending}
 Dialogue: 0,0:09:15.69,0:09:21.06,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}onaka ga suita shi kamigata mo kimaranai
 Dialogue: 0,0:09:21.06,0:09:26.48,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}itsumo furimawasarete ippai okocchattari shite
 Dialogue: 0,0:09:26.48,0:09:31.60,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}dakedo ganbatteru kimi wa mabushii
-Dialogue: 0,0:09:31.60,0:09:41.60,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}kao o agereba uso mitai ni sora harewatte iku
+Dialogue: 0,0:09:31.60,0:09:41.60,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}kao o agereba uso mitai ni sora harewatatte iku
 Dialogue: 0,0:09:41.60,0:09:42.31,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}sou desu!!!
 Dialogue: 0,0:09:42.31,0:09:47.56,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}subete uketomete jibun tsuranuite yuke
 Dialogue: 0,0:09:47.56,0:09:52.44,Song JP,Sou desu!!! JP,0,0,0,,{\blur1\q2}okotte (YES!!!) tanoshinde (YES!!!) zenryoku de ikiru
@@ -154,7 +154,7 @@ Dialogue: 0,0:09:15.65,0:09:21.06,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}You'r
 Dialogue: 0,0:09:21.06,0:09:26.48,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}You always drag me around and get angry at me
 Dialogue: 0,0:09:26.48,0:09:31.60,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}But you're so dazzling when you give it your all
 Dialogue: 0,0:09:31.60,0:09:41.60,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}When I look up, the sky is so clear it almost seems fake
-Dialogue: 0,0:09:41.60,0:09:42.31,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}Yes, of course!!!
+Dialogue: 0,0:09:41.60,0:09:42.31,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}Of course!!!
 Dialogue: 0,0:09:42.31,0:09:47.56,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}Accept any and all challenges and remain true to yourself
 Dialogue: 0,0:09:47.56,0:09:52.44,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}Getting mad (YES!!!) Enjoying yourself (YES!!!) Living life for all it's worth
 Dialogue: 0,0:09:52.44,0:09:53.23,Song EN,Sou desu!!! EN,0,0,0,,{\blur1\q2}Of course!!!
