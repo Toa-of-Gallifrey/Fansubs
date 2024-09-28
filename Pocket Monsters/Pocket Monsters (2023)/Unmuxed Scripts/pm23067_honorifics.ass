@@ -43,7 +43,7 @@ Dialogue: 10,0:01:03.59,0:01:05.46,Main,Kihada,0,0,0,,The winner is Dot!
 Dialogue: 10,0:01:06.17,0:01:07.26,Main,Dot,0,0,0,,All right!
 Dialogue: 10,0:01:08.13,0:01:09.59,Main,Roy,0,0,0,,Dot won!
 Dialogue: 10,0:01:09.59,0:01:11.51,Main,Liko,0,0,0,,She sure knows how to Terastallize!
-Dialogue: 10,0:01:11.51,0:01:13.22,Main,Rye,0,0,0,,You’re strong!
+Dialogue: 10,0:01:11.51,0:01:13.68,Main,Rye,0,0,0,,You’re strong!
 Dialogue: 10,0:01:13.68,0:01:16.47,Main,Rye,0,0,0,,Guess it makes sense \N the savior of the school is tough!{Sasuga. line}
 Dialogue: 10,0:01:16.47,0:01:18.39,Main,Dot,0,0,0,,Huh?! How do you know about—
 Dialogue: 10,0:01:18.39,0:01:21.39,Main,Rye,0,0,0,,Everyone was talking about it \N over lunch break.
@@ -59,8 +59,8 @@ Dialogue: 10,0:01:48.80,0:01:51.30,Main,Nemo,0,0,0,,Same goes for me, of course!
 Dialogue: 10,0:01:54.72,0:01:56.51,Main,Rhyme,0,0,0,,New faces linked by destiny!{nyuufeisu}{New faces of destiny}
 Dialogue: 10,0:01:56.51,0:01:58.06,Main,Rhyme,0,0,0,,Saviors of our academy!{kyuuseishu}{Academy saviors}
 Dialogue: 10,0:01:58.06,0:01:59.89,Main,Rhyme,0,0,0,,Suddenly names everybody knows!{-hito}{Suddenly rising to fame}
-Dialogue: 10,0:01:59.89,0:02:01.52,Main,Rhyme,0,0,0,,Next up is Roy and Liko!{-riko}{NEXT: Roy and Liko}
-Dialogue: 10,0:02:01.52,0:02:04.19,Main,Rhyme,0,0,0,,Close friends, always together they go!{-mo}{Precious real-life friends, advancing together}
+Dialogue: 10,0:01:59.89,0:02:01.73,Main,Rhyme,0,0,0,,Next up is Roy and Liko!{-riko}{NEXT: Roy and Liko}
+Dialogue: 10,0:02:01.73,0:02:04.19,Main,Rhyme,0,0,0,,Close friends, always together they go!{-mo}{Precious real-life friends, advancing together}
 Dialogue: 10,0:02:04.19,0:02:05.98,Main,Rhyme,0,0,0,,Let’s see just how far they’ve grown!{-ro}{Show us proof of your growth}
 Dialogue: 10,0:02:05.98,0:02:08.19,Main,Rhyme,0,0,0,,Here and now, time to trade blows!{-ko}{It's a showdown, here and now}
 Dialogue: 10,0:02:11.11,0:02:14.20,Main,Kihada,0,0,0,,Osu! It’s finally time for our last match!
@@ -123,10 +123,10 @@ Dialogue: 10,0:07:32.81,0:07:34.35,Main,Poppy,0,0,0,,Incredible!
 Dialogue: 10,0:07:34.35,0:07:36.27,Main,Omodaka,0,0,0,,She’s made remarkable progress!{TL: She's grown remarkably!}
 Dialogue: 10,0:07:36.27,0:07:38.90,Main,Chili,0,0,0,,That look on her face now \N is {\i1}way{\i0} more suited for a battle!{calls to mind a line from ep 56 at 7:14}
 Dialogue: 10,0:07:39.31,0:07:41.11,Main,Colza,0,0,0,,Not bad, Roy-garde!
-Dialogue: 10,0:07:41.11,0:07:44.11,Main,Hassaku,0,0,0,,That was a outstanding usage \N of Magical Leaf.
+Dialogue: 10,0:07:41.11,0:07:44.11,Main,Hassaku,0,0,0,,That was an outstanding usage \N of Magical Leaf.
 Dialogue: 10,0:07:44.11,0:07:46.65,Main,Hassaku,0,0,0,,A fine battle, drawing out \N their respective strengths...
-Dialogue: 10,0:07:47.66,0:07:50.07,Main,Liko,0,0,0,,Nyarote! Magical Leaf!
-Dialogue: 10,0:07:50.07,0:07:51.53,Main,Roy,0,0,0,,Fly up high and dodge it!
+Dialogue: 10,0:07:47.66,0:07:49.78,Main,Liko,0,0,0,,Nyarote! Magical Leaf!
+Dialogue: 10,0:07:49.78,0:07:51.53,Main,Roy,0,0,0,,Fly up high and dodge it!
 Dialogue: 10,0:07:56.96,0:07:59.58,Main,Dot,0,0,0,,You can’t run away \N from a Magical Leaf!
 Dialogue: 10,0:08:01.21,0:08:03.50,Main,Rhyme,0,0,0,,He’s not {\i1}just{\i0} running away, is he?
 Dialogue: 10,0:08:03.50,0:08:06.72,Main,Aoki,0,0,0,,Correct. Its wings are catching the wind, \N drawing electrical charge.{Dread Taikaiden}
@@ -148,8 +148,8 @@ Dialogue: 10,0:09:04.15,0:09:05.82,Main,Roy,0,0,0,,All right! Now!
 Dialogue: 10,0:09:05.82,0:09:07.15,Main,Roy,0,0,0,,Fly up!
 Dialogue: 10,0:09:09.03,0:09:10.28,Main,Roy,0,0,0,,Spark!
 Dialogue: 10,0:09:12.28,0:09:13.82,Main,Liko,0,0,0,,Mind Power!
-Dialogue: 10,0:09:20.37,0:09:21.29,Main,Liko,0,0,0,,Tebrim!
-Dialogue: 10,0:09:21.29,0:09:22.12,Main,Roy,0,0,0,,One more time!
+Dialogue: 10,0:09:20.37,0:09:21.00,Main,Liko,0,0,0,,Tebrim!
+Dialogue: 10,0:09:21.00,0:09:22.12,Main,Roy,0,0,0,,One more time!
 Dialogue: 10,0:09:25.63,0:09:26.38,Main,Roy,0,0,0,,Spark!
 Dialogue: 10,0:09:26.38,0:09:27.25,Main,Liko,0,0,0,,Dodge!
 Dialogue: 10,0:09:33.01,0:09:34.39,Main,Liko,0,0,0,,Tebrim?
@@ -163,7 +163,7 @@ Dialogue: 10,0:10:03.21,0:10:05.00,Main,Poppy,0,0,0,,The paralysis is healed!
 Dialogue: 10,0:10:05.50,0:10:07.17,Main,Grusha,0,0,0,,Healing Heart...
 Dialogue: 10,0:10:07.17,0:10:09.26,Main,Kaede,0,0,0,,So that’s Tebrim-chan’s ability.
 Dialogue: 10,0:10:09.67,0:10:15.26,Main,Omodaka,0,0,0,,{\q2}Seeing how she’s battled so far, I can see why \N Grusha-san passed her on her implementation test.
-Dialogue: 10,0:10:15.26,0:10:17.68,Main,Chili,0,0,0,,She’s got Chili-chan’s \N stamp of approval, too.
+Dialogue: 10,0:10:15.26,0:10:17.68,Main,Chili,0,0,0,,She gets two thumbs up \N from Chili-chan, too.
 Dialogue: 10,0:10:18.14,0:10:21.43,Main,Liko,0,0,0,,Thank you for healing Nyarote, Tebrim.
 Dialogue: 10,0:10:23.85,0:10:26.48,Main,Roy,0,0,0,,Let’s go, Taikaiden! Spark!
 Dialogue: 10,0:10:29.19,0:10:30.69,Main,Liko,0,0,0,,Nyarote! Use your bud—{'tsubomi de--'}
@@ -174,7 +174,7 @@ Dialogue: 10,0:10:48.25,0:10:49.42,Main,Roy,0,0,0,,Taikaiden?!
 Dialogue: 10,0:10:50.38,0:10:53.26,Main,Kihada,0,0,0,,Taikaiden is unable to battle!
 Dialogue: 10,0:10:55.47,0:10:58.51,Main,Liko,0,0,0,,Yeah! We might be able to \N make that into a new move!
 Dialogue: 10,0:11:00.35,0:11:02.47,Main,Roy,0,0,0,,You gave it all you got, Taikaiden.
-Dialogue: 10,0:11:04.69,0:11:07.02,Main,Roy,0,0,0,,This battle ain’t even {\i1}close{\i0} to over!
+Dialogue: 10,0:11:04.69,0:11:07.02,Main,Roy,0,0,0,,This battle’s not even {\i1}close{\i0} to over!
 Dialogue: 10,0:11:07.02,0:11:08.40,Main,Roy,0,0,0,,Hogator!
 Dialogue: 10,0:11:12.36,0:11:13.86,Main,Roy,0,0,0,,We’re good to go!
 Dialogue: 10,0:11:15.24,0:11:17.49,Main,Liko,0,0,0,,Let’s do this, Nyarote.
@@ -209,7 +209,7 @@ Dialogue: 10,0:13:09.06,0:13:10.19,Main,Liko,0,0,0,,If I’m with Roy...
 Dialogue: 10,0:13:10.19,0:13:12.44,Main,Liko and Roy,0,0,0,,...I can reach even farther!
 Dialogue: 10,0:13:12.81,0:13:14.69,Main,Roy,0,0,0,,Isn’t that right, Hogator?!
 Dialogue: 10,0:13:19.70,0:13:20.45,Main,Roy,0,0,0,,Hogator!
-Dialogue: 10,0:13:21.70,0:13:27.18,Main,Roy,0,0,0,,Hey! Hey! Hey!\NHey! Hey! Hey! Hey!
+Dialogue: 10,0:13:21.70,0:13:27.16,Main,Roy,0,0,0,,Hey! Hey! Hey!\NHey! Hey! Hey! Hey!
 Dialogue: 10,0:13:39.84,0:13:42.93,Main,Rhyme,0,0,0,,Hey! Hey! Hey! Hey!
 Dialogue: 10,0:13:42.93,0:13:45.51,Main,Oranges,0,0,0,,{\i1}Hey! Hey! Hey! Hey!{\i0}
 Comment: 10,0:13:46.14,0:13:49.77,Main,Everyone,0,0,0,,Hey!
@@ -232,7 +232,7 @@ Dialogue: 10,0:15:21.69,0:15:23.24,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:15:23.24,0:15:26.20,Main,Liko,0,0,0,,Shine... in full bloom!
 Dialogue: 10,0:15:42.13,0:15:43.51,Main,Roy,0,0,0,,Flamethrower!
 Dialogue: 10,0:15:43.84,0:15:44.80,Main,Liko,0,0,0,,Magical Leaf!
-Dialogue: 10,0:15:55.89,0:15:59.02,Main,Roy,0,0,0,,Give it your max, Achigator!
+Dialogue: 10,0:15:55.89,0:15:59.02,Main,Roy,0,0,0,,Give it your all, Achigator!
 Dialogue: 10,0:16:02.90,0:16:04.40,Main,Liko,0,0,0,,Lightning Speed!
 Dialogue: 10,0:16:05.40,0:16:06.86,Main,Roy,0,0,0,,Nitro Charge!
 Dialogue: 10,0:16:24.84,0:16:27.05,Main,Kihada,0,0,0,,Nyarote is unable to battle!
@@ -240,7 +240,7 @@ Dialogue: 10,0:16:27.05,0:16:29.01,Main,Kihada,0,0,0,,The winner is Roy!
 Dialogue: 10,0:16:32.10,0:16:33.60,Main,Roy,0,0,0,,We did it!
 Dialogue: 10,0:16:36.10,0:16:39.06,Main,Roy,0,0,0,,We did it! \N We won, Achigator!
 Dialogue: 10,0:16:40.60,0:16:42.81,Main,Roy,0,0,0,,Whoa, whoa! Whoa!
-Dialogue: 10,0:16:47.65,0:16:48.82,Main,Roy,0,0,0,,Gave it your max, huh?
+Dialogue: 10,0:16:47.65,0:16:48.82,Main,Roy,0,0,0,,Sure gave it your all, huh?
 Dialogue: 10,0:16:49.91,0:16:51.07,Main,Liko,0,0,0,,Nyarote...
 Dialogue: 10,0:17:26.65,0:17:31.99,Main,Clavel,0,0,0,,And with that, the Course Students \N Battle Tournament is concluded.
 Dialogue: 10,0:17:34.78,0:17:38.16,Main,Anne,0,0,0,,I’m gonna go back to Sekiei Academy \N and work real hard!
@@ -261,8 +261,8 @@ Dialogue: 10,0:18:23.29,0:18:26.63,Main,Dot,0,0,0,,I’m glad our own strength \
 Dialogue: 10,0:18:28.46,0:18:32.59,Main,Nanjamo,0,0,0,,Oha-kon-hello-ciao— Wait, what? \N The tournament’s over already?
 Dialogue: 10,0:18:33.05,0:18:34.38,Main,Dot,0,0,0,,It ended a while ago.
 Dialogue: 10,0:18:34.38,0:18:35.72,Main,Nanjamo,0,0,0,,Say what?!
-Dialogue: 10,0:18:36.09,0:18:38.35,Main,Nanjamo,0,0,0,,So, how’d it go? How’d it go?!
-Dialogue: 10,0:18:39.60,0:18:41.60,Main,Nanjamo,0,0,0,,Guess I don’t even gotta ask, huh?
+Dialogue: 10,0:18:36.09,0:18:38.76,Main,Nanjamo,0,0,0,,So, how’d it go? How’d it go?!
+Dialogue: 10,0:18:38.76,0:18:41.60,Main,Nanjamo,0,0,0,,Well, guess I don’t even \N gotta ask, huh?
 Dialogue: 10,0:18:41.60,0:18:43.10,Main,Poppy,0,0,0,,Welcamo-chan!
 Dialogue: 10,0:18:43.10,0:18:45.77,Main,Poppy,0,0,0,,That was a really great battle!
 Dialogue: 10,0:18:47.48,0:18:48.65,Main,Dot,0,0,0,,Poppy-san...
@@ -334,12 +334,12 @@ Dialogue: 10,0:24:01.29,0:24:03.71,Main,Murdock,0,0,0,,There really is no better
 Dialogue: 10,0:24:03.71,0:24:06.13,Main,Orio,0,0,0,,Murdock’s curry is super tasty!
 Dialogue: 10,0:24:06.13,0:24:09.55,Main,Molly,0,0,0,,Orio, thanks for all your hard work. \N Repairing the ship must’ve been a huge job.
 Dialogue: 10,0:24:09.55,0:24:10.47,Main,Orio,0,0,0,,Well, yeah...
-Dialogue: 10,0:24:10.47,0:24:12.97,Main,Orio,0,0,0,,But I gave it a nice boost{power-up}!{recalls 054}
+Dialogue: 10,0:24:10.47,0:24:12.97,Main,Orio,0,0,0,,But I gave it a nice power-up!{recalls 054}
 Dialogue: 10,0:24:12.97,0:24:14.43,Main,Murdock,0,0,0,,Molly, Gramps... \N I should thank you, too.
 Dialogue: 10,0:24:14.43,0:24:16.77,Main,Murdock,0,0,0,,All the ship’s Pokémon \N are happy and healthy!
 Dialogue: 10,0:24:16.77,0:24:19.52,Main,Landau,0,0,0,,Now is the time for us \N to reconvene.
-Dialogue: 10,0:24:20.40,0:24:23.43,Main,Friede,0,0,0,,Well then, how about we go \N pick up Liko and the others?
-Dialogue: 10,0:24:23.43,0:24:26.49,Main,Friede,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
+Dialogue: 10,0:24:20.40,0:24:23.44,Main,Friede,0,0,0,,Well then, how about we go \N pick up Liko and the others?
+Dialogue: 10,0:24:23.44,0:24:26.49,Main,Friede,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
 Dialogue: 10,0:24:26.49,0:24:29.32,Main,Friede,0,0,0,,To a New Sky! The Brave Asagi!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 12,0:02:23.12,0:02:26.50,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
@@ -1511,8 +1511,8 @@ Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N30.7kg
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What is on top of its head?
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What is on top of its head?
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}A Gold Orb
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}A Gold Orb
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}A gold ball
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}A gold ball
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}A fireball
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}A fireball
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}A berry
