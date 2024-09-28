@@ -1052,7 +1052,7 @@ iryuujon イリュージョン (Illusion) - Illusion
 ishi atama いしあたま (Rock Head) - # TBD #
 itazura gokoro いたずらごころ (Prankster) - # TBD #
 iwahakobi いわはこび (Rocky Payload) - # TBD #
-iyashi no kokoro いやしのこころ (Healer) - # TBD #
+iyashi no kokoro いやしのこころ (Healer) - Healing Heart
 jikyuuryoku じきゅうりょく (Stamina) - # TBD #
 jinba ittai じんばいったい (As One) - # TBD #
 jiryoku じりょく (Magnet Pull) - # TBD #
