@@ -2228,7 +2228,7 @@ POKÉMON NAMES
 0975 ハルクジラ Hulkujira - りくくじらポケモン Land Whale Pokémon
 0976 ミガルーサ 
 0977 ヘイラッシャ 
-0978 シャリタツ 
+0978 シャリタツ Sharitatsu - ぎたいポケモン Mimicry Pokémon
 0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
 0981 リキキリン 
