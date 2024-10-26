@@ -654,7 +654,7 @@ shadoo kuroo シャドークロー (Shadow Claw) - Shadow Claw
 shadoo panchi シャドーパンチ (Shadow Punch) - Shadow Punch
 shadoo rei シャドーレイ (Moongeist Beam) - Shadow Ray
 shadoo suchiiru シャドースチール (Spectral Thief) - Shadow Steal
-shakashaka hou シャカシャカほう (Matcha Gotcha) - # TBD #
+shakashaka hou シャカシャカほう (Matcha Gotcha) - Whisk-Whisk Cannon
 sheru aamuzu シェルアームズ (Shell Side Arm) - # TBD #
 sheru bureedo シェルブレード (Razor Shell) - Shell Blade
 shibiregona しびれごな (Stun Spore) - Stun Spore
@@ -1608,7 +1608,7 @@ POKÉMON NAMES
 0355 ヨマワル Yomawaru - おむかえポケモン 
 0356 サマヨール Samayouru - てまねきポケモン Beckon Pokémon
 0357 トロピウス Tropius - フルーツポケモン Fruit Pokémon
-0358 チリーン 
+0358 チリーン Chiriin - ふうりんポケモン 
 0359 アブソル Absol - わざわいポケモン Disaster Pokémon
 0360 ソーナノ Sonano - ほがらかポケモン 
 0361 ユキワラシ Yukiwarashi - ゆきかさポケモン Snow Hat Pokémon
@@ -2192,7 +2192,7 @@ POKÉMON NAMES
 0939 ハラバリー Harabari - でんきがえるポケモン Electric Frog Pokémon
 0940 カイデン Kaiden - うみつばめポケモン Storm Petrel Pokémon
 0941 タイカイデン Taikaiden - ぐんかんどりポケモン Frigatebird Pokémon
-0942 オラチフ 
+0942 オラチフ Oratiff - わかぞうポケモン 
 0943 マフィティフ 
 0944 シルシュルー 
 0945 タギングル 
@@ -2212,7 +2212,7 @@ POKÉMON NAMES
 0959 デカヌチャン Dekanuchan - ハンマーポケモン Hammer Pokémon
 0960 ウミディグダ Umidigda - あなごポケモン Garden Eel Pokémon
 0961 ウミトリオ Umitrio - あなごポケモン Garden Eel Pokémon
-0962 オトシドリ 
+0962 オトシドリ Otoshidori - おとしものポケモン Item-Dropping Pokémon
 0963 ナミイルカ Namiiruka - イルカポケモン Dolphin Pokémon
 0964 イルカマン Irukaman - イルカポケモン Dolphin Pokémon --- Mighty Forme - ヒーローポケモン Hero Pokémon
 0965 ブロロン Burorom - たんきとうポケモン Single-Cylinder Pokémon
