@@ -19,9 +19,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Main,Candara,83,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
 Style: Insert,Candara,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,8,45,45,60,0
 Style: Episode titles,Waukegan LDO,80,&H00FAFE1F,&H00341DFF,&H00FFFFFF,&H00444445,-1,-1,0,0,100,100,0,0,1,4,3,2,45,45,45,0
-Style: OP,FOT-Chiaro Std B,55,&H00FFFFFF,&H00F3FFF4,&H00584F42,&HFF000000,0,0,0,0,100,100,0.0001,0,1,2,0,8,45,45,30,0
-Style: ED,Ro GSan Serif Std U,63,&H00FFFFFF,&H00F3FFF4,&H00BAF7FF,&HFF000000,0,0,0,0,100,100,2,0,1,0,0,8,45,45,30,0
-Style: EDp2,Ro GSan Serif Std U,63,&H00103538,&H00F3FFF4,&H00103538,&H78223535,0,0,0,0,100,100,2,0,1,3,2,8,45,45,30,0
+Style: OP,FOT-Chiaro Std B,55,&H00FFFFFF,&H00F3FFF4,&H00584F42,&HFF000000,0,0,0,0,100,100,0.0001,0,1,1.4,0,8,45,45,30,0
+Style: ED,Ro GSan Serif Std U,63,&H00E7FCFF,&H00F3FFF4,&H00103538,&H78223535,0,0,0,0,100,100,2,0,1,3,2,8,45,45,30,0
 Style: Logo,PmLogo2023,100,&H00C98000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 
@@ -30,8 +29,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:06.24,0:00:08.07,Main,Liko,0,0,0,,The Kitakami hamlet?{Oh boy. Kitakami no sato. A sato can be village, countryside, hometown, area, etc. Gives an idea of rural life, nostalgia, that kind of stuff. Kitakami has a village (mura) in it (Suiryoku Town) so village and town aren't really usable. EN game used land of Kitakami, which isn't bad (though a bit broad) but it doesn't work for yamazato, five seconds from now, which implies something more specific and lived-in than just "land". Going with this for now. Might need to change later depending on how it's used throughout the arc. - Toa}
 Dialogue: 10,0:00:08.07,0:00:08.95,Main,Raifort,0,0,0,,Yeah.
-Dialogue: 10,0:00:08.95,0:00:13.20,Main,Raifort,0,0,0,,It’s a mountain hamlet that Orange Academy \N uses for school trips into the forest...
-Dialogue: 10,0:00:13.20,0:00:18.71,Main,Raifort,0,0,0,,But at the moment, there’s a teacher named Briar \N over there who’s studying all things Terapagos.
+Dialogue: 10,0:00:08.95,0:00:13.20,Main,Raifort,0,0,0,,{\q2}It’s a mountain hamlet that Orange Academy \N uses for school trips into the forest.
+Dialogue: 10,0:00:13.20,0:00:18.71,Main,Raifort,0,0,0,,{\q2}But at the moment, there’s a teacher named Briar \N over there who’s studying all things Terapagos.
 Dialogue: 10,0:00:19.42,0:00:21.54,Main,Raifort,0,0,0,,Maybe you can \N learn something from her.
 Dialogue: 10,0:00:21.54,0:00:22.75,Main,Raifort,0,0,0,,Try paying her a visit.
 Dialogue: 10,0:00:22.75,0:00:24.59,Main,Liko,0,0,0,,Thank you so much!
@@ -327,38 +326,38 @@ Dialogue: 10,0:24:22.69,0:24:25.57,Main,Roy,0,0,0,,I’m a Pokémon, and You’r
 Dialogue: 10,0:24:25.57,0:24:26.95,Main,Achigator,0,0,0,,Achi!
 Dialogue: 10,0:24:27.45,0:24:29.36,Main,Liko and Dot,0,0,0,,What happened to you, Roy?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:01:56.22,0:01:59.14,OP,,0,0,50,,{=1060}{\q2\blur0.6}Even if you seem stuck, I know you'll be fine
-Dialogue: 1,0:01:59.14,0:02:05.44,OP,,0,0,50,,{\q2\blur0.6}Take one more step from here, and see you can go further
-Dialogue: 1,0:02:05.44,0:02:10.23,OP,,0,0,50,,{\q2\blur0.6}Despite all your tears, I know you, you'll be fine
-Dialogue: 1,0:02:16.41,0:02:23.21,OP,,0,0,50,,{\q2\blur0.6}Oh, the rainy days lasted so long, that now with my cowardly heart,
-Dialogue: 1,0:02:23.21,0:02:28.92,OP,,0,0,50,,{\q2\blur0.6}I can't even bring myself to look for rainbows, Always
-Dialogue: 1,0:02:28.92,0:02:32.51,OP,,0,0,50,,{\q2\blur0.6}Oh, but how I'd like to take that step forward,
-Dialogue: 1,0:02:32.51,0:02:40.18,OP,,0,0,50,,{\q2\blur0.6}to set out, as if guided to something that'll excite my heart
+Dialogue: 1,0:01:56.22,0:01:59.14,OP,,0,0,50,,{=1066}{\q2\blur0.6}Even if it looks like you're stuck, it'll be okay
+Dialogue: 1,0:01:59.14,0:02:05.44,OP,,0,0,50,,{\q2\blur0.6}Take one more step from here and you'll see that you can go farther
+Dialogue: 1,0:02:05.44,0:02:10.23,OP,,0,0,50,,{\q2\blur0.6}No matter how many tears you shed, I just know you'll be okay
+Dialogue: 1,0:02:16.41,0:02:23.21,OP,,0,0,50,,{\q2\blur0.6}Oh, it's rained for so long, my heart's grown so cowardly
+Dialogue: 1,0:02:23.21,0:02:28.92,OP,,0,0,50,,{\q2\blur0.6}Can't bring myself to look for rainbows, I'm always so dejected
+Dialogue: 1,0:02:28.92,0:02:32.51,OP,,0,0,50,,{\q2\blur0.6}Oh, but how I'd like to take that step forward
+Dialogue: 1,0:02:32.51,0:02:40.18,OP,,0,0,50,,{\q2\blur0.6}To set out, as if guided to something that'll excite my heart
 Dialogue: 1,0:02:40.18,0:02:46.73,OP,,0,0,50,,{\q2\blur0.6}My wish to meet you at our promised place
-Dialogue: 1,0:02:46.73,0:02:50.40,OP,,0,0,50,,{\q2\blur0.6}Whenever I find it in me, oh, my heart,
-Dialogue: 1,0:02:50.40,0:02:56.28,OP,,0,0,50,,{\q2\blur0.6}It pounds so fast, like I can make it to the future that you gave to me!
-Dialogue: 1,0:02:56.28,0:02:59.95,OP,,0,0,50,,{\q2\blur0.6}Now even if you seem stuck, I know you'll be fine
+Dialogue: 1,0:02:46.73,0:02:50.40,OP,,0,0,50,,{\q2\blur0.6}When I find it amid my thoughts... Oh, my heart
+Dialogue: 1,0:02:50.40,0:02:56.28,OP,,0,0,50,,{\q2\blur0.6}It pounds so fast, like I can make it to the future you entrusted to me
+Dialogue: 1,0:02:56.28,0:02:59.95,OP,,0,0,50,,{\q2\blur0.6}Now... Even if it looks like you're stuck, it'll be okay
 Dialogue: 1,0:02:59.95,0:03:05.33,OP,,0,0,50,,{\q2\blur0.6}I'll send you cheers to connect us, so listen: Yeah, yeah, oh!
 Dialogue: 1,0:03:05.33,0:03:09.46,OP,,0,0,50,,{\q2\blur0.6}I know you've got a one-of-a-kind story in you
-Dialogue: 1,0:03:09.46,0:03:12.63,OP,,0,0,50,,{\q2\blur0.6}Rise and shine, Starlight
-Dialogue: 1,0:03:12.63,0:03:18.72,OP,,0,0,50,,{\q2\blur0.6}Take one more step from here, and see you can go further
-Dialogue: 1,0:03:18.72,0:03:23.60,OP,,0,0,50,,{\q2\blur0.6}Despite all your tears, I know you, you'll be fine
-Dialogue: 0,0:01:56.22,0:01:59.14,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Even if you seem stuck, I know you'll be fine
-Dialogue: 0,0:01:59.14,0:02:05.44,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Take one more step from here, and see you can go further
-Dialogue: 0,0:02:05.44,0:02:10.23,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Despite all your tears, I know you, you'll be fine
-Dialogue: 0,0:02:16.41,0:02:23.21,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Oh, the rainy days lasted so long, that now with my cowardly heart,
-Dialogue: 0,0:02:23.21,0:02:28.92,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}I can't even bring myself to look for rainbows, Always
-Dialogue: 0,0:02:28.92,0:02:32.51,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Oh, but how I'd like to take that step forward,
-Dialogue: 0,0:02:32.51,0:02:40.18,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}to set out, as if guided to something that'll excite my heart
+Dialogue: 1,0:03:09.46,0:03:12.63,OP,,0,0,50,,{\q2\blur0.6}Ascend and unleash your gleaming starlight
+Dialogue: 1,0:03:12.63,0:03:18.72,OP,,0,0,50,,{\q2\blur0.6}Take one more step from here and you'll see that you can go farther
+Dialogue: 1,0:03:18.72,0:03:23.60,OP,,0,0,50,,{\q2\blur0.6}No matter how many tears you shed, I just know you'll be okay
+Dialogue: 0,0:01:56.22,0:01:59.14,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Even if it looks like you're stuck, it'll be okay
+Dialogue: 0,0:01:59.14,0:02:05.44,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Take one more step from here and you'll see that you can go farther
+Dialogue: 0,0:02:05.44,0:02:10.23,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}No matter how many tears you shed, I just know you'll be okay
+Dialogue: 0,0:02:16.41,0:02:23.21,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Oh, it's rained for so long, my heart's grown so cowardly
+Dialogue: 0,0:02:23.21,0:02:28.92,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Can't bring myself to look for rainbows, I'm always so dejected
+Dialogue: 0,0:02:28.92,0:02:32.51,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Oh, but how I'd like to take that step forward
+Dialogue: 0,0:02:32.51,0:02:40.18,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}To set out, as if guided to something that'll excite my heart
 Dialogue: 0,0:02:40.18,0:02:46.73,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}My wish to meet you at our promised place
-Dialogue: 0,0:02:46.73,0:02:50.40,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Whenever I find it in me, oh, my heart,
-Dialogue: 0,0:02:50.40,0:02:56.28,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}It pounds so fast, like I can make it to the future that you gave to me!
-Dialogue: 0,0:02:56.28,0:02:59.95,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Now even if you seem stuck, I know you'll be fine
+Dialogue: 0,0:02:46.73,0:02:50.40,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}When I find it amid my thoughts... Oh, my heart
+Dialogue: 0,0:02:50.40,0:02:56.28,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}It pounds so fast, like I can make it to the future you entrusted to me
+Dialogue: 0,0:02:56.28,0:02:59.95,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Now... Even if it looks like you're stuck, it'll be okay
 Dialogue: 0,0:02:59.95,0:03:05.33,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}I'll send you cheers to connect us, so listen: Yeah, yeah, oh!
 Dialogue: 0,0:03:05.33,0:03:09.46,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}I know you've got a one-of-a-kind story in you
-Dialogue: 0,0:03:09.46,0:03:12.63,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Rise and shine, Starlight
-Dialogue: 0,0:03:12.63,0:03:18.72,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Take one more step from here, and see you can go further
-Dialogue: 0,0:03:18.72,0:03:23.60,OP,,0,0,50,,{=1061}{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Despite all your tears, I know you, you'll be fine
+Dialogue: 0,0:03:09.46,0:03:12.63,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Ascend and unleash your gleaming starlight
+Dialogue: 0,0:03:12.63,0:03:18.72,OP,,0,0,50,,{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}Take one more step from here and you'll see that you can go farther
+Dialogue: 0,0:03:18.72,0:03:23.60,OP,,0,0,50,,{=1067}{\q2\c&H000000&\3c&H000000&\blur8\bord6\alpha&HE2&}No matter how many tears you shed, I just know you'll be okay
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:11:00.47,0:11:10.48,Logo,,0,0,0,,{=1019}{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\pos(1456.01,811.71)\clip(27,653.97,1911.9,804)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:11:00.47,0:11:10.48,Logo,,0,0,0,,{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\pos(1456.01,811.71)\clip(27,822,1904.17,957.48)}p{\fsp-13}O{\fsp-9}Cket Monsters
@@ -388,58 +387,8 @@ Dialogue: 2,0:11:00.47,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\blur0.6
 Dialogue: 1,0:11:00.47,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord3\blur0.6\c&H393939&\3c&H393939&\pos(1458,1071.33)\3a&H20&}Rekkuuza Rising
 Dialogue: 0,0:11:00.47,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord6\blur3\c&HFFFFFF&\3c&HFFFFFF&\pos(1458,1071.33)\3a&H20&}Rekkuuza Rising
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 3,0:22:11.60,0:22:17.36,ED,,0,0,0,,{=1062}{\q2\blur1\4a&H00&\fad(0,350)}Rise Up, Sparkle
-Dialogue: 3,0:22:18.69,0:22:21.86,ED,,0,0,0,,{\q2\blur1\4a&H00&\fad(350,0)}Rise Up, Sparkle
-Dialogue: 3,0:22:21.86,0:22:24.28,ED,,0,0,0,,{\q2\blur1\4a&H00&}Time to shine, together
-Dialogue: 3,0:22:24.28,0:22:26.32,ED,,0,0,0,,{\q2\blur1\4a&H00&}Ready 3, 2, 1, Ahhh
-Dialogue: 3,0:22:26.32,0:22:27.95,ED,,0,0,0,,{\q2\blur1\4a&H00&}So where now? Frustrations? Delusions?
-Dialogue: 3,0:22:27.95,0:22:29.95,ED,,0,0,0,,{\q2\blur1\4a&H00&}All In My Head, Let's Go!
-Dialogue: 3,0:22:29.95,0:22:33.46,ED,,0,0,0,,{\q2\blur1\4a&H00&}Had enough? Too tough? Hey, there's just no way! Let's Go!
-Dialogue: 3,0:22:33.46,0:22:35.38,ED,,0,0,0,,{\q2\blur1\4a&H00&}Just do it! (Big Up!) Just win it! (Big Up!)
-Dialogue: 3,0:22:35.38,0:22:37.21,ED,,0,0,0,,{\q2\blur1\4a&H00&}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 3,0:22:37.21,0:22:39.00,ED,,0,0,0,,{\q2\blur1\4a&H00&}You're no failure, and you're no loser
-Dialogue: 3,0:22:39.00,0:22:41.51,ED,,0,0,0,,{\q2\blur1\4a&H00&}Just keep on chasing until you catch up
-Dialogue: 3,0:22:41.51,0:22:48.01,ED,,0,0,0,,{\q2\blur1\4a&H00&}The feelings entrusted to us (ah eh ah eh) make us stronger
-Dialogue: 3,0:22:48.01,0:22:51.73,ED,,0,0,0,,{\q2\blur1\4a&H00&}Meeting, parting, all of those supporting us
-Dialogue: 3,0:22:51.73,0:22:54.23,ED,,0,0,0,,{\q2\blur1\4a&H00&}Bring them along for the ri-i-ide!
-Dialogue: 3,0:22:55.48,0:22:58.82,ED,,0,0,0,,{\q2\blur1\4a&H00&}Rise Up!! Make It to that super effective amazing wish
-Dialogue: 3,0:22:58.82,0:23:02.32,ED,,0,0,0,,{\q2\blur1\4a&H00&}Rise Up!! Make It to that possible future we promised
-Dialogue: 3,0:23:02.32,0:23:04.20,ED,,0,0,0,,{\q2\blur1\4a&H00&}Assemble, grant your wish
-Dialogue: 3,0:23:04.20,0:23:05.95,ED,,0,0,0,,{\q2\blur1\4a&H00&}3, 2, Ready? Big Bang!
-Dialogue: 3,0:23:05.95,0:23:10.87,ED,,0,0,0,,{\q2\blur1\4a&H00&\fad(0,140)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 3,0:23:13.00,0:23:15.83,ED,,0,0,0,,{\q2\blur1\4a&H00&\fad(350,0)}It's a blazing Journey, and when we make it,
-Dialogue: 3,0:23:15.83,0:23:17.13,ED,,0,0,0,,{\q2\blur1\4a&H00&}Hop, Step, Get it!
-Dialogue: 3,0:23:17.13,0:23:18.04,ED,,0,0,0,,{\q2\blur1\4a&H00&}Come On, Rise Up!!
-Dialogue: 3,0:23:20.21,0:23:23.34,ED,,0,0,0,,{\q2\blur1\4a&H00&\fad(350,0)}Come On, Rise Up!! (ah ah ah ah)
-Dialogue: 3,0:23:23.34,0:23:25.30,ED,,0,0,0,,{\q2\blur1\4a&H00&}Make a change, you can take it, you can do it, yeah!
-Dialogue: 3,0:23:25.30,0:23:32.77,ED,,0,0,0,,{\q2\blur1\4a&H00&}Rise Up, Sparkle
-Dialogue: 2,0:22:11.60,0:22:17.36,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&\fad(0,350)}Rise Up, Sparkle
-Dialogue: 2,0:22:18.69,0:22:21.86,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&\fad(350,0)}Rise Up, Sparkle
-Dialogue: 2,0:22:21.86,0:22:24.28,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Time to shine, together
-Dialogue: 2,0:22:24.28,0:22:26.32,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Ready 3, 2, 1, Ahhh
-Dialogue: 2,0:22:26.32,0:22:27.95,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}So where now? Frustrations? Delusions?
-Dialogue: 2,0:22:27.95,0:22:29.95,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}All In My Head, Let's Go!
-Dialogue: 2,0:22:29.95,0:22:33.46,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Had enough? Too tough? Hey, there's just no way! Let's Go!
-Dialogue: 2,0:22:33.46,0:22:35.38,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Just do it! (Big Up!) Just win it! (Big Up!)
-Dialogue: 2,0:22:35.38,0:22:37.21,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 2,0:22:37.21,0:22:39.00,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}You're no failure, and you're no loser
-Dialogue: 2,0:22:39.00,0:22:41.51,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Just keep on chasing until you catch up
-Dialogue: 2,0:22:41.51,0:22:48.01,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}The feelings entrusted to us (ah eh ah eh) make us stronger
-Dialogue: 2,0:22:48.01,0:22:51.73,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Meeting, parting, all of those supporting us
-Dialogue: 2,0:22:51.73,0:22:54.23,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Bring them along for the ri-i-ide!
-Dialogue: 2,0:22:55.48,0:22:58.82,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Rise Up!! Make It to that super effective amazing wish
-Dialogue: 2,0:22:58.82,0:23:02.32,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Rise Up!! Make It to that possible future we promised
-Dialogue: 2,0:23:02.32,0:23:04.20,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Assemble, grant your wish
-Dialogue: 2,0:23:04.20,0:23:05.95,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}3, 2, Ready? Big Bang!
-Dialogue: 2,0:23:05.95,0:23:10.87,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&\fad(0,140)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 2,0:23:13.00,0:23:15.83,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&\fad(350,0)}It's a blazing Journey, and when we make it,
-Dialogue: 2,0:23:15.83,0:23:17.13,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Hop, Step, Get it!
-Dialogue: 2,0:23:17.13,0:23:18.04,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Come On, Rise Up!!
-Dialogue: 2,0:23:20.21,0:23:23.34,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&\fad(350,0)}Come On, Rise Up!! (ah ah ah ah)
-Dialogue: 2,0:23:23.34,0:23:25.30,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Make a change, you can take it, you can do it, yeah!
-Dialogue: 2,0:23:25.30,0:23:32.77,ED,,0,0,0,,{\q2\blur0.6\4a&H00&\c&HBAF7FF&}Rise Up, Sparkle
-Dialogue: 1,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{\q2\blur0.6\fad(0,350)\t(5410,5455,\1a&HFF&)}Rise Up, Sparkle
-Dialogue: 1,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Rise Up, Sparkle
+Dialogue: 1,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{=1070}{\q2\blur0.6\fad(0,350)}Rise Up, Pikkaan
+Dialogue: 1,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}Rise Up, Pikkaan
 Dialogue: 1,0:22:21.86,0:22:24.28,EDp2,,0,0,0,,{\q2\blur0.6}Time to shine, together
 Dialogue: 1,0:22:24.28,0:22:26.32,EDp2,,0,0,0,,{\q2\blur0.6}Ready 3, 2, 1, Ahhh
 Dialogue: 1,0:22:26.32,0:22:27.95,EDp2,,0,0,0,,{\q2\blur0.6}So where now? Frustrations? Delusions?
@@ -447,47 +396,47 @@ Dialogue: 1,0:22:27.95,0:22:29.95,EDp2,,0,0,0,,{\q2\blur0.6}All In My Head, Let'
 Dialogue: 1,0:22:29.95,0:22:33.46,EDp2,,0,0,0,,{\q2\blur0.6}Had enough? Too tough? Hey, there's just no way! Let's Go!
 Dialogue: 1,0:22:33.46,0:22:35.38,EDp2,,0,0,0,,{\q2\blur0.6}Just do it! (Big Up!) Just win it! (Big Up!)
 Dialogue: 1,0:22:35.38,0:22:37.21,EDp2,,0,0,0,,{\q2\blur0.6}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 1,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\blur0.6}You're no failure, and you're no loser
+Dialogue: 1,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\blur0.6}You're no failure, you're no loser
 Dialogue: 1,0:22:39.00,0:22:41.51,EDp2,,0,0,0,,{\q2\blur0.6}Just keep on chasing until you catch up
 Dialogue: 1,0:22:41.51,0:22:48.01,EDp2,,0,0,0,,{\q2\blur0.6}The feelings entrusted to us (ah eh ah eh) make us stronger
 Dialogue: 1,0:22:48.01,0:22:51.73,EDp2,,0,0,0,,{\q2\blur0.6}Meeting, parting, all of those supporting us
 Dialogue: 1,0:22:51.73,0:22:54.23,EDp2,,0,0,0,,{\q2\blur0.6}Bring them along for the ri-i-ide!
-Dialogue: 1,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make It to that super effective amazing wish
-Dialogue: 1,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make It to that possible future we promised
+Dialogue: 1,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that super effective amazing wish
+Dialogue: 1,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that possible future we promised
 Dialogue: 1,0:23:02.32,0:23:04.20,EDp2,,0,0,0,,{\q2\blur0.6}Assemble, grant your wish
 Dialogue: 1,0:23:04.20,0:23:05.95,EDp2,,0,0,0,,{\q2\blur0.6}3, 2, Ready? Big Bang!
-Dialogue: 1,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\blur0.6\fad(0,140)\t(4780,4825,\1a&HFF&)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 1,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}It's a blazing Journey, and when we make it,
+Dialogue: 1,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\blur0.6\fad(0,140)}Rise up, this adventure is for us, Go Go (Let's go!)
+Dialogue: 1,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}It's a blazing journey, and when we make it...
 Dialogue: 1,0:23:15.83,0:23:17.13,EDp2,,0,0,0,,{\q2\blur0.6}Hop, Step, Get it!
 Dialogue: 1,0:23:17.13,0:23:18.04,EDp2,,0,0,0,,{\q2\blur0.6}Come On, Rise Up!!
-Dialogue: 1,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Come On, Rise Up!! (ah ah ah ah)
+Dialogue: 1,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}Come On, Rise Up!! (ah ah ah ah)
 Dialogue: 1,0:23:23.34,0:23:25.30,EDp2,,0,0,0,,{\q2\blur0.6}Make a change, you can take it, you can do it, yeah!
-Dialogue: 1,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up, Sparkle
-Dialogue: 0,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&\fad(0,350)\t(5410,5455,\1a&HFF&)}Rise Up, Sparkle
-Dialogue: 0,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Rise Up, Sparkle
-Dialogue: 0,0:22:21.86,0:22:24.28,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Time to shine, together
-Dialogue: 0,0:22:24.28,0:22:26.32,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Ready 3, 2, 1, Ahhh
-Dialogue: 0,0:22:26.32,0:22:27.95,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}So where now? Frustrations? Delusions?
-Dialogue: 0,0:22:27.95,0:22:29.95,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}All In My Head, Let's Go!
-Dialogue: 0,0:22:29.95,0:22:33.46,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Had enough? Too tough? Hey, there's just no way! Let's Go!
-Dialogue: 0,0:22:33.46,0:22:35.38,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Just do it! (Big Up!) Just win it! (Big Up!)
-Dialogue: 0,0:22:35.38,0:22:37.21,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 0,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}You're no failure, and you're no loser
-Dialogue: 0,0:22:39.00,0:22:41.51,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Just keep on chasing until you catch up
-Dialogue: 0,0:22:41.51,0:22:48.01,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}The feelings entrusted to us (ah eh ah eh) make us stronger
-Dialogue: 0,0:22:48.01,0:22:51.73,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Meeting, parting, all of those supporting us
-Dialogue: 0,0:22:51.73,0:22:54.23,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Bring them along for the ri-i-ide!
-Dialogue: 0,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make It to that super effective amazing wish
-Dialogue: 0,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make It to that possible future we promised
-Dialogue: 0,0:23:02.32,0:23:04.20,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Assemble, grant your wish
-Dialogue: 0,0:23:04.20,0:23:05.95,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}3, 2, Ready? Big Bang!
-Dialogue: 0,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&\fad(0,140)\t(4780,4825,\1a&HFF&)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 0,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}It's a blazing Journey, and when we make it,
-Dialogue: 0,0:23:15.83,0:23:17.13,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Hop, Step, Get it!
-Dialogue: 0,0:23:17.13,0:23:18.04,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Come On, Rise Up!!
-Dialogue: 0,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Come On, Rise Up!! (ah ah ah ah)
-Dialogue: 0,0:23:23.34,0:23:25.30,EDp2,,0,0,0,,{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Make a change, you can take it, you can do it, yeah!
-Dialogue: 0,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{=1063}{\q2\bord7\shad0\blur6\c&H5ED4E6&\3c&H5ED4E6&}Rise Up, Sparkle
+Dialogue: 1,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up, Pikkaan
+Dialogue: 0,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,350)\t(5410,5455,\1a&HFF&)}Rise Up, Pikkaan
+Dialogue: 0,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Rise Up, Pikkaan
+Dialogue: 0,0:22:21.86,0:22:24.28,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Time to shine, together
+Dialogue: 0,0:22:24.28,0:22:26.32,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Ready 3, 2, 1, Ahhh
+Dialogue: 0,0:22:26.32,0:22:27.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}So where now? Frustrations? Delusions?
+Dialogue: 0,0:22:27.95,0:22:29.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}All In My Head, Let's Go!
+Dialogue: 0,0:22:29.95,0:22:33.46,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Had enough? Too tough? Hey, there's just no way! Let's Go!
+Dialogue: 0,0:22:33.46,0:22:35.38,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just do it! (Big Up!) Just win it! (Big Up!)
+Dialogue: 0,0:22:35.38,0:22:37.21,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Passion volley! (Pa Ra Ra Yeah)
+Dialogue: 0,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}You're no failure, you're no loser
+Dialogue: 0,0:22:39.00,0:22:41.51,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just keep on chasing until you catch up
+Dialogue: 0,0:22:41.51,0:22:48.01,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}The feelings entrusted to us (ah eh ah eh) make us stronger
+Dialogue: 0,0:22:48.01,0:22:51.73,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Meeting, parting, all of those supporting us
+Dialogue: 0,0:22:51.73,0:22:54.23,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Bring them along for the ri-i-ide!
+Dialogue: 0,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that super effective amazing wish
+Dialogue: 0,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that possible future we promised
+Dialogue: 0,0:23:02.32,0:23:04.20,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Assemble, grant your wish
+Dialogue: 0,0:23:04.20,0:23:05.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}3, 2, Ready? Big Bang!
+Dialogue: 0,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,140)\t(4780,4825,\1a&HFF&)}Rise up, this adventure is for us, Go Go (Let's go!)
+Dialogue: 0,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}It's a blazing journey, and when we make it...
+Dialogue: 0,0:23:15.83,0:23:17.13,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Hop, Step, Get it!
+Dialogue: 0,0:23:17.13,0:23:18.04,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Come On, Rise Up!!
+Dialogue: 0,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Come On, Rise Up!! (ah ah ah ah)
+Dialogue: 0,0:23:23.34,0:23:25.30,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Make a change, you can take it, you can do it, yeah!
+Dialogue: 0,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{=1071}{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up, Pikkaan
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:45.49,0:22:07.47,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord5\blur8\3a&H20&\c&H1D1E1E&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
 Dialogue: 1,0:21:45.49,0:22:07.47,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord3\blur0.6\c&H1FE9E7&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
@@ -670,7 +619,11 @@ Data: 1053,_aegi_folddata,e0;1;137
 Data: 1054,_aegi_folddata,e1;1;137
 Data: 1058,_aegi_folddata,e0;1;139
 Data: 1059,_aegi_folddata,e1;1;139
-Data: 1060,_aegi_folddata,e0;1;140
-Data: 1061,_aegi_folddata,e1;1;140
 Data: 1062,_aegi_folddata,e0;1;141
 Data: 1063,_aegi_folddata,e1;1;141
+Data: 1064,_aegi_folddata,e0;0;140
+Data: 1065,_aegi_folddata,e1;0;140
+Data: 1066,_aegi_folddata,e0;1;140
+Data: 1067,_aegi_folddata,e1;1;140
+Data: 1070,_aegi_folddata,e0;1;142
+Data: 1071,_aegi_folddata,e1;1;142
