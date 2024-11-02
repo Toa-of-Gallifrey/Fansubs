@@ -239,7 +239,7 @@ hana fubuki はなふぶき (Petal Blizzard) - Petal Blizzard
 hanabira no mai はなびらのまい (Petal Dance) - # TBD #
 hane yasume はねやすめ (Roost) - Roost [subject to change]
 haneru はねる (Splash) - Flop
-happa kattaa はっぱカッター (Razor Leaf) - Razor Leaf
+happa kattaa はっぱカッター (Razor Leaf) - Leaf Cutter
 happii taimu ハッピータイム (Happy Hour) - # TBD #
 haradaiko はらだいこ (Belly Drum) - # TBD #
 harouin ハロウィン (Trick-or-Treat) - Halloween
@@ -1600,7 +1600,7 @@ POKÉMON NAMES
 0347 アノプス Anopth - むかしエビポケモン 
 0348 アーマルド Armaldo - かっちゅうポケモン Plate Pokémon
 0349 ヒンバス Hinbass - さかなポケモン Fish Pokémon
-0350 ミロカロス Milokaross - いつくしみポケモン Tender Pokémon
+0350 ミロカロス Milokallos - いつくしみポケモン Affection Pokémon
 0351 ポワルン Powarun - てんきポケモン Weather Pokémon
 0352 カクレオン Kakuleon - いろへんげポケモン Color Swap Pokémon
 0353 カゲボウズ Kagebouzu - にんぎょうポケモン 
@@ -2192,7 +2192,7 @@ POKÉMON NAMES
 0939 ハラバリー Harabari - でんきがえるポケモン Electric Frog Pokémon
 0940 カイデン Kaiden - うみつばめポケモン Storm Petrel Pokémon
 0941 タイカイデン Taikaiden - ぐんかんどりポケモン Frigatebird Pokémon
-0942 オラチフ Oratiff - わかぞうポケモン 
+0942 オラチフ Orachiff - わかぞうポケモン 
 0943 マフィティフ 
 0944 シルシュルー 
 0945 タギングル 
