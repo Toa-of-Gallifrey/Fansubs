@@ -67,23 +67,23 @@ Dialogue: 10,0:02:03.77,0:02:06.69,Main,Friede,0,0,0,,Now then, who should we as
 Dialogue: 10,0:02:06.69,0:02:08.32,Main,Friede,0,0,0,,Huh? What’s that?
 Dialogue: 10,0:02:12.82,0:02:14.61,Main,Friede,0,0,0,,That Pokémon!
 Dialogue: 10,0:02:15.41,0:02:17.03,Main,Friede,0,0,0,,Is that a Yabasocha?!
-Dialogue: 10,0:02:17.70,0:02:19.91,Main,Zeiyu,0,0,0,,I don’t answer to outsiders.
+Dialogue: 10,0:02:17.70,0:02:19.91,Main,Seille,0,0,0,,I don’t answer to outsiders.
 Dialogue: 10,0:02:19.91,0:02:23.67,Main,Friede,0,0,0,,Oh... Well, I mean, \N I {\i1}am{\i0} an outsider...
 Dialogue: 10,0:02:23.67,0:02:25.21,Main,Friede,0,0,0,,But I’m not shady or anything.{054 16:17}
 Dialogue: 10,0:02:25.21,0:02:29.42,Main,Friede,0,0,0,,I’m just interested in taking a look at \N your Yabasocha, as a Pokémon Professor.
 Dialogue: 10,0:02:29.42,0:02:31.63,Main,Friede,0,0,0,,So, could I, please? \N Just for a sec?
-Dialogue: 10,0:02:32.22,0:02:33.38,Main,Zeiyu,0,0,0,,Hmm...
-Dialogue: 10,0:02:33.38,0:02:35.47,Main,Zeiyu,0,0,0,,In that case... \N If you can beat me,
-Dialogue: 10,0:02:35.47,0:02:37.80,Main,Zeiyu,0,0,0,,I’ll consider allowing you \N a quick look.
+Dialogue: 10,0:02:32.22,0:02:33.38,Main,Seille,0,0,0,,Hmm...
+Dialogue: 10,0:02:33.38,0:02:35.47,Main,Seille,0,0,0,,In that case... \N If you can beat me,
+Dialogue: 10,0:02:35.47,0:02:37.80,Main,Seille,0,0,0,,I’ll consider allowing you \N a quick look.
 Dialogue: 10,0:02:38.18,0:02:39.64,Main,Friede,0,0,0,,Beat you at what?
-Dialogue: 10,0:02:40.35,0:02:41.43,Main,Zeiyu,0,0,0,,Hmm, let’s see...
-Dialogue: 10,0:02:41.43,0:02:44.56,Main,Zeiyu,0,0,0,,First... How about \N we face off at that stall?
+Dialogue: 10,0:02:40.35,0:02:41.43,Main,Seille,0,0,0,,Hmm, let’s see...
+Dialogue: 10,0:02:41.43,0:02:44.56,Main,Seille,0,0,0,,First... How about \N we face off at that stall?
 Dialogue: 10,0:02:45.56,0:02:47.23,Main,Friede,0,0,0,,I see.
 Dialogue: 10,0:02:47.23,0:02:49.86,Main,Friede,0,0,0,,I’m happy to \N take you up on the offer...
 Dialogue: 10,0:02:49.86,0:02:51.82,Main,Friede,0,0,0,,...but we’re not exactly \N pushovers, y’know.
-Dialogue: 10,0:02:53.57,0:02:56.36,Main,Zeiyu,0,0,0,,We’ll just see \N if you’re any match for me.
+Dialogue: 10,0:02:53.57,0:02:56.36,Main,Seille,0,0,0,,We’ll just see \N if you’re any match for me.
 Dialogue: 10,0:02:59.37,0:03:00.33,Main,Friede,0,0,0,,Now...
-Dialogue: 10,0:03:00.33,0:03:01.70,Main,Friede and Zeiyu,0,0,0,,Let the game begin!
+Dialogue: 10,0:03:00.33,0:03:01.70,Main,Friede and Seille,0,0,0,,Let the game begin!
 Dialogue: 10,0:03:04.08,0:03:07.63,Main,Dot,0,0,0,,He actually just wants to play around \N at the festival, doesn’t he?
 Dialogue: 10,0:03:07.63,0:03:08.96,Main,Murdock,0,0,0,,Maybe, yeah.
 Dialogue: 10,0:03:08.96,0:03:11.46,Main,Murdock,0,0,0,,Well, festivals don’t happen every day.
@@ -189,13 +189,13 @@ Dialogue: 10,0:09:41.35,0:09:42.44,Main,Liko,0,0,0,,Then...
 Dialogue: 10,0:09:42.44,0:09:44.98,Main,Dot,0,0,0,,Does that mean...?
 Dialogue: 10,0:09:47.11,0:09:49.65,Main,Roy,0,0,0,,Yes. We’ve swapped places.
 Comment: 10,0:09:52.03,0:09:54.07,Main,Friede,0,0,0,,Heh heh.
-Dialogue: 10,0:09:54.74,0:09:57.91,Main,Zeiyu,0,0,0,,Th-This isn’t fair...{kuyashii}
-Dialogue: 10,0:09:57.91,0:10:00.12,Main,Zeiyu,0,0,0,,There’s no way you should’ve \N been able to beat me!
+Dialogue: 10,0:09:54.74,0:09:57.91,Main,Seille,0,0,0,,Th-This isn’t fair...{kuyashii}
+Dialogue: 10,0:09:57.91,0:10:00.12,Main,Seille,0,0,0,,There’s no way you should’ve \N been able to beat me!
 Dialogue: 10,0:10:00.12,0:10:03.08,Main,Friede,0,0,0,,Say what you will, \N the results speak for themselves.
 Dialogue: 10,0:10:03.08,0:10:04.46,Main,Friede,0,0,0,,Now, about Yabasocha—
-Dialogue: 10,0:10:04.46,0:10:05.25,Main,Zeiyu,0,0,0,,In which case...!
-Dialogue: 10,0:10:05.25,0:10:07.29,Main,Zeiyu,0,0,0,,Face me in that one next!
-Dialogue: 10,0:10:08.25,0:10:10.05,Main,Friede,0,0,0,,Shape poking, eh?{Katanuki}
+Dialogue: 10,0:10:04.46,0:10:05.25,Main,Seille,0,0,0,,In which case...!
+Dialogue: 10,0:10:05.25,0:10:07.29,Main,Seille,0,0,0,,Face me in that one next!
+Dialogue: 10,0:10:08.25,0:10:10.05,Main,Friede,0,0,0,,Candy cutting, eh?{Katanuki}
 Dialogue: 10,0:10:12.80,0:10:14.26,Main,Dot,0,0,0,,I see...
 Dialogue: 10,0:10:14.89,0:10:19.52,Main,Dot,0,0,0,,So that weird device wound up \N swapping Roy and Achigator around.
 Dialogue: 10,0:10:19.52,0:10:22.23,Main,Liko,0,0,0,,So bizarre things like that \N can actually happen, huh?
@@ -238,16 +238,16 @@ Dialogue: 10,0:12:07.75,0:12:08.00,Main,Girl,0,0,0,,Huh?
 Dialogue: 10,0:12:08.00,0:12:09.46,Main,Dot,0,0,0,,Thanks for the food, Murdock!
 Dialogue: 10,0:12:09.96,0:12:11.54,Main,Dot,0,0,0,,See you later!
 Dialogue: 10,0:12:15.71,0:12:18.09,Main,Friede,0,0,0,,Perfection, no?
-Dialogue: 10,0:12:20.22,0:12:21.97,Main,Zeiyu,0,0,0,,Grrr...
-Dialogue: 10,0:12:21.97,0:12:24.77,Main,Zeiyu,0,0,0,,You just got lucky, that’s all!
-Dialogue: 10,0:12:26.31,0:12:27.35,Main,Zeiyu,0,0,0,,Now I’m {\i1}really{\i0} mad!
-Dialogue: 10,0:12:27.77,0:12:30.23,Main,Zeiyu,0,0,0,,Next, let’s settle this \N with a Pokémon battle!
+Dialogue: 10,0:12:20.22,0:12:21.97,Main,Seille,0,0,0,,Grrr...
+Dialogue: 10,0:12:21.97,0:12:24.77,Main,Seille,0,0,0,,You just got lucky, that’s all!
+Dialogue: 10,0:12:26.31,0:12:27.35,Main,Seille,0,0,0,,Now I’m {\i1}really{\i0} mad!
+Dialogue: 10,0:12:27.77,0:12:30.23,Main,Seille,0,0,0,,Next, let’s settle this \N with a Pokémon battle!
 Dialogue: 10,0:12:31.36,0:12:32.31,Main,Friede,0,0,0,,You sure about that?
-Dialogue: 10,0:12:32.98,0:12:37.19,Main,Zeiyu,0,0,0,,I’m gonna crush you and get back to \N enjoying the festival in high spirits!
+Dialogue: 10,0:12:32.98,0:12:37.19,Main,Seille,0,0,0,,I’m gonna crush you and get back to \N enjoying the festival in high spirits!
 Dialogue: 10,0:12:37.19,0:12:38.32,Main,Friede,0,0,0,,Sounds good to me.
 Dialogue: 10,0:12:38.32,0:12:41.41,Main,Friede,0,0,0,,A Pokémon battle’s the best way \N to know a Pokémon, after all.
-Dialogue: 10,0:12:42.32,0:12:45.08,Main,Zeiyu,0,0,0,,Get ready to eat dirt!
-Dialogue: 10,0:12:45.08,0:12:46.37,Main,Zeiyu,0,0,0,,Yabasocha!
+Dialogue: 10,0:12:42.32,0:12:45.08,Main,Seille,0,0,0,,Get ready to eat dirt!
+Dialogue: 10,0:12:45.08,0:12:46.37,Main,Seille,0,0,0,,Yabasocha!
 Dialogue: 10,0:12:47.75,0:12:49.87,Main,Friede,0,0,0,,Let’s go, Cap!
 Dialogue: 10,0:12:51.79,0:12:52.79,Main,Dot,0,0,0,,Uh...
 Dialogue: 10,0:12:52.79,0:12:56.05,Main,Dot,0,0,0,,Molly, what’s this line for?
@@ -272,15 +272,15 @@ Dialogue: 10,0:13:44.93,0:13:46.01,Main,Achigator,0,0,0,,Geta!
 Dialogue: 10,0:13:46.01,0:13:49.81,Main,Shizune,0,0,0,,Y-Yes, I should be able to \N wear my geta just fine now...
 Dialogue: 10,0:13:49.81,0:13:51.77,Main,Dot,0,0,0,,Well, nobody figured it out,
 Dialogue: 10,0:13:51.77,0:13:54.48,Main,Dot,0,0,0,,but things did get pretty weird...
-Dialogue: 10,0:13:57.98,0:13:59.90,Main,Zeiyu,0,0,0,,Whisk-Whisk Cannon!{shakashaka seems to be the sound of a matcha whisk}
+Dialogue: 10,0:13:57.98,0:13:59.90,Main,Seille,0,0,0,,Whisk-Whisk Cannon!{shakashaka seems to be the sound of a matcha whisk}
 Dialogue: 10,0:14:05.82,0:14:06.70,Main,Friede,0,0,0,,Cap!
-Dialogue: 10,0:14:06.70,0:14:07.83,Main,Zeiyu,0,0,0,,Okay!
-Dialogue: 10,0:14:08.16,0:14:11.08,Main,Zeiyu,0,0,0,,That move restored \N Yabasocha’s stamina!
-Dialogue: 10,0:14:11.08,0:14:13.33,Main,Zeiyu,0,0,0,,Now, the tables have turned!
+Dialogue: 10,0:14:06.70,0:14:07.83,Main,Seille,0,0,0,,Okay!
+Dialogue: 10,0:14:08.16,0:14:11.08,Main,Seille,0,0,0,,That move restored \N Yabasocha’s stamina!
+Dialogue: 10,0:14:11.08,0:14:13.33,Main,Seille,0,0,0,,Now, the tables have turned!
 Comment: 10,0:14:20.34,0:14:20.96,Main,Friede,0,0,0,,Heh.
-Dialogue: 10,0:14:22.80,0:14:25.68,Main,Zeiyu,0,0,0,,Finish him! \N One more Whisk-Whisk Cannon!
+Dialogue: 10,0:14:22.80,0:14:25.68,Main,Seille,0,0,0,,Finish him! \N One more Whisk-Whisk Cannon!
 Dialogue: 10,0:14:31.73,0:14:33.85,Main,Friede,0,0,0,,Go! Thunder Punch!
-Dialogue: 10,0:14:42.99,0:14:44.61,Main,Zeiyu,0,0,0,,Yabasocha!
+Dialogue: 10,0:14:42.99,0:14:44.61,Main,Seille,0,0,0,,Yabasocha!
 Dialogue: 10,0:14:49.03,0:14:51.12,Main,Dot,0,0,0,,Which way to the old guy?
 Dialogue: 10,0:14:51.54,0:14:53.87,Main,Roy,0,0,0,,Umm...
 Dialogue: 10,0:14:54.54,0:14:55.37,Main,Achigator,0,0,0,,Atchi!
@@ -368,25 +368,25 @@ Dialogue: 10,0:20:03.68,0:20:05.10,Main,Roy,0,0,0,,That...
 Dialogue: 10,0:20:05.10,0:20:07.19,Main,Liko,0,0,0,,...might have broken it...
 Dialogue: 10,0:20:07.19,0:20:08.69,Main,Man,0,0,0,,Seriously?!
 Dialogue: 10,0:20:11.65,0:20:12.19,Main,Dot,0,0,0,,Huh?
-Dialogue: 10,0:20:13.19,0:20:18.45,Main,Dot,0,0,0,,It says... “Syn... ch... \N romachine” on it...?
+Dialogue: 10,0:20:13.19,0:20:18.45,Main,Dot,0,0,0,,It says... “Syn... ch... romachine” on it...?
 Dialogue: 10,0:20:18.45,0:20:19.95,Main,Man,0,0,0,,Romachine?!
 Dialogue: 10,0:20:19.95,0:20:22.45,Main,Man,0,0,0,,Is that the owner of this thing?!
 Dialogue: 10,0:20:22.45,0:20:26.04,Main,Man,0,0,0,,Ahh! I’m sorry! \N I broke it, Romachine!
 Dialogue: 10,0:20:26.04,0:20:29.54,Main,Man,0,0,0,,Forgive me, Romachine!
 Dialogue: 10,0:20:32.00,0:20:34.84,Main,Friede,0,0,0,,Looks like you all \N enjoyed the festival.
 Dialogue: 10,0:20:34.84,0:20:38.97,Main,Roy,0,0,0,,Yeah! We went through a lot, \N but it was a ton of fun.
-Dialogue: 10,0:20:38.97,0:20:40.22,Main,Zeiyu,0,0,0,,Hey, you!
-Dialogue: 10,0:20:40.59,0:20:42.72,Main,Zeiyu,0,0,0,,Next, face me in ring-toss!
+Dialogue: 10,0:20:38.97,0:20:40.22,Main,Seille,0,0,0,,Hey, you!
+Dialogue: 10,0:20:40.59,0:20:42.72,Main,Seille,0,0,0,,Next, face me in ring-toss!
 Dialogue: 10,0:20:42.72,0:20:45.64,Main,Friede,0,0,0,,As much as I’d love to \N accept that challenge,
 Dialogue: 10,0:20:45.64,0:20:49.10,Main,Friede,0,0,0,,we’ve all got to go \N look for Ms. Briar.{Briar-sensei}
-Dialogue: 10,0:20:49.56,0:20:52.11,Main,Zeiyu,0,0,0,,Ms. Briar’s my homeroom teacher.{Briar-sensei}
+Dialogue: 10,0:20:49.56,0:20:52.11,Main,Seille,0,0,0,,Ms. Briar’s my homeroom teacher.{Briar-sensei}
 Dialogue: 10,0:20:52.11,0:20:53.36,Main,Everyone,0,0,0,,Huh?!
-Dialogue: 10,0:20:53.36,0:20:55.94,Main,Zeiyu,0,0,0,,She’s over at \N the Shining Pond right now.{Terasu-ike, Terastallizationinating pond}
+Dialogue: 10,0:20:53.36,0:20:55.94,Main,Seille,0,0,0,,She’s over at \N the Shining Pond right now.{Terasu-ike, Terastallizationinating pond}
 Dialogue: 10,0:20:55.94,0:20:58.65,Main,Friede,0,0,0,,Then we can meet her \N if we head over there?!
-Dialogue: 10,0:20:58.65,0:20:59.61,Main,Zeiyu,0,0,0,,Correct.
-Dialogue: 10,0:20:59.61,0:21:01.91,Main,Zeiyu,0,0,0,,But oh no, how sad!
-Dialogue: 10,0:21:01.91,0:21:04.58,Main,Zeiyu,0,0,0,,You need permission \N to go to the Shining Pond!
-Dialogue: 10,0:21:04.58,0:21:08.58,Main,Zeiyu,0,0,0,,Naturally, the caretaker won’t give permission \N to any random outsider who—
+Dialogue: 10,0:20:58.65,0:20:59.61,Main,Seille,0,0,0,,Correct.
+Dialogue: 10,0:20:59.61,0:21:01.91,Main,Seille,0,0,0,,But oh no, how sad!
+Dialogue: 10,0:21:01.91,0:21:04.58,Main,Seille,0,0,0,,You need permission \N to go to the Shining Pond!
+Dialogue: 10,0:21:04.58,0:21:08.58,Main,Seille,0,0,0,,Naturally, the caretaker won’t give permission \N to any random outsider who—
 Dialogue: 10,0:21:08.58,0:21:10.87,Main,Caretaker,0,0,0,,You may go!
 Dialogue: 10,0:21:10.87,0:21:12.13,Main,Everyone,0,0,0,,Huh?
 Dialogue: 10,0:21:12.63,0:21:14.00,Main,Liko,0,0,0,,Are you sure?
@@ -395,10 +395,10 @@ Dialogue: 10,0:21:15.00,0:21:18.01,Main,Caretaker,0,0,0,,I heard how helpful \N 
 Dialogue: 10,0:21:18.01,0:21:19.01,Main,Friede,0,0,0,,Your daughter?
 Dialogue: 10,0:21:20.63,0:21:22.47,Main,Roy,0,0,0,,Hey, it’s you...
 Dialogue: 10,0:21:23.72,0:21:25.51,Main,Shizune,0,0,0,,Thanks for earlier.
-Dialogue: 10,0:21:25.51,0:21:27.43,Main,Zeiyu,0,0,0,,Shizune?!
+Dialogue: 10,0:21:25.51,0:21:27.43,Main,Seille,0,0,0,,Shizune?!
 Dialogue: 10,0:21:27.43,0:21:30.44,Main,Friede,0,0,0,,Guess I missed something... \N But we’re good to go, then?
 Dialogue: 10,0:21:30.44,0:21:31.44,Main,Caretaker,0,0,0,,Yes!
-Dialogue: 10,0:21:31.44,0:21:34.94,Main,Zeiyu,0,0,0,,Th-This isn’t fair! Argh!{kuyashii}
+Dialogue: 10,0:21:31.44,0:21:34.94,Main,Seille,0,0,0,,Th-This isn’t fair! Argh!{kuyashii}
 Dialogue: 10,0:21:35.52,0:21:37.40,Main,Friede,0,0,0,,Well then, new plan...
 Dialogue: 10,0:21:37.40,0:21:39.40,Main,Friede,0,0,0,,Let’s go! The Shining Pond awaits!
 Dialogue: 10,0:21:39.40,0:21:42.07,Main,Everyone,0,0,0,,{\i1}Yeah!{\i0}
