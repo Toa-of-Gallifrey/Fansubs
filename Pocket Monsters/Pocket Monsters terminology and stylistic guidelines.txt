@@ -1308,7 +1308,7 @@ POKÉMON NAMES
 0055 ゴルダック Golduck - あひるポケモン Duck Pokémon
 0056 マンキー Mankey - ぶたざるポケモン Pig Monkey Pokémon
 0057 オコリザル Okorizaru - ぶたざるポケモン Pig Monkey Pokémon
-0058 ガーディ Guardie - こいぬポケモン Puppy Pokémon --- Hisuian Form - みはりポケモン Scout Pokémon 
+0058 ガーディ Guardie - こいぬポケモン Puppy Pokémon --- Hisuian Form - みはりポケモン Scout Pokémon
 0059 ウインディ Windie - でんせつポケモン Legend Pokémon
 0060 ニョロモ Nyoromo - おたまポケモン Tadpole Pokémon
 0061 ニョロゾ Nyorozo - おたまポケモン Tadpole Pokémon
@@ -2150,7 +2150,7 @@ POKÉMON NAMES
 0897 レイスポス 
 0898 バドレックス 
 0899 アヤシシ 
-0900 バサギリ Basagiri - まさかりポケモン 
+0900 バサギリ Basagiri - まさかりポケモン Battle-Axe Pokémon
 0901 ガチグマ 
 0902 イダイトウ 
 0903 オオニューラ 
