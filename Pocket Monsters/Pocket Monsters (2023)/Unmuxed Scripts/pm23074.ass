@@ -40,7 +40,7 @@ Dialogue: 10,0:00:40.65,0:00:43.77,Main,Ikirinko,0,0,0,,Arrived! Kitakami! Arriv
 Dialogue: 10,0:00:45.11,0:00:46.36,Main,Liko,0,0,0,,Grandma!
 Dialogue: 10,0:00:46.36,0:00:48.78,Main,Diana,0,0,0,,Hey! Sorry to barge in.
 Dialogue: 10,0:00:48.78,0:00:50.41,Main,Roy and Dot,0,0,0,,Long time no see!
-Dialogue: 10,0:00:53.07,0:00:56.33,Main,Diana,0,0,0,,Ooh, I see she’s evolved \N into a Nyarote!
+Dialogue: 10,0:00:53.07,0:00:56.33,Main,Diana,0,0,0,,Ooh! I see she’s evolved \N into a Nyarote!
 Dialogue: 10,0:00:56.91,0:00:58.96,Main,Roy,0,0,0,,My Hogator evolved, too!
 Dialogue: 10,0:00:59.54,0:01:01.92,Main,Diana,0,0,0,,So he became an Achigator!
 Dialogue: 10,0:01:01.92,0:01:03.75,Main,Diana,0,0,0,,And Kuwassu became a Welcamo!
@@ -63,7 +63,7 @@ Comment: 0,0:01:45.21,0:01:45.21,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:15.30,0:03:15.30,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:28.31,0:03:30.77,Main,Orio,0,0,0,,Challenging Liko to a battle \N the second she got here...
 Dialogue: 10,0:03:30.77,0:03:32.78,Main,Orio,0,0,0,,Ms. Diana{Honorifics note: Diana-san} hasn’t changed a bit, eh?
-Dialogue: 10,0:03:32.78,0:03:35.99,Main,Roy,0,0,0,,Aw, man...\N  I wanna battle her, too.
+Dialogue: 10,0:03:32.78,0:03:35.99,Main,Roy,0,0,0,,Aw, man...\N  I wanna battle her, too!
 Dialogue: 10,0:03:35.99,0:03:38.03,Main,Dot,0,0,0,,Nyarote versus Windie...
 Dialogue: 10,0:03:38.03,0:03:40.99,Main,Dot,0,0,0,,The type match-up puts Liko \N at an overwhelming disadvantage...
 Dialogue: 10,0:03:41.37,0:03:44.00,Main,Friede,0,0,0,,We’ll just have to wait and see \N how she handles it.
@@ -82,10 +82,10 @@ Dialogue: 10,0:04:21.53,0:04:22.87,Main,Liko,0,0,0,,Nyarote! Take it head-on!
 Dialogue: 10,0:04:30.67,0:04:31.67,Main,Liko,0,0,0,,Good!
 Dialogue: 10,0:04:33.17,0:04:33.96,Main,Roy,0,0,0,,Ooh!
 Dialogue: 10,0:04:33.96,0:04:39.09,Main,Friede,0,0,0,,Not bad. She risked the hit to stop Windie \N and make sure Magical Leaf would connect!
-Dialogue: 10,0:04:39.09,0:04:41.80,Main,Diana,0,0,0,,Your offense and defense are both impeccable!
-Dialogue: 10,0:04:41.80,0:04:43.55,Main,Diana,0,0,0,,Now, time to {\i1}really{\i0} get things going!{alt:Now, let’s *really* get cooking!}{I like the alt, but decided to leave it commented in case it comes off as a gag on either the more modern "let me cook"... or "I am going to cook you with Flamethrower", neither of which were really my intent. alas -ed}
-Dialogue: 10,0:04:43.55,0:04:45.14,Main,Diana,0,0,0,,Windie, use Flamethrower!
-Dialogue: 10,0:04:47.14,0:04:49.02,Main,Liko,0,0,0,,Nyarote, use Acrobatics!
+Dialogue: 10,0:04:39.09,0:04:41.80,Main,Diana,0,0,0,,Your offense and defense \N are both impeccable!
+Dialogue: 10,0:04:41.80,0:04:43.55,Main,Diana,0,0,0,,Now, time to {\i1}really{\i0} get it going!
+Dialogue: 10,0:04:43.55,0:04:45.14,Main,Diana,0,0,0,,Windie! Flamethrower!
+Dialogue: 10,0:04:47.14,0:04:49.02,Main,Liko,0,0,0,,Nyarote! Acrobatics!
 Dialogue: 10,0:04:53.48,0:04:55.78,Main,Diana,0,0,0,,Nice and nimble, \N but you won’t get away!
 Dialogue: 10,0:04:55.78,0:04:56.86,Main,Diana,0,0,0,,Flamethrower!
 Dialogue: 10,0:04:57.86,0:04:58.95,Main,Liko,0,0,0,,Acrobatics!
@@ -96,7 +96,7 @@ Dialogue: 10,0:05:10.54,0:05:12.08,Main,Molly,0,0,0,,Slow and steady...
 Dialogue: 10,0:05:12.08,0:05:13.29,Main,Molly,0,0,0,,That’s Liko’s style.
 Dialogue: 10,0:05:13.29,0:05:14.00,Main,Murdock,0,0,0,,Yeah.
 Dialogue: 10,0:05:15.17,0:05:16.88,Main,Liko,0,0,0,,Nyarote, keep it up!
-Dialogue: 10,0:05:16.88,0:05:18.30,Main,Liko,0,0,0,,We’ve got no need to rush!
+Dialogue: 10,0:05:16.88,0:05:18.30,Main,Liko,0,0,0,,No need to rush!
 Dialogue: 10,0:05:19.63,0:05:21.26,Main,Diana,0,0,0,,Very good!
 Dialogue: 10,0:05:21.26,0:05:24.89,Main,Diana,0,0,0,,Nothing like when you were just \N blindly attacking with Nyahoja.
 Dialogue: 10,0:05:25.81,0:05:26.89,Main,Diana,0,0,0,,Windie!
@@ -108,9 +108,9 @@ Dialogue: 10,0:05:38.82,0:05:41.57,Main,Diana,0,0,0,,Set your soul ablaze, Windi
 Dialogue: 10,0:05:41.95,0:05:44.87,Main,Diana,0,0,0,,Flare Drive!
 Dialogue: 10,0:05:47.20,0:05:49.20,Main,Liko,0,0,0,,Nyarote! Magical Leaf!
 Dialogue: 10,0:05:52.12,0:05:52.79,Main,Liko,0,0,0,,Dodge it!
-Dialogue: 10,0:05:58.00,0:05:59.96,Main,Liko,0,0,0,,Nyarote, are you okay?!
+Dialogue: 10,0:05:58.00,0:05:59.96,Main,Liko,0,0,0,,Nyarote! Are you okay?!
 Dialogue: 10,0:06:02.88,0:06:05.43,Main,Diana,0,0,0,,Ooh, you actually managed \N to endure that one.
-Dialogue: 10,0:06:07.31,0:06:09.18,Main,Roy,0,0,0,,What... {\i1}was{\i0} that move?!
+Dialogue: 10,0:06:07.31,0:06:09.18,Main,Roy,0,0,0,,What {\i1}was{\i0} that move?!
 Dialogue: 10,0:06:09.18,0:06:12.98,Main,Friede,0,0,0,,A Fire move of the highest caliber... \N Flare Drive.
 Dialogue: 10,0:06:12.98,0:06:15.10,Main,Friede,0,0,0,,Ms. Diana{Honorifics note: Diana-san}’s relentless.
 Dialogue: 10,0:06:16.94,0:06:20.32,Main,Liko,0,0,0,,So this is what Grandma’s \N really capable of...
@@ -126,7 +126,7 @@ Dialogue: 10,0:06:47.76,0:06:50.47,Main,Dot,0,0,0,,She reserved Surprise Attack 
 Dialogue: 10,0:06:50.47,0:06:52.14,Main,Orio,0,0,0,,Think she’s got this in the bag?
 Dialogue: 10,0:06:52.14,0:06:53.18,Main,Friede,0,0,0,,No...
 Dialogue: 10,0:06:54.56,0:06:56.31,Main,Diana,0,0,0,,I’m very pleased, Liko.
-Dialogue: 10,0:06:56.65,0:06:59.57,Main,Diana,0,0,0,,I had hoped you’d make it this far.
+Dialogue: 10,0:06:56.65,0:06:59.48,Main,Diana,0,0,0,,I had hoped you’d make it this far.
 Dialogue: 10,0:07:04.15,0:07:05.74,Main,Roy,0,0,0,,Windie...
 Dialogue: 10,0:07:05.74,0:07:07.53,Main,Dot,0,0,0,,...powered up?
 Dialogue: 10,0:07:07.99,0:07:12.62,Main,Diana,0,0,0,,Windie has an ability that raises \N its attack when hit by an Evil-type move.{Dread Windie}
@@ -139,24 +139,23 @@ Dialogue: 10,0:07:27.72,0:07:28.68,Main,Liko,0,0,0,,But...
 Dialogue: 10,0:07:29.35,0:07:30.55,Main,Liko,0,0,0,,We can get stronger, too!
 Dialogue: 10,0:07:31.18,0:07:32.22,Main,Liko,0,0,0,,Nyarote...
 Dialogue: 10,0:07:32.22,0:07:34.35,Main,Liko,0,0,0,,Shine in full bloom!
-Dialogue: 10,0:07:44.44,0:07:47.74,Main,Diana,0,0,0,,I accept the challenge \N {the two of }you pose by Terastallizing!{I'll take up the challenge of your(plural) Terastal.}
+Dialogue: 10,0:07:44.44,0:07:47.74,Main,Diana,0,0,0,,I’m eager to face your Terastal!{I'll take up the challenge of your(plural) Terastal.}
 Dialogue: 10,0:07:47.74,0:07:50.57,Main,Diana,0,0,0,,Windie! \N Time for one last Flare Drive!
 Dialogue: 10,0:07:55.87,0:08:00.08,Main,Liko,0,0,0,,If we just fire off Magical Leaf, \N it’ll only burn up like last time...
-Dialogue: 10,0:08:00.08,0:08:03.00,Main,Liko,0,0,0,,Somewhere... \N There {\i1}has{\i0} to be opening somewhere!
+Dialogue: 10,0:08:00.08,0:08:03.00,Main,Liko,0,0,0,,Somewhere... \N There {\i1}has{\i0} to be an opening somewhere!
 Dialogue: 10,0:08:04.21,0:08:06.88,Main,Liko,0,0,0,,Nyarote! Use Magical Leaf \N on Windie’s paws!
 Dialogue: 10,0:08:12.14,0:08:14.97,Main,Liko,0,0,0,,Give me a big Magical Leaf!
 Dialogue: 10,0:08:28.82,0:08:30.28,Main,Friede,0,0,0,,That’s that.
 Dialogue: 10,0:08:30.28,0:08:31.82,Main,Murdock,0,0,0,,All right!
 Dialogue: 10,0:08:33.78,0:08:37.00,Main,Liko,0,0,0,,We won... We beat Grandma!
 Dialogue: 10,0:08:37.58,0:08:39.00,Main,Liko,0,0,0,,Nyarote!
-Dialogue: 10,0:08:40.54,0:08:41.63,Main,Liko,0,0,0,,Nyarote...
-Dialogue: 10,0:08:41.63,0:08:44.46,Main,Liko,0,0,0,,You are absolutely, \N {\i1}positively{\i0} the best!
+Dialogue: 10,0:08:40.54,0:08:44.46,Main,Liko,0,0,0,,Nyarote... You are absolutely, \N {\i1}positively{\i0} the best!
 Dialogue: 10,0:08:45.96,0:08:47.63,Main,Diana,0,0,0,,You fought well, Windie.
 Dialogue: 10,0:08:48.13,0:08:49.84,Main,Diana,0,0,0,,Take a nice, long rest.
 Dialogue: 10,0:08:55.06,0:08:58.52,Main,Diana,0,0,0,,The way you battled to make up for \N the type disadvantage...
 Dialogue: 10,0:08:58.52,0:09:00.27,Main,Diana,0,0,0,,Your timing on the Terastal...
 Dialogue: 10,0:09:00.64,0:09:03.94,Main,Diana,0,0,0,,And above all, how you were \N in perfect sync with Nyarote.
-Dialogue: 10,0:09:04.36,0:09:06.82,Main,Diana,0,0,0,,You were marvelous, Liko.
+Dialogue: 10,0:09:04.36,0:09:06.82,Main,Diana,0,0,0,,You were marvelous, Liko!
 Dialogue: 10,0:09:06.82,0:09:10.15,Main,Diana,0,0,0,,You got so much stronger \N in such a short time!
 Dialogue: 10,0:09:10.15,0:09:13.70,Main,Liko,0,0,0,,I went traveling with Roy and Dot \N as part of a Terastal Course.
 Dialogue: 10,0:09:14.20,0:09:17.33,Main,Liko,0,0,0,,Having them by my side \N helped push me to do my best.
@@ -170,7 +169,7 @@ Dialogue: 10,0:09:39.10,0:09:41.64,Main,Diana,0,0,0,,First, I want you to look a
 Dialogue: 10,0:09:42.23,0:09:44.31,Main,Liko,0,0,0,,Grandma? You’re so young!
 Dialogue: 10,0:09:44.31,0:09:46.23,Main,Roy,0,0,0,,Who’s the guy next to you?
 Dialogue: 10,0:09:46.23,0:09:48.98,Main,Diana,0,0,0,,An old friend of mine \N by the name of Hamber.
-Dialogue: 10,0:09:48.98,0:09:51.86,Main,Diana,0,0,0,,A long time ago, \N we’d go adventuring together on occasion.
+Dialogue: 10,0:09:48.98,0:09:51.86,Main,Diana,0,0,0,,Back then, we’d go adventuring \N together from time to time.
 Dialogue: 10,0:09:51.86,0:09:53.16,Main,Roy,0,0,0,,Wow...
 Dialogue: 10,0:09:53.16,0:09:55.57,Main,Roy,0,0,0,,His Pokémon looks strong, too!
 Dialogue: 10,0:09:56.99,0:10:00.08,Main,Diana,0,0,0,,One year ago, when we met up \N for the first time in ages,
@@ -184,7 +183,7 @@ Dialogue: 10,0:10:18.47,0:10:21.52,Main,Friede,0,0,0,,and we set out \N to deliv
 Dialogue: 10,0:10:22.35,0:10:25.94,Main,Liko,0,0,0,,And that’s how my adventures began.
 Dialogue: 10,0:10:25.94,0:10:28.36,Main,Diana,0,0,0,,I’m still getting to the important part.
 Dialogue: 10,0:10:28.36,0:10:30.82,Main,Diana,0,0,0,,When the old castle \N I lived in was attacked,
-Dialogue: 10,0:10:30.82,0:10:33.95,Main,Diana,0,0,0,,Hamber and his bunch \N called themselves the Explorers!
+Dialogue: 10,0:10:30.82,0:10:33.95,Main,Diana,0,0,0,,Hamber and the others \N called themselves the Explorers!
 Dialogue: 10,0:10:33.95,0:10:37.03,Main,Friede,0,0,0,,So he’s with the Explorers, too...
 Dialogue: 10,0:10:38.45,0:10:44.33,Main,Diana,0,0,0,,It was a real shock, hearing the name \N of the Explorers after so long...
 Dialogue: 10,0:10:44.92,0:10:46.88,Main,Liko,0,0,0,,A shock...?
@@ -215,10 +214,10 @@ Dialogue: 10,0:12:07.50,0:12:12.67,Main,Diana,0,0,0,,I returned to the towns tha
 Dialogue: 10,0:12:12.67,0:12:16.05,Main,Diana,0,0,0,,and visited folks who’d \N lived there for a long time.
 Dialogue: 10,0:12:16.05,0:12:20.93,Main,Diana,0,0,0,,{\q2}I had them fill me in on old legends, \N and show me diaries kept by people living at that time.
 Dialogue: 10,0:12:22.14,0:12:24.43,Main,Diana,0,0,0,,And finally, I found them...
-Dialogue: 10,0:12:24.43,0:12:29.02,Main,Diana,0,0,0,,Records left behind by people \N who met the adventurer, Lucius,.
-Dialogue: 10,0:12:29.02,0:12:33.61,Main,Diana,0,0,0,,{\t(4024,4524,\c&HFFFFFF&\3c&HFFFFFF&)}And they even spoke of \N Lucius’s friends, as well.
+Dialogue: 10,0:12:24.43,0:12:29.02,Main,Diana,0,0,0,,Records left behind by people \N who met the adventurer, Lucius.
+Dialogue: 10,0:12:29.02,0:12:33.61,Main,Diana,0,0,0,,{\t(4024,4524,\c&HFFFFFF&\3c&HFFFFFF&)}And they even spoke of Lucius’s friends.
 Dialogue: 10,0:12:33.61,0:12:35.61,Main,Liko,0,0,0,,Lucius’s friends?
-Dialogue: 10,0:12:35.61,0:12:39.70,Main,Diana,0,0,0,,The Explorers initially \N had three members.
+Dialogue: 10,0:12:35.61,0:12:39.70,Main,Diana,0,0,0,,The Explorers initially had \N three members.
 Dialogue: 10,0:12:39.70,0:12:44.45,Main,Diana,0,0,0,,Trainers by the names of \N Lucius, Rystal, and Gibeon, I discovered.
 Dialogue: 10,0:12:45.87,0:12:47.08,Main,Liko,0,0,0,,Terapagos!
 Dialogue: 10,0:12:47.75,0:12:49.37,Main,Roy,0,0,0,,Isn’t Rystal...?
@@ -227,7 +226,7 @@ Dialogue: 10,0:12:51.38,0:12:52.38,Main,Liko,0,0,0,,Yeah.
 Dialogue: 10,0:12:52.38,0:12:53.46,Main,Liko,0,0,0,,Basagiri showed us...
 Dialogue: 10,0:12:54.25,0:12:55.38,Main,Lucius,0,0,0,,It’s time we leave.{073}
 Dialogue: 10,0:12:55.38,0:12:58.13,Main,Lucius,0,0,0,,{\t(2022,2647,\c&HFFFFFF&\3c&HFFFFFF&)}Let’s go, Rystal.{073}
-Dialogue: 10,0:12:58.51,0:13:02.80,Main,Diana,0,0,0,,So, Rystal really did \N travel alongside Lucius...
+Dialogue: 10,0:12:58.51,0:13:02.80,Main,Diana,0,0,0,,So Rystal really did \N travel alongside Lucius...
 Dialogue: 10,0:13:02.80,0:13:05.22,Main,Friede,0,0,0,,That just leaves Gibeon, then.
 Dialogue: 10,0:13:05.22,0:13:07.02,Main,Friede,0,0,0,,Never heard of him.
 Dialogue: 10,0:13:07.02,0:13:08.39,Main,Liko,0,0,0,,I have.
@@ -245,10 +244,10 @@ Dialogue: 10,0:13:34.38,0:13:35.54,Main,Friede,0,0,0,,Huh?
 Dialogue: 10,0:13:37.84,0:13:43.76,Main,Diana,0,0,0,,The info that I found corroborates \N Gibeon being the current head of the Explorers.
 Dialogue: 10,0:13:43.76,0:13:46.51,Main,Molly,0,0,0,,So he’s been with them \N for a hundred years?
 Dialogue: 10,0:13:46.51,0:13:49.39,Main,Landau,0,0,0,,Such longevity. \N I’d do well to learn from his example.
-Dialogue: 10,0:13:49.39,0:13:53.81,Main,Orio,0,0,0,,I feel like he’d be too old to be \N Amethio’s grandfather, though...
+Dialogue: 10,0:13:49.39,0:13:53.81,Main,Orio,0,0,0,,I feel like he’d be too old to be \N Amethio’s grandfather, though.
 Dialogue: 10,0:13:53.81,0:13:54.48,Main,Liko,0,0,0,,Yeah.
-Dialogue: 10,0:13:55.02,0:14:00.11,Main,Friede,0,0,0,,Whether he {\i1}is{\i0} still alive, \N or if it’s someone else using the name “Gibeon”...
-Dialogue: 10,0:14:00.11,0:14:03.20,Main,Friede,0,0,0,,We can be certain that {\i1}someone{\i0} \N going by the name Gibeon...
+Dialogue: 10,0:13:55.02,0:14:00.11,Main,Friede,0,0,0,,{\q2}Whether he {\i1}is{\i0} still alive, \N or if it’s someone else using the name “Gibeon”...
+Dialogue: 10,0:14:00.11,0:14:03.20,Main,Friede,0,0,0,,We can be certain that {\i1}someone{\i0} \N going by that name...
 Dialogue: 10,0:14:03.20,0:14:07.41,Main,Friede,0,0,0,,...has taken over the Explorers, \N which was originally formed by Lucius.
 Dialogue: 10,0:14:07.79,0:14:10.20,Main,Diana,0,0,0,,I found one more \N piece of info about him.
 Dialogue: 10,0:14:10.62,0:14:14.88,Main,Diana,0,0,0,,Apparently, that same Gibeon is also \N the board chair of the company Exceed.
@@ -262,23 +261,23 @@ Dialogue: 10,0:14:30.64,0:14:32.02,Main,Liko,0,0,0,,You never told us.
 Dialogue: 10,0:14:33.14,0:14:34.60,Main,Friede,0,0,0,,Guess I never mentioned...
 Dialogue: 10,0:14:34.60,0:14:36.23,Main,Orio,0,0,0,,And there he goes again...
 Dialogue: 10,0:14:36.77,0:14:39.61,Main,Friede,0,0,0,,I went there to investigate \N during the ship’s repairs.
-Dialogue: 10,0:14:39.61,0:14:45.24,Main,Friede,0,0,0,,At one point, Exceed was secretly researching \N the Eternal Blessing—Rakurium.
+Dialogue: 10,0:14:39.61,0:14:45.24,Main,Friede,0,0,0,,{\q2}At one point, Exceed was secretly researching \N the Eternal Blessing—Rakurium.
 Dialogue: 10,0:14:45.66,0:14:46.74,Main,Diana,0,0,0,,Rakurium?
 Dialogue: 10,0:14:46.74,0:14:48.45,Main,Murdock,0,0,0,,What’s that?
 Dialogue: 10,0:14:48.45,0:14:53.16,Main,Friede,0,0,0,,Rakurium is a mysterious substance \N that can cause strange effects in Pokémon.
 Dialogue: 10,0:14:57.79,0:15:01.96,Main,Orio,0,0,0,,You never met that Gibeon guy \N while you were at Exceed, then?
 Dialogue: 10,0:15:01.96,0:15:04.72,Main,Friede,0,0,0,,Before now, I never even knew \N they {\i1}had{\i0} a board chair.
-Dialogue: 10,0:15:04.72,0:15:07.72,Main,Friede,0,0,0,,The director was \N a guy called Mr. Crave{Honorifics note: Crave-san}.
+Dialogue: 10,0:15:04.72,0:15:07.72,Main,Friede,0,0,0,,The director was a guy called Mr. Crave{Honorifics note: Crave-san}.
 Dialogue: 10,0:15:07.72,0:15:10.56,Main,Friede,0,0,0,,But come to think of it, \N he did mention {\i1}someone{\i0} higher up...
 Dialogue: 10,0:15:10.93,0:15:14.81,Main,Diana,0,0,0,,I couldn’t find a single person at Exceed \N who’d actually met him.
 Dialogue: 10,0:15:14.81,0:15:16.94,Main,Friede,0,0,0,,I see...
-Dialogue: 10,0:15:16.94,0:15:21.65,Main,Friede,0,0,0,,So Gibeon was secretly conducting \N research on Rakurium at Exceed,
-Dialogue: 10,0:15:21.65,0:15:26.32,Main,Friede,0,0,0,,while using the Explorers \N to try and reach Rakua, then.
+Dialogue: 10,0:15:16.94,0:15:21.65,Main,Friede,0,0,0,,So then, Gibeon was secretly \N conducting research on Rakurium at Exceed,
+Dialogue: 10,0:15:21.65,0:15:26.32,Main,Friede,0,0,0,,while using the Explorers \N to try and reach Rakua.
 Dialogue: 10,0:15:26.32,0:15:28.87,Main,Liko,0,0,0,,And that’s why they want Terapagos...
 Dialogue: 10,0:15:28.87,0:15:31.99,Main,Roy,0,0,0,,Rakurium and Rakua... \N Those sound pretty similar.
 Dialogue: 10,0:15:31.99,0:15:33.08,Main,Dot,0,0,0,,They do, yeah...
 Dialogue: 10,0:15:33.45,0:15:36.87,Main,Friede,0,0,0,,Maybe Rakurium comes from Rakua?
-Dialogue: 10,0:15:36.87,0:15:39.59,Main,Diana,0,0,0,,Of course! \N The Explorers are after...
+Dialogue: 10,0:15:36.87,0:15:39.59,Main,Diana,0,0,0,,Of course! The Explorers are after...
 Dialogue: 10,0:15:39.59,0:15:41.71,Main,Liko,0,0,0,,Rakua’s Rakurium!
 Dialogue: 10,0:15:49.60,0:15:51.72,Main,Roy,0,0,0,,A-Achigator...
 Dialogue: 10,0:15:52.18,0:15:54.77,Main,Landau,0,0,0,,It’s time we take a brief rest.
@@ -311,17 +310,17 @@ Dialogue: 10,0:17:50.80,0:17:54.01,Main,Liko,0,0,0,,Let Terapagos’s feelings r
 Dialogue: 10,0:18:22.29,0:18:24.67,Main,Rystal,0,0,0,,Aww... There, there...
 Dialogue: 10,0:18:31.88,0:18:33.30,Main,Rystal,0,0,0,,Huh? Huh?!
 Dialogue: 10,0:18:33.80,0:18:34.80,Main,Rystal,0,0,0,,Pagogo?!
-Dialogue: 10,0:18:35.39,0:18:38.14,Main,Rystal,0,0,0,,Why is Pagogo here...?
+Dialogue: 10,0:18:35.39,0:18:38.14,Main,Rystal,0,0,0,,Why are you here, Pagogo...?
 Dialogue: 10,0:18:40.60,0:18:42.31,Main,Rystal,0,0,0,,Who are you?
 Dialogue: 10,0:18:42.31,0:18:44.27,Main,Rystal,0,0,0,,Where... am I?
-Dialogue: 10,0:18:44.27,0:18:45.56,Main,Liko,0,0,0,,U-Um!
+Dialogue: 10,0:18:44.27,0:18:45.56,Main,Liko,0,0,0,,U-Um...!
 Dialogue: 10,0:18:46.15,0:18:47.90,Main,Liko,0,0,0,,Are you Rystal{Honorifics note: Rystal-san}?
 Dialogue: 10,0:18:48.32,0:18:49.57,Main,Rystal,0,0,0,,Yes...
 Dialogue: 10,0:18:49.57,0:18:51.53,Main,Rystal,0,0,0,,Have we met somewhere before?
 Dialogue: 10,0:18:51.53,0:18:54.03,Main,Liko,0,0,0,,My name is Liko.
 Dialogue: 10,0:18:54.03,0:18:55.32,Main,Liko,0,0,0,,Um...
 Dialogue: 10,0:19:02.70,0:19:05.83,Main,Rystal,0,0,0,,Everyone! So you’re all okay!
-Dialogue: 10,0:19:06.42,0:19:09.92,Main,Rystal,0,0,0,,But why do you have \N Lucius’s Pokémon?
+Dialogue: 10,0:19:06.42,0:19:09.92,Main,Rystal,0,0,0,,But why do you have Lucius’s Pokémon?
 Dialogue: 10,0:19:09.92,0:19:13.76,Main,Liko,0,0,0,,Uh... Well... \N Where should I even start?
 Dialogue: 10,0:19:16.26,0:19:18.60,Main,Friede,0,0,0,,Please, allow me to explain.
 Dialogue: 10,0:19:18.60,0:19:21.06,Main,Friede,0,0,0,,I’m Friede, a Pokémon Professor.
@@ -334,10 +333,10 @@ Dialogue: 10,0:19:42.79,0:19:44.62,Main,Friede,0,0,0,,That about sums it up, I g
 Dialogue: 10,0:19:45.12,0:19:46.21,Main,Rystal,0,0,0,,The future...
 Dialogue: 10,0:19:46.96,0:19:50.34,Main,Rystal,0,0,0,,I see... So bizarre things like that \N can actually happen, huh?{069}
 Dialogue: 10,0:19:50.34,0:19:53.88,Main,Friede,0,0,0,,I realize this is a lot to take in \N and it might be hard to believe, but...
-Dialogue: 10,0:19:54.34,0:19:56.47,Main,Rystal,0,0,0,,No, I believe it.
+Dialogue: 10,0:19:54.34,0:19:56.47,Main,Rystal,0,0,0,,No, I believe you.
 Dialogue: 10,0:19:57.01,0:19:59.85,Main,Rystal,0,0,0,,I mean, it couldn’t be wrong.
 Dialogue: 10,0:20:00.47,0:20:02.51,Main,Rystal,0,0,0,,You have Lucius’s Pokémon...
-Dialogue: 10,0:20:02.51,0:20:05.60,Main,Rystal,0,0,0,,...and my partner, \N Pagogo, with you.
+Dialogue: 10,0:20:02.51,0:20:05.60,Main,Rystal,0,0,0,,...and my partner, Pagogo, with you.
 Dialogue: 10,0:20:07.77,0:20:09.06,Main,Liko,0,0,0,,Pagogo...
 Dialogue: 10,0:20:09.06,0:20:11.52,Main,Liko,0,0,0,,Terapagos was your Pokémon?
 Dialogue: 10,0:20:11.52,0:20:13.40,Main,Roy,0,0,0,,It wasn’t Lucius’s?{Dread Terapagos}
@@ -347,16 +346,16 @@ Dialogue: 10,0:20:21.20,0:20:22.16,Main,Rystal,0,0,0,,Oh...
 Dialogue: 10,0:20:22.16,0:20:24.08,Main,Rystal,0,0,0,,Sorry about this.
 Dialogue: 10,0:20:24.08,0:20:25.45,Main,Rystal,0,0,0,,What’s wrong?
 Dialogue: 10,0:20:26.04,0:20:28.54,Main,Rystal,0,0,0,,Are you getting hungry, Layla?
-Dialogue: 10,0:20:28.96,0:20:31.75,Main,Diana,0,0,0,,Is that girl named Layla?!
+Dialogue: 10,0:20:28.96,0:20:31.75,Main,Diana,0,0,0,,Is that girl called Layla?!
 Dialogue: 10,0:20:31.75,0:20:34.25,Main,Rystal,0,0,0,,Y-Yes, why?
 Dialogue: 10,0:20:36.72,0:20:38.80,Main,Liko,0,0,0,,What’s wrong, Grandma?
 Dialogue: 10,0:20:39.26,0:20:42.55,Main,Diana,0,0,0,,Layla was... my mother’s name!
 Dialogue: 10,0:20:42.55,0:20:44.22,Main,Everyone,0,0,0,,Huh?!
-Dialogue: 10,0:20:44.22,0:20:47.73,Main,Rystal,0,0,0,,Does that mean \N you’re my granddaughter?
-Dialogue: 10,0:20:47.73,0:20:50.15,Main,Liko,0,0,0,,Huh! H-Huh?!
+Dialogue: 10,0:20:44.22,0:20:47.73,Main,Rystal,0,0,0,,Does that mean... \N you’re my granddaughter?
+Dialogue: 10,0:20:47.73,0:20:50.15,Main,Liko,0,0,0,,Huh?! Wh-What...?!
 Dialogue: 10,0:20:50.15,0:20:54.36,Main,Roy,0,0,0,,Th-Then... \N Rystal{Honorifics note: Rystal-san} is Diana{Honorifics note: Diana-san}’s grandma...
 Dialogue: 10,0:20:54.36,0:20:57.49,Main,Roy,0,0,0,,...and Diana{Honorifics note: Diana-san} is \N Liko’s grandma, so... Um...
-Dialogue: 10,0:20:57.49,0:20:59.65,Main,Liko,0,0,0,,Hold on, I can’t keep up!
+Dialogue: 10,0:20:57.49,0:20:59.65,Main,Liko,0,0,0,,H-H-Hold on, I can’t keep up!
 Dialogue: 10,0:20:59.65,0:21:01.57,Main,Dot,0,0,0,,You’re Liko’s great-great-grandma?!
 Dialogue: 10,0:21:01.57,0:21:04.95,Main,Rystal,0,0,0,,Hey! Just how old do you think I am?!
 Dialogue: 10,0:21:07.04,0:21:09.21,Main,Rystal,0,0,0,,Ahh! Sorry, sorry...
@@ -385,8 +384,8 @@ Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Semin
 Dialogue: 10,0:23:38.10,0:23:40.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
 Dialogue: 10,0:23:41.11,0:23:43.90,Main,Friede,0,0,220,,The answer is C: Cleverness!
 Dialogue: 10,0:23:43.90,0:23:46.86,Main,Friede,0,0,220,,Sharitatsu are exceptionally crafty.
-Dialogue: 10,0:23:46.86,0:23:48.62,Main,Friede,0,0,220,,Understanding how weak they may be,
-Dialogue: 10,0:23:48.62,0:23:52.49,Main,Friede,0,0,220,,they put their heads together \N and cooperate during battle!
+Dialogue: 10,0:23:46.86,0:23:48.62,Main,Friede,0,0,220,,Knowing how weak they are,
+Dialogue: 10,0:23:48.62,0:23:52.49,Main,Friede,0,0,220,,they put their heads together \N and cooperate when battling!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:02.67,0:24:04.97,Main,Lucius,0,0,165,,I want you to find...{001}
 Dialogue: 10,0:24:05.47,0:24:07.13,Main,Lucius,0,0,165,,...the beauty of this world.{001}
@@ -395,7 +394,7 @@ Dialogue: 10,0:24:11.01,0:24:12.22,Main,Lucius,0,0,165,,...adventures...{001}
 Dialogue: 10,0:24:12.22,0:24:16.56,Main,Lucius,0,0,165,,...as you live alongside \N the Pokémon of this world.{001}
 Dialogue: 10,0:24:16.94,0:24:18.35,Main,Lucius,0,0,165,,And...{001}
 Dialogue: 10,0:24:18.35,0:24:19.27,Main,Lucius,0,0,165,,...your futures.{001}
-Dialogue: 10,0:24:19.73,0:24:22.44,Main,Liko,0,0,165,,Next time, on Pocket Monsters{...}!
+Dialogue: 10,0:24:19.73,0:24:22.44,Main,Liko,0,0,165,,Next time, on Pocket Monsters!
 Dialogue: 10,0:24:22.44,0:24:26.32,Main,Lucius,0,0,165,,The Entrusted Future, the Gleam of This World
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:45.63,0:01:48.55,OP,,0,0,50,,{=1066}{\q2\blur0.6}Even if it looks like you're stuck, it'll be okay
