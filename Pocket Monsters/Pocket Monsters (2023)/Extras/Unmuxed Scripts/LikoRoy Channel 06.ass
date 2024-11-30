@@ -33,7 +33,7 @@ Dialogue: 10,0:00:27.91,0:00:29.21,Main,Liko,0,0,0,,Well then...
 Dialogue: 10,0:00:29.21,0:00:31.11,Main,LikoRoy,0,0,0,,See you!
 Dialogue: 10,0:00:32.25,0:00:35.85,Main,Roy,0,0,0,,I wanna learn all about \N Lucius’s adventures a hundred years ago!
 Dialogue: 10,0:00:35.85,0:00:39.46,Main,Liko,0,0,0,,That might help us understand \N more about Terapagos, too!
-Dialogue: 10,0:00:39.46,0:00:44.09,Main,Liko,0,0,0,,Next time: \N The Entrusted Future, the Shine of This World
+Dialogue: 10,0:00:39.46,0:00:44.09,Main,Liko,0,0,0,,Next time: \N The Entrusted Future, the Gleam of This World
 Dialogue: 10,0:00:44.09,0:00:45.26,Main,LikoRoy,0,0,0,,Look forward to it!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:05.02,0:00:17.87,Main,,0,0,0,,{\blur2\p1\bord0\an7\c&HFFFFFF&\pos(1.2,-0.4)}m 380 618.29 l 374.29 620.57 367.14 625.43 361.43 630.29 356.29 638 352.86 645.14 350.86 654.86 350.86 667.43 354 678.86 359.43 688 364.87 694.26 372.52 698.43 380.17 700.87 865.71 702.64 875.5 699 884.5 692.75 892.5 685.25 897.25 677.5 900 668.25 900.25 657.5 898.25 645.75 892 636.25 883 628.75 875 623.75 869 621.25 859.25 619.25
