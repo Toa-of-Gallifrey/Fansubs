@@ -1453,7 +1453,7 @@ POKÉMON NAMES
 0200 ムウマ Muma - よなきポケモン Night Screeching Pokémon
 0201 アンノーン Unknown - シンボルポケモン Symbol Pokémon
 0202 ソーナンス Sonansu - がまんポケモン 
-0203 キリンリキ Kirinriki - くびながポケモン 
+0203 キリンリキ Kirinriki - くびながポケモン Long Neck Pokémon
 0204 クヌギダマ Kunugidama - みのむしポケモン Bagworm Pokémon
 0205 フォレトス Foretos - みのむしポケモン Bagworm Pokémon
 0206 ノコッチ Nokotchi - つちへびポケモン Land Snake Pokémon
@@ -2206,7 +2206,7 @@ POKÉMON NAMES
 0953 シガロコ 
 0954 ベラカス 
 0955 ヒラヒナ 
-0956 クエスパトラ 
+0956 クエスパトラ Cuespatra - ダチョウポケモン 
 0957 カヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
 0958 ナカヌチャン Nakanuchan - ハンマーポケモン Hammer Pokémon
 0959 デカヌチャン Dekanuchan - ハンマーポケモン Hammer Pokémon
@@ -2231,7 +2231,7 @@ POKÉMON NAMES
 0978 シャリタツ Sharitatsu - ぎたいポケモン Mimicry Pokémon
 0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
-0981 リキキリン 
+0981 リキキリン Rikikirin - くびながポケモン Long Neck Pokémon
 0982 ノココッチ Nokokotchi - つちへびポケモン Land Snake Pokémon
 0983 ドドゲザン Dodogezan - だいとうポケモン Glaive Pokémon
 0984 イダイナキバ 
