@@ -568,7 +568,7 @@ oorora biimu オーロラビーム (Aurora Beam) - Aurora Beam
 osaki ni douzou おさきにどうぞ (After You) - # TBD #
 oshaberi おしゃべり (Chatter) - # TBD #
 oshioki おしおき (Punishment) - # TBD #
-otakebi おたけび (Noble Roar) - # TBD #
+otakebi おたけび (Noble Roar) - War Cry
 oufuku binta おうふくビンタ (Double Slap) - Round-Trip Slap
 oumu gaeshi オウムがえし (Mirror Move) - Parrot Mimicry [subject to change]
 parabora chaaji パラボラチャージ (Parabolic Charge) - # TBD #
@@ -1461,7 +1461,7 @@ POKÉMON NAMES
 0208 ハガネール Haganail - てつへびポケモン Iron Snake Pokémon
 0209 ブルー Bullu - ようせいポケモン Fairy Pokémon
 0210 グランブル Granbull - ようせいポケモン Fairy Pokémon
-0211 ハリーセン 
+0211 ハリーセン Harisen - ふうせんポケモン Balloon Pokémon
 0212 ハッサム Hassam - はさみポケモン Pincer Pokémon
 0213 ツボツボ Tsubotsubo - はっこうポケモン 
 0214 ヘラクロス Heracross - 1ぽんヅノポケモン Single Horn Pokémon
