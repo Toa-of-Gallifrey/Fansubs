@@ -325,7 +325,7 @@ jikoanji じこあんじ (Psych Up) - # TBD #
 jikosaisei じこさいせい (Recover) - Self-Regenerate
 jinarashi じならし (Bulldoze) - Ground Stomp
 jinrai じんらい (Thunderclap) - # TBD #
-jintsuuriki じんつうりき (Extrasensory) - # TBD #
+jintsuuriki じんつうりき (Extrasensory) - Supernatural Power
 jiokontorooru ジオコントロール (Geomancy) - # TBD #
 jishin じしん (Earthquake) - # TBD #
 jitabata じたばた (Flail) - # TBD #
@@ -1494,7 +1494,7 @@ POKÉMON NAMES
 0241 ミルタンク Miltank - ちちうしポケモン 
 0242 ハピナス Happinus - しあわせポケモン Happiness Pokémon
 0243 ライコウ Raikou - いかずちポケモン 
-0244 エンテイ Entei - かざんポケモン 
+0244 エンテイ Entei - かざんポケモン Volcano Pokémon
 0245 スイクン Suikun - オーロラポケモン Aurora Pokémon
 0246 ヨーギラス Yoguirus - いわはだポケモン 
 0247 サナギラス Sanaguirus - だんがんポケモン 
