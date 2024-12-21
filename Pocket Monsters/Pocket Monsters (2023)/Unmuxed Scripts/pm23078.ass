@@ -37,11 +37,11 @@ Dialogue: 10,0:00:14.91,0:00:17.91,Main,Liko,0,0,0,,Our journey seeking \N Entei
 Dialogue: 10,0:00:18.54,0:00:22.79,Main,Liko,0,0,0,,Mr. Mamoru{Honorifics note: Mamoru-san} from the fishing boat rental shop \N told us about a customer who saw{who’d seen} Entei,
 Dialogue: 10,0:00:22.79,0:00:25.38,Main,Liko,0,0,0,,so we went to visit him straight away.
 Dialogue: 10,0:00:28.42,0:00:29.84,Main,Fishman,0,0,0,,Oh, yeah! I saw it.
-Dialogue: 10,0:00:30.30,0:00:33.64,Main,Fishman,0,0,0,,It went by like “whoosh”! \N It was unreal.
+Dialogue: 10,0:00:30.30,0:00:33.64,Main,Fishman,0,0,0,,Went by like “whoosh”! \N It was unreal.
 Dialogue: 10,0:00:33.64,0:00:36.47,Main,Fishman,0,0,0,,It felt like good luck, \N couldn’t help but stare in awe.
 Dialogue: 10,0:00:36.89,0:00:39.44,Main,Friede,0,0,0,,Think you could pin down \N where that was on this map?
 Dialogue: 10,0:00:39.44,0:00:41.60,Main,Fishman,0,0,0,,Hmm... ‘Round there, I guess?
-Dialogue: 10,0:00:41.60,0:00:43.48,Main,Fishman,0,0,0,,It vanished right away, though.
+Dialogue: 10,0:00:41.60,0:00:43.48,Main,Fishman,0,0,0,,Vanished right away, though.
 Dialogue: 10,0:00:43.48,0:00:45.11,Main,Roy,0,0,0,,Thanks a lot!
 Dialogue: 10,0:00:45.11,0:00:47.49,Main,Fishman,0,0,0,,I reckon you’ll run across it too, hmm?
 Dialogue: 10,0:00:47.49,0:00:49.32,Main,Fishman,0,0,0,,I know other folks’ve also seen it.
@@ -100,9 +100,9 @@ Dialogue: 10,0:04:31.21,0:04:34.67,Main,Go,0,0,0,,Huntail. Deep Sea Pokémon. \N
 Dialogue: 10,0:04:34.67,0:04:36.21,Main,Go,0,0,0,,The deep sea is its habitat.
 Dialogue: 10,0:04:36.21,0:04:41.51,Main,Go,0,0,0,,According to one legend, \N a beached Huntail serves as a bad omen.{Ultra Moon dex entry (edited)}
 Dialogue: 10,0:04:41.51,0:04:42.97,Main,Murdock,0,0,0,,A bad omen?!
-Dialogue: 10,0:04:42.97,0:04:44.35,Main,Murdock,0,0,0,,That’s not good, is it?!
+Dialogue: 10,0:04:42.97,0:04:44.35,Main,Murdock,0,0,0,,Should we be worried?!
 Dialogue: 10,0:04:44.72,0:04:46.10,Main,Molly,0,0,0,,It’s just a legend.
-Dialogue: 10,0:04:46.10,0:04:50.31,Main,Landau,0,0,0,,Good luck and bad \N are two sides of the same coin.
+Dialogue: 10,0:04:46.10,0:04:50.31,Main,Landau,0,0,0,,Fortune and misfortune \N are two sides of the same coin.
 Dialogue: 10,0:04:50.31,0:04:53.61,Main,Landau,0,0,0,,Something abnormal is happening, \N that much is certain.
 Dialogue: 10,0:04:53.61,0:04:56.36,Main,Landau,0,0,0,,We can never be too careful.
 Dialogue: 10,0:04:56.36,0:04:57.44,Main,Orio,0,0,0,,Don’t worry!
