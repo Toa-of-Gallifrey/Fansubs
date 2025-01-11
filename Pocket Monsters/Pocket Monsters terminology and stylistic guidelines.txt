@@ -553,7 +553,7 @@ oikaze おいかぜ (Tailwind) - Tailwind
 oiuchi おいうち (Pursuit) - # TBD #
 oiwai おいわい (Celebrate) - # TBD #
 okatadzuke おかたづけ (Tidy Up) - # TBD #
-okimiyage おきみやげ (Memento) - # TBD #
+okimiyage おきみやげ (Memento) - Parting Gift
 okutank hou オクタンほう (Octazooka) - # TBD #
 omajinai おまじない (Lucky Chant) - # TBD #
 ongaeshi おんがえし (Return) - # TBD #
@@ -981,7 +981,7 @@ doku bousou どくぼうそう (Toxic Boost) - # TBD #
 doku kugutsu どくくぐつ (Poison Puppeteer) - # TBD #
 doku no kusari どくのくさり (Toxic Chain) - # TBD #
 doku no toge どくのトゲ (Poison Point) - # TBD #
-dokugeshou どくげしょう (Toxic Debris) - # TBD #
+dokugeshou どくげしょう (Toxic Debris) - Poison Coating
 dokushu どくしゅ (Poison Touch) - # TBD #
 donkan どんかん (Oblivious) - # TBD #
 doshoku どしょく (Earth Eater) - # TBD #
@@ -2219,8 +2219,8 @@ POKÉMON NAMES
 0966 ブロロローム Burororoom - たきとうポケモン Multi-Cylinder Pokémon
 0967 モトトカゲ Mototokage - ライドポケモン Ride Pokémon
 0968 ミミズズ Mimizuzu - ミミズポケモン Earthworm Pokémon
-0969 キラーメ 
-0970 キラフロル 
+0969 キラーメ Kirame - こうせきポケモン Ore Pokémon
+0970 キラフロル Kiraflor - こうせきポケモン Ore Pokémon
 0971 ボチ Bochi - おばけいぬポケモン Ghost Dog Pokémon
 0972 ハカドッグ Hakadog - おばけいぬポケモン Ghost Dog Pokémon
 0973 カラミンゴ 
