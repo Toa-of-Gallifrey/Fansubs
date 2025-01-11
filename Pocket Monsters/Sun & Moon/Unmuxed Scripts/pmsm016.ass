@@ -84,7 +84,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.33,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.33,0:22:37.16,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -112,7 +112,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:01.59,0:00:03.94,Main,Nyarth,0,0,0,,Alola, meow!
 Dialogue: 0,0:00:04.80,0:00:07.98,Main,Nyarth,0,0,0,,I’ll be presenting \N today’s PokéProblem, meow!
 Dialogue: 0,0:00:07.98,0:00:12.68,Main,Nyarth,0,0,0,,Which of these detestable Pokémon \N foils our plans today, meow?
-Dialogue: 0,0:00:12.68,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at the \N end of the episode, meow!
+Dialogue: 0,0:00:12.68,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at \N the end of the episode, meow!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:23.15,0:00:25.58,Main,Mao,0,0,0,,Watch this! \N Ashimari is incredible!
 Dialogue: 0,0:00:26.23,0:00:27.93,Main,Narrator,0,0,0,,One day after school,

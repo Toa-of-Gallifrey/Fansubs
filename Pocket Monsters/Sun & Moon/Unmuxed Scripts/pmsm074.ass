@@ -154,7 +154,7 @@ Dialogue: 0,0:03:41.10,0:03:42.62,Main,Musashi,0,0,0,,Sparkle!
 Dialogue: 0,0:03:46.67,0:03:51.09,Main,Musashi,0,0,0,,Mimikkyu, doesn’t this make you want to \N fire off a Z-Move right now? {Removed comma before “right now”. - Toa}
 Dialogue: 0,0:03:52.21,0:03:55.87,Main,Musashi,0,0,0,,Right?! You think so, too, right?!
 Dialogue: 0,0:03:56.71,0:03:59.82,Main,Nyarth,0,0,0,,They’re totally set on \N using their Z-Move, meow.
-Dialogue: 0,0:04:02.29,0:04:05.97,Main,Kojiro,0,0,0,,We want to fire off \N our Dark type Z-Move, too, don’t we?
+Dialogue: 0,0:04:02.29,0:04:05.97,Main,Kojiro,0,0,0,,We want to fire off \N our Evil type Z-Move, too, don’t we?
 Dialogue: 0,0:04:05.97,0:04:09.18,Main,Musashi,0,0,0,,How’s this? Or this? No good?
 Dialogue: 0,0:04:09.18,0:04:10.28,Main,Musashi,0,0,0,,Well then how’s this?
 Dialogue: 0,0:04:10.28,0:04:14.22,Main,Kojiro,0,0,0,,Doesn’t look like she’ll be letting go \N of the Z-Ring any time soon...
@@ -164,7 +164,7 @@ Dialogue: 0,0:04:24.24,0:04:26.03,Main,Nyarth,0,0,0,,You’re right, meow!
 Dialogue: 0,0:04:26.03,0:04:28.98,Main,Kojiro,0,0,0,,Well, this is unusual! \N The other brats aren’t with him! {Added comma. - Toa}
 Dialogue: 0,0:04:33.58,0:04:34.95,Main,Musashi,0,0,0,,A Z-Ring...
 Dialogue: 0,0:04:34.95,0:04:36.39,Main,Nyarth,0,0,0,,Mimikkyu-Z and...
-Dialogue: 0,0:04:36.39,0:04:37.50,Main,Kojiro,0,0,0,,Dark-Z.
+Dialogue: 0,0:04:36.39,0:04:37.50,Main,Kojiro,0,0,0,,Evil-Z.
 Dialogue: 0,0:04:37.50,0:04:39.12,Main,Nyarth,0,0,0,,We can win, meow!
 Dialogue: 0,0:04:46.68,0:04:48.18,Main,Doll Musashi,0,0,0,,Clever as always, Nyarth.
 Dialogue: 0,0:04:48.18,0:04:49.93,Main,Doll Kojiro,0,0,0,,Very impressive.
@@ -189,7 +189,7 @@ Dialogue: 0,0:06:07.27,0:06:08.89,Main,Kuchinashi,0,0,0,,Okay, I got it.
 Dialogue: 0,0:06:11.31,0:06:13.97,Main,Kuchinashi,0,0,0,,You really do nothing \N but eat, huh? {I think a question mark would be fitting here. - Toa}
 Dialogue: 0,0:06:20.85,0:06:22.01,Main,Kuchinashi,0,0,0,,Is it good?
 Dialogue: 0,0:06:22.90,0:06:24.30,Main,Kuchinashi,0,0,0,,I see.
-Dialogue: 0,0:06:38.24,0:06:40.54,Main,Kuchinashi,0,0,0,,You’ve reached the \N Ula'ula Island police station. {Changed “office” to “station”. - Toa}
+Dialogue: 0,0:06:38.24,0:06:40.54,Main,Kuchinashi,0,0,0,,You’ve reached \N the Ula'ula Island police station. {Changed “office” to “station”. - Toa}
 Dialogue: 0,0:06:40.54,0:06:41.67,Main,Sakaki,0,0,0,,It’s been a while.
 Dialogue: 0,0:06:42.12,0:06:43.09,Main,Kuchinashi,0,0,0,,Sakaki?!
 Dialogue: 0,0:06:43.55,0:06:46.94,Main,Sakaki,0,0,0,,I felt like hearing the voice \N of my old friend.
@@ -329,7 +329,7 @@ Dialogue: 0,0:15:47.45,0:15:52.45,Main,Acerola,0,0,0,,Let us commence Masara Tow
 Dialogue: 0,0:15:52.45,0:15:54.68,Main,Acerola,0,0,0,,...Pre-Trial battle!
 Dialogue: 0,0:15:57.19,0:15:59.02,Main,Satoshi,0,0,0,,Please give me a good fight!
 Dialogue: 0,0:16:09.53,0:16:10.78,Main,Satoshi,0,0,0,,It’s Waruvial!
-Dialogue: 0,0:16:12.58,0:16:16.23,Main,Rotom,0,0,0,,Waruvial. Intimidation Pokémon. \N Dark/Ground type.
+Dialogue: 0,0:16:12.58,0:16:16.23,Main,Rotom,0,0,0,,Waruvial. Intimidation Pokémon. \N Evil/Ground type.
 Dialogue: 0,0:16:16.23,0:16:20.37,Main,Rotom,0,0,0,,Its unique faculty of sight can detect small prey \N more than 60 kilometers away,{Pokémon Sun Pokédex entry.}
 Dialogue: 0,0:16:20.37,0:16:22.17,Main,Rotom,0,0,0,,even in the midst of a sandstorm.{Pokémon Sun Pokédex entry.}
 Dialogue: 0,0:16:28.81,0:16:32.30,Main,Kuchinashi,0,0,0,,Good, Waruvial. \N Your opponent’s been Intimidated.{Alternately “Intimidate worked on your opponent”, as Intimidate is the actual name of its ability. -Starfish}{left the sentence as-is but capitalised ‘intimidate’ to make it clearer that it’s a Game Term(TM) -Puto}
@@ -392,7 +392,7 @@ Comment: 0,0:23:20.55,0:23:20.55,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:23.20,0:23:24.48,Main,Satoshi,0,0,0,,Thanks for waiting!
 Dialogue: 0,0:23:24.48,0:23:26.65,Main,Satoshi,0,0,0,,The Pokémon \N the Island King sent out...
 Dialogue: 0,0:23:26.65,0:23:28.26,Main,Satoshi,0,0,0,,...was Waruvial!
-Dialogue: 0,0:23:29.33,0:23:32.85,Main,Satoshi,0,0,0,,The Intimidation Pokémon Waruvial \N is a Ground/Dark type.
+Dialogue: 0,0:23:29.33,0:23:32.85,Main,Satoshi,0,0,0,,The Intimidation Pokémon Waruvial \N is a Ground/Evil type.
 Dialogue: 0,0:23:32.85,0:23:38.45,Main,Satoshi,0,0,0,,It bites down on its opponents with its powerful jaws, \N and then twists their body around to defeat them. {Its body or their body? - Toa}{Hmmm... Yeah probably their. -Starfish OF THE FUTURE}
 Dialogue: 0,0:23:38.45,0:23:43.24,Main,Satoshi,0,0,0,,Lugarugan was defeated before he got to use his full power, \N but next time, we’ll win for sure!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}

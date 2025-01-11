@@ -69,7 +69,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.29,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -107,7 +107,7 @@ Dialogue: 0,0:00:48.37,0:00:49.62,Main,Satoshi,0,0,0,,Sounds fun.
 Dialogue: 0,0:00:49.62,0:00:50.61,Main,Kaki,0,0,0,,Yeah.
 Dialogue: 0,0:00:50.61,0:00:52.49,Main,Mamane,0,0,0,,Really? \N Did it pique your interest?
 Dialogue: 0,0:00:53.09,0:00:56.58,Main,Mamane,0,0,0,,I really, really want to \N join the Denjimushi Race.
-Dialogue: 0,0:00:56.58,0:00:58.94,Main,Mamane,0,0,0,,But you need a \N group of three to enter.
+Dialogue: 0,0:00:56.58,0:00:58.94,Main,Mamane,0,0,0,,But you need \N a group of three to enter.
 Dialogue: 0,0:00:58.94,0:01:01.50,Main,Mamane,0,0,0,,Please, join the race with me!
 Dialogue: 0,0:01:01.50,0:01:03.96,Main,Satoshi,0,0,0,,I’m totally in!
 Dialogue: 0,0:01:03.96,0:01:05.65,Main,Mamane,0,0,0,,All right! Kaki?
@@ -166,7 +166,7 @@ Dialogue: 0,0:05:09.23,0:05:11.91,Main,Mamane,0,0,0,,But I’m not good at runni
 Dialogue: 0,0:05:11.91,0:05:14.33,Main,Satoshi,0,0,0,,It’s fine! \N You can do it if you try!
 Dialogue: 0,0:05:20.46,0:05:23.07,Main,Kaki,0,0,0,,He’s keeping up! \N This is going well!
 Dialogue: 0,0:05:26.81,0:05:28.54,Main,Alolan Oak,0,0,0,,Truly, this is youth.
-Dialogue: 0,0:05:28.54,0:05:31.97,Main,Alolan Oak,0,0,0,,Work hard to prepare for the \N race tracKairyu! Kairiky!
+Dialogue: 0,0:05:28.54,0:05:31.97,Main,Alolan Oak,0,0,0,,Work hard to prepare for \N the race tracKairyu! Kairiky!
 Dialogue: 0,0:05:36.03,0:05:38.50,Main,Mamane,0,0,0,,That should do it for the motor...
 Dialogue: 0,0:05:38.50,0:05:41.94,Main,Mamane,0,0,0,,The frame needs a good balance \N between lightness and durability.
 Dialogue: 0,0:05:44.61,0:05:46.76,Main,Mamane,0,0,0,,Do you want to get faster, \N Denjimushi?
@@ -211,7 +211,7 @@ Dialogue: 0,0:07:41.08,0:07:42.10,Main,Satoshi,0,0,0,,What?!
 Dialogue: 0,0:07:42.10,0:07:47.08,Main,Yansu,0,0,0,,Have a look at our big brother’s \N super rad Denjimushi, yo!
 Dialogue: 0,0:07:49.45,0:07:51.45,Main,Satoshi,0,0,0,,A red Denjimushi?!
 Dialogue: 0,0:07:51.45,0:07:53.75,Main,Human being,0,0,0,,It’s Hayate with \N the red Denjimushi.
-Dialogue: 0,0:07:53.75,0:07:56.51,Main,Human being,0,0,0,,So here come the \N favorites to win...{Xemnas: Is the actual term used when referring to the most likely team to win}
+Dialogue: 0,0:07:53.75,0:07:56.51,Main,Human being,0,0,0,,So here come \N the favorites to win...{Xemnas: Is the actual term used when referring to the most likely team to win}
 Dialogue: 0,0:07:56.51,0:08:01.38,Main,Hayate,0,0,0,,This is the ultimate Denjimushi, whom our daddy \N went to great lengths to find for us!
 Dialogue: 0,0:08:01.38,0:08:02.86,Main,Hayate,0,0,0,,It’s alternate-color, even!
 Dialogue: 0,0:08:02.86,0:08:05.75,Main,Hayate,0,0,0,,And with its timid nature and the perfect ability, \N Run Away, it’s as fast as can be!
@@ -299,7 +299,7 @@ Dialogue: 0,0:12:34.52,0:12:35.86,Main,Mamane,0,0,0,,Denjimushi!
 Dialogue: 0,0:12:35.86,0:12:38.68,Main,Hayate,0,0,0,,You were so {\i1}slow{\i0} that \N you didn’t crash with the rest?
 Dialogue: 0,0:12:38.68,0:12:40.56,Main,Mamane,0,0,0,,The real battle begins now!
 Dialogue: 0,0:12:40.56,0:12:43.82,Main,Ana,0,0,0,,Now, the front runners are \N entering the rocky course!
-Dialogue: 0,0:12:45.82,0:12:48.54,Main,Yansu,0,0,0,,Here comes the \N Totem of the course, yo!
+Dialogue: 0,0:12:45.82,0:12:48.54,Main,Yansu,0,0,0,,Here comes \N the Totem of the course, yo!
 Dialogue: 0,0:12:51.86,0:12:53.64,Main,Yansu,0,0,0,,W-What, yo?!
 Dialogue: 0,0:12:54.77,0:12:55.54,Main,Kojiro,0,0,0,,Oh!
 Dialogue: 0,0:12:57.00,0:12:57.72,Main,Human being,0,0,0,,Denjimushi?!
@@ -328,7 +328,7 @@ Dialogue: 0,0:14:22.75,0:14:24.38,Main,Hayate,0,0,0,,So luck was on your side.
 Dialogue: 0,0:14:24.38,0:14:27.13,Main,Mamane,0,0,0,,I expected these kinds \N of challenges!
 Dialogue: 0,0:14:30.59,0:14:32.47,Main,Hayate,0,0,0,,Hey! How are we doing?
 Dialogue: 0,0:14:32.91,0:14:34.98,Main,Yansu,0,0,0,,We’re at the pit, yo!
-Dialogue: 0,0:14:37.52,0:14:40.83,Main,Dana,0,0,0,,Next up is the \N sand course, right, dude?
+Dialogue: 0,0:14:37.52,0:14:40.83,Main,Dana,0,0,0,,Next up is \N the sand course, right, dude?
 Dialogue: 0,0:14:40.83,0:14:43.89,Main,Dana,0,0,0,,Since the tires are custom-made, \N swapping them is a piece of cake, dude.
 Dialogue: 0,0:14:43.89,0:14:45.40,Main,Hayate,0,0,0,,Hurry it up, Dana!
 Dialogue: 0,0:14:46.77,0:14:48.74,Main,Nyarth,0,0,0,,Let’s swap tires... Push, meow!
@@ -374,7 +374,7 @@ Dialogue: 0,0:16:48.65,0:16:51.20,Main,Satoshi,0,0,0,,The Moomoo Milk from earli
 Dialogue: 0,0:16:51.20,0:16:55.06,Main,Satoshi,0,0,0,,And it looks like the headwind isn’t a problem either, \N thanks to the goggles!
 Dialogue: 0,0:16:56.62,0:16:58.81,Main,Mamane,0,0,0,,This is where being mild \N comes in handy!
 Dialogue: 0,0:16:58.81,0:16:59.91,Main,Mamane,0,0,0,,We’re catching back up!
-Dialogue: 0,0:17:01.69,0:17:04.48,Main,Hayate,0,0,0,,You’ve reached the \N final pit by now, I hope.
+Dialogue: 0,0:17:01.69,0:17:04.48,Main,Hayate,0,0,0,,You’ve reached \N the final pit by now, I hope.
 Dialogue: 0,0:17:04.48,0:17:06.79,Main,Yansu,0,0,0,,Well... Sorry, bro!
 Dialogue: 0,0:17:06.79,0:17:09.30,Main,Yansu,0,0,0,,Denjimushi got worn out \N along the way...
 Dialogue: 0,0:17:09.30,0:17:11.46,Main,Hayate,0,0,0,,No breaks! \N I won’t {\i1}allow{\i0} you to lose!
@@ -441,7 +441,7 @@ Dialogue: 0,0:20:11.81,0:20:14.38,Main,Hayate,0,0,0,,You’re not {\i1}allowed{\
 Dialogue: 0,0:20:15.86,0:20:16.65,Main,Mamane,0,0,0,,Coming through!
 Dialogue: 0,0:20:17.77,0:20:18.81,Main,Hayate,0,0,0,,What?!
 Dialogue: 0,0:20:18.81,0:20:19.97,Main,Yansu,0,0,0,,That’s cheating, yo!
-Dialogue: 0,0:20:19.97,0:20:22.41,Main,Yansu,0,0,0,,Switching tires in the \N middle of the course is cheating, yo!
+Dialogue: 0,0:20:19.97,0:20:22.41,Main,Yansu,0,0,0,,Switching tires in \N the middle of the course is cheating, yo!
 Dialogue: 0,0:20:22.85,0:20:24.32,Main,Mamane,0,0,0,,I’m not cheating!
 Dialogue: 0,0:20:24.32,0:20:26.20,Main,Hayate,0,0,0,,Then how?
 Dialogue: 0,0:20:32.08,0:20:34.71,Main,Mamane,0,0,0,,These are Denjimushi’s strings!

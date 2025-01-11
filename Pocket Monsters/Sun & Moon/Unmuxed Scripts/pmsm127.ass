@@ -78,7 +78,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:05:26.47,0:05:31.48,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,220)}Gladio and Lilie!
 Dialogue: 0,0:05:26.47,0:05:31.48,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,550)}Chasing the Father’s Illusion!!
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
-Dialogue: 0,0:14:24.51,0:14:27.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Zoroark\N{\fs40}Type:   Dark
+Dialogue: 0,0:14:24.51,0:14:27.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Zoroark\N{\fs40}Type:   Evil
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:21:59.50,0:22:08.97,ED,,0,0,0,,{\fad(310,310)\fsp-1}Damp from the morning rain, the rice field paths soak up the sunlight
 Dialogue: 0,0:21:59.50,0:22:08.97,EDp2,,0,0,0,,{\fad(310,310)\fsp-1}Damp from the morning rain, the rice field paths soak up the sunlight
@@ -138,7 +138,7 @@ Dialogue: 0,0:02:27.19,0:02:30.41,Main,Mohn,0,0,0,,It’s all for my little prin
 Dialogue: 0,0:02:31.25,0:02:32.91,Main,Lilie,0,0,0,,For me...
 Dialogue: 0,0:02:36.69,0:02:42.65,Main,Lilie,0,0,0,,Father was trying everything he could think of \N to activate Magearna on his own.
 Dialogue: 0,0:02:42.65,0:02:45.19,Main,Lilie,0,0,0,,Making full use of modern science,
-Dialogue: 0,0:02:45.19,0:02:48.30,Main,Lilie,0,0,0,,to try and replicate the \N accomplishments of ancient science...
+Dialogue: 0,0:02:45.19,0:02:48.30,Main,Lilie,0,0,0,,to try and replicate \N the accomplishments of ancient science...
 Dialogue: 0,0:02:52.53,0:02:53.92,Main,Lilie,0,0,0,,Snowball!
 Dialogue: 0,0:02:59.03,0:03:00.76,Main,Lilie,0,0,0,,I’m sorry.
 Dialogue: 0,0:03:00.76,0:03:02.70,Main,Lilie,0,0,0,,I was engrossed in my studies.
@@ -203,7 +203,7 @@ Dialogue: 0,0:07:48.74,0:07:51.95,Main,Kukui,0,0,0,,that’s been burning in my 
 Dialogue: 0,0:07:53.30,0:07:56.52,Main,Kukui,0,0,0,,My dream to form \N an Alolan Pokémon League!{Potential alt: "the Alola Pokémon League". This is probably better as-is, though. - Toa}
 Dialogue: 0,0:07:58.08,0:08:01.29,Main,Kukui,0,0,0,,Yeaaaaah!
 Dialogue: 0,0:08:03.21,0:08:05.59,Main,Nyarth,0,0,0,,Welcomeow! Welcomeow!
-Dialogue: 0,0:08:05.59,0:08:09.47,Main,Nyarth,0,0,0,,Would you like some of the \N most delicious Honey Doughnuts in all of Alola, meow?!
+Dialogue: 0,0:08:05.59,0:08:09.47,Main,Nyarth,0,0,0,,Would you like some of the most delicious \N Honey Doughnuts in all of Alola, meow?!
 Dialogue: 0,0:08:09.47,0:08:12.10,Main,Musashi,0,0,0,,In commemoration of \N Manalo Stadium’s opening,
 Dialogue: 0,0:08:12.10,0:08:16.26,Main,Musashi,0,0,0,,we’ve started our sales today, \N before anyone else anywhere!
 Dialogue: 0,0:08:16.26,0:08:20.65,Main,Kojiro,0,0,0,,You can get an early taste of \N the Manalo Doughnuts, here and nowhere else!
@@ -371,7 +371,7 @@ Comment: 0,0:23:20.47,0:23:20.47,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.44,0:23:25.29,Main,Burnet,0,0,0,,Thanks for waiting! V!
 Dialogue: 0,0:23:25.29,0:23:27.53,Main,Burnet,0,0,0,,The Pokémon Gladio was looking for...
 Dialogue: 0,0:23:27.53,0:23:29.51,Main,Burnet,0,0,0,,...was Zoroark!
-Dialogue: 0,0:23:29.51,0:23:32.93,Main,Burnet,0,0,0,,The Illusion Fox Pokémon Zoroark \N is a Dark type.
+Dialogue: 0,0:23:29.51,0:23:32.93,Main,Burnet,0,0,0,,The Illusion Fox Pokémon Zoroark \N is an Evil type.
 Dialogue: 0,0:23:32.93,0:23:35.32,Main,Burnet,0,0,0,,It has the power to disguise itself \N as other Pokémon.{This does not match its game dex entries -Starfish}
 Dialogue: 0,0:23:35.32,0:23:39.00,Main,Burnet,0,0,0,,It’s said to protect its lair \N with illusory scenery.{Slightly reworded from its White dex entry -Starfish}
 Dialogue: 0,0:23:39.00,0:23:42.63,Main,Burnet,0,0,0,,I can’t believe you found it, \N Gladio!

@@ -79,7 +79,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.24,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.24,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.91,0:22:29.54,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.54,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.30,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -382,7 +382,7 @@ Dialogue: 0,0:15:58.18,0:15:59.67,Main,Ho & Sui,0,0,0,,Gotta see! Gotta see!
 Dialogue: 0,0:15:59.67,0:16:01.04,Main,Suiren's Mom,0,0,0,,Of course...
 Dialogue: 0,0:16:01.58,0:16:03.86,Main,Mamane's Mama's Man,0,0,0,,Shall we go, too, Dear?
 Dialogue: 0,0:16:03.86,0:16:04.98,Main,Mamane's Mama,0,0,0,,I suppose.
-Dialogue: 0,0:16:05.69,0:16:08.70,Main,Hanako,0,0,0,,I suppose I’ll have a \N look around, too, then.
+Dialogue: 0,0:16:05.69,0:16:08.70,Main,Hanako,0,0,0,,I suppose I’ll have \N a look around, too, then.
 Dialogue: 0,0:16:08.70,0:16:10.83,Main,Hanako,0,0,0,,Don’t you agree, \N Bari-chan, Nyabi-chan?
 Dialogue: 0,0:16:13.45,0:16:15.43,Main,Satoshi,0,0,0,,It’s over...
 Dialogue: 0,0:16:15.43,0:16:17.09,Main,Kukui,0,0,0,,You must be relieved, Satoshi.

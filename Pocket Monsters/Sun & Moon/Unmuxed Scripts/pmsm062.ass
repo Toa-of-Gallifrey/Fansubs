@@ -67,10 +67,10 @@ Dialogue: 0,0:03:07.91,0:03:12.96,OPp2,,0,0,0,,When we hold hands, see, we’re 
 Dialogue: 1,0:03:14.84,0:03:20.84,OP,,0,0,0,,You’re my sunshine and I love you
 Dialogue: 0,0:03:14.84,0:03:20.84,OPp2,,0,0,0,,You’re my sunshine and I love you
 Comment: 0,0:00:02.48,0:00:02.48,OP,,0,0,0,,
-Dialogue: 0,0:03:34.48,0:03:39.49,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,300)}The Dark Nyarth is
+Dialogue: 0,0:03:34.48,0:03:39.49,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,300)}The Evil Nyarth is
 Dialogue: 0,0:03:34.48,0:03:39.49,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,500)}an Alolan Nyarth?!
 Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,
-Dialogue: 0,0:12:37.52,0:12:40.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Nyarth (Alolan Form) \N {\fs40}Type:   Dark
+Dialogue: 0,0:12:37.52,0:12:40.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Nyarth (Alolan Form) \N {\fs40}Type:   Evil
 Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,
 Dialogue: 1,0:22:01.05,0:22:04.42,ED,,0,0,0,,{\fad(350,0)}Everyone relaxing in the tropical breeze
 Dialogue: 0,0:22:01.05,0:22:04.42,EDp2,,0,0,0,,{\fad(350,0)}Everyone relaxing in the tropical breeze
@@ -114,7 +114,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:00.98,0:00:03.48,Main,Nyarth,0,0,0,,Alola!
 Dialogue: 0,0:00:03.48,0:00:05.61,Main,Nyarth,0,0,0,,Here’s the PokéProblem, meow!
 Dialogue: 0,0:00:06.28,0:00:11.75,Main,Nyarth,0,0,0,,My rival appears in today’s episode, meow. \N Who is this rival, meow?
-Dialogue: 0,0:00:11.75,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at the \N end of the episode, meow!
+Dialogue: 0,0:00:11.75,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at \N the end of the episode, meow!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:20.09,0:00:21.87,Main,Satoshi,0,0,0,,Thanks for waiting, guys!
 Dialogue: 0,0:00:21.87,0:00:23.97,Main,Satoshi,0,0,0,,I’ve got some great snacks \N for you today!
@@ -190,10 +190,10 @@ Dialogue: 0,0:07:11.50,0:07:15.87,Main,Nyarth,0,0,0,,“You people appear to be 
 Dialogue: 0,0:07:15.87,0:07:19.59,Main,Nyarth,0,0,0,,“If you please, may I join you, meow?” \N it’s saying, meow.
 Dialogue: 0,0:07:19.59,0:07:21.42,Main,Nyarth,0,0,0,,You’re so impudent, meow!
 Dialogue: 0,0:07:21.42,0:07:25.88,Main,Nyarth,0,0,0,,Team Rocket has me! \N It doesn’t need any other Nyarth, meow!
-Dialogue: 0,0:07:26.22,0:07:29.38,Main,Kojiro,0,0,0,,Looks like Nyarth’s Alolan form \N is a Dark type!
-Dialogue: 0,0:07:30.52,0:07:35.31,Main,Musashi,0,0,0,,Doesn’t that mean it could use \N that Dark Z-Crystal we picked up and thought was useless?!
+Dialogue: 0,0:07:26.22,0:07:29.38,Main,Kojiro,0,0,0,,Looks like Nyarth’s Alolan form \N is an Evil type!
+Dialogue: 0,0:07:30.52,0:07:35.31,Main,Musashi,0,0,0,,Doesn’t that mean it could use \N that Evil Z-Crystal we picked up and thought was useless?!
 Dialogue: 0,0:07:35.31,0:07:36.31,Main,Kojiro,0,0,0,,Yeah!
-Dialogue: 0,0:07:42.32,0:07:44.49,Main,Kojiro,0,0,0,,Oh! The Dark-type \N full power pose!
+Dialogue: 0,0:07:42.32,0:07:44.49,Main,Kojiro,0,0,0,,Oh! The Evil-type \N full power pose!
 Dialogue: 0,0:07:44.49,0:07:46.61,Main,Musashi,0,0,0,,You can use the Z-Move, huh?
 Dialogue: 0,0:07:49.16,0:07:51.15,Main,Kojiro,0,0,0,,Let’s try it out right now!
 Dialogue: 0,0:07:53.62,0:07:55.88,Main,Nyarth,0,0,0,,It’s asking: \N “Where’s your Z-Ring?”, meow. {Added colon. - Toa}
@@ -206,7 +206,7 @@ Dialogue: 0,0:08:15.20,0:08:16.56,Main,Musashi,0,0,0,,Well, whatever.
 Dialogue: 0,0:08:16.56,0:08:18.90,Main,Musashi,0,0,0,,We can get the Ring later...
 Dialogue: 0,0:08:18.90,0:08:21.19,Main,Musashi,0,0,0,,For now, we should just get {\i1}you{\i0}, right?
 Dialogue: 0,0:08:21.19,0:08:25.31,Main,Nyarth,0,0,0,,Wait, meow! You’re actually gonna \N add that thing to our team, meow?!
-Dialogue: 0,0:08:25.66,0:08:29.69,Main,Musashi,0,0,0,,I mean... \N {\i1}You{\i0} can’t use the Dark Z-Move.
+Dialogue: 0,0:08:25.66,0:08:29.69,Main,Musashi,0,0,0,,I mean... \N {\i1}You{\i0} can’t use the Evil Z-Move.
 Dialogue: 0,0:08:31.91,0:08:35.99,Main,Nyarth,0,0,0,,I could do it too if we had a Z-Ring, meow! \N I {\i1}know{\i0} I could, meow! {Is the “can” supposed to be as it is, or should it be “could”, too? - Toa}
 Dialogue: 0,0:08:35.99,0:08:38.99,Main,Nyarth,0,0,0,,This one’s got a nasty personality...
 Dialogue: 0,0:08:41.63,0:08:43.63,Main,Musashi,0,0,0,,What are you doing, Nyarth?
@@ -257,7 +257,7 @@ Dialogue: 0,0:11:44.60,0:11:49.36,Main,Nyarth,0,0,0,,I’ve had too much to drin
 Dialogue: 0,0:11:49.36,0:11:55.69,Main,Nyarth,0,0,0,,We’ve been through so much together, \N but now they’re ignoring me in favor of that {\i1}thing{\i0}!
 Dialogue: 0,0:12:00.66,0:12:02.70,Main,Nyarth,0,0,0,,Master...
 Dialogue: 0,0:12:02.70,0:12:07.20,Main,Nyarth,0,0,0,,I can’t believe them, meow! \N They’re awful, meow!
-Dialogue: 0,0:12:07.20,0:12:12.12,Main,Nyarth,0,0,0,,All because I can’t use \N the Dark Z-Move, meow!
+Dialogue: 0,0:12:07.20,0:12:12.12,Main,Nyarth,0,0,0,,All because I can’t use \N the Evil Z-Move, meow!
 Dialogue: 0,0:12:22.06,0:12:28.47,Main,Nyarth,0,0,0,,I know, meow. I just have to make them understand \N that the Alolan Nyarth is useless, meow! {Suggesting to, if possible, replace the second “that” (or rephrase the line in such a way that it wouldn’t be necessary). I thought maybe changing it for an adjective? I don’t know how doable that is while keeping the meaning intact, though. Leave it as-is if it looks fine to you. - Toa}{One option would be to just go with “it”, which would be appropriate since the Japanese is just “aitsu”, but that would perhaps be hard to understand at a glance, so I instead just made it “the Alolan Nyarth” rather than “that Nyarth”. -Starfish OF THE FUTURE}
 Dialogue: 0,0:12:29.86,0:12:33.31,Main,Nyarth,0,0,0,,Pocket Monsters Sun & Moon, meow...
 Comment: 0,0:12:34.44,0:12:34.44,Main,,0,0,0,,{Part B}
@@ -292,7 +292,7 @@ Dialogue: 0,0:14:19.96,0:14:22.09,Main,Satoshi,0,0,0,,Nyarth, give Mokuroh back!
 Dialogue: 0,0:14:22.47,0:14:23.68,Main,Satoshi,0,0,0,,Huh? Nyarth?
 Dialogue: 0,0:14:23.68,0:14:26.52,Main,Lilie,0,0,0,,Satoshi, this is not the same \N Nyarth from before.
 Dialogue: 0,0:14:26.52,0:14:28.09,Main,Suiren,0,0,0,,It’s an Alolan Nyarth!
-Dialogue: 0,0:14:29.01,0:14:33.60,Main,Rotom,0,0,0,,Nyarth: Alolan Form. \N Scratch Cat Pokémon. Dark type.
+Dialogue: 0,0:14:29.01,0:14:33.60,Main,Rotom,0,0,0,,Nyarth: Alolan Form. \N Scratch Cat Pokémon. Evil type.
 Dialogue: 0,0:14:33.60,0:14:36.19,Main,Rotom,0,0,0,,This Pokémon was \N not originally found in Alola.
 Dialogue: 0,0:14:36.19,0:14:40.57,Main,Rotom,0,0,0,,It was brought here by humans, \N and eventually changed into this form.{This one part of the description does not match any Dex entries. The rest is from Sun.}{Suggestion to replace “people” with “humans”, unless Rotom’s information isn’t particularly scientific-sounding. - Toa}
 Dialogue: 0,0:14:40.57,0:14:42.86,Main,Rotom,0,0,0,,They’re prideful and crafty.
@@ -417,8 +417,8 @@ Comment: 0,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.14,0:23:24.85,Main,Nyarth,0,0,0,,Thanks for waiting, meow!
 Dialogue: 0,0:23:24.85,0:23:29.09,Main,Nyarth,0,0,0,,My detestable rival was \N an Alolan Nyarth, meow!
-Dialogue: 0,0:23:29.09,0:23:31.23,Main,Nyarth,0,0,0,,Alolan Nyarth is a Dark type, meow.
-Dialogue: 0,0:23:31.23,0:23:35.56,Main,Nyarth,0,0,0,,It seems it became a Dark type after \N being brought in from another region, but...
+Dialogue: 0,0:23:29.09,0:23:31.23,Main,Nyarth,0,0,0,,Alolan Nyarth is an Evil type, meow.
+Dialogue: 0,0:23:31.23,0:23:35.56,Main,Nyarth,0,0,0,,It seems it became an Evil type after \N being brought in from another region, but...
 Dialogue: 0,0:23:35.56,0:23:40.24,Main,Nyarth,0,0,0,,how did it become so deceitful \N here in the peaceful Alola Region?
 Dialogue: 0,0:23:40.24,0:23:42.19,Main,Nyarth,0,0,0,,I don’t get it, meow.
 Dialogue: 0,0:23:42.19,0:23:45.91,Main,Musashi,0,0,0,,Come to think of it, \N how did that Nyarth get to HQ?
@@ -426,7 +426,7 @@ Dialogue: 0,0:23:45.91,0:23:49.44,Main,Kojiro,0,0,0,,Kanto’s too far away \N f
 Dialogue: 0,0:23:50.20,0:23:52.95,Main,Nyarth,0,0,0,,My savings!
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:00.96,0:24:03.33,Main,Kukui,0,0,0,,To all the trainers in front of the TV!
-Dialogue: 0,0:24:03.33,0:24:07.50,Main,Kukui,0,0,0,,We, the ten-time winners of the \N Battle Royal, Royal Mask and...{Made “times” singular. - Toa}
+Dialogue: 0,0:24:03.33,0:24:07.50,Main,Kukui,0,0,0,,We, the ten-time winners of \N the Battle Royal, Royal Mask and...{Made “times” singular. - Toa}
 Dialogue: 0,0:24:08.43,0:24:12.51,Main,Kukui,0,0,0,,...Gaogaen, possess the \Nhottest flame in all of Alola!
 Dialogue: 0,0:24:12.51,0:24:14.30,Main,Kukui,0,0,0,,Can you defeat us?!
 Dialogue: 0,0:24:14.30,0:24:17.35,Main,Kukui,0,0,0,,We’ll offer up a burning \N DD Lariat to you!

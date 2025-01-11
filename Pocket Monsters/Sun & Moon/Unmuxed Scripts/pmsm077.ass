@@ -69,7 +69,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
 Dialogue: 0,0:02:57.53,0:03:02.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,220)}Kuchinashi's Grand Trial!
 Dialogue: 0,0:02:57.53,0:03:02.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,560)}Lugarugan Awakens!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:12:48.54,0:12:51.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,445)}Name: Persian\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  .         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}           (Alolan form)\N{\fs40}Type:   Dark
+Dialogue: 0,0:12:48.54,0:12:51.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,445)}Name: Persian\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  .         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}           (Alolan form)\N{\fs40}Type:   Evil
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:18:49.36,0:18:53.71,Insert,Mezase Pokémon Master,0,0,0,,Be it fire, water, grass, or forests,
 Dialogue: 0,0:18:53.71,0:18:57.24,Insert,Mezase Pokémon Master,0,0,0,,the ground, the clouds, or under that girl’s skirt
@@ -238,7 +238,7 @@ Dialogue: 0,0:08:43.23,0:08:45.62,Main,Acerola,0,0,0,,Uncle Kuchinashi, \N send 
 Dialogue: 0,0:08:46.05,0:08:46.88,Main,Kuchinashi,0,0,0,,Sure.
 Dialogue: 0,0:08:48.34,0:08:49.05,Main,Kuchinashi,0,0,0,,Let’s go!
 Dialogue: 0,0:08:52.05,0:08:54.03,Main,Satoshi,0,0,0,,So our next opponent is Yamirami!
-Dialogue: 0,0:08:55.14,0:08:58.72,Main,Rotom,0,0,0,,Yamirami. Darkness Pokémon. \N Dark/Ghost type. {Added a period before the linebreak. - Toa}
+Dialogue: 0,0:08:55.14,0:08:58.72,Main,Rotom,0,0,0,,Yamirami. Darkness Pokémon. \N Evil/Ghost type. {Added a period before the linebreak. - Toa}
 Dialogue: 0,0:08:58.72,0:09:00.92,Main,Rotom,0,0,0,,When its gemstone eyes begin \N to glow with a sinister shine,
 Dialogue: 0,0:09:00.92,0:09:03.84,Main,Rotom,0,0,0,,it’s feared that it will \N steal people’s spirits away.{This Dex entry does seem to be taken straight out of Moon, but I had to adjust it a bit in order to match HOW it’s said. -Starfish}
 Dialogue: 0,0:09:06.28,0:09:07.06,Main,Acerola,0,0,0,,Begin!
@@ -337,7 +337,7 @@ Dialogue: 0,0:14:58.71,0:15:01.96,Main,Kuchinashi,0,0,0,,Have a look! \N Its eye
 Dialogue: 0,0:15:03.97,0:15:04.88,Main,Acerola,0,0,0,,Lugarugan!
 Dialogue: 0,0:15:04.88,0:15:05.68,Main,Satoshi,0,0,0,,Not good!
 Dialogue: 0,0:15:05.68,0:15:06.98,Main,Rotom,0,0,0,,This is terrible-roto!
-Dialogue: 0,0:15:06.98,0:15:10.60,Main,Rotom,0,0,0,,Lugarugan will go into an \N uncontrollable fit of rage-roto!{literally “will become unable to control its anger” -Starfish}
+Dialogue: 0,0:15:06.98,0:15:10.60,Main,Rotom,0,0,0,,Lugarugan will go into \N an uncontrollable fit of rage-roto!{literally “will become unable to control its anger” -Starfish}
 Dialogue: 0,0:15:11.15,0:15:13.35,Main,Satoshi,0,0,0,,So you were trying to \N make him angry?
 Dialogue: 0,0:15:13.35,0:15:16.47,Main,Kuchinashi,0,0,0,,If I do that, \N it’ll stop obeying you, right?
 Dialogue: 0,0:15:16.47,0:15:19.97,Main,Kuchinashi,0,0,0,,Having you two self-destruct would be \N the best possible outcome for me.
@@ -352,7 +352,7 @@ Dialogue: 0,0:15:38.41,0:15:40.13,Main,Kuchinashi,0,0,0,,Persian. Crossroad Kill
 Dialogue: 0,0:15:44.15,0:15:45.05,Main,Satoshi,0,0,0,,Lugarugan!
 Dialogue: 0,0:15:46.79,0:15:49.14,Main,Kuchinashi,0,0,0,,You two sure are \N {\i1}perfect{\i0} partners!
 Dialogue: 0,0:15:49.14,0:15:51.18,Main,Satoshi,0,0,0,,That wasn’t fair!
-Dialogue: 0,0:15:51.18,0:15:55.69,Main,Kuchinashi,0,0,0,,Do you really think a Dark-type Pokémon user \N cares about being “fair”? {Added a hyphen to “Dark type” since it’s followed by a noun. - Toa}
+Dialogue: 0,0:15:51.18,0:15:55.69,Main,Kuchinashi,0,0,0,,Do you really think an Evil-type Pokémon user \N cares about being “fair”? {Added a hyphen to “Evil type” since it’s followed by a noun. - Toa}
 Dialogue: 0,0:15:58.67,0:16:01.05,Main,Kuchinashi,0,0,0,,They’re a perfect target, Persian.
 Dialogue: 0,0:16:01.05,0:16:02.65,Main,Kuchinashi,0,0,0,,Dish out some more pain!
 Dialogue: 0,0:16:04.44,0:16:06.45,Main,Satoshi,0,0,0,,Calm down, Lugarugan!
@@ -383,7 +383,7 @@ Dialogue: 0,0:17:53.84,0:17:56.42,Main,Satoshi,0,0,0,,You learned Counter?!
 Dialogue: 0,0:18:00.52,0:18:02.39,Main,Kuchinashi,0,0,0,,Interesting.
 Dialogue: 0,0:18:03.73,0:18:08.09,Main,Kuchinashi,0,0,0,,Didn’t think I’d have to use this.
 Dialogue: 0,0:18:09.15,0:18:10.16,Main,Satoshi,0,0,0,,A Z-Move?!
-Dialogue: 0,0:18:13.90,0:18:17.03,Main,Kuchinashi,0,0,0,,May the full power of darkness \N consume you.
+Dialogue: 0,0:18:13.90,0:18:17.03,Main,Kuchinashi,0,0,0,,May the full power of evil \N consume you.
 Dialogue: 0,0:18:25.33,0:18:27.75,Main,Kuchinashi,0,0,0,,Black Hole Eclipse.
 Dialogue: 0,0:18:35.82,0:18:37.73,Main,Satoshi,0,0,0,,Fight Z-Move with Z-Move!
 Dialogue: 0,0:18:38.49,0:18:40.22,Main,Satoshi,0,0,0,,Let’s go, Lugarugan!
@@ -403,8 +403,8 @@ Dialogue: 0,0:19:51.96,0:19:55.43,Main,Kuchinashi,0,0,0,,Well, what can I say? \
 Dialogue: 0,0:19:57.21,0:19:58.76,Main,Satoshi,0,0,0,,Thank you so much!
 Dialogue: 0,0:19:58.76,0:20:00.49,Main,Acerola,0,0,0,,You did it, Satoshi!
 Dialogue: 0,0:20:00.49,0:20:02.76,Main,Acerola,0,0,0,,Lugarugan, \N you were great, too!
-Dialogue: 0,0:20:03.11,0:20:06.15,Main,Kuchinashi,0,0,0,,As proof of your victory, \N I’ll give you a Dark-Z...
-Dialogue: 0,0:20:06.77,0:20:10.49,Main,Kuchinashi,0,0,0,,...is what I was thinking, \N but you’re not really a “Dark” kinda guy, kid.
+Dialogue: 0,0:20:03.11,0:20:06.15,Main,Kuchinashi,0,0,0,,As proof of your victory, \N I’ll give you an Evil-Z...
+Dialogue: 0,0:20:06.77,0:20:10.49,Main,Kuchinashi,0,0,0,,...is what I was thinking, \N but you’re not really an “Evil” kinda guy, kid.
 Dialogue: 0,0:20:13.28,0:20:15.27,Main,Kuchinashi,0,0,0,,Take this instead.
 Dialogue: 0,0:20:15.65,0:20:16.65,Main,Satoshi,0,0,0,,What’s this?
 Dialogue: 0,0:20:16.65,0:20:18.15,Main,Kuchinashi,0,0,0,,A Lugarugan-Z.
@@ -436,7 +436,7 @@ Comment: 0,0:23:20.51,0:23:20.51,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.25,0:23:24.57,Main,Satoshi,0,0,0,,Thanks for waiting!
 Dialogue: 0,0:23:24.57,0:23:26.83,Main,Satoshi,0,0,0,,The final Pokémon \N Mr. Kuchinashi sent out...
 Dialogue: 0,0:23:26.83,0:23:28.84,Main,Satoshi,0,0,0,,...was Alolan Persian!
-Dialogue: 0,0:23:29.28,0:23:33.53,Main,Satoshi,0,0,0,,The Classy Cat Pokémon Persian’s \N Alolan form is a Dark type.
+Dialogue: 0,0:23:29.28,0:23:33.53,Main,Satoshi,0,0,0,,The Classy Cat Pokémon Persian’s \N Alolan form is an Evil type.
 Dialogue: 0,0:23:33.53,0:23:36.45,Main,Satoshi,0,0,0,,Kuchinashi’s Persian’s Z-Move \N was pretty amazing, but...
 Dialogue: 0,0:23:36.45,0:23:40.32,Main,Satoshi,0,0,0,,thanks to Lugarugan’s hard work, \N we were able to clear the Grand Trial!
 Dialogue: 0,0:23:40.32,0:23:41.96,Main,Satoshi,0,0,0,,Thanks, Lugarugan!
@@ -449,7 +449,7 @@ Dialogue: 0,0:23:58.73,0:24:00.46,Main,Rotom,0,0,0,,Like {\i1}this{\i0}-roto!
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.05,0:24:04.31,Main,Mamane,0,0,0,,Ultra Aura detected at Point 806 on \N Melemele Island’s southeastern beach!
 Dialogue: 0,0:24:04.31,0:24:05.28,Main,Lilie,0,0,0,,An Ultra Hole has materialized!
-Dialogue: 0,0:24:05.28,0:24:06.64,Main,Lilie,0,0,0,,We’re getting an \N Ultra Beast reading!
+Dialogue: 0,0:24:05.28,0:24:06.64,Main,Lilie,0,0,0,,We’re getting \N an Ultra Beast reading!
 Dialogue: 0,0:24:06.64,0:24:07.17,Main,Satoshi,0,0,0,,Here it comes...
 Dialogue: 0,0:24:07.17,0:24:07.80,Main,Suiren,0,0,0,,An Ultra Beast...
 Dialogue: 0,0:24:07.80,0:24:09.37,Main,Kaki,0,0,0,,Exchange information \N with the Alola Police!

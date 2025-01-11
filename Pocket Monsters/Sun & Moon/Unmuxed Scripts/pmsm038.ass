@@ -49,7 +49,7 @@ Dialogue: 0,0:05:20.67,0:05:29.39,OPED,,0,0,0,,I wanna be one! Gotta be one! Wil
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:05:44.49,0:05:49.49,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,310)}Mimikkyu’s Disguise!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:10:00.54,0:10:03.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\pos(132,468)\blur3}Name: Yamikarasu\NType:   Dark/Flying
+Dialogue: 0,0:10:00.54,0:10:03.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\pos(132,468)\blur3}Name: Yamikarasu\NType:   Evil/Flying
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:03.21,0:22:07.14,OPED,,0,0,0,,{\fad(400,0)}Yo! Champ in the making! Now, let’s keep up the enthusiasm today!
 Dialogue: 0,0:22:07.14,0:22:10.85,OPED,,0,0,0,,Get them, get them! (Get them, get them!) Now, let’s keep making friends!
@@ -58,7 +58,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.95,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.95,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.95,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -83,7 +83,7 @@ Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:16.92,0:00:20.22,Main,Narrator,0,0,0,,Satoshi got the Rock-Z \N on Akala Island.
 Dialogue: 0,0:00:20.22,0:00:23.04,Main,Narrator,0,0,0,,Today, he’s once again headed for \N the Pokémon School in high spirits,
 Dialogue: 0,0:00:23.04,0:00:27.63,Main,Narrator,0,0,0,,together with Pikachu and \N the recently evolved Lugarugan.
-Dialogue: 0,0:00:27.63,0:00:31.51,Main,Satoshi,0,0,0,,Lugarugan, let’s test the \N Rock Z-Move together!
+Dialogue: 0,0:00:27.63,0:00:31.51,Main,Satoshi,0,0,0,,Lugarugan, let’s test \N the Rock Z-Move together!
 Dialogue: 0,0:00:32.22,0:00:34.08,Main,Rotom,0,0,0,,I’d like to see it too-roto.
 Dialogue: 0,0:00:35.24,0:00:37.06,Main,Mao,0,0,0,,Alola, Satoshi!
 Dialogue: 0,0:00:37.70,0:00:39.19,Main,Satoshi,0,0,0,,Mao, Alola!
@@ -99,7 +99,7 @@ Dialogue: 0,0:01:02.91,0:01:05.65,Main,Musashi,0,0,0,,Wasn’t that {\i1}shockin
 Dialogue: 0,0:01:05.65,0:01:08.38,Main,Kojiro,0,0,0,,Paying our respects to the Alolan sunrise \N was well worth it!
 Dialogue: 0,0:01:08.38,0:01:09.38,Main,Satoshi,0,0,0,,Team Rocket!
 Dialogue: 0,0:01:14.03,0:01:15.75,Main,Team Rocket,0,0,0,,{\i1}No use!{\i0}
-Dialogue: 0,0:01:17.07,0:01:20.52,Main,Satoshi,0,0,0,,In that case, I’ll test the \N Rock Z-Move right here!
+Dialogue: 0,0:01:17.07,0:01:20.52,Main,Satoshi,0,0,0,,In that case, I’ll test \N the Rock Z-Move right here!
 Dialogue: 0,0:01:20.93,0:01:21.95,Main,Satoshi,0,0,0,,Lugarugan!
 Dialogue: 0,0:01:23.34,0:01:25.14,Main,Musashi,0,0,0,,{\i1}That’s{\i0} a Luganga?
 Dialogue: 0,0:01:25.14,0:01:27.32,Main,Nyarth,0,0,0,,It’s actually called {\i1}Lugarugan{\i0}, meow.
@@ -143,7 +143,7 @@ Dialogue: 0,0:04:09.48,0:04:12.48,Main,Musashi,0,0,0,,{\i1}...not fine!{\i0}
 Comment: 0,0:04:12.48,0:04:12.48,Main,,0,0,0,,{Opening}
 Comment: 0,0:05:40.48,0:05:40.48,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:05:50.84,0:05:52.89,Main,Nyarth,0,0,0,,What’s inside Mimikkyu...
-Dialogue: 0,0:05:52.89,0:05:56.75,Main,Nyarth,0,0,0,,...is an entrance to a \N terrifying world, meow.
+Dialogue: 0,0:05:52.89,0:05:56.75,Main,Nyarth,0,0,0,,...is an entrance to \N a terrifying world, meow.
 Dialogue: 0,0:05:56.75,0:06:00.19,Main,Nyarth,0,0,0,,If you happen to see what’s inside,
 Dialogue: 0,0:06:00.19,0:06:04.38,Main,Nyarth,0,0,0,,you might never be able to \N come back to us, meow!
 Dialogue: 0,0:06:07.57,0:06:09.60,Main,Musashi,0,0,0,,That’s what Nyarth told me...
@@ -239,7 +239,7 @@ Dialogue: 0,0:11:11.31,0:11:17.13,Main,Kukui,0,0,0,,But Lugarugan doesn’t have
 Dialogue: 0,0:11:17.82,0:11:19.87,Main,Lilie,0,0,0,,Do you mean something like...
 Dialogue: 0,0:11:19.87,0:11:24.83,Main,Lilie,0,0,0,,...him trying too hard, exhausting his power \N before he gets to attack?
 Dialogue: 0,0:11:26.70,0:11:29.53,Main,Kukui,0,0,0,,That might be it.
-Dialogue: 0,0:11:29.53,0:11:33.34,Main,Kukui,0,0,0,,How about taking another look at the \N Rock-type move you’re using as the foundation?
+Dialogue: 0,0:11:29.53,0:11:33.34,Main,Kukui,0,0,0,,How about taking another look at \N the Rock-type move you’re using as the foundation?
 Dialogue: 0,0:11:33.34,0:11:37.05,Main,Kukui,0,0,0,,So that you can make \N Lugarugan’s power your own.
 Dialogue: 0,0:11:37.69,0:11:40.08,Main,Satoshi,0,0,0,,All right! \N I’ll give it a go, Professor!
 Dialogue: 0,0:11:40.08,0:11:42.29,Main,Mao,0,0,0,,Then I guess it’s time \N to train, right, Satoshi?
@@ -292,7 +292,7 @@ Dialogue: 0,0:14:49.74,0:14:50.67,Main,Musashi,0,0,0,,Give it back!
 Dialogue: 0,0:14:52.62,0:14:53.37,Main,Musashi,0,0,0,,Got it!
 Dialogue: 0,0:14:54.33,0:14:57.45,Main,Musashi,0,0,0,,Hey! Give it back! \N Give it back! Give it {\i1}back!
 Dialogue: 0,0:14:57.45,0:14:58.62,Main,Musashi,0,0,0,,Got it!
-Dialogue: 0,0:15:02.81,0:15:05.59,Main,Nyarth,0,0,0,,We finally reached the \N shopping mall, meow...
+Dialogue: 0,0:15:02.81,0:15:05.59,Main,Nyarth,0,0,0,,We finally reached \N the shopping mall, meow...
 Dialogue: 0,0:15:06.05,0:15:08.28,Main,Kojiro,0,0,0,,We sure got lost pretty badly.
 Dialogue: 0,0:15:08.28,0:15:10.12,Main,Kojiro,0,0,0,,Wait, where’s Sonansu?
 Dialogue: 0,0:15:10.12,0:15:11.76,Main,Nyarth,0,0,0,,Did we get separated, meow?

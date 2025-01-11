@@ -129,7 +129,7 @@ Dialogue: 0,0:02:56.28,0:02:59.07,Main,Joy,0,0,0,,Alola! Welcome to Poni Island!
 Dialogue: 0,0:02:59.07,0:03:00.82,Main,Them,0,0,0,,{\i1}Alola!{\i0}
 Dialogue: 0,0:03:00.82,0:03:04.20,Main,Kukui,0,0,0,,My students will be in your care \N for the next few days.
 Dialogue: 0,0:03:04.20,0:03:05.72,Main,Joy,0,0,0,,You can leave it to me.
-Dialogue: 0,0:03:05.72,0:03:10.63,Main,Satoshi,0,0,0,,Um, Ms. Joy... {Are you the \N Joy on Melemele Island’s older sister?}Is Melemele Island’s Joy \N your younger sister?{kind of flipped the sentence around to sound better --Puto}
+Dialogue: 0,0:03:05.72,0:03:10.63,Main,Satoshi,0,0,0,,Um, Ms. Joy... {Are you \N the Joy on Melemele Island’s older sister?}Is Melemele Island’s Joy \N your younger sister?{kind of flipped the sentence around to sound better --Puto}
 Dialogue: 0,0:03:10.63,0:03:14.04,Main,Joy,0,0,0,,No, I’m the youngest \N of the four of us.{So wait, there are only four Pokémon Centers in the ENTIRE Alola Region? The GAME had more of them than that, and the anime typically loves to introduce new locations that didn’t exist in the games! -Starfish}
 Dialogue: 0,0:03:17.97,0:03:21.68,Main,Rotom,0,0,0,,She’s once again over 99% identical \N to the other two-roto!
 Dialogue: 0,0:03:22.99,0:03:26.67,Main,Joy,0,0,0,,I’m told I’m the cutest \N of all my sisters!
@@ -153,7 +153,7 @@ Dialogue: 0,0:04:15.27,0:04:19.09,Main,Joy,0,0,0,,They’re incredibly long radi
 Dialogue: 0,0:04:19.09,0:04:21.57,Main,Joy,0,0,0,,They say they’re hard to harvest \N without breaking them.
 Dialogue: 0,0:04:21.57,0:04:24.49,Main,Rotom,0,0,0,,Poni Radishes! \N Data updated-roto!
 Dialogue: 0,0:04:24.49,0:04:29.08,Main,Suiren,0,0,0,,I’m meeting Master! \N We made a promise by letter!
-Dialogue: 0,0:04:29.08,0:04:32.47,Main,Mao,0,0,0,,Master? You mean I'a \N from the seafolk?
+Dialogue: 0,0:04:29.08,0:04:32.47,Main,Mao,0,0,0,,Master? You mean I'\N a from the seafolk?
 Dialogue: 0,0:04:32.47,0:04:33.96,Main,Mao,0,0,0,,You’ve been writing to each other?
 Dialogue: 0,0:04:33.96,0:04:34.97,Main,Suiren,0,0,0,,Yup.
 Dialogue: 0,0:04:34.97,0:04:38.46,Main,Suiren,0,0,0,,Don’t you want to see Master \N and Oshamari again soon?

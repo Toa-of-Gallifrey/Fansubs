@@ -196,9 +196,9 @@ Dialogue: 0,0:01:06.11,0:01:08.04,Main,Satoshi,0,0,0,,Then what about Hanada Gym
 Dialogue: 0,0:01:08.04,0:01:10.59,Main,Kasumi,0,0,0,,I left my sisters in charge.
 Dialogue: 0,0:01:11.02,0:01:13.44,Main,Kasumi,0,0,0,,We’ve had so many \N challengers as of late.
 Dialogue: 0,0:01:13.44,0:01:15.80,Main,Kasumi,0,0,0,,I need a break \N every now and then, you know?
-Dialogue: 0,0:01:15.80,0:01:19.18,Main,Takeshi,0,0,0,,I wanted to see the \N Pokémon Centers in Alola.
+Dialogue: 0,0:01:15.80,0:01:19.18,Main,Takeshi,0,0,0,,I wanted to see \N the Pokémon Centers in Alola.
 Dialogue: 0,0:01:19.18,0:01:23.04,Main,Mamane,0,0,0,,It really shows that you’re a Pokémon Doctor! \N You’re so passionate about your research! {aaaaagh stockTLs of SASUGA. --puto}{Fixed the running comment gag. Because that is clearly the most important thing I must do. -Starfish}
-Dialogue: 0,0:01:23.04,0:01:24.76,Main,Takeshi,0,0,0,,I’m still just a \N doctor in training, though.
+Dialogue: 0,0:01:23.04,0:01:24.76,Main,Takeshi,0,0,0,,I’m still just \N a doctor in training, though.
 Dialogue: 0,0:01:24.76,0:01:28.23,Main,Kasumi,0,0,0,,That said, we’re planning to \N have loads of fun while we’re here!
 Dialogue: 0,0:01:28.23,0:01:31.36,Main,Kasumi,0,0,0,,Please take us to all the cool stuff \N there is to see in Alola, guys!
 Dialogue: 0,0:01:31.36,0:01:35.71,Main,Mao,0,0,0,,Of course! Especially after you \N took such good care of us in Kanto!
@@ -503,7 +503,7 @@ Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:00.50,0:24:04.75,Main,Takeshi,0,0,0,,It was a miracle that happened \N one night on a midsummer’s island...
 Dialogue: 0,0:24:05.23,0:24:08.68,Main,Takeshi,0,0,0,,Under the veil of night, I met...
 Dialogue: 0,0:24:08.68,0:24:09.80,Main,Takeshi,0,0,0,,...a yukata-clad goddess.
-Dialogue: 0,0:24:10.54,0:24:17.64,Main,Takeshi,0,0,0,,Before I knew it, the woman illuminated by the \N countless moonlit flowers had me spellbound.
+Dialogue: 0,0:24:10.54,0:24:17.64,Main,Takeshi,0,0,0,,Before I knew it, the woman illuminated by \N the countless moonlit flowers had me spellbound.
 Dialogue: 0,0:24:17.64,0:24:20.41,Main,Takeshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:20.41,0:24:21.64,Main,Takeshi,0,0,0,,The Fireworks, the Yukata and the L—
 Dialogue: 0,0:24:21.64,0:24:22.61,Main,Takeshi,0,0,0,,Ow ow ow ow!

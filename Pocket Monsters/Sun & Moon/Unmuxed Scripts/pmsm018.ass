@@ -85,7 +85,7 @@ Dialogue: 0,0:22:12.43,0:22:14.64,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.64,0:22:18.31,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.31,0:22:22.19,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.19,0:22:24.07,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.99,0:22:29.62,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.62,0:22:33.37,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.37,0:22:37.21,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -295,7 +295,7 @@ Dialogue: 0,0:11:25.20,0:11:28.14,Main,Mao,0,0,0,,I’m not sure if they \N get 
 Dialogue: 0,0:11:28.14,0:11:30.85,Main,Satoshi,0,0,0,,Oh, I just had a brilliant idea, Mao!
 Dialogue: 0,0:11:30.85,0:11:32.21,Main,Mao,0,0,0,,Huh? Brilliant idea?
 Dialogue: 0,0:11:32.66,0:11:34.67,Main,Satoshi,0,0,0,,I know how to find Odoridori!
-Dialogue: 0,0:11:35.69,0:11:37.76,Main,Satoshi,0,0,0,,Odoridori is a \N bird Pokémon, too, yeah?
+Dialogue: 0,0:11:35.69,0:11:37.76,Main,Satoshi,0,0,0,,Odoridori is \N a bird Pokémon, too, yeah?
 Dialogue: 0,0:11:37.76,0:11:41.18,Main,Satoshi,0,0,0,,So if Amakaji releases \N plenty of Sweet Scent,
 Dialogue: 0,0:11:41.18,0:11:43.51,Main,Satoshi,0,0,0,,one might come flying here \N like Mokuroh does!
 Dialogue: 0,0:11:44.34,0:11:46.52,Main,Mao,0,0,0,,That could work!

@@ -145,7 +145,7 @@ Dialogue: 0,0:01:30.65,0:01:34.69,Main,Sauboh,0,0,0,,It is a striking work of ar
 Dialogue: 0,0:01:34.69,0:01:36.74,Main,Sauboh,0,0,0,,Yeah... It really is amazing.
 Dialogue: 0,0:01:36.74,0:01:39.85,Main,Sauboh,0,0,0,,As such, I took hints \N from the Monster Ball...
 Dialogue: 0,0:01:39.85,0:01:45.71,Main,Sauboh,0,0,0,,...and invented a machine which can make any object, \N no matter how large or heavy, fit into a tiny capsule!
-Dialogue: 0,0:01:45.71,0:01:50.71,Main,Sauboh,0,0,0,,I call it the \N Super Storage Sauboh DX!
+Dialogue: 0,0:01:45.71,0:01:50.71,Main,Sauboh,0,0,0,,I call it \N the Super Storage Sauboh DX!
 Dialogue: 0,0:01:50.71,0:01:54.71,Main,Sauboh,0,0,0,,No matter how large an object is, \N this machine will, with the press of a single button... {Added comma after “will”. - Toa}
 Dialogue: 0,0:01:57.35,0:02:02.69,Main,Sauboh,0,0,0,,...shrink, shrink, shrink it down...
 Dialogue: 0,0:02:02.69,0:02:05.98,Main,Sauboh,0,0,0,,...and store it within the capsule.
@@ -403,7 +403,7 @@ Dialogue: 0,0:23:52.78,0:23:54.60,Main,Mamane,0,0,0,,She’s back to normal!
 Dialogue: 0,0:23:54.60,0:23:57.75,Main,Sauboh,0,0,0,,Oh? How fortunate \N it happened quickly this time!
 Dialogue: 0,0:23:57.75,0:23:59.38,Main,Them,0,0,0,,{\i1}Nothing fortunate about it!{\i0}
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.03,0:24:03.23,Main,Mamane,0,0,0,,Satoshi! Wanna do the \N Pokémon Drawing Song?
+Dialogue: 0,0:24:01.03,0:24:03.23,Main,Mamane,0,0,0,,Satoshi! Wanna do \N the Pokémon Drawing Song?
 Dialogue: 0,0:24:03.23,0:24:03.88,Main,Satoshi,0,0,0,,Okay!
 Dialogue: 0,0:24:03.88,0:24:07.12,Main,Mamane,0,0,0,,There’s one pole
 Dialogue: 0,0:24:07.12,0:24:08.63,Main,Satoshi,0,0,0,,One pole...

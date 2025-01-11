@@ -125,7 +125,7 @@ Dialogue: 0,0:00:06.60,0:00:12.29,Main,Lilie,0,0,0,,Which Pokémon emerges \N fr
 Dialogue: 0,0:00:12.29,0:00:14.51,Main,Lilie,0,0,0,,Get the answer at the end of the episode!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:35.91,0:00:37.83,Main,Satoshi,0,0,0,,I slept great!
-Dialogue: 0,0:00:38.47,0:00:41.09,Main,Rotom,0,0,0,,It’s the start of a \N new morning-roto!
+Dialogue: 0,0:00:38.47,0:00:41.09,Main,Rotom,0,0,0,,It’s the start of \N a new morning-roto!
 Dialogue: 0,0:00:48.84,0:00:50.32,Main,Satoshi,0,0,0,,What’s up, Bebenom?
 Dialogue: 0,0:00:51.95,0:00:53.75,Main,Rotom,0,0,0,,Looking for something-roto?
 Dialogue: 0,0:00:55.61,0:00:57.98,Main,Satoshi,0,0,0,,Time to eat! Time to eat!
@@ -169,7 +169,7 @@ Dialogue: 0,0:04:17.66,0:04:18.90,Main,Kukui,0,0,0,,Oh, right.
 Dialogue: 0,0:04:18.90,0:04:20.39,Main,Lilie,0,0,0,,Did something happen to you?
 Dialogue: 0,0:04:20.39,0:04:21.65,Main,Kukui,0,0,0,,No, nothing.
 Dialogue: 0,0:04:21.65,0:04:28.50,Main,Kukui,0,0,0,,Um... I was going to hold \N a class on the Manalo Festival...
-Dialogue: 0,0:04:28.50,0:04:31.96,Main,Kukui,0,0,0,,...which will be held during the \N total solar eclipse in two days...
+Dialogue: 0,0:04:28.50,0:04:31.96,Main,Kukui,0,0,0,,...which will be held during \N the total solar eclipse in two days...
 Dialogue: 0,0:04:31.96,0:04:33.62,Main,Kukui,0,0,0,,Discuss it yourselves.
 Dialogue: 0,0:04:33.62,0:04:34.92,Main,Them,0,0,0,,{\i1}Huh?!{\i0}
 Dialogue: 0,0:04:34.92,0:04:37.57,Main,Kukui,0,0,0,,Okay, keep it up...
@@ -178,7 +178,7 @@ Dialogue: 0,0:04:48.12,0:04:51.47,Main,Kaki,0,0,0,,Very well! {\i1}I{\i0} will t
 Dialogue: 0,0:04:51.47,0:04:53.06,Main,Satoshi,0,0,0,,Yeah! Counting on you!
 Dialogue: 0,0:04:53.06,0:04:57.35,Main,Kaki,0,0,0,,Once every 21 years, \N there’s a total solar eclipse in Alola.
 Dialogue: 0,0:04:57.35,0:05:03.38,Main,Kaki,0,0,0,,The four Island Kings and Queens of Alola \N go to their islands’ ruins on that day... {Original: “The Island Kings and Queens of the four Alolan islands \N go to their respective ruins on that day...”. Not sure if it should be “islands’” or “island’s”. - Toa}
-Dialogue: 0,0:05:03.38,0:05:09.20,Main,Kaki,0,0,0,,...and offer a prayer of gratitude to the \N Legendary Pokémon described in Alola’s creation myth!
+Dialogue: 0,0:05:03.38,0:05:09.20,Main,Kaki,0,0,0,,...and offer a prayer of gratitude to \N the Legendary Pokémon described in Alola’s creation myth!
 Dialogue: 0,0:05:09.58,0:05:14.47,Main,Mao,0,0,0,,That’s the Manalo Festival, which has been a tradition in Alola \N since the region was formed!
 Dialogue: 0,0:05:14.47,0:05:16.08,Main,Satoshi,0,0,0,,What’s “Manalo”?
 Dialogue: 0,0:05:16.08,0:05:20.84,Main,Kaki,0,0,0,,It’s from the old language. \N It means “You and I live together.”
@@ -222,7 +222,7 @@ Dialogue: 0,0:07:17.59,0:07:18.58,Main,Lilie,0,0,0,,The end.
 Dialogue: 0,0:07:18.58,0:07:20.67,Main,Kaki,0,0,0,,First time I’ve heard the story.
 Dialogue: 0,0:07:20.67,0:07:22.82,Main,Satoshi,0,0,0,,What are these \N “emissaries of the sun and moon”?
 Dialogue: 0,0:07:22.82,0:07:27.09,Main,Mao,0,0,0,,They’re probably Solgaleo and Lunala. \N They were in that picture, too.
-Dialogue: 0,0:07:27.09,0:07:28.70,Main,Mamane,0,0,0,,What about the \N “ends of the sky”?
+Dialogue: 0,0:07:27.09,0:07:28.70,Main,Mamane,0,0,0,,What about \N the “ends of the sky”?
 Dialogue: 0,0:07:28.70,0:07:30.22,Main,Suiren,0,0,0,,The other side of the Ultra Hole!
 Dialogue: 0,0:07:30.22,0:07:34.80,Main,Kaki,0,0,0,,Does that mean that the Radiant One \N still lives on the other side of the Ultra Hole?
 Dialogue: 0,0:07:35.86,0:07:38.89,Main,Lilie,0,0,0,,That is absolutely possible, \N if the story is indeed true.
@@ -251,7 +251,7 @@ Dialogue: 0,0:08:50.33,0:08:54.17,Main,Nyarth,0,0,0,,I’m so excited, meow! \N 
 Dialogue: 0,0:08:54.17,0:08:56.76,Main,Musashi,0,0,0,,Eclipse? Big deal...
 Dialogue: 0,0:08:57.17,0:09:02.43,Main,Musashi,0,0,0,,It’s just the sun getting covered by the moon \N so you can’t see it, right?
 Dialogue: 0,0:09:02.43,0:09:05.75,Main,Kojiro,0,0,0,,It might have caused \N a huge commotion in the past...
-Dialogue: 0,0:09:05.75,0:09:09.77,Main,Kojiro,0,0,0,,But to us, it’s just a \N well-understood natural phenomenon.
+Dialogue: 0,0:09:05.75,0:09:09.77,Main,Kojiro,0,0,0,,But to us, it’s just \N a well-understood natural phenomenon.
 Dialogue: 0,0:09:09.77,0:09:12.83,Main,Nyarth,0,0,0,,Why are you so cold, meow?
 Dialogue: 0,0:09:13.83,0:09:16.74,Main,Nyarth,0,0,0,,Everybody else is \N looking forward to it, meow!
 Dialogue: 0,0:09:23.66,0:09:27.27,Main,Mao,0,0,0,,Huh? Dad? Are you here?
@@ -281,7 +281,7 @@ Dialogue: 0,0:10:57.81,0:11:00.79,Main,Wicke,0,0,0,,I didn’t mean to \N phrase
 Dialogue: 0,0:11:01.30,0:11:06.14,Main,Wicke,0,0,0,,I’m just in such a downer mood, \N it’s making me say things in a much harsher way...
 Dialogue: 0,0:11:06.57,0:11:08.86,Main,Burnet,0,0,0,,It’s not just you...
 Dialogue: 0,0:11:08.86,0:11:11.00,Main,Burnet,0,0,0,,I feel the same way, too...
-Dialogue: 0,0:11:15.12,0:11:18.97,Main,Lusamine,0,0,0,,Could that be due to the \N Ultra Aura diminshing, too?
+Dialogue: 0,0:11:15.12,0:11:18.97,Main,Lusamine,0,0,0,,Could that be due to \N the Ultra Aura diminshing, too?
 Dialogue: 0,0:11:18.97,0:11:22.01,Main,Burnet,0,0,0,,I can’t say for sure yet...
 Dialogue: 0,0:11:22.01,0:11:23.77,Main,Burnet,0,0,0,,But there might be a connection...
 Dialogue: 0,0:11:24.63,0:11:26.01,Main,Burnet,0,0,0,,Analysis complete...
@@ -404,7 +404,7 @@ Dialogue: 0,0:19:58.30,0:20:01.18,Main,Rotom,0,0,0,,It’s the symbol Bebenom \N
 Dialogue: 0,0:20:01.18,0:20:02.13,Main,Satoshi,0,0,0,,It’s true.
 Dialogue: 0,0:20:02.13,0:20:03.80,Main,Mamane,0,0,0,,There’s a lot of letters, too! {Added comma. - Toa}
 Dialogue: 0,0:20:05.11,0:20:07.31,Main,Rotom,0,0,0,,These are from \N an ancient alphabet-roto!
-Dialogue: 0,0:20:07.31,0:20:10.95,Main,Lusamine,0,0,0,,Do you remember the \N legend of the Radiant One?
+Dialogue: 0,0:20:07.31,0:20:10.95,Main,Lusamine,0,0,0,,Do you remember \N the legend of the Radiant One?
 Dialogue: 0,0:20:10.95,0:20:11.70,Main,Gladio,0,0,0,,Yeah.
 Dialogue: 0,0:20:11.70,0:20:13.06,Main,Lilie,0,0,0,,Of course.
 Dialogue: 0,0:20:13.54,0:20:19.07,Main,Lusamine,0,0,0,,If we can decipher this text, \N we might be able to solve the mystery behind the legend.

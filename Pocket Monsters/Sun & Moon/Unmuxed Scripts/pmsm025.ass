@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 Video Zoom: 4
 PlayResX: 1280
-Video Aspect Ratio: c1.77778
 PlayResY: 720
+Video Aspect Ratio: c1.77778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -86,7 +86,7 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.94,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.86,0:22:29.49,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.49,0:22:33.49,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.49,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -167,7 +167,7 @@ Dialogue: 0,0:04:42.34,0:04:45.11,Main,Kukui,0,0,0,,But seeing them all lined up
 Dialogue: 0,0:04:45.11,0:04:47.18,Main,Kukui,0,0,0,,Can anyone tell which \N Crystal is which?
 Dialogue: 0,0:04:51.85,0:04:55.67,Main,Rotom,0,0,0,,Normal, Fighting, Poison, Ground, \N Flying, Bug, Rock, Ghost,{Pondering whether or not we should just leave all these lines that are clearly quoting the ending song without any punctuation at the end. -Starfish}{even if it's quoting the song, it's not a song so having music formatting is awkward —Puto}{Yeah, definitely keep punctuation. - Toa}
 Dialogue: 0,0:04:55.67,0:04:57.59,Main,Rotom,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice,
-Dialogue: 0,0:04:57.59,0:04:59.73,Main,Rotom,0,0,0,,Psychic, Dragon, Dark, Fairy.
+Dialogue: 0,0:04:57.59,0:04:59.73,Main,Rotom,0,0,0,,Psychic, Dragon, Evil, Fairy.
 Dialogue: 0,0:04:59.73,0:05:01.31,Main,Rotom,0,0,0,,There you have it-roto!
 Dialogue: 0,0:05:01.31,0:05:03.11,Main,Kukui,0,0,0,,Absolutely correct!
 Dialogue: 0,0:05:03.11,0:05:05.31,Main,Satoshi,0,0,0,,Knew {\i1}you’d{\i0} get it, Rotom!{SASUGA. -Starfish}
@@ -177,7 +177,7 @@ Dialogue: 0,0:05:18.82,0:05:21.91,Main,Kojiro,0,0,0,,Hang on! The response came 
 Dialogue: 0,0:05:21.91,0:05:22.91,Main,Kojiro,0,0,0,,What?!
 Dialogue: 0,0:05:24.10,0:05:25.48,Main,Kojiro,0,0,0,,Over there?!
 Dialogue: 0,0:05:28.97,0:05:31.04,Main,Team Rocket,0,0,0,,{\i1}A grand discovery!{\i0}
-Dialogue: 0,0:05:31.04,0:05:32.89,Main,Kojiro,0,0,0,,That’s the Dark-type Crystal!
+Dialogue: 0,0:05:31.04,0:05:32.89,Main,Kojiro,0,0,0,,That’s the Evil-type Crystal!
 Dialogue: 0,0:05:32.89,0:05:34.82,Main,Musashi,0,0,0,,It’s {\i1}perfect{\i0} for Team Rocket!
 Dialogue: 0,0:05:36.31,0:05:39.11,Main,Nyarth,0,0,0,,Let’s go get it, meow!
 Dialogue: 0,0:05:45.78,0:05:47.28,Main,Nyarth,0,0,0,,Ratta and Koratta, meow!
@@ -218,7 +218,7 @@ Dialogue: 0,0:07:48.09,0:07:50.45,Main,Kukui,0,0,0,,...is that they don’t corr
 Dialogue: 0,0:07:50.45,0:07:53.45,Main,Kukui,0,0,0,,but rather the type of \N the {\i1}move{\i0} used.
 Dialogue: 0,0:07:53.82,0:07:55.47,Main,Kukui,0,0,0,,Take Pikachu for example.
 Dialogue: 0,0:07:55.47,0:07:59.20,Main,Kukui,0,0,0,,It may be an Electric type, \N but it has Normal-type moves, too, yeah?
-Dialogue: 0,0:07:59.20,0:08:02.58,Main,Kukui,0,0,0,,So it can activate the \N Normal-type Z-Move as well,
+Dialogue: 0,0:07:59.20,0:08:02.58,Main,Kukui,0,0,0,,So it can activate \N the Normal-type Z-Move as well,
 Dialogue: 0,0:08:02.58,0:08:04.96,Main,Kukui,0,0,0,,if you use the Normal-type Crystal.
 Dialogue: 0,0:08:05.41,0:08:10.17,Main,Rotom,0,0,0,,Satoshi’s Pikachu can also use \N the Steel-type move Iron Tail-roto!
 Dialogue: 0,0:08:10.17,0:08:11.91,Main,Satoshi,0,0,0,,Yeah, and?
@@ -281,7 +281,7 @@ Dialogue: 0,0:11:00.62,0:11:02.34,Main,Musashi,0,0,0,,We hail from Kanto!
 Dialogue: 0,0:11:03.19,0:11:04.35,Main,Tupper,0,0,0,,Where’s that?
 Dialogue: 0,0:11:04.35,0:11:06.02,Main,Nyarth,0,0,0,,You don’t {\i1}know?!{\i0}
 Dialogue: 0,0:11:11.40,0:11:15.02,Main,Our extremely serious villains who are most evil and competent,0,0,0,,{\i1}Ow! Ow! Ow!{\i0}
-Dialogue: 0,0:11:33.96,0:11:38.02,Main,Suiren,0,0,0,,I really like the \N Water Z-Move pose!
+Dialogue: 0,0:11:33.96,0:11:38.02,Main,Suiren,0,0,0,,I really like \N the Water Z-Move pose!
 Dialogue: 0,0:11:39.21,0:11:42.96,Main,Mamane,0,0,0,,Listening to Professor Kukui’s lecture \N made me want to give it a try!
 Dialogue: 0,0:11:44.40,0:11:47.50,Main,Mao,0,0,0,,Look at this! \N It’s the Grass Z-Move pose!
 Dialogue: 0,0:11:49.06,0:11:53.28,Main,Satoshi,0,0,0,,Don’t you want to get to \N use a new move, Pikachu?
@@ -324,7 +324,7 @@ Dialogue: 0,0:13:45.18,0:13:45.93,Main,Tupper,0,0,0,,Let’s go.
 Dialogue: 0,0:13:45.93,0:13:48.64,Main,Wrap,0,0,0,,See ya, Li’l Nyarth!
 Dialogue: 0,0:13:50.54,0:13:51.71,Main,Musashi,0,0,0,,What an awful feeling.
 Dialogue: 0,0:13:51.71,0:13:53.60,Main,Nyarth,0,0,0,,Let’s enact our own plan, meow!
-Dialogue: 0,0:13:56.09,0:13:57.85,Main,Nyarth,0,0,0,,A trap filled with a \N mountain of berries, meow!
+Dialogue: 0,0:13:56.09,0:13:57.85,Main,Nyarth,0,0,0,,A trap filled with \N a mountain of berries, meow!
 Dialogue: 0,0:13:57.85,0:14:04.11,Main,Nyarth,0,0,0,,And if I sprinkle on this powder I bought on mail order, \N which brings out a delicious scent of the berries,
 Dialogue: 0,0:14:06.91,0:14:10.24,Main,Nyarth,0,0,0,,those Rattarars{CCs have "ﾗｯﾀﾗｰ", so yeah, he be saying the wrong name. -Starfish} will be lured by the scent, \N and get completely trapped!
 Dialogue: 0,0:14:10.24,0:14:11.83,Main,Musashi,0,0,0,,I can’t wait!
@@ -405,7 +405,7 @@ Dialogue: 0,0:19:07.50,0:19:08.76,Main,Wrap,0,0,0,,Bro!
 Dialogue: 0,0:19:08.76,0:19:10.42,Main,Tupper,0,0,0,,Oh, ya guys!
 Dialogue: 0,0:19:14.59,0:19:16.97,Main,Kojiro,0,0,0,,They got out of the trap?
 Dialogue: 0,0:19:26.18,0:19:27.68,Main,Nyarth,0,0,0,,Ow!
-Dialogue: 0,0:19:31.56,0:19:34.49,Main,Nyarth,0,0,0,,I got the Dark Crystal, meow!
+Dialogue: 0,0:19:31.56,0:19:34.49,Main,Nyarth,0,0,0,,I got the Evil Crystal, meow!
 Dialogue: 0,0:19:36.35,0:19:38.61,Main,Musashi,0,0,0,,All right! Team Rocket wins!
 Dialogue: 0,0:19:38.61,0:19:39.45,Main,Kojiro,0,0,0,,Yeah!
 Dialogue: 0,0:19:39.45,0:19:41.20,Main,Kojiro,0,0,0,,Now you’ll have to \N become our underlings!
@@ -441,9 +441,9 @@ Dialogue: 0,0:21:17.79,0:21:19.92,Main,Kojiro,0,0,0,,The Ring is just for show, 
 Dialogue: 0,0:21:19.92,0:21:21.62,Main,Musashi,0,0,0,,So it {\i1}is{\i0} the pose?
 Dialogue: 0,0:21:21.62,0:21:24.55,Main,Nyarth,0,0,0,,The brats were just \N doing whatever, meow.
 Dialogue: 0,0:21:24.55,0:21:27.43,Main,Kojiro,0,0,0,,I think what you lack \N is {\i1}fighting spirit!{\i0}
-Dialogue: 0,0:21:27.43,0:21:29.19,Main,Musashi,0,0,0,,No, you lack {\i1}darkness!{\i0}
-Dialogue: 0,0:21:29.19,0:21:32.56,Main,Musashi,0,0,0,,It’s the Dark Crystal, after all! \N Give it a good dark-sounding growl!{Blargh with these official terms that aren’t accurate. -Starfish}{tried to adapt it —Puto}
-Dialogue: 0,0:21:33.33,0:21:35.41,Main,Nyarth,0,0,0,,I got darkness to spare, meow!
+Dialogue: 0,0:21:27.43,0:21:29.19,Main,Musashi,0,0,0,,No, you lack {\i1}evil!{\i0}
+Dialogue: 0,0:21:29.19,0:21:32.56,Main,Musashi,0,0,0,,It’s the Evil Z-Crystal, after all!
+Dialogue: 0,0:21:33.33,0:21:35.41,Main,Nyarth,0,0,0,,I’ve got evil to spare, meow!
 Dialogue: 0,0:21:35.41,0:21:37.73,Main,Nyarth,0,0,0,,Come forth, Z-Move!
 Dialogue: 0,0:21:45.90,0:21:47.09,Main,Nyarth,0,0,0,,How’s this?!
 Dialogue: 0,0:21:47.09,0:21:51.99,Main,Narrator,0,0,0,,Team Rocket has clashed with Team Skull \N and gained a Z-Crystal as a result.
@@ -453,9 +453,9 @@ Comment: 0,0:23:20.46,0:23:20.46,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:22.90,0:23:24.34,Main,Kojiro,0,0,0,,Thank you for waiting!
 Dialogue: 0,0:23:24.34,0:23:28.05,Main,Kojiro,0,0,0,,The answer to the PokéProblem \N was Alolan Ratta!
 Dialogue: 0,0:23:28.05,0:23:30.18,Main,Kojiro,0,0,0,,That thing was way too big...
-Dialogue: 0,0:23:30.18,0:23:33.41,Main,Kojiro,0,0,0,,Alolan Ratta is a \N Dark/Normal type.
+Dialogue: 0,0:23:30.18,0:23:33.41,Main,Kojiro,0,0,0,,Alolan Ratta is \N an Evil/Normal type.
 Dialogue: 0,0:23:33.41,0:23:38.04,Main,Kojiro,0,0,0,,Apparently the reason it’s so fat is because \N it makes its underlings gather food, while all {\i1}it{\i0} does is eat.{Doesn’t really match up with its game dex entries. The bit about making its underlings gather food is in LGPE, but that game wasn’t OUT yet at the time this episode aired. -Starfish}
-Dialogue: 0,0:23:38.04,0:23:41.23,Main,Kojiro,0,0,0,,Since it’s a Dark type, it would be a good fit \N for Team Rocket, but...
+Dialogue: 0,0:23:38.04,0:23:41.23,Main,Kojiro,0,0,0,,Since it’s an Evil type, it would be a good fit \N for Team Rocket, but...
 Dialogue: 0,0:23:41.23,0:23:43.57,Main,Kojiro,0,0,0,,It would be crazy expensive to feed, \N so no thank you!
 Comment: 0,0:24:00.42,0:24:00.42,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.92,0:24:03.88,Main,Satoshi,0,0,0,,Māmane’s acting strange.

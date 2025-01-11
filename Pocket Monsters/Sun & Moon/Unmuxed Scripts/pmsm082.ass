@@ -171,7 +171,7 @@ Dialogue: 0,0:03:32.25,0:03:36.27,Main,Musashi,0,0,0,,Sing, dance, \N and make i
 Dialogue: 0,0:03:36.77,0:03:42.03,Main,Musashi,0,0,0,,After all, \N I am a singing and dancing actress!
 Dialogue: 0,0:03:42.03,0:03:42.78,Main,Musashi,0,0,0,,So...
 Dialogue: 0,0:03:42.78,0:03:45.17,Main,Kojiro & Nyarth,0,0,0,,Bravo! Bravo!
-Dialogue: 0,0:03:45.17,0:03:48.24,Main,Nyarth,0,0,0,,Then let’s have a \N marketing strategy meeting, meow!
+Dialogue: 0,0:03:45.17,0:03:48.24,Main,Nyarth,0,0,0,,Then let’s have \N a marketing strategy meeting, meow!
 Dialogue: 0,0:03:52.33,0:03:53.69,Main,Kojiro,0,0,0,,That’s...
 Dialogue: 0,0:03:53.69,0:03:55.08,Main,Kojiro,0,0,0,,The brat girl’s...
 Dialogue: 0,0:03:55.55,0:03:56.93,Main,Kojiro,0,0,0,,That means...
@@ -259,7 +259,7 @@ Dialogue: 0,0:09:05.88,0:09:09.86,Main,Kukui,0,0,0,,Looks like you’re onto som
 Dialogue: 0,0:09:09.86,0:09:11.09,Main,Mao,0,0,0,,Thank you!
 Dialogue: 0,0:09:11.09,0:09:13.30,Main,Mao,0,0,0,,Let’s do our best, Amamaiko!
 Dialogue: 0,0:09:22.15,0:09:23.20,Main,Mao’s Dad,0,0,0,,Is that Alola Hula?
-Dialogue: 0,0:09:23.20,0:09:26.75,Main,Mao,0,0,0,,Yeah! It’s for the \N PokéDance project.
+Dialogue: 0,0:09:23.20,0:09:26.75,Main,Mao,0,0,0,,Yeah! It’s for the PokéDance project.
 Dialogue: 0,0:09:29.19,0:09:31.49,Main,Mao’s Dad,0,0,0,,It’s coming along nicely.
 Dialogue: 0,0:09:31.49,0:09:34.17,Main,Mao,0,0,0,,Wait a moment. \N I’m almost done.
 Dialogue: 0,0:09:37.30,0:09:42.83,Main,Mao’s Dad,0,0,0,,Mao, I’ll handle the rest here, \N so go practice with Amamaiko.
@@ -282,7 +282,7 @@ Dialogue: 0,0:10:43.08,0:10:45.70,Main,Ho,0,0,0,,It’s a secret \N even to Big 
 Dialogue: 0,0:10:45.70,0:10:46.91,Main,Sui,0,0,0,,Secret! Secret!
 Dialogue: 0,0:10:46.91,0:10:48.66,Main,Suiren,0,0,0,,H-He’s not my boyfriend!
 Dialogue: 0,0:10:49.35,0:10:51.17,Main,Kukui,0,0,0,,Is everyone here?
-Dialogue: 0,0:10:51.17,0:10:54.92,Main,Kukui,0,0,0,,All right, let’s start the \N PokéDance recital!
+Dialogue: 0,0:10:51.17,0:10:54.92,Main,Kukui,0,0,0,,All right, let’s start \N the PokéDance recital!
 Dialogue: 0,0:10:54.92,0:10:58.68,Main,Kukui,0,0,0,,First off, a demonstration from \N the master of Alola Hula!
 Dialogue: 0,0:10:59.23,0:11:00.26,Main,Satoshi,0,0,0,,Master?
 Dialogue: 0,0:11:02.80,0:11:04.39,Main,Kaki,0,0,0,,It’s Odoridori!
@@ -397,7 +397,7 @@ Dialogue: 0,0:17:55.95,0:17:58.26,Main,Nyarth,0,0,0,,T-That’s no problem at al
 Dialogue: 0,0:18:02.65,0:18:05.02,Main,Musashi,0,0,0,,Just give up and roll over \N on the floor, why don’t you?!
 Dialogue: 0,0:18:05.02,0:18:09.72,Main,Kojiro,0,0,0,,Exactly! It’s impossible to release your friends \N from those sturdy catching devices!
 Dialogue: 0,0:18:09.72,0:18:11.03,Main,Nyarth,0,0,0,,That’s right, meow!
-Dialogue: 0,0:18:11.03,0:18:16.48,Main,Nyarth,0,0,0,,{It’s a secret that the top portion of the \N catching devices is extremely fragile, meow!}We’re never gonna tell you that \N the top of the catching devices is really fragile, meow!
+Dialogue: 0,0:18:11.03,0:18:16.48,Main,Nyarth,0,0,0,,{It’s a secret that the top portion of \N the catching devices is extremely fragile, meow!}We’re never gonna tell you that \N the top of the catching devices is really fragile, meow!
 Dialogue: 0,0:18:21.66,0:18:24.91,Main,Mao,0,0,0,,Amamaiko, up top! \N Get on top of the cages and attack!
 Dialogue: 0,0:18:24.91,0:18:28.22,Main,Nyarth,0,0,0,,What?! How did she know \N their weakness, meow?!
 Dialogue: 0,0:18:28.22,0:18:30.00,Main,Kojiro & Musashi,0,0,0,,Glare...
@@ -441,7 +441,7 @@ Dialogue: 0,0:21:11.29,0:21:17.42,Main,Kukui,0,0,0,,Well then, let’s begin Ama
 Dialogue: 0,0:21:17.42,0:21:20.07,Main,Mao,0,0,0,,You can do it, right, Amajo?
 Dialogue: 0,0:21:39.85,0:21:42.65,Main,Suiren,0,0,0,,Neo Fatal Moku Shot!
 Dialogue: 0,0:21:44.15,0:21:46.51,Main,Mao,0,0,0,,Amajo, thank you.{You know, “yoroshiku ne” really is sometimes a right pain to translate... -Starfish OF THE FUTURE}
-Dialogue: 0,0:21:47.95,0:21:51.36,Main,Narrator,0,0,0,,Amamaiko has undergone a \N dramatic evolution into Amajo.
+Dialogue: 0,0:21:47.95,0:21:51.36,Main,Narrator,0,0,0,,Amamaiko has undergone \N a dramatic evolution into Amajo.
 Dialogue: 0,0:21:51.36,0:21:55.37,Main,Narrator,0,0,0,,She’s sure to show us some incredibly \N exciting dances from now on, right?
 Dialogue: 1,0:21:55.37,0:21:58.47,Main,Narrator,300,0,0,,To be continued! Yay!
 Comment: 0,0:21:59.50,0:21:59.50,Main,,0,0,0,,{Ending}

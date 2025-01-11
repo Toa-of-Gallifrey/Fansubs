@@ -128,7 +128,7 @@ Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,
 Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:00.85,0:00:02.41,Main,Musashi,0,0,0,,Alola!
 Dialogue: 0,0:00:02.41,0:00:06.98,Main,Musashi,0,0,0,,Yeah! I’ll be giving \N today’s PokéProblem!
-Dialogue: 0,0:00:06.98,0:00:10.36,Main,Musashi,0,0,0,,The Pokémon that steals our Dark-Z \N in today’s episode is...
+Dialogue: 0,0:00:06.98,0:00:10.36,Main,Musashi,0,0,0,,The Pokémon that steals our Evil-Z \N in today’s episode is...
 Dialogue: 0,0:00:10.36,0:00:11.27,Main,Musashi,0,0,0,,Blue: Yamikarasu?
 Dialogue: 0,0:00:11.27,0:00:12.17,Main,Musashi,0,0,0,,Red: Gänger?
 Dialogue: 0,0:00:12.17,0:00:13.24,Main,Musashi,0,0,0,,Green: Kosokumushi?
@@ -147,10 +147,10 @@ Dialogue: 0,0:00:58.03,0:00:59.62,Main,Musashi,0,0,0,,Time for a snack!
 Dialogue: 0,0:01:03.62,0:01:04.96,Main,Musashi,0,0,0,,What are you doing?!
 Dialogue: 0,0:01:12.03,0:01:13.86,Main,Kojiro,0,0,0,,My cream puff!
 Dialogue: 0,0:01:13.86,0:01:16.87,Main,Nyarth,0,0,0,,That move was \N Knock Off, meow!
-Dialogue: 0,0:01:16.87,0:01:20.89,Main,Nyarth,0,0,0,,Hidoide has learned \N a Dark type move, meow!
+Dialogue: 0,0:01:16.87,0:01:20.89,Main,Nyarth,0,0,0,,Hidoide has learned \N an Evil type move, meow!
 Dialogue: 0,0:01:22.11,0:01:23.48,Main,Team Rocket,0,0,0,,Really?
 Dialogue: 0,0:01:23.48,0:01:26.79,Main,Kojiro,0,0,0,,That’s incredible, Hidoide!
-Dialogue: 0,0:01:32.03,0:01:36.47,Main,Musashi,0,0,0,,If we have both a Pokémon \N that can use a Dark move {\i1}and{\i0} a Z-Crystal...
+Dialogue: 0,0:01:32.03,0:01:36.47,Main,Musashi,0,0,0,,If we have both a Pokémon \N that can use an Evil move {\i1}and{\i0} a Z-Crystal...
 Dialogue: 0,0:01:36.47,0:01:41.62,Main,Nyarth,0,0,0,,...then all we’ll need is a Z-Ring, \N and {\i1}we{\i0} can use Z-Moves, meow!
 Dialogue: 0,0:01:42.25,0:01:46.89,Main,Team Rocket,0,0,0,,{\i1}Super Hyper Z! \N Zoom and Smash!{\i0}
 Dialogue: 0,0:01:46.89,0:01:48.01,Main,Kojiro,0,0,0,,Sounds great!
@@ -258,7 +258,7 @@ Dialogue: 0,0:09:12.82,0:09:17.53,Main,Piko,0,0,0,,Yeah, it’s fine! \N Let’s
 Dialogue: 0,0:09:17.53,0:09:19.75,Main,Musashi,0,0,0,,So, what do we do now?
 Dialogue: 0,0:09:19.75,0:09:23.54,Main,Nyarth,0,0,0,,We can’t get anywhere if \N the Island King isn’t here, meow.
 Dialogue: 0,0:09:24.58,0:09:26.76,Main,Kojiro,0,0,0,,I really wanna try \N firing off a Z-Move.
-Dialogue: 0,0:09:26.76,0:09:30.03,Main,Nyarth,0,0,0,,I wanna use \N the Dark-Z already, meow!
+Dialogue: 0,0:09:26.76,0:09:30.03,Main,Nyarth,0,0,0,,I wanna use \N the Evil-Z already, meow!
 Dialogue: 0,0:09:30.03,0:09:31.55,Main,Musashi,0,0,0,,We can’t go home \N empty-handed!
 Dialogue: 0,0:09:32.20,0:09:34.55,Main,Musashi,0,0,0,,We have to get a Z-Ring, \N no matter what it takes!
 Dialogue: 0,0:09:36.39,0:09:37.36,Main,Musashi,0,0,0,,Huh?
@@ -270,7 +270,7 @@ Dialogue: 0,0:09:53.20,0:09:55.41,Main,Acerola,0,0,0,,It {\i1}wasn’t{\i0} a fa
 Dialogue: 0,0:09:56.95,0:09:59.17,Main,Nyarth,0,0,0,,Who’re you supposed to be?!
 Dialogue: 0,0:09:59.17,0:10:01.13,Main,Kojiro,0,0,0,,You scared us!
 Dialogue: 0,0:10:05.73,0:10:06.51,Main,Musashi,0,0,0,,That’s...
-Dialogue: 0,0:10:06.51,0:10:08.69,Main,Nyarth,0,0,0,,...our Dark-Z!
+Dialogue: 0,0:10:06.51,0:10:08.69,Main,Nyarth,0,0,0,,...our Evil-Z!
 Dialogue: 0,0:10:08.69,0:10:09.36,Main,Kojiro,0,0,0,,Give it back!
 Dialogue: 0,0:10:12.01,0:10:14.04,Main,Nene,0,0,0,,Let’s get out of here, \N Big Sis Acerola!
 Dialogue: 0,0:10:24.26,0:10:26.27,Main,Acerola,0,0,0,,Stop it! Can’t you see that \N you’re scaring them?
@@ -332,7 +332,7 @@ Dialogue: 0,0:14:59.62,0:15:01.38,Main,Acerola,0,0,0,,Greedy Lapoo...
 Dialogue: 0,0:15:06.53,0:15:08.26,Main,Acerola,0,0,0,,Hey! Stop!
 Dialogue: 0,0:15:15.27,0:15:17.87,Main,Musashi,0,0,0,,All right! \N Perfect shot, Mimikkyu!
 Dialogue: 0,0:15:19.73,0:15:21.37,Main,Acerola,0,0,0,,Mimikkyu?
-Dialogue: 0,0:15:21.37,0:15:24.40,Main,Kojiro,0,0,0,,I got our Dark-Z back!
+Dialogue: 0,0:15:21.37,0:15:24.40,Main,Kojiro,0,0,0,,I got our Evil-Z back!
 Dialogue: 0,0:15:26.91,0:15:28.45,Main,Musashi,0,0,0,,Just as planned!
 Dialogue: 0,0:15:28.45,0:15:30.90,Main,Musashi,0,0,0,,We beat you real good, \N right in front of the girl!
 Dialogue: 0,0:15:32.30,0:15:34.70,Main,Kojiro,0,0,0,,The girl you liked saw you \N looking super lame!
@@ -359,7 +359,7 @@ Dialogue: 0,0:16:47.74,0:16:50.39,Main,Kojiro,0,0,0,,No, not me!
 Dialogue: 0,0:16:56.75,0:17:00.79,Main,Kojiro,0,0,0,,What do I do? If we fight all-out, \N we’ll just end up hurting each other.
 Dialogue: 0,0:17:00.79,0:17:03.00,Main,Kojiro,0,0,0,,I have to drive that thing \N out of Musashi.
 Dialogue: 0,0:17:05.93,0:17:07.76,Main,Kojiro,0,0,0,,Of course! Knock Off!
-Dialogue: 0,0:17:08.18,0:17:13.01,Main,Kojiro,0,0,0,,Dark-type moves are strong against Ghost types, \N so it might drive Gänger out! {Added a hyphen to “Dark type” since a noun follows. - Toa}
+Dialogue: 0,0:17:08.18,0:17:13.01,Main,Kojiro,0,0,0,,Evil-type moves are strong against Ghost types, \N so it might drive Gänger out! {Added a hyphen to “Evil type” since a noun follows. - Toa}
 Dialogue: 0,0:17:13.01,0:17:16.19,Main,Kojiro,0,0,0,,Hidoide, your move is \N going to save Musashi!
 Dialogue: 0,0:17:17.20,0:17:20.14,Main,Kojiro,0,0,0,,All right! Use Knock Off, but gently!
 Dialogue: 0,0:17:27.43,0:17:29.10,Main,Kojiro,0,0,0,,Are you all right, Musashi?!
@@ -373,7 +373,7 @@ Dialogue: 0,0:17:52.04,0:17:54.51,Main,Kuchinashi,0,0,0,,I thought you guys \N w
 Dialogue: 0,0:17:54.51,0:17:57.92,Main,Kuchinashi,0,0,0,,...but I must say, \N you’re pretty good.
 Dialogue: 0,0:17:57.92,0:18:01.06,Main,Kuchinashi,0,0,0,,So, you might as well \N finish the job properly!
 Dialogue: 0,0:18:03.85,0:18:06.77,Main,Kojiro,0,0,0,,Is this a Z-Ring?!
-Dialogue: 0,0:18:09.28,0:18:12.57,Main,Nyarth,0,0,0,,Hidoide should be able to \N use the Dark-Z, meow!
+Dialogue: 0,0:18:09.28,0:18:12.57,Main,Nyarth,0,0,0,,Hidoide should be able to \N use the Evil-Z, meow!
 Dialogue: 0,0:18:12.57,0:18:13.99,Main,Musashi,0,0,0,,It’s all up to you, Kojiro!
 Dialogue: 0,0:18:13.99,0:18:15.35,Main,Kojiro,0,0,0,,Gotcha!
 Dialogue: 0,0:18:18.42,0:18:19.80,Main,Kojiro,0,0,0,,Let’s go, Hidoide!
@@ -434,7 +434,7 @@ Dialogue: 0,0:21:52.77,0:21:55.03,Main,Satoshi,0,0,0,,It’s finally time for \N
 Comment: 0,0:21:59.47,0:21:59.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.51,0:23:20.51,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:22.95,0:23:25.55,Main,Musashi,0,0,0,,Thanks for waiting!
-Dialogue: 0,0:23:25.55,0:23:29.10,Main,Musashi,0,0,0,,This jerk was the one \N who stole our Dark-Z!
+Dialogue: 0,0:23:25.55,0:23:29.10,Main,Musashi,0,0,0,,This jerk was the one \N who stole our Evil-Z!
 Dialogue: 0,0:23:29.58,0:23:32.18,Main,Musashi,0,0,0,,What an extremely \N bothersome Pokémon!
 Dialogue: 0,0:23:32.18,0:23:35.01,Main,Kojiro,0,0,0,,Hey, Musashi! \N You forgot to give a profile!
 Dialogue: 0,0:23:35.01,0:23:35.90,Main,Musashi,0,0,0,,Huh? Oh, right.

@@ -109,7 +109,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:00.89,0:00:04.53,Main,Nyarth,0,0,0,,Alola!
 Dialogue: 0,0:00:04.53,0:00:07.73,Main,Nyarth,0,0,0,,I’ll be giving today’s \N PokéProblem, meow!
 Dialogue: 0,0:00:08.11,0:00:12.84,Main,Nyarth,0,0,0,,What do I have hidden \N in the refrigerator today, meow?
-Dialogue: 0,0:00:12.84,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at the \N end of the episode, meow!
+Dialogue: 0,0:00:12.84,0:00:15.49,Main,Nyarth,0,0,0,,Get the answer at \N the end of the episode, meow!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:00:18.30,0:00:20.27,Main,Narrator,0,0,0,,Do you all remember...
 Dialogue: 0,0:00:20.91,0:00:25.06,Main,Narrator,0,0,0,,...the creatures that were on the boat \N Satoshi and his friends rode home from Poni Island?
@@ -208,7 +208,7 @@ Dialogue: 0,0:10:44.62,0:10:46.88,Main,Kaki,0,0,0,,It’s electrifying!
 Dialogue: 0,0:10:47.82,0:10:49.58,Main,Satoshi,0,0,0,,It can use Electric moves, too?
 Dialogue: 0,0:10:49.58,0:10:50.88,Main,Lilie,0,0,0,,This is a new discovery!
 Dialogue: 0,0:10:50.88,0:10:53.63,Main,Kaki,0,0,0,,Right? And it’s all \N thanks to me, you know!
-Dialogue: 0,0:10:55.14,0:10:57.17,Main,Mamane,0,0,0,,The tips on the \N screwdrivers are gone!
+Dialogue: 0,0:10:55.14,0:10:57.17,Main,Mamane,0,0,0,,The tips on \N the screwdrivers are gone!
 Dialogue: 0,0:10:57.17,0:11:00.65,Main,Mamane,0,0,0,,All the nuts and screws \N I brought are gone, too!
 Dialogue: 0,0:11:00.65,0:11:03.20,Main,Mao,0,0,0,,Maybe these Pokémon \N ate them, or something?
 Dialogue: 0,0:11:03.20,0:11:05.16,Main,Lilie,0,0,0,,It eats metal?!
@@ -258,7 +258,7 @@ Dialogue: 0,0:14:07.74,0:14:16.51,Main,Kojiro,0,0,0,,{Unintelligible nonsense}
 Dialogue: 0,0:14:17.40,0:14:18.67,Main,Kojiro,0,0,0,,Here it is!
 Dialogue: 0,0:14:23.70,0:14:28.65,Main,Kojiro,0,0,0,,My beloved crown \N is half melted!
 Dialogue: 0,0:14:28.65,0:14:29.69,Main,Kojiro,0,0,0,,Why?!
-Dialogue: 0,0:14:29.69,0:14:32.57,Main,Nyarth,0,0,0,,This must be the \N intruder’s doing, too, meow.
+Dialogue: 0,0:14:29.69,0:14:32.57,Main,Nyarth,0,0,0,,This must be \N the intruder’s doing, too, meow.
 Dialogue: 0,0:14:32.57,0:14:35.82,Main,Musashi,0,0,0,,Sheesh... Where is it hiding?
 Dialogue: 0,0:14:35.82,0:14:36.82,Main,Kojiro,0,0,0,,Who did this?!
 Dialogue: 0,0:14:36.82,0:14:39.44,Main,Kojiro,0,0,0,,It makes no sense! \N Why is it melted?!
@@ -266,7 +266,7 @@ Dialogue: 0,0:14:39.44,0:14:42.58,Main,Kojiro,0,0,0,,Are you here, you little...
 Dialogue: 0,0:14:47.38,0:14:50.66,Main,Nyarth,0,0,0,,This is awful, meow... \N The entire machinery has melted, meow.
 Dialogue: 0,0:14:50.66,0:14:51.95,Main,Kojiro,0,0,0,,And that means...
 Dialogue: 0,0:14:53.12,0:14:54.89,Main,Musashi,0,0,0,,This is a nut, isn’t it?
-Dialogue: 0,0:14:54.89,0:14:56.39,Main,Musashi,0,0,0,,Is this one of the \N parts you bought?
+Dialogue: 0,0:14:54.89,0:14:56.39,Main,Musashi,0,0,0,,Is this one of \N the parts you bought?
 Dialogue: 0,0:14:56.39,0:14:57.70,Main,Kojiro,0,0,0,,No, it’s not.
 Dialogue: 0,0:14:58.07,0:15:01.64,Main,Kojiro,0,0,0,,Hey! Were you the ones who melted \N our machinery and my crowns?!
 Dialogue: 0,0:15:01.64,0:15:03.29,Main,Kojiro,0,0,0,,Say something!

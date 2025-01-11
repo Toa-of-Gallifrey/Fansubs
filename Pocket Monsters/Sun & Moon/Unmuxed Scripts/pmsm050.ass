@@ -79,7 +79,7 @@ Comment: 0,0:01:35.07,0:01:35.07,OPED,,0,0,0,,
 Dialogue: 0,0:04:36.50,0:04:41.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,220)}Sauboh Strikes Back!
 Dialogue: 0,0:04:36.50,0:04:41.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,560)}Nebby Kidnapped!!
 Comment: 0,0:02:53.02,0:02:53.02,Main,,0,0,0,,
-Dialogue: 0,0:11:26.49,0:11:29.46,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Blacky \N {\fs40}Type:   Dark
+Dialogue: 0,0:11:26.49,0:11:29.46,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Blacky \N {\fs40}Type:   Evil
 Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,
 Dialogue: 0,0:22:03.13,0:22:07.05,OPED,,0,0,0,,{\fad(400,0)}Yo! Champ in the making! Now, let’s keep up the enthusiasm today!
 Dialogue: 0,0:22:07.05,0:22:10.76,OPED,,0,0,0,,Get them, get them! (Get them, get them!) Now, let’s keep making friends!
@@ -88,7 +88,7 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.94,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.86,0:22:29.49,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.49,0:22:33.49,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.49,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -110,7 +110,7 @@ Dialogue: 0,0:00:01.58,0:00:03.25,Main,Rotom,0,0,0,,Alola!
 Dialogue: 0,0:00:03.25,0:00:06.84,Main,Rotom,0,0,0,,I will be giving today’s PokéProblem-roto.
 Dialogue: 0,0:00:06.84,0:00:07.98,Main,Rotom,0,0,0,,It’ll be my pleasuroto!
 Dialogue: 0,0:00:08.30,0:00:13.30,Main,Rotom,0,0,0,,What activity did Satoshi and the others \N perform at the Pokémon School today?
-Dialogue: 0,0:00:13.30,0:00:15.49,Main,Rotom,0,0,0,,Get the answer at the \N end of the episode-roto!
+Dialogue: 0,0:00:13.30,0:00:15.49,Main,Rotom,0,0,0,,Get the answer at \N the end of the episode-roto!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:25.61,0:00:28.53,Main,Lilie,0,0,0,,I can’t believe how foolish I was,
 Dialogue: 0,0:00:28.53,0:00:30.55,Main,Lilie,0,0,0,,to forget about Silvuddy.
@@ -297,7 +297,7 @@ Dialogue: 0,0:15:56.96,0:16:05.17,Main,Sauboh,0,0,0,,This is the place where, fo
 Dialogue: 0,0:16:12.45,0:16:16.18,Main,Sauboh,0,0,0,,Because of the special electronic waves, \N you cannot use Teleport.
 Dialogue: 0,0:16:17.85,0:16:21.56,Main,Sauboh,0,0,0,,If I use the same coordinates \N from four years ago,
 Dialogue: 0,0:16:21.56,0:16:25.28,Main,Sauboh,0,0,0,,and amplify the Ultra Aura \N with Nebby’s power,
-Dialogue: 0,0:16:25.28,0:16:28.55,Main,Sauboh,0,0,0,,I should be able to open the \N Ultra Hole once more!
+Dialogue: 0,0:16:25.28,0:16:28.55,Main,Sauboh,0,0,0,,I should be able to open \N the Ultra Hole once more!
 Dialogue: 0,0:16:52.65,0:16:55.32,Main,Sauboh,0,0,0,,Yes, keep it up!
 Dialogue: 0,0:16:55.32,0:16:59.33,Main,Sauboh,0,0,0,,Release more and more \N of your Ultra Aura!
 Dialogue: 0,0:17:00.52,0:17:01.33,Main,Lusamine,0,0,0,,Sauboh?!

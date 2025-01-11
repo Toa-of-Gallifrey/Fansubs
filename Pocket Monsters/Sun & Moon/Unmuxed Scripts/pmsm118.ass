@@ -147,7 +147,7 @@ Dialogue: 0,0:03:24.99,0:03:28.47,Main,Chikuwa,0,0,0,,Now, then, today I’ll be
 Dialogue: 0,0:03:28.47,0:03:29.48,Main,Them,0,0,0,,{\i1}Much appreciated!{\i0}
 Dialogue: 0,0:03:32.53,0:03:33.65,Main,Chikuwa,0,0,0,,Here it is! Believe it!
 Dialogue: 0,0:03:37.51,0:03:40.15,Main,Lilie,0,0,0,,Quite a peculiar building.
-Dialogue: 0,0:03:40.15,0:03:44.07,Main,Chikuwa,0,0,0,,They built it to look as much like a \N Kantonian Gym as possible! Believe it!
+Dialogue: 0,0:03:40.15,0:03:44.07,Main,Chikuwa,0,0,0,,They built it to look as much like \N a Kantonian Gym as possible! Believe it!
 Dialogue: 0,0:03:45.08,0:03:47.44,Main,Satoshi,0,0,0,,Not sure there were \N any Gyms like this in Kanto...{I mean... Fuschia City’s Gym was definitely ninja-themed. -Starfish}
 Dialogue: 0,0:03:48.37,0:03:50.33,Main,Chikuwa,0,0,0,,You know about Kanto?! Believe it!
 Dialogue: 0,0:03:50.76,0:03:54.08,Main,Satoshi,0,0,0,,I come from Masara Town, in Kanto!
@@ -348,7 +348,7 @@ Dialogue: 0,0:14:25.55,0:14:26.92,Main,Kaki,0,0,0,,Let’s go, Garagara!
 Dialogue: 0,0:14:28.18,0:14:30.34,Main,Ryuki,0,0,0,,Quite the rocking look \N it’s got, there...
 Dialogue: 0,0:14:30.34,0:14:34.61,Main,Ryuki,0,0,0,,Allow me to introduce my bandmates! \N Come on, babies!{Phrasing lifted straight from Ultra Sun & Moon. -Starfish}
 Dialogue: 0,0:14:37.56,0:14:39.03,Main,Satoshi,0,0,0,,It’s a Dihead!
-Dialogue: 0,0:14:39.35,0:14:42.90,Main,Rotom,0,0,0,,Dihead. Hostile Pokémon. \N Dark/Dragon type.
+Dialogue: 0,0:14:39.35,0:14:42.90,Main,Rotom,0,0,0,,Dihead. Hostile Pokémon. \N Evil/Dragon type.
 Dialogue: 0,0:14:43.28,0:14:45.18,Main,Rotom,0,0,0,,The two heads do not get along.
 Dialogue: 0,0:14:45.18,0:14:48.78,Main,Rotom,0,0,0,,Whichever head eats more than the other \N gets to be the leader.{BW2 Pokédex entry. -Starfish}
 Dialogue: 0,0:14:48.78,0:14:52.63,Main,Ryuki,0,0,0,,Whoa, there, babies... \N Be nice to each other, okay?
@@ -391,7 +391,7 @@ Dialogue: 0,0:16:58.16,0:16:59.66,Main,Ryuki,0,0,0,,Yeah!
 Dialogue: 0,0:17:02.96,0:17:04.07,Main,Satoshi,0,0,0,,Mokuroh!
 Dialogue: 0,0:17:08.98,0:17:13.22,Main,Ryuki,0,0,0,,Now, to end this! \N Play the requiem of the underworld!{Or literally "of Hell", if we wanna go there. -Starfish}{I'm neutral on this. - Toa}
 Dialogue: 0,0:17:16.88,0:17:18.68,Main,Ryuki,0,0,0,,My best outfit!
-Dialogue: 0,0:17:23.60,0:17:26.04,Main,Suiren,0,0,0,,They started fighting the \N second the music stopped...
+Dialogue: 0,0:17:23.60,0:17:26.04,Main,Suiren,0,0,0,,They started fighting \N the second the music stopped...
 Dialogue: 0,0:17:27.49,0:17:28.85,Main,Satoshi,0,0,0,,I’m really sorry!
 Dialogue: 0,0:17:28.85,0:17:31.31,Main,Satoshi,0,0,0,,Meltan, we’re right in \N the middle of a battle!
 Dialogue: 0,0:17:36.86,0:17:40.90,Main,Ryuki,0,0,0,,Seems like your boy there’s got \N quite the rocking drive himself!

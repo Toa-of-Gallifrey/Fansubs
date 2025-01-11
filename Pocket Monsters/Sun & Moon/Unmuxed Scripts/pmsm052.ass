@@ -86,7 +86,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -107,7 +107,7 @@ Dialogue: 0,0:00:01.20,0:00:03.85,Main,Nyarth,0,0,0,,Alola!
 Dialogue: 0,0:00:03.85,0:00:05.48,Main,Nyarth,0,0,0,,Here’s your PokéProblem, meow!
 Dialogue: 0,0:00:05.84,0:00:09.55,Main,Nyarth,0,0,0,,PetitDogas evolves \N in today’s episode, meow!
 Dialogue: 0,0:00:09.55,0:00:11.80,Main,Nyarth,0,0,0,,What does it become, meow?
-Dialogue: 0,0:00:11.80,0:00:14.26,Main,Nyarth,0,0,0,,Get the answer at the \N end of the episode, meow!
+Dialogue: 0,0:00:11.80,0:00:14.26,Main,Nyarth,0,0,0,,Get the answer at \N the end of the episode, meow!
 Dialogue: 0,0:00:14.26,0:00:15.49,Main,Nyarth,0,0,0,,Alo—
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:18.14,0:00:22.86,Main,Lilie,0,0,0,,I want to rescue Mother, who was taken away \N by an Ultra Beast, no matter what it takes.
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:30.41,0:16:34.76,Main,Satoshi,0,0,0,,Want some, Nebby... \N I m
 Dialogue: 0,0:16:37.50,0:16:39.87,Main,Satoshi,0,0,0,,Guess it won’t \N eat them anymore...
 Dialogue: 0,0:17:05.33,0:17:07.86,Main,Satoshi,0,0,0,,It really{\i1} is{\i0} Nebby!
 Dialogue: 0,0:17:15.66,0:17:16.74,Main,Satoshi,0,0,0,,Solgaleo.
-Dialogue: 0,0:17:16.74,0:17:20.18,Main,Satoshi,0,0,0,,We want you to take us to the \N other side of the Ultra Hole.
+Dialogue: 0,0:17:16.74,0:17:20.18,Main,Satoshi,0,0,0,,We want you to take us to \N the other side of the Ultra Hole.
 Dialogue: 0,0:17:20.79,0:17:24.31,Main,Lilie,0,0,0,,Will you please help us rescue Mother?
 Dialogue: 0,0:17:28.38,0:17:29.69,Main,Gladio,0,0,0,,Please.
 Dialogue: 0,0:17:40.77,0:17:43.06,Main,Satoshi,0,0,0,,A Z-Crystal?
@@ -289,7 +289,7 @@ Dialogue: 0,0:19:31.70,0:19:33.84,Main,Mao,0,0,0,,Oh, of course! \N Come back, A
 Dialogue: 0,0:19:33.84,0:19:35.30,Main,Lilie,0,0,0,,You, too, Snowball.
 Dialogue: 0,0:19:45.10,0:19:48.45,Main,Satoshi,0,0,0,,It’s true! \N You really are warm like the sun!
 Dialogue: 0,0:19:49.27,0:19:52.02,Main,Mamane,0,0,0,,I can’t believe it!
-Dialogue: 0,0:19:52.02,0:19:55.46,Main,Mamane,0,0,0,,I get to ride the \N Legendary Pokémon, Solgaleo!
+Dialogue: 0,0:19:52.02,0:19:55.46,Main,Mamane,0,0,0,,I get to ride \N the Legendary Pokémon, Solgaleo!
 Dialogue: 0,0:19:56.03,0:19:57.03,Main,Suiren,0,0,0,,It’s so exciting.
 Dialogue: 0,0:19:57.03,0:19:58.20,Main,Mao,0,0,0,,Yeah.
 Dialogue: 0,0:20:00.95,0:20:01.97,Main,Mao,0,0,0,,Lilie.

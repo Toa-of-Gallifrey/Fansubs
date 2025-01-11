@@ -271,11 +271,11 @@ Dialogue: 0,0:16:43.67,0:16:49.05,Main,Satoshi,0,0,0,,Sorry. This Z-Ring means a
 Dialogue: 0,0:16:49.05,0:16:50.49,Main,Satoshi,0,0,0,,I can’t give it to you.
 Dialogue: 0,0:16:54.18,0:16:56.25,Main,Lusamine,0,0,0,,Mokuroh’s better now? \N Glad to hear it!
 Dialogue: 0,0:16:56.69,0:16:58.06,Main,Lilie,0,0,0,,Mother!
-Dialogue: 0,0:16:58.06,0:17:01.17,Main,Burnet,0,0,0,,After analyzing the \N photos and footage Rotom sent us...
+Dialogue: 0,0:16:58.06,0:17:01.17,Main,Burnet,0,0,0,,After analyzing \N the photos and footage Rotom sent us...
 Dialogue: 0,0:17:01.53,0:17:05.67,Main,Burnet,0,0,0,,we’ve concluded that \N that really is an Ultra Beast.
 Dialogue: 0,0:17:05.67,0:17:10.16,Main,Lusamine,0,0,0,,We’ve also decided on a name; \N Bebenom. The Poison Pin Pokémon. {Changed “too” into “also” and moved it up in the line. - Toa}
 Dialogue: 0,0:17:10.16,0:17:12.20,Main,Lusamine,0,0,0,,Rotom, you take care of the update.
-Dialogue: 0,0:17:12.20,0:17:14.79,Main,Rotom,0,0,0,,Do you mean that it’s an \N undiscovered Pokémon-roto?!
+Dialogue: 0,0:17:12.20,0:17:14.79,Main,Rotom,0,0,0,,Do you mean that it’s \N an undiscovered Pokémon-roto?!
 Dialogue: 0,0:17:14.79,0:17:15.89,Main,Lusamine,0,0,0,,Yes.
 Dialogue: 0,0:17:16.67,0:17:20.71,Main,Rotom,0,0,0,,I’ll be the first to record data on \N an undiscovered Pokémon-roto!
 Dialogue: 0,0:17:20.71,0:17:24.94,Main,Lusamine,0,0,0,,It’s a mission befitting of an Ultra Guardian, isn’t it? \N We’re counting on you.

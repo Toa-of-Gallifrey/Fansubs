@@ -103,7 +103,7 @@ Comment: 0,0:24:26.74,0:24:30.45,Episode titles,,0,0,0,,{\c&00a800&\pos(640,520)
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,RED NEP TITLE
 Dialogue: 0,0:24:00.50,0:24:27.65,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H2215F2&\fs50\pos(640,110)}Next time
-Dialogue: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,620)\3c&H2215F2&\fs80}Xiemi, Meltan and Sandy!\NLost Explorers!!
+Dialogue: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,620)\3c&H2215F2&\fs80}Xiemi, Meltan, and Sandy!\NLost Explorers!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:01.34,0:00:02.66,Main,Lilie,0,0,0,,Alola!
 Dialogue: 0,0:00:02.66,0:00:06.52,Main,Lilie,0,0,0,,I will be presenting today’s PokéProblem!
@@ -148,7 +148,7 @@ Dialogue: 0,0:02:46.31,0:02:50.61,Main,Sauboh,0,0,0,,Isn’t this... \N Oh, how 
 Dialogue: 0,0:02:52.77,0:02:54.44,Main,Lilie,0,0,0,,Father...
 Comment: 0,0:02:55.53,0:02:55.53,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:23.49,0:04:23.49,Main,,0,0,0,,{Part B}
-Dialogue: 0,0:04:33.10,0:04:36.25,Main,Sauboh,0,0,0,,Professor Mohn was an \N outstanding scientist.
+Dialogue: 0,0:04:33.10,0:04:36.25,Main,Sauboh,0,0,0,,Professor Mohn was \N an outstanding scientist.
 Dialogue: 0,0:04:36.71,0:04:39.49,Main,Sauboh,0,0,0,,With his exceptional talent \N and leadership,
 Dialogue: 0,0:04:39.49,0:04:43.15,Main,Sauboh,0,0,0,,he led our research team.
 Dialogue: 0,0:04:51.77,0:04:53.48,Main,Lusamine,0,0,0,,Dear!
@@ -381,7 +381,7 @@ Dialogue: 0,0:20:40.09,0:20:42.29,Main,Lilie,0,0,0,,Just like Father wanted!
 Dialogue: 0,0:20:45.16,0:20:46.54,Main,Lusamine,0,0,0,,All right.
 Dialogue: 0,0:20:46.54,0:20:49.88,Main,Gladio,0,0,0,,You really have become strong.
 Dialogue: 0,0:20:49.88,0:20:51.56,Main,Lilie,0,0,0,,Have I really...
-Dialogue: 0,0:20:58.00,0:21:02.22,Main,Lilie reading Mohn's journal,0,0,0,,“Today, I stopped by a \N small antique shop,
+Dialogue: 0,0:20:58.00,0:21:02.22,Main,Lilie reading Mohn's journal,0,0,0,,“Today, I stopped by \N a small antique shop,
 Dialogue: 0,0:21:02.22,0:21:05.07,Main,Lilie reading Mohn's journal,0,0,0,,“and for a moment, \N I doubted my own eyes.”
 Dialogue: 0,0:21:07.14,0:21:11.57,Main,Mohn,0,0,0,,A Magearna was lying there \N in a corner of the shop.
 Dialogue: 0,0:21:12.44,0:21:16.49,Main,Mohn,0,0,0,,It was covered in rust, \N but I could tell it was a Magearna.
@@ -421,4 +421,4 @@ Dialogue: 0,0:24:14.30,0:24:15.68,Main,Kaki,0,0,0,,I told you, we have to \N lay
 Dialogue: 0,0:24:15.68,0:24:19.75,Main,Mao,0,0,0,,Kaki, isn’t this Tosakinto yōkan \N the one that Hoshi had said she wanted to try?
 Dialogue: 0,0:24:19.75,0:24:22.23,Main,Kaki,0,0,0,,It is! Let’s go!
 Dialogue: 0,0:24:23.65,0:24:26.36,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
-Dialogue: 0,0:24:26.36,0:24:30.44,Main,Satoshi,0,0,0,,Xiemi, Meltan and Sandy! Lost Explorers!!
+Dialogue: 0,0:24:26.36,0:24:30.44,Main,Satoshi,0,0,0,,Xiemi, Meltan, and Sandy! Lost Explorers!!

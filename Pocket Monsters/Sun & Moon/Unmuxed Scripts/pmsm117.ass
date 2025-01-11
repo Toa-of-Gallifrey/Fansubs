@@ -68,7 +68,7 @@ Dialogue: 0,0:02:17.90,0:02:22.91,OPp2,,0,0,0,,{\be2\bord6}It’s your adventure
 Dialogue: 1,0:02:22.91,0:02:30.50,OP,,0,0,0,,Step forward!
 Dialogue: 0,0:02:22.91,0:02:30.50,OPp2,,0,0,0,,{\be2\bord6}Step forward!
 Comment: 0,0:00:00.49,0:00:00.49,Main,,0,0,0,,
-Dialogue: 0,0:02:34.50,0:02:39.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,240)}Xiemi, Meltan and Sandy!
+Dialogue: 0,0:02:34.50,0:02:39.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,240)}Xiemi, Meltan, and Sandy!
 Dialogue: 0,0:02:34.50,0:02:39.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,550)}Lost Explorers!!
 Comment: 0,0:00:00.49,0:00:00.49,Main,,0,0,0,,
 Dialogue: 0,0:12:15.50,0:12:18.46,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Xiemi\N{\fs40}Type:   Grass
@@ -111,7 +111,7 @@ Dialogue: 0,0:24:27.69,0:24:30.44,Episode titles,,0,0,0,,{\c&00A802&\pos(640,610
 Comment: 0,0:00:00.47,0:00:00.47,Main,,0,0,0,,RED NEP TITLE
 Comment: 0,0:24:00.50,0:24:27.65,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Comment: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\fs50\pos(640,110)}Next time
-Comment: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Xiemi, Meltan and Sandy!\NLost Explorers!!
+Comment: 0,0:24:27.65,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Xiemi, Meltan, and Sandy!\NLost Explorers!!
 Comment: 0,0:00:00.47,0:00:00.47,Main,,0,0,0,,
 Comment: 0,0:00:00.47,0:00:00.47,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:02.57,0:00:03.94,Main,Mao,0,0,0,,Alola!
@@ -274,7 +274,7 @@ Dialogue: 0,0:10:31.19,0:10:33.57,Main,Musashi,0,0,0,,Look! It’s not just Eyeb
 Dialogue: 0,0:10:33.57,0:10:35.57,Main,Musashi,0,0,0,,There’s some really \N rare-looking thing there, too!
 Dialogue: 0,0:10:35.57,0:10:38.95,Main,Kojiro,0,0,0,,That’s... \N the Mythical Pokémon, Xiemi!
 Dialogue: 0,0:10:38.95,0:10:41.81,Main,Kojiro,0,0,0,,Who’d have thought \N we’d meet one here?!
-Dialogue: 0,0:10:41.81,0:10:44.80,Main,Nyarth,0,0,0,,When did the \N green brat girl get...
+Dialogue: 0,0:10:41.81,0:10:44.80,Main,Nyarth,0,0,0,,When did the green brat girl get...?
 Dialogue: 0,0:10:47.41,0:10:48.83,Main,Satoshi,0,0,0,,I’m stuffed!
 Dialogue: 0,0:10:48.83,0:10:50.47,Main,Mamane,0,0,0,,What will we eat next?
 Dialogue: 0,0:10:50.47,0:10:52.08,Main,Mamane,0,0,0,,...I mean, where will we go?
@@ -317,7 +317,7 @@ Dialogue: 0,0:12:59.88,0:13:02.63,Main,Joy,0,0,0,,No worries! \N We’ll find �
 Dialogue: 0,0:13:02.63,0:13:04.30,Main,Them,0,0,0,,{\i1}Please do!{\i0}
 Dialogue: 0,0:13:07.89,0:13:12.10,Main,Joy,0,0,0,,Everyone visitin’ Malie City, we’ve got some missin’ Pokémon to report.
 Dialogue: 0,0:13:12.11,0:13:16.94,Main,Rotom,0,0,0,,{\an8}Searching... Searching... Searching...
-Dialogue: 0,0:13:12.11,0:13:18.04,Main,Joy,0,0,0,,Three Pokémon belongin’ to Pokémon School students: \N Xiemi, Meltan and Sandy the Eevee...
+Dialogue: 0,0:13:12.11,0:13:18.04,Main,Joy,0,0,0,,Three Pokémon belongin’ to Pokémon School students: \N Xiemi, Meltan, and Sandy the Eevee...
 Dialogue: 0,0:13:18.04,0:13:20.11,Main,Joy,0,0,0,,...have gotten lost.
 Dialogue: 0,0:13:20.11,0:13:26.02,Main,Joy,0,0,0,,If anyone knows where they might be, \N please contact the Malie City Pokémon Center.
 Dialogue: 0,0:13:26.02,0:13:27.48,Main,Joy,0,0,0,,I repeat...

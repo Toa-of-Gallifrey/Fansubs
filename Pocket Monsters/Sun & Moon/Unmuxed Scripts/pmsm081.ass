@@ -228,7 +228,7 @@ Dialogue: 0,0:07:06.26,0:07:07.90,Main,Kojiro,0,0,0,,Thank you for your patience
 Dialogue: 0,0:07:07.90,0:07:09.22,Main,Mamane,0,0,0,,It’s starting!
 Dialogue: 0,0:07:09.22,0:07:10.91,Main,Mao,0,0,0,,I’ve been waiting for this!
 Dialogue: 0,0:07:10.91,0:07:13.45,Main,Kojiro,0,0,0,,It’s finally time for \N today’s main event!
-Dialogue: 0,0:07:13.45,0:07:15.53,Main,Musashi,0,0,0,,The battle to be the \N Royal Dome’s strongest!
+Dialogue: 0,0:07:13.45,0:07:15.53,Main,Musashi,0,0,0,,The battle to be \N the Royal Dome’s strongest!
 Dialogue: 0,0:07:15.53,0:07:18.21,Main,Nyarth,0,0,0,,The special single match \N is about to begin, meow!
 Dialogue: 0,0:07:21.17,0:07:22.17,Main,Kukui,0,0,0,,What?! Already?!
 Dialogue: 0,0:07:24.25,0:07:27.76,Main,Musashi,0,0,0,,First off, there’s Mad Boobur \N and Booburn! Come on!
@@ -467,7 +467,7 @@ Dialogue: 0,0:23:56.09,0:23:56.98,Main,Burnet,0,0,0,,I see.
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:02.25,0:24:04.32,Main,Musashi,0,0,0,,It hurts! I can’t stay standing!
 Dialogue: 0,0:24:04.32,0:24:05.97,Main,Kojiro,0,0,0,,What are you saying, Musashi?!
-Dialogue: 0,0:24:05.97,0:24:08.76,Main,Kojiro,0,0,0,,Do you think you can become a \N world-class dancer by giving up?! {Suggesting either “world-class” or “first-rate”. - Toa}
+Dialogue: 0,0:24:05.97,0:24:08.76,Main,Kojiro,0,0,0,,Do you think you can become \N a world-class dancer by giving up?! {Suggesting either “world-class” or “first-rate”. - Toa}
 Dialogue: 0,0:24:08.76,0:24:10.51,Main,Nyarth,0,0,0,,He’s right!
 Dialogue: 0,0:24:10.51,0:24:14.64,Main,Nyarth,0,0,0,,A dancer meowst keep dancing until the end \N once she gets on the stage!
 Dialogue: 0,0:24:14.64,0:24:18.27,Main,Musashi,0,0,0,,I got it! I won’t cry anymore! \N I’ll keep dancing ‘til the end!

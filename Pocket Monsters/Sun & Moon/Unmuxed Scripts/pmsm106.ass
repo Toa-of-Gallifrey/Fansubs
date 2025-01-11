@@ -150,7 +150,7 @@ Dialogue: 0,0:01:01.10,0:01:02.63,Main,Satoshi,0,0,0,,Hāpu'u?!
 Dialogue: 0,0:01:02.63,0:01:04.21,Main,Rotom,0,0,0,,Materializing like a phantom-roto!{神出鬼没... Apparently it refers to someone popping in and out entirely unnoticed like some sort of supernatural entity. Old sub had "Where did you come from?" which was, like, the most bare minimum approach to conveying this idea possible. -Starfish}
 Dialogue: 0,0:01:04.21,0:01:06.89,Main,Satoshi,0,0,0,,W-What brings you here?
 Dialogue: 0,0:01:06.89,0:01:09.39,Main,Hapu,0,0,0,,I have some freshly plucked \N Poni Radishes from my fields.
-Dialogue: 0,0:01:09.39,0:01:12.76,Main,Hapu,0,0,0,,I thought to let the \N Pokémon here eat some.
+Dialogue: 0,0:01:09.39,0:01:12.76,Main,Hapu,0,0,0,,I thought to let \N the Pokémon here eat some.
 Dialogue: 0,0:01:12.76,0:01:15.22,Main,Lilie,0,0,0,,I’m sure they’ll be happy to!
 Dialogue: 0,0:01:15.22,0:01:17.92,Main,Hapu,0,0,0,,What are you folk doing?
 Dialogue: 0,0:01:17.92,0:01:21.10,Main,Lilie,0,0,0,,We were going over our plans \N for our research projects.
@@ -159,7 +159,7 @@ Dialogue: 0,0:01:22.35,0:01:26.25,Main,Mamane,0,0,0,,I’m planning on going \N 
 Dialogue: 0,0:01:26.25,0:01:27.74,Main,Satoshi,0,0,0,,Canyon?
 Dialogue: 0,0:01:27.74,0:01:28.35,Main,Mamane,0,0,0,,Here.
 Dialogue: 0,0:01:29.55,0:01:30.78,Main,Lilie,0,0,0,,Isn’t this...
-Dialogue: 0,0:01:30.78,0:01:33.61,Main,Mamane,0,0,0,,Yup, it’s near the \N Altar of the Sunne!
+Dialogue: 0,0:01:30.78,0:01:33.61,Main,Mamane,0,0,0,,Yup, it’s near \N the Altar of the Sunne!
 Dialogue: 0,0:01:33.61,0:01:35.52,Main,Satoshi,0,0,0,,Oh, there?
 Dialogue: 0,0:01:35.52,0:01:40.21,Main,Mamane,0,0,0,,Apparently, going here will make it easier for Denjimushi \N to evolve into Kuwagannon!
 Dialogue: 0,0:01:40.21,0:01:42.37,Main,Satoshi,0,0,0,,For real?! Why?

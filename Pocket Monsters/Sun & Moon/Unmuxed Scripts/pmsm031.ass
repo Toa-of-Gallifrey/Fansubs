@@ -65,7 +65,7 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.95,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.95,0:22:25.87,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.95,0:22:25.87,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.87,0:22:29.50,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.50,0:22:33.50,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.50,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -186,7 +186,7 @@ Dialogue: 0,0:06:59.14,0:07:01.77,Main,Kaki,0,0,0,,She surprised me \N during my
 Dialogue: 0,0:07:02.66,0:07:08.19,Main,Kaki,0,0,0,,I’d never seen Bakugames drop his guard \N around a stranger before that.
 Dialogue: 0,0:07:08.19,0:07:13.57,Main,Kaki,0,0,0,,There must be something special about Ms. Lychee \N that causes Pokémon{and viewers} to open their hearts to her.
 Dialogue: 0,0:07:17.23,0:07:20.44,Main,Satoshi,0,0,0,,You want to become \N this cool too, right?
-Dialogue: 0,0:07:21.72,0:07:25.17,Main,Lychee,0,0,0,,Aren’t you glad you got a \N cute little admirer, Lugarugan? {Eh... Not really a fan (lol) of “fan” here, but not sure how else to handle “kouhai” in this context... -Starfish}{Admirer? - Toa}
+Dialogue: 0,0:07:21.72,0:07:25.17,Main,Lychee,0,0,0,,Aren’t you glad you got \N a cute little admirer, Lugarugan? {Eh... Not really a fan (lol) of “fan” here, but not sure how else to handle “kouhai” in this context... -Starfish}{Admirer? - Toa}
 Dialogue: 0,0:07:28.69,0:07:30.60,Main,Lychee,0,0,0,,You really are cute!
 Dialogue: 0,0:07:32.03,0:07:35.06,Main,Lychee,0,0,0,,Please, tell me more about them!
 Dialogue: 0,0:07:35.06,0:07:37.06,Main,Lychee,0,0,0,,I want to get to know \N all of them better!

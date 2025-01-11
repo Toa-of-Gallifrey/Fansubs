@@ -283,7 +283,7 @@ Dialogue: 0,0:12:33.69,0:12:37.59,Main,Hapu,0,0,0,,Your clothing is quite unsigh
 Dialogue: 0,0:12:38.26,0:12:39.30,Main,Gladio,0,0,0,,No need.
 Dialogue: 0,0:12:39.30,0:12:41.36,Main,Hapu,0,0,0,,W-What?!
 Dialogue: 0,0:12:41.36,0:12:43.78,Main,Hapu,0,0,0,,Have you no manners?!
-Dialogue: 0,0:12:43.78,0:12:46.16,Main,Gladio,0,0,0,,Would you like to have a \N Pokémon battle with {\i1}me?{\i0}
+Dialogue: 0,0:12:43.78,0:12:46.16,Main,Gladio,0,0,0,,Would you like to have \N a Pokémon battle with {\i1}me?{\i0}
 Dialogue: 0,0:12:46.66,0:12:48.05,Main,Satoshi,0,0,0,,For real?!
 Dialogue: 0,0:12:48.05,0:12:49.89,Main,Gladio,0,0,0,,Is that okay with you, Lilie?
 Dialogue: 0,0:12:49.89,0:12:57.01,Main,Lilie,0,0,0,,Of course! A battle with Satoshi would be \N a far greater and more enjoyable challenge for you!
@@ -380,7 +380,7 @@ Dialogue: 0,0:19:14.51,0:19:16.09,Main,Rotom,0,0,0,,After that Reversed Scale ca
 Dialogue: 0,0:19:16.09,0:19:19.46,Main,Rotom,0,0,0,,Satoshi used his strongest move \N to finish the battle immediately-roto!
 Dialogue: 0,0:19:20.04,0:19:26.10,Main,Rotom,0,0,0,,But Gladio’s Lugarugan used the impact \N from that move to snap out of confusion-roto!
 Dialogue: 0,0:19:26.10,0:19:29.88,Main,Hapu,0,0,0,,Unbelievable! \N He made an all-or-nothing bet?
-Dialogue: 0,0:19:29.88,0:19:34.11,Main,Lilie,0,0,0,,This would not be possible unless the \N Pokémon and trainer fully believed in each other.
+Dialogue: 0,0:19:29.88,0:19:34.11,Main,Lilie,0,0,0,,This would not be possible unless \N the Pokémon and trainer fully believed in each other.
 Dialogue: 0,0:19:34.11,0:19:36.71,Main,Hapu,0,0,0,,I see.
 Dialogue: 0,0:19:36.71,0:19:40.61,Main,Lilie,0,0,0,,Big Brother fights almost \N exactly like Satoshi does!
 Dialogue: 0,0:19:41.25,0:19:45.41,Main,Gladio,0,0,0,,Now that you’ve just used a Z-Move, you must be exhausted. \N You can’t even fight back properly, can you?
@@ -418,11 +418,11 @@ Comment: 0,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.46,0:23:20.46,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.93,0:23:25.35,Main,Lilie,0,0,0,,Thank you very much for waiting!
 Dialogue: 0,0:23:25.95,0:23:29.30,Main,Lilie,0,0,0,,Satoshi battled my big brother, Gladio!
-Dialogue: 0,0:23:29.30,0:23:32.61,Main,Lilie,0,0,0,,Blacky is the Moonlight Pokémon, \N and a Dark type.
+Dialogue: 0,0:23:29.30,0:23:32.61,Main,Lilie,0,0,0,,Blacky is the Moonlight Pokémon, \N and an Evil type.
 Dialogue: 0,0:23:32.61,0:23:35.56,Main,Lilie,0,0,0,,With its black fur, \N it blends into the darkness. {Moon Pokédex entry -Starfish}
 Dialogue: 0,0:23:35.56,0:23:38.81,Main,Lilie,0,0,0,,It waits patiently for its foes \N to lower their guard.
 Dialogue: 0,0:23:38.81,0:23:41.39,Main,Lilie,0,0,0,,It’s the perfect partner \N for my brother! {...which is why out of all of his Pokémon it’s the one that gets the least amount of focus! -Starfish}
-Dialogue: 0,0:23:44.78,0:23:47.36,Main,Hapu,0,0,0,,Are you staying at the \N Pokémon Center, as well?
+Dialogue: 0,0:23:44.78,0:23:47.36,Main,Hapu,0,0,0,,Are you staying at \N the Pokémon Center, as well?
 Dialogue: 0,0:23:47.75,0:23:51.24,Main,Gladio,0,0,0,,No. I’ll be camping out here \N for a while, training my skills.
 Dialogue: 0,0:23:51.24,0:23:53.24,Main,Satoshi,0,0,0,,Training? Well, then I’ll—
 Dialogue: 0,0:23:53.24,0:23:54.24,Main,Gladio,0,0,0,,Later.

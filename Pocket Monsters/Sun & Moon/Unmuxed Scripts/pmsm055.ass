@@ -88,7 +88,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -279,8 +279,8 @@ Dialogue: 0,0:12:39.13,0:12:43.03,Main,Satoshi,0,0,0,,Great timing! Professor Ku
 Dialogue: 0,0:12:43.03,0:12:44.28,Main,Satoshi,0,0,0,,{\an8}You should—
 Dialogue: 0,0:12:43.03,0:12:45.78,Main,Gladio,0,0,0,,I’m just about to \N head off on a journey.
 Dialogue: 0,0:12:46.22,0:12:47.47,Main,Satoshi,0,0,0,,Huh?
-Dialogue: 0,0:12:47.47,0:12:48.93,Main,Gladio,0,0,0,,I intend to face the \N Island Pilgrimage. {Would “take on” be an acceptable substitute for “face”? - Toa}{It would... But this line is already pushing the characters per second limit way overboard so I’d rather not do anything to make it even slightly longer. -Starfish}
-Dialogue: 0,0:12:48.93,0:12:51.62,Main,Gladio,0,0,0,,To challenge the \N Trials and Grand Trials.
+Dialogue: 0,0:12:47.47,0:12:48.93,Main,Gladio,0,0,0,,I intend to face \N the Island Pilgrimage. {Would “take on” be an acceptable substitute for “face”? - Toa}{It would... But this line is already pushing the characters per second limit way overboard so I’d rather not do anything to make it even slightly longer. -Starfish}
+Dialogue: 0,0:12:48.93,0:12:51.62,Main,Gladio,0,0,0,,To challenge \N the Trials and Grand Trials.
 Dialogue: 0,0:12:54.82,0:12:56.83,Main,Gladio,0,0,0,,The Z-Move you and Pikachu used...
 Dialogue: 0,0:12:57.22,0:13:00.71,Main,Satoshi,0,0,0,,10,000,000 Volts!
 Dialogue: 0,0:13:08.66,0:13:11.85,Main,Gladio,0,0,0,,I can’t just sit quiet after seeing that!

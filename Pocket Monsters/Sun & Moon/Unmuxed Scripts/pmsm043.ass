@@ -65,7 +65,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.53,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.53,0:22:37.29,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -197,7 +197,7 @@ Dialogue: 0,0:07:50.55,0:07:54.94,Main,Lilie,0,0,0,,That isn’t even in any of 
 Dialogue: 0,0:07:54.94,0:07:56.70,Main,Mamane,0,0,0,,I can’t beat that.
 Dialogue: 0,0:07:57.10,0:08:02.58,Main,Takeshi,0,0,0,,Mind you, I learned to battle this way \N from a certain challenger of mine!
 Dialogue: 0,0:08:03.24,0:08:05.11,Main,Kukui,0,0,0,,Well, everyone?
-Dialogue: 0,0:08:05.11,0:08:08.21,Main,Kukui,0,0,0,,Did you feel some of the \N complexity of Pokémon battles?
+Dialogue: 0,0:08:05.11,0:08:08.21,Main,Kukui,0,0,0,,Did you feel some of \N the complexity of Pokémon battles?
 Dialogue: 0,0:08:08.59,0:08:09.59,Main,Them,0,0,0,,{\i1}Yes!{\i0}
 Dialogue: 0,0:08:09.59,0:08:12.29,Main,Kukui,0,0,0,,A Pokémon’s type and \N the moves it learns...
 Dialogue: 0,0:08:12.29,0:08:15.72,Main,Kukui,0,0,0,,Those, and the way you raise them, \N can create infinite ways to battle!
@@ -257,7 +257,7 @@ Dialogue: 0,0:11:59.22,0:12:00.77,Main,Rotom,0,0,0,,Gotta record this-roto!{His 
 Dialogue: 0,0:12:00.77,0:12:03.34,Main,Mao,0,0,0,,What’s this? It got even bigger!
 Dialogue: 0,0:12:03.34,0:12:04.49,Main,Suiren,0,0,0,,So cool!
 Dialogue: 0,0:12:04.90,0:12:06.37,Main,Mamane,0,0,0,,This is Mega Evolution?
-Dialogue: 0,0:12:06.84,0:12:12.02,Main,Kukui,0,0,0,,That’s right. Mega Evolution is a \N mid-battle power-up phenomenon,
+Dialogue: 0,0:12:06.84,0:12:12.02,Main,Kukui,0,0,0,,That’s right. Mega Evolution is \N a mid-battle power-up phenomenon,
 Dialogue: 0,0:12:12.02,0:12:15.13,Main,Kukui,0,0,0,,achieved through a Pokémon and their trainer \N making their hearts one.
 Dialogue: 0,0:12:15.13,0:12:18.00,Main,Takeshi,0,0,0,,Now show me your Z-Move!
 Dialogue: 0,0:12:18.00,0:12:21.50,Main,Kaki,0,0,0,,Sure! I won’t lose!

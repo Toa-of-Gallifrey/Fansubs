@@ -148,7 +148,7 @@ Dialogue: 0,0:01:26.31,0:01:27.73,Main,Satoshi,0,0,0,,In that case...
 Dialogue: 0,0:01:28.77,0:01:29.52,Main,Satoshi,0,0,0,,Here.
 Dialogue: 0,0:01:36.32,0:01:38.07,Main,Okido,0,0,0,,It’s a pleasure to meet you, Meltan!
 Dialogue: 0,0:01:45.66,0:01:47.46,Main,Burnet,0,0,0,,Are you all right?
-Dialogue: 0,0:01:47.46,0:01:52.21,Main,Okido,0,0,0,,Please take utmost care \N From its eye it launches a \N Fierce Luster Cannon {Haikus, yo! -Starfish}
+Dialogue: 0,0:01:47.46,0:01:52.21,Main,Okido,0,0,0,,Please take utmost care \N From its eye it launches \N a Fierce Luster Cannon {Haikus, yo! -Starfish}
 Dialogue: 0,0:02:02.05,0:02:05.85,Main,Okido,0,0,0,,This must be Meltan’s unique behavior \N that I’ve heard so much about!
 Dialogue: 0,0:02:22.99,0:02:24.58,Main,Okido,0,0,0,,What’s this?
 Dialogue: 0,0:02:24.58,0:02:26.12,Main,Satoshi,0,0,0,,Look at all the Meltan!
@@ -360,7 +360,7 @@ Dialogue: 0,0:23:29.01,0:23:33.09,Main,Rotom,0,0,0,,Meltan’s evolved form Melm
 Dialogue: 0,0:23:33.59,0:23:37.68,Main,Rotom,0,0,0,,What a shock that all those Meltan \N would merge and evolve-roto!
 Dialogue: 0,0:23:38.35,0:23:40.69,Main,Rotom,0,0,0,,Its power has \N risen immensely-roto!
 Dialogue: 0,0:23:40.69,0:23:43.60,Main,Okido,0,0,0,,Let’s see, now... \N Is it really that incredible?
-Dialogue: 0,0:23:50.95,0:23:55.03,Main,Okido,0,0,0,,Double Panzer is \N Like a Brutal Swing from an \N Electronic fan{Thing I did not catch the first time around but that I did this time: He says "bunmawasu" which is the move Brutal Swing. So yeah, he describes one move by invoking a different move. -Starfish}{Added "is" to keep the 5-7-5 structure. - Toa}
+Dialogue: 0,0:23:50.95,0:23:55.03,Main,Okido,0,0,0,,Double Panzer is \N Like a Brutal Swing from \N an Electronic fan{Thing I did not catch the first time around but that I did this time: He says "bunmawasu" which is the move Brutal Swing. So yeah, he describes one move by invoking a different move. -Starfish}{Added "is" to keep the 5-7-5 structure. - Toa}
 Dialogue: 0,0:23:56.87,0:24:00.46,Main,Okido,0,0,0,,You guys catch Pokémon, too!{he says this so goddamn much in the old series that we really should have a fluid-sounding translation for it -Puto}{Maybe something like "Don’t forget to keep on catching Pokémon, all of you!"? - Toa}
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.21,0:24:03.96,Main,Jeekyo,0,0,0,,I am in tears.

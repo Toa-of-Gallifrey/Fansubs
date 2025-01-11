@@ -387,7 +387,7 @@ Dialogue: 0,0:24:01.13,0:24:02.56,Main,Kukui,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fsc
 Dialogue: 0,0:24:01.13,0:24:02.56,Main,Kukui,0,0,0,,Today’s lesson is on constellations.
 Dialogue: 0,0:24:02.56,0:24:03.37,Main,Kaki,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fscy80\blur4.5\pos(640,638)}seiza
 Dialogue: 0,0:24:02.56,0:24:03.37,Main,Kaki,0,0,0,,Sitting on your knees?!
-Dialogue: 0,0:24:03.37,0:24:04.67,Main,Lilie,0,0,0,,I know of the \N Kyukon Constellation!
+Dialogue: 0,0:24:03.37,0:24:04.67,Main,Lilie,0,0,0,,I know of \N the Kyukon Constellation!
 Dialogue: 0,0:24:04.67,0:24:06.40,Main,Mamane,0,0,0,,Did you know there’s \N a Denjimushi Constellation?
 Dialogue: 0,0:24:06.40,0:24:07.95,Main,Mao,0,0,0,,I wonder if there’s \N an Amamaiko Constellation?
 Dialogue: 0,0:24:07.95,0:24:09.01,Main,Suiren,0,0,0,,Ah! Rekkuuza!{Rekkuu-za... I see what you did there. -Starfish}

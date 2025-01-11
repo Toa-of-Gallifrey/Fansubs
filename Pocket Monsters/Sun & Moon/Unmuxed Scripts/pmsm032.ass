@@ -65,7 +65,7 @@ Dialogue: 0,0:22:12.44,0:22:14.65,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.65,0:22:18.32,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.32,0:22:22.20,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.20,0:22:24.07,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.99,0:22:29.62,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.62,0:22:33.63,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.63,0:22:37.38,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -105,7 +105,7 @@ Dialogue: 0,0:00:55.09,0:00:56.25,Main,Kukui,0,0,0,,Alola!
 Dialogue: 0,0:00:56.99,0:00:58.62,Main,Lychee,0,0,0,,Alola!
 Dialogue: 0,0:00:58.91,0:01:00.81,Main,Them,0,0,0,,{\i1}Alola!{\i0}
 Dialogue: 0,0:01:00.81,0:01:02.36,Main,Kukui,0,0,0,,All right, everyone’s here.
-Dialogue: 0,0:01:02.36,0:01:05.46,Main,Lychee,0,0,0,,It’s finally time for the \N extracurricular lessons on Akala Island to start. {But you said they already started back on the boat! Although I guess the boat does not equate to Akala Island. - Toa}
+Dialogue: 0,0:01:02.36,0:01:05.46,Main,Lychee,0,0,0,,It’s finally time for \N the extracurricular lessons on Akala Island to start. {But you said they already started back on the boat! Although I guess the boat does not equate to Akala Island. - Toa}
 Dialogue: 0,0:01:05.46,0:01:07.46,Main,Mao,0,0,0,,Will there be any \N cooking practice?!
 Dialogue: 0,0:01:07.46,0:01:09.55,Main,Lychee,0,0,0,,Now, now, don’t be too hasty.
 Dialogue: 0,0:01:09.55,0:01:11.88,Main,Kukui,0,0,0,,First we gotta move \N with lots of Agility.{Augh. Here’s one of them cases where the official English attack names don’t really lend themselves well to Kukui’s move puns. The Japanese name of this move is just “High Speed Movement", so it’s just like “We gotta move at high speed", but... Meh. -Starfish}

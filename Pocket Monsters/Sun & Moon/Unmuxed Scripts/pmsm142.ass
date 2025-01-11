@@ -126,7 +126,7 @@ Dialogue: 0,0:00:20.79,0:00:23.44,Main,Kukui,0,0,0,,I knew you’d use Nyaheat.
 Dialogue: 0,0:00:23.44,0:00:24.83,Main,Kukui,0,0,0,,Then I’ll use...
 Dialogue: 0,0:00:30.80,0:00:32.63,Main,Kukui,0,0,0,,Bring it, Satoshi!
 Dialogue: 0,0:00:35.09,0:00:37.68,Main,Satoshi,0,0,0,,Let’s go at full power, Nyaheat!
-Dialogue: 0,0:00:40.14,0:00:43.73,Main,Narrator,0,0,0,,The exhibition match between the \N Alola Pokémon League’s first Champion Satoshi...
+Dialogue: 0,0:00:40.14,0:00:43.73,Main,Narrator,0,0,0,,The exhibition match between \N the Alola Pokémon League’s first Champion Satoshi...
 Dialogue: 0,0:00:43.73,0:00:47.06,Main,Narrator,0,0,0,,...and Royal Mask, a.k.a. \N Professor Kukui...
 Dialogue: 0,0:00:47.98,0:00:51.61,Main,Narrator,0,0,0,,...has begun at last.
 Dialogue: 0,0:00:52.11,0:00:56.32,Main,Narrator,0,0,0,,The first match was \N Satoshi’s Nyaheat VS Kukui’s Gaogaen.
@@ -226,7 +226,7 @@ Dialogue: 0,0:09:29.29,0:09:31.42,Main,Satoshi,0,0,0,,Mokuroh! Feather Dance!
 Dialogue: 0,0:09:34.59,0:09:35.34,Main,Kukui,0,0,0,,Fire!
 Dialogue: 0,0:09:50.86,0:09:51.61,Main,Kukui,0,0,0,,What?!
 Dialogue: 0,0:09:51.61,0:09:53.36,Main,Satoshi,0,0,0,,It worked!
-Dialogue: 0,0:09:53.36,0:09:56.53,Main,Jeekyo,0,0,0,,Was that the \N art of substitution again?!
+Dialogue: 0,0:09:53.36,0:09:56.53,Main,Jeekyo,0,0,0,,Was that the art of substitution again?!
 Dialogue: 0,0:09:56.53,0:10:00.53,Main,Jeekyo,0,0,0,,Competitor Satoshi’s quick thinking \N let him escape the Solar Beam!
 Dialogue: 0,0:10:00.95,0:10:02.33,Main,Burnet,0,0,0,,You’re kidding!
 Dialogue: 0,0:10:02.33,0:10:03.79,Main,Hanako,0,0,0,,Oh, my...

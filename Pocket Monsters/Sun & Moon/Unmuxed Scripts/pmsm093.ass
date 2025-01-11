@@ -389,7 +389,7 @@ Dialogue: 0,0:19:08.22,0:19:09.08,Main,Rotom,0,0,0,,...roto!
 Dialogue: 0,0:19:15.94,0:19:19.11,Main,Musashi,0,0,0,,Ah... Alola is so grand...
 Dialogue: 0,0:19:20.43,0:19:24.40,Main,Musashi,0,0,0,,What even {\i1}is{\i0} this feeling?
 Dialogue: 0,0:19:30.44,0:19:33.62,Main,Lilie,0,0,0,,Everybody! \N Alola has been saved!
-Dialogue: 0,0:19:35.19,0:19:41.31,Main,Mao,0,0,0,,And thus it was that Alola reclaimed the \N power of the earth, and peace fell upon the land!
+Dialogue: 0,0:19:35.19,0:19:41.31,Main,Mao,0,0,0,,And thus it was that Alola reclaimed \N the power of the earth, and peace fell upon the land!
 Dialogue: 0,0:19:41.31,0:19:43.70,Main,Mao,0,0,0,,And they all lived \N happily ever after!
 Dialogue: 0,0:19:50.33,0:19:52.92,Main,Hanako,0,0,0,,Satoshi, you were so cool!
 Dialogue: 0,0:19:54.13,0:19:56.13,Main,Satoshi,0,0,0,,You should have told me \N you’d be here!
@@ -411,7 +411,7 @@ Dialogue: 0,0:23:28.79,0:23:34.09,Main,Mamane,0,0,0,,Satoshi’s Index Rotom has
 Dialogue: 0,0:23:34.09,0:23:36.77,Main,Mamane,0,0,0,,It sure has grown a lot, \N hasn’t it?
 Dialogue: 0,0:23:36.77,0:23:40.06,Main,Mamane,0,0,0,,Extending the script on the fly \N must have been tough, right Rotom?
 Dialogue: 0,0:23:43.57,0:23:44.57,Main,Satoshi,0,0,0,,What’s up, Rotom?
-Dialogue: 0,0:23:44.57,0:23:46.69,Main,Rotom,0,0,0,,I’m plotting out the \N next play-roto!
+Dialogue: 0,0:23:44.57,0:23:46.69,Main,Rotom,0,0,0,,I’m plotting out \N the next play-roto!
 Dialogue: 0,0:23:46.69,0:23:51.45,Main,Rotom,0,0,0,,My next work will be \N a grand sci-fi epic-roto!
 Dialogue: 0,0:23:51.45,0:23:53.55,Main,Satoshi,0,0,0,,For real?! Sounds great!
 Dialogue: 0,0:23:53.55,0:23:55.61,Main,Rotom,0,0,0,,A masterpiece is born-roto! {Is "is" supposed to be "is" or can it be "will be"? - Toa}{I stand by "is". -Starfish}

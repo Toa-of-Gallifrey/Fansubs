@@ -139,14 +139,14 @@ Dialogue: 0,0:00:13.54,0:00:15.49,Main,Rotom,0,0,0,,Get the answer at the end-ro
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:19.17,0:00:20.29,Main,Satoshi,0,0,0,,Training! Training!
 Dialogue: 0,0:00:20.29,0:00:21.91,Main,Satoshi,0,0,0,,Training!
-Dialogue: 0,0:00:24.51,0:00:27.01,Main,Rotom,0,0,0,,Let’s go to the \N Ruins of Abundance-roto!
+Dialogue: 0,0:00:24.51,0:00:27.01,Main,Rotom,0,0,0,,Let’s go to \N the Ruins of Abundance-roto!
 Dialogue: 0,0:00:27.01,0:00:28.25,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 0,0:00:28.25,0:00:30.00,Main,Acerola,0,0,0,,Wait!
 Dialogue: 0,0:00:36.64,0:00:39.31,Main,Satoshi,0,0,0,,Whoa, it’s huge!
 Dialogue: 0,0:00:42.64,0:00:46.03,Main,Rotom,0,0,0,,Banbadoro. Draft Horse Pokémon. \N Ground type.
 Dialogue: 0,0:00:46.03,0:00:48.77,Main,Rotom,0,0,0,,Its heavy, mud-covered kicks are \N its best means of attack,{For once this Dex entry is from Moon rather than Sun}
 Dialogue: 0,0:00:48.77,0:00:52.11,Main,Rotom,0,0,0,,and it can reduce large trucks to scrap \N without breaking a sweat.
-Dialogue: 0,0:00:55.16,0:00:57.71,Main,Acerola,0,0,0,,You’ve never been to the \N Ruins of Abundance before, have you?
+Dialogue: 0,0:00:55.16,0:00:57.71,Main,Acerola,0,0,0,,You’ve never been to \N the Ruins of Abundance before, have you?
 Dialogue: 0,0:00:57.71,0:00:59.84,Main,Acerola,0,0,0,,I’ll take you there!
 Dialogue: 0,0:00:59.84,0:01:01.67,Main,Acerola,0,0,0,,Get on behind me.
 Dialogue: 0,0:01:01.67,0:01:03.41,Main,Satoshi,0,0,0,,Thank you, Acerola.
@@ -188,7 +188,7 @@ Dialogue: 0,0:06:45.77,0:06:47.63,Main,Rotom,0,0,0,,Ula'ula Island’s Guardian 
 Dialogue: 0,0:06:52.31,0:06:53.42,Main,Satoshi,0,0,0,,Me, too!
 Dialogue: 0,0:07:05.49,0:07:07.17,Main,Satoshi,0,0,0,,Kapu-Bulul!
 Dialogue: 0,0:07:09.91,0:07:11.29,Main,Satoshi,0,0,0,,I’m Satoshi!
-Dialogue: 0,0:07:11.29,0:07:14.29,Main,Satoshi,0,0,0,,We met at the \N Altar of the Sunne, remember?
+Dialogue: 0,0:07:11.29,0:07:14.29,Main,Satoshi,0,0,0,,We met at \N the Altar of the Sunne, remember?
 Dialogue: 0,0:07:14.29,0:07:17.38,Main,Satoshi,0,0,0,,We came here for \N the Island Pilgrimage.
 Dialogue: 0,0:07:17.38,0:07:20.79,Main,Satoshi,0,0,0,,But we lost against \N Island King Kuchinashi.
 Dialogue: 0,0:07:21.21,0:07:24.10,Main,Satoshi,0,0,0,,So, I’d like you to train us.
@@ -205,7 +205,7 @@ Dialogue: 0,0:08:25.07,0:08:26.44,Main,Satoshi,0,0,0,,Bebenom...
 Dialogue: 0,0:08:27.41,0:08:29.28,Main,Satoshi,0,0,0,,I’m sorry, Kapu-Bulul!
 Dialogue: 0,0:08:33.12,0:08:34.66,Main,Satoshi,0,0,0,,You’ll train us?
 Dialogue: 0,0:09:42.32,0:09:44.48,Main,Satoshi,0,0,0,,That’s awesome, Kapu-Bulul!
-Dialogue: 0,0:09:45.11,0:09:47.90,Main,Acerola,0,0,0,,So this is the \N Guardian Deity’s power...
+Dialogue: 0,0:09:45.11,0:09:47.90,Main,Acerola,0,0,0,,So this is \N the Guardian Deity’s power...
 Dialogue: 0,0:09:48.57,0:09:50.36,Main,Acerola,0,0,0,,I’ve never seen it in person before!
 Dialogue: 0,0:09:57.25,0:10:02.20,Main,Rotom,0,0,0,,So this is what they meant by “It causes vegetation to grow, \N and then it absorbs energy from the growth”-roto?
 Dialogue: 0,0:10:26.65,0:10:27.82,Main,Satoshi,0,0,0,,Mokuroh?!

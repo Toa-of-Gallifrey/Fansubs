@@ -108,7 +108,7 @@ Dialogue: 0,0:23:10.03,0:23:14.54,EDp2,,0,0,0,,{\fad(0,400)}‘Cause you can be 
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.46,0:24:26.82,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:26.82,0:24:30.40,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,100)}Next time
-Dialogue: 0,0:24:26.82,0:24:30.40,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,520)}The Dark Nyarth is an Alolan Nyarth?!
+Dialogue: 0,0:24:26.82,0:24:30.40,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,520)}The Evil Nyarth is an Alolan Nyarth?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 0,0:00:01.53,0:00:02.78,Main,Rotom,0,0,0,,Alola!
@@ -160,7 +160,7 @@ Dialogue: 0,0:04:51.94,0:04:54.10,Main,Rotom,0,0,0,,Where does this lead-roto?
 Dialogue: 0,0:04:56.99,0:04:58.65,Main,Mamane,0,0,0,,This is pretty fun!
 Dialogue: 0,0:05:07.21,0:05:09.92,Main,Lilie,0,0,0,,Mother {\i1}would{\i0} like \N this sort of contraption...
 Dialogue: 0,0:05:09.92,0:05:11.21,Main,Suiren,0,0,0,,Really?
-Dialogue: 0,0:05:11.21,0:05:13.29,Main,Lilie,0,0,0,,She has quite the \N pronounced childlike side...
+Dialogue: 0,0:05:11.21,0:05:13.29,Main,Lilie,0,0,0,,She has quite \N the pronounced childlike side...
 Dialogue: 0,0:06:03.51,0:06:04.55,Main,Them,0,0,0,,{\i1}Pixie!{\i0}
 Dialogue: 0,0:06:09.27,0:06:12.40,Main,Lusamine,0,0,0,,Alola, Ultra Guardians!
 Dialogue: 0,0:06:13.36,0:06:14.43,Main,Burnet & Wicke,0,0,0,,Alola!
@@ -169,7 +169,7 @@ Dialogue: 0,0:06:16.78,0:06:19.44,Main,Lilie,0,0,0,,Mother, what is Pixie doing 
 Dialogue: 0,0:06:19.95,0:06:25.19,Main,Lusamine,0,0,0,,Pixie will be providing assistance \N as a fellow Ultra Guardian.
 Dialogue: 0,0:06:25.83,0:06:27.20,Main,Lusamine,0,0,0,,Have a look at this.
 Dialogue: 0,0:06:27.20,0:06:28.79,Main,Rotom,0,0,0,,It’s Laki-roto!
-Dialogue: 0,0:06:28.79,0:06:31.95,Main,Laki,0,0,0,,This is the report of an \N Ultra Beast sighting we’ve received. {Changed the second “the” to “an”. - Toa}
+Dialogue: 0,0:06:28.79,0:06:31.95,Main,Laki,0,0,0,,This is the report of \N an Ultra Beast sighting we’ve received. {Changed the second “the” to “an”. - Toa}
 Dialogue: 0,0:06:32.78,0:06:35.45,Main,Rotom,0,0,0,,The culprit... is you!
 Dialogue: 0,0:06:36.80,0:06:38.87,Main,Burnet,0,0,0,,Rotom, focus on \N what’s in the background.
 Dialogue: 0,0:06:43.01,0:06:44.71,Main,Satoshi,0,0,0,,That’s an Ultra Beast, too?
@@ -266,7 +266,7 @@ Dialogue: 0,0:15:14.61,0:15:15.23,Main,Mao,0,0,0,,Here!
 Dialogue: 0,0:15:15.23,0:15:16.07,Main,Suiren,0,0,0,,Here!
 Dialogue: 0,0:15:16.07,0:15:17.11,Main,Mao,0,0,0,,Here, here, here, here!
 Dialogue: 0,0:15:17.11,0:15:18.94,Main,Suiren,0,0,0,,Eat up!
-Dialogue: 0,0:15:39.26,0:15:42.27,Main,Satoshi,0,0,0,,Massivoon is a \N pretty interesting guy, huh.
+Dialogue: 0,0:15:39.26,0:15:42.27,Main,Satoshi,0,0,0,,Massivoon is \N a pretty interesting guy, huh.
 Dialogue: 0,0:15:42.47,0:15:44.30,Main,Rotom,0,0,0,,Don’t let your guard down-roto!
 Dialogue: 0,0:15:44.30,0:15:47.67,Main,Satoshi,0,0,0,,Yeah. \N Anyway, we gotta catch it, right?
 Dialogue: 0,0:15:48.06,0:15:52.48,Main,Satoshi,0,0,0,,Massivoon! I’m gonna capture you, \N so we can bring you back to your own world!
@@ -336,6 +336,6 @@ Dialogue: 0,0:24:10.35,0:24:12.60,Main,Nyarth,0,0,0,,Can’t you massage my shou
 Dialogue: 0,0:24:13.89,0:24:16.72,Main,Nyarth,0,0,0,,Good, meow... \N That hits the spot, meow...
 Dialogue: 0,0:24:16.72,0:24:20.23,Main,Nyarth,0,0,0,,This comfort feels like a dream, meow... {Comfort feels a little weird here, but I have no better ideas. Ignore if it looks good to you. - Toa}
 Dialogue: 0,0:24:20.23,0:24:22.56,Main,Musashi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
-Dialogue: 0,0:24:22.56,0:24:24.45,Main,Musashi,0,0,0,,The Dark Nyarth is an Alolan Nyarth?!
+Dialogue: 0,0:24:22.56,0:24:24.45,Main,Musashi,0,0,0,,The Evil Nyarth is an Alolan Nyarth?!
 Dialogue: 0,0:24:24.45,0:24:26.35,Main,Kojiro,0,0,0,,Will you wake up already, Nyarth?!
 Dialogue: 0,0:24:26.82,0:24:28.32,Main,Nyarth,0,0,0,,It was a dream, meow?!

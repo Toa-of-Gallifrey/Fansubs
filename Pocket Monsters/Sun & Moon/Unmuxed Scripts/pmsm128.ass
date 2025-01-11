@@ -76,7 +76,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:35.51,0:02:40.52,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,220)}The Curtain Rises!
 Dialogue: 0,0:02:35.51,0:02:40.52,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,550)}The Alola Pokémon League!!
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
-Dialogue: 0,0:11:33.55,0:11:36.51,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Ratta\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}      (Alolan Form)\N{\fs40}Type:   Dark/Normal {Is this eyecatch placed correctly? - Toa}
+Dialogue: 0,0:11:33.55,0:11:36.51,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Ratta\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}      (Alolan Form)\N{\fs40}Type:   Evil/Normal {Is this eyecatch placed correctly? - Toa}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:21:59.50,0:22:08.97,ED,,0,0,0,,{\fad(310,310)\fsp-1}Damp from the morning rain, the rice field paths soak up the sunlight
 Dialogue: 0,0:21:59.50,0:22:08.97,EDp2,,0,0,0,,{\fad(310,310)\fsp-1}Damp from the morning rain, the rice field paths soak up the sunlight
@@ -120,7 +120,7 @@ Dialogue: 0,0:00:33.77,0:00:36.20,Main,Mao,0,0,0,,I can’t believe they built \
 Dialogue: 0,0:00:36.20,0:00:38.36,Main,Rotom,0,0,0,,Their craftsmanship \N is awesome-roto!
 Dialogue: 0,0:00:38.93,0:00:43.30,Main,Lilie,0,0,0,,Mother said the entire Aether Foundation \N worked on constructing it.
 Dialogue: 0,0:00:44.50,0:00:47.09,Main,Mao,0,0,0,,You changed into your \N “I Can RealLilie Do It” form?
-Dialogue: 0,0:00:47.09,0:00:50.23,Main,Lilie,0,0,0,,Indeed! This is the \N Pokémon League, after all!
+Dialogue: 0,0:00:47.09,0:00:50.23,Main,Lilie,0,0,0,,Indeed! This is \N the Pokémon League, after all!
 Dialogue: 0,0:00:51.32,0:00:53.55,Main,Suiren,0,0,0,,It looks as good as ever!
 Dialogue: 0,0:00:53.55,0:00:55.06,Main,Lilie,0,0,0,,Thank you very much.
 Dialogue: 0,0:00:56.45,0:00:58.46,Main,Satoshi,0,0,0,,All right, here we go!
@@ -197,7 +197,7 @@ Dialogue: 0,0:05:56.21,0:05:57.70,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:05:57.70,0:06:00.46,Main,Rotom,0,0,0,,What a magnificent stadium-roto!
 Dialogue: 0,0:06:00.88,0:06:04.26,Main,Kaki,0,0,0,,We’ll be able to have some \N intense all-out battles here!
 Dialogue: 0,0:06:04.26,0:06:05.83,Main,Kaki,0,0,0,,Right, Bakugames?
-Dialogue: 0,0:06:07.58,0:06:11.12,Main,Satoshi,0,0,0,,I’m gonna win the \N Alola Pokémon League!
+Dialogue: 0,0:06:07.58,0:06:11.12,Main,Satoshi,0,0,0,,I’m gonna win \N the Alola Pokémon League!
 Dialogue: 0,0:06:12.81,0:06:14.27,Main,Kaki,0,0,0,,I won’t hold back.
 Dialogue: 0,0:06:14.27,0:06:16.40,Main,Mamane,0,0,0,,Don’t forget me, either!
 Dialogue: 0,0:06:16.40,0:06:17.93,Main,Satoshi,0,0,0,,Of course not!

@@ -83,7 +83,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -235,7 +235,7 @@ Dialogue: 0,0:09:59.62,0:10:01.26,Main,Satoshi,0,0,0,,I’ll be counting on you 
 Dialogue: 0,0:10:04.18,0:10:06.10,Main,Kojiro,0,0,0,,A Ride Pokémon, is it?
 Dialogue: 0,0:10:06.10,0:10:09.14,Main,Musashi,0,0,0,,We’ve seen so many people riding Pokémon \N since we got here.
 Dialogue: 0,0:10:09.14,0:10:11.30,Main,Musashi,0,0,0,,I want {\i1}that{\i0} one!
-Dialogue: 0,0:10:12.46,0:10:15.44,Main,Nyarth,0,0,0,,Sheen! I’ve had a \N spark of inspiration, meow!
+Dialogue: 0,0:10:12.46,0:10:15.44,Main,Nyarth,0,0,0,,Sheen! I’ve had \N a spark of inspiration, meow!
 Dialogue: 0,0:10:15.44,0:10:18.80,Main,Nyarth,0,0,0,,In order to carry out our plans in the Alola Region, \N which is surrounded by water,
 Dialogue: 0,0:10:18.80,0:10:22.91,Main,Nyarth,0,0,0,,we’ll need a Ride Pokémon \N like Laplace, meow! {I think the first comma is unnecessary. - Toa}
 Dialogue: 0,0:10:22.91,0:10:23.60,Main,Musashi & Kojiro,0,0,0,,Yeah! Yeah!
@@ -336,12 +336,12 @@ Dialogue: 0,0:15:55.27,0:15:57.67,Main,Kaki,0,0,0,,Perhaps you should \N put you
 Dialogue: 0,0:15:57.67,0:15:59.27,Main,Mamane,0,0,0,,I told you, \N don’t talk to me!
 Dialogue: 0,0:16:09.06,0:16:10.44,Main,Satoshi,0,0,0,,Koiking?!
 Dialogue: 0,0:16:17.41,0:16:19.12,Main,Lilie,0,0,0,,I... I have something!
-Dialogue: 0,0:16:23.43,0:16:24.96,Main,Satoshi,0,0,0,,Milokaross!
+Dialogue: 0,0:16:23.43,0:16:24.96,Main,Satoshi,0,0,0,,Milokallos!
 Dialogue: 0,0:16:24.96,0:16:26.45,Main,Kukui,0,0,0,,Well done, Lilie!
 Dialogue: 0,0:16:26.45,0:16:28.38,Main,Mamane,0,0,0,,Q-Quite a rare case!
 Dialogue: 0,0:16:33.94,0:16:35.72,Main,Suiren,0,0,0,,Lilie, calm down!
 Dialogue: 0,0:16:35.72,0:16:38.10,Main,Satoshi,0,0,0,,Hang on! We’re coming!
-Dialogue: 0,0:16:50.99,0:16:52.70,Main,Satoshi,0,0,0,,W-Where’s Milokaross?
+Dialogue: 0,0:16:50.99,0:16:52.70,Main,Satoshi,0,0,0,,W-Where’s Milokallos?
 Dialogue: 0,0:16:54.46,0:16:57.20,Main,Kukui,0,0,0,,That’s enough! Time for a break!
 Dialogue: 0,0:17:01.11,0:17:02.43,Main,Satoshi,0,0,0,,Wait there for us, everyone!
 Dialogue: 0,0:17:11.86,0:17:13.59,Main,Kukui,0,0,0,,The break will last \N for fifteen minutes!

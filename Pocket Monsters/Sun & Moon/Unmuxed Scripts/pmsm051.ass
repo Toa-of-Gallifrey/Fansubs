@@ -88,7 +88,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -227,7 +227,7 @@ Dialogue: 0,0:09:12.51,0:09:13.43,Main,Mao,0,0,0,,No way!
 Dialogue: 0,0:09:13.43,0:09:16.45,Main,Satoshi,0,0,0,,They must have gone \N to save Lilie’s mom!
 Dialogue: 0,0:09:16.45,0:09:19.73,Main,Kaki,0,0,0,,But she’s on the other side \N of the Ultra Hole, isn’t she?
 Dialogue: 0,0:09:19.73,0:09:21.48,Main,Kaki,0,0,0,,Then where did they go?
-Dialogue: 0,0:09:21.48,0:09:24.48,Main,Mao,0,0,0,,They’d have to {\i1}open{\i0} an \N Ultra Hole first, right?
+Dialogue: 0,0:09:21.48,0:09:24.48,Main,Mao,0,0,0,,They’d have to {\i1}open{\i0} \N an Ultra Hole first, right?
 Dialogue: 0,0:09:24.48,0:09:26.33,Main,Mamane,0,0,0,,But if they don’t know \N how to open it...
 Dialogue: 0,0:09:26.33,0:09:30.84,Main,Satoshi,0,0,0,,Yeah, right? There’s just too much \N we don’t know.
 Dialogue: 0,0:09:31.40,0:09:32.91,Main,Kukui,0,0,0,,A clue...
@@ -359,7 +359,7 @@ Dialogue: 0,0:17:38.74,0:17:39.87,Main,Gladio,0,0,0,,Dodge it, Silvuddy!
 Dialogue: 0,0:17:43.73,0:17:45.15,Main,Gladio,0,0,0,,What a bother.
 Dialogue: 0,0:17:45.15,0:17:49.90,Main,Lilie,0,0,0,,Big Brother, can you change Silvuddy \N into a Fairy type?
 Dialogue: 0,0:17:49.90,0:17:54.01,Main,Gladio,0,0,0,,Fairy? Oh, of course. \N If we’re up against a Dragon type...
-Dialogue: 0,0:17:54.01,0:17:56.72,Main,Gladio,0,0,0,,Silvuddy, receive the \N Fairy Memory and—
+Dialogue: 0,0:17:54.01,0:17:56.72,Main,Gladio,0,0,0,,Silvuddy, receive \N the Fairy Memory and—
 Dialogue: 0,0:18:00.87,0:18:01.81,Main,Lilie,0,0,0,,Big Brother!
 Dialogue: 0,0:18:02.50,0:18:03.39,Main,Gladio,0,0,0,,Where’s the Memory?
 Dialogue: 0,0:18:08.21,0:18:09.55,Main,Lilie,0,0,0,,Big Brother!
@@ -430,7 +430,7 @@ Dialogue: 0,0:23:39.21,0:23:45.02,Main,Hala,0,0,0,,Legends say it went on for da
 Dialogue: 0,0:23:49.99,0:23:53.49,Main,Hala,0,0,0,,Did Satoshi and the others \N meet Solgaleo?
 Dialogue: 0,0:23:54.14,0:23:59.48,Main,Hala,0,0,0,,O, Kapu-Kokeko. \N Please watch over the children.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.85,0:24:05.15,Main,Satoshi,0,0,0,,Try and say the names of the \N Alolan Guardian Deities fast!
+Dialogue: 0,0:24:01.85,0:24:05.15,Main,Satoshi,0,0,0,,Try and say the names of \N the Alolan Guardian Deities fast!
 Dialogue: 0,0:24:05.15,0:24:07.38,Main,Lilie,0,0,0,,Kapu-Kokeko Kapu-Tetefu \N Kapu-Bulul Kapu-Rehire.
 Dialogue: 0,0:24:07.38,0:24:10.01,Main,Mao,0,0,0,,Lilie, I knew you could do it! I’ll try, too!
 Dialogue: 0,0:24:10.32,0:24:12.59,Main,Mao,0,0,0,,Kapu-Kokeko Kapu-Tetefu \N Kapu-Bulul Kapu-Rehire!

@@ -190,7 +190,7 @@ Dialogue: 0,0:05:42.72,0:05:46.85,Main,Kaki,0,0,0,,The ongoing TV drama that Li�
 Dialogue: 0,0:05:46.85,0:05:51.69,Main,Kaki,0,0,0,,...is a super high-profile series, and it’s said that \N Li’l Koi’s acting has moved all of Alola to tears! {Kinda wanna suggest "critics rave" in place of "it's said" but that's probably be too loose. - Toa}{Yeah that's a bit too much. -Starfish}
 Dialogue: 0,0:05:51.69,0:05:53.81,Main,Satoshi,0,0,0,,You sure know \N a lot about this, Kaki...
 Dialogue: 0,0:05:53.81,0:05:56.71,Main,Kaki,0,0,0,,My little sister, Hoshi, \N is a huge Li’l Koi fan!
-Dialogue: 0,0:05:57.15,0:06:00.17,Main,Mamane,0,0,0,,Li’l Koi’s acting during the \N crying scenes is incredible!
+Dialogue: 0,0:05:57.15,0:06:00.17,Main,Mamane,0,0,0,,Li’l Koi’s acting during \N the crying scenes is incredible!
 Dialogue: 0,0:06:00.17,0:06:03.96,Main,Mamane,0,0,0,,Like the acting during the scene \N where he was reunited with his mother...
 Dialogue: 0,0:06:13.01,0:06:17.85,Main,Mamane,0,0,0,,His adorable high voice there really \N tugged at your heartstrings!
 Dialogue: 0,0:06:17.85,0:06:22.40,Main,Rotom,0,0,0,,And unlike other Koiking, \N Li’l Koi doesn’t {\i1}just{\i0} flop around when using Splash...
@@ -341,7 +341,7 @@ Dialogue: 0,0:14:47.32,0:14:48.27,Main,Ana,0,0,0,,It’s time for the afternoon�
 Dialogue: 0,0:14:48.27,0:14:49.84,Main,Them,0,0,0,,{\i1}Hold it!{\i0}
 Dialogue: 0,0:14:57.63,0:14:58.57,Main,Satoshi,0,0,0,,Oh, no!
 Dialogue: 0,0:14:58.57,0:15:00.58,Main,Rotom,0,0,0,,He went inside \N the building-roto!
-Dialogue: 0,0:15:00.58,0:15:04.71,Main,Human being,0,0,0,,We’re back for the \N Alola Pokémon Quiz’s final round!
+Dialogue: 0,0:15:00.58,0:15:04.71,Main,Human being,0,0,0,,We’re back for \N the Alola Pokémon Quiz’s final round!
 Dialogue: 0,0:15:05.13,0:15:09.26,Main,Human being,0,0,0,,Mr. Kuwashi only needs \N one more correct answer to win!
 Dialogue: 0,0:15:09.26,0:15:10.59,Main,Human being,0,0,0,,And here comes the question!
 Dialogue: 0,0:15:10.97,0:15:13.30,Main,Human being,0,0,0,,Which Pokémon’s \N silhouette is this? {Original end time: 0:15:13.60 - Toa}

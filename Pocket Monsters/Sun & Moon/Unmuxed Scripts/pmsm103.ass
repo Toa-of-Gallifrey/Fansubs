@@ -148,7 +148,7 @@ Dialogue: 0,0:00:54.17,0:00:55.00,Main,Takeshi,0,0,0,,Right, Kaki?
 Dialogue: 0,0:00:55.00,0:00:58.87,Main,Kaki,0,0,0,,Well, yeah... Our farm’s cheese \N is the best on Akala!
 Dialogue: 0,0:00:58.87,0:00:59.66,Main,Kaki,0,0,0,,Maybe even the best in Alo— {So this line is seriously pushing the characters per second... At the same time, since he is immediately cut off, that might be okay? -Starfish}{I think it's fine. - Toa}
 Dialogue: 0,0:00:59.66,0:01:01.83,Main,Takeshi,0,0,0,,Akala!
-Dialogue: 0,0:01:01.83,0:01:08.21,Main,Takeshi,0,0,0,,Isn’t Akala Island home to the \N ravishing Island Queen, Ms. Lychee?! {Addressing a comment from a few lines down: maybe "ravishing" for "utsukushisugiru"? - TOa}
+Dialogue: 0,0:01:01.83,0:01:08.21,Main,Takeshi,0,0,0,,Isn’t Akala Island home to \N the ravishing Island Queen, Ms. Lychee?! {Addressing a comment from a few lines down: maybe "ravishing" for "utsukushisugiru"? - TOa}
 Dialogue: 0,0:01:09.38,0:01:11.71,Main,Takeshi,0,0,0,,Check!
 Dialogue: 0,0:01:11.71,0:01:13.32,Main,Takeshi,0,0,0,,Yes, beautiful indeed!
 Dialogue: 0,0:01:13.32,0:01:14.97,Main,Suiren,0,0,0,,A lady handbook...
@@ -183,7 +183,7 @@ Dialogue: 0,0:04:36.05,0:04:37.29,Main,Musashi,0,0,0,,Let’s go after them, \N 
 Dialogue: 0,0:04:37.29,0:04:41.09,Main,Musashi,0,0,0,,There’s no way we can just \N give up like this!
 Dialogue: 0,0:04:41.09,0:04:45.18,Main,Musashi,0,0,0,,We {\i1}will{\i0} get Pikachu, for Sakaki!
 Dialogue: 0,0:04:45.18,0:04:46.82,Main,Nyarth,0,0,0,,But, you know... {Suggesting to add a comma after "But". - Toa}
-Dialogue: 0,0:04:46.82,0:04:51.18,Main,Nyarth,0,0,0,,We have to fix the \N Nyarth Robo Giga Mk. 03, meow.
+Dialogue: 0,0:04:46.82,0:04:51.18,Main,Nyarth,0,0,0,,We have to fix \N the Nyarth Robo Giga Mk. 03, meow.
 Dialogue: 0,0:04:53.11,0:04:55.69,Main,Kojiro,0,0,0,,This’ll take a fair while.
 Dialogue: 0,0:04:55.69,0:04:59.08,Main,Musashi,0,0,0,,I’m fairly fed up with things taking a fair while! \N Fix the thing, pronto!
 Dialogue: 0,0:04:59.08,0:05:00.69,Main,Nyarth & Kojiro,0,0,0,,Right, right...
@@ -333,7 +333,7 @@ Dialogue: 0,0:13:17.73,0:13:18.16,Main,Hiker David & Friends,0,0,0,,Bye!
 Dialogue: 0,0:13:18.16,0:13:18.48,Main,Hiker David & Friends,0,0,0,,Bye!
 Dialogue: 0,0:13:18.48,0:13:18.99,Main,Hiker David & Friends,0,0,0,,Bye!
 Dialogue: 0,0:13:18.99,0:13:23.73,Main,Takeshi,0,0,0,,Hey, stop! Where’d you go, \N lousy Hikers?!
-Dialogue: 0,0:13:23.73,0:13:27.65,Main,Kaki,0,0,0,,Oh, Ms. Lychee! Takeshi is a \N super strong Pokémon battler! {Tragic tragedy of tragic proportions: This subtitle covers up Poi's disgusted face. -Starfish}
+Dialogue: 0,0:13:23.73,0:13:27.65,Main,Kaki,0,0,0,,Oh, Ms. Lychee! Takeshi is \N a super strong Pokémon battler! {Tragic tragedy of tragic proportions: This subtitle covers up Poi's disgusted face. -Starfish}
 Dialogue: 0,0:13:27.65,0:13:28.54,Main,Lychee,0,0,0,,Really?
 Dialogue: 0,0:13:28.54,0:13:31.45,Main,Kaki,0,0,0,,He used to be a Gym Leader \N in the Kanto Region!
 Dialogue: 0,0:13:32.00,0:13:34.75,Main,Takeshi,0,0,0,,I was a Rock-type Gym Leader!
@@ -426,14 +426,14 @@ Dialogue: 0,0:19:12.37,0:19:13.68,Main,Satoshi,0,0,0,,Thanks, Pikachu!
 Dialogue: 0,0:19:14.63,0:19:16.56,Main,Them,0,0,0,,{\i1}You did it!{\i0}
 Dialogue: 0,0:19:16.56,0:19:17.43,Main,Kasumi,0,0,0,,It’s falling apart!
 Dialogue: 0,0:19:25.69,0:19:28.83,Main,Team Rocket,0,0,0,,What even {\i1}is{\i0} this feeling?
-Dialogue: 0,0:19:35.10,0:19:39.42,Main,Lychee,0,0,0,,I don’t think I’ve ever gotten to see the \N Melemele Island fireworks this close before.
+Dialogue: 0,0:19:35.10,0:19:39.42,Main,Lychee,0,0,0,,I don’t think I’ve ever gotten to see \N the Melemele Island fireworks this close before.
 Dialogue: 0,0:19:39.42,0:19:40.96,Main,Lilie,0,0,0,,This will be fun.
 Dialogue: 0,0:19:40.96,0:19:43.04,Main,Mamane,0,0,0,,Won’t they start soon?
 Dialogue: 0,0:19:43.04,0:19:45.66,Main,Burnet,0,0,0,,So, how was Akala Island?
 Dialogue: 0,0:19:45.66,0:19:47.81,Main,Kasumi,0,0,0,,It was so much fun!
 Dialogue: 0,0:19:47.81,0:19:50.42,Main,Takeshi,0,0,0,,It was time well spent!
 Dialogue: 0,0:19:50.42,0:19:53.50,Main,Takeshi,0,0,0,,No, I should say it {\i1}is{\i0} time well spent, \N in progressive form!
-Dialogue: 0,0:19:53.50,0:19:56.68,Main,Takeshi,0,0,0,,After all, I get to watch the \N fireworks show with Ms. Lychee!
+Dialogue: 0,0:19:53.50,0:19:56.68,Main,Takeshi,0,0,0,,After all, I get to watch \N the fireworks show with Ms. Lychee!
 Dialogue: 0,0:19:57.17,0:20:01.32,Main,Takeshi,0,0,0,,Thank you so much \N for inviting her, too!
 Dialogue: 0,0:20:01.32,0:20:04.20,Main,Takeshi,0,0,0,,Good job, Professor Kukui! \N Good job, Professor Burnet!
 Dialogue: 0,0:20:05.25,0:20:07.81,Main,Kukui,0,0,0,,I see... Well, I’m happy \N that you’re happy...
@@ -448,7 +448,7 @@ Dialogue: 0,0:20:53.11,0:20:55.94,Main,Satoshi,0,0,0,,It was so much fun \N havi
 Dialogue: 0,0:21:01.53,0:21:03.08,Main,Satoshi,0,0,0,,Whoa! Awesome!
 Dialogue: 0,0:21:04.89,0:21:09.79,Main,Satoshi,0,0,0,,You know, I’m gonna keep \N learning about Pokémon here in Alola...
 Dialogue: 0,0:21:09.79,0:21:14.46,Main,Satoshi,0,0,0,,I’m gonna learn to \N love Pokémon even more...
-Dialogue: 0,0:21:14.85,0:21:20.47,Main,Satoshi,0,0,0,,And then I’ll become a \N Pokémon Master, for sure!
+Dialogue: 0,0:21:14.85,0:21:20.47,Main,Satoshi,0,0,0,,And then I’ll become \N a Pokémon Master, for sure!
 Dialogue: 0,0:21:20.47,0:21:22.26,Main,Takeshi & Kasumi,0,0,0,,We know.
 Dialogue: 0,0:21:22.26,0:21:26.13,Main,Takeshi,0,0,0,,We’ve known each other for so long. \N You don’t need to tell us that stuff.
 Dialogue: 0,0:21:26.13,0:21:31.28,Main,Kasumi,0,0,0,,I’m gonna keep on mastering \N Water-type Pokémon more and more...

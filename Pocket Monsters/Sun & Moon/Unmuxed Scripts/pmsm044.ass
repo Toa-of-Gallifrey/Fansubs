@@ -86,7 +86,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.29,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -140,7 +140,7 @@ Dialogue: 0,0:04:49.60,0:04:51.62,Main,Rotom,0,0,0,,Hurry up and get changed-rot
 Dialogue: 0,0:04:51.62,0:04:55.73,Main,Satoshi,0,0,0,,Sheesh... Couldn’t you wake me up \N a little more gently?
 Dialogue: 0,0:04:55.73,0:04:59.61,Main,Rotom,0,0,0,,If you’d actually {\i1}wake up{\i0} from that, \N I wouldn’t have to go through all this trouble-roto!
 Dialogue: 0,0:05:03.34,0:05:06.01,Main,Satoshi,0,0,0,,Huh? I feel like...
-Dialogue: 0,0:05:06.01,0:05:09.62,Main,Satoshi,0,0,0,,I might have just had a \N really awesome dream...
+Dialogue: 0,0:05:06.01,0:05:09.62,Main,Satoshi,0,0,0,,I might have just had \N a really awesome dream...
 Dialogue: 0,0:05:09.98,0:05:11.45,Main,Satoshi,0,0,0,,I promise.
 Dialogue: 0,0:05:12.90,0:05:16.12,Main,Satoshi,0,0,0,,Promise? Well, whatever.
 Dialogue: 0,0:05:25.13,0:05:26.51,Main,Satoshi,0,0,0,,What is it, Professor?
@@ -152,7 +152,7 @@ Dialogue: 0,0:05:46.64,0:05:50.53,Main,Ana,0,0,0,,And this year’s winner \N is
 Dialogue: 0,0:05:50.53,0:05:52.31,Main,Kukui,0,0,0,,Burnet?!
 Dialogue: 0,0:05:52.31,0:05:54.10,Main,Satoshi,0,0,0,,Someone you know?
 Dialogue: 0,0:05:54.10,0:05:56.00,Main,Kukui,0,0,0,,She’s a fellow researcher.
-Dialogue: 0,0:05:57.29,0:06:01.17,Main,Human being,0,0,0,,This is the fifteenth time the \N Alola Lady Award has been handed out.
+Dialogue: 0,0:05:57.29,0:06:01.17,Main,Human being,0,0,0,,This is the fifteenth time \N the Alola Lady Award has been handed out.
 Dialogue: 0,0:06:01.17,0:06:06.49,Main,Human being,0,0,0,,The prize is given out yearly, \N with nominees from a wide variety of fields,
 Dialogue: 0,0:06:06.49,0:06:10.83,Main,Human being,0,0,0,,but this is the first time \N an active professor has won the award.
 Dialogue: 0,0:06:10.83,0:06:15.12,Main,Human being,0,0,0,,The Professor’s skill within her field, \N and her sociable personality...
@@ -185,7 +185,7 @@ Dialogue: 0,0:07:38.37,0:07:41.73,Main,Burnet,0,0,0,,It was a very sudden spike,
 Dialogue: 0,0:07:41.73,0:07:45.59,Main,Sauboh,0,0,0,,The current levels \N appear to be quite low.
 Dialogue: 0,0:07:45.59,0:07:49.14,Main,Sauboh,0,0,0,,Perhaps that sudden spike \N was {\i1}not{\i0} caused by an Ultra Beast,
 Dialogue: 0,0:07:49.14,0:07:52.49,Main,Sauboh,0,0,0,,but rather, by your \N equipment malfunctioning?
-Dialogue: 0,0:07:52.85,0:07:55.74,Main,Lusamine,0,0,0,,That’s quite an \N illogical proposition, Sauboh.
+Dialogue: 0,0:07:52.85,0:07:55.74,Main,Lusamine,0,0,0,,That’s quite \N an illogical proposition, Sauboh.
 Dialogue: 0,0:07:56.56,0:07:59.75,Main,Lusamine,0,0,0,,You didn’t reach that conclusion \N due to careful consideration as a scientist,
 Dialogue: 0,0:08:00.23,0:08:04.08,Main,Lusamine,0,0,0,,but rather, out of jealousy \N towards Professor Burnet!
 Dialogue: 0,0:08:06.44,0:08:08.40,Main,Lusamine,0,0,0,,All right, let’s keep investigating.
@@ -303,7 +303,7 @@ Dialogue: 0,0:14:41.61,0:14:45.84,Main,Alolan Oak,0,0,0,,It’s quite a relief t
 Dialogue: 0,0:14:45.84,0:14:48.61,Main,Kukui,0,0,0,,We’d better start stocking up some \N at home, too, right Satoshi?
 Dialogue: 0,0:14:49.14,0:14:52.31,Main,Mamane,0,0,0,,On the way home, I’ll show you the supermarket \N where they sell these sugar stars.
 Dialogue: 0,0:14:52.31,0:14:53.49,Main,Satoshi,0,0,0,,Thanks!
-Dialogue: 0,0:14:55.89,0:14:59.62,Main,Burnet,0,0,0,,Lusamine! I’m getting an \N Ultra Aura response!
+Dialogue: 0,0:14:55.89,0:14:59.62,Main,Burnet,0,0,0,,Lusamine! I’m getting \N an Ultra Aura response!
 Dialogue: 0,0:15:03.13,0:15:04.92,Main,Burnet,0,0,0,,On Melemele Island?!
 Dialogue: 0,0:15:07.57,0:15:10.12,Main,Lusamine,0,0,0,,I haven’t been to Melemele in quite a while!
 Dialogue: 0,0:15:10.12,0:15:14.46,Main,Burnet,0,0,0,,The value only changed a little bit, \N but it’s worth checking out.
@@ -366,7 +366,7 @@ Dialogue: 0,0:17:48.96,0:17:52.71,Main,Lusamine,0,0,0,,I’m Lusamine. \N It’s
 Dialogue: 0,0:17:52.71,0:17:56.58,Main,Lusamine,0,0,0,,These two are Wicke and Sauboh. \N They’re employees at the Foundation.
 Dialogue: 0,0:17:56.58,0:18:01.91,Main,Wicke,0,0,0,,Alola! My name is Wicke, and I’m in charge of \N looking after the Pokémon in our care.
 Dialogue: 0,0:18:01.91,0:18:03.29,Main,Wicke,0,0,0,,It’s nice to meet you.
-Dialogue: 0,0:18:03.29,0:18:07.35,Main,Sauboh,0,0,0,,I’m Sauboh, chief of the \N research department.
+Dialogue: 0,0:18:03.29,0:18:07.35,Main,Sauboh,0,0,0,,I’m Sauboh, chief of \N the research department.
 Dialogue: 0,0:18:07.35,0:18:11.11,Main,Lusamine,0,0,0,,To get straight to the point, \N could you let me meet Nebby?
 Dialogue: 0,0:18:14.48,0:18:16.11,Main,Lusamine,0,0,0,,What a sweet little baby!
 Dialogue: 0,0:18:18.35,0:18:20.99,Main,Burnet,0,0,0,,This one really {\i1}is{\i0} an Ultra Beast.

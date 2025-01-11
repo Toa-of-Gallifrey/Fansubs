@@ -66,7 +66,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.24,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.24,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.91,0:22:29.54,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.54,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.30,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -140,7 +140,7 @@ Dialogue: 0,0:04:09.67,0:04:12.20,Main,Rotom,0,0,0,,Leave the care of \N Snowbal
 Dialogue: 0,0:04:12.20,0:04:16.06,Main,Rotom,0,0,0,,Snowball’s habits and food data and such \N are all in my memory banks-roto!
 Dialogue: 0,0:04:16.06,0:04:17.70,Main,Lilie,0,0,0,,You’re so dependable, Rotom.
 Dialogue: 0,0:04:17.70,0:04:18.72,Main,Rotom,0,0,0,,Indeed I am-roto!
-Dialogue: 0,0:04:20.24,0:04:23.49,Main,Mao,0,0,0,,Take good care of the \N Aina Cafeteria’s mascot{kaban} Pokémon.
+Dialogue: 0,0:04:20.24,0:04:23.49,Main,Mao,0,0,0,,Take good care of \N the Aina Cafeteria’s mascot{kaban} Pokémon.
 Dialogue: 0,0:04:24.95,0:04:28.52,Main,Mamane,0,0,0,,Togedemaru, are you \N gonna be okay without me?
 Dialogue: 0,0:04:31.41,0:04:34.88,Main,Kaki,0,0,0,,You have two little sisters \N at your place, don’t you?
 Dialogue: 0,0:04:34.88,0:04:37.61,Main,Kaki,0,0,0,,Won’t they be scared of Bakugames?

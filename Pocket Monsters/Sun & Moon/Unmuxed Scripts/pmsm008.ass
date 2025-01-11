@@ -85,7 +85,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -209,7 +209,7 @@ Dialogue: 0,0:06:17.81,0:06:18.98,Main,Lilie,0,0,0,,What?
 Dialogue: 0,0:06:18.98,0:06:21.48,Main,Lilie,0,0,0,,U-Um... I...
 Dialogue: 0,0:06:21.48,0:06:23.39,Main,Mamane,0,0,0,,Don’t force yourself.
 Dialogue: 0,0:06:28.43,0:06:30.34,Main,Lilie,0,0,0,,I will try!
-Dialogue: 0,0:06:30.98,0:06:34.70,Main,Lilie,0,0,0,,I am a student of the \N Pokémon School, too! I can do this!
+Dialogue: 0,0:06:30.98,0:06:34.70,Main,Lilie,0,0,0,,I am a student of \N the Pokémon School, too! I can do this!
 Dialogue: 0,0:06:34.70,0:06:37.48,Main,Mao,0,0,0,,That’s right! \N I know you can do it!
 Dialogue: 0,0:06:37.48,0:06:39.31,Main,Mamane,0,0,0,,Will you really be all right?
 Dialogue: 0,0:06:39.31,0:06:41.08,Main,Suiren,0,0,0,,If anyone can do it, it’s you!

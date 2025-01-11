@@ -85,7 +85,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -136,7 +136,7 @@ Dialogue: 0,0:02:56.32,0:02:58.19,Main,Satoshi,0,0,0,,We wanna try \N using a Z-
 Dialogue: 0,0:02:58.69,0:03:00.03,Main,Satoshi,0,0,0,,Don’t we, Pikachu?
 Dialogue: 0,0:03:02.99,0:03:05.83,Main,Kukui,0,0,0,,You’re Blast Burn{akin to the one that robbed you of a victory in the Kalos League just a few months ago at the time of this episode’s airing -Starfish}ing, Satoshi!
 Dialogue: 0,0:03:05.83,0:03:10.54,Main,Satoshi,0,0,0,,You can get Z-Crystals by doing \N that Island Pilgrimage thing, right?
-Dialogue: 0,0:03:10.54,0:03:14.00,Main,Kukui,0,0,0,,Yeah. It’s not the \N {\i1}only{\i0} way to get one,
+Dialogue: 0,0:03:10.54,0:03:14.00,Main,Kukui,0,0,0,,Yeah. It’s not the {\i1}only{\i0} way to get one,
 Dialogue: 0,0:03:14.00,0:03:16.32,Main,Kukui,0,0,0,,but undergoing the Island Pilgrimage...
 Dialogue: 0,0:03:16.32,0:03:21.13,Main,Kukui,0,0,0,,...and clearing the Island Kings and Queens’ \N Grand Trials is the most certain way to do it.
 Dialogue: 0,0:03:21.13,0:03:22.43,Main,Satoshi,0,0,0,,How do I clear those?
@@ -257,7 +257,7 @@ Dialogue: 0,0:10:41.70,0:10:46.75,Main,Lilie,0,0,0,,If you knew more about the R
 Dialogue: 0,0:10:46.75,0:10:49.08,Main,Rotom,0,0,0,,That’s my cue-roto!
 Dialogue: 0,0:10:51.75,0:10:53.92,Main,Satoshi,0,0,0,,Are these Ratta and Koratta?!
 Dialogue: 0,0:10:53.92,0:10:56.30,Main,Satoshi,0,0,0,,They’re a little different from \N the ones I know!
-Dialogue: 0,0:10:56.30,0:11:02.05,Main,Rotom,0,0,0,,Koratta, and its evolution, Ratta. \N Mouse Pokémon. Dark/Normal type.
+Dialogue: 0,0:10:56.30,0:11:02.05,Main,Rotom,0,0,0,,Koratta, and its evolution, Ratta. \N Mouse Pokémon. Evil/Normal type.
 Dialogue: 0,0:11:02.05,0:11:05.56,Main,Rotom,0,0,0,,They form groups and will sometimes \N steal food from people’s homes.
 Dialogue: 0,0:11:05.56,0:11:10.94,Main,Rotom,0,0,0,,Long ago, they snuck into a ship’s cargo and came to Alola, \N where they eventually assumed Alolan forms.
 Dialogue: 0,0:11:11.56,0:11:14.50,Main,Rotom,0,0,0,,When the population of \N Ratta and Koratta grew out of control,
@@ -320,8 +320,8 @@ Dialogue: 0,0:14:28.22,0:14:30.14,Main,Satoshi,0,0,0,,Please battle me!
 Dialogue: 0,0:14:33.81,0:14:35.72,Main,Rotom,0,0,0,,I hear something-roto.
 Dialogue: 0,0:14:42.19,0:14:44.52,Main,Satoshi,0,0,0,,I-Is that the Totem Pokémon?
 Dialogue: 0,0:14:44.90,0:14:46.69,Main,Hala,0,0,0,,It is not.
-Dialogue: 0,0:14:46.69,0:14:48.86,Main,Hala,0,0,0,,They are the \N Totem Pokémon’s tribe.
-Dialogue: 0,0:14:48.86,0:14:51.03,Main,Hala,0,0,0,,You will, however, \N need to battle them.
+Dialogue: 0,0:14:46.69,0:14:48.86,Main,Hala,0,0,0,,They are the Totem Pokémon’s tribe.
+Dialogue: 0,0:14:48.86,0:14:51.03,Main,Hala,0,0,0,,You will, however, need to battle them.
 Dialogue: 0,0:14:51.66,0:14:54.78,Main,Hala,0,0,0,,We shall now commence \N the Trial Pokémon battle!
 Dialogue: 0,0:14:54.78,0:14:56.79,Main,Satoshi,0,0,0,,Rotom, give me their data, please.
 Dialogue: 0,0:14:56.79,0:14:58.25,Main,Rotom,0,0,0,,I’m on it-roto!

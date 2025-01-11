@@ -84,7 +84,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.24,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.24,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.91,0:22:29.54,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.54,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.30,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -174,8 +174,8 @@ Dialogue: 0,0:06:54.21,0:06:58.59,Main,Mamane,0,0,0,,They say there’s this rea
 Dialogue: 0,0:06:58.59,0:07:00.27,Main,Kaki,0,0,0,,A strong Pokémon Trainer?
 Dialogue: 0,0:07:00.27,0:07:03.60,Main,Mao,0,0,0,,I heard that! Some customers were \N talking about it earlier.
 Dialogue: 0,0:07:03.60,0:07:05.23,Main,Satoshi,0,0,0,,What kind of guy is it?
-Dialogue: 0,0:07:05.23,0:07:08.37,Main,Mao,0,0,0,,They called him the \N Mysterious Lugarugan User.
-Dialogue: 0,0:07:08.37,0:07:11.15,Main,Mao,0,0,0,,Apparently he’s got a \N Midnight Form Lugarugan with him.
+Dialogue: 0,0:07:05.23,0:07:08.37,Main,Mao,0,0,0,,They called him \N the Mysterious Lugarugan User.
+Dialogue: 0,0:07:08.37,0:07:11.15,Main,Mao,0,0,0,,Apparently he’s got \N a Midnight Form Lugarugan with him.
 Dialogue: 0,0:07:11.80,0:07:14.49,Main,Satoshi,0,0,0,,Midnight Form Lugarugan?
 Dialogue: 0,0:07:15.10,0:07:16.99,Main,Suiren,0,0,0,,Midnight Form?
 Dialogue: 0,0:07:18.40,0:07:22.96,Main,Rotom,0,0,0,,Lugarugan has two forms; \N Midnight and Midday-roto.
@@ -186,7 +186,7 @@ Dialogue: 0,0:07:42.86,0:07:45.02,Main,Sailor,0,0,0,,What power!
 Dialogue: 0,0:07:51.38,0:07:52.93,Main,Sailor,0,0,0,,Don’t flinch, Kamex!
 Dialogue: 0,0:07:52.93,0:07:54.28,Main,Sailor,0,0,0,,You can still win!
 Dialogue: 0,0:07:55.15,0:07:57.58,Main,Satoshi,0,0,0,,Hey, Rotom, what were we \N supposed to buy again?
-Dialogue: 0,0:07:58.08,0:08:01.56,Main,Rotom,0,0,0,,The professor asked for a \N bag of Alolan coffee beans,
+Dialogue: 0,0:07:58.08,0:08:01.56,Main,Rotom,0,0,0,,The professor asked for \N a bag of Alolan coffee beans,
 Dialogue: 0,0:08:01.56,0:08:05.50,Main,Rotom,0,0,0,,some fresh Pile Juice, \N a box of Gokurin-brand zipper-lock bags,
 Dialogue: 0,0:08:05.50,0:08:07.59,Main,Rotom,0,0,0,,and some Pearshen-brand short pasta.
 Dialogue: 0,0:08:09.45,0:08:10.25,Main,Satoshi,0,0,0,,What’s that?
@@ -353,10 +353,10 @@ Dialogue: 0,0:19:52.71,0:19:54.54,Main,Kojiro,0,0,0,,Looks pretty bad!
 Dialogue: 0,0:20:07.85,0:20:09.86,Main,Team Rocket,0,0,0,,{\i1}Figures...{\i0}
 Dialogue: 0,0:20:10.90,0:20:12.79,Main,Team Rocket,0,0,0,,{\i1}What an awful feel{\fscx250}-{\r\i0}
 Dialogue: 0,0:20:13.81,0:20:15.19,Main,Team Rocket,0,0,0,,{\i1}Figures...{\i0}
-Dialogue: 0,0:20:22.72,0:20:26.70,Main,Satoshi,0,0,0,,Gladio, I wanna try using the \N Rock-type Z-Move, too!
+Dialogue: 0,0:20:22.72,0:20:26.70,Main,Satoshi,0,0,0,,Gladio, I wanna try using \N the Rock-type Z-Move, too!
 Dialogue: 0,0:20:26.70,0:20:28.91,Main,Gladio,0,0,0,,You have a Rock-Z?
 Dialogue: 0,0:20:28.91,0:20:30.04,Main,Satoshi,0,0,0,,Nope!
-Dialogue: 0,0:20:31.83,0:20:35.29,Main,Gladio,0,0,0,,Then you should challenge the \N Grand Trial of Akala’s Island Queen.
+Dialogue: 0,0:20:31.83,0:20:35.29,Main,Gladio,0,0,0,,Then you should challenge \N the Grand Trial of Akala’s Island Queen.
 Dialogue: 0,0:20:35.91,0:20:38.34,Main,Satoshi,0,0,0,,All right! I definitely will!
 Dialogue: 0,0:20:38.34,0:20:39.75,Main,Satoshi,0,0,0,,Right, Pikachu, Iwanko?
 Dialogue: 0,0:20:42.47,0:20:44.59,Main,Gladio,0,0,0,,Then let’s continue the battle.

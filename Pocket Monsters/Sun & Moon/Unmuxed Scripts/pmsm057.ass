@@ -82,7 +82,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.53,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.53,0:22:37.29,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -131,7 +131,7 @@ Dialogue: 0,0:03:30.02,0:03:32.27,Main,Human being,0,0,0,,Please touch this.
 Dialogue: 0,0:03:32.27,0:03:33.15,Main,Rotom,0,0,0,,Touching-roto.
 Dialogue: 0,0:03:34.23,0:03:37.27,Main,Human being,0,0,0,,Thank you very much.
 Dialogue: 0,0:03:37.90,0:03:40.03,Main,Rotom,0,0,0,,Well done-roto!
-Dialogue: 0,0:03:43.36,0:03:45.41,Main,Rotom,0,0,0,,They bought a \N washing machine-roto?
+Dialogue: 0,0:03:43.36,0:03:45.41,Main,Rotom,0,0,0,,They bought \N a washing machine-roto?
 Dialogue: 0,0:03:52.79,0:03:55.42,Main,Rotom,0,0,0,,Hey! Cut that out-roto!
 Dialogue: 0,0:04:20.15,0:04:22.28,Main,Rotom,0,0,0,,What a shock-roto!
 Dialogue: 0,0:04:42.00,0:04:43.17,Main,Satoshi,0,0,0,,We’re back!
@@ -177,7 +177,7 @@ Dialogue: 0,0:07:01.52,0:07:04.65,Main,Human being,0,0,0,,Likewise. \N We hope t
 Dialogue: 0,0:07:08.99,0:07:12.78,Main,Rotom,0,0,0,,What’s going on-roto? \N This is a washing machine-roto.
 Dialogue: 0,0:07:12.78,0:07:17.37,Main,Rotom,0,0,0,,I woke up to find I had Forme-Changed \N into a Wash Rotom-roto!
 Dialogue: 0,0:07:17.37,0:07:19.41,Main,Rotom,0,0,0,,Where is my Index-roto?
-Dialogue: 0,0:07:21.67,0:07:25.29,Main,Joy,0,0,0,,Now I can clean all the \N piled-up dirty laundry. {Original: “Now I can clean all the dirty laundry \N that had piled up.” - Toa}
+Dialogue: 0,0:07:21.67,0:07:25.29,Main,Joy,0,0,0,,Now I can clean all \N the piled-up dirty laundry. {Original: “Now I can clean all the dirty laundry \N that had piled up.” - Toa}
 Dialogue: 0,0:07:25.29,0:07:26.92,Main,Joy,0,0,0,,First, I have to turn it on...
 Dialogue: 0,0:07:28.59,0:07:31.59,Main,Joy,0,0,0,,Um... and then next is \N the wash button...
 Dialogue: 0,0:07:50.07,0:07:53.24,Main,Joy,0,0,0,,What’s going on? \N Isn’t it brand new?
@@ -364,7 +364,7 @@ Dialogue: 0,0:20:26.91,0:20:29.45,Main,Rotom,0,0,0,,That’s right-roto. \N I do
 Dialogue: 0,0:20:29.45,0:20:33.46,Main,Rotom,0,0,0,,I switched places with the Rotom \N who lived in this washing machine-roto.
 Dialogue: 0,0:20:33.46,0:20:36.25,Main,Satoshi,0,0,0,,Oh, I see!
 Dialogue: 0,0:20:40.55,0:20:44.68,Main,Rotom,0,0,0,,This index really is \N where I feel at home-roto!
-Dialogue: 0,0:20:44.68,0:20:48.68,Main,Rotom,0,0,0,,I’ll keep doing my best as an \N Index from now on-roto!
+Dialogue: 0,0:20:44.68,0:20:48.68,Main,Rotom,0,0,0,,I’ll keep doing my best as \N an Index from now on-roto!
 Dialogue: 0,0:20:48.68,0:20:51.47,Main,Rotom,0,0,0,,...But it appears my data has been \N tampered with-roto...
 Dialogue: 0,0:20:51.89,0:20:55.90,Main,Satoshi,0,0,0,,Oh, that’s a photo of a rare Pokémon \N that Wash Rotom took.
 Dialogue: 0,0:20:56.85,0:20:57.65,Main,Rotom,0,0,0,,I want to see it-roto!

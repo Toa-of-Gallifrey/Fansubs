@@ -81,7 +81,7 @@ Dialogue: 0,0:22:52.35,0:22:54.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:54.56,0:22:58.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:58.23,0:23:02.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:23:02.11,0:23:03.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:23:03.98,0:23:05.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:23:03.98,0:23:05.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:23:05.90,0:23:09.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:23:09.53,0:23:13.28,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:23:13.28,0:23:17.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -246,8 +246,8 @@ Dialogue: 0,0:09:42.01,0:09:44.60,Main,Them,0,0,0,,{\i1}Alola surprise!{\i0}
 Dialogue: 0,0:09:45.55,0:09:46.59,Main,Satoshi,0,0,0,,Surprise?
 Dialogue: 0,0:09:46.59,0:09:48.05,Main,Kaki,0,0,0,,Looks like it worked.
 Dialogue: 0,0:09:48.05,0:09:49.86,Main,Satoshi,0,0,0,,Well, of course!
-Dialogue: 0,0:09:50.35,0:09:55.52,Main,Mao,0,0,0,,We’ve decided to hold a \N surprise welcoming party for you today!
-Dialogue: 0,0:09:55.52,0:09:57.86,Main,Mao,0,0,0,,That was the \N first surprise just now.
+Dialogue: 0,0:09:50.35,0:09:55.52,Main,Mao,0,0,0,,We’ve decided to hold \N a surprise welcoming party for you today!
+Dialogue: 0,0:09:55.52,0:09:57.86,Main,Mao,0,0,0,,That was the first surprise just now.
 Dialogue: 0,0:09:57.86,0:09:58.74,Main,Satoshi,0,0,0,,The first?
 Dialogue: 0,0:09:59.62,0:10:00.82,Main,Mamane,0,0,0,,Satoshi!
 Dialogue: 0,0:10:00.82,0:10:05.57,Main,Mamane,0,0,0,,Your second surprise is a challenge \N from Togedemaru and I, Māmane!
@@ -336,7 +336,7 @@ Dialogue: 0,0:14:47.60,0:14:50.62,Main,Kukui,0,0,0,,We’re your fifth surprise!
 Dialogue: 0,0:14:50.62,0:14:53.87,Main,Kukui,0,0,0,,Satoshi. Pikachu. \N I challenge you to a Pokémon battle!{And just think, it would take him ONE HUNDRED AND THIRTY-EIGHT EPISODES to actually make good on this challenge. -Starfish}
 Dialogue: 0,0:14:56.90,0:14:58.41,Main,Satoshi,0,0,0,,A Pokémon battle, huh?
 Dialogue: 0,0:14:58.41,0:15:00.37,Main,Satoshi,0,0,0,,And with Professor Kukui, too...
-Dialogue: 0,0:15:00.37,0:15:03.62,Main,Satoshi,0,0,0,,Awesome! This is the \N best surprise ever!
+Dialogue: 0,0:15:00.37,0:15:03.62,Main,Satoshi,0,0,0,,Awesome! This is the best surprise ever!
 Dialogue: 0,0:15:04.29,0:15:05.88,Main,Mao,0,0,0,,But before that,
 Dialogue: 0,0:15:06.37,0:15:11.89,Main,Mao,0,0,0,,it’s time for lunch, cooked by yours truly, \N the poster girl of the Aina Cafeteria, Mao!
 Dialogue: 0,0:15:12.25,0:15:13.22,Main,Satoshi,0,0,0,,Lunch?

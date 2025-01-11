@@ -88,7 +88,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.98,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.29,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -130,7 +130,7 @@ Dialogue: 0,0:01:23.78,0:01:26.24,Main,Hala,0,0,0,,I don’t want to hear that \
 Dialogue: 0,0:01:26.24,0:01:29.90,Main,Hala,0,0,0,,Besides, if I just use Belly Drum \N like Hariteyama does,
 Dialogue: 0,0:01:29.90,0:01:32.15,Main,Hala,0,0,0,,my fighting spirit will \N drive away the cold!
 Dialogue: 0,0:01:32.49,0:01:37.79,Main,Kukui,0,0,0,,Indeed! My heart’s hotter than a Blast Burn, \N so I’m not cold at all!
-Dialogue: 0,0:01:37.79,0:01:43.02,Main,Kaki,0,0,0,,Well then, I’m burning hotter than a \N Dynamic Full Flame, so I’m not cold either!
+Dialogue: 0,0:01:37.79,0:01:43.02,Main,Kaki,0,0,0,,Well then, I’m burning hotter than \N a Dynamic Full Flame, so I’m not cold either!
 Comment: 0,0:01:48.50,0:01:48.50,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:16.46,0:03:16.46,Main,,0,0,0,,{Part A}
 Dialogue: 0,0:03:25.90,0:03:29.69,Main,Hala,0,0,0,,Winter clothing these days \N sure is light and warm.
@@ -204,7 +204,7 @@ Dialogue: 0,0:06:54.77,0:06:59.50,Main,Rotom,0,0,0,,Possessing a calm demeanor, 
 Dialogue: 0,0:06:59.50,0:07:01.77,Main,Satoshi,0,0,0,,I see... \N You sure are clever!
 Dialogue: 0,0:07:02.91,0:07:05.62,Main,Sara,0,0,0,,I have to get going \N to the contest venue!
 Dialogue: 0,0:07:05.62,0:07:07.24,Main,Lilie,0,0,0,,Do your best!
-Dialogue: 0,0:07:07.24,0:07:10.96,Main,Sara,0,0,0,,I know! There’s a \N PokéSled Jump tournament tomorrow.
+Dialogue: 0,0:07:07.24,0:07:10.96,Main,Sara,0,0,0,,I know! \N There’s a PokéSled Jump tournament tomorrow.
 Dialogue: 0,0:07:10.96,0:07:14.63,Main,Sara,0,0,0,,Would you like to participate? \N It’s a lot of fun!
 Dialogue: 0,0:07:14.63,0:07:15.50,Main,Lilie,0,0,0,,What?
 Dialogue: 0,0:07:15.50,0:07:17.83,Main,Sara,0,0,0,,All right, let’s meet again somewhere!
@@ -325,7 +325,7 @@ Dialogue: 0,0:14:19.88,0:14:22.14,Main,Mao,0,0,0,,Next up is the move.
 Dialogue: 0,0:14:22.14,0:14:23.07,Main,Suiren,0,0,0,,What will you do?
 Dialogue: 0,0:14:25.31,0:14:27.72,Main,Lilie,0,0,0,,If we could use Aurora Veil...
 Dialogue: 0,0:14:27.72,0:14:29.60,Main,Suiren,0,0,0,,A move she hasn’t learned yet?
-Dialogue: 0,0:14:29.60,0:14:32.55,Main,Mao,0,0,0,,You want her to learn that for the \N PokéSled Jump tournament? {Replaced “it” with “her”. - Toa}
+Dialogue: 0,0:14:29.60,0:14:32.55,Main,Mao,0,0,0,,You want her to learn that for \N the PokéSled Jump tournament? {Replaced “it” with “her”. - Toa}
 Dialogue: 0,0:14:32.86,0:14:33.61,Main,Lilie,0,0,0,,Yes!
 Dialogue: 0,0:14:33.61,0:14:36.56,Main,Mao,0,0,0,,Then why don’t you have Sara \N give you some pointers?
 Dialogue: 0,0:14:38.15,0:14:42.24,Main,Sara,0,0,0,,Aurora Veil can only be used \N when it’s hailing.
@@ -354,7 +354,7 @@ Dialogue: 0,0:16:17.58,0:16:19.69,Main,Human being,0,0,0,,They make their approa
 Dialogue: 0,0:16:22.04,0:16:23.25,Main,Human being,0,0,0,,Takeoff!
 Dialogue: 0,0:16:24.50,0:16:28.22,Main,Human being,0,0,0,,There it is! A grand finisher \N by spinning in the air!
 Dialogue: 0,0:16:28.22,0:16:31.30,Main,Whatever Guru,0,0,0,,Lemme tell ya right now, \N dat’s a failure.
-Dialogue: 0,0:16:32.14,0:16:35.77,Main,Human being,0,0,0,,Touchdown! We can expect a \N high score right off the bat.
+Dialogue: 0,0:16:32.14,0:16:35.77,Main,Human being,0,0,0,,Touchdown! We can expect \N a high score right off the bat.
 Dialogue: 0,0:16:35.77,0:16:39.31,Main,Whatever Guru,0,0,0,,Nah, forty years ago, \N {\i1}I{\i0} woulda jumped furtah.{Am I overdoing his slurring? I feel I might be overdoing his slurring. But seeing how this is Starfish OF THE FUTURE talking right now, I have the foresight to know that the Golf Guru will show up later with his own ridiculous speech gimmick, emphasizing that THIS guy’s gimmick is the fact that his dialogue is slurred to near-incomprehensibility and therefore I’m adjusting the translation to make it read as lax as possible. -Starfish OF THE FUTURE}{Is “furtah” correct or is it supposed to be “furtha”? - Toa}
 Dialogue: 0,0:16:42.57,0:16:47.44,Main,Human being,0,0,0,,Next up is the self-proclaimed Jump Queen: \N Competitor Musakkinen and Mimikkyu.
 Dialogue: 0,0:16:47.95,0:16:49.83,Main,Kojiro,0,0,0,,We’re counting on you, Musakkinen.

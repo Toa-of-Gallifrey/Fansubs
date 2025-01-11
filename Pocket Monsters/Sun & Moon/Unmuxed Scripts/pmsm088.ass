@@ -282,7 +282,7 @@ Dialogue: 0,0:13:02.77,0:13:05.05,Main,Mamane,0,0,0,,It broke apart and fell. {S
 Dialogue: 0,0:13:16.69,0:13:18.83,Main,Gladio,0,0,0,,The aircraft again?!
 Dialogue: 0,0:13:18.83,0:13:20.36,Main,Satoshi,0,0,0,,What’s their deal? {Suggestion to contract “what is”. - Toa}
 Dialogue: 0,0:13:21.13,0:13:23.11,Main,Matori,0,0,0,,Don’t mess it up this time.
-Dialogue: 0,0:13:23.11,0:13:27.62,Main,Gozu,0,0,0,,Yeah... Maximize the \N electromagnetic net’s power.
+Dialogue: 0,0:13:23.11,0:13:27.62,Main,Gozu,0,0,0,,Yeah... \N Maximize the electromagnetic net’s power.
 Dialogue: 0,0:13:27.62,0:13:30.07,Main,Human being,0,0,0,,But that might damage them...
 Dialogue: 0,0:13:30.07,0:13:31.81,Main,Gozu,0,0,0,,Don’t care. Do it.
 Dialogue: 0,0:13:31.81,0:13:33.12,Main,Them,0,0,0,,{\i1}What a pain...{\i0}
@@ -316,7 +316,7 @@ Dialogue: 0,0:16:02.02,0:16:04.11,Main,Lilie,0,0,0,,Have a Full Restore.
 Dialogue: 0,0:16:04.11,0:16:05.74,Main,Suiren,0,0,0,,Eat this. \N It’s an Obon Berry.
 Dialogue: 0,0:16:05.74,0:16:07.03,Main,Mao,0,0,0,,Hang in there!
 Dialogue: 0,0:16:07.03,0:16:09.63,Main,Wicke,0,0,0,,It’ll need \N emergency transportation.
-Dialogue: 0,0:16:09.63,0:16:12.92,Main,Burnet,0,0,0,,The nearest place is the \N Pokémon School’s underground base!
+Dialogue: 0,0:16:09.63,0:16:12.92,Main,Burnet,0,0,0,,The nearest place is \N the Pokémon School’s underground base!
 Dialogue: 0,0:16:12.92,0:16:14.05,Main,Lusamine,0,0,0,,Let’s carry it there.
 Dialogue: 0,0:16:14.05,0:16:15.05,Main,Lusamine,0,0,0,,Sauboh!
 Dialogue: 0,0:16:15.05,0:16:15.77,Main,Sauboh,0,0,0,,Yes!

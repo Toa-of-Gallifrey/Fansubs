@@ -66,7 +66,7 @@ Dialogue: 0,0:22:12.43,0:22:14.64,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.64,0:22:18.31,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.31,0:22:22.19,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.19,0:22:24.07,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.07,0:22:25.99,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.99,0:22:29.61,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.61,0:22:33.62,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.62,0:22:37.37,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -226,7 +226,7 @@ Dialogue: 0,0:19:38.15,0:19:40.86,Main,Lychee,0,0,0,,Amazing... You’re both am
 Dialogue: 0,0:19:40.86,0:19:43.36,Main,Satoshi,0,0,0,,A-Are you all right, Ms. Lychee?
 Dialogue: 0,0:19:46.99,0:19:50.79,Main,Satoshi,0,0,0,,Lugarugan’s eyes are as green \N as the sun was just now!
 Dialogue: 0,0:19:52.21,0:19:54.58,Main,Kukui,0,0,0,,Since he evolved at dusk,
-Dialogue: 0,0:19:54.58,0:19:57.75,Main,Kukui,0,0,0,,I guess that makes him a \N Dusk Form Lugarugan.
+Dialogue: 0,0:19:54.58,0:19:57.75,Main,Kukui,0,0,0,,I guess that makes him \N a Dusk Form Lugarugan.
 Dialogue: 0,0:19:57.75,0:20:01.09,Main,Satoshi,0,0,0,,Dusk Form Lugarugan...
 Dialogue: 0,0:20:23.78,0:20:25.91,Main,Suiren,0,0,0,,Lugarugan is so cool!
 Dialogue: 0,0:20:25.91,0:20:29.16,Main,Mao,0,0,0,,I can’t believe he was \N a tiny Iwanko until yesterday!
@@ -234,7 +234,7 @@ Dialogue: 0,0:20:29.16,0:20:32.04,Main,Lilie,0,0,0,,I’ve never read anything \
 Dialogue: 0,0:20:32.04,0:20:34.62,Main,Kaki,0,0,0,,It’s an “Unbelievable Form” \N Lugarugan!
 Dialogue: 0,0:20:34.62,0:20:36.17,Main,Mamane,0,0,0,,It’s “Dusk Form”.
 Dialogue: 0,0:20:37.25,0:20:42.09,Main,Satoshi,0,0,0,,Hey, Rotom? How do you handle \N the data of Pokémon that aren’t in the Index?
-Dialogue: 0,0:20:42.09,0:20:45.26,Main,Rotom,0,0,0,,I have just now updated the \N photograph data-roto.
+Dialogue: 0,0:20:42.09,0:20:45.26,Main,Rotom,0,0,0,,I have just now updated \N the photograph data-roto.
 Dialogue: 0,0:20:45.64,0:20:48.30,Main,Rotom,0,0,0,,Next, I need to come up \N with a description-roto.
 Dialogue: 0,0:20:48.30,0:20:54.19,Main,Rotom,0,0,0,,I will personally update and fill in explanations \N for any Pokémon that are not in my database-roto!
 Dialogue: 0,0:20:54.60,0:20:55.94,Main,Satoshi,0,0,0,,Sounds great!

@@ -86,7 +86,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -209,8 +209,8 @@ Dialogue: 0,0:11:01.83,0:11:03.23,Main,Rotom,0,0,0,,It’s Persian-roto!
 Dialogue: 0,0:11:03.23,0:11:05.85,Main,Satoshi,0,0,0,,Persian? That’s not what \N the ones I’ve seen looked like!
 Dialogue: 0,0:11:06.27,0:11:09.32,Main,Rotom,0,0,0,,This is the one \N you’re familiar with-roto.
 Dialogue: 0,0:11:09.32,0:11:13.15,Main,Rotom,0,0,0,,But its Alolan form \N looks like this-roto!
-Dialogue: 0,0:11:13.15,0:11:15.86,Main,Satoshi,0,0,0,,Persian has an \N Alolan form, too?
-Dialogue: 0,0:11:16.39,0:11:21.45,Main,Rotom,0,0,0,,Alolan Persian is a Dark type, \N so it has a crafty, brutal personality-roto.
+Dialogue: 0,0:11:13.15,0:11:15.86,Main,Satoshi,0,0,0,,Persian has \N an Alolan form, too?
+Dialogue: 0,0:11:16.39,0:11:21.45,Main,Rotom,0,0,0,,Alolan Persian is an Evil type, \N so it has a crafty, brutal personality-roto.
 Dialogue: 0,0:11:21.45,0:11:22.37,Main,Satoshi,0,0,0,,What?
 Dialogue: 0,0:11:22.69,0:11:23.96,Main,Satoshi,0,0,0,,So it’s...
 Dialogue: 0,0:11:28.96,0:11:30.67,Main,Satoshi,0,0,0,,Hey! Stop!
@@ -227,7 +227,7 @@ Dialogue: 0,0:12:21.40,0:12:23.10,Main,Satoshi,0,0,0,,Don’t push yourself too 
 Dialogue: 0,0:12:29.74,0:12:32.01,Main,Satoshi,0,0,0,,C’mon. I’ll carry that for you...
 Dialogue: 0,0:12:32.01,0:12:33.02,Main,Satoshi,0,0,0,,Ow!
 Dialogue: 0,0:12:34.43,0:12:35.66,Main,Satoshi,0,0,0,,Nyabby!
-Dialogue: 0,0:12:35.66,0:12:38.71,Main,Satoshi,0,0,0,,Let’s go to the \N Pokémon Center together.
+Dialogue: 0,0:12:35.66,0:12:38.71,Main,Satoshi,0,0,0,,Let’s go to \N the Pokémon Center together.
 Dialogue: 0,0:12:50.00,0:12:51.58,Main,Satoshi,0,0,0,,Nyabby...
 Dialogue: 0,0:13:02.04,0:13:04.47,Main,Satoshi,0,0,0,,I get it. It’s yours, right?
 Dialogue: 0,0:13:07.26,0:13:09.77,Main,Satoshi,0,0,0,,C’mon... I’m telling you, \N I won’t steal it!
@@ -256,7 +256,7 @@ Dialogue: 0,0:14:10.70,0:14:11.66,Main,Satoshi,0,0,0,,Hey, wait!
 Dialogue: 0,0:14:13.01,0:14:14.91,Main,Joy,0,0,0,,Don’t let it hurt itself, Satoshi!{Literally “Don’t allow recklessness” -Starfish}
 Dialogue: 0,0:14:14.91,0:14:15.46,Main,Satoshi,0,0,0,,Got it!
 Dialogue: 0,0:14:20.03,0:14:21.21,Main,Satoshi,0,0,0,,Out of the way, Kaki! {Suggesting "the" in place of "my". - Toa}
-Dialogue: 0,0:14:23.68,0:14:26.15,Main,Kaki,0,0,0,,All this over a \N croquette sandwich?
+Dialogue: 0,0:14:23.68,0:14:26.15,Main,Kaki,0,0,0,,All this over \N a croquette sandwich?
 Dialogue: 0,0:14:29.14,0:14:30.69,Main,Satoshi,0,0,0,,Wait, Nyabby!
 Dialogue: 0,0:14:37.29,0:14:38.81,Main,Satoshi,0,0,0,,Cut it out, already!
 Dialogue: 0,0:14:39.27,0:14:41.31,Main,Satoshi,0,0,0,,Do {\i1}not{\i0} move! Get it?

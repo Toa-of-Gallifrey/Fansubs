@@ -66,7 +66,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.24,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.24,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.91,0:22:29.54,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.54,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.30,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
@@ -100,7 +100,7 @@ Dialogue: 0,0:00:44.65,0:00:46.65,Main,Musashi,0,0,0,,Then let’s keep reeling 
 Dialogue: 0,0:00:46.65,0:00:48.86,Main,Musashi,0,0,0,,...and make Sakaki happy!
 Dialogue: 0,0:00:48.86,0:00:51.77,Main,Musashi,0,0,0,,Bring on the Lords of the Lake!
 Dialogue: 0,0:00:52.56,0:00:55.36,Main,Nyarth,0,0,0,,I’m pretty sure there’d only be one, \N since it’s a {\i1}Lord{\i0}, meow.
-Dialogue: 0,0:00:58.99,0:01:00.86,Main,Nyarth,0,0,0,,This must be the \N Lord of the Lake, meow!
+Dialogue: 0,0:00:58.99,0:01:00.86,Main,Nyarth,0,0,0,,This must be \N the Lord of the Lake, meow!
 Dialogue: 0,0:01:00.86,0:01:02.37,Main,Kojiro,0,0,0,,Be careful, Nyarth!
 Dialogue: 0,0:01:02.37,0:01:05.16,Main,Nyarth,0,0,0,,I know, meow!
 Dialogue: 0,0:01:10.34,0:01:11.96,Main,Kojiro,0,0,0,,Let me see...{You know, I feel like the dub could TOTALLY get away with not dubbing Yowashi here. Seeing how it’s only repeating “washi” over and over, and in English its name is Wishiwashi so that would still make sense. -Starfish}
@@ -123,7 +123,7 @@ Dialogue: 0,0:04:01.92,0:04:04.18,Main,Satoshi,0,0,0,,Mega Gyarados?!
 Dialogue: 0,0:04:07.19,0:04:10.22,Main,Satoshi,0,0,0,,Awesome! \N You can fish up one of those?!
 Dialogue: 0,0:04:10.22,0:04:11.31,Main,Suiren,0,0,0,,Just kidding.
 Dialogue: 0,0:04:11.31,0:04:13.31,Main,Satoshi,0,0,0,,Kidding?!
-Dialogue: 0,0:04:14.48,0:04:17.56,Main,Rotom,0,0,0,,There’s no such thing as a \N wild Mega Gyarados-roto.
+Dialogue: 0,0:04:14.48,0:04:17.56,Main,Rotom,0,0,0,,There’s no such thing as \N a wild Mega Gyarados-roto.
 Dialogue: 0,0:04:19.94,0:04:21.82,Main,Suiren,0,0,0,,But I really am going fishing.
 Dialogue: 0,0:04:22.38,0:04:26.24,Main,Suiren,0,0,0,,Since we’re on Akala Island, \N I want to try catching some of the big shots around here.
 Dialogue: 0,0:04:28.16,0:04:29.33,Main,Satoshi,0,0,0,,Fishing, huh?
@@ -174,7 +174,7 @@ Dialogue: 0,0:06:27.31,0:06:29.70,Main,Lychee,0,0,0,,At the pond near Brooklet H
 Dialogue: 0,0:06:29.70,0:06:33.24,Main,Lychee,0,0,0,,there’s this really impressive beast called \N the Lord of the Lake. Why not check it out?
 Dialogue: 0,0:06:34.34,0:06:35.62,Main,Suiren,0,0,0,,Lord of the Lake?!
 Dialogue: 0,0:06:36.08,0:06:38.04,Main,Satoshi,0,0,0,,Whoa, it’s huge!
-Dialogue: 0,0:06:38.04,0:06:40.00,Main,Rotom,0,0,0,,This is where the \N Lord of the Lake lives-roto?
+Dialogue: 0,0:06:38.04,0:06:40.00,Main,Rotom,0,0,0,,This is where \N the Lord of the Lake lives-roto?
 Dialogue: 0,0:06:40.79,0:06:42.68,Main,Satoshi,0,0,0,,We’ll know once we start fishing!
 Dialogue: 0,0:06:42.68,0:06:43.75,Main,Suiren,0,0,0,,Once we start fishing!
 Dialogue: 0,0:06:43.75,0:06:46.43,Main,Fishing Guru,0,0,0,,Hold up, fishermen over there!
@@ -207,7 +207,7 @@ Dialogue: 0,0:08:05.60,0:08:07.97,Main,Rotom,0,0,0,,He said forty years earlier-
 Dialogue: 0,0:08:09.56,0:08:13.14,Main,Fishing Guru,0,0,0,,In any case, it’s not something \N an amateur can just reel in!
 Dialogue: 0,0:08:14.00,0:08:14.97,Main,Fishing Guru,0,0,0,,What?! {This line was commented for me, though it’s possible I accidentally did it. - Toa}{'s one of those lines where it's debatable if it even needs to be here at all... But I mean, I see no HARM in un-commenting it. -Starfish}
 Dialogue: 0,0:08:15.77,0:08:16.66,Main,Suiren,0,0,0,,I caught one!
-Dialogue: 0,0:08:21.13,0:08:23.70,Main,Suiren,0,0,0,,Now I can battle the \N Lord of the Lake, right?
+Dialogue: 0,0:08:21.13,0:08:23.70,Main,Suiren,0,0,0,,Now I can battle \N the Lord of the Lake, right?
 Dialogue: 0,0:08:25.93,0:08:29.41,Main,Fishing Guru,0,0,0,,Such skill, to be able to \N catch a Hinbass so easily...
 Dialogue: 0,0:08:29.41,0:08:33.96,Main,Fishing Guru,0,0,0,,In my sixty long years as Fishing Guru, \N this is the first time I’ve seen it!
 Dialogue: 0,0:08:33.96,0:08:35.91,Main,Fishing Guru,0,0,0,,All right! Very well!

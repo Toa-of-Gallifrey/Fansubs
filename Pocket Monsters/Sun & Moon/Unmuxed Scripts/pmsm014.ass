@@ -84,7 +84,7 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.33,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.33,0:22:37.16,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -288,7 +288,7 @@ Dialogue: 0,0:12:50.91,0:12:52.37,Main,Nyarth,0,0,0,,Then what, meow?
 Dialogue: 0,0:12:52.37,0:12:55.87,Main,Musashi,0,0,0,,Does it matter? \N They’re for eating back at the base.
 Dialogue: 0,0:12:56.88,0:12:59.38,Main,Kojiro,0,0,0,,Nyarth, what did we have \N planned for after this?
 Dialogue: 0,0:12:59.38,0:13:02.63,Main,Nyarth,0,0,0,,Getting parts to build \N the hidden base, meow.
-Dialogue: 0,0:13:02.63,0:13:05.63,Main,Nyarth,0,0,0,,It’s still not a \N fully functioning base, meow.
+Dialogue: 0,0:13:02.63,0:13:05.63,Main,Nyarth,0,0,0,,It’s still not \N a fully functioning base, meow.
 Dialogue: 0,0:13:05.63,0:13:09.68,Main,Kojiro,0,0,0,,Oh, right. Well, first we need...
 Dialogue: 0,0:13:13.39,0:13:16.52,Main,Kojiro,0,0,0,,Wasn’t that the brat boy’s...
 Dialogue: 0,0:13:17.48,0:13:18.77,Main,Musashi,0,0,0,,What’s that white one?!

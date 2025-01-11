@@ -135,7 +135,7 @@ Dialogue: 0,0:00:48.33,0:00:52.17,Main,Ilima,0,0,0,,You start with a serve. \N Y
 Dialogue: 0,0:00:52.17,0:00:54.92,Main,Ilima,0,0,0,,before sending it over to the opponent’s court \N in a diagonal line.
 Dialogue: 0,0:00:54.92,0:00:59.89,Main,Ilima,0,0,0,,It must also bounce on the opponent’s court,\Nor it will be considered out of bounds.
 Dialogue: 0,0:00:59.89,0:01:02.35,Main,Ilima,0,0,0,,And then the opponent \N hits the ball back.
-Dialogue: 0,0:01:02.35,0:01:07.56,Main,Ilima,0,0,0,,Here, too, the ball has to bounce once on the \N opponent’s side of the field or it won’t count.
+Dialogue: 0,0:01:02.35,0:01:07.56,Main,Ilima,0,0,0,,Here, too, the ball has to bounce once on \N the opponent’s side of the field or it won’t count.
 Dialogue: 0,0:01:07.56,0:01:09.60,Main,Ilima,0,0,0,,This is where the server changes.{I want to say the word is “server” but don’t quote me. -BYH.}{Yup, should be “server” (source: https://www.itftennis.com/media/136148/136148.pdf). Changed “sender” to “server”. - Toa}
 Dialogue: 0,0:01:09.60,0:01:13.88,Main,Ilima,0,0,0,,The trainer and their Pokémon \N have to take turns serving and receiving. {Changed “sending” to “serving”. - Toa}
 Dialogue: 0,0:01:15.15,0:01:18.39,Main,Satoshi,0,0,0,,I’m not sure I get it...

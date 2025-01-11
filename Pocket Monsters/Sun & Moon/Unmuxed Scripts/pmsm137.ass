@@ -138,7 +138,7 @@ Dialogue: 0,0:00:03.23,0:00:06.36,Main,Hala,0,0,0,,I will present today’s Pok�
 Dialogue: 0,0:00:06.36,0:00:10.82,Main,Hala,0,0,0,,Who serves as referee today?
 Dialogue: 0,0:00:10.82,0:00:15.49,Main,Hala,0,0,0,,Get the answer at the end of the episode! \N I am Hala!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:16.87,0:00:19.87,Main,Narrator,0,0,0,,The first match of the \N Alola Pokémon League semifinals...
+Dialogue: 0,0:00:16.87,0:00:19.87,Main,Narrator,0,0,0,,The first match of \N the Alola Pokémon League semifinals...
 Dialogue: 0,0:00:19.87,0:00:23.46,Main,Narrator,0,0,0,,...was an intense showdown \N between Kaki and Gladio.
 Dialogue: 0,0:00:24.08,0:00:25.71,Main,Narrator,0,0,0,,Gladio was the winner.
 Dialogue: 0,0:00:25.71,0:00:27.79,Main,Narrator,0,0,0,,But the two acknowledged \N each other as rivals,
@@ -331,7 +331,7 @@ Dialogue: 0,0:18:20.53,0:18:23.37,Main,Jeekyo,0,0,0,,Now, only the finals remain
 Dialogue: 0,0:18:23.37,0:18:26.12,Main,Jeekyo,0,0,0,,Competitor Satoshi, \N with his heated, aggressive battle style...
 Dialogue: 0,0:18:26.12,0:18:29.79,Main,Jeekyo,0,0,0,,...VS Competitor Gladio, \N with his calm, bold battling style!
 Dialogue: 0,0:18:29.79,0:18:34.80,Main,Jeekyo,0,0,0,,Which of these two will become \N the Alola Pokémon League’s first-ever Champion?!
-Dialogue: 0,0:18:44.22,0:18:47.39,Main,Guzma,0,0,0,,This is the end of the \N “undefeated” Mr. Guzma.
+Dialogue: 0,0:18:44.22,0:18:47.39,Main,Guzma,0,0,0,,This is the end of \N the “undefeated” Mr. Guzma.
 Dialogue: 0,0:18:47.39,0:18:48.69,Main,Guzma,0,0,0,,Go wherever you want.
 Dialogue: 0,0:18:49.23,0:18:50.69,Main,Tupper,0,0,0,,That was so movin’!
 Dialogue: 0,0:18:50.69,0:18:51.90,Main,Zip,0,0,0,,Mr. Guzma!

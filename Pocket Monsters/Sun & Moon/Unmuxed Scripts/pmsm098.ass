@@ -290,7 +290,7 @@ Dialogue: 0,0:09:45.25,0:09:47.93,Main,Human being,0,0,0,,This should keep us go
 Dialogue: 0,0:09:47.93,0:09:48.60,Main,Human being,0,0,0,,Yes!
 Dialogue: 0,0:09:50.02,0:09:52.63,Main,Satoshi,0,0,0,,I was only watching, \N and {\i1}I{\i0} got nervous...
 Dialogue: 0,0:09:53.94,0:09:54.95,Main,George,0,0,0,,Congratulations!
-Dialogue: 0,0:09:54.95,0:09:57.76,Main,George,0,0,0,,Now you’re one of the \N Alolan Detective’s partners!
+Dialogue: 0,0:09:54.95,0:09:57.76,Main,George,0,0,0,,Now you’re one of \N the Alolan Detective’s partners!
 Dialogue: 0,0:09:57.76,0:09:59.22,Main,Rotom,0,0,0,,I’ll do my best-roto!
 Dialogue: 0,0:09:59.22,0:10:01.05,Main,Satoshi,0,0,0,,Congratulations, Rotom!
 Dialogue: 0,0:10:01.87,0:10:03.61,Main,Laki,0,0,0,,I look forward to \N working with you,
@@ -353,7 +353,7 @@ Dialogue: 0,0:12:27.42,0:12:29.35,Main,Lilie,0,0,0,,Did something happen?
 Dialogue: 0,0:12:29.35,0:12:31.73,Main,Kaki,0,0,0,,Looks like Rotom \N isn’t with him, either.
 Dialogue: 0,0:12:33.40,0:12:36.72,Main,Kukui,0,0,0,,Alola! Time to start class!
 Dialogue: 0,0:12:38.59,0:12:41.80,Main,Kukui,0,0,0,,Today’s lesson is looking for \N Pokémon feathers in the forest...
-Dialogue: 0,0:12:41.80,0:12:44.03,Main,Kukui,0,0,0,,...and researching the \N Pokémon they belong to!
+Dialogue: 0,0:12:41.80,0:12:44.03,Main,Kukui,0,0,0,,...and researching \N the Pokémon they belong to!
 Dialogue: 0,0:12:44.03,0:12:45.30,Main,Class,0,0,0,,{\i1}Understood!{\i0}
 Dialogue: 0,0:12:45.30,0:12:48.16,Main,Satoshi,0,0,0,,Okay! Let’s go, \N Pikachu, everyone!
 Dialogue: 0,0:12:50.97,0:12:51.97,Main,Suiren,0,0,0,,Definitely weird.

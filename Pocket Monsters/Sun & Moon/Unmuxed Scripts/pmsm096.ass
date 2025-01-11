@@ -145,7 +145,7 @@ Dialogue: 0,0:00:46.59,0:00:50.12,Main,Kukui,0,0,0,,Aether Paradise. \N It’s a
 Dialogue: 0,0:00:50.12,0:00:53.06,Main,Kukui,0,0,0,,I know! \N Let’s order a Ride Pokémon!
 Dialogue: 0,0:00:53.06,0:00:53.95,Main,Satoshi,0,0,0,,All right!
 Dialogue: 0,0:00:55.31,0:00:57.33,Main,Rotom,0,0,0,,You’d better get going soon, \N Professor Kukui,
-Dialogue: 0,0:00:57.33,0:00:59.95,Main,Rotom,0,0,0,,or you’ll be late for the \N Pokémon Battle Research Conference-roto.
+Dialogue: 0,0:00:57.33,0:00:59.95,Main,Rotom,0,0,0,,or you’ll be late for \N the Pokémon Battle Research Conference-roto.
 Dialogue: 0,0:00:59.95,0:01:01.72,Main,Kukui,0,0,0,,Oh, right.
 Dialogue: 0,0:01:01.72,0:01:02.88,Main,Kukui,0,0,0,,Thank you.
 Dialogue: 0,0:01:02.88,0:01:04.37,Main,Satoshi,0,0,0,,You can count on me!
@@ -335,7 +335,7 @@ Dialogue: 0,0:14:44.90,0:14:46.03,Main,Musashi,0,0,0,,Huh?
 Dialogue: 0,0:14:51.62,0:14:52.49,Main,Musashi,0,0,0,,Sheesh!
 Dialogue: 0,0:14:55.65,0:14:57.82,Main,Musashi,0,0,0,,What is your problem?!
 Dialogue: 0,0:15:04.25,0:15:07.21,Main,Wicke,0,0,0,,Attention, \N everyone in Aether Paradise!
-Dialogue: 0,0:15:07.21,0:15:11.66,Main,Wicke,0,0,0,,The Nuikoguma in the \N Conservation Area has disappeared!
+Dialogue: 0,0:15:07.21,0:15:11.66,Main,Wicke,0,0,0,,The Nuikoguma in \N the Conservation Area has disappeared!
 Dialogue: 0,0:15:11.66,0:15:14.93,Main,Wicke,0,0,0,,If any of you finds it, \N or knows where it might be, please...
 Dialogue: 0,0:15:14.93,0:15:17.20,Main,Kojiro,0,0,0,,A missing Nuikoguma?
 Dialogue: 0,0:15:17.20,0:15:18.60,Main,Nyarth,0,0,0,,It’s gotta be this one, meow!

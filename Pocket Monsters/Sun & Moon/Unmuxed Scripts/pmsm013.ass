@@ -83,7 +83,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Dark, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -283,7 +283,7 @@ Dialogue: 0,0:12:31.10,0:12:33.19,Main,Musashi,0,0,0,,Hey... Wait, wait, wait!
 Dialogue: 0,0:12:34.31,0:12:37.07,Main,Musashi,0,0,0,,Don’t run away, pancakes!
 Dialogue: 0,0:12:44.53,0:12:45.87,Main,Musashi,0,0,0,,Noooo!
 Dialogue: 0,0:12:45.87,0:12:49.08,Main,Satoshi,0,0,0,,Pikachu, once we’re \N past these obstacles,
-Dialogue: 0,0:12:49.08,0:12:50.87,Main,Satoshi,0,0,0,,it’ll be time for the \N Pokémon-only race!
+Dialogue: 0,0:12:49.08,0:12:50.87,Main,Satoshi,0,0,0,,it’ll be time for \N the Pokémon-only race!
 Dialogue: 0,0:12:51.29,0:12:55.12,Main,Satoshi,0,0,0,,I’ll circle around to the goal and cheer for you! \N Give it all you’ve got!
 Dialogue: 0,0:13:02.13,0:13:05.13,Main,Rotom,0,0,0,,Principal Okido’s partner \N is Nekkoala-roto?
 Dialogue: 0,0:13:06.84,0:13:10.93,Main,Rotom,0,0,0,,Nekkoala. Drowsing Pokémon. \N Normal type.
@@ -300,7 +300,7 @@ Dialogue: 0,0:13:51.31,0:13:54.27,Main,Nyarth,0,0,0,,Gulp! \N No, that’s not t
 Dialogue: 0,0:14:08.16,0:14:12.66,Main,Kaki,0,0,0,,It’s all right, Bakugames... \N It’s just... fine...!
 Dialogue: 0,0:14:19.21,0:14:21.34,Main,Kaki,0,0,0,,I’ve had... an epiphany...
 Dialogue: 0,0:14:23.34,0:14:25.05,Main,Kaki,0,0,0,,We are...
-Dialogue: 0,0:14:25.05,0:14:29.22,Main,Kaki,0,0,0,,...not cut out for the \N Pokémon Pancake Race!
+Dialogue: 0,0:14:25.05,0:14:29.22,Main,Kaki,0,0,0,,...not cut out for \N the Pokémon Pancake Race!
 Dialogue: 0,0:14:39.02,0:14:42.82,Main,Mamane,0,0,0,,I’m so sorry, Togedemaru. \N I’ve already been disqualified.
 Dialogue: 0,0:14:44.61,0:14:47.24,Main,Mamane,0,0,0,,Let’s go cheer on the others.
 Dialogue: 0,0:14:52.91,0:14:57.91,Main,Mamane,0,0,0,,Ow! Sorry! Sorry! \N I said I’m sorry!
@@ -357,7 +357,7 @@ Dialogue: 0,0:19:35.53,0:19:37.65,Main,Ana,0,0,0,,The winner is Nekkoala!
 Dialogue: 0,0:19:37.65,0:19:40.78,Main,Ana,0,0,0,,Following it, Raichu and Pikachu dive across the goal line at the same time,
 Dialogue: 0,0:19:40.78,0:19:42.16,Main,Ana,0,0,0,,winning a shared second place!
 Dialogue: 0,0:19:42.16,0:19:44.16,Main,Ana,0,0,0,,Quite an unexpected conclusion!
-Dialogue: 0,0:19:44.16,0:19:47.91,Main,Ana,0,0,0,,This is what makes the \N Pokémon Pancake Race so fun!
+Dialogue: 0,0:19:44.16,0:19:47.91,Main,Ana,0,0,0,,This is what makes \N the Pokémon Pancake Race so fun!
 Dialogue: 0,0:19:59.22,0:20:03.13,Main,Alolan Oak,0,0,0,,Oh, thank you, thank you! \N ArigaTosakinto!{Not sure if too dumb or the exact right amount of dumb. -Starfish} {it’s Alolan Oak... I’ll allow it —Puto}
 Dialogue: 0,0:20:03.72,0:20:05.26,Main,Rotom,0,0,0,,That was a great run-roto!
 Dialogue: 0,0:20:05.26,0:20:07.52,Main,Satoshi,0,0,0,,You really did great, Pikachu!
@@ -389,7 +389,7 @@ Comment: 0,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.46,0:23:25.13,Main,Alolan Oak,0,0,0,,Thank you for your patienCelebi!
 Dialogue: 0,0:23:25.13,0:23:28.80,Main,Alolan Oak,0,0,0,,The answer to the PokéProblem was Nekkoala! \N Did you get it righTamanta?
 Dialogue: 0,0:23:28.80,0:23:30.59,Main,Alolan Oak,0,0,0,,Well done, Nekkoala!
-Dialogue: 0,0:23:31.18,0:23:34.35,Main,Alolan Oak,0,0,0,,Last year’s winner of the \N Pokémon Pancake Race was Raichu!
+Dialogue: 0,0:23:31.18,0:23:34.35,Main,Alolan Oak,0,0,0,,Last year’s winner of \N the Pokémon Pancake Race was Raichu!
 Dialogue: 0,0:23:34.35,0:23:36.47,Main,Alolan Oak,0,0,0,,It’s an Electric/Psychic type.
 Dialogue: 0,0:23:36.47,0:23:41.98,Main,Alolan Oak,0,0,0,,It focuses psychic energy into its tail and \N rides it like it’s surfing. {This is actually its Ultra Sun dex entry which would not yet have been written when this episode was released probably, but... it’s close enough to work. -Starfish}It was quite the formidable foe!
 Dialogue: 0,0:23:41.98,0:23:46.44,Main,Alolan Oak,0,0,0,,I didn’t think Nekkoala stood a chance, \N to be honesTabunne!

@@ -113,7 +113,7 @@ Dialogue: 0,0:01:04.41,0:01:06.71,Main,Hala,0,0,0,,A guest, maybe?
 Dialogue: 0,0:01:09.09,0:01:09.96,Main,Hala,0,0,0,,Hariteyama!
 Dialogue: 0,0:01:14.01,0:01:15.51,Main,Hala,0,0,0,,What is this creature?!
 Dialogue: 0,0:01:24.52,0:01:25.94,Main,Kukui,0,0,0,,Satoshi, wake up!
-Dialogue: 0,0:01:25.94,0:01:27.48,Main,Kukui,0,0,0,,There’s been an \N emergency dispatch call!
+Dialogue: 0,0:01:25.94,0:01:27.48,Main,Kukui,0,0,0,,There’s been \N an emergency dispatch call!
 Dialogue: 0,0:01:30.23,0:01:32.36,Main,Rotom,0,0,0,,Did an Ultra Beast emerge-roto?!
 Dialogue: 0,0:01:50.79,0:01:52.50,Main,Hala,0,0,0,,Hariteyama!
 Dialogue: 0,0:02:05.93,0:02:08.52,Main,Hala,0,0,0,,What do you intend \N to do with that?
@@ -134,7 +134,7 @@ Comment: 0,0:04:08.47,0:04:08.47,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:04:18.02,0:04:22.49,Main,Narrator,0,0,0,,The Ultra Guardians suddenly got \N a dispatch call in the middle of the night.
 Dialogue: 0,0:04:22.99,0:04:25.99,Main,Narrator,0,0,0,,Now, the sun has risen, \N and it’s time for class!
 Dialogue: 0,0:04:27.03,0:04:27.87,Main,Narrator,0,0,0,,However...?
-Dialogue: 0,0:04:34.00,0:04:36.33,Main,Lilie,0,0,0,,That was quite the \N long yawn, Satoshi...
+Dialogue: 0,0:04:34.00,0:04:36.33,Main,Lilie,0,0,0,,That was quite \N the long yawn, Satoshi...
 Dialogue: 0,0:04:40.25,0:04:44.13,Main,Mao,0,0,0,,Well, of course... We had to go on a mission \N in the middle of the night...
 Dialogue: 0,0:04:44.13,0:04:46.89,Main,Suiren,0,0,0,,I’m totally sleep-deprived...
 Dialogue: 0,0:04:49.89,0:04:53.39,Main,Kaki,0,0,0,,We didn’t even find \N the Ultra Beast, either...
@@ -235,7 +235,7 @@ Dialogue: 0,0:12:06.62,0:12:09.70,Main,Musashi,0,0,0,,Huh? \N Why do you look so
 Dialogue: 0,0:12:11.12,0:12:16.29,Main,Nyarth,0,0,0,,I have become a Monsieur befitting \N of my dear Beauty, meowphe!
 Dialogue: 0,0:12:16.29,0:12:18.13,Main,Musashi,0,0,0,,Who’re you calling “Beauty”?!
 Dialogue: 0,0:12:18.13,0:12:20.13,Main,Musashi,0,0,0,,Give us back our Z-Crystals!
-Dialogue: 0,0:12:20.13,0:12:23.18,Main,Mao,0,0,0,,Huh? It stole the \N Team Rocket’s Crystals, too?
+Dialogue: 0,0:12:20.13,0:12:23.18,Main,Mao,0,0,0,,Huh? It stole \N Team Rocket’s Crystals, too?
 Dialogue: 0,0:12:23.18,0:12:25.01,Main,Mamane,0,0,0,,Looks like it.
 Dialogue: 0,0:12:26.26,0:12:28.31,Main,Nyarth,0,0,0,,Forgive me, meowche...
 Dialogue: 0,0:12:28.31,0:12:33.31,Main,Nyarth,0,0,0,,But I have learned what \N true love means, meowphe!
@@ -267,8 +267,8 @@ Dialogue: 0,0:13:46.56,0:13:49.30,Main,Sauboh,0,0,0,,The Sticky Stuck Soles \N S
 Dialogue: 0,0:13:50.01,0:13:53.02,Main,Sauboh,0,0,0,,You leave the Z-Crystal \N here in the center as bait,
 Dialogue: 0,0:13:53.77,0:13:57.44,Main,Sauboh,0,0,0,,and flood the surrounding area \N with a powerful adhesive gel.
 Dialogue: 0,0:13:57.98,0:14:02.82,Main,Sauboh,0,0,0,,When Pheroache approaches, \N its soles get stuck in the adhesive gel, and...
-Dialogue: 0,0:14:09.07,0:14:11.83,Main,Sauboh,0,0,0,,...which... gives you the \N perfect chance to catch it!
-Dialogue: 0,0:14:11.83,0:14:13.91,Main,Burnet,0,0,0,,We’ll send you the \N spare device right now!
+Dialogue: 0,0:14:09.07,0:14:11.83,Main,Sauboh,0,0,0,,...which... gives you \N the perfect chance to catch it!
+Dialogue: 0,0:14:11.83,0:14:13.91,Main,Burnet,0,0,0,,We’ll send you \N the spare device right now!
 Dialogue: 0,0:14:13.91,0:14:15.66,Main,Sauboh,0,0,0,,Chief, help me!
 Dialogue: 0,0:14:15.66,0:14:18.04,Main,Wicke,0,0,0,,Oh, come on! \N What are you doing?!
 Dialogue: 0,0:14:18.04,0:14:20.88,Main,Sauboh,0,0,0,,{\an8}Chief... Chief!
@@ -387,11 +387,11 @@ Dialogue: 0,0:23:45.44,0:23:50.49,Main,Sauboh,0,0,0,,Goggles that lock on to lif
 Dialogue: 0,0:23:50.49,0:23:54.12,Main,Sauboh,0,0,0,,Now, then, time to \N test it on Aburibbon.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:00.96,0:24:03.67,Main,Ana,0,0,0,,Alola! It’s Ana the reporter!
-Dialogue: 0,0:24:03.67,0:24:06.84,Main,Ana,0,0,0,,Today, I’d like to deliver a \N drive-by report on Professor Kukui!
+Dialogue: 0,0:24:03.67,0:24:06.84,Main,Ana,0,0,0,,Today, I’d like to deliver \N a drive-by report on Professor Kukui!
 Dialogue: 0,0:24:07.88,0:24:09.17,Main,Ana,0,0,0,,Professor Kukui!
-Dialogue: 0,0:24:09.17,0:24:12.34,Main,Ana,0,0,0,,Is it true that you intend to make a \N big announcement at this conference?
+Dialogue: 0,0:24:09.17,0:24:12.34,Main,Ana,0,0,0,,Is it true that you intend to make \N a big announcement at this conference?
 Dialogue: 0,0:24:12.34,0:24:12.84,Main,Kukui,0,0,0,,Yes!
-Dialogue: 0,0:24:12.84,0:24:15.22,Main,Ana,0,0,0,,I see that you have invited the \N Island Kings and Queens, too...
+Dialogue: 0,0:24:12.84,0:24:15.22,Main,Ana,0,0,0,,I see that you have invited \N the Island Kings and Queens, too...
 Dialogue: 0,0:24:15.22,0:24:16.89,Main,Ana,0,0,0,,What is it you have planned?
 Dialogue: 0,0:24:16.89,0:24:18.68,Main,Kukui,0,0,0,,Sorry! I just got Amnesia!
 Dialogue: 0,0:24:18.68,0:24:21.43,Main,Ana,0,0,0,,Meaning you want us to \N wait for the conference, I see...

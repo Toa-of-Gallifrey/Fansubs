@@ -337,10 +337,10 @@ Dialogue: 0,0:16:27.51,0:16:29.06,Main,Mao,0,0,0,,Lilie!
 Dialogue: 0,0:16:29.06,0:16:30.15,Main,Lilie,0,0,0,,Mao...
 Dialogue: 0,0:16:30.15,0:16:31.76,Main,Mao,0,0,0,,I’m sorry we didn’t \N make it in time!
 Dialogue: 0,0:16:32.37,0:16:34.51,Main,Mao,0,0,0,,But you were amazing!
-Dialogue: 0,0:16:34.51,0:16:38.65,Main,Mamane,0,0,0,,I can’t believe you tag teamed with a \N wild Pokémon and did a Double Battle! {Suggesting that “tag-teamed” be de-hyphenated to be more in line with episode 81 (even if it’s not the same usage). - Toa Nuva}
+Dialogue: 0,0:16:34.51,0:16:38.65,Main,Mamane,0,0,0,,I can’t believe you tag teamed with \N a wild Pokémon and did a Double Battle! {Suggesting that “tag-teamed” be de-hyphenated to be more in line with episode 81 (even if it’s not the same usage). - Toa Nuva}
 Dialogue: 0,0:16:38.65,0:16:41.79,Main,Mamane,0,0,0,,It sent chills down my spine!
 Dialogue: 0,0:16:41.79,0:16:44.02,Main,Lilie,0,0,0,,I was merely caught up in the moment...
-Dialogue: 0,0:16:44.89,0:16:47.18,Main,Lilie,0,0,0,,It was all thanks to the \N Pokémon’s hard work! {Changed from “Pokémon working so hard.” - Toa}
+Dialogue: 0,0:16:44.89,0:16:47.18,Main,Lilie,0,0,0,,It was all thanks to \N the Pokémon’s hard work! {Changed from “Pokémon working so hard.” - Toa}
 Dialogue: 0,0:16:58.77,0:17:01.35,Main,Kaki & Satoshi,0,0,0,,T-This time, for sure...
 Dialogue: 0,0:17:02.65,0:17:04.67,Main,Satoshi & Kaki,0,0,0,,We’re out...!
 Dialogue: 0,0:17:07.01,0:17:07.97,Main,Suiren,0,0,0,,I found you!
@@ -361,7 +361,7 @@ Dialogue: 0,0:17:45.60,0:17:48.63,Main,Lilie,0,0,0,,Now the Sand will be at ease
 Dialogue: 0,0:17:48.63,0:17:49.59,Main,Mao,0,0,0,,Yeah.
 Dialogue: 0,0:17:59.23,0:18:00.85,Main,Mamane,0,0,0,,Hey, look at this!
 Dialogue: 0,0:18:01.38,0:18:03.23,Main,Mamane,0,0,0,,Denjimushi found it!
-Dialogue: 0,0:18:03.62,0:18:06.48,Main,Mamane,0,0,0,,This might be an \N Ice Stone mine!
+Dialogue: 0,0:18:03.62,0:18:06.48,Main,Mamane,0,0,0,,This might be \N an Ice Stone mine!
 Dialogue: 0,0:18:06.48,0:18:09.04,Main,Lilie,0,0,0,,Oh, my! An Ice Stone?
 Dialogue: 0,0:18:09.04,0:18:10.65,Main,Mao,0,0,0,,Um... What’s that mean?
 Dialogue: 0,0:18:11.11,0:18:16.16,Main,Mamane,0,0,0,,The Ice Stone is an object that \N causes Sand and Rokon to evolve! {Suggesting “object” or a synonym in place of “stone”, maybe “rock”? - Toa}{’s technically not true to the JP as he DOES in fact say “ishi” twice... But it’s the kind of divergence from the literal that I think is ENTIRELY acceptable so... accepted. -Starfish OF THE FUTURE}

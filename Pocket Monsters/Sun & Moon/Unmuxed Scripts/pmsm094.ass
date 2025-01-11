@@ -147,7 +147,7 @@ Dialogue: 0,0:00:46.69,0:00:47.92,Main,Ho & Sui,0,0,0,,Yeah, it did!
 Dialogue: 0,0:00:47.92,0:00:48.94,Main,Ho & Sui,0,0,0,,It was kinda scary...
 Dialogue: 0,0:00:48.94,0:00:50.40,Main,Ho & Sui,0,0,0,,But really fun!
 Dialogue: 0,0:00:52.15,0:00:55.15,Main,Ho & Sui,0,0,0,,{\fad(0,500)}We wanna go to \N a haunted house!
-Dialogue: 0,0:00:55.77,0:01:00.41,Main,Suiren,0,0,0,,They’ve been talking about a \N haunted house non-stop ever since.
+Dialogue: 0,0:00:55.77,0:01:00.41,Main,Suiren,0,0,0,,They’ve been talking about \N a haunted house non-stop ever since.
 Dialogue: 0,0:01:00.41,0:01:02.66,Main,Kaki,0,0,0,,A haunted house, huh.
 Dialogue: 0,0:01:02.66,0:01:04.81,Main,Suiren,0,0,0,,Seems they saw one on TV \N and got interested.
 Dialogue: 0,0:01:04.81,0:01:06.94,Main,Satoshi,0,0,0,,Then let’s all go to one \N someday soon!
@@ -217,7 +217,7 @@ Dialogue: 0,0:05:16.79,0:05:18.17,Main,Ho & Sui,0,0,0,,So exciting!
 Dialogue: 0,0:05:18.17,0:05:19.17,Main,Ho & Sui,0,0,0,,So thrilling!
 Dialogue: 0,0:05:19.17,0:05:20.18,Main,Ho & Sui,0,0,0,,So exciting!
 Dialogue: 0,0:05:20.18,0:05:21.33,Main,Ho & Sui,0,0,0,,So thrilling!
-Dialogue: 0,0:05:21.33,0:05:24.80,Main,Rotom,0,0,0,,Well then, let the \N haunted house tour begin-roto!
+Dialogue: 0,0:05:21.33,0:05:24.80,Main,Rotom,0,0,0,,Well then, \N let the haunted house tour begin-roto!
 Dialogue: 0,0:05:24.80,0:05:26.80,Main,Ho & Sui,0,0,0,,Roto!
 Dialogue: 0,0:05:27.71,0:05:30.09,Main,Rotom,0,0,0,,Begin by heading \N straight down the hall-roto.
 Dialogue: 0,0:05:30.09,0:05:30.76,Main,Ho & Sui,0,0,0,,Roto!
@@ -300,7 +300,7 @@ Dialogue: 0,0:08:57.47,0:08:59.11,Main,Suiren,0,0,0,,Hey, you two!
 Dialogue: 0,0:09:13.37,0:09:14.61,Main,Ho & Sui,0,0,0,,What is this?!
 Dialogue: 0,0:09:14.61,0:09:16.03,Main,Ho & Sui,0,0,0,,So cool!
 Dialogue: 0,0:09:16.03,0:09:17.52,Main,Suiren,0,0,0,,Where are we?
-Dialogue: 0,0:09:17.52,0:09:20.40,Main,Suiren,0,0,0,,We were at the \N Pokémon School, right?
+Dialogue: 0,0:09:17.52,0:09:20.40,Main,Suiren,0,0,0,,We were at the Pokémon School, right?
 Dialogue: 0,0:09:21.53,0:09:23.87,Main,Acerola,0,0,0,,This has never happened before...
 Dialogue: 0,0:09:29.96,0:09:31.09,Main,Ho & Sui,0,0,0,,The wind’s awesome!
 Dialogue: 0,0:09:31.09,0:09:33.26,Main,Ho & Sui,0,0,0,,Awesome wind!
@@ -321,7 +321,7 @@ Dialogue: 0,0:10:37.96,0:10:39.91,Main,Suiren,0,0,0,,This must be Mumagi’s doi
 Dialogue: 0,0:10:39.91,0:10:40.82,Main,Mao,0,0,0,,Suiren?
 Dialogue: 0,0:10:41.23,0:10:43.03,Main,Suiren,0,0,0,,I’m worried about \N Ho and Sui.
 Dialogue: 0,0:10:43.03,0:10:45.04,Main,Satoshi,0,0,0,,Yeah. Let’s move!
-Dialogue: 0,0:10:46.37,0:10:48.94,Main,Acerola,0,0,0,,You can leave the \N pursuit to Mimikins.
+Dialogue: 0,0:10:46.37,0:10:48.94,Main,Acerola,0,0,0,,You can leave the pursuit \N to Mimikins.
 Dialogue: 0,0:10:48.94,0:10:50.00,Main,Satoshi,0,0,0,,To Mimikins?
 Dialogue: 0,0:10:50.38,0:10:52.76,Main,Acerola,0,0,0,,It’s good at detecting \N the presence of others.
 Dialogue: 0,0:10:52.76,0:10:54.26,Main,Acerola,0,0,0,,Mimikins, if you would.
@@ -450,7 +450,7 @@ Dialogue: 0,0:19:40.49,0:19:42.24,Main,Mamane,0,0,0,,You sure are carefree...
 Dialogue: 0,0:19:46.01,0:19:47.59,Main,Suiren,0,0,0,,Ho. Sui.
 Dialogue: 0,0:19:50.13,0:19:54.50,Main,Suiren,0,0,0,,I’m starting to get \N {\i1}really{\i0} angry!
 Dialogue: 0,0:19:56.25,0:19:58.77,Main,Satoshi,0,0,0,,But it was kinda fun, \N wasn’t it?
-Dialogue: 0,0:19:58.77,0:20:01.79,Main,Mao,0,0,0,,I guess it became a \N haunted house tour for all of us.
+Dialogue: 0,0:19:58.77,0:20:01.79,Main,Mao,0,0,0,,I guess it became \N a haunted house tour for all of us.
 Dialogue: 0,0:20:01.79,0:20:02.76,Main,Mao,0,0,0,,Right, Suiren?
 Dialogue: 0,0:20:02.76,0:20:05.42,Main,Suiren,0,0,0,,Yeah! \N Thanks for today, everyone!
 Dialogue: 0,0:20:05.42,0:20:07.44,Main,Kaki,0,0,0,,Well then, \N shall we clean up and go home?
@@ -459,7 +459,7 @@ Dialogue: 0,0:20:09.33,0:20:11.27,Main,Kukui,0,0,0,,There was plenty of trouble.
 Dialogue: 0,0:20:11.76,0:20:15.27,Main,Kukui,0,0,0,,But thankfully, \N everyone made it back safe!
 Dialogue: 0,0:20:15.69,0:20:19.28,Main,Kukui,0,0,0,,So, what did the two of them \N think of the haunted house?
 Dialogue: 0,0:20:19.28,0:20:21.20,Main,Ho & Sui,0,0,0,,Big Sis is way scarier...
-Dialogue: 0,0:20:21.20,0:20:23.71,Main,Ho & Sui,0,0,0,,...than the \N haunted house...
+Dialogue: 0,0:20:21.20,0:20:23.71,Main,Ho & Sui,0,0,0,,...than the haunted house...
 Comment: 0,0:20:27.53,0:20:27.53,Main,,0,0,0,,{Ending}
 Comment: 0,0:21:48.53,0:21:48.53,Main,,0,0,0,,{Eevee, Where Are You Going?}
 Dialogue: 0,0:21:48.53,0:21:52.13,Main,Kids,0,0,0,,Eevee, Where Are You Going?
