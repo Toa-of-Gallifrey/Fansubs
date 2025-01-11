@@ -185,7 +185,7 @@ Dialogue: 10,0:10:05.84,0:10:09.09,Main,Landau,0,0,0,,I never did introduce myse
 Dialogue: 10,0:10:09.51,0:10:10.80,Main,Liko,0,0,0,,I’m Liko.
 Dialogue: 10,0:10:10.80,0:10:11.80,Main,Roy,0,0,0,,I’m Roy.
 Dialogue: 10,0:10:11.80,0:10:12.59,Main,Dot,0,0,0,,Dot.
-Dialogue: 10,0:10:12.59,0:10:18.31,Main,Mamoru,0,0,0,,{\q2}I’m Mamoru, proprietor of a fishing boat rental shop \N and protector{mamoru} of these shores!
+Dialogue: 10,0:10:12.59,0:10:18.31,Main,Mamoru,0,0,0,,I’m Mamoru, proprietor of a fishing boat \N rental shop and protector{mamoru} of these shores!
 Dialogue: 10,0:10:19.68,0:10:25.23,Main,Mamoru,0,0,0,,Gin{Honorifics note: Gin-san} would oft film “VS Samehada” flicks \N on these very shores.
 Dialogue: 10,0:10:25.23,0:10:30.99,Main,Mamoru,0,0,0,,If there was ever a lack of good{strong} waves, \N Nuoh would whip some up with Surf!
 Dialogue: 10,0:10:30.99,0:10:33.20,Main,Landau,0,0,0,,Ah yes, indeed it would.{Dread Nuoh}
@@ -267,7 +267,7 @@ Dialogue: 10,0:15:15.31,0:15:16.31,Main,Dot,0,0,0,,The Sharitatsu?!
 Dialogue: 10,0:15:16.31,0:15:17.06,Main,LikoRoy,0,0,0,,Huh?!
 Dialogue: 10,0:15:17.06,0:15:17.86,Main,Liko,0,0,0,,Oh, no!
 Dialogue: 10,0:15:17.86,0:15:19.31,Main,Roy,0,0,0,,Why are they here?!
-Dialogue: 10,0:15:19.31,0:15:21.86,Main,Dot,0,0,0,,They’ll get sucked into the whirlpool \N if we don’t help!
+Dialogue: 10,0:15:19.31,0:15:21.86,Main,Dot,0,0,0,,At this rate, \N they’ll get sucked into the whirlpool!
 Dialogue: 10,0:15:21.86,0:15:22.94,Main,Liko,0,0,0,,We have to save them!
 Dialogue: 10,0:15:22.94,0:15:23.94,Main,RoyDot,0,0,0,,Yeah!
 Dialogue: 10,0:15:23.94,0:15:25.53,Main,Dot,0,0,0,,Welcamo! Let’s move!
@@ -281,7 +281,7 @@ Dialogue: 10,0:16:12.95,0:16:14.87,Main,Roy,0,0,0,,Return, Taikaiden!
 Dialogue: 10,0:16:18.25,0:16:19.63,Main,Liko,0,0,0,,Wh-What do we do...?
 Dialogue: 10,0:16:21.46,0:16:22.00,Main,Liko,0,0,0,,Wooper?!
 Dialogue: 10,0:16:22.00,0:16:23.50,Main,Mamoru,0,0,0,,What is it?
-Dialogue: 10,0:16:23.50,0:16:25.67,Main,Liko,0,0,0,,Wooper and Sharitatsu are in the whirlpool!{Intentional linebleed for CPS.}
+Dialogue: 10,0:16:23.50,0:16:25.67,Main,Liko,0,0,0,,Wooper and Sharitatsu \N are in the whirlpool!{Intentional linebleed for CPS.}
 Dialogue: 10,0:16:30.18,0:16:31.35,Main,Mamoru,0,0,0,,Wooper!
 Dialogue: 10,0:16:32.76,0:16:36.52,Main,Landau,0,0,0,,Well then, it seems the time has come \N for a Forme Change.
 Dialogue: 10,0:16:37.06,0:16:37.43,Main,Landau,0,0,0,,Urk!
@@ -360,14 +360,14 @@ Dialogue: 10,0:20:24.33,0:20:27.16,Main,Friede,0,0,0,,Nope, didn’t turn up \N 
 Dialogue: 10,0:20:27.16,0:20:28.25,Main,Orio,0,0,0,,Me either.
 Dialogue: 10,0:20:28.25,0:20:30.88,Main,Molly,0,0,0,,Nobody’s seen Entei anywhere.
 Dialogue: 10,0:20:30.88,0:20:34.50,Main,Mamoru,0,0,0,,What? You kids are looking for Entei?
-Dialogue: 10,0:20:34.50,0:20:38.26,Main,Roy,0,0,0,,Mr. Mamoru{Honorifics note: Mamoru-san} here runs a fishing boat rental shop, \N and protects these shores!
+Dialogue: 10,0:20:34.50,0:20:38.26,Main,Roy,0,0,0,,Ah, Mr. Mamoru{Honorifics note: Mamoru-san} here runs a fishing boat \N rental shop, and protects these shores!
 Dialogue: 10,0:20:38.26,0:20:42.39,Main,Mamoru,0,0,0,,A customer that rented a boat from me \N mentioned seeing an Entei.
 Dialogue: 10,0:20:42.76,0:20:43.81,Main,Dot,0,0,0,,Really?!
 Dialogue: 10,0:20:44.51,0:20:46.02,Main,Friede,0,0,0,,Whereabouts was it?
 Dialogue: 10,0:20:46.02,0:20:49.31,Main,Mamoru,0,0,0,,Said it was near the archipelago \N off the shore here...
 Dialogue: 10,0:20:49.31,0:20:51.81,Main,Mamoru,0,0,0,,Oh, probably around here.
 Dialogue: 10,0:20:53.73,0:20:56.32,Main,Liko,0,0,0,,If we go there, we can meet Entei!
-Dialogue: 10,0:21:06.08,0:21:07.33,Main,Everyone,0,0,0,,We’re home!
+Dialogue: 10,0:21:06.08,0:21:07.33,Main,Everyone,0,0,0,,{\i1}We’re home!{\i0}
 Dialogue: 10,0:21:07.33,0:21:09.12,Main,Friede,0,0,0,,We’re back!
 Dialogue: 10,0:21:09.12,0:21:10.37,Main,Murdock,0,0,0,,Welcome back!
 Dialogue: 10,0:21:10.37,0:21:11.88,Main,Dot,0,0,0,,I’m starving!

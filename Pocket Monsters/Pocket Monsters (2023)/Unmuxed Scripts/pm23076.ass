@@ -201,7 +201,7 @@ Dialogue: 10,0:09:43.27,0:09:44.06,Main,Sohnano,0,0,0,,Sonano?
 Dialogue: 10,0:09:44.06,0:09:45.02,Main,Dot,0,0,0,,That’s right!
 Dialogue: 10,0:09:45.02,0:09:45.86,Main,Dot,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}...
 Dialogue: 10,0:09:45.86,0:09:48.78,Main,Dot,0,0,0,,I read all of your \N Unfabricated True News articles!
-Dialogue: 10,0:09:48.78,0:09:51.82,Main,Dot,0,0,0,,Your unique angle for digging deep \N into mysteries is just so cool!
+Dialogue: 10,0:09:48.78,0:09:51.82,Main,Dot,0,0,0,,Your unique angle when digging deep \N into mysteries is just so cool!
 Dialogue: 10,0:09:51.82,0:09:54.24,Main,Sohdayo,0,0,0,,Heh! You guys sound like \N you know your stuff!
 Dialogue: 10,0:09:54.24,0:09:56.28,Main,Sohdayo,0,0,0,,Maybe I should write \N about you next time.
 Dialogue: 10,0:09:56.28,0:09:56.87,Main,Liko,0,0,0,,Ooh!
@@ -225,7 +225,7 @@ Dialogue: 10,0:10:23.19,0:10:26.31,Main,Sohdayo,0,0,0,,Allow me to regale you \N
 Dialogue: 10,0:10:27.73,0:10:29.78,Main,Murdock,0,0,0,,“The legendary dessert”?
 Dialogue: 10,0:10:29.78,0:10:34.95,Main,Liko,0,0,0,,{\q2}We heard you once made a dessert \N called the Canetozzo{seems to be Canelé+Maritozzo} that exploded in popularity!
 Dialogue: 10,0:10:35.32,0:10:38.49,Main,Roy,0,0,0,,And that you’ve never told \N a single soul how to make it!
-Dialogue: 10,0:10:38.49,0:10:41.79,Main,Dot,0,0,0,,And how pâtissiers the world over \N chase after you for the recipe!
+Dialogue: 10,0:10:38.49,0:10:41.79,Main,Dot,0,0,0,,And how pâtissiers the world over \N come after you for the recipe!
 Dialogue: 10,0:10:42.29,0:10:43.29,Main,Murdock,0,0,0,,Huh?
 Dialogue: 10,0:10:44.83,0:10:49.71,Main,Murdock,0,0,0,,I mean, I {\i1}did{\i0} make that... But its “popularity” \N was temporary, and limited to here on the ship.
 Dialogue: 10,0:10:49.71,0:10:52.09,Main,Murdock,0,0,0,,Have you been listening to \N Sodayo’s tall tales?
@@ -373,8 +373,8 @@ Dialogue: 10,0:18:45.81,0:18:52.69,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fs
 Dialogue: 10,0:18:52.69,0:18:53.82,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:18:53.86,0:18:55.78,Main,Sohnano,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\t(0,356,\c&HFFFFFF&\3c&H000000&)\t(1399,1900,\c&HFFFFFF&\3c&HFFFFFF&)}Sonano!
 Dialogue: 10,0:18:56.16,0:18:59.58,Main,Molly,0,0,0,,They’ve been together so long \N that Sonano can always tell.
-Dialogue: 10,0:18:59.58,0:19:04.04,Main,Molly,0,0,0,,It’s when you see it questioning “Sonano?” \N that you never know if it’s true or not.
-Dialogue: 10,0:18:59.58,0:19:04.04,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(1433,878)}Is that right?
+Dialogue: 10,0:18:59.58,0:19:04.04,Main,Molly,0,0,0,,On the flipside, if you hear it asking “Sonano?”, \N you can’t be sure if it’s true or not.
+Dialogue: 10,0:18:59.58,0:19:04.04,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(1477,878)}Is that right?
 Dialogue: 10,0:19:04.04,0:19:05.54,Main,Liko,0,0,0,,I see...
 Dialogue: 10,0:19:05.54,0:19:06.79,Main,Liko,0,0,0,,Then we can relax?
 Dialogue: 10,0:19:06.79,0:19:09.42,Main,Molly,0,0,0,,Well, he did wind up \N with some good material,
@@ -444,7 +444,7 @@ Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.34,0:24:03.38,Main,Landau,0,0,0,,I hope we get to see Entei.
 Dialogue: 10,0:24:03.38,0:24:07.59,Main,Landau,0,0,0,,Nevertheless, we haven’t seen \N Asagi City in ages, have we, Nuoh?
 Dialogue: 10,0:24:08.39,0:24:13.47,Main,Landau,0,0,0,,There was a time we were \N the stars of the ocean, ever aglitter-aglimmer.
-Dialogue: 10,0:24:13.47,0:24:15.60,Main,Landau,0,0,0,,Such a long time \N since we’ve been {\i1}here-oh{\i0}!
+Dialogue: 10,0:24:13.47,0:24:15.60,Main,Landau,0,0,0,,Such a long time \N since we’ve been {\i1}here-oh!{\i0}
 Dialogue: 10,0:24:15.60,0:24:20.73,Main,Landau,0,0,0,,{\q2}Maybe us and Samehada should try and \N heal our weary bodies {\i1}here-on{\i0} the wide open sea.{Perhaps it wouldn't be a bad idea, if for the first time in a while, with Samehada too, we recuperate from fatigue(pronounced:HERO) on the wide(pronounced:HERO) sea.}
 Dialogue: 10,0:24:21.27,0:24:24.19,Main,Landau,0,0,0,,And so, next time \N on Pocket Monsters...
 Dialogue: 10,0:24:24.19,0:24:25.82,Main,Landau,0,0,0,,Landau Returns to His Hometown
