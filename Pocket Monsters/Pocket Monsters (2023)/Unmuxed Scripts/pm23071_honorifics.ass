@@ -27,355 +27,355 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:01.44,0:00:05.32,Main,Liko,0,0,0,,We, the Rising Voltteccers, \N have come to the Kitakami hamlet.
-Dialogue: 0,0:00:06.69,0:00:12.91,Main,Liko,0,0,0,,{\q2}We’re climbing Oni Mountain to visit Ms. Briar, \N who knows a lot about Terapagos.{Briar-sensei}
-Dialogue: 0,0:00:12.91,0:00:18.75,Main,Liko,0,0,0,,{\q2}Along the way, in Hell Valley, Dot’s Kanuchan \N evolved into Nakanuchan. It was such a surprise!
-Dialogue: 0,0:00:19.96,0:00:24.38,Main,Liko,0,0,0,,And now, we’re finally closing in \N on our destination: the Shining Pond.
-Dialogue: 0,0:00:27.34,0:00:29.26,Main,Friede,0,0,0,,The Shining Pond is at the summit here!
-Dialogue: 0,0:00:29.26,0:00:31.09,Main,Friede,0,0,0,,Keep it up, everyone!
-Dialogue: 0,0:00:33.51,0:00:36.56,Main,Roy,0,0,0,,Looks like even your {\i1}egg{\i0} \N is full of energy, Achigator!
-Dialogue: 0,0:00:36.56,0:00:37.93,Main,Liko,0,0,0,,Just a little farther...
-Dialogue: 0,0:00:38.85,0:00:40.65,Main,Liko,0,0,0,,Dot, are you doing okay?
-Dialogue: 0,0:00:41.06,0:00:42.81,Main,Dot,0,0,0,,Y-Yeah...
-Dialogue: 0,0:00:45.15,0:00:46.82,Main,Dot,0,0,0,,They’ve got so much energy...
-Dialogue: 0,0:00:48.28,0:00:51.74,Main,Roy,0,0,0,,Come quick, everyone! \N This is unreal!
-Dialogue: 0,0:00:58.33,0:01:02.33,Main,Liko,0,0,0,,Wow... So this is the Shining Pond!
-Dialogue: 0,0:01:05.04,0:01:06.38,Main,Friede,0,0,0,,“Shining Pond:
-Dialogue: 0,0:01:06.38,0:01:11.05,Main,Friede,0,0,0,,{\q2}“Long ago, crystalline material was brought \N from elsewhere and dissolved into this pond.
-Dialogue: 0,0:01:11.05,0:01:17.18,Main,Friede,0,0,0,,{\q2}“Its water has a faint glow, but it is safe to drink \N and even serves as the village’s water source.”
-Dialogue: 0,0:01:17.18,0:01:19.10,Main,Friede,0,0,0,,Crystals from long ago, huh?
-Dialogue: 0,0:01:19.10,0:01:22.19,Main,Dot,0,0,0,,Think it has anything to do with Terastal?
-Dialogue: 0,0:01:22.19,0:01:28.15,Main,Friede,0,0,0,,It may have some connection to the wild Pokémon \N being able to Terastallize outside of Paldea.
-Dialogue: 0,0:01:28.15,0:01:33.99,Main,Liko,0,0,0,,{\q2}“One legend states that gazing upon the light of \N the pond can allow you to meet with the dead,” it says.
-Dialogue: 0,0:01:33.99,0:01:36.03,Main,Roy,0,0,0,,Do they come out of the light?!
-Dialogue: 0,0:01:36.03,0:01:36.99,Main,Roy,0,0,0,,That’s awesome!
-Dialogue: 0,0:01:36.99,0:01:39.33,Main,Friede,0,0,0,,Where’s Ms. Briar?{Briar-sensei}
-Dialogue: 0,0:01:39.33,0:01:40.96,Main,Roy,0,0,0,,I don’t see her anywhere.
-Dialogue: 0,0:01:41.75,0:01:44.17,Main,Friede,0,0,0,,I’ll search the area with Cap.
-Dialogue: 0,0:01:44.17,0:01:46.21,Main,Friede,0,0,0,,You guys stay here and rest.
-Dialogue: 0,0:02:03.02,0:02:04.52,Main,Liko,0,0,0,,It’s so pretty!
-Dialogue: 0,0:02:04.52,0:02:07.27,Main,Roy,0,0,0,,It said we can meet with the dead...
-Dialogue: 0,0:02:07.27,0:02:08.44,Main,Roy,0,0,0,,Think that’s for real?
-Dialogue: 0,0:02:10.69,0:02:12.65,Main,Liko,0,0,0,,It’s really mysterious...
-Dialogue: 0,0:02:12.65,0:02:15.53,Main,Liko,0,0,0,,I think I can understand \N why they have that legend.
-Dialogue: 0,0:02:25.92,0:02:27.46,Main,Liko,0,0,0,,What’s that?!
+Dialogue: 10,0:00:01.44,0:00:05.32,Main,Liko,0,0,0,,We, the Rising Voltteccers, \N have come to the Kitakami hamlet.
+Dialogue: 10,0:00:06.69,0:00:12.91,Main,Liko,0,0,0,,{\q2}We’re climbing Oni Mountain to visit Ms. Briar, \N who knows a lot about Terapagos.{Briar-sensei}
+Dialogue: 10,0:00:12.91,0:00:18.75,Main,Liko,0,0,0,,{\q2}Along the way, in Hell Valley, Dot’s Kanuchan \N evolved into Nakanuchan. It was such a surprise!
+Dialogue: 10,0:00:19.96,0:00:24.38,Main,Liko,0,0,0,,And now, we’re finally closing in \N on our destination: the Shining Pond.
+Dialogue: 10,0:00:27.34,0:00:29.26,Main,Friede,0,0,0,,The Shining Pond is at the summit here!
+Dialogue: 10,0:00:29.26,0:00:31.09,Main,Friede,0,0,0,,Keep it up, everyone!
+Dialogue: 10,0:00:33.51,0:00:36.56,Main,Roy,0,0,0,,Looks like even your {\i1}egg{\i0} \N is full of energy, Achigator!
+Dialogue: 10,0:00:36.56,0:00:37.93,Main,Liko,0,0,0,,Just a little farther...
+Dialogue: 10,0:00:38.85,0:00:40.65,Main,Liko,0,0,0,,Dot, are you doing okay?
+Dialogue: 10,0:00:41.06,0:00:42.81,Main,Dot,0,0,0,,Y-Yeah...
+Dialogue: 10,0:00:45.15,0:00:46.82,Main,Dot,0,0,0,,They’ve got so much energy...
+Dialogue: 10,0:00:48.28,0:00:51.74,Main,Roy,0,0,0,,Come quick, everyone! \N This is unreal!
+Dialogue: 10,0:00:58.33,0:01:02.33,Main,Liko,0,0,0,,Wow... So this is the Shining Pond!
+Dialogue: 10,0:01:05.04,0:01:06.38,Main,Friede,0,0,0,,“Shining Pond:
+Dialogue: 10,0:01:06.38,0:01:11.05,Main,Friede,0,0,0,,{\q2}“Long ago, crystalline material was brought \N from elsewhere and dissolved into this pond.
+Dialogue: 10,0:01:11.05,0:01:17.18,Main,Friede,0,0,0,,{\q2}“Its water has a faint glow, but it is safe to drink \N and even serves as the village’s water source.”
+Dialogue: 10,0:01:17.18,0:01:19.10,Main,Friede,0,0,0,,Crystals from long ago, huh?
+Dialogue: 10,0:01:19.10,0:01:22.19,Main,Dot,0,0,0,,Think it has anything to do with Terastal?
+Dialogue: 10,0:01:22.19,0:01:28.15,Main,Friede,0,0,0,,It may have some connection to the wild Pokémon \N being able to Terastallize outside of Paldea.
+Dialogue: 10,0:01:28.15,0:01:33.99,Main,Liko,0,0,0,,{\q2}“One legend states that gazing upon the light of \N the pond can allow you to meet with the dead,” it says.
+Dialogue: 10,0:01:33.99,0:01:36.03,Main,Roy,0,0,0,,Do they come out of the light?!
+Dialogue: 10,0:01:36.03,0:01:36.99,Main,Roy,0,0,0,,That’s awesome!
+Dialogue: 10,0:01:36.99,0:01:39.33,Main,Friede,0,0,0,,Where’s Ms. Briar?{Briar-sensei}
+Dialogue: 10,0:01:39.33,0:01:40.96,Main,Roy,0,0,0,,I don’t see her anywhere.
+Dialogue: 10,0:01:41.75,0:01:44.17,Main,Friede,0,0,0,,I’ll search the area with Cap.
+Dialogue: 10,0:01:44.17,0:01:46.21,Main,Friede,0,0,0,,You guys stay here and rest.
+Dialogue: 10,0:02:03.02,0:02:04.52,Main,Liko,0,0,0,,It’s so pretty!
+Dialogue: 10,0:02:04.52,0:02:07.27,Main,Roy,0,0,0,,It said we can meet with the dead...
+Dialogue: 10,0:02:07.27,0:02:08.44,Main,Roy,0,0,0,,Think that’s for real?
+Dialogue: 10,0:02:10.69,0:02:12.65,Main,Liko,0,0,0,,It’s really mysterious...
+Dialogue: 10,0:02:12.65,0:02:15.53,Main,Liko,0,0,0,,I think I can understand \N why they have that legend.
+Dialogue: 10,0:02:25.92,0:02:27.46,Main,Liko,0,0,0,,What’s that?!
 Comment: 0,0:02:35.93,0:02:35.93,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:06.02,0:04:06.02,Main,,0,0,0,,{Part B}
-Dialogue: 0,0:04:20.78,0:04:22.41,Main,Roy,0,0,0,,What Pokémon is that?
-Dialogue: 0,0:04:22.41,0:04:23.91,Main,Liko,0,0,0,,It— It’s mad...{game gender is female (also visible from the design) but I don't know if it makes much sense for them to know (at least before Dot's Index says anything) since they've seemingly never seen this kind of pokemon before}
-Dialogue: 0,0:04:26.25,0:04:30.12,Main,Goh,0,0,0,,Milokallos. Affection Pokémon. \N Water type.
-Dialogue: 0,0:04:30.12,0:04:32.54,Main,Goh,0,0,0,,It lives at the bottom of clear lakes.
-Dialogue: 0,0:04:32.54,0:04:36.38,Main,Goh,0,0,0,,In times of war, it shows itself \N to soothe people’s hearts.{Violet dex entry}{ENgame: It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts.}
-Dialogue: 0,0:04:36.38,0:04:38.17,Main,Dot,0,0,0,,Soothe people’s hearts?
-Dialogue: 0,0:04:38.17,0:04:39.97,Main,Dot,0,0,0,,She’s {\i1}nothing{\i0} like the Index says!
-Dialogue: 0,0:04:47.68,0:04:49.19,Main,Roy,0,0,0,,Terastal?!
-Dialogue: 0,0:04:49.19,0:04:50.69,Main,Dot,0,0,0,,A Ghost Terastal!
-Dialogue: 0,0:04:55.57,0:04:57.19,Main,Liko,0,0,0,,Yeah. Nyarote!
-Dialogue: 0,0:04:58.15,0:05:00.20,Main,Dot,0,0,0,,Welcamo...? I gotcha.
-Dialogue: 0,0:05:01.28,0:05:03.95,Main,Roy,0,0,0,,Yeah. We’ll just have to \N handle this ourselves!
-Dialogue: 0,0:05:03.95,0:05:07.95,Main,Dot,0,0,0,,Normal moves won’t work \N on a Ghost Terastal, so be careful!
-Dialogue: 0,0:05:07.95,0:05:08.96,Main,Liko and Roy,0,0,0,,Right.
-Dialogue: 0,0:05:08.96,0:05:11.50,Main,Liko,0,0,0,,Nyarote! Magical Leaf!
-Dialogue: 0,0:05:12.42,0:05:14.71,Main,Dot,0,0,0,,Welcamo! Water Gun!
-Dialogue: 0,0:05:15.42,0:05:18.13,Main,Roy,0,0,0,,Achigator! Flamethrower!
-Dialogue: 0,0:05:36.57,0:05:38.65,Main,Dot,0,0,0,,Man... She’s so fast.
-Dialogue: 0,0:05:38.65,0:05:40.57,Main,Roy,0,0,0,,We can’t hit her like this!
-Dialogue: 0,0:05:40.57,0:05:41.82,Main,Liko,0,0,0,,Nyarote!
-Dialogue: 0,0:05:42.36,0:05:45.49,Main,Liko,0,0,0,,Next time she surfaces, \N latch onto her with your bud!
-Dialogue: 0,0:05:46.08,0:05:49.08,Main,Roy,0,0,0,,That’s when we’ll attack, Achigator!
-Dialogue: 0,0:05:49.83,0:05:51.58,Main,Dot,0,0,0,,Welcamo, I’m counting on you!
-Dialogue: 0,0:05:56.88,0:05:57.63,Main,Liko,0,0,0,,All right!
-Dialogue: 0,0:05:57.63,0:05:59.88,Main,Roy,0,0,0,,Now! Flamethrower!
-Dialogue: 0,0:06:04.26,0:06:05.22,Main,Liko,0,0,0,,Nyarote!
-Dialogue: 0,0:06:09.97,0:06:11.06,Main,Liko,0,0,0,,Are you okay?!
-Dialogue: 0,0:06:14.15,0:06:16.56,Main,Roy,0,0,0,,Achigator! Flamethrower!
-Dialogue: 0,0:06:19.32,0:06:21.19,Main,Roy,0,0,0,,She got away again.
-Dialogue: 0,0:06:21.19,0:06:24.53,Main,Liko,0,0,0,,If we just knew when she was \N going to pop up, we could hit her...
-Dialogue: 0,0:06:24.53,0:06:26.41,Main,Dot,0,0,0,,What if we lure her out?
-Dialogue: 0,0:06:26.41,0:06:29.66,Main,Roy,0,0,0,,I know! Let’s do some yo-yo fishing, \N like back at the festival!
-Dialogue: 0,0:06:32.08,0:06:33.46,Main,Liko,0,0,0,,Yo-yo fishing?
-Dialogue: 0,0:06:33.46,0:06:36.08,Main,Roy,0,0,0,,We can use Nyarote’s bud!
-Dialogue: 0,0:06:36.08,0:06:39.84,Main,Dot,0,0,0,,All right, then let’s have Nyarote \N and Welcamo team up for that.
-Dialogue: 0,0:06:39.84,0:06:40.38,Main,Liko,0,0,0,,Right!
-Dialogue: 0,0:06:40.38,0:06:43.93,Main,Roy,0,0,0,,When she pops up, \N I’ll attack with Achigator!
-Dialogue: 0,0:06:43.93,0:06:45.43,Main,Roy,0,0,0,,Let’s get this plan rolling!{sakusen}
-Dialogue: 0,0:06:45.43,0:06:48.47,Main,Liko,0,0,0,,Nyarote! Grab Welcamo!
-Dialogue: 0,0:06:52.48,0:06:56.27,Main,Dot,0,0,0,,Welcamo! Taunt Milokallos \N with that dance you did earlier!
-Dialogue: 0,0:07:01.28,0:07:04.20,Main,Roy,0,0,0,,Achigator! \N When she comes up, hit her!
-Dialogue: 0,0:07:08.95,0:07:09.87,Main,Roy,0,0,0,,There she is!
-Dialogue: 0,0:07:09.87,0:07:11.24,Main,Liko,0,0,0,,Nyarote, pull!
-Dialogue: 0,0:07:14.29,0:07:15.29,Main,Dot,0,0,0,,Nice!
-Dialogue: 0,0:07:15.29,0:07:15.92,Main,Dot,0,0,0,,Roy!
-Dialogue: 0,0:07:15.92,0:07:16.54,Main,Roy,0,0,0,,Right!
-Dialogue: 0,0:07:17.92,0:07:20.29,Main,Roy,0,0,0,,Achigator! Charm Voice!
-Dialogue: 0,0:07:36.06,0:07:37.94,Main,Roy,0,0,0,,They’re both using Charm Voice!
-Dialogue: 0,0:07:53.91,0:07:55.87,Main,Roy,0,0,0,,Nice work, Achigator!
-Dialogue: 0,0:07:59.88,0:08:02.63,Main,Liko,0,0,0,,It’s like they’re communicating \N through song.
-Dialogue: 0,0:08:17.89,0:08:20.73,Main,Roy,0,0,0,,The plan went off \N without a hitch, Achigator!{sakusen}
-Dialogue: 0,0:08:20.73,0:08:22.98,Main,Briar,0,0,0,,Marvelous!
-Dialogue: 0,0:08:23.36,0:08:26.24,Main,Briar,0,0,0,,You three are positively glimmering!
-Dialogue: 0,0:08:26.86,0:08:28.40,Main,Friede,0,0,0,,What happened?
-Dialogue: 0,0:08:29.70,0:08:32.12,Main,Roy,0,0,0,,A Milokallos attacked us \N out of nowhere.
-Dialogue: 0,0:08:32.12,0:08:36.66,Main,Friede,0,0,0,,Milokallos are usually docile... \N You’re saying it attacked you unprovoked?
-Dialogue: 0,0:08:36.66,0:08:37.79,Main,Friede,0,0,0,,That’s strange...
-Dialogue: 0,0:08:37.79,0:08:42.38,Main,Briar,0,0,0,,The Shining Pond’s composition \N must have affected that Milokallos somehow.
-Dialogue: 0,0:08:42.38,0:08:43.50,Main,Liko,0,0,0,,You must be...
-Dialogue: 0,0:08:43.50,0:08:44.59,Main,Briar,0,0,0,,Briar.
-Dialogue: 0,0:08:44.59,0:08:47.76,Main,Briar,0,0,0,,Ms. Raifort told me all about you.{Raifort-sensei}
-Dialogue: 0,0:08:47.76,0:08:50.13,Main,Briar,0,0,0,,You’re the Rising Voltteccers’...
-Dialogue: 0,0:08:50.13,0:08:51.47,Main,Liko,0,0,0,,I’m Liko.
-Dialogue: 0,0:08:51.47,0:08:53.26,Main,Liko,0,0,0,,This is my partner, Nyarote.
-Dialogue: 0,0:08:53.93,0:08:55.10,Main,Roy,0,0,0,,I’m Roy!
-Dialogue: 0,0:08:55.10,0:08:56.68,Main,Roy,0,0,0,,This is Achigator.
-Dialogue: 0,0:08:57.64,0:08:58.64,Main,Dot,0,0,0,,Dot...
-Dialogue: 0,0:08:58.64,0:09:00.35,Main,Dot,0,0,0,,This is my Welcamo.
-Dialogue: 0,0:09:01.02,0:09:02.69,Main,Briar,0,0,0,,Nice to meet you all.
-Dialogue: 0,0:09:02.69,0:09:05.65,Main,Briar,0,0,0,,I hear there’s something \N you’d like to ask me about.
-Dialogue: 0,0:09:12.24,0:09:13.03,Main,Briar,0,0,0,,Ooh!
-Dialogue: 0,0:09:13.03,0:09:15.33,Main,Briar,0,0,0,,That’s Terapagos, is it not?!{pseudo-Dread Terapagos? "is it not?" is a vague linguistic construct, could be taken as "is it (the creature) not?" or "is it not (so)?" -ed}
-Dialogue: 0,0:09:15.33,0:09:16.87,Main,Briar,0,0,0,,Let me take a good, close look!
-Dialogue: 0,0:09:16.87,0:09:18.12,Main,Liko,0,0,0,,S-Sure...
-Dialogue: 0,0:09:21.62,0:09:23.13,Main,Briar,0,0,0,,Oh! Hold on!
-Dialogue: 0,0:09:23.13,0:09:25.84,Main,Briar,0,0,0,,Wait!
-Dialogue: 0,0:09:25.84,0:09:26.50,Main,Briar,0,0,0,,Please!
-Dialogue: 0,0:09:27.00,0:09:29.09,Main,Friede,0,0,0,,She’s quite an... {\i1}eccentric{\i0} teacher, huh?
-Dialogue: 0,0:09:34.22,0:09:35.39,Main,Briar,0,0,0,,Forgive me.
-Dialogue: 0,0:09:35.39,0:09:37.56,Main,Briar,0,0,0,,I didn’t expect you to \N have one with you.
-Dialogue: 0,0:09:37.56,0:09:40.31,Main,Briar,0,0,0,,Ms. Raifort didn’t mention \N that particular detail.{Raifort-sensei}
-Dialogue: 0,0:09:40.31,0:09:42.39,Main,Briar,0,0,0,,I couldn’t help but get excited.
-Dialogue: 0,0:09:42.39,0:09:44.48,Main,Friede,0,0,0,,So you’ve seen a Terapagos before?{You have [verbless] Terapagos previously, then...? [inquiring]}
-Dialogue: 0,0:09:44.48,0:09:48.07,Main,Briar,0,0,0,,Yes. An awakened specimen \N similar to this one, at that.
-Dialogue: 0,0:09:48.07,0:09:50.32,Main,Liko,0,0,0,,Really? That’s amazing!
-Dialogue: 0,0:09:51.03,0:09:55.95,Main,Briar,0,0,0,,I’m in the process of compiling \N my research up to this point into a book.
-Dialogue: 0,0:09:55.95,0:09:58.54,Main,Briar,0,0,0,,I aim to get it published, \N and it’s nearly ready to go.
-Dialogue: 0,0:09:59.12,0:10:04.13,Main,Briar,0,0,0,,{\q2}The crystals submerged in the Shining Pond \N have a similar composition to the ones in Paldea.
-Dialogue: 0,0:10:04.13,0:10:08.80,Main,Friede,0,0,0,,Then... Is that why wild Pokémon \N can Terastallize in the Kitakami hamlet?
-Dialogue: 0,0:10:08.80,0:10:13.55,Main,Briar,0,0,0,,Researching Terastal is essential \N to the study of Terapagos.
-Dialogue: 0,0:10:13.55,0:10:14.89,Main,Liko,0,0,0,,Um...
-Dialogue: 0,0:10:14.89,0:10:17.05,Main,Liko,0,0,0,,Please, tell us more!
-Dialogue: 0,0:10:17.05,0:10:18.39,Main,Briar,0,0,0,,Of course.
-Dialogue: 0,0:10:18.39,0:10:21.68,Main,Briar,0,0,0,,I’d like to hear more \N about your Terapagos, as well.
-Dialogue: 0,0:10:22.56,0:10:25.40,Main,Briar,0,0,0,,My tent is right nearby.
-Dialogue: 0,0:10:25.40,0:10:26.52,Main,Briar,0,0,0,,Let me show you the way.
-Dialogue: 0,0:10:37.16,0:10:39.16,Main,Briar,0,0,0,,You’re good kids, you know that?
-Dialogue: 0,0:10:39.16,0:10:41.08,Main,Roy,0,0,0,,Where’s your partner, miss?
-Dialogue: 0,0:10:42.08,0:10:46.92,Main,Briar,0,0,0,,I get so wrapped up in studying Pokémon \N that I’ve never quite found a partner of my own.
-Dialogue: 0,0:10:46.92,0:10:48.71,Main,Liko,0,0,0,,That so?
-Dialogue: 0,0:10:48.71,0:10:51.42,Main,Dot,0,0,0,,I think I get what you mean.
-Dialogue: 0,0:10:51.42,0:10:56.43,Main,Dot,0,0,0,,I also love Pokémon, and my head’s \N stuffed to the brim from studying them.
-Dialogue: 0,0:10:56.43,0:11:00.06,Main,Dot,0,0,0,,But I have someone \N to watch over me, and...
-Dialogue: 0,0:11:01.52,0:11:03.31,Main,Briar,0,0,0,,That would be Welcamo, right?
-Dialogue: 0,0:11:03.85,0:11:04.69,Main,Dot,0,0,0,,Yeah.
-Dialogue: 0,0:11:06.90,0:11:08.19,Main,Briar,0,0,0,,I see...
-Dialogue: 0,0:11:08.19,0:11:12.40,Main,Briar,0,0,0,,So, it was originally a pendant \N your grandmother gave you...{Dread Terapagos}
-Dialogue: 0,0:11:12.40,0:11:16.95,Main,Briar,0,0,0,,Terapagos really {\i1}do{\i0} take \N the form of jewels to hibernate, then.
-Dialogue: 0,0:11:16.95,0:11:19.07,Main,Briar,0,0,0,,How intriguing...
-Dialogue: 0,0:11:19.07,0:11:23.66,Main,Briar,0,0,0,,In addition, you’re attempting to \N trace an adventurer named Lucius,
-Dialogue: 0,0:11:23.66,0:11:26.96,Main,Briar,0,0,0,,who traveled with Pokémon \N called the Six Heroes.
-Dialogue: 0,0:11:26.96,0:11:31.84,Main,Liko,0,0,0,,Lucius was headed for \N a Pokémon paradise known as Rakua.
-Dialogue: 0,0:11:32.71,0:11:35.80,Main,Briar,0,0,0,,Rakua the Pokémon paradise, huh?
-Dialogue: 0,0:11:35.80,0:11:41.22,Main,Briar,0,0,0,,{\q2}Unfortunately, I don’t know anything about it \N beyond recalling the name from an old history book.
-Dialogue: 0,0:11:41.22,0:11:42.97,Main,Friede,0,0,0,,Not a thing?
-Dialogue: 0,0:11:42.97,0:11:43.97,Main,Briar,0,0,0,,I’m sorry.
-Dialogue: 0,0:11:43.97,0:11:49.86,Main,Briar,0,0,0,,Still... This adventurer, Lucius... \N He must have met that Terapagos somewhere.
-Dialogue: 0,0:11:49.86,0:11:51.40,Main,Briar,0,0,0,,Just like Heather did.
-Dialogue: 0,0:11:51.40,0:11:52.73,Main,Dot,0,0,0,,Heather? That’s...
-Dialogue: 0,0:11:52.73,0:11:57.20,Main,Briar,0,0,0,,Heather was the first researcher \N to record the name “Terapagos.”
-Dialogue: 0,0:11:57.86,0:11:59.74,Main,Briar,0,0,0,,He’s also an ancestor of mine.
-Dialogue: 0,0:11:59.74,0:12:02.83,Main,Liko,0,0,0,,Huh?! You’re descended from \N Heather-san, miss?
-Dialogue: 0,0:12:02.83,0:12:03.74,Main,Briar,0,0,0,,Yes.
-Dialogue: 0,0:12:03.74,0:12:08.33,Main,Briar,0,0,0,,It’s my dream to solve \N the mysteries of Terapagos...{partial echoing at 0:13:52.48}
-Dialogue: 0,0:12:08.33,0:12:11.00,Main,Briar,0,0,0,,...and prove that Heather was right!{echo 0:13:57.40}
-Dialogue: 0,0:12:11.00,0:12:12.71,Main,Roy,0,0,0,,Ooh!
-Dialogue: 0,0:12:12.71,0:12:13.67,Main,Briar,0,0,0,,All right!
-Dialogue: 0,0:12:13.67,0:12:17.47,Main,Briar,0,0,0,,Let me show you \N a little treasure of mine.
+Dialogue: 10,0:04:20.78,0:04:22.41,Main,Roy,0,0,0,,What Pokémon is that?
+Dialogue: 10,0:04:22.41,0:04:23.91,Main,Liko,0,0,0,,It— It’s mad...{game gender is female (also visible from the design) but I don't know if it makes much sense for them to know (at least before Dot's Index says anything) since they've seemingly never seen this kind of pokemon before}
+Dialogue: 10,0:04:26.25,0:04:30.12,Main,Goh,0,0,0,,Milokallos. Affection Pokémon. \N Water type.
+Dialogue: 10,0:04:30.12,0:04:32.54,Main,Goh,0,0,0,,It lives at the bottom of clear lakes.
+Dialogue: 10,0:04:32.54,0:04:36.38,Main,Goh,0,0,0,,In times of war, it shows itself \N to soothe people’s hearts.{Violet dex entry}{ENgame: It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts.}
+Dialogue: 10,0:04:36.38,0:04:38.17,Main,Dot,0,0,0,,Soothe people’s hearts?
+Dialogue: 10,0:04:38.17,0:04:39.97,Main,Dot,0,0,0,,She’s {\i1}nothing{\i0} like the Index says!
+Dialogue: 10,0:04:47.68,0:04:49.19,Main,Roy,0,0,0,,Terastal?!
+Dialogue: 10,0:04:49.19,0:04:50.69,Main,Dot,0,0,0,,A Ghost Terastal!
+Dialogue: 10,0:04:55.57,0:04:57.19,Main,Liko,0,0,0,,Yeah. Nyarote!
+Dialogue: 10,0:04:58.15,0:05:00.20,Main,Dot,0,0,0,,Welcamo...? I gotcha.
+Dialogue: 10,0:05:01.28,0:05:03.95,Main,Roy,0,0,0,,Yeah. We’ll just have to \N handle this ourselves!
+Dialogue: 10,0:05:03.95,0:05:07.95,Main,Dot,0,0,0,,Normal moves won’t work \N on a Ghost Terastal, so be careful!
+Dialogue: 10,0:05:07.95,0:05:08.96,Main,Liko and Roy,0,0,0,,Right.
+Dialogue: 10,0:05:08.96,0:05:11.50,Main,Liko,0,0,0,,Nyarote! Magical Leaf!
+Dialogue: 10,0:05:12.42,0:05:14.71,Main,Dot,0,0,0,,Welcamo! Water Gun!
+Dialogue: 10,0:05:15.42,0:05:18.13,Main,Roy,0,0,0,,Achigator! Flamethrower!
+Dialogue: 10,0:05:36.57,0:05:38.65,Main,Dot,0,0,0,,Man... She’s so fast.
+Dialogue: 10,0:05:38.65,0:05:40.57,Main,Roy,0,0,0,,We can’t hit her like this!
+Dialogue: 10,0:05:40.57,0:05:41.82,Main,Liko,0,0,0,,Nyarote!
+Dialogue: 10,0:05:42.36,0:05:45.49,Main,Liko,0,0,0,,Next time she surfaces, \N latch onto her with your bud!
+Dialogue: 10,0:05:46.08,0:05:49.08,Main,Roy,0,0,0,,That’s when we’ll attack, Achigator!
+Dialogue: 10,0:05:49.83,0:05:51.58,Main,Dot,0,0,0,,Welcamo, I’m counting on you!
+Dialogue: 10,0:05:56.88,0:05:57.63,Main,Liko,0,0,0,,All right!
+Dialogue: 10,0:05:57.63,0:05:59.88,Main,Roy,0,0,0,,Now! Flamethrower!
+Dialogue: 10,0:06:04.26,0:06:05.22,Main,Liko,0,0,0,,Nyarote!
+Dialogue: 10,0:06:09.97,0:06:11.06,Main,Liko,0,0,0,,Are you okay?!
+Dialogue: 10,0:06:14.15,0:06:16.56,Main,Roy,0,0,0,,Achigator! Flamethrower!
+Dialogue: 10,0:06:19.32,0:06:21.19,Main,Roy,0,0,0,,She got away again.
+Dialogue: 10,0:06:21.19,0:06:24.53,Main,Liko,0,0,0,,If we just knew when she was \N going to pop up, we could hit her...
+Dialogue: 10,0:06:24.53,0:06:26.41,Main,Dot,0,0,0,,What if we lure her out?
+Dialogue: 10,0:06:26.41,0:06:29.66,Main,Roy,0,0,0,,I know! Let’s do some yo-yo fishing, \N like back at the festival!
+Dialogue: 10,0:06:32.08,0:06:33.46,Main,Liko,0,0,0,,Yo-yo fishing?
+Dialogue: 10,0:06:33.46,0:06:36.08,Main,Roy,0,0,0,,We can use Nyarote’s bud!
+Dialogue: 10,0:06:36.08,0:06:39.84,Main,Dot,0,0,0,,All right, then let’s have Nyarote \N and Welcamo team up for that.
+Dialogue: 10,0:06:39.84,0:06:40.38,Main,Liko,0,0,0,,Right!
+Dialogue: 10,0:06:40.38,0:06:43.93,Main,Roy,0,0,0,,When she pops up, \N I’ll attack with Achigator!
+Dialogue: 10,0:06:43.93,0:06:45.43,Main,Roy,0,0,0,,Let’s get this plan rolling!{sakusen}
+Dialogue: 10,0:06:45.43,0:06:48.47,Main,Liko,0,0,0,,Nyarote! Grab Welcamo!
+Dialogue: 10,0:06:52.48,0:06:56.27,Main,Dot,0,0,0,,Welcamo! Taunt Milokallos \N with that dance you did earlier!
+Dialogue: 10,0:07:01.28,0:07:04.20,Main,Roy,0,0,0,,Achigator! \N When she comes up, hit her!
+Dialogue: 10,0:07:08.95,0:07:09.87,Main,Roy,0,0,0,,There she is!
+Dialogue: 10,0:07:09.87,0:07:11.24,Main,Liko,0,0,0,,Nyarote, pull!
+Dialogue: 10,0:07:14.29,0:07:15.29,Main,Dot,0,0,0,,Nice!
+Dialogue: 10,0:07:15.29,0:07:15.92,Main,Dot,0,0,0,,Roy!
+Dialogue: 10,0:07:15.92,0:07:16.54,Main,Roy,0,0,0,,Right!
+Dialogue: 10,0:07:17.92,0:07:20.29,Main,Roy,0,0,0,,Achigator! Charm Voice!
+Dialogue: 10,0:07:36.06,0:07:37.94,Main,Roy,0,0,0,,They’re both using Charm Voice!
+Dialogue: 10,0:07:53.91,0:07:55.87,Main,Roy,0,0,0,,Nice work, Achigator!
+Dialogue: 10,0:07:59.88,0:08:02.63,Main,Liko,0,0,0,,It’s like they’re communicating \N through song.
+Dialogue: 10,0:08:17.89,0:08:20.73,Main,Roy,0,0,0,,The plan went off \N without a hitch, Achigator!{sakusen}
+Dialogue: 10,0:08:20.73,0:08:22.98,Main,Briar,0,0,0,,Marvelous!
+Dialogue: 10,0:08:23.36,0:08:26.24,Main,Briar,0,0,0,,You three are positively glimmering!
+Dialogue: 10,0:08:26.86,0:08:28.40,Main,Friede,0,0,0,,What happened?
+Dialogue: 10,0:08:29.70,0:08:32.12,Main,Roy,0,0,0,,A Milokallos attacked us \N out of nowhere.
+Dialogue: 10,0:08:32.12,0:08:36.66,Main,Friede,0,0,0,,Milokallos are usually docile... \N You’re saying it attacked you unprovoked?
+Dialogue: 10,0:08:36.66,0:08:37.79,Main,Friede,0,0,0,,That’s strange...
+Dialogue: 10,0:08:37.79,0:08:42.38,Main,Briar,0,0,0,,The Shining Pond’s composition \N must have affected that Milokallos somehow.
+Dialogue: 10,0:08:42.38,0:08:43.50,Main,Liko,0,0,0,,You must be...
+Dialogue: 10,0:08:43.50,0:08:44.59,Main,Briar,0,0,0,,Briar.
+Dialogue: 10,0:08:44.59,0:08:47.76,Main,Briar,0,0,0,,Ms. Raifort told me all about you.{Raifort-sensei}
+Dialogue: 10,0:08:47.76,0:08:50.13,Main,Briar,0,0,0,,You’re the Rising Voltteccers’...
+Dialogue: 10,0:08:50.13,0:08:51.47,Main,Liko,0,0,0,,I’m Liko.
+Dialogue: 10,0:08:51.47,0:08:53.26,Main,Liko,0,0,0,,This is my partner, Nyarote.
+Dialogue: 10,0:08:53.93,0:08:55.10,Main,Roy,0,0,0,,I’m Roy!
+Dialogue: 10,0:08:55.10,0:08:56.68,Main,Roy,0,0,0,,This is Achigator.
+Dialogue: 10,0:08:57.64,0:08:58.64,Main,Dot,0,0,0,,Dot...
+Dialogue: 10,0:08:58.64,0:09:00.35,Main,Dot,0,0,0,,This is my Welcamo.
+Dialogue: 10,0:09:01.02,0:09:02.69,Main,Briar,0,0,0,,Nice to meet you all.
+Dialogue: 10,0:09:02.69,0:09:05.65,Main,Briar,0,0,0,,I hear there’s something \N you’d like to ask me about.
+Dialogue: 10,0:09:12.24,0:09:13.03,Main,Briar,0,0,0,,Ooh!
+Dialogue: 10,0:09:13.03,0:09:15.33,Main,Briar,0,0,0,,That’s Terapagos, is it not?!{pseudo-Dread Terapagos? "is it not?" is a vague linguistic construct, could be taken as "is it (the creature) not?" or "is it not (so)?" -ed}
+Dialogue: 10,0:09:15.33,0:09:16.87,Main,Briar,0,0,0,,Let me take a good, close look!
+Dialogue: 10,0:09:16.87,0:09:18.12,Main,Liko,0,0,0,,S-Sure...
+Dialogue: 10,0:09:21.62,0:09:23.13,Main,Briar,0,0,0,,Oh! Hold on!
+Dialogue: 10,0:09:23.13,0:09:25.84,Main,Briar,0,0,0,,Wait!
+Dialogue: 10,0:09:25.84,0:09:26.50,Main,Briar,0,0,0,,Please!
+Dialogue: 10,0:09:27.00,0:09:29.09,Main,Friede,0,0,0,,She’s quite an... {\i1}eccentric{\i0} teacher, huh?
+Dialogue: 10,0:09:34.22,0:09:35.39,Main,Briar,0,0,0,,Forgive me.
+Dialogue: 10,0:09:35.39,0:09:37.56,Main,Briar,0,0,0,,I didn’t expect you to \N have one with you.
+Dialogue: 10,0:09:37.56,0:09:40.31,Main,Briar,0,0,0,,Ms. Raifort didn’t mention \N that particular detail.{Raifort-sensei}
+Dialogue: 10,0:09:40.31,0:09:42.39,Main,Briar,0,0,0,,I couldn’t help but get excited.
+Dialogue: 10,0:09:42.39,0:09:44.48,Main,Friede,0,0,0,,So you’ve seen a Terapagos before?{You have [verbless] Terapagos previously, then...? [inquiring]}
+Dialogue: 10,0:09:44.48,0:09:48.07,Main,Briar,0,0,0,,Yes. An awakened specimen \N similar to this one, at that.
+Dialogue: 10,0:09:48.07,0:09:50.32,Main,Liko,0,0,0,,Really? That’s amazing!
+Dialogue: 10,0:09:51.03,0:09:55.95,Main,Briar,0,0,0,,I’m in the process of compiling \N my research up to this point into a book.
+Dialogue: 10,0:09:55.95,0:09:58.54,Main,Briar,0,0,0,,I aim to get it published, \N and it’s nearly ready to go.
+Dialogue: 10,0:09:59.12,0:10:04.13,Main,Briar,0,0,0,,{\q2}The crystals submerged in the Shining Pond \N have a similar composition to the ones in Paldea.
+Dialogue: 10,0:10:04.13,0:10:08.80,Main,Friede,0,0,0,,Then... Is that why wild Pokémon \N can Terastallize in the Kitakami hamlet?
+Dialogue: 10,0:10:08.80,0:10:13.55,Main,Briar,0,0,0,,Researching Terastal is essential \N to the study of Terapagos.
+Dialogue: 10,0:10:13.55,0:10:14.89,Main,Liko,0,0,0,,Um...
+Dialogue: 10,0:10:14.89,0:10:17.05,Main,Liko,0,0,0,,Please, tell us more!
+Dialogue: 10,0:10:17.05,0:10:18.39,Main,Briar,0,0,0,,Of course.
+Dialogue: 10,0:10:18.39,0:10:21.68,Main,Briar,0,0,0,,I’d like to hear more \N about your Terapagos, as well.
+Dialogue: 10,0:10:22.56,0:10:25.40,Main,Briar,0,0,0,,My tent is right nearby.
+Dialogue: 10,0:10:25.40,0:10:26.52,Main,Briar,0,0,0,,Let me show you the way.
+Dialogue: 10,0:10:37.16,0:10:39.16,Main,Briar,0,0,0,,You’re good kids, you know that?
+Dialogue: 10,0:10:39.16,0:10:41.08,Main,Roy,0,0,0,,Where’s your partner, miss?
+Dialogue: 10,0:10:42.08,0:10:46.92,Main,Briar,0,0,0,,I get so wrapped up in studying Pokémon \N that I’ve never quite found a partner of my own.
+Dialogue: 10,0:10:46.92,0:10:48.71,Main,Liko,0,0,0,,That so?
+Dialogue: 10,0:10:48.71,0:10:51.42,Main,Dot,0,0,0,,I think I get what you mean.
+Dialogue: 10,0:10:51.42,0:10:56.43,Main,Dot,0,0,0,,I also love Pokémon, and my head’s \N stuffed to the brim from studying them.
+Dialogue: 10,0:10:56.43,0:11:00.06,Main,Dot,0,0,0,,But I have someone \N to watch over me, and...
+Dialogue: 10,0:11:01.52,0:11:03.31,Main,Briar,0,0,0,,That would be Welcamo, right?
+Dialogue: 10,0:11:03.85,0:11:04.69,Main,Dot,0,0,0,,Yeah.
+Dialogue: 10,0:11:06.90,0:11:08.19,Main,Briar,0,0,0,,I see...
+Dialogue: 10,0:11:08.19,0:11:12.40,Main,Briar,0,0,0,,So, it was originally a pendant \N your grandmother gave you...{Dread Terapagos}
+Dialogue: 10,0:11:12.40,0:11:16.95,Main,Briar,0,0,0,,Terapagos really {\i1}do{\i0} take \N the form of jewels to hibernate, then.
+Dialogue: 10,0:11:16.95,0:11:19.07,Main,Briar,0,0,0,,How intriguing...
+Dialogue: 10,0:11:19.07,0:11:23.66,Main,Briar,0,0,0,,In addition, you’re attempting to \N trace an adventurer named Lucius,
+Dialogue: 10,0:11:23.66,0:11:26.96,Main,Briar,0,0,0,,who traveled with Pokémon \N called the Six Heroes.
+Dialogue: 10,0:11:26.96,0:11:31.84,Main,Liko,0,0,0,,Lucius was headed for \N a Pokémon paradise known as Rakua.
+Dialogue: 10,0:11:32.71,0:11:35.80,Main,Briar,0,0,0,,Rakua the Pokémon paradise, huh?
+Dialogue: 10,0:11:35.80,0:11:41.22,Main,Briar,0,0,0,,{\q2}Unfortunately, I don’t know anything about it \N beyond recalling the name from an old history book.
+Dialogue: 10,0:11:41.22,0:11:42.97,Main,Friede,0,0,0,,Not a thing?
+Dialogue: 10,0:11:42.97,0:11:43.97,Main,Briar,0,0,0,,I’m sorry.
+Dialogue: 10,0:11:43.97,0:11:49.86,Main,Briar,0,0,0,,Still... This adventurer, Lucius... \N He must have met that Terapagos somewhere.
+Dialogue: 10,0:11:49.86,0:11:51.40,Main,Briar,0,0,0,,Just like Heather did.
+Dialogue: 10,0:11:51.40,0:11:52.73,Main,Dot,0,0,0,,Heather? That’s...
+Dialogue: 10,0:11:52.73,0:11:57.20,Main,Briar,0,0,0,,Heather was the first researcher \N to record the name “Terapagos.”
+Dialogue: 10,0:11:57.86,0:11:59.74,Main,Briar,0,0,0,,He’s also an ancestor of mine.
+Dialogue: 10,0:11:59.74,0:12:02.83,Main,Liko,0,0,0,,Huh?! You’re descended from \N Heather-san, miss?
+Dialogue: 10,0:12:02.83,0:12:03.74,Main,Briar,0,0,0,,Yes.
+Dialogue: 10,0:12:03.74,0:12:08.33,Main,Briar,0,0,0,,It’s my dream to solve \N the mysteries of Terapagos...{partial echoing at 0:13:52.48}
+Dialogue: 10,0:12:08.33,0:12:11.00,Main,Briar,0,0,0,,...and prove that Heather was right!{echo 0:13:57.40}
+Dialogue: 10,0:12:11.00,0:12:12.71,Main,Roy,0,0,0,,Ooh!
+Dialogue: 10,0:12:12.71,0:12:13.67,Main,Briar,0,0,0,,All right!
+Dialogue: 10,0:12:13.67,0:12:17.47,Main,Briar,0,0,0,,Let me show you \N a little treasure of mine.
 Comment: 0,0:12:22.47,0:12:22.47,Main,,0,0,0,,{Part C}
-Dialogue: 0,0:12:28.06,0:12:32.06,Main,Briar,0,0,0,,Heather’s own writing: \N The Scarlet Book!
-Dialogue: 0,0:12:32.06,0:12:36.57,Main,Dot,0,0,0,,That book... It’s the same one I found \N in the Orange Academy library!
-Dialogue: 0,0:12:36.57,0:12:39.07,Main,Briar,0,0,0,,This one is the original tome.
-Dialogue: 0,0:12:39.99,0:12:43.83,Main,Briar,0,0,0,,Look here! The pages that are \N illegible in the published copies...
-Dialogue: 0,0:12:43.83,0:12:45.45,Main,Briar,0,0,0,,...are fully intact!
-Dialogue: 0,0:12:45.45,0:12:48.08,Main,Roy,0,0,0,,You’re right! \N You can read all of it!
-Dialogue: 0,0:12:49.46,0:12:50.71,Main,Dot,0,0,0,,“A Disk Pokémon”?
-Dialogue: 0,0:12:50.71,0:12:55.05,Main,Dot,0,0,0,,Yes. It details the first time \N he encountered Terapagos.
-Dialogue: 0,0:12:57.59,0:12:59.76,Main,Liko,0,0,0,,So that’s Heather-san...
-Dialogue: 0,0:13:00.26,0:13:04.64,Main,Briar,0,0,0,,Heather was a novelist, \N as well as a natural history researcher.{alt: Heather was a novelist, \N as well as a scholar of natural history.}
-Dialogue: 0,0:13:05.18,0:13:08.77,Main,Briar,0,0,0,,He was selected to participate \N in the Area Zero Expedition,
-Dialogue: 0,0:13:08.77,0:13:11.77,Main,Briar,0,0,0,,which delved into \N the Paldea Region’s Great Crater.
-Dialogue: 0,0:13:12.77,0:13:19.03,Main,Briar,0,0,0,,And after a prolonged journey, \N they eventually reached its depths.
-Dialogue: 0,0:13:19.78,0:13:23.37,Main,Briar,0,0,0,,There they found a cave \N full of shining jewels.
-Dialogue: 0,0:13:24.49,0:13:30.21,Main,Briar,0,0,0,,He met a strange Pokémon, \N which he would later dub “Terapagos.”
-Dialogue: 0,0:13:30.83,0:13:35.46,Main,Briar,0,0,0,,He encountered numerous other \N mysterious Pokémon in Area Zero, as well.
-Dialogue: 0,0:13:36.46,0:13:40.26,Main,Briar,0,0,0,,That space was filled with \N Terastal waves.
-Dialogue: 0,0:13:40.26,0:13:44.93,Main,Briar,0,0,0,,Perhaps Heather thought \N those waves guided them there.
-Dialogue: 0,0:13:45.35,0:13:51.94,Main,Briar,0,0,0,,But Heather’s book was regarded as a mere \N occult story, and hardly anyone believes it.
-Dialogue: 0,0:13:52.48,0:13:57.40,Main,Briar,0,0,0,,That’s why I intend to solve \N the mysteries of Terapagos...{partial echoing 0:12:03.74}
-Dialogue: 0,0:13:57.40,0:13:59.94,Main,Briar,0,0,0,,...and prove that Heather was right!{echo 0:12:08.33}
-Dialogue: 0,0:14:00.53,0:14:04.28,Main,Liko,0,0,0,,It’s the same for me. \N Lucius, who I learned about from my grandma...
-Dialogue: 0,0:14:04.28,0:14:06.66,Main,Liko,0,0,0,,And Rakua, the place he sought...
-Dialogue: 0,0:14:06.66,0:14:08.66,Main,Liko,0,0,0,,I’m traveling because \N I want to uncover them.
-Dialogue: 0,0:14:08.66,0:14:10.66,Main,Briar,0,0,0,,We’re kindred spirits.
-Dialogue: 0,0:14:10.66,0:14:12.16,Main,Liko,0,0,0,,Um...
-Dialogue: 0,0:14:12.16,0:14:14.92,Main,Liko,0,0,0,,This is her adventure log.
-Dialogue: 0,0:14:17.46,0:14:22.51,Main,Briar,0,0,0,,A log of your grandmother’s investigations \N into Lucius and the Six Heroes, huh?
-Dialogue: 0,0:14:22.51,0:14:23.80,Main,Briar,0,0,0,,An impressive effort...
-Dialogue: 0,0:14:23.80,0:14:28.93,Main,Liko,0,0,0,,{\q2}These are Lucius’s memoirs, \N which she found in her attic along with the pendant.
-Dialogue: 0,0:14:28.93,0:14:29.56,Main,Briar,0,0,0,,Mm.
-Dialogue: 0,0:14:29.56,0:14:33.98,Main,Friede,0,0,0,,I bet Lucius must’ve read \N that Scarlet Book somewhere, too.
-Dialogue: 0,0:14:33.98,0:14:38.73,Main,Dot,0,0,0,,And that’s why he used the name \N “Terapagos” in his memoirs.
-Dialogue: 0,0:14:39.53,0:14:43.53,Main,Briar,0,0,0,,Indeed, this is a Terastal Forme Terapagos.
-Dialogue: 0,0:14:46.57,0:14:49.03,Main,Liko,0,0,0,,So that’s called the Terastal Forme, then...
-Dialogue: 0,0:14:49.03,0:14:51.08,Main,Roy,0,0,0,,We’ve only seen it for a short while.
-Dialogue: 0,0:14:51.08,0:14:58.13,Main,Briar,0,0,0,,{\q2}Changing from Normal Forme to Terastal Forme \N requires a special impetus or power of some kind...
-Dialogue: 0,0:14:58.13,0:14:59.46,Main,Briar,0,0,0,,Or so I theorize.
-Dialogue: 0,0:14:59.46,0:15:02.17,Main,Roy,0,0,0,,Special... Of course!
-Dialogue: 0,0:15:02.17,0:15:04.97,Main,Roy,0,0,0,,It was when we met \N the black Rekkuuza from the Six Heroes!
-Dialogue: 0,0:15:04.97,0:15:06.72,Main,Briar,0,0,0,,Interesting...
-Dialogue: 0,0:15:06.72,0:15:09.39,Main,Briar,0,0,0,,Maybe the Six Heroes \N and that Terapagos...
-Dialogue: 0,0:15:09.39,0:15:13.98,Main,Briar,0,0,0,,...have some special connection \N that I’ve never observed.
-Dialogue: 0,0:15:14.81,0:15:16.02,Main,Liko,0,0,0,,And back then...
-Dialogue: 0,0:15:19.52,0:15:20.90,Main,Friede,0,0,0,,By the way, miss...
-Dialogue: 0,0:15:20.90,0:15:23.53,Main,Friede,0,0,0,,Have you heard of a substance \N called Rakurium?
-Dialogue: 0,0:15:23.53,0:15:24.70,Main,Briar,0,0,0,,Rakurium?
-Dialogue: 0,0:15:24.70,0:15:28.99,Main,Friede,0,0,0,,It’s a substance that we believe \N can have unusual effects on Pokémon.
-Dialogue: 0,0:15:28.99,0:15:30.83,Main,Briar,0,0,0,,Such a thing exists?
-Dialogue: 0,0:15:30.83,0:15:32.45,Main,Briar,0,0,0,,How intriguing...
-Dialogue: 0,0:15:32.45,0:15:33.70,Main,Briar,0,0,0,,But I’m afraid I haven’t.
-Dialogue: 0,0:15:33.70,0:15:34.62,Main,Friede,0,0,0,,That so?
-Dialogue: 0,0:15:34.62,0:15:38.21,Main,Briar,0,0,0,,Goodness me, there are so many things \N I’ve never even {\i1}heard{\i0} of!
-Dialogue: 0,0:15:38.21,0:15:40.17,Main,Liko,0,0,0,,Miss, are you okay?
-Dialogue: 0,0:15:40.17,0:15:41.63,Main,Briar,0,0,0,,Oh, I am {\i1}glimmering!{\i0}
-Dialogue: 0,0:15:41.63,0:15:47.01,Main,Briar,0,0,0,,{\w3}By speaking with you, I’ve learned more about \N Terapagos’s mysteries, and just how deep they run!
-Dialogue: 0,0:15:47.01,0:15:49.34,Main,Briar,0,0,0,,What a marvelous day this is!
-Dialogue: 0,0:15:51.81,0:15:54.22,Main,Liko,0,0,0,,Back to the Shining Pond, you mean?
-Dialogue: 0,0:15:54.22,0:15:55.43,Main,Briar,0,0,0,,Yes.
-Dialogue: 0,0:15:55.43,0:15:59.65,Main,Briar,0,0,0,,Your Terapagos must have memories \N of being with Lucius.
-Dialogue: 0,0:15:59.65,0:16:03.69,Main,Friede,0,0,0,,And those memories \N might be able to show us something.
-Dialogue: 0,0:16:03.69,0:16:04.74,Main,Briar,0,0,0,,Yes.
-Dialogue: 0,0:16:04.74,0:16:08.41,Main,Briar,0,0,0,,Besides, the Shining Pond is even more \N mysterious and beautiful at night.
-Dialogue: 0,0:16:08.41,0:16:11.37,Main,Roy,0,0,0,,Let’s go find out if the legend is true!
-Dialogue: 0,0:16:15.62,0:16:19.88,Main,Liko,0,0,0,,A place where people can meet with \N the dead they desire to see again...
-Dialogue: 0,0:16:20.33,0:16:22.63,Main,Liko,0,0,0,,That’s what the Shining Pond is.
-Dialogue: 0,0:16:23.38,0:16:26.72,Main,Liko,0,0,0,,So then... \N Maybe we can meet with Lucius.
-Dialogue: 0,0:16:30.93,0:16:34.31,Main,Liko,0,0,0,,We prayed to meet with Lucius...
-Dialogue: 0,0:16:34.72,0:16:37.73,Main,Liko,0,0,0,,Though nothing happened.
-Dialogue: 0,0:16:39.77,0:16:45.07,Main,Liko,0,0,0,,But gazing upon Terapagos and \N the Shining Pond, glimmering in the night...
-Dialogue: 0,0:16:45.07,0:16:48.24,Main,Liko,0,0,0,,It reminded me \N once again of my desire...
-Dialogue: 0,0:16:48.24,0:16:52.49,Main,Liko,0,0,0,,...to find the Six Heroes and discover \N the way to Rakua, which Lucius himself reached.
-Dialogue: 0,0:17:01.00,0:17:06.30,Main,Liko,0,0,0,,The next morning, we bid Ms. Briar farewell, \N promising we’d meet again.
-Dialogue: 0,0:17:06.30,0:17:09.26,Main,Liko,0,0,0,,As for her, she stayed behind \N to continue her research.
-Dialogue: 0,0:17:09.26,0:17:13.93,Main,Briar,0,0,0,,I’ll contact you if I learn anything \N from my research at Area Zero.
-Dialogue: 0,0:17:13.93,0:17:15.31,Main,Briar,0,0,0,,Well then, ‘til next time.
-Dialogue: 0,0:17:23.61,0:17:25.65,Main,Molly,0,0,0,,So no leads, eh?
-Dialogue: 0,0:17:25.65,0:17:28.90,Main,Liko,0,0,0,,But still, Ms. Briar and Heather-san...{Briar-sensei}
-Dialogue: 0,0:17:28.90,0:17:33.03,Main,Liko,0,0,0,,It was a thrill to hear from others \N pursuing the mysteries of Pokémon.
-Dialogue: 0,0:17:33.03,0:17:36.66,Main,Liko,0,0,0,,I was happy to find more people \N like us and my grandma.
-Dialogue: 0,0:17:37.20,0:17:41.04,Main,Orio,0,0,0,,So, what’s the next move \N for the Rising Voltteccers?
-Dialogue: 0,0:17:41.04,0:17:45.04,Main,Friede,0,0,0,,Naturally, we’ll be tracking down \N the remaining three of the Six Heroes.
-Dialogue: 0,0:17:45.04,0:17:48.13,Main,Orio,0,0,0,,Easy enough to say, \N but where do we start?
-Dialogue: 0,0:17:48.13,0:17:51.05,Main,Friede,0,0,0,,Basagiri, Entei, and Rekkuuza, huh...?
-Dialogue: 0,0:17:51.05,0:17:52.88,Main,Friede,0,0,0,,They’ll all be tough.
-Dialogue: 0,0:17:52.88,0:17:55.18,Main,Molly,0,0,0,,Hmm... Long road ahead of us.
-Dialogue: 0,0:17:55.55,0:17:57.26,Main,Murdock,0,0,0,,By the way, where’s Dot?
-Dialogue: 0,0:17:57.26,0:18:03.44,Main,Liko,0,0,0,,{\q2}When she headed out, she said she was going to get \N footage of Suiryoku Town’s signs and stuff for her videos.
-Dialogue: 0,0:18:03.85,0:18:05.19,Main,Dot,0,0,0,,Nice!
-Dialogue: 0,0:18:05.19,0:18:06.94,Main,Dot,0,0,0,,Huh? Welcamo?
-Dialogue: 0,0:18:06.94,0:18:08.40,Main,Dot,0,0,0,,Where’d you go?
-Dialogue: 0,0:18:13.45,0:18:15.41,Main,Dot,0,0,0,,That’s a Guardie...
-Dialogue: 0,0:18:15.41,0:18:18.37,Main,Dot,0,0,0,,But its fur is kinda weird...
-Dialogue: 0,0:18:19.79,0:18:21.50,Main,Dot,0,0,0,,Huh?! Hisui?!
-Dialogue: 0,0:18:21.50,0:18:24.29,Main,Dot,0,0,0,,That’s the old name \N for the Sinnoh Region, right?!
-Dialogue: 0,0:18:30.30,0:18:31.80,Main,Sazare,0,0,0,,Schoolkid...
-Dialogue: 0,0:18:31.80,0:18:34.72,Main,Sazare,0,0,0,,My Guardie catch your eye?
-Dialogue: 0,0:18:35.80,0:18:38.43,Main,Dot,0,0,0,,No, uh, it’s a Hisuian...
-Dialogue: 0,0:18:38.43,0:18:40.22,Main,Dot,0,0,0,,Th-That’s impossible, err, I mean...
-Dialogue: 0,0:18:40.22,0:18:44.44,Main,Dot,0,0,0,,{\q2}S-Since that’s impossible, maybe you can tell me \N about something that could actually {\i1}be{\i0} possible!{messily stumbling over her words}
-Dialogue: 0,0:18:44.44,0:18:47.81,Main,Sazare,0,0,0,,Perfect attitude! \N Not afraid to be nosy!
-Dialogue: 0,0:18:47.81,0:18:52.74,Main,Sazare,0,0,0,,{\q2}You’re absolutely right. I come from the ancient land \N once known as Hisui—the Sinnoh Region.
-Dialogue: 0,0:18:52.74,0:18:53.70,Main,Dot,0,0,0,,Huh?! Then...
-Dialogue: 0,0:18:53.70,0:18:58.20,Main,Dot,0,0,0,,Um... Do you happen to \N know anything about Basagiri?
-Dialogue: 0,0:18:58.58,0:18:59.95,Main,Sazare,0,0,0,,Basagiri...
-Dialogue: 0,0:18:59.95,0:19:01.87,Main,Dot,0,0,0,,You know something?
-Dialogue: 0,0:19:01.87,0:19:05.08,Main,Sazare,0,0,0,,I could tell you... \N But I have some conditions.
-Dialogue: 0,0:19:05.08,0:19:06.33,Main,Dot,0,0,0,,Conditions?
-Dialogue: 0,0:19:06.33,0:19:09.88,Main,Sazare,0,0,0,,Sorry to drop this on you, \N but can I snap a quick photo?
-Dialogue: 0,0:19:09.88,0:19:12.01,Main,Dot,0,0,0,,H-Huh? Th-That’s...
-Dialogue: 0,0:19:12.01,0:19:15.05,Main,Dot,0,0,0,,Uh... I’m used to recording videos,
-Dialogue: 0,0:19:15.05,0:19:16.47,Main,Dot,0,0,0,,but having my photo taken...
-Dialogue: 0,0:19:16.80,0:19:18.60,Main,Sazare,0,0,0,,That’s a good attitude!
-Dialogue: 0,0:19:18.60,0:19:21.72,Main,Sazare,0,0,0,,Can’t just blindly trust \N strangers, after all.
-Dialogue: 0,0:19:21.72,0:19:23.60,Main,Sazare,0,0,0,,Okay. That’s that, then.
-Dialogue: 0,0:19:23.60,0:19:24.68,Main,Dot,0,0,0,,Wait!
-Dialogue: 0,0:19:24.68,0:19:26.60,Main,Dot,0,0,0,,G-Go ahead!{TL: O-Okay!}{wanted to attempt to be a bit more explicit/overt for wakarimashita -ed}
-Dialogue: 0,0:19:27.85,0:19:29.69,Main,Sazare,0,0,0,,That’s a good expression!
-Dialogue: 0,0:19:29.69,0:19:32.57,Main,Sazare,0,0,0,,Don’t worry! \N I won’t put it up online.
-Dialogue: 0,0:19:32.57,0:19:33.53,Main,Sazare,0,0,0,,That just leaves...
-Dialogue: 0,0:19:33.53,0:19:34.36,Main,Dot,0,0,0,,Leaves what?
-Dialogue: 0,0:19:34.36,0:19:36.99,Main,Sazare,0,0,0,,I wanna see how strong you are.
-Dialogue: 0,0:19:39.24,0:19:41.49,Main,Sazare,0,0,0,,I’m not that strong, \N but don’t hold back!
-Dialogue: 0,0:19:41.49,0:19:43.75,Main,Sazare,0,0,0,,I’m just gonna snap a few shots \N while we’re at it!
-Dialogue: 0,0:19:44.83,0:19:45.75,Main,Sazare,0,0,0,,Hah!
-Dialogue: 0,0:19:47.87,0:19:49.46,Main,Dot,0,0,0,,A Leafia?
-Dialogue: 0,0:19:49.46,0:19:51.34,Main,Dot,0,0,0,,Not a great type match-up for us...
-Dialogue: 0,0:19:51.34,0:19:53.13,Main,Dot,0,0,0,,But still, let’s do this!
-Dialogue: 0,0:19:53.92,0:19:56.17,Main,Sazare,0,0,0,,Leafia, use Leaf Cutter!
-Dialogue: 0,0:19:56.76,0:19:57.76,Main,Dot,0,0,0,,Dodge it, Welcamo!
-Dialogue: 0,0:19:59.05,0:20:00.01,Main,Dot,0,0,0,,Kick Down!
-Dialogue: 0,0:20:02.26,0:20:04.18,Main,Sazare,0,0,0,,Leafia, use Leaf Blade!
-Dialogue: 0,0:20:06.69,0:20:08.73,Main,Dot,0,0,0,,Rushing in headfirst is too risky.
-Dialogue: 0,0:20:08.73,0:20:10.65,Main,Sazare,0,0,0,,Leafia, go for a Swords Dance!
-Dialogue: 0,0:20:14.44,0:20:15.57,Main,Dot,0,0,0,,Welcamo?
-Dialogue: 0,0:20:16.11,0:20:18.07,Main,Sazare,0,0,0,,Leafia, use Leaf Blade!
-Dialogue: 0,0:20:19.32,0:20:20.91,Main,Dot,0,0,0,,Welcamo, use Pound!
-Dialogue: 0,0:20:26.29,0:20:28.21,Main,Dot,0,0,0,,Welcamo, are you okay?!
-Dialogue: 0,0:20:30.46,0:20:31.67,Main,Sazare,0,0,0,,Leaf Blade!
-Dialogue: 0,0:20:35.63,0:20:37.47,Main,Dot,0,0,0,,Are you onto something?
-Dialogue: 0,0:20:42.68,0:20:45.64,Main,Dot,0,0,0,,That wasn’t Pound... \N It was Air Cutter!
-Dialogue: 0,0:20:47.02,0:20:50.27,Main,Dot,0,0,0,,Okay, Welcamo! Air Cutter!
-Dialogue: 0,0:20:50.27,0:20:51.94,Main,Sazare,0,0,0,,Leafia! Leaf Cutter!
-Dialogue: 0,0:20:55.53,0:20:57.32,Main,Sazare,0,0,0,,Don’t expect us to give up, either!
-Dialogue: 0,0:20:57.32,0:20:58.15,Main,Sazare,0,0,0,,Lightning Speed!
-Dialogue: 0,0:21:01.91,0:21:03.99,Main,Dot,0,0,0,,Good work, Welcamo! Kick Down!
-Dialogue: 0,0:21:13.34,0:21:15.34,Main,Sazare,0,0,0,,Not too shabby, schoolkid!
-Dialogue: 0,0:21:15.34,0:21:17.34,Main,Sazare,0,0,0,,Well, a deal’s a deal...
-Dialogue: 0,0:21:20.80,0:21:22.09,Main,Dot,0,0,0,,That’s—?!
-Dialogue: 0,0:21:22.09,0:21:26.47,Main,Murdock,0,0,0,,But still, we can’t just \N stick around here forever.{kept the start of these two lines perfectly identical with "But still" because they both start with the same JP, even delivered roughly the same way, so... I think maybe it's supposed to be a small comedic beat? like maybe we just jumped in halfway to a long string of off-screen "dakara tte..." s or something. anyway yeah, purposefully obvious repetition. -ed}
-Dialogue: 0,0:21:26.47,0:21:30.27,Main,Orio,0,0,0,,But still, you’d rather my ship take off \N with nowhere to go?{TL: Still, you’d rather just fly my dear ship in circles? / Even so, you really feel like making my ship fly without a destination?}
-Dialogue: 0,0:21:30.27,0:21:32.06,Main,Friede,0,0,0,,What to do...?
-Dialogue: 0,0:21:32.06,0:21:32.98,Main,Dot,0,0,0,,Guys!
-Dialogue: 0,0:21:32.98,0:21:34.86,Main,Dot,0,0,0,,This girl says she’s seen Basagiri!
-Dialogue: 0,0:21:34.86,0:21:36.19,Main,Everyone,0,0,0,,{\i1}Huh?{\i0}
-Dialogue: 0,0:21:36.65,0:21:38.99,Main,Sazare,0,0,0,,Good expressions, y’all!
-Dialogue: 0,0:21:38.99,0:21:39.99,Main,Everyone,0,0,0,,{\i1}Who’s this?{\i0}
-Dialogue: 0,0:21:39.99,0:21:41.57,Main,Sazare,0,0,0,,The name’s Sazare.
-Dialogue: 0,0:21:41.57,0:21:44.41,Main,Sazare,0,0,0,,A traveler with a bit of a thing for \N photography.
+Dialogue: 10,0:12:28.06,0:12:32.06,Main,Briar,0,0,0,,Heather’s own writing: \N The Scarlet Book!
+Dialogue: 10,0:12:32.06,0:12:36.57,Main,Dot,0,0,0,,That book... It’s the same one I found \N in the Orange Academy library!
+Dialogue: 10,0:12:36.57,0:12:39.07,Main,Briar,0,0,0,,This one is the original tome.
+Dialogue: 10,0:12:39.99,0:12:43.83,Main,Briar,0,0,0,,Look here! The pages that are \N illegible in the published copies...
+Dialogue: 10,0:12:43.83,0:12:45.45,Main,Briar,0,0,0,,...are fully intact!
+Dialogue: 10,0:12:45.45,0:12:48.08,Main,Roy,0,0,0,,You’re right! \N You can read all of it!
+Dialogue: 10,0:12:49.46,0:12:50.71,Main,Dot,0,0,0,,“A Disk Pokémon?”
+Dialogue: 10,0:12:50.71,0:12:55.05,Main,Dot,0,0,0,,Yes. It details the first time \N he encountered Terapagos.
+Dialogue: 10,0:12:57.59,0:12:59.76,Main,Liko,0,0,0,,So that’s Heather-san...
+Dialogue: 10,0:13:00.26,0:13:04.64,Main,Briar,0,0,0,,Heather was a novelist, \N as well as a natural history researcher.{alt: Heather was a novelist, \N as well as a scholar of natural history.}
+Dialogue: 10,0:13:05.18,0:13:08.77,Main,Briar,0,0,0,,He was selected to participate \N in the Area Zero Expedition,
+Dialogue: 10,0:13:08.77,0:13:11.77,Main,Briar,0,0,0,,which delved into \N the Paldea Region’s Great Crater.
+Dialogue: 10,0:13:12.77,0:13:19.03,Main,Briar,0,0,0,,And after a prolonged journey, \N they eventually reached its depths.
+Dialogue: 10,0:13:19.78,0:13:23.37,Main,Briar,0,0,0,,There they found a cave \N full of shining jewels.
+Dialogue: 10,0:13:24.49,0:13:30.21,Main,Briar,0,0,0,,He met a strange Pokémon, \N which he would later dub “Terapagos.”
+Dialogue: 10,0:13:30.83,0:13:35.46,Main,Briar,0,0,0,,He encountered numerous other \N mysterious Pokémon in Area Zero, as well.
+Dialogue: 10,0:13:36.46,0:13:40.26,Main,Briar,0,0,0,,That space was filled with \N Terastal waves.
+Dialogue: 10,0:13:40.26,0:13:44.93,Main,Briar,0,0,0,,Perhaps Heather thought \N those waves guided them there.
+Dialogue: 10,0:13:45.35,0:13:51.94,Main,Briar,0,0,0,,But Heather’s book was regarded as a mere \N occult story, and hardly anyone believes it.
+Dialogue: 10,0:13:52.48,0:13:57.40,Main,Briar,0,0,0,,That’s why I intend to solve \N the mysteries of Terapagos...{partial echoing 0:12:03.74}
+Dialogue: 10,0:13:57.40,0:13:59.94,Main,Briar,0,0,0,,...and prove that Heather was right!{echo 0:12:08.33}
+Dialogue: 10,0:14:00.53,0:14:04.28,Main,Liko,0,0,0,,It’s the same for me. \N Lucius, who I learned about from my grandma...
+Dialogue: 10,0:14:04.28,0:14:06.66,Main,Liko,0,0,0,,And Rakua, the place he sought...
+Dialogue: 10,0:14:06.66,0:14:08.66,Main,Liko,0,0,0,,I’m traveling because \N I want to uncover them.
+Dialogue: 10,0:14:08.66,0:14:10.66,Main,Briar,0,0,0,,We’re kindred spirits.
+Dialogue: 10,0:14:10.66,0:14:12.16,Main,Liko,0,0,0,,Um...
+Dialogue: 10,0:14:12.16,0:14:14.92,Main,Liko,0,0,0,,This is her adventure log.
+Dialogue: 10,0:14:17.46,0:14:22.51,Main,Briar,0,0,0,,A log of your grandmother’s investigations \N into Lucius and the Six Heroes, huh?
+Dialogue: 10,0:14:22.51,0:14:23.80,Main,Briar,0,0,0,,An impressive effort...
+Dialogue: 10,0:14:23.80,0:14:28.93,Main,Liko,0,0,0,,{\q2}These are Lucius’s memoirs, \N which she found in her attic along with the pendant.
+Dialogue: 10,0:14:28.93,0:14:29.56,Main,Briar,0,0,0,,Mm.
+Dialogue: 10,0:14:29.56,0:14:33.98,Main,Friede,0,0,0,,I bet Lucius must’ve read \N that Scarlet Book somewhere, too.
+Dialogue: 10,0:14:33.98,0:14:38.73,Main,Dot,0,0,0,,And that’s why he used the name \N “Terapagos” in his memoirs.
+Dialogue: 10,0:14:39.53,0:14:43.53,Main,Briar,0,0,0,,Indeed, this is a Terastal Forme Terapagos.
+Dialogue: 10,0:14:46.57,0:14:49.03,Main,Liko,0,0,0,,So that’s called the Terastal Forme, then...
+Dialogue: 10,0:14:49.03,0:14:51.08,Main,Roy,0,0,0,,We’ve only seen it for a short while.
+Dialogue: 10,0:14:51.08,0:14:58.13,Main,Briar,0,0,0,,{\q2}Changing from Normal Forme to Terastal Forme \N requires a special impetus or power of some kind...
+Dialogue: 10,0:14:58.13,0:14:59.46,Main,Briar,0,0,0,,Or so I theorize.
+Dialogue: 10,0:14:59.46,0:15:02.17,Main,Roy,0,0,0,,Special... Of course!
+Dialogue: 10,0:15:02.17,0:15:04.97,Main,Roy,0,0,0,,It was when we met \N the black Rekkuuza from the Six Heroes!
+Dialogue: 10,0:15:04.97,0:15:06.72,Main,Briar,0,0,0,,Interesting...
+Dialogue: 10,0:15:06.72,0:15:09.39,Main,Briar,0,0,0,,Maybe the Six Heroes \N and that Terapagos...
+Dialogue: 10,0:15:09.39,0:15:13.98,Main,Briar,0,0,0,,...have some special connection \N that I’ve never observed.
+Dialogue: 10,0:15:14.81,0:15:16.02,Main,Liko,0,0,0,,And back then...
+Dialogue: 10,0:15:19.52,0:15:20.90,Main,Friede,0,0,0,,By the way, miss...
+Dialogue: 10,0:15:20.90,0:15:23.53,Main,Friede,0,0,0,,Have you heard of a substance \N called Rakurium?
+Dialogue: 10,0:15:23.53,0:15:24.70,Main,Briar,0,0,0,,Rakurium?
+Dialogue: 10,0:15:24.70,0:15:28.99,Main,Friede,0,0,0,,It’s a substance that we believe \N can have unusual effects on Pokémon.
+Dialogue: 10,0:15:28.99,0:15:30.83,Main,Briar,0,0,0,,Such a thing exists?
+Dialogue: 10,0:15:30.83,0:15:32.45,Main,Briar,0,0,0,,How intriguing...
+Dialogue: 10,0:15:32.45,0:15:33.70,Main,Briar,0,0,0,,But I’m afraid I haven’t.
+Dialogue: 10,0:15:33.70,0:15:34.62,Main,Friede,0,0,0,,That so?
+Dialogue: 10,0:15:34.62,0:15:38.21,Main,Briar,0,0,0,,Goodness me, there are so many things \N I’ve never even {\i1}heard{\i0} of!
+Dialogue: 10,0:15:38.21,0:15:40.17,Main,Liko,0,0,0,,Miss, are you okay?
+Dialogue: 10,0:15:40.17,0:15:41.63,Main,Briar,0,0,0,,Oh, I am {\i1}glimmering!{\i0}
+Dialogue: 10,0:15:41.63,0:15:47.01,Main,Briar,0,0,0,,{\w3}By speaking with you, I’ve learned more about \N Terapagos’s mysteries, and just how deep they run!
+Dialogue: 10,0:15:47.01,0:15:49.34,Main,Briar,0,0,0,,What a marvelous day this is!
+Dialogue: 10,0:15:51.81,0:15:54.22,Main,Liko,0,0,0,,Back to the Shining Pond, you mean?
+Dialogue: 10,0:15:54.22,0:15:55.43,Main,Briar,0,0,0,,Yes.
+Dialogue: 10,0:15:55.43,0:15:59.65,Main,Briar,0,0,0,,Your Terapagos must have memories \N of being with Lucius.
+Dialogue: 10,0:15:59.65,0:16:03.69,Main,Friede,0,0,0,,And those memories \N might be able to show us something.
+Dialogue: 10,0:16:03.69,0:16:04.74,Main,Briar,0,0,0,,Yes.
+Dialogue: 10,0:16:04.74,0:16:08.41,Main,Briar,0,0,0,,Besides, the Shining Pond is even more \N mysterious and beautiful at night.
+Dialogue: 10,0:16:08.41,0:16:11.37,Main,Roy,0,0,0,,Let’s go find out if the legend is true!
+Dialogue: 10,0:16:15.62,0:16:19.88,Main,Liko,0,0,0,,A place where people can meet with \N the dead they desire to see again...
+Dialogue: 10,0:16:20.33,0:16:22.63,Main,Liko,0,0,0,,That’s what the Shining Pond is.
+Dialogue: 10,0:16:23.38,0:16:26.72,Main,Liko,0,0,0,,So then... \N Maybe we can meet with Lucius.
+Dialogue: 10,0:16:30.93,0:16:34.31,Main,Liko,0,0,0,,We prayed to meet with Lucius...
+Dialogue: 10,0:16:34.72,0:16:37.73,Main,Liko,0,0,0,,Though nothing happened.
+Dialogue: 10,0:16:39.77,0:16:45.07,Main,Liko,0,0,0,,But gazing upon Terapagos and \N the Shining Pond, glimmering in the night...
+Dialogue: 10,0:16:45.07,0:16:48.24,Main,Liko,0,0,0,,It reminded me \N once again of my desire...
+Dialogue: 10,0:16:48.24,0:16:52.49,Main,Liko,0,0,0,,...to find the Six Heroes and discover \N the way to Rakua, which Lucius himself reached.
+Dialogue: 10,0:17:01.00,0:17:06.30,Main,Liko,0,0,0,,The next morning, we bid Ms. Briar farewell, \N promising we’d meet again.
+Dialogue: 10,0:17:06.30,0:17:09.26,Main,Liko,0,0,0,,As for her, she stayed behind \N to continue her research.
+Dialogue: 10,0:17:09.26,0:17:13.93,Main,Briar,0,0,0,,I’ll contact you if I learn anything \N from my research at Area Zero.
+Dialogue: 10,0:17:13.93,0:17:15.31,Main,Briar,0,0,0,,Well then, ‘til next time.
+Dialogue: 10,0:17:23.61,0:17:25.65,Main,Molly,0,0,0,,So no leads, eh?
+Dialogue: 10,0:17:25.65,0:17:28.90,Main,Liko,0,0,0,,But still, Ms. Briar and Heather-san...{Briar-sensei}
+Dialogue: 10,0:17:28.90,0:17:33.03,Main,Liko,0,0,0,,It was a thrill to hear from others \N pursuing the mysteries of Pokémon.
+Dialogue: 10,0:17:33.03,0:17:36.66,Main,Liko,0,0,0,,I was happy to find more people \N like us and my grandma.
+Dialogue: 10,0:17:37.20,0:17:41.04,Main,Orio,0,0,0,,So, what’s the next move \N for the Rising Voltteccers?
+Dialogue: 10,0:17:41.04,0:17:45.04,Main,Friede,0,0,0,,Naturally, we’ll be tracking down \N the remaining three of the Six Heroes.
+Dialogue: 10,0:17:45.04,0:17:48.13,Main,Orio,0,0,0,,Easy enough to say, \N but where do we start?
+Dialogue: 10,0:17:48.13,0:17:51.05,Main,Friede,0,0,0,,Basagiri, Entei, and Rekkuuza, huh...?
+Dialogue: 10,0:17:51.05,0:17:52.88,Main,Friede,0,0,0,,They’ll all be tough.
+Dialogue: 10,0:17:52.88,0:17:55.18,Main,Molly,0,0,0,,Hmm... Long road ahead of us.
+Dialogue: 10,0:17:55.55,0:17:57.26,Main,Murdock,0,0,0,,By the way, where’s Dot?
+Dialogue: 10,0:17:57.26,0:18:03.44,Main,Liko,0,0,0,,{\q2}When she headed out, she said she was going to get \N footage of Suiryoku Town’s signs and stuff for her videos.
+Dialogue: 10,0:18:03.85,0:18:05.19,Main,Dot,0,0,0,,Nice!
+Dialogue: 10,0:18:05.19,0:18:06.94,Main,Dot,0,0,0,,Huh? Welcamo?
+Dialogue: 10,0:18:06.94,0:18:08.40,Main,Dot,0,0,0,,Where’d you go?
+Dialogue: 10,0:18:13.45,0:18:15.41,Main,Dot,0,0,0,,That’s a Guardie...
+Dialogue: 10,0:18:15.41,0:18:18.37,Main,Dot,0,0,0,,But its fur is kinda weird...
+Dialogue: 10,0:18:19.79,0:18:21.50,Main,Dot,0,0,0,,Huh?! Hisui?!
+Dialogue: 10,0:18:21.50,0:18:24.29,Main,Dot,0,0,0,,That’s the old name \N for the Sinnoh Region, right?!
+Dialogue: 10,0:18:30.30,0:18:31.80,Main,Sazare,0,0,0,,Schoolkid...
+Dialogue: 10,0:18:31.80,0:18:34.72,Main,Sazare,0,0,0,,My Guardie catch your eye?
+Dialogue: 10,0:18:35.80,0:18:38.43,Main,Dot,0,0,0,,No, uh, it’s a Hisuian...
+Dialogue: 10,0:18:38.43,0:18:40.22,Main,Dot,0,0,0,,Th-That’s impossible, err, I mean...
+Dialogue: 10,0:18:40.22,0:18:44.44,Main,Dot,0,0,0,,{\q2}S-Since that’s impossible, maybe you can tell me \N about something that could actually {\i1}be{\i0} possible!{messily stumbling over her words}
+Dialogue: 10,0:18:44.44,0:18:47.81,Main,Sazare,0,0,0,,Perfect attitude! \N Not afraid to be nosy!
+Dialogue: 10,0:18:47.81,0:18:52.74,Main,Sazare,0,0,0,,{\q2}You’re absolutely right. I come from the ancient land \N once known as Hisui—the Sinnoh Region.
+Dialogue: 10,0:18:52.74,0:18:53.70,Main,Dot,0,0,0,,Huh?! Then...
+Dialogue: 10,0:18:53.70,0:18:58.20,Main,Dot,0,0,0,,Um... Do you happen to \N know anything about Basagiri?
+Dialogue: 10,0:18:58.58,0:18:59.95,Main,Sazare,0,0,0,,Basagiri...
+Dialogue: 10,0:18:59.95,0:19:01.87,Main,Dot,0,0,0,,You know something?
+Dialogue: 10,0:19:01.87,0:19:05.08,Main,Sazare,0,0,0,,I could tell you... \N But I have some conditions.
+Dialogue: 10,0:19:05.08,0:19:06.33,Main,Dot,0,0,0,,Conditions?
+Dialogue: 10,0:19:06.33,0:19:09.88,Main,Sazare,0,0,0,,Sorry to drop this on you, \N but can I snap a quick photo?
+Dialogue: 10,0:19:09.88,0:19:12.01,Main,Dot,0,0,0,,H-Huh? Th-That’s...
+Dialogue: 10,0:19:12.01,0:19:15.05,Main,Dot,0,0,0,,Uh... I’m used to recording videos,
+Dialogue: 10,0:19:15.05,0:19:16.47,Main,Dot,0,0,0,,but having my photo taken...
+Dialogue: 10,0:19:16.80,0:19:18.60,Main,Sazare,0,0,0,,That’s a good attitude!
+Dialogue: 10,0:19:18.60,0:19:21.72,Main,Sazare,0,0,0,,Can’t just blindly trust \N strangers, after all.
+Dialogue: 10,0:19:21.72,0:19:23.60,Main,Sazare,0,0,0,,Okay. That’s that, then.
+Dialogue: 10,0:19:23.60,0:19:24.68,Main,Dot,0,0,0,,Wait!
+Dialogue: 10,0:19:24.68,0:19:26.60,Main,Dot,0,0,0,,G-Go ahead!{TL: O-Okay!}{wanted to attempt to be a bit more explicit/overt for wakarimashita -ed}
+Dialogue: 10,0:19:27.85,0:19:29.69,Main,Sazare,0,0,0,,That’s a good expression!
+Dialogue: 10,0:19:29.69,0:19:32.57,Main,Sazare,0,0,0,,Don’t worry! \N I won’t put it up online.
+Dialogue: 10,0:19:32.57,0:19:33.53,Main,Sazare,0,0,0,,That just leaves...
+Dialogue: 10,0:19:33.53,0:19:34.36,Main,Dot,0,0,0,,Leaves what?
+Dialogue: 10,0:19:34.36,0:19:36.99,Main,Sazare,0,0,0,,I wanna see how strong you are.
+Dialogue: 10,0:19:39.24,0:19:41.49,Main,Sazare,0,0,0,,I’m not that strong, \N but don’t hold back!
+Dialogue: 10,0:19:41.49,0:19:43.75,Main,Sazare,0,0,0,,I’m just gonna snap a few shots \N while we’re at it!
+Dialogue: 10,0:19:44.83,0:19:45.75,Main,Sazare,0,0,0,,Hah!
+Dialogue: 10,0:19:47.87,0:19:49.46,Main,Dot,0,0,0,,A Leafia?
+Dialogue: 10,0:19:49.46,0:19:51.34,Main,Dot,0,0,0,,Not a great type match-up for us...
+Dialogue: 10,0:19:51.34,0:19:53.13,Main,Dot,0,0,0,,But still, let’s do this!
+Dialogue: 10,0:19:53.92,0:19:56.17,Main,Sazare,0,0,0,,Leafia, use Leaf Cutter!
+Dialogue: 10,0:19:56.76,0:19:57.76,Main,Dot,0,0,0,,Dodge it, Welcamo!
+Dialogue: 10,0:19:59.05,0:20:00.01,Main,Dot,0,0,0,,Kick Down!
+Dialogue: 10,0:20:02.26,0:20:04.18,Main,Sazare,0,0,0,,Leafia, use Leaf Blade!
+Dialogue: 10,0:20:06.69,0:20:08.73,Main,Dot,0,0,0,,Rushing in headfirst is too risky.
+Dialogue: 10,0:20:08.73,0:20:10.65,Main,Sazare,0,0,0,,Leafia, go for a Swords Dance!
+Dialogue: 10,0:20:14.44,0:20:15.57,Main,Dot,0,0,0,,Welcamo?
+Dialogue: 10,0:20:16.11,0:20:18.07,Main,Sazare,0,0,0,,Leafia, use Leaf Blade!
+Dialogue: 10,0:20:19.32,0:20:20.91,Main,Dot,0,0,0,,Welcamo, use Pound!
+Dialogue: 10,0:20:26.29,0:20:28.21,Main,Dot,0,0,0,,Welcamo, are you okay?!
+Dialogue: 10,0:20:30.46,0:20:31.67,Main,Sazare,0,0,0,,Leaf Blade!
+Dialogue: 10,0:20:35.63,0:20:37.47,Main,Dot,0,0,0,,Are you onto something?
+Dialogue: 10,0:20:42.68,0:20:45.64,Main,Dot,0,0,0,,That wasn’t Pound... \N It was Air Cutter!
+Dialogue: 10,0:20:47.02,0:20:50.27,Main,Dot,0,0,0,,Okay, Welcamo! Air Cutter!
+Dialogue: 10,0:20:50.27,0:20:51.94,Main,Sazare,0,0,0,,Leafia! Leaf Cutter!
+Dialogue: 10,0:20:55.53,0:20:57.32,Main,Sazare,0,0,0,,Don’t expect us to give up, either!
+Dialogue: 10,0:20:57.32,0:20:58.15,Main,Sazare,0,0,0,,Lightning Speed!
+Dialogue: 10,0:21:01.91,0:21:03.99,Main,Dot,0,0,0,,Good work, Welcamo! Kick Down!
+Dialogue: 10,0:21:13.34,0:21:15.34,Main,Sazare,0,0,0,,Not too shabby, schoolkid!
+Dialogue: 10,0:21:15.34,0:21:17.34,Main,Sazare,0,0,0,,Well, a deal’s a deal...
+Dialogue: 10,0:21:20.80,0:21:22.09,Main,Dot,0,0,0,,That’s—?!
+Dialogue: 10,0:21:22.09,0:21:26.47,Main,Murdock,0,0,0,,But still, we can’t just \N stick around here forever.{kept the start of these two lines perfectly identical with "But still" because they both start with the same JP, even delivered roughly the same way, so... I think maybe it's supposed to be a small comedic beat? like maybe we just jumped in halfway to a long string of off-screen "dakara tte..." s or something. anyway yeah, purposefully obvious repetition. -ed}
+Dialogue: 10,0:21:26.47,0:21:30.27,Main,Orio,0,0,0,,But still, you’d rather my ship take off \N with nowhere to go?{TL: Still, you’d rather just fly my dear ship in circles? / Even so, you really feel like making my ship fly without a destination?}
+Dialogue: 10,0:21:30.27,0:21:32.06,Main,Friede,0,0,0,,What to do...?
+Dialogue: 10,0:21:32.06,0:21:32.98,Main,Dot,0,0,0,,Guys!
+Dialogue: 10,0:21:32.98,0:21:34.86,Main,Dot,0,0,0,,This girl says she’s seen Basagiri!
+Dialogue: 10,0:21:34.86,0:21:36.19,Main,Everyone,0,0,0,,{\i1}Huh?{\i0}
+Dialogue: 10,0:21:36.65,0:21:38.99,Main,Sazare,0,0,0,,Good expressions, y’all!
+Dialogue: 10,0:21:38.99,0:21:39.99,Main,Everyone,0,0,0,,{\i1}Who’s this?{\i0}
+Dialogue: 10,0:21:39.99,0:21:41.57,Main,Sazare,0,0,0,,The name’s Sazare.
+Dialogue: 10,0:21:41.57,0:21:44.41,Main,Sazare,0,0,0,,A traveler with a bit of a thing for \N photography.
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
-Dialogue: 0,0:21:46.20,0:21:47.16,Main,Friede,0,0,0,,Friede here.
-Dialogue: 0,0:21:47.16,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 0,0:21:50.83,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Affection Pokémon, Milokallos.
-Dialogue: 0,0:21:55.00,0:21:58.51,Main,Friede,0,0,0,,A Pokémon with scales \N that can turn a variety of colors.
-Dialogue: 0,0:21:58.88,0:22:01.97,Main,Friede,0,0,0,,Something about it is said to be \N the best in the world,
-Dialogue: 0,0:22:01.97,0:22:05.01,Main,Friede,0,0,0,,but do you know what that thing is?
-Dialogue: 0,0:22:05.01,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
+Dialogue: 10,0:21:46.20,0:21:47.16,Main,Friede,0,0,0,,Friede here.
+Dialogue: 10,0:21:47.16,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
+Dialogue: 10,0:21:50.83,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Affection Pokémon, Milokallos.
+Dialogue: 10,0:21:55.00,0:21:58.51,Main,Friede,0,0,0,,A Pokémon with scales \N that can turn a variety of colors.
+Dialogue: 10,0:21:58.88,0:22:01.97,Main,Friede,0,0,0,,Something about it is said to be \N the best in the world,
+Dialogue: 10,0:22:01.97,0:22:05.01,Main,Friede,0,0,0,,but do you know what that thing is?
+Dialogue: 10,0:22:05.01,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Seminar B}
-Dialogue: 0,0:23:38.19,0:23:40.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
-Dialogue: 0,0:23:40.98,0:23:43.61,Main,Friede,0,0,220,,The answer is A: Its beauty!
-Dialogue: 0,0:23:43.61,0:23:49.03,Main,Friede,0,0,220,,It’s said that looking upon Milokallos \N can even heal warped hearts.{from Diamond dex entry}
-Dialogue: 0,0:23:49.03,0:23:52.49,Main,Friede,0,0,220,,It has the power to quell \N anger and hatred.{from Ruby dex entry}
+Dialogue: 10,0:23:38.19,0:23:40.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
+Dialogue: 10,0:23:40.98,0:23:43.61,Main,Friede,0,0,220,,The answer is A: Its beauty!
+Dialogue: 10,0:23:43.61,0:23:49.03,Main,Friede,0,0,220,,It’s said that looking upon Milokallos \N can even heal warped hearts.{from Diamond dex entry}
+Dialogue: 10,0:23:49.03,0:23:52.49,Main,Friede,0,0,220,,It has the power to quell \N anger and hatred.{from Ruby dex entry}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 0,0:24:01.04,0:24:03.59,Main,Roy,0,0,0,,So I hear Basagiri’s on this mountain!
-Dialogue: 0,0:24:03.59,0:24:05.22,Main,Dot,0,0,0,,More mountain hiking?!
-Dialogue: 0,0:24:05.22,0:24:06.47,Main,Dot,0,0,0,,You’re kidding...
-Dialogue: 0,0:24:06.47,0:24:07.13,Main,Liko,0,0,0,,Hey...
-Dialogue: 0,0:24:07.13,0:24:09.72,Main,Liko,0,0,0,,Does this place feel... off, somehow?
-Dialogue: 0,0:24:09.72,0:24:12.43,Main,Dot,0,0,0,,Apparently it’s dangerous \N and packed with crazy Pokémon!
-Dialogue: 0,0:24:12.43,0:24:13.18,Main,Roy,0,0,0,,Pokémon?!
-Dialogue: 0,0:24:13.18,0:24:15.60,Main,Roy,0,0,0,,Sounds like we’re in for some battling!
-Dialogue: 0,0:24:17.31,0:24:20.77,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
-Dialogue: 0,0:24:20.77,0:24:22.15,Main,Liko,0,0,0,,Ready, and...
-Dialogue: 0,0:24:22.15,0:24:24.44,Main,Everyone,0,0,0,,{\i1}Track It Down! Find Basagiri!!{\i0}
-Dialogue: 0,0:24:26.95,0:24:28.86,Main,Liko,0,0,0,,We’re sure to find it, right?{Dread Basagiri}
+Dialogue: 10,0:24:01.04,0:24:03.59,Main,Roy,0,0,0,,So I hear Basagiri’s on this mountain!
+Dialogue: 10,0:24:03.59,0:24:05.22,Main,Dot,0,0,0,,More mountain hiking?!
+Dialogue: 10,0:24:05.22,0:24:06.47,Main,Dot,0,0,0,,You’re kidding...
+Dialogue: 10,0:24:06.47,0:24:07.13,Main,Liko,0,0,0,,Hey...
+Dialogue: 10,0:24:07.13,0:24:09.72,Main,Liko,0,0,0,,Does this place feel... off, somehow?
+Dialogue: 10,0:24:09.72,0:24:12.43,Main,Dot,0,0,0,,Apparently it’s dangerous \N and packed with crazy Pokémon!
+Dialogue: 10,0:24:12.43,0:24:13.18,Main,Roy,0,0,0,,Pokémon?!
+Dialogue: 10,0:24:13.18,0:24:15.60,Main,Roy,0,0,0,,Sounds like we’re in for some battling!
+Dialogue: 10,0:24:17.31,0:24:20.77,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
+Dialogue: 10,0:24:20.77,0:24:22.15,Main,Liko,0,0,0,,Ready, and...
+Dialogue: 10,0:24:22.15,0:24:24.44,Main,Everyone,0,0,0,,{\i1}Track It Down! Find Basagiri!!{\i0}
+Dialogue: 10,0:24:26.95,0:24:28.86,Main,Liko,0,0,0,,We’re sure to find it, right?{Dread Basagiri}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:36.34,0:02:39.26,OP,,0,0,50,,{=1066}{\q2\blur0.6}Even if it looks like you're stuck, it'll be okay
 Dialogue: 1,0:02:39.26,0:02:45.56,OP,,0,0,50,,{\q2\blur0.6}Take one more step from here and you'll see that you can go farther
