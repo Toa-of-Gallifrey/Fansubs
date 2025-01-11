@@ -331,8 +331,8 @@ Dialogue: 0,0:10:19.10,0:10:21.22,Main,Nanami,0,0,0,,Wait for me, Dear Brother!
 Dialogue: 0,0:10:21.22,0:10:23.03,Main,Nanami,0,0,0,,I shall return!
 Dialogue: 0,0:10:23.03,0:10:25.11,Main,The bitches,0,0,0,,{\i1}Why us, too?!{\i0}
 Dialogue: 0,0:10:31.00,0:10:35.11,Main,A-ko,0,0,0,,Love and youth: a course on idioms! \N Today’s phrase is... {Not much point in keeping the 4 kanji theme - this is relevant in japanese words that are made up of multiple kanji, but you wouldn’t sort words based on their number of syllables in an english dictionary. so perhaps just desserts to go with curry theme?}
-Dialogue: 0,0:10:35.11,0:10:37.27,Main,A-ko,0,0,0,,“Just deserts”
-Dialogue: 0,0:10:37.27,0:10:39.33,Main,B-ko,0,0,0,,Just deserts?
+Dialogue: 0,0:10:35.11,0:10:37.27,Main,A-ko,0,0,0,,“Just deserts”.
+Dialogue: 0,0:10:37.27,0:10:39.33,Main,B-ko,0,0,0,,“Just deserts”?
 Dialogue: 0,0:10:39.33,0:10:44.37,Main,A-ko,0,0,0,,It means that every wrongdoing of yours \N will bring you an equal measure of misfortune.
 Dialogue: 0,0:10:44.37,0:10:46.63,Main,B-ko,0,0,0,,Gimme yer money! \N Bang! Bang! Bang! Bang!
 Dialogue: 0,0:10:48.04,0:10:50.21,Main,B-ko,0,0,0,,Agh! What the...?!
@@ -383,7 +383,7 @@ Dialogue: 0,0:13:36.01,0:13:37.84,Main,Saionji,0,0,0,,Look at the real me!
 Dialogue: 0,0:13:37.84,0:13:39.30,Main,Utena,0,0,0,,No! No!
 Dialogue: 0,0:13:40.80,0:13:43.59,Main,Saionji,0,0,0,,Here, you will find \N nothing but the truth...
 Dialogue: 0,0:13:43.59,0:13:45.84,Main,Saionji,0,0,0,,Here in our exchange diary.
-Dialogue: 0,0:13:46.36,0:13:48.60,Main,Utena,0,0,0,,Huh? Diary?
+Dialogue: 0,0:13:46.36,0:13:48.60,Main,Utena,0,0,0,,Huh? A diary?
 Dialogue: 0,0:13:51.60,0:13:53.89,Main,Nanami,0,0,0,,The mystical spice mix...
 Dialogue: 0,0:13:53.89,0:13:55.95,Main,Nanami,0,0,0,,The mystical spice mix...
 Dialogue: 0,0:13:55.95,0:13:57.36,Main,Keiko,0,0,0,,Nanami!
