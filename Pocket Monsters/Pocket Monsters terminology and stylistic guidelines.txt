@@ -1003,7 +1003,7 @@ furawaa beeru フラワーベール (Flower Veil) - # TBD #
 furawaa gifuto フラワーギフト (Flower Gift) - # TBD #
 furendo gaado フレンドガード (Friend Guard) - # TBD #
 furiizu sukin フリーズスキン (Refrigerate) - # TBD #
-fushigi na uroko ふしぎなうろこ (Fushigi na Uroko) - # TBD #
+fushigi na uroko ふしぎなうろこ (Marvel Scale) - # TBD #
 fushigi na mamori ふしぎなまもり (Wonder Guard) - # TBD #
 fushoku ふしょく (Corrosion) - # TBD #
 futou no ken ふとうのけん (Intrepid Sword) - # TBD #
@@ -1086,7 +1086,7 @@ kireaji きれあじ (Sharpness) - # TBD #
 kiyome no shio きよめのしお (Purifying Salt) - # TBD #
 kizuna henge きずなへんげ (Battle Bond) - # TBD #
 kobore dane こぼれダネ (Seed Sower) - Falling Seeds
-kodaikassei こだいかっせい (Protosynthesis) - # TBD #
+kodaikassei こだいかっせい (Protosynthesis) - Ancient Activation
 kongari bodi こんがりボディ (Well-Baked Body) - # TBD #
 konjou こんじょう (Guts) - # TBD #
 koori no rinpun こおりのりんぷん (Ice Scales) - # TBD #
@@ -2235,7 +2235,7 @@ POKÉMON NAMES
 0982 ノココッチ Nokokotchi - つちへびポケモン Land Snake Pokémon
 0983 ドドゲザン Dodogezan - だいとうポケモン Glaive Pokémon
 0984 イダイナキバ 
-0985 サケブシッポ 
+0985 サケブシッポ Screaming Tail - パラドックスポケモン Paradox Pokémon
 0986 アラブルタケ 
 0987 ハバタクカミ 
 0988 チヲハウハネ 
@@ -2270,7 +2270,7 @@ POKÉMON NAMES
 1017 オーガポン 
 1018 ブリジュラス 
 1019 カミツオロチ 
-1020 ウガツホムラ 
+1020 ウガツホムラ Gouging Inferno - パラドックスポケモン Paradox Pokémon
 1021 タケルライコ 
 1022 テツノイワオ 
 1023 テツノカシラ 
