@@ -616,7 +616,7 @@ ryuu no hadou りゅうのはどう (Dragon Pulse) - Dragon Pulse
 ryuu no ibuki りゅうのいぶき (Dragon Breath) - Dragon Breath
 ryuu no ikari りゅうのいかり (Dragon Rage) - Dragon Rage
 ryuu no mai りゅうのまい (Dragon Dance) - Dragon Dance
-ryuuseigun りゅうせいぐん (Draco Meteor) - Draco Meteor
+ryuuseigun りゅうせいぐん (Draco Meteor) - Dragon Meteor Shower
 sabaki no tsubute さばきのつぶて (Judgment) - # TBD #
 saido chenji サイドチェンジ (Ally Switch) - # TBD #
 saihai さいはい (Instruct) - # TBD #
@@ -744,8 +744,8 @@ tekusuchaa テクスチャー (Conversion) - Texture
 tekusuchaa 2 テクスチャー２ (Conversion 2) - Texture 2
 tenshi no kissu てんしのキッス (Sweet Kiss) - # TBD #
 teppeki てっぺき (Iron Defense) - Iron Defense
-tera baasuto テラバースト (Tera Blast) - # TBD #
-tera kurasutaa テラクラスター (Tera Starstorm) - # TBD #
+tera baasuto テラバースト (Tera Blast) - Tera Burst
+tera kurasutaa テラクラスター (Tera Starstorm) - Tera Cluster
 terekineshisu テレキネシス (Telekinesis) - Telekinesis
 terepooto テレポート (Teleport) - Teleport
 tettei kousen てっていこうせん (Steel Beam) - Steely Resolve
