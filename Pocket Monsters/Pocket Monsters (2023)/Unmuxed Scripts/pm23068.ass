@@ -274,7 +274,7 @@ Dialogue: 10,0:19:59.01,0:20:01.26,Main,Zir,0,0,0,,I was studying \N how to beco
 Dialogue: 10,0:20:01.26,0:20:02.97,Main,Zir,0,0,0,,What are {\i1}you{\i0} watching, anyway?!
 Dialogue: 10,0:20:03.64,0:20:05.64,Main,Conia,0,0,0,,Th-This is, uh, y’know...
 Dialogue: 10,0:20:05.64,0:20:06.89,Main,Conia,0,0,0,,Recon on the enemy!
-Dialogue: 10,0:20:07.94,0:20:09.06,Main,Zir Conia,0,0,0,,Amethio, sir{Honorifics note: Amethio-sama}!
+Dialogue: 10,0:20:07.94,0:20:09.06,Main,Zir Conia,0,0,0,,Master Amethio{Honorifics note: Amethio-sama}!
 Dialogue: 10,0:20:13.53,0:20:14.82,Main,Zir Conia,0,0,0,,Um...
 Dialogue: 10,0:20:15.57,0:20:17.40,Main,Amethio,0,0,0,,Don’t make me repeat myself.
 Dialogue: 10,0:20:17.40,0:20:20.07,Main,Amethio,0,0,0,,I’ve been dismissed \N from all missions.
