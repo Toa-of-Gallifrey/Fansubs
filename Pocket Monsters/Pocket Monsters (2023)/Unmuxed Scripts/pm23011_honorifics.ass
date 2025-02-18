@@ -61,7 +61,7 @@ Dialogue: 0,0:01:55.43,0:01:58.22,Main,Molly,0,0,0,,Yeah... Same as always.
 Dialogue: 0,0:01:58.22,0:02:01.98,Main,Molly,0,0,0,,My mom’s worrying about me \N for the wrong reasons.
 Dialogue: 0,0:02:01.98,0:02:03.44,Main,Orio,0,0,0,,You must be tired.
 Dialogue: 0,0:02:06.02,0:02:08.90,Main,Molly,0,0,0,,Weren’t those kids going to \N this forest tomorrow?
-Dialogue: 0,0:02:08.90,0:02:12.20,Main,Orio,0,0,0,,To follow up on the info \N from Colza-san, yeah. {added the ", yeah" because it felt better for English flow -ed}
+Dialogue: 0,0:02:08.90,0:02:12.20,Main,Orio,0,0,0,,To follow up on the info \N from Colza-san, yeah.
 Dialogue: 0,0:02:13.32,0:02:15.03,Main,Molly,0,0,0,,Maybe I should go, too.
 Comment: 0,0:02:16.20,0:02:16.20,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:46.29,0:03:46.29,Main,,0,0,0,,{Part B}
