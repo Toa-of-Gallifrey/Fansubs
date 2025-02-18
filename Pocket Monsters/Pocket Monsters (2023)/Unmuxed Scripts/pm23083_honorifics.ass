@@ -54,8 +54,8 @@ Dialogue: 10,0:01:21.60,0:01:22.40,Main,Amethio,0,0,0,,Yes.
 Dialogue: 10,0:01:22.94,0:01:25.32,Main,Amethio,0,0,0,,This is Spinel’s lab.{kenkyuushitsu(research room) vs usual kenkyuujo(research place) used for buildings}
 Comment: 0,0:01:27.19,0:01:27.19,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:57.28,0:02:57.28,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:09.46,0:03:11.96,Main,Liko,0,0,0,,The black Rekkuuza appeared before us.
-Dialogue: 10,0:03:12.55,0:03:16.80,Main,Liko,0,0,0,,We all worked together, and fought it \N using everything we’ve learned...
+Dialogue: 10,0:03:09.46,0:03:12.55,Main,Liko,0,0,0,,The black Rekkuuza appeared before us.
+Dialogue: 10,0:03:12.55,0:03:16.80,Main,Liko,0,0,0,,We all worked together, \N and fought it using everything we’ve learned...
 Dialogue: 10,0:03:18.34,0:03:22.89,Main,Liko,0,0,0,,Until finally, Rekkuuza went into \N Roy’s Ancient Monster Ball...
 Dialogue: 10,0:03:22.89,0:03:27.31,Main,Liko,0,0,0,,Pagogo recovered its powers too, \N and Lucius’s Six Heroes have reunited at last!{Dread Terapagos}
 Dialogue: 10,0:03:28.73,0:03:33.15,Main,Liko,0,0,0,,It seems like Rekkuuza \N is going to take us to Rakua!
@@ -117,7 +117,7 @@ Dialogue: 10,0:07:00.15,0:07:03.15,Main,Friede,0,0,0,,I suppose we can assume \N
 Dialogue: 10,0:07:03.15,0:07:07.78,Main,Murdock,0,0,0,,On the other hand, that means \N the Rakurium could still be in there.
 Dialogue: 10,0:07:08.28,0:07:10.45,Main,Friede,0,0,0,,I don’t know the specifics.
 Dialogue: 10,0:07:10.45,0:07:15.62,Main,Friede,0,0,0,,What exactly do we do if we find \N something that dangerous in Rakua?
-Dialogue: 10,0:07:15.62,0:07:17.29,Main,Them,0,0,0,,{\i1}Hmm...{\i0}
+Comment: 10,0:07:15.62,0:07:17.29,Main,Them,0,0,0,,{\i1}Hmm...{\i0}
 Dialogue: 10,0:07:24.63,0:07:26.68,Main,Friede,0,0,0,,You kids aren’t scared at all.
 Dialogue: 10,0:07:26.68,0:07:30.01,Main,Liko,0,0,0,,Yep! Just think, we get to go \N where Lucius and the others went: Rakua!
 Dialogue: 10,0:07:30.01,0:07:34.18,Main,Liko,0,0,0,,Alongside Pagogo, \N the Six Heroes, and all of you!
@@ -198,8 +198,7 @@ Dialogue: 10,0:12:10.17,0:12:15.01,Main,Amethio,0,0,0,,To do that, I must know e
 Dialogue: 10,0:12:15.92,0:12:17.42,Main,Amethio,0,0,0,,Who am I?
 Dialogue: 10,0:12:18.01,0:12:19.76,Main,Amethio,0,0,0,,What must I do?
 Dialogue: 10,0:12:21.05,0:12:22.55,Main,Hamber,0,0,0,,Amethio-sama...
-Dialogue: 10,0:12:24.43,0:12:26.18,Main,Hamber,0,0,0,,We need not remain here any longer.
-Dialogue: 10,0:12:26.81,0:12:28.35,Main,Hamber,0,0,0,,Let us go someplace else.
+Dialogue: 10,0:12:24.43,0:12:28.35,Main,Hamber,0,0,0,,{\q2}There is no point in lingering here any longer. \N Let us go someplace else.
 Comment: 0,0:12:34.48,0:12:34.48,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:12:49.46,0:12:51.08,Main,Amethio,0,0,0,,What’s wrong? Hurry up.
 Dialogue: 10,0:12:51.08,0:12:52.21,Main,Zir,0,0,0,,N-No!
@@ -261,7 +260,7 @@ Dialogue: 10,0:16:51.91,0:16:53.83,Main,Hamber,0,0,0,,...and respect.
 Dialogue: 10,0:16:57.37,0:16:59.87,Main,Hamber,0,0,0,,When I was wandering blind,
 Dialogue: 10,0:16:59.87,0:17:06.34,Main,Hamber,0,0,0,,and my path as an adventurer was muddled, \N Gibeon-sama had the grace to guide me.
 Dialogue: 10,0:17:06.96,0:17:08.84,Main,Amethio,0,0,0,,Your path, huh...?
-Dialogue: 10,0:17:08.84,0:17:10.76,Main,Hamber,0,0,0,,Pokémon and people{must keep in this order}...
+Dialogue: 10,0:17:08.84,0:17:11.09,Main,Hamber,0,0,0,,Pokémon and people{must keep in this order}...
 Dialogue: 10,0:17:11.09,0:17:17.60,Main,Hamber,0,0,0,,{\q2}His noble aim, wishing eternally for their prosperity, \N left a profound impression upon me.
 Dialogue: 10,0:17:18.10,0:17:19.35,Main,Amethio,0,0,0,,I see.
 Dialogue: 10,0:17:19.73,0:17:23.11,Main,Amethio,0,0,0,,So that’s why you took up \N teaching duties in the Explorers.
@@ -296,7 +295,7 @@ Dialogue: 10,0:19:05.75,0:19:07.67,Main,Hamber,0,0,0,,You don’t seem surprised
 Dialogue: 10,0:19:08.34,0:19:11.59,Main,Amethio,0,0,0,,Somehow, I suspected \N that might be the case.
 Dialogue: 10,0:19:12.09,0:19:16.59,Main,Hamber,0,0,0,,Perhaps you could call it destiny, \N reaching across a hundred years’ time...
 Dialogue: 10,0:19:16.59,0:19:18.14,Main,Amethio,0,0,0,,Destiny, you say...?
-Dialogue: 10,0:19:18.76,0:19:24.60,Main,Amethio,0,0,0,,I’ve decided to take up my Grandfather’s will, \N but I don’t intend to fight on his behalf.
+Dialogue: 10,0:19:18.76,0:19:24.60,Main,Amethio,0,0,0,,I’ve decided to take up my Grandfather’s will, \N but I don’t intend to fight in his stead.
 Dialogue: 10,0:19:25.27,0:19:26.94,Main,Amethio,0,0,0,,As for who I am...
 Dialogue: 10,0:19:28.02,0:19:31.23,Main,Amethio,0,0,0,,I am myself, \N and that’s all I need to know.
 Dialogue: 10,0:19:32.73,0:19:36.03,Main,Hamber,0,0,0,,I will ensure nobody \N suspects our movements.
@@ -307,7 +306,7 @@ Dialogue: 10,0:19:43.25,0:19:45.83,Main,Hamber,0,0,0,,It is simply who you are, 
 Dialogue: 10,0:19:45.83,0:19:48.67,Main,Hamber,0,0,0,,Everyone... Good luck.
 Dialogue: 10,0:19:50.50,0:19:52.55,Main,Amethio,0,0,0,,Now, to Rakua!
 Dialogue: 10,0:20:26.12,0:20:27.96,Main,Friede,0,0,0,,Is that...?
-Dialogue: 10,0:20:27.96,0:20:28.75,Main,Kids,0,0,0,,Friede!
+Dialogue: 10,0:20:27.96,0:20:28.75,Main,Kids,0,0,0,,{\i1}Friede!{\i0}
 Dialogue: 10,0:20:28.75,0:20:29.92,Main,Roy,0,0,0,,Are we there?!
 Dialogue: 10,0:20:29.92,0:20:30.71,Main,Liko,0,0,0,,Is that Rakua?!
 Dialogue: 10,0:20:30.71,0:20:31.50,Main,Dot,0,0,0,,Where?! Where?!
