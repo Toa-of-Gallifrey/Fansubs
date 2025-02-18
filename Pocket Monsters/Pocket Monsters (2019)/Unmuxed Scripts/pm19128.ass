@@ -167,8 +167,8 @@ Dialogue: 0,0:15:13.56,0:15:17.40,Strictly text,,30,0,30,,{\an7\fad(150, 0)\c0\3
 Dialogue: 0,0:15:17.40,0:15:43.42,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\blur1\bord3\fsp-2\fs35\c&HE5E5E5&\pos(555.34,609.33)\3c&H181818&}Exclusive Scoop
 Dialogue: 0,0:15:17.40,0:15:25.86,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(0,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}Uonoragon can't help but bite onto wiggling things
 Dialogue: 0,0:15:17.40,0:15:25.86,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(0,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}Uonoragon can't help but bite onto wiggling things
-Dialogue: 0,0:15:25.86,0:15:33.91,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}It seems to be after Competitor Shirona's Milokaross's tail
-Dialogue: 0,0:15:25.86,0:15:33.91,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}It seems to be after Competitor Shirona's Milokaross's tail
+Dialogue: 0,0:15:25.86,0:15:33.91,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}It seems to be after Competitor Shirona's Milokallos's tail
+Dialogue: 0,0:15:25.86,0:15:33.91,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}It seems to be after Competitor Shirona's Milokallos's tail
 Dialogue: 0,0:15:33.91,0:15:43.42,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}But so far Gaburias has kept it from taking even one bite
 Dialogue: 0,0:15:33.91,0:15:43.42,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}But so far Gaburias has kept it from taking even one bite
 Dialogue: 0,0:15:17.40,0:15:43.42,Strictly text,,0,0,0,,{\fad(150,0)\c0\3c&HFFFFFF\fscx80\fscy80\blur1\bord2\b1\pos(1044.22,476.44)}Uonoragon\NFossil Pokémon
@@ -449,7 +449,7 @@ Dialogue: 5,0:14:42.28,0:14:46.12,Main,Newsy the Newscaster Caster of News,0,0,0
 Dialogue: 5,0:14:47.07,0:14:50.79,Main,Daimonji,0,400,0,,{\an8}Great Blaze thinks \N he’s the semifinals’ MVP!
 Dialogue: 5,0:14:50.79,0:14:55.87,Main,Newsy the Newscaster Caster of News,0,400,0,,{\an8}Lucario only had its chance to shine \N because of Negigaknight, after all.
 Dialogue: 5,0:14:55.87,0:14:57.92,Main,Daimonji,0,400,0,,{\an8}Destroying the Stealth Rock...
-Dialogue: 5,0:14:57.92,0:14:59.50,Main,Daimonji,0,400,0,,{\an8}Defeating Milokaross...
+Dialogue: 5,0:14:57.92,0:14:59.50,Main,Daimonji,0,400,0,,{\an8}Defeating Milokallos...
 Dialogue: 5,0:14:59.50,0:15:05.30,Main,Daimonji,0,400,0,,{\an8}And decimating the opposing ace \N Gaburias’s stamina with Star Assault!
 Dialogue: 5,0:15:05.30,0:15:10.81,Main,Daimonji,0,400,0,,{\an8}I bet Negigaknight’s gallant battle \N inspired Lucario, too.
 Dialogue: 5,0:15:12.14,0:15:13.56,Main,Newsy the Newscaster Caster of News,0,0,0,,Next...

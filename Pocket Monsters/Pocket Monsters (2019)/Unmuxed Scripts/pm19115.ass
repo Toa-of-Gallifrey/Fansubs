@@ -339,7 +339,7 @@ Dialogue: 0,0:21:27.10,0:21:31.10,Main,Narrator,0,0,0,,...the Dragon Tamer Watar
 Dialogue: 0,0:21:31.94,0:21:34.36,Main,Narrator,0,0,0,,...and the Champion of Kalos, Carne.
 Dialogue: 0,0:21:34.36,0:21:36.98,Main,Satoshi,0,0,0,,Whoever wins battles Mr. Dande{Honorifics note: Dande-san}!
 Dialogue: 0,0:21:36.98,0:21:38.24,Main,Go & Hop,0,0,0,,Yeah!
-Dialogue: 0,0:21:38.24,0:21:42.28,Main,Narrator,0,60,0,,Which of the two will emerge victorious in the \N second match?
+Dialogue: 0,0:21:38.24,0:21:42.28,Main,Narrator,0,60,0,,Which of the two will emerge victorious in \N the second match?{Note: Check that the margin is good. - Toa of the Batch}
 Comment: 0,0:21:44.49,0:21:44.49,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:05.49,0:23:05.49,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:06.41,0:23:10.87,Main,Team Rocket,0,0,0,,Pokémon World Championships \N Masters Tournament News!

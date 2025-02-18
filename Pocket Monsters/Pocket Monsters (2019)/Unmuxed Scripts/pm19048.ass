@@ -87,7 +87,7 @@ Dialogue: 0,0:04:56.48,0:04:57.48,Main,Musashi,0,0,0,,C-C-Coming right up!
 Dialogue: 0,0:04:57.85,0:04:59.55,Main,Musashi,0,0,0,,Thanks for your continued patronage!{maido ari... feels weird (and much too long) but just having ‘thanks!’ also feels like it’d be coming from nowhere... something like ‘come again’ or so also doesn’t fit as this isn’t anywhere near the end of the conversation... not sure what to do :s -blu}
 Dialogue: 0,0:04:59.55,0:05:01.91,Main,Musashi,0,0,0,,You’re very lucky customers!
 Dialogue: 0,0:05:01.91,0:05:04.40,Main,Musashi,0,0,0,,Today’s the anniversary of Hiun Ice Cream!
-Dialogue: 0,0:05:04.40,0:05:08.32,Main,Musashi,0,0,0,,So, I’ll add on a \N bonus topping for you!
+Dialogue: 0,0:05:04.40,0:05:08.32,Main,Musashi,0,0,0,,So, I’ll add on \N a bonus topping for you!
 Dialogue: 0,0:05:08.32,0:05:09.31,Main,Satoshi,0,0,0,,Great!
 Dialogue: 0,0:05:09.31,0:05:12.85,Main,Go,0,0,0,,Oh, I don’t need any. \N I’m fine with plain vanilla.
 Dialogue: 0,0:05:12.85,0:05:15.84,Main,Satoshi,0,0,0,,Then I’ll take both of our bonuses!
@@ -221,7 +221,7 @@ Dialogue: 0,0:20:43.63,0:20:45.13,Main,Go,0,0,0,,Here, some souvenirs.
 Dialogue: 0,0:21:22.23,0:21:24.49,Main,Satoshi,0,0,0,,They really get on well!
 Dialogue: 0,0:21:24.49,0:21:25.76,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:21:31.47,0:21:35.64,Main,Narrator,0,0,0,,Aceburn and Lucario, pulled apart \N and together by a stretchy bouncy tether. {Added linebreak. - Toa}
-Dialogue: 0,0:21:35.64,0:21:39.66,Main,Narrator,0,0,0,,They’ll make for a \N stretchy bouncy duo... perhaps.
+Dialogue: 0,0:21:35.64,0:21:39.66,Main,Narrator,0,0,0,,They’ll make for \N a stretchy bouncy duo... perhaps.
 Comment: 0,0:21:44.48,0:21:44.48,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:07.20,0:23:09.62,Main,Satoshi,0,0,0,,Now, off to the next adventure!

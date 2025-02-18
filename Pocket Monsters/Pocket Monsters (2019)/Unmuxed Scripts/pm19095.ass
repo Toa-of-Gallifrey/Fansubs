@@ -317,7 +317,7 @@ Dialogue: 0,0:16:07.86,0:16:09.78,Main,Nyarth,0,0,0,,Take it, meow!
 Dialogue: 0,0:16:15.41,0:16:18.33,Main,Musashi,0,0,0,,How far’s it gonna fly?
 Dialogue: 0,0:16:19.50,0:16:19.92,Main,Musashi,0,0,0,,Huh?
 Dialogue: 0,0:16:23.17,0:16:24.96,Main,Musashi,0,0,0,,What are you doing, Tyltto?!
-Dialogue: 0,0:16:24.96,0:16:28.22,Main,Musashi,0,0,0,,Aren’t you supposed to be the \N blue bird Pokémon that brings happiness?!
+Dialogue: 0,0:16:24.96,0:16:28.22,Main,Musashi,0,0,0,,Aren’t you supposed to be \N the blue bird Pokémon that brings happiness?!
 Dialogue: 0,0:16:34.06,0:16:37.56,Main,Musashi,0,0,0,,What an awful fee— ling...
 Dialogue: 0,0:16:47.32,0:16:50.24,Main,Musashi,0,0,0,,Hey... \N You get the feeling we’re lost?
 Dialogue: 0,0:16:52.95,0:16:55.95,Main,Musashi,0,0,0,,How’d we even end up like this?
@@ -430,7 +430,7 @@ Dialogue: 0,0:20:50.75,0:20:52.23,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Co
 Dialogue: 0,0:20:52.23,0:20:53.68,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:20:53.68,0:20:57.24,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
 Dialogue: 0,0:20:57.24,0:21:00.37,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,
-Dialogue: 0,0:21:00.37,0:21:03.63,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
+Dialogue: 0,0:21:00.37,0:21:03.63,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny Earth,
 Dialogue: 0,0:21:03.63,0:21:06.86,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:21:06.86,0:21:11.72,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together! What a great feeling!
 Dialogue: 0,0:21:11.72,0:21:14.84,Insert,Team Rocket Theme,0,0,0,,{\an8}Wherever we land,

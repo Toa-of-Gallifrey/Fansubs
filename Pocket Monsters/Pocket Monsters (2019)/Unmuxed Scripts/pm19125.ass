@@ -43,7 +43,7 @@ Style: Answer,FOT-Slump Std DB,48,&H00FDFFFF,&H00F5FEF5,&H00293251,&HFF293251,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:02.07,0:00:05.86,Main,Narrator,0,0,0,,The second match of the \N Masters Tournament Semifinals.
+Dialogue: 0,0:00:02.07,0:00:05.86,Main,Narrator,0,0,0,,The second match of \N the Masters Tournament Semifinals.
 Dialogue: 0,0:00:05.86,0:00:11.45,Main,Narrator,0,0,0,,A full battle between the Champion of Sinnoh, Shirona, \N and the first Champion of Alola, Satoshi.
 Dialogue: 0,0:00:13.41,0:00:16.58,Main,Narrator,0,0,0,,Although Satoshi began \N by sending in Kairyu,
 Dialogue: 0,0:00:16.58,0:00:21.50,Main,Narrator,0,0,0,,Shirona’s tactic of skillfully switching Pokémon \N made short work of her.
@@ -51,7 +51,7 @@ Dialogue: 0,0:00:21.96,0:00:25.00,Main,Narrator,0,0,0,,He even went on to lose G
 Dialogue: 0,0:00:25.88,0:00:31.39,Main,Narrator,0,0,0,,But while his ace, Pikachu, \N fought hard to bring a comeback into sight,
 Dialogue: 0,0:00:31.72,0:00:36.39,Main,Narrator,0,0,0,,Pikachu was shockingly taken down \N by Mikaruge’s Drag Along!
 Dialogue: 0,0:00:37.77,0:00:41.73,Main,Narrator,0,0,0,,Launching a desperate counterattack \N with Uonoragon and Negigaknight,
-Dialogue: 0,0:00:41.73,0:00:45.19,Main,Narrator,0,0,0,,he managed to drive off \N Roserade and Milokaross.
+Dialogue: 0,0:00:41.73,0:00:45.19,Main,Narrator,0,0,0,,he managed to drive off \N Roserade and Milokallos.
 Dialogue: 0,0:00:45.19,0:00:50.32,Main,Narrator,0,0,0,,Yet he ultimately found himself with \N only one Pokémon left: Lucario.
 Dialogue: 0,0:00:51.32,0:00:53.62,Main,Narrator,0,0,0,,And then, Shirona...
 Dialogue: 0,0:00:55.74,0:00:58.08,Main,Shirona,0,0,0,,Tower over all, white wings!{124}
@@ -211,7 +211,7 @@ Dialogue: 0,0:18:08.94,0:18:10.11,Main,Hop,0,0,0,,He went and did it!
 Dialogue: 0,0:18:10.11,0:18:12.45,Main,Hop,0,0,0,,The finals’ll be \N Big Bro and Satoshi!
 Dialogue: 0,0:18:12.45,0:18:15.57,Main,Go & Hop,0,0,0,,And it’s gonna be \N an incredible battle, yeah!
 Dialogue: 0,0:18:15.57,0:18:18.08,Main,Nyarth,0,0,0,,He... He... \N He made it, meow!
-Dialogue: 0,0:18:18.08,0:18:21.20,Main,Musashi,0,0,0,,Now {\i1}there’s{\i0} an \N upset for the ages!
+Dialogue: 0,0:18:18.08,0:18:21.20,Main,Musashi,0,0,0,,Now {\i1}there’s{\i0} \N an upset for the ages!
 Dialogue: 0,0:18:21.20,0:18:25.04,Main,Kojiro,0,0,0,,He beat the Champions of \N Hoenn and Sinnoh! What a...
 Dialogue: 0,0:18:25.04,0:18:28.05,Main,Team Rocket,0,0,0,,{\i1}...Champion Killer!{\i0}
 Dialogue: 0,0:18:29.13,0:18:33.55,Main,Nyarth,0,0,0,,Huh? Wasn’t our goal...
@@ -234,7 +234,7 @@ Dialogue: 0,0:19:49.75,0:19:53.84,Main,Shirona,0,0,0,,You’ve made me realize \
 Dialogue: 0,0:19:54.38,0:19:56.34,Main,Shirona,0,0,0,,Thank you, Satoshi!
 Dialogue: 0,0:19:56.88,0:19:59.01,Main,Shirona,0,0,0,,Let’s battle again, sometime.
 Dialogue: 0,0:19:59.01,0:19:59.97,Main,Satoshi,0,0,0,,Sure!
-Dialogue: 0,0:20:02.14,0:20:09.65,Main,Mic,0,0,0,,The finals are now all that remains for the \N Pokémon World Championships Masters Tournament.
+Dialogue: 0,0:20:02.14,0:20:09.65,Main,Mic,0,0,0,,The finals are now all that remains for \N the Pokémon World Championships Masters Tournament.
 Dialogue: 0,0:20:09.65,0:20:15.61,Main,Mic,0,0,0,,Ranked 8th in the Masters Eight; \N the first Champion of Alola, Competitor Satoshi.
 Dialogue: 0,0:20:15.61,0:20:22.16,Main,Mic,0,0,0,,His opponent is ranked 1st in the Masters Eight; \N the Champion of Galar, Competitor Dande.
 Dialogue: 0,0:20:22.16,0:20:26.08,Main,Mic,0,0,0,,Now, which one of them will reign \N as the top Pokémon Trainer?

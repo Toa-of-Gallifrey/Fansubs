@@ -185,7 +185,7 @@ Dialogue: 0,0:13:35.38,0:13:39.90,Main,Go,0,0,0,,Yeah! We’re not letting bad g
 Dialogue: 0,0:13:39.90,0:13:40.92,Main,Satoshi,0,0,0,,Go?
 Dialogue: 0,0:13:41.42,0:13:43.96,Main,Thunder,0,0,0,,Oh, no, we’re not bad guys...
 Dialogue: 0,0:13:43.96,0:13:45.43,Main,Fire,0,0,0,,It’s a misunderstanding!
-Dialogue: 0,0:13:45.43,0:13:49.30,Main,Thunder,0,0,0,,We’re researchers from the \N Eevee Evolution Laboratory.
+Dialogue: 0,0:13:45.43,0:13:49.30,Main,Thunder,0,0,0,,We’re researchers from \N the Eevee Evolution Laboratory.
 Dialogue: 0,0:13:49.69,0:13:52.91,Main,Koharu,0,0,0,,The Eevee Evolution... \N Laboratory?
 Dialogue: 0,0:13:52.91,0:13:56.31,Main,Satoshi,0,0,0,,Hey! Go! Koharu! \N Are you there?!
 Dialogue: 0,0:13:56.84,0:13:58.56,Main,Go,0,0,0,,Satoshi?
@@ -234,7 +234,7 @@ Dialogue: 0,0:16:37.01,0:16:39.04,Main,Koharu,0,0,0,,You want to battle?
 Dialogue: 0,0:16:40.06,0:16:41.42,Main,Musashi,0,0,0,,What are you doing, Kojiro?!
 Dialogue: 0,0:16:41.42,0:16:44.06,Main,Musashi,0,0,0,,Hurry up with the next move, \N have, have it do something!
 Dialogue: 0,0:16:44.06,0:16:46.04,Main,Kojiro,0,0,0,,Pelipper, use Hydro Pump!
-Dialogue: 0,0:16:46.04,0:16:48.69,Main,Nyarth,0,0,0,,Hydro Pump is a \N super strong move, meow!{Why thank you Nyarth I'm sure nobody in this scene knew that. -Starfish}
+Dialogue: 0,0:16:46.04,0:16:48.69,Main,Nyarth,0,0,0,,Hydro Pump is \N a super strong move, meow!{Why thank you Nyarth I'm sure nobody in this scene knew that. -Starfish}
 Dialogue: 0,0:16:52.44,0:16:55.45,Main,Koharu,0,0,0,,Wanpachi! Eevee! Spark! {Kinda wanna suggest extending to the next keyframe. - Toa}
 Dialogue: 0,0:17:11.68,0:17:13.28,Main,Thunder,0,0,0,,Did you... see that?
 Dialogue: 0,0:17:13.28,0:17:14.68,Main,Fire,0,0,0,,Y-Yeah...
@@ -261,7 +261,7 @@ Dialogue: 0,0:19:19.94,0:19:21.05,Main,Ice,0,0,0,,Right.
 Dialogue: 0,0:19:21.05,0:19:29.49,Main,Ice,0,0,0,,Eevee have unstable genes in general, \N so maybe that one’s genes are more unstable than most.{"So since this Eevee ISN'T transforming into an entirely different form at the slightest stimuli, clearly that means it's MORE unstable than your average Eevee!"? :/ -Starfish}
 Dialogue: 0,0:19:29.49,0:19:34.76,Main,Ice,0,0,0,,Or perhaps... Maybe she’s hesitant, \N unable to decide what path she should take.
 Dialogue: 0,0:19:34.76,0:19:36.53,Main,Koharu,0,0,0,,Hesitant...
-Dialogue: 0,0:19:36.93,0:19:39.79,Main,Ice,0,0,0,,Though that’s not a \N very scientific perspective.
+Dialogue: 0,0:19:36.93,0:19:39.79,Main,Ice,0,0,0,,Though that’s not \N a very scientific perspective.
 Dialogue: 0,0:19:39.79,0:19:41.20,Main,Ice,0,0,0,,Hey, Koharu...
 Dialogue: 0,0:19:41.20,0:19:44.74,Main,Ice,0,0,0,,If you wouldn’t mind, \N do you think you could look after Eevee? {Added "look". - Toa}
 Dialogue: 0,0:19:44.74,0:19:45.84,Main,Koharu,0,0,0,,Huh?

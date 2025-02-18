@@ -134,7 +134,7 @@ Dialogue: 0,0:08:04.89,0:08:05.79,Main,Satoshi,0,0,0,,Paralyzed, huh?
 Dialogue: 0,0:08:07.31,0:08:08.93,Main,Go,0,0,0,,The paralysis status condition...{That made it paralyzed.}{That’s the paralysis status.}{That put it in paralysis status.}{The rest of the ep uses ‘shibireru’(more colloquial and specific to electric shock than EN:paralysis), but Go here shoves in the game term ‘mahi joutai’(paralysis status). May be some better way of putting it? -blu}{I tried. - Toa}
 Dialogue: 0,0:08:08.93,0:08:10.51,Main,Denji,0,0,0,,Now! Evil Eye!{たたりめ/Hex}
 Dialogue: 0,0:08:19.33,0:08:21.20,Main,Commentator,0,0,0,,The Evil Eye hit!
-Dialogue: 0,0:08:21.20,0:08:24.73,Main,Commentator,0,0,0,,This move gets stronger when the \N opponent has a status condition!
+Dialogue: 0,0:08:21.20,0:08:24.73,Main,Commentator,0,0,0,,This move gets stronger when \N the opponent has a status condition!
 Dialogue: 0,0:08:24.73,0:08:29.06,Main,Commentator,0,0,0,,Competitor Denji overpowers Competitor Satoshi \N with combo after combo!
 Dialogue: 0,0:08:30.19,0:08:31.24,Main,Satoshi,0,0,0,,Gänger!
 Dialogue: 0,0:08:34.87,0:08:36.18,Main,Satoshi,0,0,0,,You okay?

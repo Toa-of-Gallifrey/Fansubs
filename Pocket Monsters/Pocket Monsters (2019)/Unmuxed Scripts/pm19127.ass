@@ -922,30 +922,30 @@ Dialogue: 0,0:22:32.71,0:22:32.75,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(-432,0)\p
 Dialogue: 0,0:22:32.75,0:22:32.79,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(-432,0)\p1\c&HF9DBB7&}m 0 0 m 917 377 l 1003 377 l 1003 398 l 902 398 {\p0}
 Dialogue: 0,0:22:32.79,0:22:32.83,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(-432,0)\p1\c&HF9DBB7&}m 0 0 m 917 373 l 1003 373 l 1003 398 l 902 398 {\p0}
 Dialogue: 0,0:22:32.83,0:22:33.67,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(-432,0)\p1\c&HF9DBB7&}m 0 0 m 917 373 l 1000 373 l 1000 396 l 902 396 {\p0}
-Dialogue: 0,0:22:22.41,0:22:22.45,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)\clip(m 617.14 396.19 l 614.1 397.71 609.52 400 604.19 402.29 597.33 404.57 592 407.62 586.67 409.14 583.62 409.14 579.81 410.67 576 410.67 579.81 415.24 582.86 420.57 584.38 424.38 589.71 429.71 592 432.76 595.05 439.62 600.38 441.14 611.81 441.14 617.9 439.62)}Milokaross
-Dialogue: 0,0:22:22.45,0:22:22.49,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\clip(m 520 400.89 l 518.22 407.11 516.44 415.11 515.56 421.33 515.56 429.33 515.56 433.78 607.11 434.67 608.89 401.78)\pos(550.45,403)}Milokaross
-Dialogue: 0,0:22:22.49,0:22:23.11,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)}Milokaross
-Dialogue: 0,0:22:23.11,0:22:23.15,Question,,0,0,0,,{\blur0.2\fscx57.6\fscy64\bord0\c&HE24D14&\pos(556.85,410.47)}Milokaross
-Dialogue: 0,0:22:23.15,0:22:23.20,Question,,0,0,0,,{\blur0.2\fscx61.2\fscy68\bord0\c&HE24D14&\pos(563.67,419.18)}Milokaross
-Dialogue: 0,0:22:23.20,0:22:23.24,Question,,0,0,0,,{\blur0.2\fscx63\fscy70\bord0\c&HE24D14&\pos(567.69,424.51)}Milokaross
-Dialogue: 0,0:22:23.24,0:22:23.28,Question,,0,0,0,,{\blur0.2\fscx63.9\fscy71\bord0\c&HE24D14&\pos(568.96,426.29)}Milokaross
-Dialogue: 0,0:22:23.28,0:22:23.32,Question,,0,0,0,,{\blur0.2\fscx63\fscy70\bord0\c&HE24D14&\pos(567.69,424.51)}Milokaross
-Dialogue: 0,0:22:23.32,0:22:23.36,Question,,0,0,0,,{\blur0.2\fscx61.2\fscy68\bord0\c&HE24D14&\pos(565.56,420.96)}Milokaross
-Dialogue: 0,0:22:23.36,0:22:25.37,Question,,0,0,0,,{\blur0.2\fscx60.3\fscy67\bord0\c&HE24D14&\pos(563.78,418.29)}Milokaross
-Dialogue: 0,0:22:25.37,0:22:25.41,Question,,0,0,0,,{\blur0.2\fscx59.85\fscy66.5\bord0\c&HE24D14&\pos(562.89,418.29)}Milokaross
-Dialogue: 0,0:22:25.41,0:22:25.45,Question,,0,0,0,,{\blur0.2\fscx59.22\fscy65.8\bord0\c&HE24D14&\pos(561.11,416.51)}Milokaross
-Dialogue: 0,0:22:25.45,0:22:25.49,Question,,0,0,0,,{\blur0.2\fscx58.23\fscy64.7\bord0\c&HE24D14&\pos(558.45,412.07)}Milokaross
-Dialogue: 0,0:22:25.49,0:22:25.53,Question,,0,0,0,,{\blur0.2\fscx55.8\fscy62\bord0\c&HE24D14&\pos(554.64,407.5)}Milokaross
-Dialogue: 0,0:22:25.53,0:22:25.57,Question,,0,0,0,,{\blur0.2\fscx54.9\fscy61\bord0\c&HE24D14&\pos(551.97,404.52)}Milokaross
-Dialogue: 0,0:22:25.57,0:22:25.62,Question,,0,0,0,,{\blur0.2\fscx54.45\fscy60.5\bord0\c&HE24D14&\pos(550.45,403)}Milokaross
-Dialogue: 0,0:22:25.62,0:22:32.58,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)}Milokaross
-Dialogue: 0,0:22:32.58,0:22:32.62,Question,,0,0,0,,{\blur0.2\fscx52.2\fscy58\bord0\c&HE24D14&\pos(546.97,397.67)}Milokaross
-Dialogue: 0,0:22:32.62,0:22:32.66,Question,,0,0,0,,{\blur0.2\fscx48.6\fscy54\bord0\c&HE24D14&\pos(540.57,389.14)}Milokaross
-Dialogue: 0,0:22:32.66,0:22:32.71,Question,,0,0,0,,{\blur0.2\fscx45.9\fscy51\bord0\c&HE24D14&\pos(534.47,382.28)}Milokaross
-Dialogue: 0,0:22:32.71,0:22:32.75,Question,,0,0,0,,{\blur0.2\fscx44.1\fscy49\bord0\c&HE24D14&\pos(530.56,377.71)}Milokaross
-Dialogue: 0,0:22:32.75,0:22:32.79,Question,,0,0,0,,{\blur0.2\fscx43.2\fscy48\bord0\c&HE24D14&\pos(527.37,374.66)}Milokaross
-Dialogue: 0,0:22:32.79,0:22:32.83,Question,,0,0,0,,{\blur0.2\fscx42.57\fscy47.3\bord0\c&HE24D14&\pos(526.35,373.04)}Milokaross
-Dialogue: 0,0:22:32.83,0:22:33.67,Question,,0,0,0,,{\blur0.2\fscx42.3\fscy47\bord0\c&HE24D14&\pos(526.09,372.38)}Milokaross
+Dialogue: 0,0:22:22.41,0:22:22.45,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)\clip(m 617.14 396.19 l 614.1 397.71 609.52 400 604.19 402.29 597.33 404.57 592 407.62 586.67 409.14 583.62 409.14 579.81 410.67 576 410.67 579.81 415.24 582.86 420.57 584.38 424.38 589.71 429.71 592 432.76 595.05 439.62 600.38 441.14 611.81 441.14 617.9 439.62)}Milokallos
+Dialogue: 0,0:22:22.45,0:22:22.49,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\clip(m 520 400.89 l 518.22 407.11 516.44 415.11 515.56 421.33 515.56 429.33 515.56 433.78 607.11 434.67 608.89 401.78)\pos(550.45,403)}Milokallos
+Dialogue: 0,0:22:22.49,0:22:23.11,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)}Milokallos
+Dialogue: 0,0:22:23.11,0:22:23.15,Question,,0,0,0,,{\blur0.2\fscx57.6\fscy64\bord0\c&HE24D14&\pos(556.85,410.47)}Milokallos
+Dialogue: 0,0:22:23.15,0:22:23.20,Question,,0,0,0,,{\blur0.2\fscx61.2\fscy68\bord0\c&HE24D14&\pos(563.67,419.18)}Milokallos
+Dialogue: 0,0:22:23.20,0:22:23.24,Question,,0,0,0,,{\blur0.2\fscx63\fscy70\bord0\c&HE24D14&\pos(567.69,424.51)}Milokallos
+Dialogue: 0,0:22:23.24,0:22:23.28,Question,,0,0,0,,{\blur0.2\fscx63.9\fscy71\bord0\c&HE24D14&\pos(568.96,426.29)}Milokallos
+Dialogue: 0,0:22:23.28,0:22:23.32,Question,,0,0,0,,{\blur0.2\fscx63\fscy70\bord0\c&HE24D14&\pos(567.69,424.51)}Milokallos
+Dialogue: 0,0:22:23.32,0:22:23.36,Question,,0,0,0,,{\blur0.2\fscx61.2\fscy68\bord0\c&HE24D14&\pos(565.56,420.96)}Milokallos
+Dialogue: 0,0:22:23.36,0:22:25.37,Question,,0,0,0,,{\blur0.2\fscx60.3\fscy67\bord0\c&HE24D14&\pos(563.78,418.29)}Milokallos
+Dialogue: 0,0:22:25.37,0:22:25.41,Question,,0,0,0,,{\blur0.2\fscx59.85\fscy66.5\bord0\c&HE24D14&\pos(562.89,418.29)}Milokallos
+Dialogue: 0,0:22:25.41,0:22:25.45,Question,,0,0,0,,{\blur0.2\fscx59.22\fscy65.8\bord0\c&HE24D14&\pos(561.11,416.51)}Milokallos
+Dialogue: 0,0:22:25.45,0:22:25.49,Question,,0,0,0,,{\blur0.2\fscx58.23\fscy64.7\bord0\c&HE24D14&\pos(558.45,412.07)}Milokallos
+Dialogue: 0,0:22:25.49,0:22:25.53,Question,,0,0,0,,{\blur0.2\fscx55.8\fscy62\bord0\c&HE24D14&\pos(554.64,407.5)}Milokallos
+Dialogue: 0,0:22:25.53,0:22:25.57,Question,,0,0,0,,{\blur0.2\fscx54.9\fscy61\bord0\c&HE24D14&\pos(551.97,404.52)}Milokallos
+Dialogue: 0,0:22:25.57,0:22:25.62,Question,,0,0,0,,{\blur0.2\fscx54.45\fscy60.5\bord0\c&HE24D14&\pos(550.45,403)}Milokallos
+Dialogue: 0,0:22:25.62,0:22:32.58,Question,,0,0,0,,{\blur0.2\fscx54\fscy60\bord0\c&HE24D14&\pos(550.45,403)}Milokallos
+Dialogue: 0,0:22:32.58,0:22:32.62,Question,,0,0,0,,{\blur0.2\fscx52.2\fscy58\bord0\c&HE24D14&\pos(546.97,397.67)}Milokallos
+Dialogue: 0,0:22:32.62,0:22:32.66,Question,,0,0,0,,{\blur0.2\fscx48.6\fscy54\bord0\c&HE24D14&\pos(540.57,389.14)}Milokallos
+Dialogue: 0,0:22:32.66,0:22:32.71,Question,,0,0,0,,{\blur0.2\fscx45.9\fscy51\bord0\c&HE24D14&\pos(534.47,382.28)}Milokallos
+Dialogue: 0,0:22:32.71,0:22:32.75,Question,,0,0,0,,{\blur0.2\fscx44.1\fscy49\bord0\c&HE24D14&\pos(530.56,377.71)}Milokallos
+Dialogue: 0,0:22:32.75,0:22:32.79,Question,,0,0,0,,{\blur0.2\fscx43.2\fscy48\bord0\c&HE24D14&\pos(527.37,374.66)}Milokallos
+Dialogue: 0,0:22:32.79,0:22:32.83,Question,,0,0,0,,{\blur0.2\fscx42.57\fscy47.3\bord0\c&HE24D14&\pos(526.35,373.04)}Milokallos
+Dialogue: 0,0:22:32.83,0:22:33.67,Question,,0,0,0,,{\blur0.2\fscx42.3\fscy47\bord0\c&HE24D14&\pos(526.09,372.38)}Milokallos
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:22.53,0:22:22.57,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HA9F7FF&\clip(m 894 360 l 961.56 360.89 961.56 449 894 449)}m 0 0 m 930 405 l 1040 405 l 1040 433 l 910 433 {\p0}
 Dialogue: 0,0:22:22.57,0:22:25.57,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HA9F7FF&}m 0 0 m 930 405 l 1040 405 l 1040 433 l 910 433 {\p0}

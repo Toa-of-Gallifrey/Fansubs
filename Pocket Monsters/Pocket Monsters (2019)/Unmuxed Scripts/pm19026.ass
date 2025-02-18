@@ -86,7 +86,7 @@ Dialogue: 0,0:03:50.81,0:03:52.49,Main,Satoshi,0,0,0,,He’s gotten crazy fat...
 Dialogue: 0,0:03:52.49,0:03:56.30,Main,Go,0,0,0,,Don’t worry! \N I got a master plan!
 Dialogue: 0,0:03:56.82,0:03:58.17,Main,Kasuking,0,0,0,,We’re the {\i1}Ko{\i0}-ings!
 Dialogue: 0,0:03:58.17,0:04:01.30,Main,Kasuking,0,0,0,,Hope your abs are still ripped!
-Dialogue: 0,0:04:02.20,0:04:05.90,Main,Go,0,0,0,,Kasuking isn’t {\i1}just{\i0} the \N Koiking High Jump Champion.
+Dialogue: 0,0:04:02.20,0:04:05.90,Main,Go,0,0,0,,Kasuking isn’t {\i1}just{\i0} \N the Koiking High Jump Champion.
 Dialogue: 0,0:04:05.90,0:04:08.39,Main,Go,0,0,0,,He’s also a popular muscle trainer!
 Dialogue: 0,0:04:08.39,0:04:12.18,Main,Kasuking,0,0,0,,Now, don’t give up! \N You can still do it!
 Dialogue: 0,0:04:12.18,0:04:14.65,Main,Kasuking,0,0,0,,Your abs can get \N even more ripped!
@@ -234,7 +234,7 @@ Dialogue: 0,0:14:09.20,0:14:10.65,Main,Go,0,0,0,,Not the {\i1}food!{\i0}
 Dialogue: 0,0:14:12.12,0:14:16.38,Main,Rotom Go Ver,0,0,0,,Yadoking! Royal Pokémon! \N Water/Psychic type!
 Dialogue: 0,0:14:16.38,0:14:21.34,Main,Rotom Go Ver,0,0,0,,If its tail is bitten by a Shellder, \N Yadon evolves into Yadoran!{Stadium dex entry for Slowbro}
 Dialogue: 0,0:14:21.34,0:14:24.78,Main,Rotom Go Ver,0,0,0,,But when its head is bitten instead, \N it evolves into Yadoking!{Not from the games. -Starfish}
-Dialogue: 0,0:14:24.78,0:14:27.34,Main,Rotom Go Ver,0,0,0,,It possesses the \N intellect of a genius!{”intellect of a genius” is from Sun. -Starfish}
+Dialogue: 0,0:14:24.78,0:14:27.34,Main,Rotom Go Ver,0,0,0,,It possesses \N the intellect of a genius!{”intellect of a genius” is from Sun. -Starfish}
 Dialogue: 0,0:14:27.98,0:14:29.84,Main,Go,0,0,0,,Huh? Of a genius?
 Dialogue: 0,0:14:33.34,0:14:36.31,Main,Go,0,0,0,,All right! \N I’ll start with Yadoking!
 Dialogue: 0,0:14:42.25,0:14:43.88,Main,Satoshi,0,0,0,,That’s Psychokinesis!
@@ -309,7 +309,7 @@ Dialogue: 0,0:20:44.43,0:20:46.14,Main,Go,0,0,0,,Koiking!
 Dialogue: 0,0:20:50.06,0:20:52.81,Main,Narrator,0,0,0,,Go’s Koiking, \N thought to have become a star...
 Dialogue: 0,0:20:52.81,0:20:57.62,Main,Narrator,0,0,0,,...has safely returned to him! \N All’s well that ends well... I suppose?
 Dialogue: 0,0:21:09.53,0:21:12.20,Main,Musashi,0,0,0,,Man, I’m so bored! \N Anything from Sakaki?
-Dialogue: 0,0:21:12.20,0:21:16.13,Main,Nyarth,0,0,0,,Not a sound. Not even the \N slightest whisper, meow.
+Dialogue: 0,0:21:12.20,0:21:16.13,Main,Nyarth,0,0,0,,Not a sound. \N Not even the slightest whisper, meow.
 Dialogue: 0,0:21:17.21,0:21:20.00,Main,Kojiro,0,0,0,,In that case, \N wanna do some training?
 Dialogue: 0,0:21:20.00,0:21:24.72,Main,Musashi,0,0,0,,Guess we might as well. \N Capsule machine, come on!
 Dialogue: 0,0:21:27.89,0:21:30.30,Main,Nyarth,0,0,0,,We’re indoors, \N so it won’t come, meow.

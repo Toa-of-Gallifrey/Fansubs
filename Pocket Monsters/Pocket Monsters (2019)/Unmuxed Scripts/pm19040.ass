@@ -282,7 +282,7 @@ Dialogue: 0,0:16:18.41,0:16:19.95,Main,Satoshi,0,0,0,,No good! \N It doesn’t h
 Dialogue: 0,0:16:26.32,0:16:27.71,Main,Go,0,0,0,,Rabbifoot!
 Dialogue: 0,0:16:48.66,0:16:50.93,Main,Go,0,0,0,,You just wait right there, Thunder!
 Dialogue: 0,0:16:53.70,0:16:56.71,Main,Go,0,0,0,,We’re coming for you!
-Dialogue: 0,0:17:00.68,0:17:03.71,Main,Go,0,0,0,,Now Flygon, use Draco Meteor!
+Dialogue: 0,0:17:00.68,0:17:03.71,Main,Go,0,0,0,,Now Flygon, use Dragon Meteor Shower!
 Dialogue: 0,0:17:16.16,0:17:17.34,Main,Satoshi,0,0,0,,Rabbifoot?!
 Dialogue: 0,0:17:22.35,0:17:23.45,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:17:23.45,0:17:25.10,Main,Go,0,0,0,,Get it, Rabbifoot!
@@ -342,7 +342,7 @@ Dialogue: 0,0:21:24.75,0:21:26.02,Main,Go,0,0,0,,Well...
 Dialogue: 0,0:21:26.77,0:21:30.22,Main,Go,0,0,0,,Of course the delicious meal \N comes first!
 Dialogue: 0,0:21:31.25,0:21:33.23,Main,Satoshi,0,0,0,,I know, right?!
 Dialogue: 0,0:21:34.37,0:21:38.31,Main,Narrator,0,0,0,,Though they couldn’t get \N the Legendary Pokémon, Thunder,
-Dialogue: 0,0:21:38.31,0:21:43.08,Main,Narrator,250,0,0,,Go and Satoshi {\i1}did{\i0} get an \N exciting new discovery!
+Dialogue: 0,0:21:38.31,0:21:43.08,Main,Narrator,250,0,0,,Go and Satoshi {\i1}did{\i0} get \N an exciting new discovery!
 Comment: 0,0:21:44.48,0:21:44.49,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:07.22,0:23:09.66,Main,Satoshi,0,0,0,,Now, off to the next adventure!

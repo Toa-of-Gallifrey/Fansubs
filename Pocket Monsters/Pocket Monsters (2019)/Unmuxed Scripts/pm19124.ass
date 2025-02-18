@@ -47,7 +47,7 @@ Dialogue: 0,0:00:08.91,0:00:11.03,Main,Narrator,0,0,0,,The second match of the s
 Dialogue: 0,0:00:11.03,0:00:16.12,Main,Narrator,0,0,0,,The Champion of Sinnoh, Shirona, \N versus the first Champion of Alola, Satoshi.
 Dialogue: 0,0:00:16.12,0:00:18.87,Main,Narrator,0,0,0,,Their 6v6 full battle has begun.
 Dialogue: 0,0:00:18.87,0:00:21.83,Main,Mic,0,0,0,,Let the battle begin!{123}
-Dialogue: 0,0:00:21.83,0:00:22.88,Main,Satoshi,0,0,0,,Draco Meteor!{123}
+Dialogue: 0,0:00:21.83,0:00:22.88,Main,Satoshi,0,0,0,,Dragon Meteor Shower!{123}
 Dialogue: 0,0:00:26.13,0:00:27.47,Main,Shirona,0,0,0,,Surprise Attack!{123}
 Dialogue: 0,0:00:34.43,0:00:41.23,Main,Narrator,0,0,0,,{\q2}Employing skillful Pokémon switches centered \N around Mikaruge, Shirona had Satoshi at her mercy.
 Dialogue: 0,0:00:41.23,0:00:46.07,Main,Narrator,0,0,0,,Kairyu, Gänger, \N and even Pikachu were knocked out.
@@ -126,14 +126,14 @@ Dialogue: 0,0:08:05.34,0:08:08.68,Main,Nyarth,0,0,0,,Uonoragon... \N We’re wit
 Dialogue: 0,0:08:10.68,0:08:14.35,Main,Shirona,0,0,0,,You consider how Pokémon feel, \N so it was only natural.
 Dialogue: 0,0:08:14.35,0:08:18.44,Main,Shirona,0,0,0,,But that could also \N give me a chance at another win...
 Dialogue: 0,0:08:19.48,0:08:21.86,Main,Shirona,0,0,0,,Graceful spirit of water...
-Dialogue: 0,0:08:21.86,0:08:23.36,Main,Shirona,0,0,0,,Milokaross!
-Dialogue: 0,0:08:26.44,0:08:31.37,Main,Mic,0,0,0,,Competitor Shirona sends in Milokaross, \N who played a big role in the first round!
+Dialogue: 0,0:08:21.86,0:08:23.36,Main,Shirona,0,0,0,,Milokallos!
+Dialogue: 0,0:08:26.44,0:08:31.37,Main,Mic,0,0,0,,Competitor Shirona sends in Milokallos, \N who played a big role in the first round!
 Dialogue: 0,0:08:31.74,0:08:34.41,Main,Satoshi,0,0,0,,I’ve gotta end this quick, \N for Uonoragon!
 Dialogue: 0,0:08:34.41,0:08:35.83,Main,Satoshi,0,0,0,,Dragon Dive!
 Dialogue: 0,0:08:40.08,0:08:42.46,Main,Shirona,0,0,0,,Charm Voice!
 Dialogue: 0,0:08:48.22,0:08:52.60,Main,Mic,0,0,0,,It’s a Fairy move, \N super effective on Uonoragon!
 Dialogue: 0,0:08:56.18,0:08:57.81,Main,Satoshi,0,0,0,,Hang in there, Uonoragon!
-Dialogue: 0,0:09:01.77,0:09:03.94,Main,Shirona,0,0,0,,Milokaross! Do it!
+Dialogue: 0,0:09:01.77,0:09:03.94,Main,Shirona,0,0,0,,Milokallos! Do it!
 Dialogue: 0,0:09:10.07,0:09:11.95,Main,Mic,0,0,0,,And it’s trapped!
 Dialogue: 0,0:09:18.54,0:09:21.33,Main,Shirona,0,0,0,,Iron Head!
 Dialogue: 0,0:09:21.33,0:09:22.58,Main,Satoshi,0,0,0,,Jaw Bite!
@@ -142,7 +142,7 @@ Dialogue: 0,0:09:46.19,0:09:48.28,Main,Danpei,0,0,0,,Uonoragon is unable to batt
 Dialogue: 0,0:09:48.94,0:09:52.28,Main,Mic,0,0,0,,Another victory for\N Competitor Shirona!
 Dialogue: 0,0:09:56.53,0:09:59.16,Main,Satoshi,0,0,0,,You really did your best. \N Thank you!
 Dialogue: 0,0:09:59.70,0:10:02.67,Main,Carne,0,0,0,,Uonoragon’s last attack...
-Dialogue: 0,0:10:02.67,0:10:06.13,Main,Carne,0,0,0,,That must’ve dealt \N a heavy blow to Milokaross, too.
+Dialogue: 0,0:10:02.67,0:10:06.13,Main,Carne,0,0,0,,That must’ve dealt \N a heavy blow to Milokallos, too.
 Dialogue: 0,0:10:06.88,0:10:10.17,Main,Dande,0,0,0,,Yeah. \N He’s set up his next play.
 Dialogue: 0,0:10:10.17,0:10:12.55,Main,Nyarth,0,0,0,,Amazing, meow...
 Dialogue: 0,0:10:12.55,0:10:15.55,Main,Musashi,0,0,0,,That’s Daimax bravery!
@@ -170,13 +170,13 @@ Dialogue: 0,0:12:28.81,0:12:30.69,Main,Shirona,0,0,0,,Charm Voice!
 Dialogue: 0,0:12:35.32,0:12:36.69,Main,Satoshi,0,0,0,,Star Assault!
 Dialogue: 0,0:12:43.08,0:12:46.41,Main,Mic,0,0,0,,Negigaknight is enduring \N the Charm Voice!
 Dialogue: 0,0:12:48.25,0:12:49.71,Main,Satoshi,0,0,0,,{\i1}Go!{\i0}
-Dialogue: 0,0:13:02.64,0:13:04.85,Main,Danpei,0,0,0,,Milokaross is unable to battle!
+Dialogue: 0,0:13:02.64,0:13:04.85,Main,Danpei,0,0,0,,Milokallos is unable to battle!
 Dialogue: 0,0:13:04.85,0:13:11.60,Main,Mic,0,0,0,,Plunging in with a fearless attack, \N Negigaknight snatches a win for Satoshi!
 Dialogue: 0,0:13:11.60,0:13:13.48,Main,Satoshi,0,0,0,,You did it, Negigaknight!
 Dialogue: 0,0:13:15.86,0:13:18.36,Main,Team Rocket,0,0,0,,{\i1}All right!{\i0}
 Dialogue: 0,0:13:18.36,0:13:20.86,Main,Go,0,0,0,,Now they’re both \N down to two Pokémon.
 Dialogue: 0,0:13:22.32,0:13:24.49,Main,Hop,0,0,0,,The playing field’s even again...
-Dialogue: 0,0:13:27.79,0:13:30.16,Main,Shirona,0,0,0,,Leave the rest to me, Milokaross.
+Dialogue: 0,0:13:27.79,0:13:30.16,Main,Shirona,0,0,0,,Leave the rest to me, Milokallos.
 Dialogue: 0,0:13:30.16,0:13:32.17,Main,Shirona,0,0,0,,You can have a nice rest.
 Dialogue: 0,0:13:33.38,0:13:36.50,Main,Shirona,0,0,0,,Your Stealth Rock counter \N was marvelous.
 Dialogue: 0,0:13:36.92,0:13:40.42,Main,Shirona,0,0,0,,Our battle has lit a fire in me!{121}{gah, this was present tense, not future...}
@@ -194,7 +194,7 @@ Dialogue: 0,0:14:49.70,0:14:50.95,Main,Shirona,0,0,0,,Dragon Claw!
 Dialogue: 0,0:15:00.88,0:15:01.84,Main,Satoshi,0,0,0,,Detect!
 Dialogue: 0,0:15:04.59,0:15:08.51,Main,Mic,0,0,0,,Detect succeeds! \N Gaburias’s claws rend the air!
 Dialogue: 0,0:15:08.51,0:15:09.76,Main,Satoshi,0,0,0,,Star Assault!
-Dialogue: 0,0:15:12.39,0:15:13.77,Main,Shirona,0,0,0,,Draco Meteor!
+Dialogue: 0,0:15:12.39,0:15:13.77,Main,Shirona,0,0,0,,Dragon Meteor Shower!
 Dialogue: 0,0:15:44.55,0:15:47.13,Main,Mic,0,0,0,,Both sides take heavy damage...
 Dialogue: 0,0:15:47.63,0:15:49.64,Main,Mic,0,0,0,,What will happen next?!
 Dialogue: 0,0:16:07.99,0:16:09.99,Main,Satoshi,0,0,0,,Negigaknight!

@@ -137,8 +137,8 @@ Dialogue: 0,0:07:22.96,0:07:25.63,Main,Honoka,0,0,0,,{\an8}It’s not working?! 
 Dialogue: 0,0:07:25.63,0:07:26.72,Main,Honoka,0,0,0,,{\an8}Now what do I do?!
 Dialogue: 0,0:07:22.96,0:07:26.72,Main,Billy,0,0,0,,No way! This can’t be real! \N What do I do now?!
 Dialogue: 0,0:07:26.72,0:07:28.80,Main,Ringleader man person,0,0,0,,Pull yourselves together!
-Dialogue: 0,0:07:31.72,0:07:35.64,Main,Honoka,0,0,0,,But we can’t do the \N flying trapeze of fire like this!
-Dialogue: 0,0:07:35.64,0:07:39.65,Main,Billy,0,0,0,,I’d been planning an \N Electric performance, too!
+Dialogue: 0,0:07:31.72,0:07:35.64,Main,Honoka,0,0,0,,But we can’t do \N the flying trapeze of fire like this!
+Dialogue: 0,0:07:35.64,0:07:39.65,Main,Billy,0,0,0,,I’d been planning \N an Electric performance, too!
 Dialogue: 0,0:07:39.65,0:07:41.23,Main,Ringleader man person,0,0,0,,Hmm...
 Dialogue: 0,0:07:41.23,0:07:45.99,Main,Ringleader man person,0,0,0,,If you can’t do the act, \N that is troubling...
 Dialogue: 0,0:07:45.99,0:07:47.41,Main,Ringleader man person,0,0,0,,Oh, I know!
@@ -185,14 +185,14 @@ Dialogue: 0,0:10:59.81,0:11:00.81,Main,Billy,0,0,0,,What?
 Dialogue: 0,0:11:01.56,0:11:03.23,Main,Billy,0,0,0,,If it isn’t Rhyme...
 Dialogue: 0,0:11:04.23,0:11:05.64,Main,Billy,0,0,0,,What’s up?
 Dialogue: 0,0:11:05.64,0:11:08.36,Main,Billy,0,0,0,,Aren’t you supposed to be \N rehearsing with Honoka?
-Dialogue: 0,0:11:13.82,0:11:17.32,Main,Ringleader man person,0,0,0,,Hmm... Is that so...? {Added question mark. - Toa}
-Dialogue: 0,0:11:17.32,0:11:22.87,Main,Ringleader man person,0,0,0,,So Karen and Rhyme aren’t \N accepting the partner swap?
+Dialogue: 0,0:11:13.82,0:11:17.32,Main,Ringleader man person,0,0,0,,Hmm... Is that so...?
+Dialogue: 0,0:11:17.32,0:11:22.87,Main,Ringleader man person,0,0,0,,So Karen and Rhyme \N aren’t accepting the partner swap?
 Dialogue: 0,0:11:22.87,0:11:24.33,Main,Honoka and Billy,0,0,0,,Right.
 Dialogue: 0,0:11:24.33,0:11:25.79,Main,Honoka,0,0,0,,Hey, Karen...
 Dialogue: 0,0:11:25.79,0:11:28.54,Main,Honoka,0,0,0,,I’ll be putting on \N a Fire performance.
 Dialogue: 0,0:11:28.54,0:11:29.71,Main,Honoka,0,0,0,,Please be understanding...
 Dialogue: 0,0:11:30.84,0:11:32.00,Main,Billy,0,0,0,,Rhyme...
-Dialogue: 0,0:11:32.00,0:11:35.42,Main,Billy,0,0,0,,I’m doing an \N Electric performance here.
+Dialogue: 0,0:11:32.00,0:11:35.42,Main,Billy,0,0,0,,I’m doing an Electric performance here.
 Dialogue: 0,0:11:39.47,0:11:41.26,Main,Ringleader man person,0,0,0,,Okay, I’ve got it.
 Dialogue: 0,0:11:41.26,0:11:43.18,Main,Ringleader man person,0,0,0,,I don’t know if this will work,
 Dialogue: 0,0:11:43.18,0:11:46.85,Main,Ringleader man person,0,0,0,,but try rehearsing with \N your original partners.

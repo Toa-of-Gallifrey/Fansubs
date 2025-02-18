@@ -110,7 +110,7 @@ Dialogue: 0,0:06:04.34,0:06:06.23,Main,Satoshi,0,0,0,,Thank you very much!
 Dialogue: 0,0:06:06.23,0:06:07.97,Main,Go,0,0,0,,I’d never get tired of eating these!
 Dialogue: 0,0:06:10.74,0:06:12.47,Main,Koharu,0,0,0,,This soil is great!
 Dialogue: 0,0:06:12.47,0:06:14.17,Main,Endo,0,0,0,,Oh, you can tell?
-Dialogue: 0,0:06:14.17,0:06:16.93,Main,Koharu,0,0,0,,Well, I look after the \N flowers at school.
+Dialogue: 0,0:06:14.17,0:06:16.93,Main,Koharu,0,0,0,,Well, I look after \N the flowers at school.
 Dialogue: 0,0:06:16.93,0:06:21.73,Main,Endo,0,0,0,,What I do is I crush molted Gorogna shells \N and use them as fertilizer!
 Dialogue: 0,0:06:21.73,0:06:22.46,Main,Koharu,0,0,0,,Huh?{RULE BREAKER... to ADD a scene bleed because otherwise this line would have been far too short. -Starfish}
 Dialogue: 0,0:06:24.93,0:06:26.28,Main,Koharu,0,0,0,,Ack!

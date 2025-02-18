@@ -226,7 +226,7 @@ Dialogue: 0,0:09:56.37,0:09:59.29,Main,Koharu,0,0,0,,Oh... What should I pick...
 Dialogue: 0,0:09:59.29,0:10:01.21,Main,Serena,0,0,0,,Go with whatever you like.
 Dialogue: 0,0:10:01.21,0:10:03.50,Main,Koharu,0,0,0,,Oh, this one’s cute!
 Dialogue: 0,0:10:03.50,0:10:06.34,Main,Koharu,0,0,0,,But... Maybe a bit gaudy...
-Dialogue: 0,0:10:06.34,0:10:10.01,Main,Serena,0,0,0,,That dress was worn by the \N “Dancing Girl of Hoenn!”{apparently a Hikari quote from DP76}
+Dialogue: 0,0:10:06.34,0:10:10.01,Main,Serena,0,0,0,,That dress was worn by \N the “Dancing Girl of Hoenn!”{apparently a Hikari quote from DP76}
 Dialogue: 0,0:10:10.01,0:10:12.26,Main,Serena,0,0,0,,You’re bound to look good in it, too!
 Dialogue: 0,0:10:15.18,0:10:20.22,Main,Serena,0,0,0,,When you’re all dressed up, and standing onstage... \N You might just discover a new side to yourself!
 Dialogue: 0,0:10:21.56,0:10:24.35,Main,Serena,0,0,0,,And not just you... \N The same goes for Eevee.
@@ -293,7 +293,7 @@ Dialogue: 0,0:14:39.61,0:14:40.19,Main,Go,0,0,0,,It’s over?
 Dialogue: 0,0:14:41.86,0:14:45.11,Main,Mikuri,0,0,0,,As I trusted, \N that was a marvelous battle.{SASUGA.}
 Dialogue: 0,0:14:46.12,0:14:47.12,Main,Satoshi,0,0,0,,Same for you, Mr. Mikuri{Honorifics note: Mikuri-san}!
 Dialogue: 0,0:14:47.74,0:14:49.24,Main,Mikuri,0,0,0,,Now for the next one!
-Dialogue: 0,0:14:49.24,0:14:51.25,Main,Mikuri,0,0,0,,{\an8}Come on out, Milokaross!
+Dialogue: 0,0:14:49.24,0:14:51.25,Main,Mikuri,0,0,0,,{\an8}Come on out, Milokallos!
 Dialogue: 0,0:14:49.24,0:14:51.25,Main,Satoshi,0,0,0,,Pikachu, I choose you!
 Dialogue: 0,0:14:55.04,0:14:57.33,Main,Go,0,0,0,,You’re still at it...?
 Dialogue: 0,0:14:57.84,0:15:02.30,Main,Announcer,0,0,0,,Next up is what you’ve all been \N waiting for, Master Rank!
@@ -324,8 +324,8 @@ Dialogue: 0,0:17:02.79,0:17:06.05,Main,Simps,0,0,0,,{\i1}Ruthia!{\i0}
 Dialogue: 0,0:17:07.67,0:17:09.47,Main,Ruthia,0,0,0,,Mega Shining!
 Dialogue: 0,0:17:09.47,0:17:10.55,Main,Ruthia,0,0,0,,Let’s go!
 Dialogue: 0,0:17:15.56,0:17:18.02,Main,Ruthia,0,0,0,,Shine out even more!
-Dialogue: 0,0:17:30.28,0:17:31.74,Main,Ruthia,0,0,0,,Draco Meteor!
-Dialogue: 0,0:17:41.87,0:17:43.54,Main,Mikuri,0,0,0,,Return, Milokaross.
+Dialogue: 0,0:17:30.28,0:17:31.74,Main,Ruthia,0,0,0,,Dragon Meteor Shower!
+Dialogue: 0,0:17:41.87,0:17:43.54,Main,Mikuri,0,0,0,,Return, Milokallos.
 Dialogue: 0,0:17:45.29,0:17:50.26,Main,Mikuri,0,0,0,,For you to vanquish me, \N an equal of Champion What’s-his-name...
 Dialogue: 0,0:17:50.26,0:17:51.80,Main,Mikuri,0,0,0,,How wonderful it is!
 Dialogue: 0,0:17:51.80,0:17:53.64,Main,Mikuri,0,0,0,,So vexingly elegant!

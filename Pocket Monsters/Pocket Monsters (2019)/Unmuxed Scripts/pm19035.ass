@@ -104,7 +104,7 @@ Dialogue: 0,0:05:38.43,0:05:41.24,Main,Rotom Go Ver,0,0,0,,It has small electric
 Dialogue: 0,0:05:41.24,0:05:43.19,Main,Rotom Go Ver,0,0,0,,If threatened, it looses \N electric charges from the sacs!{Fire Red dex entry -Starfish}
 Dialogue: 0,0:05:43.19,0:05:46.24,Main,Rotom Go Ver,0,0,0,,Males and females have \N differently shaped tails!
 Dialogue: 0,0:05:47.00,0:05:49.14,Main,Go,0,0,0,,So that one’s female?
-Dialogue: 0,0:05:49.14,0:05:51.75,Main,Satoshi,0,0,0,,Go, this looks like a \N good opportunity to catch her!
+Dialogue: 0,0:05:49.14,0:05:51.75,Main,Satoshi,0,0,0,,Go, this looks like \N a good opportunity to catch her!
 Dialogue: 0,0:05:51.75,0:05:54.02,Main,Go,0,0,0,,Oh! All right!
 Dialogue: 0,0:05:54.02,0:05:55.62,Main,Go,0,0,0,,Go!
 Dialogue: 0,0:06:02.46,0:06:06.47,Main,Rotom Go Ver,0,0,0,,Pikachu’s data will be \N added to the Index!
@@ -229,7 +229,7 @@ Dialogue: 0,0:15:03.60,0:15:05.62,Main,Kojiro,0,0,0,,Horde capture: Successful!
 Dialogue: 0,0:15:05.62,0:15:08.51,Main,Musashi,0,0,0,,We’ve finally captured \N the brat boy’s Pikachu, too.
 Dialogue: 0,0:15:08.51,0:15:11.76,Main,Nyarth,0,0,0,,Sakaki will be happy \N for sure, meow!
 Dialogue: 0,0:15:13.16,0:15:17.78,Main,Musashi,0,0,0,,Yeah! No other Pikachu \N is as strong as this one!
-Dialogue: 0,0:15:19.38,0:15:21.15,Main,Musashi,0,0,0,,Which one’s the \N brat boy’s Pikachu?
+Dialogue: 0,0:15:19.38,0:15:21.15,Main,Musashi,0,0,0,,Which one’s \N the brat boy’s Pikachu?
 Dialogue: 0,0:15:21.15,0:15:22.99,Main,Kojiro,0,0,0,,Yeah... Which one?
 Dialogue: 0,0:15:22.99,0:15:25.17,Main,Nyarth,0,0,0,,I can’t tell them apart, meow.
 Dialogue: 0,0:15:26.40,0:15:28.79,Main,Musashi,0,0,0,,He {\i1}is{\i0} in there, right?

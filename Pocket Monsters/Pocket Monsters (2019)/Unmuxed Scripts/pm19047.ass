@@ -89,7 +89,7 @@ Dialogue: 0,0:02:46.27,0:02:50.56,Main,Musashi,0,0,0,,We just have to let it eat
 Dialogue: 0,0:02:50.56,0:02:54.54,Main,Nyarth,0,0,0,,Then we can enjoy \N Isshu’s gourmet food, meow!
 Comment: 0,0:02:59.40,0:02:59.40,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:27.66,0:04:27.66,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:04:37.21,0:04:41.21,Main,Host,0,0,0,,The first round is the \N Everyone’s Favorite Berries Battle!{Getting more of a “Battle of the berries which are a food everybody likes” vibe from this rather than a “The berry contest that is everyone’s favorite part” one. Like, if it were the latter, why would the best part be right at the beginning of the contest? -Starfish}
+Dialogue: 0,0:04:37.21,0:04:41.21,Main,Host,0,0,0,,The first round is \N the Everyone’s Favorite Berries Battle!{Getting more of a “Battle of the berries which are a food everybody likes” vibe from this rather than a “The berry contest that is everyone’s favorite part” one. Like, if it were the latter, why would the best part be right at the beginning of the contest? -Starfish}
 Dialogue: 0,0:04:41.21,0:04:46.72,Main,Host,0,0,0,,The top ten contestants who eat the most \N berry platters will make it through!
 Dialogue: 0,0:04:47.10,0:04:50.36,Main,Kikuna,0,0,0,,I really get to see \N Kaiser Burshamo eat live!
 Dialogue: 0,0:04:50.36,0:04:51.47,Main,Kikuna,0,0,0,,I’m so emotional!
@@ -120,7 +120,7 @@ Dialogue: 0,0:06:14.50,0:06:16.43,Main,Host,0,0,0,,Unfortunately, it’s disqual
 Dialogue: 0,0:06:16.43,0:06:19.42,Main,Kikuna,0,0,0,,They got too excited \N and messed up!
 Dialogue: 0,0:06:19.42,0:06:21.17,Main,Kikuna,0,0,0,,Things like this happen every year!
 Dialogue: 0,0:06:21.17,0:06:22.48,Main,Sakuragi,0,0,0,,I see...
-Dialogue: 0,0:06:22.48,0:06:26.15,Main,Host,0,0,0,,Now then, how are the \N little rookies doing?!
+Dialogue: 0,0:06:22.48,0:06:26.15,Main,Host,0,0,0,,Now then, how are \N the little rookies doing?!
 Dialogue: 0,0:06:29.98,0:06:31.49,Main,Kikuna,0,0,0,,What is it, Koharu?
 Dialogue: 0,0:06:31.49,0:06:34.84,Main,Koharu,0,0,0,,They look so slow \N compared to the larger Pokémon.
 Dialogue: 0,0:06:34.84,0:06:37.25,Main,Koharu,0,0,0,,It’s like they’re eating \N more delicately, or something...

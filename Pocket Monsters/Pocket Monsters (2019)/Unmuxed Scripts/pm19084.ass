@@ -65,7 +65,7 @@ Dialogue: 0,0:03:16.46,0:03:22.14,Main,Narrator,0,0,0,,{\a6}Satoshi and Go have 
 Dialogue: 0,0:03:22.14,0:03:25.39,Main,Satoshi,0,0,0,,Corni and Lucario \N are as strong as ever!
 Dialogue: 0,0:03:26.60,0:03:29.64,Main,Go,0,0,0,,That was amazingly cool, \N Ms. Corni{Honorifics note: Corni-san}!
 Dialogue: 0,0:03:31.14,0:03:33.10,Main,Corni,0,0,0,,Oh, you really thought so...?
-Dialogue: 0,0:03:33.10,0:03:35.69,Main,Concombre,0,0,0,,What’s with the \N “You really thought so”?
+Dialogue: 0,0:03:33.10,0:03:35.69,Main,Concombre,0,0,0,,What’s with \N the “You really thought so”?
 Dialogue: 0,0:03:35.69,0:03:36.98,Main,Corni,0,0,0,,Grandpa...
 Dialogue: 0,0:03:36.98,0:03:40.57,Main,Concombre,0,0,0,,Only lately have you even started \N behaving like a proper Gym Leader.
 Dialogue: 0,0:03:40.57,0:03:44.24,Main,Corni,0,0,0,,Gah. He’s always {\i1}so{\i0} critical...{Literally “He doesn’t praise me sincerely at all.”}
@@ -223,7 +223,7 @@ Dialogue: 0,0:17:21.64,0:17:23.18,Main,Satoshi,0,0,0,,Don’t worry, Go.
 Dialogue: 0,0:17:23.56,0:17:25.19,Main,Satoshi,0,0,0,,I’m taking your challenge!
 Dialogue: 0,0:17:25.94,0:17:28.19,Main,Corni,0,0,0,,You’ve got it!
 Dialogue: 0,0:17:30.36,0:17:32.94,Main,Concombre,0,0,0,,Oyoyoyoyo!
-Dialogue: 0,0:17:33.36,0:17:38.58,Main,Concombre,0,0,0,,The fight for the \N Lucarionite starts now!
+Dialogue: 0,0:17:33.36,0:17:38.58,Main,Concombre,0,0,0,,The fight for \N the Lucarionite starts now!
 Dialogue: 0,0:17:38.58,0:17:40.58,Main,Go,0,0,0,,He’s really throwing me off...
 Dialogue: 0,0:17:40.58,0:17:45.54,Main,Concombre,0,0,0,,The Mega Evolution Sage, \N everyone’s hero, unveils his powers!
 Dialogue: 0,0:17:45.54,0:17:48.21,Main,Concombre,0,0,0,,Now! Mega Evolve!
@@ -261,7 +261,7 @@ Dialogue: 0,0:20:52.48,0:20:54.15,Main,Concombre,0,0,0,,Perhaps I should do it \
 Dialogue: 0,0:20:56.52,0:21:00.15,Main,Narrator,0,0,0,,Satoshi and Lucario’s newfound power, \N Mega Evolution...
 Dialogue: 0,0:21:01.19,0:21:07.28,Main,Narrator,0,0,0,,...is sure to have a great impact on their upcoming \N Pokémon World Championships Hyper Class battles.
 Dialogue: 0,0:21:10.87,0:21:13.00,Main,Satoshi,0,0,0,,Let’s get stronger, Lucario!
-Dialogue: 0,0:21:24.01,0:21:27.68,Main,Satoshi,0,0,0,,My next opponent in the \N Hyper Class’s been decided!
+Dialogue: 0,0:21:24.01,0:21:27.68,Main,Satoshi,0,0,0,,My next opponent in \N the Hyper Class’s been decided!
 Dialogue: 0,0:21:29.06,0:21:31.06,Main,Go,0,0,0,,Ms. Saito{Honorifics note: Saito-san}?!
 Dialogue: 0,0:21:32.06,0:21:34.31,Main,Go,0,0,0,,A third battle, huh...?
 Dialogue: 0,0:21:34.31,0:21:35.98,Main,Satoshi,0,0,0,,I’ll beat her this time!

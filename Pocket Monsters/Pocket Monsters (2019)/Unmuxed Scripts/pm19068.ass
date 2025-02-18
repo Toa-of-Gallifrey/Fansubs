@@ -221,7 +221,7 @@ Dialogue: 0,0:11:26.59,0:11:27.81,Main,Shigeru,0,0,0,,Correct.
 Dialogue: 0,0:11:27.81,0:11:29.74,Main,Shigeru,0,0,0,,But your analysis missed something.
 Dialogue: 0,0:11:29.74,0:11:30.64,Main,Go,0,0,0,,Huh?
 Dialogue: 0,0:11:32.13,0:11:36.06,Main,Rotom Shigeru Ver,0,0,0,,Fire. Flame Pokémon. \N Fire/Flying type.
-Dialogue: 0,0:11:36.06,0:11:41.63,Main,Rotom Shigeru Ver,0,0,0,,If it is injured, it is said to dip its body in the \N molten magma of a volcano to burn and heal itself.{Partial R/S dex entry -blu}
+Dialogue: 0,0:11:36.06,0:11:41.63,Main,Rotom Shigeru Ver,0,0,0,,{\q2}If it is injured, it is said to dip its body in \N the molten magma of a volcano to burn and heal itself.{Partial R/S dex entry -blu}
 Dialogue: 0,0:11:41.63,0:11:43.49,Main,Shigeru,0,0,0,,And one more thing.
 Dialogue: 0,0:11:43.49,0:11:47.76,Main,Rotom Shigeru Ver,0,0,0,,It is said that its appearance \N indicates the coming of spring.{Partial DP-onward dex entry, retranslated since Pt -blu}
 Dialogue: 0,0:11:47.76,0:11:48.72,Main,Go,0,0,0,,Spring?

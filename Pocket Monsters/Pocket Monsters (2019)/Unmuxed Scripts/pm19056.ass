@@ -79,7 +79,7 @@ Dialogue: 0,0:02:22.71,0:02:27.26,Main,Go,0,0,0,,I get it. I haven’t taken you
 Dialogue: 0,0:02:27.26,0:02:29.08,Main,Go,0,0,0,,Okay! Come with us!
 Dialogue: 0,0:02:30.46,0:02:33.59,Main,Satoshi,0,0,0,,All right! Let’s go to Kalos!
 Dialogue: 0,0:02:36.00,0:02:39.85,Main,Narrator,0,0,0,,Trying to become stronger, \N Satoshi and Go departed for Kalos.
-Dialogue: 0,0:02:40.54,0:02:44.63,Main,Narrator,0,0,0,,What awaits them in the \N Castle of Chivalry?
+Dialogue: 0,0:02:40.54,0:02:44.63,Main,Narrator,0,0,0,,What awaits them in \N the Castle of Chivalry?
 Comment: 0,0:02:45.36,0:02:45.36,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:13.45,0:04:13.45,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:04:23.66,0:04:27.40,Main,Satoshi,500,0,0,,So this is the Castle of Chivalry...\N It certainly looks the part!

@@ -117,7 +117,7 @@ Dialogue: 0,0:06:41.63,0:06:43.90,Main,Go,0,0,0,,Ms. Sonia{Honorifics note: Soni
 Dialogue: 0,0:06:43.90,0:06:48.26,Main,Sonia,0,0,0,,They’re four tapestries \N we found in the Knuckle City vault.{Swap out “vault” for whatever the game used because I don’t remember and Bulbapedia is being unhelpful. -Starfish}{the EN games do indeed use 'the vault' / 'the vault in Hammerlocke' - bluesun}
 Dialogue: 0,0:06:49.06,0:06:52.19,Main,Go,0,0,0,, “Two youths gazing at the sky.”
 Dialogue: 0,0:06:53.50,0:06:57.53,Main,Go,0,0,0,, “A disaster occurs... \N The two bewildered youths.”{This line and the next two are from the game. previous one did not match. -Starfish}
-Dialogue: 0,0:06:58.70,0:07:03.06,Main,Go,0,0,0,, “The youths looking on at the \N sword and shield that stopped the disaster.”
+Dialogue: 0,0:06:58.70,0:07:03.06,Main,Go,0,0,0,, “The youths looking on at \N the sword and shield that stopped the disaster.”
 Dialogue: 0,0:07:04.39,0:07:07.53,Main,Go,0,0,0,, “The youths being crowned.”
 Dialogue: 0,0:07:07.53,0:07:12.21,Main,Sonia,0,0,0,,It’s said that they tell the story \N of the birth of Galar.
 Dialogue: 0,0:07:12.21,0:07:14.53,Main,Sonia,0,0,0,,Mind telling me what you think?
@@ -182,7 +182,7 @@ Dialogue: 0,0:10:53.82,0:10:56.18,Main,Rose,0,0,0,,He said you showed \N great p
 Dialogue: 0,0:10:56.80,0:10:59.68,Main,Rose,0,0,0,,I have wanted to meet you.
 Dialogue: 0,0:10:59.68,0:11:02.30,Main,Satoshi,0,0,0,,I-It’s a pleasure...
 Dialogue: 0,0:11:02.30,0:11:03.93,Main,Dande,0,0,0,,Chairman Rose.
-Dialogue: 0,0:11:03.93,0:11:07.68,Main,Dande,0,0,0,,Do you still not know why the \N Daimaxed Pokémon are running rampant?
+Dialogue: 0,0:11:03.93,0:11:07.68,Main,Dande,0,0,0,,Do you still not know why \N the Daimaxed Pokémon are running rampant?
 Dialogue: 0,0:11:08.84,0:11:12.85,Main,Rose,0,0,0,,I did look into it extensively, \N but I couldn’t find a clear answer.
 Dialogue: 0,0:11:12.85,0:11:15.46,Main,Rose,0,0,0,,Is this a threat to Galar...
 Dialogue: 0,0:11:15.46,0:11:16.94,Main,Rose,0,0,0,,...or is it...
@@ -224,7 +224,7 @@ Dialogue: 0,0:13:07.53,0:13:08.22,Main,Go,0,0,0,,Yes.
 Dialogue: 0,0:13:08.58,0:13:12.47,Main,Go,0,0,0,,I came because I wanted \N to learn more about Daimax.
 Dialogue: 0,0:13:12.47,0:13:17.10,Main,Magnolia,0,0,0,,I see. There are still \N many things we do not know...
 Dialogue: 0,0:13:17.10,0:13:21.27,Main,Magnolia,0,0,0,,But what we do know is that \N a special power which only exists here in Galar...
-Dialogue: 0,0:13:21.27,0:13:25.19,Main,Magnolia,0,0,0,,...is linked to the \N Pokémon Daimax phenomenon.
+Dialogue: 0,0:13:21.27,0:13:25.19,Main,Magnolia,0,0,0,,...is linked to \N the Pokémon Daimax phenomenon.
 Dialogue: 0,0:13:25.19,0:13:28.44,Main,Magnolia,0,0,0,,We call this power Galar particles.
 Dialogue: 0,0:13:28.44,0:13:29.62,Main,Go,0,0,0,,Galar particles...
 Dialogue: 0,0:13:30.08,0:13:34.93,Main,Magnolia,0,0,0,,Have you ever seen Pokémon \N Daimax in the Wild Area?

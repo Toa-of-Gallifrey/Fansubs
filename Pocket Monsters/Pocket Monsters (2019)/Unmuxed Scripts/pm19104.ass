@@ -311,7 +311,7 @@ Dialogue: 0,0:21:18.93,0:21:22.26,Main,Eureka,0,0,0,,I can’t think of any othe
 Dialogue: 0,0:21:22.26,0:21:24.97,Main,Dracaena,0,0,0,,Oh, dear... \N What ever am I to do?
 Dialogue: 0,0:21:25.68,0:21:28.77,Main,Eureka,0,0,0,,Wha—? How come?!
 Dialogue: 0,0:21:28.77,0:21:31.31,Main,Citron,0,0,0,,Don’t “How come?!” me!
-Dialogue: 0,0:21:31.90,0:21:36.82,Main,Narrator,0,0,0,,Satoshi has defeated Dracaena of the \N Kalos Elite Four and risen even further in the ranks.
+Dialogue: 0,0:21:31.90,0:21:36.82,Main,Narrator,0,0,0,,Satoshi has defeated Dracaena of \N the Kalos Elite Four and risen even further in the ranks.
 Dialogue: 0,0:21:36.82,0:21:42.53,Main,Narrator,0,0,90,,Soon, he will be able to challenge \N those eight world-class trainers, the Masters Eight!
 Comment: 0,0:21:44.41,0:21:44.41,Main,,0,0,0,,{SUPER die.}
 Comment: 0,0:23:05.41,0:23:05.41,Main,,0,0,0,,{Preview}
