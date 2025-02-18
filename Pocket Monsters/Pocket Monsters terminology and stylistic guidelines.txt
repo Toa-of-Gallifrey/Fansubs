@@ -1440,7 +1440,7 @@ POKÉMON NAMES
 0187 ハネッコ Hanekko - わたくさポケモン 
 0188 ポポッコ Popokko - わたくさポケモン 
 0189 ワタッコ Watakko - わたくさポケモン 
-0190 エイパム 
+0190 エイパム Apalm - おながポケモン 
 0191 ヒマナッツ 
 0192 キマワリ Kimawari - たいようポケモン Sun Pokémon
 0193 ヤンヤンマ 
@@ -2165,8 +2165,8 @@ POKÉMON NAMES
 0912 クワッス Kuwassu - こがもポケモン Duckling Pokémon
 0913 ウェルカモ Welcamo - レッスンポケモン 
 0914 ウェーニバル
-0915 グルトン Gourton - ぶたポケモン Hog Pokémon
-0916 パフュートン Perfuton - ぶたポケモン Hog Pokémon
+0915 グルトン Gourton - ぶたポケモン Pig Pokémon
+0916 パフュートン Perfuton - ぶたポケモン Pig Pokémon
 0917 タマンチュラ Tamantula - いとだまポケモン 
 0918 ワナイダー Wanaider - トラップポケモン Trap Pokémon
 0919 マメバッタ 
