@@ -91,8 +91,8 @@ Dialogue: 10,0:04:59.32,0:05:00.32,Main,Dot,0,0,0,,Welcamo!
 Dialogue: 10,0:05:01.57,0:05:02.32,Main,Dot,0,0,0,,No good?
 Dialogue: 10,0:05:02.32,0:05:03.99,Main,Liko,0,0,0,,What should we do?
 Dialogue: 10,0:05:07.08,0:05:09.21,Main,Sohdayo,0,0,0,,Ooh, now {\i1}this{\i0} is a scoop!
-Dialogue: 10,0:05:09.87,0:05:12.42,Main,Sohdayo,0,0,0,,“What provoked Rikikirin’s \N burning rage?!
-Dialogue: 10,0:05:12.42,0:05:14.09,Main,Sohdayo,0,0,0,,“Was it the savanna’s curse?!”
+Dialogue: 10,0:05:09.87,0:05:12.42,Main,Sohdayo,0,0,0,,“What Provoked Rikikirin’s \N Burning Rage?!
+Dialogue: 10,0:05:12.42,0:05:14.09,Main,Sohdayo,0,0,0,,“Was It the Savanna’s Curse?!”
 Dialogue: 10,0:05:14.09,0:05:15.71,Main,Sohnano,0,0,0,,Sonano?
 Dialogue: 10,0:05:14.09,0:05:15.71,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}Is that right?
 Dialogue: 10,0:05:15.71,0:05:18.63,Main,Dot,0,0,0,,Welcamo! Aim for the head \N and use Water Gun!
@@ -181,11 +181,11 @@ Dialogue: 10,0:08:57.81,0:08:59.06,Main,Dot,0,0,0,,Look at this.
 Dialogue: 10,0:08:59.06,0:09:01.15,Main,Roy,0,0,0,,“Monthly Occulture”?
 Dialogue: 10,0:09:01.15,0:09:04.19,Main,Dot,0,0,0,,The number one long-running \N indie{B-grade, as in minor} occult mag in stores!
 Dialogue: 10,0:09:06.48,0:09:08.07,Main,Dot,0,0,0,,Here, check out this article!
-Dialogue: 10,0:09:08.07,0:09:12.95,Main,Liko,0,0,0,,“The truth-seeking Pokémon Journalist Sodayo \N reveals confidential info!”?
+Dialogue: 10,0:09:08.07,0:09:12.95,Main,Liko,0,0,0,,“The Truth-Seeking Pokémon Journalist Sodayo \N Reveals Confidential Info!”?
 Dialogue: 10,0:09:12.95,0:09:15.58,Main,Roy,0,0,0,,“Unfabricated True News”...{Lie-less truth news}
 Dialogue: 10,0:09:15.58,0:09:17.45,Main,Dot,0,0,0,,Sodayo-san wrote this article!
 Dialogue: 10,0:09:17.45,0:09:19.58,Main,Dot,0,0,0,,I {\i1}thought{\i0} I’d seen \N his name somewhere!
-Dialogue: 10,0:09:19.58,0:09:21.92,Main,Liko,0,0,0,,“The hundred faces of Pikachu”?
+Dialogue: 10,0:09:19.58,0:09:21.92,Main,Liko,0,0,0,,“The Hundred Faces of Pikachu”?
 Comment: 10,0:09:22.17,0:09:22.79,Main,Roy,0,0,0,,Ah!
 Dialogue: 10,0:09:22.79,0:09:25.09,Main,Roy,0,0,0,,An article called \N “Tracking Down Legendary Pokémon!”
 Dialogue: 10,0:09:25.09,0:09:27.42,Main,Roy,0,0,0,,Maybe he {\i1}does{\i0} know \N something about Entei?
@@ -293,8 +293,8 @@ Dialogue: 10,0:13:51.77,0:13:53.52,Main,Roy,0,0,0,,There he goes again...{He's d
 Dialogue: 10,0:14:00.78,0:14:02.45,Main,Liko,0,0,0,,They actually {\i1}are{\i0} coming!
 Comment: 0,0:14:07.45,0:14:07.45,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:14:17.46,0:14:19.34,Main,Sohdayo,0,0,0,,Yet another huge scoop!
-Dialogue: 10,0:14:19.34,0:14:21.92,Main,Sohdayo,0,0,0,,“The Rikikirin pack attacks!
-Dialogue: 10,0:14:21.92,0:14:24.09,Main,Sohdayo,0,0,0,,“What lies behind their rage?!”
+Dialogue: 10,0:14:19.34,0:14:21.92,Main,Sohdayo,0,0,0,,“The Rikikirin Pack Attacks!
+Dialogue: 10,0:14:21.92,0:14:24.09,Main,Sohdayo,0,0,0,,“What Lies Behind Their Rage?!”
 Dialogue: 10,0:14:24.09,0:14:26.18,Main,Liko,0,0,0,,They’re headed for us again?
 Dialogue: 10,0:14:26.18,0:14:27.22,Main,Roy,0,0,0,,But why?!
 Dialogue: 10,0:14:29.64,0:14:31.02,Main,Friede,0,0,0,,Thunder Punch!
@@ -313,8 +313,8 @@ Comment: 10,0:15:37.37,0:15:38.67,Main,Liko,0,0,0,,Ahh!
 Dialogue: 10,0:15:39.13,0:15:40.04,Main,Roy,0,0,0,,What’s happening?!
 Dialogue: 10,0:15:40.04,0:15:40.92,Main,Dot,0,0,0,,Amazing...
 Dialogue: 10,0:15:40.92,0:15:42.00,Main,Sohdayo,0,0,0,,Could this be?
-Dialogue: 10,0:15:42.00,0:15:44.84,Main,Sohdayo,0,0,0,,“{An }Extraordinary paranormal \N phenomenon ravages the savanna?!
-Dialogue: 10,0:15:44.84,0:15:47.47,Main,Sohdayo,0,0,0,,“Is it the harbinger \N of unprecedented catastrophe?!”
+Dialogue: 10,0:15:42.00,0:15:44.84,Main,Sohdayo,0,0,0,,“{An }Extraordinary Paranormal \N Phenomenon Ravages the Savanna?!
+Dialogue: 10,0:15:44.84,0:15:47.47,Main,Sohdayo,0,0,0,,“Is It the Harbinger \N of Unprecedented Catastrophe?!”
 Dialogue: 10,0:15:47.47,0:15:48.26,Main,Sohnano,0,0,0,,Sonano?
 Dialogue: 10,0:15:48.72,0:15:50.64,Main,Friede,0,0,0,,The {two }Psychic moves collided...
 Dialogue: 10,0:15:50.64,0:15:54.39,Main,Friede,0,0,0,,...and created some \N enigmatic power, perhaps?
@@ -411,8 +411,8 @@ Dialogue: 10,0:20:46.18,0:20:50.15,Main,Dot,0,0,0,,Sodayo-san’s article got po
 Dialogue: 10,0:20:50.15,0:20:51.69,Main,Liko,0,0,0,,Huh? Let me see, let me see!
 Dialogue: 10,0:20:52.11,0:20:53.98,Main,Roy,0,0,0,,Think we’re in it?
 Dialogue: 10,0:20:53.98,0:20:56.49,Main,Dot,0,0,0,,No big deal \N if we aren’t though, really...
-Dialogue: 10,0:20:57.15,0:21:01.16,Main,Roy,0,0,0,,“The mystery of the savanna’s curse \N upon the Rikikirin!
-Dialogue: 10,0:21:01.16,0:21:04.74,Main,Roy,0,0,0,,“The true cause was an encounter \N with a Cuespatra!”
+Dialogue: 10,0:20:57.15,0:21:01.16,Main,Roy,0,0,0,,“The Mystery of the Savanna’s Curse \N Upon the Rikikirin!
+Dialogue: 10,0:21:01.16,0:21:04.74,Main,Roy,0,0,0,,“The True Cause Was an Encounter \N With a Cuespatra!”
 Dialogue: 10,0:21:05.12,0:21:07.45,Main,Liko,0,0,0,,“When their powers collided \N with one another,
 Dialogue: 10,0:21:07.45,0:21:12.58,Main,Liko,0,0,0,,“an astonishing and abstruse phenomenon \N caused the oasis to expand,
 Dialogue: 10,0:21:12.58,0:21:14.80,Main,Liko,0,0,0,,“and the curse was dispelled!”...?
