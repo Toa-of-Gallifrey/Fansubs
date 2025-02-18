@@ -34,10 +34,10 @@ Dialogue: 10,0:00:14.95,0:00:17.16,Main,Liko,0,0,0,,Trusting in that assumption,
 Dialogue: 10,0:00:19.46,0:00:20.50,Main,Roy,0,0,0,,There!
 Dialogue: 10,0:00:23.09,0:00:24.50,Main,Roy,0,0,0,,No doubt about it, right?
 Dialogue: 10,0:00:24.50,0:00:25.42,Main,Liko,0,0,0,,Yeah.
-Dialogue: 10,0:00:25.42,0:00:27.09,Main,Liko,0,0,0,,I think these are the same gouges.
+Dialogue: 10,0:00:25.42,0:00:27.09,Main,Liko,0,0,0,,I think these are the same scars.
 Dialogue: 10,0:00:29.84,0:00:30.47,Main,Dot,0,0,0,,Look.
 Dialogue: 10,0:00:31.01,0:00:32.47,Main,Roy,0,0,0,,A rock shard?
-Dialogue: 10,0:00:32.47,0:00:35.22,Main,Dot,0,0,0,,I saw one near the gouges \N from earlier, too.
+Dialogue: 10,0:00:32.47,0:00:35.22,Main,Dot,0,0,0,,I saw one near the scars \N from earlier, too.
 Dialogue: 10,0:00:35.22,0:00:36.68,Main,Dot,0,0,0,,Doesn’t it look kinda like this?
 Dialogue: 10,0:00:37.14,0:00:38.43,Main,Liko,0,0,0,,Like Basagiri?
 Dialogue: 10,0:00:38.43,0:00:40.19,Main,Dot,0,0,0,,Could just be coincidence, though.
@@ -63,11 +63,11 @@ Dialogue: 10,0:03:40.70,0:03:43.16,Main,Sazare,0,0,0,,Just me, or do they look \
 Dialogue: 10,0:03:43.16,0:03:45.54,Main,Dot,0,0,0,,Weren’t the Six Heroes \N a close-knit team?
 Dialogue: 10,0:03:45.54,0:03:47.21,Main,Liko,0,0,0,,What’s wrong, Laplace?
 Comment: 10,0:03:47.17,0:03:48.21,Main,Liko,0,0,0,,Ahh!
-Dialogue: 10,0:03:48.21,0:03:50.25,Main,Liko,0,0,0,,The gouges on that landmark{sign}...{mejirushi}
+Dialogue: 10,0:03:48.21,0:03:50.25,Main,Liko,0,0,0,,The scars on that landmark{sign}...{mejirushi}
 Dialogue: 10,0:03:50.25,0:03:52.80,Main,Liko,0,0,0,,I {\i1}thought{\i0} they looked familiar!
 Dialogue: 10,0:03:52.80,0:03:53.84,Main,Liko,0,0,0,,Look!
 Comment: 10,0:03:53.92,0:03:55.13,Main,Roy and Dot,0,0,0,,Ahh!
-Dialogue: 10,0:03:56.09,0:03:59.26,Main,Friede,0,0,0,,So Basagiri was the one \N who gave it those scars{gouges}?{kizu}{Dread Laplace}
+Dialogue: 10,0:03:56.09,0:03:59.26,Main,Friede,0,0,0,,So Basagiri was the one \N who gave it those scars?{kizu}{Dread Laplace}
 Dialogue: 10,0:03:59.26,0:04:01.85,Main,Sazare,0,0,0,,So what you’re saying is... \N Those two...
 Dialogue: 10,0:04:01.85,0:04:03.89,Main,Dot,0,0,0,,...might actually hate each other?!
 Dialogue: 10,0:04:12.73,0:04:13.98,Main,Friede,0,0,0,,Everyone, get back!
@@ -110,13 +110,13 @@ Dialogue: 10,0:06:55.90,0:06:57.73,Main,Sazare,0,0,0,,Pretty big one, too.
 Dialogue: 10,0:06:58.98,0:07:00.69,Main,Liko,0,0,0,,But where’s Basagiri?
 Dialogue: 10,0:07:01.73,0:07:02.19,Main,Liko,0,0,0,,Ah...
 Dialogue: 10,0:07:03.11,0:07:04.20,Main,Liko,0,0,0,,Are these...
-Dialogue: 10,0:07:04.57,0:07:06.28,Main,Liko,0,0,0,,...gouges from Basagiri’s axes?
+Dialogue: 10,0:07:04.57,0:07:06.28,Main,Liko,0,0,0,,...scars from Basagiri’s axes?
 Dialogue: 10,0:07:06.28,0:07:06.82,Main,Roy and Dot,0,0,0,,Huh?!
 Dialogue: 10,0:07:06.82,0:07:08.49,Main,Dot,0,0,0,,There’s some over here, too!
 Dialogue: 10,0:07:08.49,0:07:09.33,Main,Roy,0,0,0,,And here!
 Dialogue: 10,0:07:14.46,0:07:16.83,Main,Roy,0,0,0,,Think it battled someone down here?{Dread Basagiri}
 Dialogue: 10,0:07:16.83,0:07:19.63,Main,Dot,0,0,0,,Or maybe it got mad \N and went on a rampage?{Dread Basagiri}
-Dialogue: 10,0:07:19.63,0:07:24.09,Main,Friede,0,0,0,,No, that wouldn’t have led to \N such systematic gouging.
+Dialogue: 10,0:07:19.63,0:07:24.09,Main,Friede,0,0,0,,No, that wouldn’t have led to \N such systematic scarring.
 Dialogue: 10,0:07:24.09,0:07:28.64,Main,Friede,0,0,0,,It probably made these while training, \N to polish its moves.{Dread Basagiri}
 Dialogue: 10,0:07:28.64,0:07:30.18,Main,Liko,0,0,0,,Training...
 Dialogue: 10,0:07:30.18,0:07:32.47,Main,Liko,0,0,0,,All alone, for all this time...
