@@ -2234,7 +2234,7 @@ POKÉMON NAMES
 0981 リキキリン Rikikirin - くびながポケモン Long Neck Pokémon
 0982 ノココッチ Nokokotchi - つちへびポケモン Land Snake Pokémon
 0983 ドドゲザン Dodogezan - だいとうポケモン Glaive Pokémon
-0984 イダイナキバ 
+0984 イダイナキバ Mighty Tusks - パラドックスポケモン Paradox Pokémon
 0985 サケブシッポ Screaming Tail - パラドックスポケモン Paradox Pokémon
 0986 アラブルタケ 
 0987 ハバタクカミ 
