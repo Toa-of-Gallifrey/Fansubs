@@ -37,7 +37,7 @@ aromaserapii アロマセラピー (Aromatherapy) - Aromatherapy
 asa no hizashi あさのひざし (Morning Sun) - # TBD #
 ashiddo bomu アシッドボム (Acid Spray) - Acid Bomb
 ashisuto gia アシストギア (Gear Up) - # TBD #
-ashisuto pawaa アシストパワー (Stored Power) - # TBD #
+ashisuto pawaa アシストパワー (Stored Power) - Assisted Power
 asutoraru bitto アストラルビット (Astral Barrage) - # TBD #
 ateminage あてみなげ (Vital Throw) - Parry Throw
 awa あわ (Bubble) - Bubbles
@@ -457,7 +457,7 @@ mega dorein メガドレイン (Mega Drain) - Mega Drain
 megahoon メガホーン (Megahorn) - Megahorn
 megaton kikku メガトンキック (Mega Kick) - Megaton Kick
 megaton panchi メガトンパンチ (Mega Punch) - Megaton Punch
-meisou めいそう (Calm Mind) - Meditation [subject to change]
+meisou めいそう (Calm Mind) - Meditation
 meramera baan めらめらバーン (Sizzly Slide) - # TBD #
 meromero メロメロ (Attract) - Attract
 metaru basutoo メタルバースト (Metal Burst) - Metal Burst
@@ -826,7 +826,7 @@ yakeppachi やけっぱち (Temper Flare) - # TBD #
 yaki tsukusu やきつくす (Incinerate) - # TBD #
 yama arashi やまあらし (Storm Throw) - # TBD #
 yatsuatari やつあたり (Frustration) - # TBD #
-yoga no poozu ヨガのポーズ (Meditate) - # TBD #
+yoga no poozu ヨガのポーズ (Meditate) - Yoga Pose
 yokodori よこどり (Snatch) - # TBD #
 youkaieki ようかいえき (Acid) - Acid
 yousei no kaze ようせいのかぜ (Fairy Wind) - Fairy Wind
