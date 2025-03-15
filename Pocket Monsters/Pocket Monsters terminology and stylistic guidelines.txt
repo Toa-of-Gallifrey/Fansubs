@@ -386,7 +386,7 @@ kirifuda きりふだ (Trump Card) - Trump Card
 kirisaku きりさく (Slash) - Slash
 kishi kaisei きしかいせい (Reversal) - Reversal
 kitsuke きつけ (Smelling Salts) - # TBD #
-koa panissha コアパニッシャー (Core Enforcer) - # TBD #
+koa panissha コアパニッシャー (Core Enforcer) - Core Punisher
 kochikochi furosuto こちこちフロスト (Freezy Frost) - # TBD #
 kogarashi arashi こがらしあらし (Bleakwind Storm) - # TBD #
 kogoeru kaze こごえるかぜ (Icy Wind) - Icy Wind
@@ -769,7 +769,7 @@ torabasami トラバサミ (Snap Trap) - # TBD #
 torai atakku トライアタック (Tri Attack) - Tri Attack
 torappu sheru トラップシェル (Shell Trap) - Trap Shell [subject to change]
 torikku トリック (Trick) - Trick
-torikku furawaa トリックフラワー (Flower Trick) - Trick Flowers
+torikku furawaa トリックフラワー (Flower Trick) - Trick Flower
 torikku gaado トリックガード (Crafty Shield) - # TBD #
 torikku ruumu トリックルーム (Trick Room) - Trick Room
 toripuru akuseru トリプルアクセル (Triple Axel) - Triple Axel
@@ -1967,8 +1967,8 @@ POKÉMON NAMES
 0714 オンバット 
 0715 オンバーン Onvern - おんぱポケモン Sound Wave Pokémon
 0716 ゼルネアス Xerneas - せいめいポケモン 
-0717 イベルタル 
-0718 ジガルデ 
+0717 イベルタル Yveltal - はかいポケモン 
+0718 ジガルデ Zygarde - ちつじょポケモン - Order Pokémon
 0719 ディアンシー Diancie - ほうせきポケモン 
 0720 フーパ 
 0721 ボルケニオン 
@@ -2323,6 +2323,8 @@ Dot's Kuwassu - Male (attracted female Pokémon in PM23)
 Friede's Pikachu - Male (gender design difference)
 
 Murdock's Mawhip - Female (monogender species)
+
+Gibeon's Zygarde - Male (referred to as "kare" by Lucius in PM23 087)
 
 
 
