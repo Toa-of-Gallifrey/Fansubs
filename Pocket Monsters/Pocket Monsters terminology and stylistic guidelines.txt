@@ -154,10 +154,10 @@ ekoo boisu エコーボイス (Echoed Voice) - # TBD #
 enajii booru エナジーボール (Energy Ball) - Energy Ball
 enmaku えんまく (Smokescreen) - Smokescreen
 eragami エラがみ (Fishious Rend) - Jaw Bite
-ereki booru エレキボール (Electro Ball) - Electro Ball
-ereki fiirudo エレキフィールド (Electric Terrain) - Electro Field
-ereki netto エレキネット (Electroweb) - Electroweb
-erekutoro biimu エレクトロビーム (Electro Shot) - # TBD #
+ereki booru エレキボール (Electro Ball) - Electric Ball
+ereki fiirudo エレキフィールド (Electric Terrain) - Electric Field
+ereki netto エレキネット (Electroweb) - Electric Net
+erekutoro biimu エレクトロビーム (Electro Shot) - Electro Beam
 fasuto gaado ファストガード (Quick Guard) - # TBD #
 fearii rokku フェアリーロック (Fairy Lock) - Fairy Lock
 feinto フェイント (Feint) - Feint
@@ -987,8 +987,8 @@ donkan どんかん (Oblivious) - # TBD #
 doshoku どしょく (Earth Eater) - # TBD #
 ea rokku エアロック (Air Lock) - Air Lock
 enkaku えんかく (Long Reach) - # TBD #
-ereki meikaa エレキメイカー (Eletric Surge) - # TBD #
-ereki sukin エレキスキン (Galvanize) - # TBD #
+ereki meikaa エレキメイカー (Eletric Surge) - Electric Maker
+ereki sukin エレキスキン (Galvanize) - Electric Skin
 faa kooto ファーコート (Fur Coat) - Fur Coat
 fantomu gaado ファントムガード (Shadow Shield) - Phantom Guard
 fearii oora フェアリーオーラ (Fairy Aura) - Fairy Aura
@@ -1014,7 +1014,7 @@ ganjou ago がんじょうあご (Strong Jaw) - # TBD #
 gekiryuu げきりゅう (Torrent) - # TBD #
 gitai ぎたい (Mimicry) - Mimicry
 gorimuchuu ごりむちゅう (Gorilla Tactics) - # TBD #
-gurasu meikaa グラスメイカー (Grassy Surge) - # TBD #
+gurasu meikaa グラスメイカー (Grassy Surge) - Grass Maker
 gyakujou ぎゃくじょう (Berserk) - # TBD #
 gyogun ぎょぐん (Schooling) - # TBD #
 haado rokku ハードロック (Solid Rock) - # TBD #
@@ -1118,7 +1118,7 @@ metaru purotekuto メタルプロテクト (Full Metal Body) - # TBD #
 miira ミイラ (Mummy) - # TBD #
 miraa aamaa ミラーアーマー (Mirror Armor) - Mirror Armor
 mirakuru sukin ミラクルスキン (Wonder Skin) - Miracle Skin
-misuto meikaa ミストメイカー (Misty Surge) - # TBD #
+misuto meikaa ミストメイカー (Misty Surge) - Mist Maker
 mitsu atsume みつあつめ (Honey Gather) - # TBD #
 mizu gatame みずがため (Water Compaction) - # TBD #
 mizu no beeru みずのベール (Water Veil) - # TBD #
@@ -1163,14 +1163,14 @@ rimitto shiirudo リミットシールド (Shields Down) - # TBD #
 rinpun りんぷん (Shield Dust) - # TBD #
 ryuu no agito りゅうのあぎと (Dragon's Maw) - # TBD #
 saafu teeru サーフテール (Surge Surfer) - # TBD #
-saiko meikaa サイコメイカー (Psychic Surge) - # TBD #
+saiko meikaa サイコメイカー (Psychic Surge) - Psycho Maker
 saiseiryoku さいせいりょく (Regenerator) - # TBD #
 samayou tamashii さまようたましい (Wandering Spirit) - # TBD #
 samehada さめはだ (Rough Skin) - # TBD #
 san pawaa サンパワー (Solar Power) - # TBD #
 seidenki せいでんき (Static) - # TBD #
-seigi no kokoro ふくつのこころ (Justified) - Heart of Justice
-seishinryoku せいしんりょく (Inner Force) - # TBD #
+seigi no kokoro せいぎのこころ (Justified) - Heart of Justice
+seishinryoku せいしんりょく (Inner Force) - Force of Will
 sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
 shingan しんがん (Mind's Eye) - # TBD #
@@ -1178,7 +1178,7 @@ shinkuro シンクロ (Synchronize) - # TBD #
 shinryoku しんりょく (Overgrow) - Budding Greenery
 shireitou しれいとう (Commander) - # TBD #
 shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
-shiroi kemuri しろいけむり (Shiroi Kemuri) - White Smoke
+shiroi kemuri しろいけむり (White Smoke) - White Smoke
 shizen kaifuku しぜんかいふく (Natural Cure) - Natural Cure
 shouri no hoshi しょうりのほし (Victory Star) - # TBD #
 shuukaku しゅうかく (Harvest) - # TBD #
@@ -1209,7 +1209,7 @@ tainetsu たいねつ (Heatproof) - # TBD #
 tama hiroi たまひろい (Ball Fetch) - # TBD #
 tanjun たんじゅん (Simple) - # TBD #
 teiru aamaa テイルアーマー (Armor Tail) - # TBD #
-tekiouryouku てきおうりょく (Adaptability) - # TBD #
+tekiouryouku てきおうりょく (Adaptability) - Adaptability
 tekunishan テクニシャン (Technician) - Technician
 ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
 tenkiya てんきや (Forecast) - # TBD #
@@ -1698,7 +1698,7 @@ POKÉMON NAMES
 0445 ガブリアス Gaburias - マッハポケモン Mach Pokémon
 0446 ゴンベ Gonbe - おおぐいポケモン 
 0447 リオル Riolu - はもんポケモン Ripple Pokémon
-0448 ルカリオ Lucario - はどうポケモン Guiding Wave Pokémon
+0448 ルカリオ Lucario - はどうポケモン Guiding Waves Pokémon
 0449 ヒポポタス 
 0450 カバルドン 
 0451 スコルピ Scorupi - さそりポケモン Scorpion Pokémon
