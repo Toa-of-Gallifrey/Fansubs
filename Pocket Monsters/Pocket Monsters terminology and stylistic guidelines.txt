@@ -767,7 +767,7 @@ toochika トーチカ (Baneful Bunker) - # TBD #
 toosenbou とおせんぼう (Block) - # TBD #
 torabasami トラバサミ (Snap Trap) - # TBD #
 torai atakku トライアタック (Tri Attack) - Tri Attack
-torappu sheru トラップシェル (Shell Trap) - Trap Shell [subject to change]
+torappu sheru トラップシェル (Shell Trap) - Trap Shell
 torikku トリック (Trick) - Trick
 torikku furawaa トリックフラワー (Flower Trick) - Trick Flower
 torikku gaado トリックガード (Crafty Shield) - # TBD #
@@ -800,7 +800,7 @@ tsutsuku つつく (Peck) - Peck
 uchiotosu うちおとす (Smack Down) - # TBD #
 uddo hammaa ウッドハンマー (Wood Hammer) - Wood Hammer
 uddo hoon ウッドホーン (Horn Leech) - Wood Horn
-ueebu takkaru ウェーブタックル (Wave Crash) - Wave Tackle
+ueebu takkuru ウェーブタックル (Wave Crash) - Wave Tackle
 uezaa booru ウェザーボール (Weather Ball) - Weather Ball
 uppun barashi うっぷんばらし (Lash Out) - # TBD #
 urami うらみ (Spite) - # TBD #
@@ -1308,7 +1308,7 @@ POKÉMON NAMES
 0055 ゴルダック Golduck - あひるポケモン Duck Pokémon
 0056 マンキー Mankey - ぶたざるポケモン Pig Monkey Pokémon
 0057 オコリザル Okorizaru - ぶたざるポケモン Pig Monkey Pokémon
-0058 ガーディ Guardie - こいぬポケモン Puppy Pokémon --- Hisuian Form - みはりポケモン Scout Pokémon
+0058 ガーディ Guardie - こいぬポケモン Puppy Pokémon | Hisuian Form - みはりポケモン Scout Pokémon
 0059 ウインディ Windie - でんせつポケモン Legend Pokémon
 0060 ニョロモ Nyoromo - おたまポケモン Tadpole Pokémon
 0061 ニョロゾ Nyorozo - おたまポケモン Tadpole Pokémon
@@ -1327,8 +1327,8 @@ POKÉMON NAMES
 0074 イシツブテ Ishitsubute - がんせきポケモン Rock Pokémon
 0075 ゴローン Gorone - がんせきポケモン Rock Pokémon
 0076 ゴローニャ Gorogna - メガトンポケモン Megaton Pokémon
-0077 ポニータ Ponyta - ひのうまポケモン Fire Horse Pokémon --- Galarian Form - いっかくポケモン One-Horned Pokémon
-0078 ギャロップ Gallop - ひのうまポケモン Fire Horse Pokémon --- Galarian Form - いっかくポケモン One-Horned Pokémon
+0077 ポニータ Ponyta - ひのうまポケモン Fire Horse Pokémon | Galarian Form - いっかくポケモン One-Horned Pokémon
+0078 ギャロップ Gallop - ひのうまポケモン Fire Horse Pokémon | Galarian Form - いっかくポケモン One-Horned Pokémon
 0079 ヤドン Yadon - まぬけポケモン Dopey Pokémon
 0080 ヤドラン Yadoran - やどかりポケモン Hermit Crab Pokémon
 0081 コイル Coil - じしゃくポケモン Magnet Pokémon
@@ -1350,8 +1350,8 @@ POKÉMON NAMES
 0097 スリーパー Sleeper - さいみんポケモン Hypnosis Pokémon
 0098 クラブ Crab - さわがにポケモン Freshwater Crab Pokémon
 0099 キングラー Kingler - はさみポケモン Pincer Pokémon
-0100 ビリリダマ Biriridama - ボールポケモン Ball Pokémon --- Hisuian Form - きゅうたいポケモン 
-0101 マルマイン Marumine - ボールポケモン Ball Pokémon --- Hisuian Form - きゅうたいポケモン 
+0100 ビリリダマ Biriridama - ボールポケモン Ball Pokémon | Hisuian Form - きゅうたいポケモン 
+0101 マルマイン Marumine - ボールポケモン Ball Pokémon | Hisuian Form - きゅうたいポケモン 
 0102 タマタマ Tamatama - たまごポケモン Egg Pokémon
 0103 ナッシー Nasshi - やしのみポケモン Coconut Pokémon
 0104 カラカラ Karakara - こどくポケモン Lonely Pokémon
@@ -1372,7 +1372,7 @@ POKÉMON NAMES
 0119 アズマオウ Azumao - きんぎょポケモン Goldfish Pokémon
 0120 ヒトデマン Hitodeman - ほしがたポケモン Star Shape Pokémon
 0121 スターミー Starmie - なぞのポケモン 
-0122 バリヤード Barrierd - バリアーポケモン Barrier Pokémon --- Galarian Form - ダンスポケモン Dancing Pokémon
+0122 バリヤード Barrierd - バリアーポケモン Barrier Pokémon | Galarian Form - ダンスポケモン Dancing Pokémon
 0123 ストライク Strike - かまきりポケモン Mantis Pokémon
 0124 ルージュラ 
 0125 エレブー Eleboo - でんげきポケモン Electric Shock Pokémon
@@ -1394,9 +1394,9 @@ POKÉMON NAMES
 0141 カブトプス Kabutops - こうらポケモン 
 0142 プテラ Ptera - かせきポケモン Fossil Pokémon
 0143 カビゴン Kabigon - いねむりポケモン Sleeping Pokémon
-0144 フリーザー Freezer - れいとうポケモン Freezing Pokémon --- Galarian Form - れいこくポケモン 
-0145 サンダー Thunder - でんげきポケモン Electric Shock Pokémon --- Galarian Form - けんきゃくポケモン 
-0146 ファイヤー Fire - かえんポケモン Flame Pokémon --- Galarian Form - じゃあくポケモン Malevolent Pokémon
+0144 フリーザー Freezer - れいとうポケモン Freezing Pokémon | Galarian Form - れいこくポケモン 
+0145 サンダー Thunder - でんげきポケモン Electric Shock Pokémon | Galarian Form - けんきゃくポケモン 
+0146 ファイヤー Fire - かえんポケモン Flame Pokémon | Galarian Form - じゃあくポケモン Malevolent Pokémon
 0147 ミニリュウ Miniryu - ドラゴンポケモン Dragon Pokémon
 0148 ハクリュー Hakuryu - ドラゴンポケモン Dragon Pokémon
 0149 カイリュー Kairyu - ドラゴンポケモン Dragon Pokémon
@@ -1444,7 +1444,7 @@ POKÉMON NAMES
 0191 ヒマナッツ 
 0192 キマワリ Kimawari - たいようポケモン Sun Pokémon
 0193 ヤンヤンマ 
-0194 ウパー Wooper - みずうおポケモン Water Fish Pokémon --- Paldean Form - どくうおポケモン Poison Fish Pokémon
+0194 ウパー Wooper - みずうおポケモン Water Fish Pokémon | Paldean Form - どくうおポケモン Poison Fish Pokémon
 0195 ヌオー Nuoh - みずうおポケモン Water Fish Pokémon
 0196 エーフィ Eefee - たいようポケモン Sun Pokémon
 0197 ブラッキー Blacky - げっこうポケモン Moonlight Pokémon
@@ -1799,7 +1799,7 @@ POKÉMON NAMES
 0546 モンメン Monmen - わたたまポケモン 
 0547 エルフーン Elfoon - かぜかくれポケモン 
 0548 チュリネ Churine - ねっこポケモン 
-0549 ドレディア Dredear - はなかざりポケモン Flowering Pokémon --- Hisuian Form - スピンポケモン 
+0549 ドレディア Dredear - はなかざりポケモン Flowering Pokémon | Hisuian Form - スピンポケモン 
 0550 バスラオ 
 0551 メグロコ Meguroco - さばくワニポケモン Desert Croc Pokémon
 0552 ワルビル Waruvile - さばくワニポケモン Desert Croc Pokémon
@@ -1878,7 +1878,7 @@ POKÉMON NAMES
 0625 キリキザン Kirikizan - とうじんポケモン  
 0626 バッフロン Buffron - ずつきうしポケモン 
 0627 ワシボン Washibon - ヒナわしポケモン 
-0628 ウォーグル Warrgle - ゆうもうポケモン Valiant Pokémon --- Hisuian Form - おたけびポケモン 
+0628 ウォーグル Warrgle - ゆうもうポケモン Valiant Pokémon | Hisuian Form - おたけびポケモン 
 0629 バルチャイ Vulchi - おむつポケモン 
 0630 バルジーナ Vulgina - ほねわしポケモン 
 0631 クイタラン Kuitaran - アリクイポケモン Anteater Pokémon
@@ -2214,7 +2214,7 @@ POKÉMON NAMES
 0961 ウミトリオ Umitrio - あなごポケモン Garden Eel Pokémon
 0962 オトシドリ Otoshidori - おとしものポケモン Item-Dropping Pokémon
 0963 ナミイルカ Namiiruka - イルカポケモン Dolphin Pokémon
-0964 イルカマン Irukaman - イルカポケモン Dolphin Pokémon --- Mighty Forme - ヒーローポケモン Hero Pokémon
+0964 イルカマン Irukaman - イルカポケモン Dolphin Pokémon | Mighty Forme - ヒーローポケモン Hero Pokémon
 0965 ブロロン Burorom - たんきとうポケモン Single-Cylinder Pokémon
 0966 ブロロローム Burororoom - たきとうポケモン Multi-Cylinder Pokémon
 0967 モトトカゲ Mototokage - ライドポケモン Ride Pokémon
@@ -2249,7 +2249,7 @@ POKÉMON NAMES
 0996 セビエ Sebie - こおりビレポケモン Ice Fin Pokémon
 0997 セゴール 
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
-0999 コレクレー Collecurei - たからばこポケモン --- Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
+0999 コレクレー Collecurei - たからばこポケモン  | Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
 1000 サーフゴー 
 1001 チオンジェン 
 1002 パオジアン 
