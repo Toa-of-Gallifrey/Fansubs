@@ -308,9 +308,9 @@ iwa nadare いわなだれ (Rock Slide) - Rock Slide
 iwa otoshi いわおとし (Rock Throw) - Rock Throw
 iwakudaki いわくだき (Rock Smash) - # TBD #
 iya na oto いやなおと (Screech) - # TBD #
-iyashi no hadou いやしのはどう (Heal Pulse) - Heal Pulse
-iyashi no negai いやしのねがい (Healing Wish) - # TBD #
-iyashi no suzu いやしのすず (Heal Bell) - # TBD #
+iyashi no hadou いやしのはどう (Heal Pulse) - Healing Pulse
+iyashi no negai いやしのねがい (Healing Wish) - Healing Wish
+iyashi no suzu いやしのすず (Heal Bell) - Healing Bell
 jadoku no kusari じゃどくのくさり (Malignant Chain) - # TBD #
 jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
 janguru hiiru ジャングルヒール (Jungle Healing) - # TBD #
@@ -395,7 +395,7 @@ kokoro no me こころのめ (Mind Reader) - # TBD #
 kometto panchi コメットパンチ (Meteor Mash) - Comet Punch
 konayuki こなゆき (Powder Snow) - Powder Snow
 kongen no hadou こんげんのはどう (Origin Pulse) - Origin Pulse
-kono yubi tomare このゆびとまれ (Follow Me) - # TBD #
+kono yubi tomare このゆびとまれ (Follow Me) - Follow My Finger
 konoha このは (Leafage) - Leafage
 koochingu コーチング (Coaching) - Coaching
 koori no ibuki こおりのいぶき (Frost Breath) - Ice Breath
@@ -697,7 +697,7 @@ suiryuu renda すいりゅうれんだ (Surging Strikes) - Pouring Strikes
 suitoru すいとる (Absorb) - # TBD #
 sukai appaa スカイアッパー (Sky Uppercut) - # TBD #
 sukecchi スケッチ (Sketch) - Sketch
-sukeiru noizu スケイルノイズ (Scale Noise) - Scale Noise [subject to change]
+sukeiru noizu スケイルノイズ (Scale Noise) - Scale Noise
 sukeiru shotto スケイルショット (Scale Shot) - Scale Shot
 sukiru suwappu スキルスワップ (Skill Swap) - Skill Swap
 sukusuku bombaa すくすくボンバー (Sappy Seed) - # TBD #
@@ -1043,7 +1043,7 @@ hitodenashi ひとでなし (Merciless) - # TBD #
 honoo no karada ほのおのからだ (Flame Body) - Flame Body
 hoo bukuro ほおぶくろ (Cheek Pouch) - # TBD #
 horobi no bodi ほろびのボディ (Perish Body) - # TBD #
-houshi ほうし (Effect Spore) - # TBD #
+houshi ほうし (Effect Spore) - Spore
 ikaku いかく (Intimidate) - Intimidate
 ikari no koura いかりのこうら (Anger Shell) - # TBD #
 ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
@@ -1073,7 +1073,7 @@ kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
 karuwaza かるわざ (Unburden) - # TBD #
 kasoku かそく (Speed Boost) - # TBD #
 katai tsume かたいツメ (Tough Claws) - # TBD #
-katayaburi かたやぶり (Mold Breaker) - # TBD #
+katayaburi かたやぶり (Mold Breaker) - Mold Breaker
 kawari mono かわりもの (Imposter) - # TBD #
 kazenori かぜのり (Wind Rider) - # TBD #
 kiken yochi きけんよち (Anticipation) - # TBD #
@@ -1168,7 +1168,7 @@ saiseiryoku さいせいりょく (Regenerator) - # TBD #
 samayou tamashii さまようたましい (Wandering Spirit) - # TBD #
 samehada さめはだ (Rough Skin) - # TBD #
 san pawaa サンパワー (Solar Power) - # TBD #
-seidenki せいでんき (Static) - # TBD #
+seidenki せいでんき (Static) - Static
 seigi no kokoro せいぎのこころ (Justified) - Heart of Justice
 seishinryoku せいしんりょく (Inner Force) - Force of Will
 sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
@@ -1244,7 +1244,7 @@ yuki furashi ゆきふらし (Snow Warning) - # TBD #
 yuki kaki ゆきかき (Slush Rush) - # TBD #
 yukigakure ゆきがくれ (Snow Cloak) - # TBD #
 yuubaku ゆうばく (Aftermath) - Induced Explosion
-zero foomingu ゼロフォーミング (Teraform Zero) - Zero-Forming [subject to change]
+zero foomingu ゼロフォーミング (Teraform Zero) - Zero-Forming
 zettai nemuri ぜったいねむり (Comatose) - Hyper Sleep
 
 
@@ -1431,7 +1431,7 @@ POKÉMON NAMES
 0178 ネイティオ Natio - せいれいポケモン Spirit Pokémon
 0179 メリープ Mareep - わたげポケモン 
 0180 モココ Mokoko - わたげポケモン 
-0181 デンリュウ Denryu - ライトポケモン Light Pokémon
+0181 デンリュウ Denryuu - ライトポケモン Light Pokémon
 0182 キレイハナ Kireihana - フラワーポケモン Flower Pokémon
 0183 マリル Marill - みずねずみポケモン 
 0184 マリルリ Marilluri - みずうさぎポケモン
