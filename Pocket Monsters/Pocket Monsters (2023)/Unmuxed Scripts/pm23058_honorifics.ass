@@ -324,7 +324,7 @@ Dialogue: 10,0:19:43.37,0:19:45.25,Main,Roy,0,0,0,,Time to dig in!
 Dialogue: 10,0:19:49.75,0:19:51.75,Main,Roy,0,0,0,,They’re really chewy!
 Dialogue: 10,0:19:56.09,0:19:57.76,Main,Liko,0,0,0,,Delicious!
 Dialogue: 10,0:19:59.80,0:20:02.26,Main,Mokichi,0,0,0,,Thank you so much for today.
-Dialogue: 10,0:20:03.72,0:20:06.69,Main,Dot,0,0,0,,Aw, I didn’t do anything special....
+Dialogue: 10,0:20:03.72,0:20:06.69,Main,Dot,0,0,0,,Aw, I didn’t do anything special...
 Dialogue: 10,0:20:06.69,0:20:09.40,Main,Dot,0,0,0,,I just did what little I could...
 Dialogue: 10,0:20:09.90,0:20:13.82,Main,Mokichi,0,0,0,,Doing what little you can \N still takes hard work!
 Dialogue: 10,0:20:13.82,0:20:16.08,Main,Mokichi,0,0,0,,Plus, you helped us remember...
@@ -352,7 +352,7 @@ Dialogue: 10,0:21:39.82,0:21:41.49,Main,Roy,0,0,0,,Hogator, you want another bow
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
 Dialogue: 10,0:21:45.91,0:21:47.12,Main,Friede,0,0,0,,Friede here.
 Dialogue: 10,0:21:47.12,0:21:49.20,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
-Dialogue: 10,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Glaive Pokémon, Dodogezan!
+Dialogue: 10,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Glaive Pokémon, Dodogezan.
 Dialogue: 10,0:21:55.25,0:22:00.17,Main,Friede,0,0,0,,A pack-leading Pokémon \N that commands a massive army in battle.
 Dialogue: 10,0:22:00.17,0:22:05.18,Main,Friede,0,0,0,,Do you know how it has its army fight?
 Dialogue: 10,0:22:05.18,0:22:07.47,Main,Friede,0,0,0,,See the answer after the commercials!
@@ -371,7 +371,7 @@ Dialogue: 10,0:24:11.26,0:24:12.14,Main,Dot,0,0,0,,Sheesh...
 Dialogue: 10,0:24:12.14,0:24:15.35,Main,Liko,0,0,0,,But I bet you’ll pass, Dot!
 Dialogue: 10,0:24:15.35,0:24:17.27,Main,Dot,0,0,0,,You’re raising event flags again...
 Dialogue: 10,0:24:17.27,0:24:19.56,Main,Dot,0,0,0,,Kuwassu, do your best \N alongside Kanuchan, okay?
-Dialogue: 10,0:24:20.36,0:24:23.82,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
+Dialogue: 10,0:24:20.36,0:24:23.82,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
 Dialogue: 10,0:24:23.82,0:24:26.95,Main,Them,0,0,0,,{\i1}Dance, Kuwassu! \N The Blue Champuru Step!!{\i0}
 Dialogue: 10,0:24:27.36,0:24:29.74,Main,Dot,0,0,0,,Blue? Aoki{(gymleader)}?!
 Dialogue: 10,0:24:27.36,0:24:29.74,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(860,957)}aoki

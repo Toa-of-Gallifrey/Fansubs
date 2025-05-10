@@ -229,7 +229,7 @@ Dialogue: 10,0:21:28.98,0:21:30.48,Main,Liko,0,0,0,,I can certainly say I’m ha
 Dialogue: 10,0:21:30.48,0:21:32.44,Main,Liko,0,0,0,,How about you, Nyarote?
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
 Dialogue: 10,0:21:46.08,0:21:47.16,Main,Friede,0,0,0,,Friede here.
-Dialogue: 10,0:21:47.16,0:21:49.16,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar.
+Dialogue: 10,0:21:47.16,0:21:49.16,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 10,0:21:50.79,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Wood Ear Pokémon, Nonokurage.
 Dialogue: 10,0:21:54.50,0:21:58.13,Main,Friede,0,0,0,,It looks like Menokurage, \N but it’s a different Pokémon.
 Dialogue: 10,0:21:58.13,0:22:01.01,Main,Friede,0,0,0,,It’s said to excel at something,
@@ -250,7 +250,7 @@ Dialogue: 10,0:24:09.84,0:24:11.01,Main,Roy,0,0,0,,Correct!
 Dialogue: 10,0:24:11.60,0:24:13.10,Main,Liko,0,0,0,,Amazing, Dot!{Sasuga. line}
 Dialogue: 10,0:24:13.10,0:24:19.48,Main,Dot,0,0,0,,{\q2}Apparently, the front teeth that Capsaiji shed \N are even used in traditional super-spicy Paldean cuisine!{Violet dex entry}
 Dialogue: 10,0:24:20.06,0:24:21.40,Main,Liko,0,0,0,,Wow!
-Dialogue: 10,0:24:21.40,0:24:24.53,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:21.40,0:24:24.53,Main,Liko,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
 Dialogue: 10,0:24:24.53,0:24:26.95,Main,Roy,0,0,0,,Kaiden, Strong Wind Warning!
 Dialogue: 10,0:24:26.95,0:24:28.78,Main,Dot,0,0,0,,It’s nothing to do with Capsaiji?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,

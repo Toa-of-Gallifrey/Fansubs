@@ -137,7 +137,7 @@ Dialogue: 10,0:08:15.85,0:08:18.02,Main,Liko,0,0,0,,Nyarote, use Scratch!
 Dialogue: 10,0:08:25.15,0:08:26.57,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:08:28.28,0:08:30.57,Main,Dot,0,0,0,,Taikaiden has the upper hand \N in the air!
 Dialogue: 10,0:08:32.62,0:08:34.33,Main,Liko,0,0,0,,Nyarote, are you okay?
-Dialogue: 10,0:08:35.66,0:08:36.75,Main,Liko,0,0,0,,Paralysis status?!
+Dialogue: 10,0:08:35.66,0:08:36.75,Main,Liko,0,0,0,,Paralysis?!{Paralysis status}
 Dialogue: 10,0:08:37.83,0:08:39.42,Main,Liko,0,0,0,,Return, Nyarote!
 Dialogue: 10,0:08:40.88,0:08:42.46,Main,Liko,0,0,0,,Tebrim, I’m counting on you!
 Dialogue: 10,0:08:45.17,0:08:46.55,Main,Roy,0,0,0,,Whoever strikes first wins!{sentehisshou}
@@ -157,7 +157,7 @@ Dialogue: 10,0:09:33.01,0:09:34.39,Main,Liko,0,0,0,,Tebrim?
 Dialogue: 10,0:09:40.23,0:09:41.98,Main,Kihada,0,0,0,,Tebrim is unable to battle!
 Dialogue: 10,0:09:43.81,0:09:45.86,Main,Roy,0,0,0,,We did it, Taikaiden!
 Dialogue: 10,0:09:50.24,0:09:52.66,Main,Liko,0,0,0,,You did your absolute best, Tebrim.
-Dialogue: 10,0:09:52.66,0:09:54.95,Main,Anne,0,0,0,,Nyarote has the paralysis status...
+Dialogue: 10,0:09:52.66,0:09:54.95,Main,Anne,0,0,0,,Nyarote is paralyzed...{Paralysis status}
 Dialogue: 10,0:09:54.95,0:09:57.12,Main,Dot,0,0,0,,What’re you gonna do, Liko?!
 Dialogue: 10,0:09:57.83,0:09:58.62,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:10:03.21,0:10:05.00,Main,Poppy,0,0,0,,The paralysis is healed!
@@ -340,7 +340,7 @@ Dialogue: 10,0:24:12.97,0:24:14.43,Main,Murdock,0,0,0,,Molly, Gramps... \N I sho
 Dialogue: 10,0:24:14.43,0:24:16.77,Main,Murdock,0,0,0,,All the ship’s Pokémon \N are happy and healthy!
 Dialogue: 10,0:24:16.77,0:24:19.52,Main,Landau,0,0,0,,Now is the time for us \N to reconvene.
 Dialogue: 10,0:24:20.40,0:24:23.44,Main,Friede,0,0,0,,Well then, how about we go \N pick up Liko and the others?
-Dialogue: 10,0:24:23.44,0:24:26.49,Main,Friede,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
+Dialogue: 10,0:24:23.44,0:24:26.49,Main,Friede,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
 Dialogue: 10,0:24:26.49,0:24:29.32,Main,Friede,0,0,0,,To a New Sky! The Brave Asagi!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 12,0:02:23.12,0:02:26.50,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future

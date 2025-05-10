@@ -264,7 +264,7 @@ Dialogue: 10,0:24:04.17,0:24:06.34,Main,Dot,0,0,0,,I hear their live concerts \N
 Dialogue: 10,0:24:06.34,0:24:10.76,Main,Roy,0,0,0,,All right! Implementation test time! \N I’m challenging Gym Leader Rhyme-san!{the Gym Leader, Rhyme-san!}
 Dialogue: 10,0:24:10.76,0:24:12.81,Main,Liko,0,0,0,,Look! A concert’s starting!
 Dialogue: 10,0:24:12.81,0:24:15.52,Main,Roy,0,0,0,,Huh?! No way! {\i1}She’s{\i}{that person} Rhyme-san?!
-Dialogue: 10,0:24:15.52,0:24:18.48,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:15.52,0:24:18.48,Main,Liko,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
 Dialogue: 10,0:24:18.48,0:24:19.65,Main,Liko,0,0,0,,Ready, and...
 Dialogue: 10,0:24:19.65,0:24:22.90,Main,Them,0,0,0,,Resound, My Soul! The Challenge to Rhyme
 Dialogue: 10,0:24:22.90,0:24:24.73,Main,Roy,0,0,0,,Hogator, let’s sing!
@@ -1434,7 +1434,7 @@ Dialogue: 1,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Sebie\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Fin Pokémon\NType: {\c&HB46A46&}Dragon{\c&H1F1F1F&}/{\c&HECC75D&}Ice
+Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Sebie\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Fin Pokémon\NType: {\c&HAE623E&}Dragon{\c&H1F1F1F&}/{\c&HECC75D&}Ice
 Dialogue: 0,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Sebie\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Fin Pokémon\NType: Dragon/Ice
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N0.5m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N17.0kg

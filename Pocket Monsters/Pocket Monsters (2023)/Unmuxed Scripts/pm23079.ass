@@ -33,7 +33,7 @@ Dialogue: 10,0:00:08.99,0:00:10.57,Main,Liko,0,0,0,,Magical Leaf!
 Dialogue: 10,0:00:10.57,0:00:12.28,Main,Roy,0,0,0,,Flamethrower!
 Dialogue: 10,0:00:12.28,0:00:13.62,Main,Dot,0,0,0,,Water Gun!
 Dialogue: 10,0:00:20.33,0:00:22.71,Main,Omodaka,0,0,0,,Now, it’s time you feel firsthand \N why I’m at the top.{0:09:08.40}
-Dialogue: 10,0:00:22.71,0:00:24.71,Main,Omodaka,0,0,0,,Kiraflor, Magical Shine!
+Dialogue: 10,0:00:22.71,0:00:24.71,Main,Omodaka,0,0,0,,Kiraflor! Magical Shine!
 Comment: 0,0:00:28.80,0:00:28.80,Main,,0,0,0,,{Opening}
 Comment: 0,0:01:58.89,0:01:58.89,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:09.90,0:02:13.91,Main,Liko,0,0,0,,The Rising Voltteccers \N have returned to Paldea.
@@ -76,7 +76,7 @@ Dialogue: 10,0:04:19.53,0:04:23.91,Main,Friede,0,0,0,,Now that you mention it, \
 Dialogue: 10,0:04:23.91,0:04:25.83,Main,Briar,0,0,0,,And that’s not all!{078}
 Dialogue: 10,0:04:25.83,0:04:29.62,Main,Briar,0,0,0,,Recently, what may well \N have been an Entei was spotted...{078}
 Dialogue: 10,0:04:29.62,0:04:32.67,Main,Briar,0,0,0,,...on footage recorded{captured} \N by Area Zero observation cameras.{078}
-Dialogue: 10,0:04:35.71,0:04:39.63,Main,Liko,0,0,0,,That just might be the Entei \N from the Six Heroes.
+Dialogue: 10,0:04:35.71,0:04:39.63,Main,Liko,0,0,0,,That just might be \N the Entei from the Six Heroes.
 Dialogue: 10,0:04:39.63,0:04:41.89,Main,Liko,0,0,0,,Ms. Briar thought so, too.{Briar-sensei}
 Dialogue: 10,0:04:41.89,0:04:43.01,Main,Omodaka,0,0,0,,I see...
 Dialogue: 10,0:04:43.01,0:04:48.14,Main,Friede,0,0,0,,{\q2}In order to confirm our suspicions, \N we’d like permission to enter Paldea’s Great Crater.
@@ -283,7 +283,7 @@ Dialogue: 10,0:18:17.87,0:18:19.24,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:18:25.25,0:18:28.13,Main,Liko,0,0,0,,Nyarote, you toughed it out for me...
 Dialogue: 10,0:18:34.34,0:18:36.26,Main,Liko,0,0,0,,Got it, Nyarote.
 Dialogue: 10,0:18:36.76,0:18:38.26,Main,Liko,0,0,0,,This is our last chance.
-Dialogue: 10,0:18:38.26,0:18:40.72,Main,Liko,0,0,0,,Give me a great big Magical Leaf!
+Dialogue: 10,0:18:38.26,0:18:40.72,Main,Liko,0,0,0,,Give me a whole lot of Magical Leaves!{ippai}
 Dialogue: 10,0:18:44.56,0:18:46.77,Main,Omodaka,0,0,0,,Use Tera Burst, Kiraflor!
 Dialogue: 10,0:19:09.92,0:19:11.30,Main,Roy & Dot,0,0,0,,Liko...
 Dialogue: 10,0:19:13.22,0:19:14.42,Main,Liko,0,0,0,,We won...
@@ -326,7 +326,8 @@ Dialogue: 10,0:21:23.80,0:21:25.18,Main,Sango,0,0,0,,Right, Onigohri?
 Dialogue: 10,0:21:35.52,0:21:37.15,Main,Onyx,0,0,0,,Let’s go, Sango.
 Dialogue: 10,0:21:39.07,0:21:42.53,Main,Sango,0,0,0,,Wahoo! This rules!
 Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Professor Friede's Pokémon Seminar A}
-Dialogue: 10,0:21:46.16,0:21:49.29,Main,Friede,0,0,0,,Friede here. \N It’s time for my Pokémon Seminar!
+Dialogue: 10,0:21:46.16,0:21:47.12,Main,Friede,0,0,0,,Friede here.
+Dialogue: 10,0:21:47.12,0:21:49.29,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 10,0:21:50.91,0:21:54.54,Main,Friede,0,0,0,,Today, let’s take a look at \N the Ore Pokémon, Kiraflor.
 Dialogue: 10,0:21:54.54,0:21:59.05,Main,Friede,0,0,0,,A Pokémon with crystalline petals \N that resemble jewels.
 Dialogue: 10,0:21:59.05,0:22:04.22,Main,Friede,0,0,0,,But do you know what kind of \N crystallized energy they’re made from?{Its petals are crystallized what? Grass energy, Rock energy, Poison energy}
@@ -339,7 +340,7 @@ Dialogue: 10,0:23:44.53,0:23:47.03,Main,Friede,0,0,220,,Its petals of crystalliz
 Dialogue: 10,0:23:47.03,0:23:49.70,Main,Friede,0,0,220,,and the poisonous particles \N that scatter when they break...
 Dialogue: 10,0:23:49.70,0:23:52.54,Main,Friede,0,0,220,,...can give it the upper hand in battle!
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:00.96,0:24:04.55,Main,Sango,0,0,0,,Sweet Li’l Sango{Honorifics note: Sango-chan}’s Totally Awesome \N Drawing Song!
+Dialogue: 10,0:24:00.96,0:24:04.55,Main,Sango,0,0,0,,Cute Li’l Sango{Honorifics note: Sango-chan}’s Totally Awesome \N Drawing Song!
 Dialogue: 10,0:24:05.13,0:24:06.80,Main,Onyx,0,0,0,,Wait, what are you starting now?
 Dialogue: 10,0:24:06.80,0:24:09.22,Main,Sango,0,0,0,,I found myself a great big plate.
 Dialogue: 10,0:24:09.22,0:24:12.39,Main,Sango,0,0,0,,Slap on a ton of triangles...

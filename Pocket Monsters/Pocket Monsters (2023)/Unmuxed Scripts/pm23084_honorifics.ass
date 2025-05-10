@@ -189,7 +189,7 @@ Dialogue: 10,0:11:15.40,0:11:16.78,Main,Dot,0,0,0,,Nakanuchan, go!
 Dialogue: 10,0:11:18.78,0:11:19.78,Main,Dot,0,0,0,,Play Rough!
 Dialogue: 10,0:11:25.75,0:11:26.87,Main,Yuha,0,0,0,,Amazing!
 Dialogue: 10,0:11:31.05,0:11:32.00,Main,Liko,0,0,0,,Tebrim!
-Dialogue: 10,0:11:33.17,0:11:34.42,Main,Liko,0,0,0,,Heal Pulse!
+Dialogue: 10,0:11:33.17,0:11:34.42,Main,Liko,0,0,0,,Healing Pulse!
 Dialogue: 10,0:11:43.22,0:11:44.85,Main,Roy,0,0,0,,More of ‘em showed up!
 Dialogue: 10,0:11:47.35,0:11:49.31,Main,Dot,0,0,0,,Gah... There’s no end to them!
 Dialogue: 10,0:11:49.31,0:11:50.98,Main,Dot,0,0,0,,Return for now, Nakanuchan.
@@ -474,56 +474,56 @@ Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 0,0:23:40.52,0:23:52.54,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What part of its body generates electricity?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HF1C08C&\shad2}C: Its forepaws
 Dialogue: 1,0:23:40.52,0:23:52.54,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What part of its body generates electricity?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&HEF8610&}C: Its forepaws
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:36.93,0:02:42.98,Episode titles,,0,0,0,,{=1081}{\fad(480,0)\bord5\shad3\blur6\pos(960,480)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Place Where Heaven And Earth Meet
-Dialogue: 1,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,480)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Place Where Heaven And Earth Meet
-Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&HFAFE1F&\clip(12.59,410.82,1904.19,453.58)}The Place Where Heaven And Earth Meet
-Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HFFB122&}The Place Where Heaven And Earth Meet
-Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HAB6882&}The Place Where Heaven And Earth Meet
-Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(12.59,410.82,1904.19,453.58)}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,410,1904,411)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,411,1904,412)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,412,1904,413)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,413,1904,414)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,414,1904,415)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,415,1904,416)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,416,1904,417)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,417,1904,418)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,418,1904,419)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,419,1904,420)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,420,1904,421)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,421,1904,422)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,422,1904,423)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,423,1904,424)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,424,1904,425)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,425,1904,426)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,426,1904,427)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,427,1904,428)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,428,1904,429)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,429,1904,430)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,430,1904,431)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,431,1904,432)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,432,1904,433)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,433,1904,434)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,434,1904,435)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,435,1904,436)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,436,1904,437)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,437,1904,438)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,438,1904,439)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,439,1904,440)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,440,1904,441)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,441,1904,442)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,442,1904,443)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,443,1904,444)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,444,1904,445)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,445,1904,446)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,446,1904,447)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,447,1904,448)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,448,1904,449)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,449,1904,450)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,450,1904,451)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,451,1904,452)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,452,1904,453)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}The Place Where Heaven And Earth Meet
-Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{=1082}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(14.88,453,1904.19,830.25)}The Place Where Heaven And Earth Meet
+Dialogue: 0,0:02:36.93,0:02:42.98,Episode titles,,0,0,0,,{=1081}{\fad(480,0)\bord5\shad3\blur6\pos(960,480)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Place Where Heaven and Earth Meet
+Dialogue: 1,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,480)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Place Where Heaven and Earth Meet
+Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&HFAFE1F&\clip(12.59,410.82,1904.19,453.58)}The Place Where Heaven and Earth Meet
+Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HFFB122&}The Place Where Heaven and Earth Meet
+Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HAB6882&}The Place Where Heaven and Earth Meet
+Comment: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(12.59,410.82,1904.19,453.58)}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,410,1904,411)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,411,1904,412)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,412,1904,413)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,413,1904,414)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,414,1904,415)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,415,1904,416)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,416,1904,417)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,417,1904,418)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,418,1904,419)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,419,1904,420)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,420,1904,421)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,421,1904,422)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,422,1904,423)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,423,1904,424)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,424,1904,425)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,425,1904,426)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,426,1904,427)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,427,1904,428)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,428,1904,429)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,429,1904,430)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,430,1904,431)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,431,1904,432)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,432,1904,433)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,433,1904,434)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,434,1904,435)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,435,1904,436)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,436,1904,437)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,437,1904,438)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,438,1904,439)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,439,1904,440)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,440,1904,441)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,441,1904,442)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,442,1904,443)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,443,1904,444)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,444,1904,445)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,445,1904,446)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,446,1904,447)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,447,1904,448)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,448,1904,449)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,449,1904,450)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,450,1904,451)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,451,1904,452)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{\clip(12,452,1904,453)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}The Place Where Heaven and Earth Meet
+Dialogue: 2,0:02:37.01,0:02:42.98,Episode titles,,0,0,0,,{=1082}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(14.88,453,1904.19,830.25)}The Place Where Heaven and Earth Meet
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{=1041}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
 Dialogue: 1,0:24:00.54,0:24:26.99,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode

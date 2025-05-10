@@ -67,7 +67,7 @@ Dialogue: 10,0:01:40.41,0:01:41.87,Main,Dot,0,0,0,,With the Gym Leaders...?
 Dialogue: 10,0:01:41.87,0:01:43.46,Main,Anne,0,0,0,,Ooh, then maybe...
 Dialogue: 10,0:01:43.46,0:01:44.83,Main,Liko,0,0,0,,We might stand a chance!
 Dialogue: 10,0:01:44.83,0:01:46.17,Main,Nanjamo,0,0,0,,Everybody!
-Dialogue: 10,0:01:47.50,0:01:50.67,Main,Nanjamo,0,0,0,,Electrowebbing your eyes!
+Dialogue: 10,0:01:47.50,0:01:50.67,Main,Nanjamo,0,0,0,,Electric Netting your eyes!
 Dialogue: 10,0:01:50.67,0:01:53.68,Main,Nanjamo,0,0,0,,Whozat? It’s Nanjamo!
 Dialogue: 10,0:01:55.05,0:01:57.51,Main,Dot,0,0,0,,It’s Nanjamo-neesan... But that means...
 Dialogue: 10,0:01:57.51,0:02:00.56,Main,Nanjamo,0,0,0,,Dot-shi! Come on!
@@ -399,9 +399,9 @@ Dialogue: 10,0:24:13.22,0:24:15.10,Main,Roy,0,0,0,,It’s finally your turn next
 Dialogue: 10,0:24:15.10,0:24:17.77,Main,Liko,0,0,0,,Chili-san sure seems strong, \N so I’m kinda nervous!
 Dialogue: 10,0:24:19.69,0:24:21.44,Main,Liko,0,0,0,,Thank you, Nyarote.
 Dialogue: 10,0:24:21.44,0:24:22.27,Main,Liko,0,0,0,,I’ll be fine.
-Dialogue: 10,0:24:22.27,0:24:25.94,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters:
+Dialogue: 10,0:24:22.27,0:24:25.94,Main,Liko,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
 Dialogue: 10,0:24:25.94,0:24:28.91,Main,Liko,0,0,0,,Liko VS Chili! At the End of the Battle
-Dialogue: 10,0:24:28.91,0:24:30.45,Main,Them,0,0,0,,{\i1}Make sure to watch!{\i0}
+Dialogue: 10,0:24:28.91,0:24:30.45,Main,Them,0,0,0,,{\i1}Don’t miss it!{\i0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 12,0:02:26.79,0:02:30.17,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
 Comment: 12,0:02:26.79,0:02:30.17,OP,,42,0,0,,{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H456BF6&}Together, we challenge, chasing the future
@@ -1566,7 +1566,7 @@ Dialogue: 1,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Seglaive\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Dragon Pokémon\NType: {\c&HB46A46&}Dragon{\c&H1F1F1F&}/{\c&HECC75D&}Ice
+Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Seglaive\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Dragon Pokémon\NType: {\c&HAE623E&}Dragon{\c&H1F1F1F&}/{\c&HECC75D&}Ice
 Dialogue: 0,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Seglaive\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Ice Dragon Pokémon\NType: Dragon/Ice
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1555,595.07)}Height\N2.1m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N210.0kg

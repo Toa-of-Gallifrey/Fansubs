@@ -55,7 +55,7 @@ Dialogue: 10,0:03:07.21,0:03:12.92,Main,Briar,0,0,0,,I suspect that Lucius may h
 Dialogue: 10,0:03:12.92,0:03:14.67,Main,Friede,0,0,0,,I believe the same.
 Dialogue: 10,0:03:14.67,0:03:19.47,Main,Friede,0,0,0,,Then, after parting with Lucius, \N Entei returned to Area Zero...
 Dialogue: 10,0:03:19.47,0:03:22.52,Main,Friede,0,0,0,,And several days ago, \N the observation camera got it on video.
-Dialogue: 10,0:03:23.35,0:03:26.14,Main,Liko,0,0,0,,I hope it’s actually the Entei \N from the Six Heroes this time...
+Dialogue: 10,0:03:23.35,0:03:26.14,Main,Liko,0,0,0,,I hope it’s actually \N the Entei from the Six Heroes this time...
 Dialogue: 10,0:03:26.14,0:03:27.77,Main,Roy,0,0,0,,It’s gotta be!
 Dialogue: 10,0:03:28.15,0:03:32.98,Main,Briar,0,0,0,,{\q2}Once we’re done eating, we’ll make our base here \N and start by searching for tracks.
 Dialogue: 10,0:03:32.98,0:03:33.73,Main,Kids,0,0,0,,{\i1}Okay!{\i0}
@@ -75,7 +75,7 @@ Dialogue: 10,0:04:18.82,0:04:20.20,Main,Roy,0,0,0,,But... it looks kinda...
 Dialogue: 10,0:04:20.70,0:04:23.41,Main,Liko,0,0,0,,...different from the one \N we saw in the Johto Region.
 Dialogue: 10,0:04:23.41,0:04:25.41,Main,Liko,0,0,0,,Like in the shape of its head...
 Dialogue: 10,0:04:38.38,0:04:40.93,Main,Dot,0,0,0,,If they’re resonating, that means...!
-Dialogue: 10,0:04:40.93,0:04:43.26,Main,Friede,0,0,0,,So it really is the Entei \N from the Six Heroes!
+Dialogue: 10,0:04:40.93,0:04:43.26,Main,Friede,0,0,0,,So it really is \N Entei of the Six Heroes!
 Dialogue: 10,0:05:22.51,0:05:25.10,Main,Friede,0,0,0,,Guess they’re saying \N it’s all up to you now, Liko.
 Dialogue: 10,0:05:26.51,0:05:27.27,Main,Liko,0,0,0,,Yeah!
 Dialogue: 10,0:05:32.35,0:05:36.48,Main,Liko,0,0,0,,We’re trying to go \N to Rakua with Pagogo.
@@ -479,7 +479,7 @@ Dialogue: 1,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.52,0:24:00.54,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:21:54.84,0:22:07.51,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Gouging Inferno\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Paradox Pokémon\NType: {\c&H3B6AEC&}Fire{\c&H1F1F1F&}/{\c&HB46A46&}Dragon
+Dialogue: 1,0:21:54.84,0:22:07.51,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Gouging Inferno\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Paradox Pokémon\NType: {\c&H3B6AEC&}Fire{\c&H1F1F1F&}/{\c&HAE623E&}Dragon
 Dialogue: 0,0:21:54.84,0:22:07.51,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Gouging Inferno\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Paradox Pokémon\NType: Fire/Dragon
 Dialogue: 0,0:21:55.50,0:21:58.84,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N3.5m
 Dialogue: 0,0:21:59.09,0:22:02.59,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N590.0kg

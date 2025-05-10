@@ -212,17 +212,17 @@ Dialogue: 10,0:11:29.79,0:11:31.59,Main,Friede,0,0,0,,Is that Entei’s Supernat
 Dialogue: 10,0:11:36.22,0:11:37.43,Main,Roy,0,0,0,,Achigator!
 Dialogue: 10,0:11:37.43,0:11:39.35,Main,Friede,0,0,0,,Not good! Cap, need you here!
 Dialogue: 10,0:11:42.26,0:11:43.72,Main,Roy,0,0,0,,Cap!
-Dialogue: 10,0:11:49.73,0:11:51.86,Main,Roy,0,0,0,,He got hit with the burn status...{i am in great pain -ed}
+Dialogue: 10,0:11:49.73,0:11:51.86,Main,Roy,0,0,0,,He got burned...{Burn status}
 Dialogue: 10,0:11:58.53,0:12:00.20,Main,Friede,0,0,0,,Let’s finish this quick!
 Dialogue: 10,0:12:00.20,0:12:01.58,Main,Friede,0,0,0,,Shadow Clones!
 Dialogue: 10,0:12:11.25,0:12:12.34,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:12:13.84,0:12:16.84,Main,Dot,0,0,0,,Protect Nyarote! Aqua Break!
 Dialogue: 10,0:12:33.02,0:12:33.94,Main,Friede,0,0,0,,Cap...
 Dialogue: 10,0:12:33.94,0:12:35.82,Main,Friede,0,0,0,,You’re not outta juice yet, are ya?
-Dialogue: 10,0:12:37.70,0:12:39.78,Main,Friede,0,0,0,,All right! Use Voltteccer!
+Dialogue: 10,0:12:37.70,0:12:39.78,Main,Friede,0,0,0,,All right! Voltteccer!
 Dialogue: 10,0:12:41.57,0:12:44.08,Main,Roy,0,0,0,,You’re using Voltteccer? Now?
-Dialogue: 10,0:12:58.17,0:12:59.76,Main,Liko,0,0,0,,Use a big Magical Leaf!
-Dialogue: 10,0:12:59.76,0:13:00.59,Main,Dot,0,0,0,,Use Water Gun!
+Dialogue: 10,0:12:58.17,0:12:59.76,Main,Liko,0,0,0,,A whole lot of Magical Leaves!{ippai}
+Dialogue: 10,0:12:59.76,0:13:00.59,Main,Dot,0,0,0,,Water Gun!
 Dialogue: 10,0:13:25.83,0:13:27.95,Main,Friede,0,0,0,,You’ve got {guts}real grit, Cap.
 Dialogue: 10,0:13:27.95,0:13:28.95,Main,Friede,0,0,0,,That just leaves...
 Dialogue: 10,0:13:29.33,0:13:31.25,Main,Roy,0,0,0,,Let’s do this, Achigator!
@@ -230,7 +230,7 @@ Dialogue: 10,0:13:38.09,0:13:39.97,Main,Roy,0,0,0,,You can do it, Achigator!
 Dialogue: 10,0:13:39.97,0:13:40.97,Main,Friede,0,0,0,,Go!
 Dialogue: 10,0:13:40.97,0:13:42.01,Main,Dot,0,0,0,,Just hit it...
 Dialogue: 10,0:13:42.01,0:13:43.30,Main,Liko,0,0,0,,...with all you’ve got!
-Dialogue: 10,0:13:46.35,0:13:48.72,Main,Roy,0,0,0,,Achigator, use Stomping Tantrum!
+Dialogue: 10,0:13:46.35,0:13:48.72,Main,Roy,0,0,0,,Achigator! Stomping Tantrum!
 Dialogue: 10,0:13:58.19,0:13:59.90,Main,Friede,0,0,0,,Watch out! It’s Supernatural Power!
 Dialogue: 10,0:14:02.91,0:14:05.70,Main,Roy,0,0,0,,Don’t give up, Achigator!
 Dialogue: 10,0:14:15.17,0:14:16.84,Main,Roy,0,0,0,,All right, looking good!

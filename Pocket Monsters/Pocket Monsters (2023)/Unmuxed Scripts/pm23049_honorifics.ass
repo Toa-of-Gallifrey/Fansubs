@@ -151,7 +151,7 @@ Dialogue: 10,0:08:38.41,0:08:39.21,Main,Roy,0,0,0,,How come?
 Dialogue: 10,0:08:39.21,0:08:41.50,Main,Nanjamo,0,0,0,,You gotta Terastallize gorgeously,
 Dialogue: 10,0:08:41.50,0:08:44.21,Main,Nanjamo,0,0,0,,and put on a good show \N for everyone watching!
 Dialogue: 10,0:08:44.59,0:08:46.34,Main,Nanjamo,0,0,0,,Glitz! Glitz!
-Dialogue: 10,0:08:46.34,0:08:48.47,Main,Nanjamo,0,0,0,,If you Electroweb their eyes,
+Dialogue: 10,0:08:46.34,0:08:48.47,Main,Nanjamo,0,0,0,,If you Electric Net their eyes,
 Dialogue: 10,0:08:48.47,0:08:52.39,Main,Nanjamo,0,0,0,,you’ll be on your way to \N battlin’ it up and {\i1}hypin’{\i0} it up! {TL: and you'll be battlin' it up and hypin' it up!}
 Dialogue: 10,0:08:52.39,0:08:53.51,Main,Molly,0,0,0,,That so?
 Dialogue: 10,0:08:53.51,0:08:55.60,Main,Friede,0,0,0,,You know, \N she might have something there.
@@ -302,7 +302,7 @@ Dialogue: 10,0:20:02.60,0:20:03.77,Main,Blatant Disrespecters of Privacy,0,0,0,,
 Dialogue: 10,0:20:03.77,0:20:08.85,Main,Nanjamo,0,0,0,,Her basics test will be livestreamed \N exclusively on Whozat TV at a later date!
 Dialogue: 10,0:20:08.85,0:20:11.65,Main,Nanjamo,0,0,0,,I got high hopes, Dot-shi!
 Dialogue: 10,0:20:13.78,0:20:15.03,Main,Dot,0,0,0,,“Dot-shi”?
-Dialogue: 10,0:20:15.03,0:20:17.82,Main,Nanjamo,0,0,0,,Electrowebbing your eyes!{015}
+Dialogue: 10,0:20:15.03,0:20:17.82,Main,Nanjamo,0,0,0,,Electric Netting your eyes!{015}
 Dialogue: 10,0:20:17.82,0:20:22.20,Main,Nanjamo,0,0,0,,The Electrical Streamer! \N Whozat? This was Nanjamo!{015}
 Dialogue: 10,0:20:22.20,0:20:23.54,Main,Nanjamo,0,0,0,,See ya!
 Dialogue: 10,0:20:27.33,0:20:29.12,Main,Dot,0,0,0,,Oh right, Gurumin!
@@ -326,7 +326,7 @@ Dialogue: 10,0:21:35.90,0:21:38.49,Main,Nanjamo,0,0,0,,but stuff like this \N is
 Dialogue: 10,0:21:40.57,0:21:43.66,Main,Nanjamo,0,0,0,,Don’t hold anything back, \N Dot-shi!
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar A}
 Dialogue: 10,0:21:46.16,0:21:47.33,Main,Friede,0,0,0,,Friede here.
-Dialogue: 10,0:21:47.33,0:21:49.33,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar.
+Dialogue: 10,0:21:47.33,0:21:49.33,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 10,0:21:50.96,0:21:54.50,Main,Friede,0,0,0,,Today, let’s take a look at \N the Single-Cylinder Pokémon, Burorom.
 Dialogue: 10,0:21:55.25,0:21:59.34,Main,Friede,0,0,0,,Burorom is a Pokémon that \N clings to rocks in order to move.
 Dialogue: 10,0:21:59.34,0:22:04.84,Main,Friede,0,0,0,,But what exactly does Burorom \N use those rocks for?
@@ -345,7 +345,7 @@ Dialogue: 10,0:24:08.55,0:24:11.89,Main,Roy,0,0,0,,Hey, hey! \N Boogie-woogie an
 Dialogue: 10,0:24:12.64,0:24:13.85,Main,Dot,0,0,0,,Roy and Hogator, too?!
 Dialogue: 10,0:24:13.85,0:24:17.52,Main,Liko,0,0,0,,Yo, yo! \N Today we’re gonna hit the rhythm!
 Dialogue: 10,0:24:18.27,0:24:20.94,Main,Dot,0,0,0,,Liko and Nyarote, too? \N What’s got into you?!
-Dialogue: 10,0:24:20.94,0:24:25.28,Main,Liko,0,0,0,,Yay, yay! And so, to be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:20.94,0:24:25.28,Main,Liko,0,0,0,,Yay, yay! And so! To be continued next time \N on Pocket Monsters!
 Dialogue: 10,0:24:25.28,0:24:28.70,Main,Liko & Roy,0,0,0,,{\i1}Glitz It Up, Terastal! \N Dance Dance Kuwassu!!{\i0}
 Dialogue: 10,0:24:28.70,0:24:30.45,Main,Dot,0,0,0,,Hey!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,

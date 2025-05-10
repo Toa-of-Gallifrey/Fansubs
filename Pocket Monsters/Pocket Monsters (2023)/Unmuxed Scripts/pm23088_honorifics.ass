@@ -170,7 +170,7 @@ Dialogue: 10,0:12:12.34,0:12:13.80,Main,Gibeon,0,0,0,,Let them all be blown away
 Dialogue: 10,0:12:14.17,0:12:17.09,Main,Gibeon,0,0,0,,Zygarde! Core Punisher!
 Comment: 0,0:12:31.48,0:12:31.48,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:12:47.45,0:12:48.54,Main,Liko,0,0,0,,Nyarote!
-Dialogue: 10,0:12:48.54,0:12:50.71,Main,Liko,0,0,0,,Give me a big Magical Leaf!
+Dialogue: 10,0:12:48.54,0:12:50.71,Main,Liko,0,0,0,,A whole lot of Magical Leaves!{ippai}
 Dialogue: 10,0:13:03.14,0:13:04.64,Main,Amethio,0,0,0,,If we don’t do something...!
 Dialogue: 10,0:13:06.10,0:13:07.77,Main,Spinel,0,0,0,,This battle is over.
 Dialogue: 10,0:13:09.69,0:13:10.52,Main,Lucius,0,0,0,,No...
@@ -186,7 +186,7 @@ Dialogue: 10,0:13:47.31,0:13:48.39,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:13:51.85,0:13:53.52,Main,Liko,0,0,0,,I’m right by your side!
 Dialogue: 10,0:13:55.19,0:13:56.98,Main,Liko,0,0,0,,My feelings{kimochi} are aligned with yours!
 Dialogue: 10,0:13:57.40,0:14:01.74,Main,Liko,0,0,0,,Pagogo... The Six Heroes... Lucius...
-Dialogue: 10,0:14:01.74,0:14:03.74,Main,Liko,0,0,0,,I want to link \N all their wishes together!
+Dialogue: 10,0:14:01.74,0:14:03.74,Main,Liko,0,0,0,,I want to link \N all of their desires together!
 Dialogue: 10,0:14:04.11,0:14:06.33,Main,Liko,0,0,0,,I want to protect all of them!
 Dialogue: 10,0:14:11.71,0:14:14.71,Main,Roy,0,0,0,,Liko! Nyarote! Don’t give up!
 Dialogue: 10,0:14:15.54,0:14:17.17,Main,Dot,0,0,0,,Go for it!
@@ -258,7 +258,7 @@ Dialogue: 10,0:19:51.38,0:19:54.84,Main,Lucius,0,0,0,,Pokémon are strange, \N s
 Dialogue: 10,0:19:54.84,0:19:58.97,Main,Lucius,0,0,0,,They can bring about miracles \N that we humans can’t hope to quantify.
 Dialogue: 10,0:19:59.39,0:20:04.22,Main,Lucius,0,0,0,,When their feelings{kimochi} united as one, \N Liko’s Masquernya managed to evolve.
 Dialogue: 10,0:20:04.22,0:20:07.23,Main,Amethio,0,0,0,,Grandfather! I felt it, too!
-Dialogue: 10,0:20:08.65,0:20:12.65,Main,Amethio,0,0,0,,The moment when my wishes{omoi} \N united with Soublades’s.
+Dialogue: 10,0:20:08.65,0:20:12.65,Main,Amethio,0,0,0,,The moment when my desires{omoi} \N united with Soublades’s.
 Dialogue: 10,0:20:14.61,0:20:17.20,Main,Lucius,0,0,0,,The whole reason Zygarde \N fought alongside you...
 Dialogue: 10,0:20:17.20,0:20:20.28,Main,Lucius,0,0,0,,Do you not think it was \N in order to show you that?
 Dialogue: 10,0:20:20.87,0:20:25.75,Main,Lucius,0,0,0,,That bonds between people and Pokémon \N bear monumental possibilities?
