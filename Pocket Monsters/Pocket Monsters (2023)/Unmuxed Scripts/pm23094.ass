@@ -28,7 +28,7 @@ Style: Logo Sub-title,A-OTF BokutohN Std U,70,&H007B7872,&H007B7872,&H00FFFFFF,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:12.91,0:00:14.29,Main,Molly,0,0,0,,Sorry to keep you waiting.{game}
-Dialogue: 10,0:00:15.54,0:00:19.46,Main,Molly,0,0,0,,The Pokémon you left in my care \N should be all better now.{game}
+Dialogue: 10,0:00:15.54,0:00:19.46,Main,Molly,0,0,0,,The Pokémon you left in our care \N should be all better now.{game}
 Dialogue: 10,0:00:20.12,0:00:21.63,Main,Kid,0,0,0,,Thanks!
 Dialogue: 10,0:00:22.75,0:00:23.88,Main,Kid,0,0,0,,Come on out!
 Dialogue: 10,0:00:28.01,0:00:29.43,Main,Kid,0,0,0,,Let’s go!
@@ -111,7 +111,7 @@ Dialogue: 10,0:07:00.69,0:07:04.32,Main,Molly,0,0,0,,But knock it off with calli
 Dialogue: 10,0:07:05.03,0:07:06.20,Main,Roy,0,0,0,,Wh-Why?
 Dialogue: 10,0:07:06.20,0:07:07.91,Main,Molly,0,0,0,,We decided on that already, right?
 Dialogue: 10,0:07:07.91,0:07:09.66,Main,Molly,0,0,0,,It’s not going to help you!
-Dialogue: 10,0:07:09.66,0:07:14.66,Main,Liko,0,0,0,,{\an8}If we can solve the Rakurium problem, \N I bet it’ll clear up the whole misunderstanding!
+Dialogue: 10,0:07:09.66,0:07:14.66,Main,Liko,0,0,0,,{\q2}If we can solve the Rakurium problem, \N I bet it’ll clear up the whole misunderstanding!
 Dialogue: 10,0:07:14.66,0:07:16.67,Main,Molly,0,0,0,,Don’t be reckless!
 Dialogue: 10,0:07:16.67,0:07:19.75,Main,Molly,0,0,0,,The Rising Voltteccers... were disbanded.
 Dialogue: 10,0:07:22.71,0:07:24.55,Main,Liko,0,0,0,,No way...
@@ -2114,10 +2114,10 @@ Dialogue: 0,0:23:04.11,0:23:10.91,ED,,0,0,0,,{\q2\blur10\bord6\shad0\fad(325,0)\
 Dialogue: 1,0:23:04.11,0:23:10.91,ED,,0,0,0,,{\q2\blur0.6\fad(325,0)\c&H432E3F&\1a&HFF&\t(280,325,\1a&H00&)}Not giving up is everything, wouldn{\fsp-5}’{\fsp}t you say?
 Dialogue: 2,0:23:04.11,0:23:10.91,ED,,0,0,0,,{\bord0\q2\blur0.6\fad(325,0)\4a&HFF&}Not giving up is everything, wouldn{\fsp-5}’{\fsp}t you say?
 Dialogue: 3,0:23:04.11,0:23:10.91,ED,,0,0,0,,{\bord0\q2\blur0.6\fad(325,0)\4a&HFF&}Not giving up is everything, wouldn{\fsp-5}’{\fsp}t you say?
-Dialogue: 0,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\q2\blur10\bord6\shad0\c&HFA78F3&\3c&HFA78F3&\1a&H20&\3a&H20&}If I{\fsp-6}’{\fsp}ve got my bond with you, then always
-Dialogue: 1,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\q2\blur0.6\c&H432E3F&}If I{\fsp-6}’{\fsp}ve got my bond with you, then always
-Dialogue: 2,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\bord0\q2\blur0.6\4a&HFF&}If I{\fsp-6}’{\fsp}ve got my bond with you, then always
-Dialogue: 3,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\bord0\q2\blur0.6\4a&HFF&}If I{\fsp-6}’{\fsp}ve got my bond with you, then always
+Dialogue: 0,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\q2\blur10\bord6\shad0\c&HFA78F3&\3c&HFA78F3&\1a&H20&\3a&H20&}If I{\fsp-6}’{\fsp}ve got my bond with you, then all the time
+Dialogue: 1,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\q2\blur0.6\c&H432E3F&}If I{\fsp-6}’{\fsp}ve got my bond with you, then all the time
+Dialogue: 2,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\bord0\q2\blur0.6\4a&HFF&}If I{\fsp-6}’{\fsp}ve got my bond with you, then all the time
+Dialogue: 3,0:23:10.91,0:23:14.92,ED,,0,0,0,,{\bord0\q2\blur0.6\4a&HFF&}If I{\fsp-6}’{\fsp}ve got my bond with you, then all the time
 Dialogue: 0,0:23:14.92,0:23:17.79,ED,,0,0,0,,{\q2\blur10\bord6\shad0\c&HFA78F3&\3c&HFA78F3&\1a&H20&\3a&H20&}Dreams come true, ready go!
 Dialogue: 1,0:23:14.92,0:23:17.79,ED,,0,0,0,,{\q2\blur0.6\c&H432E3F&}Dreams come true, ready go!
 Dialogue: 2,0:23:14.92,0:23:17.79,ED,,0,0,0,,{\bord0\q2\blur0.6\4a&HFF&}Dreams come true, ready go!
