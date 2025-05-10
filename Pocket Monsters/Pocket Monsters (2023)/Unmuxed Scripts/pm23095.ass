@@ -83,7 +83,7 @@ Dialogue: 10,0:05:12.71,0:05:14.67,Main,Roy,0,0,0,,Plus, that color...
 Dialogue: 10,0:05:14.67,0:05:16.17,Main,Employee,0,0,0,,Here goes!
 Dialogue: 10,0:05:16.63,0:05:18.01,Main,Employee,0,0,0,,100,000 Volts!
 Dialogue: 10,0:05:18.01,0:05:19.13,Main,Boc,0,0,0,,Right off the bat?!
-Dialogue: 10,0:05:25.01,0:05:25.85,Main,Boc,0,0,0,,So fast!
+Dialogue: 10,0:05:24.80,0:05:25.85,Main,Boc,0,0,0,,So fast!
 Dialogue: 10,0:05:25.85,0:05:27.18,Main,Employee,0,0,0,,You’re pretty good.
 Dialogue: 10,0:05:27.18,0:05:28.85,Main,Boc,0,0,0,,Water Gun!
 Dialogue: 10,0:05:33.94,0:05:34.94,Main,Boc,0,0,0,,Awesome!
@@ -191,8 +191,8 @@ Dialogue: 10,0:12:07.00,0:12:08.04,Main,Liko,0,0,0,,Leave this to me!
 Dialogue: 10,0:12:08.37,0:12:10.04,Main,Liko,0,0,0,,Masquernya, stay calm!
 Dialogue: 10,0:12:13.92,0:12:15.51,Main,Sango,0,0,0,,They’re cornered.
 Dialogue: 10,0:12:15.51,0:12:18.01,Main,Sango,0,0,0,,Onigohri! Ice Spinner!
-Dialogue: 10,0:12:20.76,0:12:22.55,Main,Liko,0,0,0,,Give me a big pile of Trick Flowers!{ippai}
-Dialogue: 10,0:12:33.44,0:12:34.32,Main,Sango,0,0,0,,That’s a lot!
+Dialogue: 10,0:12:20.76,0:12:22.55,Main,Liko,0,0,0,,A whole lot of Trick Flowers!{ippai}
+Dialogue: 10,0:12:33.44,0:12:34.32,Main,Sango,0,0,0,,So many!
 Dialogue: 10,0:12:34.32,0:12:35.28,Main,Liko,0,0,0,,Roy!
 Dialogue: 10,0:12:35.28,0:12:36.15,Main,Roy,0,0,0,,Now’s our chance!
 Dialogue: 10,0:12:36.15,0:12:37.19,Main,Roy,0,0,0,,Flamethrower!
@@ -233,7 +233,7 @@ Dialogue: 10,0:15:15.10,0:15:18.86,Main,Sango,0,0,0,,We’re not done here. \N T
 Dialogue: 10,0:15:19.44,0:15:19.94,Main,Presenter,0,0,0,,Huh?
 Dialogue: 10,0:15:28.66,0:15:29.66,Main,Liko,0,0,0,,Masquernya!
 Dialogue: 10,0:15:29.66,0:15:30.66,Main,Roy,0,0,0,,Achigator!
-Dialogue: 10,0:15:32.16,0:15:34.54,Main,Sango,0,0,0,,“Don’t need to rely on those”?
+Dialogue: 10,0:15:32.16,0:15:35.04,Main,Sango,0,0,0,,“Don’t need to rely on those”?
 Dialogue: 10,0:15:35.04,0:15:37.54,Main,Sango,0,0,0,,We’ll make {\i1}sure{\i0} ya never \N act so high and mighty again!
 Dialogue: 10,0:15:39.96,0:15:42.21,Main,Roy,0,0,0,,Cap! Voltteccer!
 Dialogue: 10,0:15:46.51,0:15:47.26,Main,Sango,0,0,0,,Huh?!
@@ -319,7 +319,7 @@ Dialogue: 10,0:20:49.90,0:20:51.61,Main,Roy,0,0,0,,He says he’d “worry”...
 Dialogue: 10,0:20:51.61,0:20:54.11,Main,Dot,0,0,0,,Are you sure he’s... all right?
 Dialogue: 10,0:20:55.32,0:20:56.57,Main,Liko,0,0,0,,Let’s go together.
 Dialogue: 10,0:20:57.03,0:21:00.49,Main,Liko,0,0,0,,Having someone with an eye for Pokémon \N along will help us push forward!
-Dialogue: 10,0:21:04.62,0:21:06.95,Main,Roy,0,0,0,,And Pokémon are {\i1}all{\i0} \N you’ve got your eye on, right?
+Dialogue: 10,0:21:04.62,0:21:06.95,Main,Roy,0,0,0,,And Pokémon are all {\i1}you’ve{\i0} \N got an eye for, anyhow.
 Dialogue: 10,0:21:06.95,0:21:08.00,Main,Ult,0,0,0,,Shut it!
 Dialogue: 10,0:21:13.88,0:21:16.76,Main,Ult,0,0,0,,Looks like Yamirami \N likes that thing, too.{気に入}
 Dialogue: 10,0:21:22.01,0:21:24.72,Main,Liko,0,0,0,,What’s wrong? \N Everything’s okay now.
@@ -348,7 +348,7 @@ Dialogue: 10,0:24:12.60,0:24:14.14,Main,Liko,0,0,0,,What is it, Pagogo?
 Dialogue: 10,0:24:15.10,0:24:18.02,Main,Liko,0,0,0,,Could there be something \N off in the direction Pagogo’s crying...?
 Dialogue: 10,0:24:18.02,0:24:19.98,Main,Roy,0,0,0,,Maybe... Just maybe...
 Dialogue: 10,0:24:19.98,0:24:23.40,Main,Liko,0,0,0,,And so, to be continued \N next time on Pocket Monsters...
-Dialogue: 10,0:24:23.40,0:24:25.90,Main,Liko,0,0,0,,Clash! The Booming Dragons Gang{Dragon explosive-driving-group}
+Dialogue: 10,0:24:23.40,0:24:25.90,Main,Liko,0,0,0,,Clash! The Roaring Dragons Gang{Dragon explosive-driving-group}
 Dialogue: 10,0:24:25.90,0:24:27.20,Main,Liko,0,0,0,,{Yoroshiku!}See you there!
 Dialogue: 10,0:24:27.20,0:24:28.61,Main,Roy Ult,0,0,0,,{Yoroshiku!}See ya there!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -2370,56 +2370,56 @@ Dialogue: 2,0:24:00.54,0:24:27.65,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.54,0:24:27.65,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.54,0:24:27.65,Episode titles,,0,0,0,,{=1102}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{=1097}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 1,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
-Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{=1098}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,1050.25)}Clas{\fsp5}h{\fsp}! The Booming Dragons Gang
+Dialogue: 0,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{=1097}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 1,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Comment: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
+Dialogue: 2,0:24:27.65,0:24:30.49,Episode titles,,0,0,0,,{=1098}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,1050.25)}Clas{\fsp5}h{\fsp}! The Roaring Dragons Gang
 Comment: 0,0:24:27.65,0:24:30.49,Main,,0,0,0,,
 
 [Aegisub Extradata]
