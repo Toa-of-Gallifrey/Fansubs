@@ -18,7 +18,7 @@ akua suteppu アクアステップ (Aqua Step) - Aqua Step
 akua teeru アクアテール (Aqua Tail) - Aqua Tail
 akubi あくび (Yawn) - Yawn
 akuma no kissu あくまのキッス (Lovely Kiss) - # TBD #
-akumu あくむ (Nightmare) - # TBD #
+akumu あくむ (Nightmare) - Nightmare
 akurobatto アクロバット (Acrobatics) - Acrobatics
 akuseru bureiku アクセルブレイク (Collision Course) - Accel Break
 akuseru rokku アクセルロック (Accelerock) - Accel Rock
@@ -180,7 +180,7 @@ furasshu フラッシュ (Flash) - Flash
 furawaa gaado フラワーガード (Flower Shield) - # TBD #
 furawaa hiiru フラワーヒール (Floral Healing) - # TBD #
 furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
-furea songu フレアソング (Torch Song) - # TBD #
+furea songu フレアソング (Torch Song) - Flare Song
 furii fooru フリーフォール (Sky Drop) - Freefall
 furiizu boruto フリーズボルト (Freeze Shock) - # TBD #
 furiizu dorai フリーズドライ (Freeze-Dry) - Freeze-Dry
@@ -401,7 +401,7 @@ koochingu コーチング (Coaching) - Coaching
 koori no ibuki こおりのいぶき (Frost Breath) - Ice Breath
 koori no kiba こおりのキバ (Ice Fang) - Ice Fang
 koori no tsubute こおりのつぶて (Ice Shard) - Ice Shard
-koorudo furea コールドフレア (Ice Burn) - # TBA #
+koorudo furea コールドフレア (Ice Burn) - Cold Flare
 kooto chenji コートチェンジ (Court Change) - Court Change
 koraeru こらえる (Endure) - # TBD #
 korogaru ころがる (Rollout) - Rollout
@@ -418,7 +418,7 @@ kumo no su クモのす (Spider Web) - # TBD #
 kurabbu hammaa クラブハンマー (Crabhammer) - Crabhammer
 kuraitsuku くらいつく (Jaw Lock) - # TBD #
 kuria sumoggu クリアスモッグ (Clear Smog) - Clear Smog
-kuroi kiri くろいきり (Haze) - # TBD #
+kuroi kiri くろいきり (Haze) - Black Mist
 kuroi manazashi くろいまなざし (Mean Look) - # TBD #
 kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
 kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
@@ -949,7 +949,7 @@ anaraizu アナライズ (Analytic) - # TBD #
 AR shisutemu ＡＲシステム (RKS System) - AR System
 arijigoku ありじごく (Arena Trap) - # TBD #
 aroma beeru アロマベール (Aroma Veil) - Aroma Veil
-atodashi あとだし (Stall) - # TBD #
+atodashi あとだし (Stall) - Stall
 atsui shibou あついしぼう (Thick Fat) - Thick Fat
 bake no kawa ばけのかわ (Disguise) - # TBD #
 banken ばんけん (Guard Dog) - # TBD #
@@ -1099,7 +1099,7 @@ kuro no inanaki くろのいななき (Grim Neigh) - # TBD #
 kusa no kegawa くさのけがわ (Grass Pelt) - # TBD #
 kyouen きょうえん (Costar) - # TBD #
 kyousei きょうせい (Symbiosis) - # TBD #
-kyouun きょううん (Super Luck) - # TBD #
+kyouun きょううん (Super Luck) - Great Luck
 kyuuban きゅうばん (Suction Cups) - # TBD #
 maguma no yoroi マグマのよろい (Magma Armor) - # TBD #
 mai peesu マイペース (Own Tempo) - # TBD #
@@ -1147,7 +1147,7 @@ omotenashi おもてなし (Hospitality) - # TBD #
 oora bureiku オーラブレイク (Aura Break) - Aura Break
 ougon no karada おうごんのからだ (Good as Gold) - Golden Body
 owari no daichi おみとおし (Desolate Land) - # TBD #
-oyaki ai おやこあい (Parental Bond) - # TBD #
+oyako ai おやこあい (Parental Bond) - Parent-Child Affection
 panku rokku パンクロック (Punk Rock) - Punk Rock
 pasuteru beeru パステルベール (Pastel Veil) - Pastel Veil
 pawaa supotto パワースポット (Power Spot) - Power Spot
@@ -1201,7 +1201,7 @@ sunaipaa スナイパー (Sniper) - Sniper
 sunakaki すなかき (Sand Rush) - # TBD #
 surinuke すりぬけ (Infiltrator) - # TBD #
 suroo sutaato スロースタート (Slow Start) - Slow Start
-surudoi me するどいめ (Keen Eyes) - # TBD #
+surudoi me するどいめ (Keen Eye) - Keen Eye
 sutemi すてみ (Reckless) - # TBD #
 suwaamu chenji スワームチェンジ (Power Construct) - # TBD #
 taabobureizu ターボブレイズ (Turboblaze) - Turboblaze
@@ -1365,7 +1365,7 @@ POKÉMON NAMES
 0112 サイドン Saidon - ドリルポケモン Drill Pokémon
 0113 ラッキー Lucky - たまごポケモン Egg Pokémon
 0114 モンジャラ 
-0115 ガルーラ Garura - おやこポケモン Parent and Child Pokémon
+0115 ガルーラ Garoola - おやこポケモン Parent-Child Pokémon
 0116 タッツー Tattsu - ドラゴンポケモン Dragon Pokémon
 0117 シードラ Seadra - ドラゴンポケモン Dragon Pokémon
 0118 トサキント Tosakinto - きんぎょポケモン Goldfish Pokémon
