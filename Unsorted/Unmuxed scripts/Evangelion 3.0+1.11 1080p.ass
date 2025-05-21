@@ -804,25 +804,25 @@ Dialogue: 10,0:55:27.26,0:55:30.39,Main,Shinji,0,0,0,,Say thanks to Touji \N and
 Dialogue: 10,0:55:32.48,0:55:35.06,Main,Shinji,0,0,0,,Asuka, I’m coming with you.
 Dialogue: 10,0:55:35.77,0:55:39.02,Main,Asuka,0,0,0,,I see. Well, there are rules \N {to follow...}I gotta follow...
 Dialogue: 10,0:55:45.66,0:55:49.87,Main,Shinji,0,0,0,,Suzuhara... Sakura-san?
-Dialogue: 10,0:55:50.95,0:55:56.33,Main,Sakura,0,0,0,,I toldja not to pilot no more Evas, \N but ya went and ran off and did just that!{Sakura has a thicker accent than Touji but when she speaks more professionally she speaks more standard Japanese.}
+Dialogue: 10,0:55:50.95,0:55:56.33,Main,Sakura,0,0,0,,I toldja to not pilot no more Evas, \N but ya went and ran off and did just that!{Sakura has a thicker accent than Touji but when she speaks more professionally she speaks more standard Japanese.}
 Dialogue: 10,0:55:56.33,0:55:58.42,Main,Sakura,0,0,0,,Dumbass! Dumbass!
 Dialogue: 10,0:55:58.42,0:56:00.92,Main,Sakura,0,0,0,,You’re such a huge dumbass, Ikari-san!
 Dialogue: 10,0:56:01.80,0:56:03.34,Main,Asuka,0,0,0,,What are you, his wife?
 Dialogue: 10,0:56:13.73,0:56:16.06,Main,Sakura,0,0,0,,The status of the escapee\N has been verified.
-Dialogue: 10,0:56:16.06,0:56:20.23,Main,Sakura,0,0,0,,Henceforth, I will be responsible for \N monitoring and restraining BM-03.
+Dialogue: 10,0:56:16.06,0:56:20.23,Main,Sakura,0,0,0,,From here on, I will take responsibility for \N monitoring and restraining BM-03.
 Dialogue: 10,0:56:22.32,0:56:26.86,Main,Sakura,0,0,0,,Please sign here, \N Temporary Special Senior Major Shikinami.
 Dialogue: 10,0:56:28.45,0:56:29.87,Main,Asuka,0,0,0,,No DSS choker?
-Dialogue: 10,0:56:31.58,0:56:33.45,Main,Sakura,0,0,0,,There’s no need to have him wear it.
+Dialogue: 10,0:56:31.58,0:56:33.45,Main,Sakura,0,0,0,,No need for it.
 Dialogue: 10,0:56:34.12,0:56:38.37,Main,Sakura,0,0,0,,{\q2}He’ll be held in a blast-proof \N containment chamber until the end of the operation.
 Dialogue: 10,0:56:38.37,0:56:43.38,Main,Wunder Technobabblers,0,0,0,,Monitored Target Subject BM-03 arrived\N at Chamber 2. Ready detonation systems.
 Dialogue: 10,0:56:43.80,0:56:48.38,Main,Asuka,0,0,0,,Figured that’s the best course of action\N since he managed to take it off himself, huh?
-Dialogue: 10,0:56:48.38,0:56:52.14,Main,Sakura,0,0,0,,MAGI Copy has record \N of choker activation.
-Dialogue: 10,0:56:52.89,0:56:57.64,Main,Sakura,0,0,0,,It shows an instance in which another pilot \N was executed right before his eyes.
-Dialogue: 10,0:56:58.65,0:57:02.11,Main,Sakura,0,0,0,,Even after experiencing such trauma,\N he still came back to the Wunder...
+Dialogue: 10,0:56:48.38,0:56:52.14,Main,Sakura,0,0,0,,MAGI Copy has a record \N of choker activation.
+Dialogue: 10,0:56:52.89,0:56:57.64,Main,Sakura,0,0,0,,It shows an instance of another pilot \N being executed right before his eyes.
+Dialogue: 10,0:56:58.65,0:57:02.11,Main,Sakura,0,0,0,,Even after such a traumatic experience, \N he still returned to the Wunder...
 Dialogue: 10,0:57:03.65,0:57:04.65,Main,Sakura,0,0,0,,Why?
 Dialogue: 10,0:57:05.03,0:57:10.16,Main,Asuka,0,0,0,,Beats me. If you ask me, the bigger mystery is \N why Captain Katsuragi’s letting him on board.
 Dialogue: 10,0:57:11.07,0:57:14.87,Main,Asuka,0,0,0,,Village 3 records compiled by the rep{resentative},\N and personal correspondence from Suzuhara.
-Dialogue: 10,0:57:15.45,0:57:16.58,Main,Sakura,0,0,0,,From my big bro?
+Dialogue: 10,0:57:15.45,0:57:16.58,Main,Sakura,0,0,0,,From Big Bro?
 Dialogue: 10,0:57:19.08,0:57:24.00,Main,Wunder Technobabblers,0,0,0,,Chamber 2 closure complete, \N and emergency blast activation system online.
 Dialogue: 10,0:57:24.00,0:57:28.22,Main,Wunder Technobabblers,0,0,0,,Quarantine procedures for \N Monitored Target Subject BM-03 are now complete.
 Dialogue: 10,0:57:33.64,0:57:35.97,Main,Maya,0,0,0,,Covering for disembarked \N personnel is a go.
@@ -960,10 +960,10 @@ Dialogue: 10,1:07:13.63,1:07:14.47,Main,Misato,0,0,0,,Truth be told...
 Dialogue: 10,1:07:15.43,1:07:17.85,Main,Misato,0,0,0,,I wanted to stay behind\N with him back then.
 Dialogue: 10,1:07:18.56,1:07:20.10,Main,Ritsuko,0,0,0,,Of course you did.
 Dialogue: 10,1:07:20.10,1:07:23.52,Main,Ritsuko,0,0,0,,And perhaps he would have let you... \N if you weren’t expecting.
-Dialogue: 10,1:07:26.19,1:07:29.40,Main,Sakura,0,0,0,,We’re enterin’ combat positions, \N so I’m goin’ to the medical ward.
-Dialogue: 10,1:07:29.40,1:07:32.57,Main,Sakura,0,0,0,,Please just stay where ya are, Ikari-san.
-Dialogue: 10,1:07:32.57,1:07:35.20,Main,Sakura,0,0,0,,Use the red button to call me\N if ya need something.
-Dialogue: 10,1:07:35.99,1:07:37.74,Main,Sakura,0,0,0,,Okay, I’ll be going now.
+Dialogue: 10,1:07:26.19,1:07:29.40,Main,Sakura,0,0,0,,We’re takin’ up combat positions, \N so I’m headin’ for the medical ward.
+Dialogue: 10,1:07:29.40,1:07:32.57,Main,Sakura,0,0,0,,Please stay put, Ikari-san.
+Dialogue: 10,1:07:32.57,1:07:35.20,Main,Sakura,0,0,0,,Call me with the red button \N if ya need somethin’.
+Dialogue: 10,1:07:35.99,1:07:37.74,Main,Sakura,0,0,0,,All right, bye for now.
 Dialogue: 10,1:07:45.08,1:07:48.96,Main,Mari,0,0,0,,A pressure-resistant experimental\N plugsuit for deep-diving.
 Dialogue: 10,1:07:48.96,1:07:51.67,Main,Mari,0,0,0,,Looks fresh outta the oven, meow.
 Dialogue: 10,1:07:51.67,1:07:53.59,Main,Asuka,0,0,0,,Yeah, they {\i1}would{\i0} give us \N new suits for this.
@@ -1290,16 +1290,16 @@ Dialogue: 10,1:40:22.75,1:40:27.38,Main,Midori,0,0,0,,That Near Third you caused
 Dialogue: 10,1:40:27.38,1:40:30.75,Main,Midori,0,0,0,,The root cause of it all... \N You and your dad...
 Dialogue: 10,1:40:31.38,1:40:33.05,Main,Midori,0,0,0,,You {\i1}will{\i0} pay for it!
 Dialogue: 10,1:40:38.55,1:40:39.55,Main,Midori,0,0,0,,Sakura?
-Dialogue: 10,1:40:39.55,1:40:42.10,Main,Sakura,0,0,0,,Ikari Shinji, you will not pilot the Eva.{very formal JP}
-Dialogue: 10,1:40:42.85,1:40:46.27,Main,Sakura,0,0,0,,You pilotin’ the Eva \N made us all suffer, Ikari-san...{her accent’s slippin’}
-Dialogue: 10,1:40:46.27,1:40:48.86,Main,Sakura,0,0,0,,And it made ya suffer, yerself, too!
-Dialogue: 10,1:40:48.86,1:40:51.69,Main,Sakura,0,0,0,,That’s why yer not goin’\N to do it ever again!
+Dialogue: 10,1:40:39.55,1:40:42.10,Main,Sakura,0,0,0,,Ikari Shinji, you will {\i1}not{\i0} pilot the Eva.{very formal JP}
+Dialogue: 10,1:40:42.85,1:40:46.27,Main,Sakura,0,0,0,,We suffered real bad ‘cause of \N you pilotin’ the Eva, Ikari-san..{her accent’s slippin’}
+Dialogue: 10,1:40:46.27,1:40:48.86,Main,Sakura,0,0,0,,And it made {\i1}you{\i0} suffer, too!
+Dialogue: 10,1:40:48.86,1:40:51.69,Main,Sakura,0,0,0,,That’s why you ain’t {\i1}ever{\i0} doin’ it again!
 Dialogue: 10,1:40:52.73,1:40:54.44,Main,Shinji,0,0,0,,I’m sorry, Sakura-san.
 Dialogue: 10,1:40:55.53,1:40:57.16,Main,Shinji,0,0,0,,Please let me pilot the Eva.
-Dialogue: 10,1:40:57.16,1:41:00.45,Main,Sakura,0,0,0,,Ya can’t be serious, Ikari-san!
-Dialogue: 10,1:41:00.45,1:41:03.04,Main,Sakura,0,0,0,,Ya can still get outta this \N if ya get hurt real bad first.
-Dialogue: 10,1:41:03.04,1:41:05.87,Main,Sakura,0,0,0,,It’s gonna hurt, \N but pilotin’ the Eva woulda been worse!
-Dialogue: 10,1:41:05.87,1:41:07.58,Main,Sakura,0,0,0,,So bear with it!
+Dialogue: 10,1:40:57.16,1:41:00.45,Main,Sakura,0,0,0,,You gotta be kiddin’, Ikari-san!
+Dialogue: 10,1:41:00.45,1:41:03.04,Main,Sakura,0,0,0,,You won’t hafta do this \N if you get hurt real bad...
+Dialogue: 10,1:41:03.04,1:41:05.87,Main,Sakura,0,0,0,,This’ll hurt, but pilotin’ the Eva’s \N a whole lot worse!
+Dialogue: 10,1:41:05.87,1:41:07.58,Main,Sakura,0,0,0,,Please bear the pain!
 Dialogue: 10,1:41:10.21,1:41:11.04,Main,Ritsuko,0,0,0,,Misato?!
 Dialogue: 10,1:41:11.04,1:41:12.25,Main,Makoto,0,0,0,,Captain!
 Dialogue: 10,1:41:13.05,1:41:14.01,Main,Shinji,0,0,0,,Misato-san?!
@@ -1313,9 +1313,9 @@ Dialogue: 10,1:41:34.57,1:41:38.49,Main,Misato,0,0,0,,I, Katsuragi Misato,\N sti
 Dialogue: 10,1:41:38.49,1:41:42.08,Main,Misato,0,0,0,,so I’ll take complete responsibility \N for his subsequent actions{, as well}.
 Dialogue: 10,1:41:43.95,1:41:47.91,Main,Misato,0,0,0,,I want to entrust everything \N to the boy{Shinji-kun} standing with us today.{Literally “I want to entrust everything to the Shinji-kun of now.” -TLC}
 Dialogue: 10,1:41:51.17,1:41:56.92,Main,Sakura,0,0,0,,Right, yeah! \N We all owe Ikari-san for savin’ us!
-Dialogue: 10,1:41:56.92,1:42:00.43,Main,Sakura,0,0,0,,But we all lost so many people\N in Near Third, like my dad!
+Dialogue: 10,1:41:56.92,1:42:00.43,Main,Sakura,0,0,0,,But all of us lost loved ones \N in Near Third, like my daddy!
 Dialogue: 10,1:42:00.43,1:42:03.81,Main,Sakura,0,0,0,,Ikari-san is both our salvation \N and our damnation!{alt: Ikari-san is both our savior\N and the root of our suffering!}{Gah, the “onjin - kataki” dichotomy here does not really have a clean English equivalent. I mean onjin is fair enough: “person we are indebted to” but “savior” to me seems a fair simplification given the circumstances. “kataki”, though? That’s not really even a word we HAVE an equivalent for in English. I mostly hear it in the context “kataki o toru” which is “to avenge someone” but like hell if I’m having her say “He is also someone I want vengeance against”. “root of our suffering” is kind of the closest equivalent I can think of here... https://jisho.org/search/%E6%95%B5 Note: Second definition here, not the first. Though honestly I don’t think Jisho is terribly helpful in this case.}
-Dialogue: 10,1:42:03.81,1:42:06.18,Main,Sakura,0,0,0,,We’ve got no choice!
+Dialogue: 10,1:42:03.81,1:42:06.18,Main,Sakura,0,0,0,,We don’t got a choice!
 Dialogue: 10,1:42:08.39,1:42:10.48,Main,Midori,0,0,0,,Quit it.
 Dialogue: 10,1:42:10.48,1:42:11.61,Main,Midori,0,0,0,,That’s enough, Sakura.
 Dialogue: 10,1:42:12.81,1:42:15.11,Main,Midori,0,0,0,,Let’s just focus on \N living until tomorrow.
@@ -1325,7 +1325,7 @@ Dialogue: 10,1:42:30.50,1:42:32.79,Main,Mari,0,0,0,,Prep work took longer than I
 Dialogue: 10,1:42:32.79,1:42:33.88,Main,Mari,0,0,0,,Now, let’s go,
 Dialogue: 10,1:42:34.50,1:42:35.38,Main,Mari,0,0,0,,Pup.
 Dialogue: 10,1:42:37.84,1:42:40.84,Main,Ritsuko,0,0,0,,Maya, bring the plug suit\N from the Captain’s Quarters.
-Dialogue: 10,1:42:43.97,1:42:48.39,Main,Sakura,0,0,0,,The bullet’ll dissolve in no time.\N I’m gonna give you first aid right away.
+Dialogue: 10,1:42:43.97,1:42:48.39,Main,Sakura,0,0,0,,The bullet will dissolve in no time. \N I’m gonna give you first aid right away.
 Dialogue: 10,1:42:48.39,1:42:50.14,Main,Misato,0,0,0,,It’s okay, Lieutenant.
 Dialogue: 10,1:42:52.02,1:42:53.36,Main,Misato,0,0,0,,Ikari Shinji-kun...
 Dialogue: 10,1:42:54.44,1:42:57.82,Main,Misato,0,0,0,,All a son can do for his father...
@@ -1851,10 +1851,10 @@ Dialogue: 1,0:45:33.88,0:45:36.71,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&H
 Dialogue: 1,0:45:33.88,0:45:36.71,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&H4297A2&}m 1034.9 562.72 l 1023.67 553.98 1028.66 534.02 1072.35 499.08 1106.06 461.65 1157.24 416.73 1173.47 411.74 1180.96 425.47 1224.66 388.04 1255.86 412.99 1238.39 434.2 1174.72 500.33 1078.6 591.41 1044.89 582.68{\p}
 Dialogue: 1,0:45:33.88,0:45:36.71,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&H95C3DC&}m 182.26 465.39 l 169.78 479.12 174.77 506.57 214.72 552.73 243.43 575.19 270.9 558.97 420.7 449.17 414.46 417.98 438.18 374.31 499.35 350.61 534.3 308.18 535.55 279.49 516.83 264.51 433.19 321.91 411.96 309.43 385.75 304.44 329.57 336.88 252.17 390.53 217.22 424.22{\p}
 Dialogue: 2,0:46:16.04,0:46:20.01,SIGNBOARD,,0,0,0,,{\an2\fax0.023358\fscx89.14\fscy97.08\frz-0.4747\frx4.0494\fry10.2400\blur0.6\bord0\org(231.07,293.97)\pos(230.76,308.53)\c&H464E51&}TODAY
-Dialogue: 2,0:46:16.04,0:46:29.22,NUTRITION,,0,0,0,,{\fax0.118681\fscx98.70\fscy103.27\frz-5.2046\frx-1.0517\fry5.3622\org(192.45,111.8)\blur0.6\pos(189.82,135.04)}NUTRITION SUPPLY STATION
-Dialogue: 2,0:46:16.04,0:46:29.22,SIGNBOARD,,0,0,0,,{\an2\fs23.5\fax-0.038635\fscx104.44\fscy96.68\frz1.0821\frx20.6875\fry11.1598\bord0\blur0.6\org(241.26,414.18)\pos(243.15,459.63)\c&H464D51&}SCHEDULED\NHAND OUT\NSTARTING\NTIME
-Dialogue: 1,0:46:16.04,0:46:29.22,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&HAEB7B4&}m 201.01 374.84 l 196.97 380.61 196.97 394.45 201.01 423.86 203.9 457.31 289.39 455.58 285.92 441.74 285.34 424.44 280.72 374.26 261.08 370.8 218.92 371.38{\p}
-Dialogue: 1,0:46:16.04,0:46:29.22,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&HAEB7B4&}m 207.29 273.49 l 217.84 275.92 231.23 277.54 259.22 279.16 265.3 308.73 255.97 309.55 238.94 311.98 223.11 311.57 218.65 309.95 205.27 309.55 196.34 309.55 193.5 280.78{\p}
+Dialogue: 2,0:46:16.04,0:46:20.01,NUTRITION,,0,0,0,,{\fax0.118681\fscx98.70\fscy103.27\frz-5.2046\frx-1.0517\fry5.3622\org(192.45,111.8)\blur0.6\pos(189.82,135.04)}NUTRITION SUPPLY STATION
+Dialogue: 2,0:46:16.04,0:46:20.01,SIGNBOARD,,0,0,0,,{\an2\fs23.5\fax-0.038635\fscx104.44\fscy96.68\frz1.0821\frx20.6875\fry11.1598\bord0\blur0.6\org(241.26,414.18)\pos(243.15,459.63)\c&H464D51&}SCHEDULED\NHAND OUT\NSTARTING\NTIME
+Dialogue: 1,0:46:16.04,0:46:20.01,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&HAEB7B4&}m 201.01 374.84 l 196.97 380.61 196.97 394.45 201.01 423.86 203.9 457.31 289.39 455.58 285.92 441.74 285.34 424.44 280.72 374.26 261.08 370.8 218.92 371.38{\p}
+Dialogue: 1,0:46:16.04,0:46:20.01,Main,,0,0,0,,{\an7\pos(0,0)\bord0\blur3\p1\c&HAEB7B4&}m 207.29 273.49 l 217.84 275.92 231.23 277.54 259.22 279.16 265.3 308.73 255.97 309.55 238.94 311.98 223.11 311.57 218.65 309.95 205.27 309.55 196.34 309.55 193.5 280.78{\p}
 Dialogue: 0,0:47:46.93,0:47:53.31,Main,,0,0,0,,{\fnBrush Strokes\fs40\b0\bord0\blur0.7\c&H000000&\1a&H82&\pos(804,672.6)}HERE\NLIES\NAIDA\NHAJIME
 Dialogue: 0,0:48:54.87,0:48:57.33,Main,,0,0,0,,{\an5\fnDadhand\b0\fs40\fax0.065225\fscx55.53\fscy60.82\frz-13.8952\frx-11.6201\fry-27.0362\xbord0.00\ybord0.00\blur0.6\org(753.09,555.22)\pos(752.36,555.22)\c&H303331&}Children's clothes
 Dialogue: 0,0:48:54.87,0:48:57.33,Main,,0,0,0,,{\an5\fnDadhand\b0\fs40\fax0.017658\fscx56.88\fscy58.03\frz-16.3424\frx-17.1871\fry-30.4874\xbord0.00\ybord0.00\blur0.6\org(756.7,610.99)\pos(756.5,610.99)\c&H303331&}Summer
@@ -2738,3 +2738,5 @@ Data: 17,_aegi_folddata,e1;1;4
 Data: 20,a-mo,e{"originalText"#3A"{\\an8\\fnA-OTF RyuminStdH-KO-AnoHana\\fs50\\bord0\\blur0.6\\c&H141F35&\\pos(960#2C600.4)}PROPOSITION OUTLINE"#2C"uuid"#3A"4ba90b6c-943e-47be-ab9d-33b10ec904d4"}
 Data: 21,a-mo,e{"originalText"#3A"{\\an8\\fnA-OTF RyuminStdH-KO-AnoHana\\fs40\\bord0\\blur0.6\\c&H1A253D&\\pos(960.4#2C424.4)}PROJECT EVANGELION"#2C"uuid"#3A"089b49b2-bf2a-4f62-8cb8-9945b8ebb0a6"}
 Data: 22,a-mo,e{"originalText"#3A"{\\an8\\fnA-OTF RyuminStdH-KO-AnoHana\\fs40\\bord0\\blur0.6\\pos(960#2C-5)\\c&H111A2F&}HUMAN INSTRUMENTALITY PROJECT (TENTATIVE)"#2C"uuid"#3A"d65c9ea0-f80e-4475-91c9-731522554a42"}
+Data: 23,_aegi_folddata,e0;0;3
+Data: 24,_aegi_folddata,e1;0;3
