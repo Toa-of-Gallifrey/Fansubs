@@ -992,7 +992,7 @@ ereki sukin エレキスキン (Galvanize) - Electric Skin
 faa kooto ファーコート (Fur Coat) - Fur Coat
 fantomu gaado ファントムガード (Shadow Shield) - Phantom Guard
 fearii oora フェアリーオーラ (Fairy Aura) - Fairy Aura
-fearii sukin フェアリースキン (Pixilate) - # TBD #
+fearii sukin フェアリースキン (Pixilate) - Fairy Skin
 firutaa フィルター (Filter) - Filter
 fukashi no kobushi ふかしのこぶし (Unseen Fist) - # TBD #
 fukugan ふくがん (Compound Eyes) - # TBD #
@@ -1179,7 +1179,7 @@ shinryoku しんりょく (Overgrow) - Budding Greenery
 shireitou しれいとう (Commander) - # TBD #
 shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
 shiroi kemuri しろいけむり (White Smoke) - White Smoke
-shizen kaifuku しぜんかいふく (Natural Cure) - Natural Cure
+shizen kaifuku しぜんかいふく (Natural Cure) - Natural Recovery
 shouri no hoshi しょうりのほし (Victory Star) - # TBD #
 shuukaku しゅうかく (Harvest) - # TBD #
 sou on そうおん (Cacophony) - # TBD #
@@ -1431,7 +1431,7 @@ POKÉMON NAMES
 0178 ネイティオ Natio - せいれいポケモン Spirit Pokémon
 0179 メリープ Mareep - わたげポケモン 
 0180 モココ Mokoko - わたげポケモン 
-0181 デンリュウ Denryuu - ライトポケモン Light Pokémon
+0181 デンリュウ Denryu - ライトポケモン Light Pokémon
 0182 キレイハナ Kireihana - フラワーポケモン Flower Pokémon
 0183 マリル Marill - みずねずみポケモン 
 0184 マリルリ Marilluri - みずうさぎポケモン
