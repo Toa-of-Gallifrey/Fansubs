@@ -40,7 +40,7 @@ Dialogue: 10,0:00:27.97,0:00:30.89,Main,Liko,0,0,0,,And, what made me \N the mos
 Dialogue: 10,0:00:30.89,0:00:34.85,Main,Anne,0,0,0,,So hey... After the entrance ceremony, \N it’ll finally be time, y’know?{001}
 Dialogue: 10,0:00:34.85,0:00:36.22,Main,Liko,0,0,0,,Time? For what?{001}
 Dialogue: 10,0:00:36.22,0:00:39.06,Main,Anne,0,0,0,,What else? \N Our partner Pokémon!{001}
-Dialogue: 10,0:00:39.06,0:00:40.65,Main,Teacher,0,0,0,,Next, LLiko-san.{001}
+Dialogue: 10,0:00:39.06,0:00:40.65,Main,Teacher,0,0,0,,Next, Liko-san.{001}
 Dialogue: 10,0:00:40.65,0:00:42.27,Main,Liko,0,0,0,,H-Here!{001}
 Dialogue: 10,0:00:42.98,0:00:47.40,Main,Liko,0,0,0,,When meeting someone, \N your first impression is really important.{001}
 Dialogue: 9,0:00:42.98,0:00:43.94,Main,Outline,0,0,0,,{\fad(0,350)\blur2\bord8\3c&HFFFFFF&}When meeting so{\alpha&HFF&}meone, \N {\alpha&H00&}your first imp{\alpha&HFF&}ression is really important.{001}
@@ -54,7 +54,7 @@ Dialogue: 10,0:01:06.75,0:01:08.80,Main,Liko,0,0,0,,Nyahoja! Leafage!{001}
 Dialogue: 10,0:01:15.35,0:01:17.68,Main,Liko,0,0,0,,Please! Stop being so reckless!{001}
 Dialogue: 10,0:01:23.44,0:01:28.44,Main,Liko,0,0,0,,One thing led to another, \N and my dizzying life went on, until one day...
 Dialogue: 9,0:01:23.44,0:01:26.19,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&}One thing led to another, \N and my dizzying life went on, until one day...
-Dialogue: 10,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N You’re LLiko-san, correct?{001}
+Dialogue: 10,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N You’re Liko-san, correct?{001}
 Dialogue: 10,0:01:31.90,0:01:34.37,Main,Liko,0,0,0,,A suspicious guy \N came to see me.
 Dialogue: 10,0:01:34.37,0:01:37.58,Main,Liko,0,0,0,,Am I being targeted?!
 Dialogue: 10,0:01:37.58,0:01:39.70,Main,Friede,0,0,0,,Found you!{001}
