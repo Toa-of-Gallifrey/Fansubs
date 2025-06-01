@@ -40,7 +40,7 @@ Dialogue: 10,0:00:27.97,0:00:30.89,Main,Liko,0,0,0,,And, what made me \N the mos
 Dialogue: 10,0:00:30.89,0:00:34.85,Main,Anne,0,0,0,,So hey... After the entrance ceremony, \N it’ll finally be time, y’know?{001}
 Dialogue: 10,0:00:34.85,0:00:36.22,Main,Liko,0,0,0,,Time? For what?{001}
 Dialogue: 10,0:00:36.22,0:00:39.06,Main,Anne,0,0,0,,What else? \N Our partner Pokémon!{001}
-Dialogue: 10,0:00:39.06,0:00:40.65,Main,Teacher,0,0,0,,Next, Liko{Honorifics note: Liko-san}.{001}
+Dialogue: 10,0:00:39.06,0:00:40.65,Main,Teacher,0,0,0,,Next, LLiko-san.{001}
 Dialogue: 10,0:00:40.65,0:00:42.27,Main,Liko,0,0,0,,H-Here!{001}
 Dialogue: 10,0:00:42.98,0:00:47.40,Main,Liko,0,0,0,,When meeting someone, \N your first impression is really important.{001}
 Dialogue: 9,0:00:42.98,0:00:43.94,Main,Outline,0,0,0,,{\fad(0,350)\blur2\bord8\3c&HFFFFFF&}When meeting so{\alpha&HFF&}meone, \N {\alpha&H00&}your first imp{\alpha&HFF&}ression is really important.{001}
@@ -54,7 +54,7 @@ Dialogue: 10,0:01:06.75,0:01:08.80,Main,Liko,0,0,0,,Nyahoja! Leafage!{001}
 Dialogue: 10,0:01:15.35,0:01:17.68,Main,Liko,0,0,0,,Please! Stop being so reckless!{001}
 Dialogue: 10,0:01:23.44,0:01:28.44,Main,Liko,0,0,0,,One thing led to another, \N and my dizzying life went on, until one day...
 Dialogue: 9,0:01:23.44,0:01:26.19,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&}One thing led to another, \N and my dizzying life went on, until one day...
-Dialogue: 10,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N You’re Liko{Honorifics note: Liko-san}, correct?{001}
+Dialogue: 10,0:01:28.44,0:01:31.07,Main,Amethio,0,0,0,,Pleased to meet you. \N You’re LLiko-san, correct?{001}
 Dialogue: 10,0:01:31.90,0:01:34.37,Main,Liko,0,0,0,,A suspicious guy \N came to see me.
 Dialogue: 10,0:01:34.37,0:01:37.58,Main,Liko,0,0,0,,Am I being targeted?!
 Dialogue: 10,0:01:37.58,0:01:39.70,Main,Friede,0,0,0,,Found you!{001}
@@ -84,7 +84,7 @@ Dialogue: 10,0:03:52.75,0:03:57.47,Main,Liko,0,0,0,,I stepped out, leaping into 
 Dialogue: 10,0:03:58.09,0:04:01.01,Main,Liko,0,0,0,,I think... I could do it \N because Nyahoja was by my side.
 Dialogue: 10,0:04:08.52,0:04:10.35,Main,Liko,0,0,0,,You’re amazing, Nyahoja.
 Dialogue: 10,0:04:17.65,0:04:20.74,Main,Amethio,0,0,0,,That gleam... That pendant...
-Dialogue: 10,0:04:21.78,0:04:24.20,Main,Conia,0,0,0,,Master Amethio{Honorifics note: Amethio-sama}. \N How do we proceed?
+Dialogue: 10,0:04:21.78,0:04:24.20,Main,Conia,0,0,0,,Amethio-sama. \N How do we proceed?
 Dialogue: 10,0:04:25.58,0:04:27.12,Main,Amethio,0,0,0,,Return, Soublades.
 Dialogue: 10,0:04:28.96,0:04:29.83,Main,Amethio,0,0,0,,We follow them.
 Dialogue: 10,0:04:29.83,0:04:30.58,Main,Zir Conia,0,0,0,,Sir!
@@ -200,7 +200,7 @@ Dialogue: 10,0:11:46.10,0:11:48.52,Main,Friede,0,0,0,,Turn to starboard!
 Dialogue: 10,0:12:10.21,0:12:11.09,Main,Molly,0,0,0,,All right!
 Dialogue: 10,0:12:13.88,0:12:16.76,Main,Liko,0,0,0,,These guys are so intense...
 Dialogue: 10,0:12:20.18,0:12:22.43,Main,Conia,0,0,0,,Are they heading for the clouds?!
-Dialogue: 10,0:12:22.43,0:12:24.97,Main,Zir,0,0,0,,So reckless... Master Amethio{Honorifics note: Amethio-sama}!
+Dialogue: 10,0:12:22.43,0:12:24.97,Main,Zir,0,0,0,,So reckless... Amethio-sama!
 Dialogue: 10,0:12:25.68,0:12:28.35,Main,Amethio,0,0,0,,We can’t afford to lose them now.
 Dialogue: 10,0:12:28.77,0:12:31.69,Main,Amethio,0,0,0,,Use the airship to shield yourselves\N from the wind and close in!
 Dialogue: 10,0:12:31.69,0:12:32.65,Main,Amethio,0,0,0,,On me!
@@ -321,7 +321,7 @@ Dialogue: 10,0:20:56.74,0:20:57.82,Main,Amethio,0,0,0,,What?!
 Dialogue: 10,0:21:00.78,0:21:04.16,Main,Liko,0,0,0,,We did it! \N Nyahoja, we did it!
 Dialogue: 10,0:21:18.67,0:21:19.80,Main,Friede,0,0,0,,{\an8}No!
 Dialogue: 10,0:21:19.13,0:21:19.80,Main,Liko,0,0,0,,Nyahoja!
-Dialogue: 10,0:21:25.60,0:21:26.47,Main,Zir,0,0,0,,Master Amethio{Honorifics note: Amethio-sama}!
+Dialogue: 10,0:21:25.60,0:21:26.47,Main,Zir,0,0,0,,Amethio-sama!
 Dialogue: 10,0:21:26.47,0:21:28.43,Main,Conia,0,0,0,,We’ll be caught in the storm \N if we stay here!
 Dialogue: 10,0:21:29.85,0:21:30.89,Main,Amethio,0,0,0,,Withdraw!
 Dialogue: 10,0:21:30.89,0:21:31.85,Main,Zir Conia,0,0,0,,Sir!
