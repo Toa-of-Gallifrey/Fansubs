@@ -249,6 +249,7 @@ Dialogue: 10,0:16:02.94,0:16:03.90,Main,Dot,0,0,0,,Got it to open!
 Dialogue: 10,0:16:12.62,0:16:13.45,Main,Friede,0,0,0,,Friede here.
 Dialogue: 10,0:16:15.83,0:16:18.46,Main,Them,0,0,0,,{\i1}Huh?!{\i0}
 Comment: 0,0:16:23.46,0:16:23.46,Main,,0,0,0,,{Part C}
+Dialogue: 10,0:16:29.05,0:16:31.35,Main,Them,0,0,0,,{\i1}Huh?!{\i0}
 Dialogue: 10,0:16:31.35,0:16:32.35,Main,Liko,0,0,0,,Friede?!
 Dialogue: 10,0:16:32.35,0:16:32.89,Main,Roy,0,0,0,,What’s going on?!
 Dialogue: 10,0:16:32.89,0:16:34.39,Main,Dot,0,0,0,,Hold it, hold it!
