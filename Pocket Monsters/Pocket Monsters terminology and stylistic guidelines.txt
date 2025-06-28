@@ -340,7 +340,7 @@ kaen guruma かえんぐるま (Flame Wheel) - Flame Wheel
 kaen no mamori かえんのまもり (Burning Bulwark) - # TBD #
 kaendan かえんだん (Searing Shot) - # TBD #
 kaenhousha かえんほうしゃ (Flamethrower) - Flamethrower
-kafun dango かふんだんご (Pollen Puff) - # TBD #
+kafun dango かふんだんご (Pollen Puff) - Pollen Dumpling
 kage bunshin かげぶんしん (Double Team) - Shadow Clones
 kagenui かげぬい (Spirit Shackle) - # TBD #
 kageuchi かげうち (Shadow Sneak) - Shadow Strike
@@ -373,7 +373,7 @@ kawarawari かわらわり (Brick Break) - Brick Break
 kazeokoshi かぜおこし (Gust) - Wind Gust
 ketaguri けたぐり (Low Kick) - Kick Down
 kiai dama きあいだま (Focus Blast) - Focus Blast
-kiai dame きあいだめ (Focus Energy) - Focus Energy
+kiai dame きあいだめ (Focus Energy) - Build Focus
 kiai panchi きあいパンチ (Focus Punch) - Focus Punch
 kimagu reezaa きまぐレーザー (Fickle Beam) - # TBD #
 kingu shiirudo キングシールド (King's Shield) - # TBD #
@@ -520,7 +520,7 @@ narikiri なりきり (Role Play) - # TBD #
 nashikuzushi なしくずし (Chip Away) - # TBD #
 nayami no tane なやみのタネ (Worry Seed) - # TBD #
 ne o haru ねをはる (Ingrain) - Take Root
-nebaneba netto ねばねばネット (Sticky Web) - Sticky Web
+nebaneba netto ねばねばネット (Sticky Web) - Sticky Net
 negaigoto ねがいごと (Wish) - Wish
 negoto ねごと (Sleep Talk) - Sleep Talk
 neko ni koban ネコにこばん (Pay Day) - # TBD #
@@ -1175,7 +1175,7 @@ sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
 shingan しんがん (Mind's Eye) - # TBD #
 shinkuro シンクロ (Synchronize) - # TBD #
-shinryoku しんりょく (Overgrow) - Budding Greenery
+shinryoku しんりょく (Overgrow) - Fresh Greenery
 shireitou しれいとう (Commander) - # TBD #
 shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
 shiroi kemuri しろいけむり (White Smoke) - White Smoke
@@ -1720,7 +1720,7 @@ POKÉMON NAMES
 0467 ブーバーン Booburn - ばくえんポケモン 
 0468 トゲキッス Togekiss - しゅくふくポケモン Jubilee Pokémon
 0469 メガヤンマ Megayanma - オニトンボポケモン 
-0470 リーフィア Leafia - しんりょくポケモン Fresh Verdure Pokémon
+0470 リーフィア Leafia - しんりょくポケモン Fresh Greenery Pokémon
 0471 グレイシア Glacia - しんせつポケモン Fresh Snow Pokémon
 0472 グライオン 
 0473 マンムー Mammoo - 2ほんキバポケモン 
