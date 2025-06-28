@@ -336,7 +336,7 @@ Dialogue: 10,0:20:48.85,0:20:49.52,Main,Dot,0,0,0,,Huh?
 Dialogue: 10,0:20:50.15,0:20:52.02,Main,Botan,0,0,0,,Wanna battle with me?
 Dialogue: 10,0:20:52.02,0:20:54.11,Main,Nemo,0,0,0,,Botan?! Battling?!
 Dialogue: 10,0:20:54.11,0:20:56.61,Main,Dot,0,0,0,,But why now, outta nowhere...?
-Dialogue: 10,0:20:56.61,0:21:00.78,Main,Botan,0,0,0,,I saw a gleam in your eye, \N so I thought you were gearing for some carnage.{kachikomi=yakuza/violent-gang slang for raiding/assaulting/vigorously-attacking another gang.}
+Dialogue: 10,0:20:56.61,0:21:00.78,Main,Botan,0,0,0,,{\q2}I saw a gleam in your eye, \N so I thought you were gearing up for some carnage.{kachikomi=yakuza/violent-gang slang for raiding/assaulting/vigorously-attacking another gang.}
 Dialogue: 10,0:21:00.78,0:21:02.45,Main,Dot,0,0,0,,Carnage?!
 Dialogue: 10,0:21:11.37,0:21:14.88,Main,Dot,0,0,0,,H-Huh?!
 Dialogue: 10,0:21:22.72,0:21:26.64,Main,Conia,0,0,0,,Amethio-sama... Though we’ve searched so much, \N we haven’t found a single trace of you...
