@@ -1065,7 +1065,7 @@ kabuto aamaa カブトアーマー (Battle Armor) - # TBD #
 kachiki かちき (Competitive) - # TBD #
 kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
 kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
-kage fumin かげふみ (Shadow Tag) - # TBD #
+kage fumi かげふみ (Shadow Tag) - # TBD #
 kairiki basami かいりきバサミ (Hyper Cutter) - # TBD #
 kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
 kansou hada かんそうはだ (Dry Skin) - # TBD #
@@ -1138,7 +1138,7 @@ nigegoshi にげごし (Wimp Out) - # TBD #
 noo gaado ノーガード (No Guard) - No Guard
 noo tenki ノーてんき (Cloud Nine) - # TBD #
 noomaru sukin ノーマルスキン (Normalize) - # TBD #
-noroware bodi のろわれボディ (Cursed Body) - # TBD #
+noroware bodi のろわれボディ (Cursed Body) - Cursed Body
 numenume ぬめぬめ (Gooey) - # TBD #
 odoriko おどりこ (Dancer) - # TBD #
 omitooshi おみとおし (Frisk) - # TBD #
