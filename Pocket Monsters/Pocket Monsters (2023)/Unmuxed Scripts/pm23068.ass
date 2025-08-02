@@ -285,7 +285,7 @@ Dialogue: 10,0:20:24.70,0:20:27.50,Main,Conia,0,0,0,,Even without missions, \N t
 Dialogue: 10,0:20:27.50,0:20:29.75,Main,Zir,0,0,0,,Exactly! Don’t lose hope!
 Dialogue: 10,0:20:31.38,0:20:34.13,Main,Amethio,0,0,0,,You have no shot at promotion \N if you stay with me.
 Dialogue: 10,0:20:34.13,0:20:36.13,Main,Zir,0,0,0,,That’s besides the point!
-Dialogue: 10,0:20:36.92,0:20:38.51,Main,Zir,0,0,0,,We’re comrades, aren’t we?{alt: We’re in this together, aren’t we?!}
+Dialogue: 10,0:20:36.92,0:20:38.51,Main,Zir,0,0,0,,We’re friends, aren’t we?{Callback to Gurumin vid in 027}
 Dialogue: 10,0:20:38.51,0:20:41.47,Main,Conia,0,0,0,,We vowed to follow you, \N Master Amethio{Honorifics note: Amethio-sama}!
 Dialogue: 10,0:20:48.73,0:20:49.73,Main,Amethio,0,0,0,,Understood.
 Dialogue: 10,0:20:50.90,0:20:52.52,Main,Amethio,0,0,0,,To figure out what I...
