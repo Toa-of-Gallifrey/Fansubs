@@ -158,7 +158,7 @@ Dialogue: 10,0:10:03.54,0:10:06.29,Main,Magyorou,0,0,0,,Ma-gyon! A Strong Sphere
 Dialogue: 10,0:10:06.29,0:10:07.29,Main,Dot,0,0,0,,I knew it...
 Dialogue: 10,0:10:09.30,0:10:13.47,Main,Magyorou,0,0,0,,This Strong Sphere’s \N a brand-new product from Exceed!
 Dialogue: 10,0:10:13.47,0:10:16.80,Main,Magyorou,0,0,0,,I applied to be a product tester \N and got in ahead of the crowd!
-Dialogue: 10,0:10:17.18,0:10:19.68,Main,Dot,0,0,0,,Huh? They’re doing that, too?
+Dialogue: 10,0:10:17.18,0:10:19.68,Main,Dot,0,0,0,,Huh? They’re even doing \N something like that?
 Dialogue: 10,0:10:19.68,0:10:21.14,Main,Magyorou,0,0,0,,Magyogyo!
 Dialogue: 10,0:10:21.14,0:10:24.35,Main,Magyorou,0,0,0,,Before now, we could only \N lay down close-range traps...
 Dialogue: 10,0:10:24.35,0:10:28.57,Main,Magyorou,0,0,0,,But with this, we can collect \N surprised faces from all over the city!
@@ -203,7 +203,7 @@ Dialogue: 10,0:12:57.88,0:12:59.76,Main,Dot,0,0,0,,Welcamo! Aqua Cutter!
 Dialogue: 10,0:13:07.81,0:13:09.44,Main,Magyorou,0,0,0,,Huh?
 Dialogue: 10,0:13:14.19,0:13:15.23,Main,Dot,0,0,0,,Where’d it go?
 Dialogue: 10,0:13:18.94,0:13:19.95,Main,Dot,0,0,0,,It’s flying?!
-Dialogue: 10,0:13:19.95,0:13:22.70,Main,Magyorou,0,0,0,,Magyogyo! \N You pulled off an awesome jump!
+Dialogue: 10,0:13:19.95,0:13:22.70,Main,Magyorou,0,0,0,,Magyogyo! \N What an amazingly powerful jump!
 Dialogue: 10,0:13:22.70,0:13:25.49,Main,Dot,0,0,0,,So that’s what a Strong Sphere \N is capable of?
 Dialogue: 10,0:13:25.49,0:13:26.70,Main,Dot,0,0,0,,Aqua Cutter!
 Dialogue: 10,0:13:38.46,0:13:40.01,Main,Dot,0,0,0,,Its moves are stronger, too!
@@ -284,8 +284,8 @@ Dialogue: 10,0:19:39.20,0:19:40.78,Main,Magyorou,0,0,0,,That’s a nice smile, M
 Dialogue: 10,0:19:40.78,0:19:42.08,Main,Nanjamo,0,0,0,,Oh, and...
 Dialogue: 10,0:19:42.62,0:19:45.50,Main,Nanjamo,0,0,0,,No cheating allowed!
 Dialogue: 10,0:19:46.58,0:19:48.88,Main,Magyorou,0,0,0,,Right! I won’t be using this again!
-Dialogue: 10,0:19:51.67,0:19:55.42,Main,Magyorou,0,0,0,,Okay, Nanjamo! \N I’m gonna lay the greatest trap {\i1}ever{\i0} for you!
-Dialogue: 10,0:19:55.42,0:19:57.59,Main,Magyorou,0,0,0,,Just you wait!
+Dialogue: 10,0:19:51.67,0:19:55.67,Main,Magyorou,0,0,0,,Okay, Nanjamo! \N I’m gonna lay the greatest trap {\i1}ever{\i0} for you!
+Dialogue: 10,0:19:55.67,0:19:57.59,Main,Magyorou,0,0,0,,Just you wait!
 Dialogue: 10,0:19:57.59,0:20:00.18,Main,Nanjamo,0,0,0,,Then give it your best shot!
 Dialogue: 10,0:20:04.64,0:20:07.64,Main,Dot,0,0,0,,Classic Nanjamo... So open-minded!{neesan}
 Dialogue: 10,0:20:18.70,0:20:21.91,Main,Liko,0,0,0,,I can’t believe they’re even \N testing new products in Paldea...
@@ -301,7 +301,7 @@ Dialogue: 10,0:20:57.19,0:21:00.78,Main,Dot,0,0,0,,What’s the quickest route \
 Dialogue: 10,0:21:00.78,0:21:03.20,Main,Nanjamo,0,0,0,,Dot-shi!
 Dialogue: 10,0:21:09.16,0:21:13.08,Main,Nanjamo,0,0,0,,Whenever you’re in need, \N you can count on Nanjamo-neesan!
 Dialogue: 10,0:21:13.08,0:21:14.96,Main,Dot,0,0,0,,Nanjamo-neesan!
-Dialogue: 10,0:21:14.96,0:21:19.93,Main,Nanjamo,0,0,0,,So! Take this Ikirinko Taxi \N and you’ll be there in a flash!
+Dialogue: 10,0:21:14.96,0:21:19.93,Main,Nanjamo,0,0,0,,So! Take this Ikirinko Taxi \N and you’ll be there in the snap of a finger!
 Dialogue: 10,0:21:26.77,0:21:30.39,Main,Dot,0,0,0,,That really was quick. \N Thanks, Nanjamo-neesan.
 Dialogue: 10,0:21:36.02,0:21:38.99,Main,Dot,0,0,0,,We made it to Cercle Town!
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution A}
@@ -324,7 +324,7 @@ Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.04,0:24:05.76,Main,Kaede,0,0,0,,Cercle Town’s a nice place, \N how about a visit?{Kaede mindlessly adlibbing a song without thinking   Cercle Town is a good place, come here at least once~}
 Dialogue: 10,0:24:05.76,0:24:07.59,Main,Murdock,0,0,0,,Kaede-san! \N What was that song about?
 Dialogue: 10,0:24:07.59,0:24:10.10,Main,Kaede,0,0,0,,No particular meaning to it, really.
-Dialogue: 10,0:24:10.72,0:24:13.81,Main,Kaede,0,0,0,,Are you singing along \N with me too, Bearies?{kuma-chan-tachi}
+Dialogue: 10,0:24:10.72,0:24:13.81,Main,Kaede,0,0,0,,Are you singing along \N with me too, dearies?
 Dialogue: 10,0:24:13.81,0:24:17.23,Main,Murdock,0,0,0,,Whoops! It’s nearly time \N to take out the honey soufflé.
 Dialogue: 10,0:24:17.23,0:24:19.19,Main,Kaede,0,0,0,,Then let’s put them out in the shop.
 Dialogue: 10,0:24:19.19,0:24:20.73,Main,Kaede,0,0,0,,But first, there’s still {\i1}that...{\i}
@@ -2247,7 +2247,7 @@ Dialogue: 1,0:21:57.63,0:21:57.67,Main,,0,0,0,,{\bord0\blur0.3\fnFOT-Cezanne Pro
 Dialogue: 1,0:21:57.63,0:21:57.67,Main,,0,0,0,,{\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE3B6A1&\fscx40\fscy40\clip(617,614,694,619)\pos(655.6,591.5)\clip(m 910.1 268.57 l 893.33 281.52 872.38 306.67 864.38 316.57 855.24 330.29 848.76 339.43 841.14 352.76 838.1 365.33 827.43 371.81 811.81 360.38 800 360.38 785.14 358.86 776 344.76 757.71 331.43 746.67 329.52 716.57 333.33 695.24 340.57 683.05 356.19 683.58 362.32 685.26 366.11 685.26 370.32 686.11 376.63 687.81 380.95 688 385.07 688.36 390.58 688.96 394.88 690.08 399.2 691.68 403.04 694.72 406.72 695.84 409.92 695.84 412.96 697.6 416.16 699.52 418.4 701.92 420.8 703.04 422.88 703.68 425.28 703.84 427.36 708.48 430.08 715.71 440.78 726.83 464.59 746.34 487.61 751.02 493.66 742.44 504.39 731.51 495.02 719.8 506.73 699.9 527.8 675.32 542.24 670.71 546.86 666.29 552 661.43 557.43 658.14 562.57 656.29 567.43 655.71 572.71 654.71 577.86 653.14 582.43 652 587 652.14 592.29 651.86 598.57 651.84 607.04 652.48 615.04 650.8 622.97 648.42 629.47 648.21 636.57 647.84 644.9 904 647.53)}Flying
 Dialogue: 1,0:21:57.63,0:21:57.67,Main,,0,0,0,,{\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE5BCA0&\fscx40\fscy40\clip(617,619,694,624)\pos(655.6,591.5)\clip(m 910.1 268.57 l 893.33 281.52 872.38 306.67 864.38 316.57 855.24 330.29 848.76 339.43 841.14 352.76 838.1 365.33 827.43 371.81 811.81 360.38 800 360.38 785.14 358.86 776 344.76 757.71 331.43 746.67 329.52 716.57 333.33 695.24 340.57 683.05 356.19 683.58 362.32 685.26 366.11 685.26 370.32 686.11 376.63 687.81 380.95 688 385.07 688.36 390.58 688.96 394.88 690.08 399.2 691.68 403.04 694.72 406.72 695.84 409.92 695.84 412.96 697.6 416.16 699.52 418.4 701.92 420.8 703.04 422.88 703.68 425.28 703.84 427.36 708.48 430.08 715.71 440.78 726.83 464.59 746.34 487.61 751.02 493.66 742.44 504.39 731.51 495.02 719.8 506.73 699.9 527.8 675.32 542.24 670.71 546.86 666.29 552 661.43 557.43 658.14 562.57 656.29 567.43 655.71 572.71 654.71 577.86 653.14 582.43 652 587 652.14 592.29 651.86 598.57 651.84 607.04 652.48 615.04 650.8 622.97 648.42 629.47 648.21 636.57 647.84 644.9 904 647.53)}Flying
 Dialogue: 1,0:21:57.63,0:21:57.67,Main,,0,0,0,,{\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE5C0A3&\fscx40\fscy40\clip(617,624,694,625)\pos(655.6,591.5)\clip(m 910.1 268.57 l 893.33 281.52 872.38 306.67 864.38 316.57 855.24 330.29 848.76 339.43 841.14 352.76 838.1 365.33 827.43 371.81 811.81 360.38 800 360.38 785.14 358.86 776 344.76 757.71 331.43 746.67 329.52 716.57 333.33 695.24 340.57 683.05 356.19 683.58 362.32 685.26 366.11 685.26 370.32 686.11 376.63 687.81 380.95 688 385.07 688.36 390.58 688.96 394.88 690.08 399.2 691.68 403.04 694.72 406.72 695.84 409.92 695.84 412.96 697.6 416.16 699.52 418.4 701.92 420.8 703.04 422.88 703.68 425.28 703.84 427.36 708.48 430.08 715.71 440.78 726.83 464.59 746.34 487.61 751.02 493.66 742.44 504.39 731.51 495.02 719.8 506.73 699.9 527.8 675.32 542.24 670.71 546.86 666.29 552 661.43 557.43 658.14 562.57 656.29 567.43 655.71 572.71 654.71 577.86 653.14 582.43 652 587 652.14 592.29 651.86 598.57 651.84 607.04 652.48 615.04 650.8 622.97 648.42 629.47 648.21 636.57 647.84 644.9 904 647.53)}Flying
-Dialogue: 0,0:21:57.67,0:22:01.01,Main,,0,0,0,,{\fad(0,480)\blur0.3\fnFOT-Cezanne Pro B\b0\an8\shad4\4a&H00&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&HFF&\t(305,350,\1a&H00&)\t(2805,2850,\1a&HFF&)\pos(655.6,591.5)}Flying
+Dialogue: 0,0:21:57.67,0:22:01.01,Main,,0,0,0,,{\fad(0,480)\blur0.3\fnFOT-Cezanne Pro B\b0\an8\shad4\4a&H00&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&H00&\t(2805,2850,\1a&HFF&)\pos(655.6,591.5)}Flying
 Dialogue: 1,0:21:57.67,0:22:01.01,Main,,0,0,0,,{\fad(0,480)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE6A7A1&\fscx40\fscy40\clip(617,598,694,601)\pos(655.6,591.5)}Flying
 Dialogue: 1,0:21:57.67,0:22:01.01,Main,,0,0,0,,{\fad(0,480)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE3A8A3&\fscx40\fscy40\clip(617,601,694,602)\pos(655.6,591.5)}Flying
 Dialogue: 1,0:21:57.67,0:22:01.01,Main,,0,0,0,,{\fad(0,480)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&HE3AAA1&\fscx40\fscy40\clip(617,602,694,603)\pos(655.6,591.5)}Flying
