@@ -98,7 +98,7 @@ Dialogue: 10,0:06:00.30,0:06:01.55,Main,Roy,0,0,0,,Ult!
 Dialogue: 10,0:06:01.55,0:06:03.97,Main,Dot,0,0,0,,There’s an etiquette \N to stuff like this, y’know!
 Dialogue: 10,0:06:03.97,0:06:05.80,Main,Orio,0,0,0,,Hmm? Why you’re here?
 Dialogue: 10,0:06:06.18,0:06:07.10,Main,Liko,0,0,0,,Um...
-Dialogue: 10,0:06:07.89,0:06:11.56,Main,Roy,0,0,0,,We’ve reformed the Rising Voltteccers!
+Dialogue: 10,0:06:07.89,0:06:11.56,Main,Roy,0,0,0,,We’ve re-formed the Rising Voltteccers!
 Dialogue: 10,0:06:12.73,0:06:16.40,Main,Dot,0,0,0,,The effects of Rakurium \N are showing up all over the world,
 Dialogue: 10,0:06:16.40,0:06:18.65,Main,Dot,0,0,0,,and the Explorers are involved.
 Dialogue: 10,0:06:18.65,0:06:21.74,Main,Liko,0,0,0,,If we can investigate, \N and bring that to light...
@@ -197,7 +197,7 @@ Dialogue: 10,0:14:16.96,0:14:19.21,Main,Orio,0,0,0,,I always come back... to the
 Dialogue: 10,0:14:29.22,0:14:30.52,Main,Liko,0,0,0,,Orio!
 Dialogue: 10,0:14:30.52,0:14:32.14,Main,Roy & Dot,0,0,0,,Good morning!
 Dialogue: 10,0:14:33.52,0:14:36.90,Main,Orio,0,0,0,,I believe I declined \N your request yesterday.
-Dialogue: 10,0:14:37.98,0:14:40.78,Main,Orio,0,0,0,,And if you intend to ask me \N to lend you this ship...
+Dialogue: 10,0:14:37.98,0:14:40.78,Main,Orio,0,0,0,,And if you were going to ask me \N to lend you this ship...
 Dialogue: 10,0:14:41.15,0:14:42.44,Main,Orio,0,0,0,,I can’t do that either.
 Dialogue: 10,0:14:42.99,0:14:44.45,Main,Orio,0,0,0,,I don’t intend to fly it anymore.
 Dialogue: 10,0:14:44.45,0:14:45.57,Main,Liko,0,0,0,,I’m sorry!
@@ -325,7 +325,7 @@ Dialogue: 10,0:24:16.10,0:24:17.52,Main,Dot,0,0,0,,Huh? Welcamo?
 Dialogue: 10,0:24:17.52,0:24:18.81,Main,Dot,0,0,0,,“We’ve gotta do this”?
 Dialogue: 10,0:24:18.81,0:24:23.02,Main,Liko,0,0,0,,He’s right! We’re doing this \N in order to get back our truth!
 Dialogue: 10,0:24:23.02,0:24:26.44,Main,Liko,0,0,0,,And so, to be continued \N next time on Pocket Monsters...
-Dialogue: 10,0:24:26.44,0:24:28.86,Main,Them,0,0,0,,{\i1}We, the Rising Voltteccers!{\i0}
+Dialogue: 10,0:24:26.44,0:24:28.86,Main,Them,0,0,0,,{\i1}We Are the Rising Voltteccers!{\i0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 3,0:01:09.01,0:01:13.05,OP,,0,0,0,,{=1109}{\q2\bord0\blur0.6\c&HF84E4E&\4a&HFF&\clip(0,45,1920,94)}Somehow, I feel like I'm the only one
 Comment: 3,0:01:09.01,0:01:13.05,OP,,0,0,0,,{\q2\bord0\blur0.6\c&HE2A720&\4a&HFF&\clip(0,45,1920,94)}Somehow, I feel like I'm the only one
@@ -2375,56 +2375,56 @@ Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1102}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1097}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}We, the Rising Voltteccer{\fsp5}s!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}We, the Rising Voltteccer{\fsp5}s!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}We, the Rising Voltteccer{\fsp5}s!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}We, the Rising Voltteccer{\fsp5}s!
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}We, the Rising Voltteccer{\fsp5}s!
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1098}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}We, the Rising Voltteccer{\fsp5}s!
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1097}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}We Are the Rising Voltteccer{\fsp5}s!
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}We Are the Rising Voltteccer{\fsp5}s!
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}We Are the Rising Voltteccer{\fsp5}s!
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}We Are the Rising Voltteccer{\fsp5}s!
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}We Are the Rising Voltteccer{\fsp5}s!
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1098}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}We Are the Rising Voltteccer{\fsp5}s!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
