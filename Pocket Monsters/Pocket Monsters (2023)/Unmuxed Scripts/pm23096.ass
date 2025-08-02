@@ -60,7 +60,7 @@ Dialogue: 10,0:03:34.57,0:03:36.95,Main,Ult,0,0,0,,You nearly deceived me yet ag
 Dialogue: 10,0:03:36.95,0:03:37.57,Main,Roy,0,0,0,,Huh?
 Dialogue: 10,0:03:37.57,0:03:42.29,Main,Ult,0,0,0,,{\q2}Roy! You were gonna head off and leave me behind \N while I was asleep again, weren’t you?!
 Dialogue: 10,0:03:44.66,0:03:46.83,Main,Roy,0,0,0,,It’d be dangerous \N if we got lost at night!
-Dialogue: 10,0:03:46.83,0:03:49.08,Main,Ult,0,0,0,,Hah!{090} I’m not falling for that!
+Dialogue: 10,0:03:46.83,0:03:49.08,Main,Ult,0,0,0,,Hmph!{090} I’m not falling for that!
 Dialogue: 10,0:03:49.08,0:03:50.84,Main,Liko,0,0,0,,U-Umm...
 Dialogue: 10,0:03:50.84,0:03:55.09,Main,Ult,0,0,0,,I’m gonna go on ahead of you, \N and then I’ll catch the black Rekkuuza!
 Dialogue: 10,0:03:55.09,0:03:56.84,Main,Roy,0,0,0,,Suit yourself.
@@ -130,7 +130,7 @@ Dialogue: 10,0:08:16.60,0:08:17.23,Main,Roy,0,0,0,,Yeah!
 Dialogue: 10,0:08:23.23,0:08:29.61,Main,Dragons,0,0,0,,Honk-honk! Honk-honk! \N Honk-honk! Honk-honk! {Onomatopoeia of a car horn sequence associated with JP biker gangs}
 Dialogue: 10,0:08:31.99,0:08:33.37,Main,Roy,0,0,0,,Mototokage?!
 Dialogue: 10,0:08:33.83,0:08:36.00,Main,Roy,0,0,0,,But they shouldn’t be in this region...
-Dialogue: 10,0:08:36.00,0:08:38.50,Main,Neki,0,0,0,,The way of the invincible \N roaring bike!{Adapted from phrase 'The way of the invincible shinobi'}{bakusou}
+Dialogue: 10,0:08:36.00,0:08:38.62,Main,Neki,0,0,0,,The way of the invincible \N roaring bike!{Adapted from phrase 'The way of the invincible shinobi'}{bakusou}
 Dialogue: 10,0:08:38.62,0:08:41.75,Main,Neki,0,0,0,,Let us show you \N dragon flowers in full bloom!{From a poetic phrase, 'if to bloom and die is a flower, then allow me to show you a flower of love in bloom', used by/stereotypically associated with biker gangs through a 'live fast die young' kinda attitude. Anime replaces 'love' with 'dragon'.}
 Dialogue: 10,0:08:41.75,0:08:43.75,Main,Dora,0,0,0,,Ready to battle!
 Dialogue: 10,0:08:43.75,0:08:45.76,Main,Dorara,0,0,0,,Capes are the best!
@@ -184,7 +184,7 @@ Dialogue: 10,0:10:43.25,0:10:45.62,Main,Ult,0,0,0,,What else? I’m gonna obtain
 Dialogue: 10,0:10:45.62,0:10:47.25,Main,Neki,0,0,0,,Obtain it to do what?!{obtain line}
 Dialogue: 10,0:10:47.25,0:10:49.67,Main,Ult,0,0,0,,I’m gonna become the mega-strongest!
 Dialogue: 10,0:10:49.67,0:10:51.67,Main,Ult,0,0,0,,Yamirami! Hell Thrust!
-Dialogue: 10,0:10:54.30,0:10:58.26,Main,Ult,0,0,0,,Hah!{090} I can handle \N {\i1}these{\i0} three all on my own! {Leaving a note here to be sure not to change this to "these guys". I initially did that, but then it seemed too close to the girl reveal and felt like a bit of an unintended joke -ed}
+Dialogue: 10,0:10:54.30,0:10:58.26,Main,Ult,0,0,0,,Hmph!{090} I can handle \N {\i1}these{\i0} three all on my own! {Leaving a note here to be sure not to change this to "these guys". I initially did that, but then it seemed too close to the girl reveal and felt like a bit of an unintended joke -ed}
 Dialogue: 10,0:10:58.26,0:10:59.31,Main,Neki,0,0,0,,Just try us!
 Dialogue: 10,0:10:59.31,0:11:01.47,Main,Neki,0,0,0,,Mototokage! Dragon Pulse!
 Dialogue: 10,0:11:03.10,0:11:05.31,Main,Ult,0,0,0,,Yamirami! Power Gem!
@@ -326,7 +326,7 @@ Dialogue: 10,0:20:31.84,0:20:33.46,Main,Liko,0,0,0,,What should we do now?
 Dialogue: 10,0:20:33.46,0:20:34.80,Main,Dot,0,0,0,,How about going to Paldea?
 Dialogue: 10,0:20:35.30,0:20:36.34,Main,Roy,0,0,0,,Paldea?
 Dialogue: 10,0:20:36.80,0:20:42.22,Main,Dot,0,0,0,,I think we’d better meet Murdock in person \N and discuss what our best next move is.
-Dialogue: 10,0:20:42.64,0:20:47.60,Main,Roy,0,0,0,,Agreed! I wanna tell him \N we reformed the Rising Voltteccers, too.
+Dialogue: 10,0:20:42.64,0:20:47.60,Main,Roy,0,0,0,,Agreed! I wanna tell him \N we re-formed the Rising Voltteccers, too.
 Dialogue: 10,0:20:48.69,0:20:50.69,Main,Liko,0,0,0,,But why Paldea, then?
 Dialogue: 10,0:20:50.69,0:20:54.48,Main,Dot,0,0,0,,Murdock’s working at \N Ms. Kaede{Honorifics note: Kaede-san}’s Soapberry place now.
 Dialogue: 10,0:20:54.48,0:20:56.40,Main,Liko,0,0,0,,Ooh, is he?
