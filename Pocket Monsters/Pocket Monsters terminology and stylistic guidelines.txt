@@ -334,7 +334,7 @@ jouka じょうか (Purify) - # TBD #
 juuden じゅうでん (Charge) - Charge
 juuman bariki １０まんばりき (High Horsepower) - 100,000 Horsepower
 juuman boruto １０まんぼると (Thunderbolt) - 100,000 Volts
-juuryoku じゅうりょく (Gravity) - # TBD #
+juuryoku じゅうりょく (Gravity) - Gravity
 kaen booru かえんボール (Pyro Ball) - Pyro Ball
 kaen guruma かえんぐるま (Flame Wheel) - Flame Wheel
 kaen no mamori かえんのまもり (Burning Bulwark) - # TBD #
@@ -370,14 +370,14 @@ kataku naru かたくなる (Harden) - Harden
 katasutorofi カタストロフィ (Ruination) - Catastrophe
 kauntaa カウンター (Counter) - Counter
 kawarawari かわらわり (Brick Break) - Brick Break
-kazeokoshi かぜおこし (Gust) - Wind Gust
+kaze okoshi かぜおこし (Gust) - Raising Wind
 ketaguri けたぐり (Low Kick) - Kick Down
 kiai dama きあいだま (Focus Blast) - Focus Blast
 kiai dame きあいだめ (Focus Energy) - Build Focus
 kiai panchi きあいパンチ (Focus Punch) - Focus Punch
 kimagu reezaa きまぐレーザー (Fickle Beam) - # TBD #
 kingu shiirudo キングシールド (King's Shield) - # TBD #
-kinoko no hoshi キノコのほうし (Spore) - Mushroom Spore
+kinoko no hoshi キノコのほうし (Spore) - Mushroom Spores
 kinzokuon きんぞくおん (Metal Sound) - Metal Sound
 kiraa supin キラースピン (Mortal Spin) - # TBD #
 kirakira sutoomu きらきらストーム (Sparkly Swirl) - # TBD #
@@ -418,7 +418,7 @@ kumo no su クモのす (Spider Web) - # TBD #
 kurabbu hammaa クラブハンマー (Crabhammer) - Crabhammer
 kuraitsuku くらいつく (Jaw Lock) - # TBD #
 kuria sumoggu クリアスモッグ (Clear Smog) - Clear Smog
-kuroi kiri くろいきり (Haze) - Black Mist
+kuroi kiri くろいきり (Haze) - Black Fog
 kuroi manazashi くろいまなざし (Mean Look) - # TBD #
 kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
 kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
@@ -621,7 +621,7 @@ sabaki no tsubute さばきのつぶて (Judgment) - # TBD #
 saido chenji サイドチェンジ (Ally Switch) - # TBD #
 saihai さいはい (Instruct) - # TBD #
 saike kousen サイケこうせん (Psybeam) - Psybeam
-saiki no inori さいきのいのり (Revival Blessing) - # TBD #
+saiki no inori さいきのいのり (Revival Blessing) - Prayer of Recovery
 saiko bureido サイコブレイド (Psyblade) - # TBD #
 saiko bureiku サイコブレイク (Psystrike) - # TBD #
 saiko buusuto サイコブースト (Psycho Boost) - Psycho Boost
@@ -657,7 +657,7 @@ shadoo suchiiru シャドースチール (Spectral Thief) - Shadow Steal
 shakashaka hou シャカシャカほう (Matcha Gotcha) - Whisk-Whisk Cannon
 sheru aamuzu シェルアームズ (Shell Side Arm) - # TBD #
 sheru bureedo シェルブレード (Razor Shell) - Shell Blade
-shibiregona しびれごな (Stun Spore) - Stun Spore
+shibiregona しびれごな (Stun Spore) - Paralyze Powder
 shiboritoru しぼりとる (Wring Out) - # TBD #
 shiido furea シードフレア (Seed Flare) - Seed Flare
 shigunaru biimu シグナルビーム (Signal Beam) - Signal Beam
@@ -777,7 +777,7 @@ toripuru daibu トリプルダイブ (Triple Dive) - Triple Dive
 toriporu kikku トリプルキック (Triple Kick) - Triple Kick
 toropikaru kikku トロピカルキック (Trop Kick) - Tropical Kick
 tosshin とっしん (Take Down) - Take Down
-totteoki とっておき (Last Resort) - # TBD #
+totteoki とっておき (Last Resort) - Ace in the Hole
 tsubame gaeshi つばめがえし (Aerial Ace) - Turning Swallow Strike
 tsubasa de utsu つばさでうつ (Wing Attack) - Wing Attack
 tsubo o tsuku つぼをつく (Accupressure) - # TBD #
@@ -820,7 +820,7 @@ wandaa suchiimu ワンダースチーム (Strange Steam) - Wonder Steam
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
 waruagaki わるあがき (Struggle) - Struggle in Vain [subject to change]
 waruwaru zoon わるわるゾーン (Baddy Bad) - # TBD #
-wata houshi わたほうし (Cotton Spore) - Cotton Spore
+wata houshi わたほうし (Cotton Spore) - Cotton Spores
 yadorigi no tane やどりぎのタネ (Leech Seed) - # TBD #
 yakeppachi やけっぱち (Temper Flare) - # TBD #
 yaki tsukusu やきつくす (Incinerate) - # TBD #
@@ -966,7 +966,7 @@ boujin ぼうじん (Overcoat) - # TBD #
 bukiyou ぶきよう (Klutz) - # TBD #
 burein foosu ブレインフォース (Neuroforce) - # TBD #
 chidori ashi ちどりあし (Tangled Feet) - # TBD #
-chikara mochi ちからもち (Huge Power) - # TBD #
+chikara mochi ちからもち (Huge Power) - Powerhouse
 chikara zuku ちからずく (Sheer Force) - # TBD #
 chikuden ちくでん (Volt Absorb) - # TBD #
 chosui ちょすい (Water Absorb) - # TBD #
@@ -1002,7 +1002,7 @@ fumin ふみん (Insomnia) - # TBD #
 furawaa beeru フラワーベール (Flower Veil) - # TBD #
 furawaa gifuto フラワーギフト (Flower Gift) - # TBD #
 furendo gaado フレンドガード (Friend Guard) - # TBD #
-furiizu sukin フリーズスキン (Refrigerate) - # TBD #
+furiizu sukin フリーズスキン (Refrigerate) - Freeze Skin
 fushigi na uroko ふしぎなうろこ (Marvel Scale) - # TBD #
 fushigi na mamori ふしぎなまもり (Wonder Guard) - # TBD #
 fushoku ふしょく (Corrosion) - # TBD #
@@ -1043,7 +1043,7 @@ hitodenashi ひとでなし (Merciless) - # TBD #
 honoo no karada ほのおのからだ (Flame Body) - Flame Body
 hoo bukuro ほおぶくろ (Cheek Pouch) - # TBD #
 horobi no bodi ほろびのボディ (Perish Body) - # TBD #
-houshi ほうし (Effect Spore) - Spore
+houshi ほうし (Effect Spore) - Spores
 ikaku いかく (Intimidate) - Intimidate
 ikari no koura いかりのこうら (Anger Shell) - # TBD #
 ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
@@ -1065,8 +1065,8 @@ kabuto aamaa カブトアーマー (Battle Armor) - # TBD #
 kachiki かちき (Competitive) - # TBD #
 kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
 kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
-kage fumi かげふみ (Shadow Tag) - # TBD #
-kairiki basami かいりきバサミ (Hyper Cutter) - # TBD #
+kage fumi かげふみ (Shadow Tag) - Shadow Tag
+kairiki basami かいりきバサミ (Hyper Cutter) - Superstrong Pincers
 kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
 kansou hada かんそうはだ (Dry Skin) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
@@ -1170,7 +1170,7 @@ samehada さめはだ (Rough Skin) - # TBD #
 san pawaa サンパワー (Solar Power) - # TBD #
 seidenki せいでんき (Static) - Static
 seigi no kokoro せいぎのこころ (Justified) - Heart of Justice
-seishinryoku せいしんりょく (Inner Force) - Force of Will
+seishinryoku せいしんりょく (Inner Focus) - Force of Will
 sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
 shingan しんがん (Mind's Eye) - # TBD #
@@ -1194,8 +1194,8 @@ sukai sukin スカイスキン (Aerilate) - # TBD #
 sukuryuu obire スクリューおびれ (Propeller Tail) - # TBD #
 sukiru rinku スキルリンク (Skill Link) - Skill Link
 suna haki すなはき (Sand Spit) - # TBD #
-suna no chikara すなのちから (Sand Force) - # TBD #
-suna okoshi すなおこし (Sand Stream) - # TBD #
+suna no chikara すなのちから (Sand Force) - Sand Power
+suna okoshi すなおこし (Sand Stream) - Raising Sand
 sunagakure すながくれ (Sand Veil) - # TBD #
 sunaipaa スナイパー (Sniper) - Sniper
 sunakaki すなかき (Sand Rush) - # TBD #
@@ -1553,7 +1553,7 @@ POKÉMON NAMES
 0300 エネコ Eneko - こねこポケモン 
 0301 エネコロロ 
 0302 ヤミラミ Yamirami - くらやみポケモン Darkness Pokémon
-0303 クチート Kucheat - あざむきポケモン 
+0303 クチート Kucheat - あざむきポケモン Deceiving Pokémon
 0304 ココドラ Kokodra - てつヨロイポケモン Iron Armor Pokémon
 0305 コドラ Kodra - てつヨロイポケモン Iron Armor Pokémon
 0306 ボスゴドラ Bossgodra - てつヨロイポケモン Iron Armor Pokémon
@@ -1757,7 +1757,7 @@ POKÉMON NAMES
 0504 ミネズミ Minezumi - みはりポケモン Scout Pokémon
 0505 ミルホッグ Miruhog - けいかいポケモン 
 0506 ヨーテリー Yorterrie - こいぬポケモン Puppy Pokémon
-0507 ハーデリア Herderrie - ちゅうけんポケモン 
+0507 ハーデリア Herderrier - ちゅうけんポケモン 
 0508 ムーランド Mooland - かんだいポケモン Big-Hearted Pokémon
 0509 チョロネコ Choroneko - しょうわるポケモン Devious Pokémon
 0510 レパルダス Leopardas - れいこくポケモン 
@@ -1771,7 +1771,7 @@ POKÉMON NAMES
 0518 ムシャーナ Musharna - ゆめうつつポケモン 
 0519 マメパト Mamepato - こばとポケモン 
 0520 ハトーボー Hatoboh - のばとポケモン 
-0521 ケンホロウ Kenhallow - プライドポケモン Pride Pokémon
+0521 ケンホロウ Kenhorou - プライドポケモン Pride Pokémon
 0522 シママ Shimama - たいでんポケモン 
 0523 ゼブライカ Zebraika - らいでんポケモン 
 0524 ダンゴロ Dangoro - マントルポケモン Mantle Pokémon
@@ -2195,7 +2195,7 @@ POKÉMON NAMES
 0942 オラチフ Orachiff - わかぞうポケモン 
 0943 マフィティフ 
 0944 シルシュルー 
-0945 タギングル 
+0945 タギングル Taggingru - どくざるポケモン Poison Monkey Pokémon
 0946 アノクサ Anokusa - ころがりぐさポケモン Tumbleweed Pokémon
 0947 アノホラグサ Anohoragusa - ころがりぐさポケモン Tumbleweed Pokémon
 0948 ノノクラゲ Nonokurage - きくらげポケモン Wood Ear Pokémon
@@ -2204,7 +2204,7 @@ POKÉMON NAMES
 0951 カプサイジ Capsaiji - ハバネロポケモン Habanero Pokémon
 0952 スコヴィラン 
 0953 シガロコ 
-0954 ベラカス 
+0954 ベラカス Beracas - ころがしポケモン 
 0955 ヒラヒナ 
 0956 クエスパトラ Cuespatra - ダチョウポケモン 
 0957 カヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
@@ -2249,8 +2249,8 @@ POKÉMON NAMES
 0996 セビエ Sebie - こおりビレポケモン Ice Fin Pokémon
 0997 セゴール 
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
-0999 コレクレー Collecurei - たからばこポケモン  | Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
-1000 サーフゴー 
+0999 コレクレー Collecurei - たからばこポケモン Treasure Chest Pokémon | Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
+1000 サーフゴー Surfugo - たからものポケモン Treasure Pokémon
 1001 チオンジェン 
 1002 パオジアン 
 1003 ディンルー 
