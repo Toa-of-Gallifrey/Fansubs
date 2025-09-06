@@ -547,7 +547,7 @@ noroi のろい (Curse) - Curse
 noshikakari のしかかり (Body Slam) - Body Slam
 ochakai おちゃかい (Teatime) - Tea Party
 odateru おだてる (Flatter) - # TBD #
-odorokasu おどろかす (Astonish) - # TBD #
+odorokasu おどろかす (Astonish) - Startle
 ohakamairi おはかまいり (Last Respects) - # TBD #
 oikaze おいかぜ (Tailwind) - Tailwind
 oiuchi おいうち (Pursuit) - # TBD #
@@ -1049,7 +1049,7 @@ ikari no koura いかりのこうら (Anger Shell) - # TBD #
 ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
 iromegane いろめがね (Tinted Lens) - # TBD #
 iryuujon イリュージョン (Illusion) - Illusion
-ishi atama いしあたま (Rock Head) - # TBD #
+ishi atama いしあたま (Rock Head) - Rock Head
 itazura gokoro いたずらごころ (Prankster) - # TBD #
 iwahakobi いわはこび (Rocky Payload) - # TBD #
 iyashi no kokoro いやしのこころ (Healer) - Healing Heart
@@ -1072,7 +1072,7 @@ kansou hada かんそうはだ (Dry Skin) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
 karuwaza かるわざ (Unburden) - # TBD #
 kasoku かそく (Speed Boost) - # TBD #
-katai tsume かたいツメ (Tough Claws) - # TBD #
+katai tsume かたいツメ (Tough Claws) - Tough Claws
 katayaburi かたやぶり (Mold Breaker) - Mold Breaker
 kawari mono かわりもの (Imposter) - # TBD #
 kazenori かぜのり (Wind Rider) - # TBD #
