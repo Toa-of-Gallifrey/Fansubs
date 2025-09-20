@@ -31,10 +31,11 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 	+ Original Series Episode 20  
 	+ Advanced Generation Episode 131  
 	+ PokéPark  
+* CITY THE ANIMATION  
 * Look Back  
 * Evangelion 3.0+1.11 - Thrice Upon a Time (Only as unmuxed scripts for the time being)
 
 **Projects planned to be added eventually:**  
 * Pocket Monsters Movies (M02, M03, M21, M22, M23)  
-* K-On! (upon release)  
+* K-ON! (upon release)  
 * Futari wa Precure
