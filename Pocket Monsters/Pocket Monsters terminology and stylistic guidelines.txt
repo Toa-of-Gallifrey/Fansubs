@@ -1385,7 +1385,7 @@ POKÉMON NAMES
 0132 メタモン Metamon - へんしんポケモン Transform Pokémon
 0133 イーブイ Eevee - しんかポケモン Evolution Pokémon
 0134 シャワーズ Showers - あわはきポケモン Bubble Jet Pokémon
-0135 サンダース Thunders - かみなりポケモン Lightning Pokémon
+0135 サンダース Thunders - かみなりポケモン Thunder Pokémon
 0136 ブースター Booster - ほのおポケモン Fire Pokémon
 0137 ポリゴン Porygon - バーチャルポケモン Virtual Pokémon
 0138 オムナイト Omunyte - うずまきポケモン 
@@ -1508,7 +1508,7 @@ POKÉMON NAMES
 0255 アチャモ Achamo - ひよこポケモン 
 0256 ワカシャモ Wakashamo - わかどりポケモン 
 0257 バシャーモ Burshamo - もうかポケモン 
-0258 ミズゴロウ Mizugoro - ぬまうおポケモン Swamp Fish Pokémon
+0258 ミズゴロウ Mizugorou - ぬまうおポケモン Swamp Fish Pokémon
 0259 ヌマクロー Numacraw - ぬまうおポケモン Swamp Fish Pokémon
 0260 ラグラージ Laglarge - ぬまうおポケモン Swamp Fish Pokémon
 0261 ポチエナ Poochyena - かみつきポケモン Bite Pokémon
@@ -1653,9 +1653,9 @@ POKÉMON NAMES
 0400 ビーダル Beadaru - ビーバーポケモン 
 0401 コロボーシ Koroboushi - こおろぎポケモン Cricket Pokémon
 0402 コロトック Korotock - こおろぎポケモン Cricket Pokémon
-0403 コリンク 
-0404 ルクシオ 
-0405 レントラー Rentorar - がんこうポケモン Gleam Eyes Pokémon
+0403 コリンク Kolynk - せんこうポケモン 
+0404 ルクシオ Luxio - でんこうポケモン 
+0405 レントラー Roentorar - がんこうポケモン Gleaming Eyes Pokémon
 0406 スボミー Subomi - つぼみポケモン 
 0407 ロズレイド Roserade - ブーケポケモン Bouquet Pokémon
 0408 ズガイドス Zugaidos - ずつきポケモン
@@ -1687,7 +1687,7 @@ POKÉMON NAMES
 0434 スカンプー Skunpuu - スカンクポケモン 
 0435 スカタンク Skutank - スカンクポケモン 
 0436 ドーミラー 
-0437 ドータクン Dotakun - どうたくポケモン 
+0437 ドータクン Doutakun - どうたくポケモン 
 0438 ウソハチ Usohachi - ぼんさいポケモン 
 0439 マネネ Manene - マイムポケモン Mime Pokémon
 0440 ピンプク Pinpuku - ままごとポケモン 
