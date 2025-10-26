@@ -145,7 +145,7 @@ doro asobi どろあそび (Mud Sport) - # TBD #
 doro bakudan どろばくだん (Mud Bomb) - Mud Bomb
 dorobou どろぼう (Thief) - Thief
 dorokake どろかけ (Mud-Slap) - Mud Spray
-dowasure ドわすれ (Amnesia) - # TBD #
+dowasure ドわすれ (Amnesia) - Mind Blank
 ea kattaa エアカッター (Air Cutter) - Air Cutter
 ea surasshu エアスラッシュ (Air Slash) - Air Slash
 earoburasuto エアロブラスト (Aeroblast) - Aeroblast
@@ -228,7 +228,7 @@ haidoro suchiimu ハイドロスチーム (Hydro Steam) - Hydro Steam
 haipaa boisu ハイパーボイス (Hyper Voice) - Hyper Voice
 haipaa doriru ハイパードリル (Hyper Drill) - Hyper Drill
 haisui no jin はいすいのじん (No Retreat) - # TBD #
-haiyoru ichigeki はいよるいちげき (Skitter Smack) - # TBD #
+haiyoru ichigeki はいよるいちげき (Skitter Smack) - Crawling Strike
 hajikeru honoo はじけるほのお (Flame Burst) - Flame Burst
 hakai kousen はかいこうせん (Hyper Beam) - Destroyer Beam
 hakidasu はきだす (Spit Up) - # TBD #
@@ -620,7 +620,7 @@ ryuuseigun りゅうせいぐん (Draco Meteor) - Dragon Meteor Shower
 sabaki no tsubute さばきのつぶて (Judgment) - # TBD #
 saido chenji サイドチェンジ (Ally Switch) - # TBD #
 saihai さいはい (Instruct) - # TBD #
-saike kousen サイケこうせん (Psybeam) - Psybeam
+saike kousen サイケこうせん (Psybeam) - Psyche Beam
 saiki no inori さいきのいのり (Revival Blessing) - Prayer of Recovery
 saiko bureido サイコブレイド (Psyblade) - # TBD #
 saiko bureiku サイコブレイク (Psystrike) - # TBD #
@@ -754,7 +754,7 @@ tobihaneru とびはねる (Bounce) - # TBD #
 tobihizageri とびひざげり (High Jump Kick) - High Jump Kick [subject to change]
 tobikakaru とびかかる (Lunge) - Lunge
 tobitsuku とびつく (Pounce) - Pounce
-todomebari とどめばり (Fell Stinger) - # TBD #
+todomebari とどめばり (Fell Stinger) - Finishing Sting
 toge kyanon とげキャノン (Spike Cannon) - Spike Cannon [subject to change]
 togisumasu とぎすます (Laser Focus) - # TBD #
 toguro o maku とぐろをまく (Coil) - # TBD #
@@ -1468,8 +1468,8 @@ POKÉMON NAMES
 0215 ニューラ Nyula - かぎづめポケモン 
 0216 ヒメグマ Himeguma - こぐまポケモン Little Bear Pokémon
 0217 リングマ Ringuma - とうみんポケモン 
-0218 マグマッグ 
-0219 マグカルゴ 
+0218 マグマッグ Magmag - ようがんポケモン 
+0219 マグカルゴ Magcargot - ようがんポケモン 
 0220 ウリムー 
 0221 イノムー 
 0222 サニーゴ Sunnygo - さんごポケモン Coral Pokémon
@@ -1839,7 +1839,7 @@ POKÉMON NAMES
 0586 メブキジカ Mebukijika - きせつポケモン 
 0587 エモンガ Emonga - モモンガポケモン 
 0588 カブルモ 
-0589 シュバルゴ Chevargo - きへいポケモン 
+0589 シュバルゴ Chevargot - きへいポケモン 
 0590 タマゲタケ Tamagetake - きのこポケモン Mushroom Pokémon
 0591 モロバレル Morobareru - きのこポケモン Mushroom Pokémon
 0592 プルリル Pururill - ふゆうポケモン 
@@ -1859,7 +1859,7 @@ POKÉMON NAMES
 0606 オーベム Ohbem - ブレインポケモン Brain Pokémon
 0607 ヒトモシ Hitomoshi - ろうそくポケモン Candle Pokémon
 0608 ランプラー Lampler - ランプポケモン Lamp Pokémon
-0609 シャンデラ 
+0609 シャンデラ Chandela - いざないポケモン 
 0610 キバゴ Kibago - キバポケモン 
 0611 オノンド 
 0612 オノノクス Ononox - あごオノポケモン Axe Jaw Pokémon
