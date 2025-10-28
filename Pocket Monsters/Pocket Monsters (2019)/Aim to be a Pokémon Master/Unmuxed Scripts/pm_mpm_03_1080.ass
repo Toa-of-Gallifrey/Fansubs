@@ -94,7 +94,7 @@ Dialogue: 0,0:04:02.85,0:04:05.60,Main,Kasumi,0,0,0,,Spare?! \N You looking for 
 Dialogue: 0,0:04:05.60,0:04:08.23,Main,Dent,0,0,0,,N-N-No, \N I didn’t mean it like that...
 Dialogue: 0,0:04:09.02,0:04:11.15,Main,Satoshi,0,0,0,,He’s another friend \N who traveled with me.
 Dialogue: 0,0:04:11.56,0:04:14.78,Main,Dent,0,0,0,,The Pokémon Sommelier, Dent.
-Dialogue: 0,0:04:14.78,0:04:17.28,Main,Kasumi,0,0,0,,Huh? What’s a \N Pokémon Sommelier?
+Dialogue: 0,0:04:14.78,0:04:17.28,Main,Kasumi,0,0,0,,Huh? What’s a Pokémon Sommelier?
 Dialogue: 0,0:04:17.28,0:04:19.78,Main,Dent,0,0,0,,I’m ever so glad you asked!
 Dialogue: 0,0:04:19.78,0:04:22.58,Main,Dent,0,0,0,,Would you send out \N one of your Pokémon?
 Dialogue: 0,0:04:24.29,0:04:26.83,Main,Kasumi,0,0,0,,Ach! Popping out \N without permission {\i1}again...!{\i0}
@@ -119,7 +119,7 @@ Dialogue: 0,0:05:11.83,0:05:14.38,Main,Dent,0,0,0,,Oh, of course! \N Congratulat
 Dialogue: 0,0:05:14.38,0:05:15.63,Main,Satoshi,0,0,0,,Oh, thanks!
 Dialogue: 0,0:05:15.63,0:05:17.51,Main,Dent,0,0,0,,So, what’s the matter with Takeshi?
 Dialogue: 0,0:05:17.88,0:05:21.63,Main,Dent,0,0,0,,He’s exuding a hefty \N negative aura{オーラ} indeed...
-Dialogue: 0,0:05:21.63,0:05:23.39,Main,Takeshi,0,0,0,,Don’t ask.
+Dialogue: 0,0:05:21.63,0:05:23.39,Main,Takeshi,0,0,0,,Don’t even ask.
 Dialogue: 0,0:05:26.43,0:05:28.68,Main,Dent,0,0,0,,Ah... \N Is it another heartbreak?
 Dialogue: 0,0:05:28.68,0:05:31.48,Main,Satoshi,0,0,0,,Can’t we do something \N to cheer him up?
 Dialogue: 0,0:05:32.19,0:05:34.27,Main,Dent,0,0,0,,Hrm...
@@ -149,11 +149,11 @@ Dialogue: 0,0:06:53.10,0:06:53.60,Main,Kasumi,0,0,0,,What is this?!
 Dialogue: 0,0:06:53.60,0:06:55.23,Main,Dent,0,0,0,,Suddenly, my head hurts...
 Dialogue: 0,0:06:57.65,0:06:59.02,Main,Satoshi,0,0,0,,What {\i1}is{\i0} that?!
 Dialogue: 0,0:06:59.57,0:07:03.90,Main,Rotom Satoshi Ver,0,0,0,,Brimuon. Silent Pokémon. \N Psychic/Fairy type.
-Dialogue: 0,0:07:03.90,0:07:06.74,Main,Rotom Satoshi Ver,0,0,0,,It emits psychic power \N strong enough to cause headaches...
+Dialogue: 0,0:07:03.90,0:07:06.74,Main,Rotom Satoshi Ver,0,0,0,,It emits psycho-power \N strong enough to cause headaches...
 Dialogue: 0,0:07:06.74,0:07:09.16,Main,Rotom Satoshi Ver,0,0,0,,...as a deterrent \N to the approach of others.{Sword dex entry}
-Dialogue: 0,0:07:09.66,0:07:11.66,Main,Takeshi,0,0,0,,Ms. Kathy!
+Dialogue: 0,0:07:09.66,0:07:11.66,Main,Takeshi,0,0,0,,Ms. Kathy{Honorifics note: Kathy-san}!
 Dialogue: 0,0:07:12.16,0:07:15.67,Main,Kathy,0,0,0,,Takeshi! This way, this way! \N Come quick!
-Dialogue: 0,0:07:18.04,0:07:22.17,Main,Takeshi,0,0,0,,Ms... Ka... thy!
+Dialogue: 0,0:07:18.04,0:07:22.17,Main,Takeshi,0,0,0,,Ms... Ka... thy{Honorifics note: Ka... thy... san}!
 Dialogue: 0,0:07:22.17,0:07:23.96,Main,Kasumi,0,0,0,,Return, Koduck!
 Dialogue: 0,0:07:31.51,0:07:33.18,Main,Satoshi,0,0,0,,Takeshi!
 Dialogue: 0,0:07:33.93,0:07:34.98,Main,Kasumi,0,0,0,,Takeshi!
@@ -202,7 +202,7 @@ Dialogue: 0,0:09:43.90,0:09:47.65,Main,Dent,0,0,0,,“Via the protrusion on its 
 Dialogue: 0,0:09:47.65,0:09:48.36,Main,Dent,0,0,0,,Oh!
 Dialogue: 0,0:09:48.90,0:09:51.15,Main,Dent,0,0,0,,Mibrim might be able \N to find Takeshi.
 Dialogue: 0,0:09:51.15,0:09:51.70,Main,Satoshi & Kasumi,0,0,0,,Huh?
-Dialogue: 0,0:09:52.03,0:09:54.78,Main,Dent,0,0,0,,If she can sense the \N negative aura{オーラ} Takeshi is exuding,{Might be too literal but idk, i just kind of like having him repeat the idea that Takeshi is just OOZING sadness right now. -TLC}{Oh, "Takeshi is exuding" comes up later in the script as a TL for this exact same phrase I HAVE BEEN VINDICATED. -TLC}
+Dialogue: 0,0:09:52.03,0:09:54.78,Main,Dent,0,0,0,,If she can sense \N the negative aura{オーラ} Takeshi is exuding,{Might be too literal but idk, i just kind of like having him repeat the idea that Takeshi is just OOZING sadness right now. -TLC}{Oh, "Takeshi is exuding" comes up later in the script as a TL for this exact same phrase I HAVE BEEN VINDICATED. -TLC}
 Dialogue: 0,0:09:54.78,0:09:56.87,Main,Dent,0,0,0,,she’ll know where he is!
 Dialogue: 0,0:09:56.87,0:09:58.49,Main,Kasumi,0,0,0,,That’s a good idea!
 Dialogue: 0,0:09:58.49,0:09:59.95,Main,Satoshi,0,0,0,,Hey, Mibrim...
@@ -234,7 +234,7 @@ Dialogue: 0,0:11:04.27,0:11:05.02,Main,Dent & Kasumi,0,0,0,,Right!
 Dialogue: 0,0:11:10.69,0:11:11.82,Main,Satoshi,0,0,0,,Another Pokémon.
 Dialogue: 0,0:11:14.32,0:11:17.07,Main,Kasumi,0,0,0,,Ooh! She looks like a stuffed toy!
 Dialogue: 0,0:11:17.07,0:11:19.58,Main,Dent,0,0,0,,She has quite a cute taste to her.
-Dialogue: 0,0:11:20.16,0:11:23.29,Main,Rotom Satoshi Ver,0,0,0,,Tebrim. Serene Pokémon. \N Psychic type.
+Dialogue: 0,0:11:20.16,0:11:23.29,Main,Rotom Satoshi Ver,0,0,0,,Tebrim. Silencing Pokémon. \N Psychic type.
 Dialogue: 0,0:11:23.29,0:11:25.08,Main,Rotom Satoshi Ver,0,0,0,,The evolved form of Mibrim.
 Dialogue: 0,0:11:26.25,0:11:28.42,Main,Satoshi,0,0,0,,So that’s why she looks like you.
 Dialogue: 0,0:11:29.92,0:11:34.76,Main,Rotom Satoshi Ver,0,0,0,,It uses the braids on its head to pummel into silence \N anyone with strong emotions, no matter who they are.{partial Sword dex entry and partial Shield dex entry, retranslated to fit}
@@ -275,7 +275,7 @@ Dialogue: 0,0:13:50.56,0:13:52.14,Main,Kasumi,0,0,0,,Wait for me!
 Dialogue: 0,0:13:52.14,0:13:54.81,Main,Dent,0,0,0,,What happened to Satoshi \N and Kasumi all of a sudden?
 Dialogue: 0,0:13:57.78,0:14:00.90,Main,Nobori,0,0,0,,Train station boxed lunches, \N safety check complete!
 Dialogue: 0,0:14:00.90,0:14:02.70,Main,Kudari,0,0,0,,Prospective customers, this way!
-Dialogue: 0,0:14:02.70,0:14:05.95,Main,Dent,0,0,0,,The Subway Masters, \N Mr. Nobori and Mr. Kudari?!
+Dialogue: 0,0:14:02.70,0:14:05.95,Main,Dent,0,0,0,,The Subway Masters, \N Mr. Nobori{Honorifics note: Nobori-san} and Mr. Kudari{Honorifics note: Kudari-san}?!
 Dialogue: 0,0:14:05.95,0:14:07.20,Main,Dent,0,0,0,,I’ll have some!
 Dialogue: 0,0:14:07.74,0:14:10.54,Main,Nobori & Kudari,0,0,0,,Follow the schedule. \N Everybody smile!{BW game line}
 Dialogue: 0,0:14:10.54,0:14:12.41,Main,Nobori & Kudari,0,0,0,,All aboard!{BW game line}
@@ -286,7 +286,7 @@ Dialogue: 0,0:14:28.47,0:14:35.40,Main,Nyarth,0,0,0,,I’m not gonna get my wish
 Dialogue: 0,0:14:36.77,0:14:39.07,Main,Musashi,0,0,0,,We’ll be promoted to admins! \N Made branch managers!
 Dialogue: 0,0:14:39.07,0:14:41.03,Main,Kojiro,0,0,0,,Rise up the ranks \N and celebrate with a party!
 Dialogue: 0,0:14:41.03,0:14:42.86,Main,Nyarth,0,0,0,,Until we’re full...
-Dialogue: 0,0:14:42.86,0:14:45.28,Main,Team Rocket,0,0,0,,We wanna eat!
+Dialogue: 0,0:14:42.86,0:14:45.28,Main,Team Rocket,0,0,0,,{\i1}We wanna eat!{\i0}
 Dialogue: 0,0:14:48.03,0:14:48.83,Main,Musashi,0,0,0,,What’s that thing?
 Dialogue: 0,0:14:48.83,0:14:49.54,Main,Kojiro,0,0,0,,A Tebrim!
 Dialogue: 0,0:14:54.25,0:14:55.29,Main,Kojiro,0,0,0,,Run for it!
@@ -295,7 +295,7 @@ Dialogue: 0,0:15:03.72,0:15:04.93,Main,Satoshi,0,0,0,,Mom?
 Dialogue: 0,0:15:04.93,0:15:06.14,Main,Hanako,0,0,0,,Here, eat up.
 Dialogue: 0,0:15:06.14,0:15:06.55,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 0,0:15:10.68,0:15:13.68,Main,Kasumi,0,0,0,,Wait for me, Water types!
-Dialogue: 0,0:15:15.31,0:15:17.31,Main,Dent,0,0,0,,Mr. Nobori! Mr. Kudari!
+Dialogue: 0,0:15:15.31,0:15:17.31,Main,Dent,0,0,0,,Mr. Nobori{Honorifics note: Nobori-san}! Mr. Kudari{Honorifics note: Kudari-san}!
 Dialogue: 0,0:15:17.31,0:15:20.86,Main,Nobori & Kudari,0,0,0,,Fueled up! \N Full speed ahead!{Pokémon Masters EX line}
 Dialogue: 0,0:15:22.40,0:15:24.95,Main,Dent,0,0,0,,One train station \N boxed lunch, please!
 Dialogue: 0,0:15:30.95,0:15:33.45,Main,Them,0,0,0,,I’m going numb...
@@ -321,8 +321,8 @@ Dialogue: 0,0:16:28.30,0:16:32.55,Main,Dent,0,0,0,,Mibrim will be able to sense 
 Dialogue: 0,0:16:33.06,0:16:36.06,Main,Dent,0,0,0,,But how can she \N communicate the information to us?
 Dialogue: 0,0:16:36.64,0:16:38.48,Main,Satoshi,0,0,0,,Pikachu might be able to help.
 Dialogue: 0,0:16:39.44,0:16:45.15,Main,Dent,0,0,0,,I see! Mibrim relays what she senses to Pikachu, \N and Pikachu relays it to us.{Everyone: Ignores Pikachu and just looks at Mibrim charades instead}
-Dialogue: 0,0:16:50.86,0:16:52.07,Main,Joy,0,0,0,,I love you, Mr. Takeshi.
-Dialogue: 0,0:16:52.07,0:16:53.37,Main,Takeshi,0,0,0,,Ms. Joy!
+Dialogue: 0,0:16:50.86,0:16:52.07,Main,Joy,0,0,0,,I love you, Mr. Takeshi{Honorifics note: Takeshi-san}.
+Dialogue: 0,0:16:52.07,0:16:53.37,Main,Takeshi,0,0,0,,Ms. Joy{Honorifics note: Joy-san}!
 Dialogue: 0,0:16:53.37,0:16:55.87,Main,Takeshi,0,0,0,,I’ve fully recovered!
 Dialogue: 0,0:17:04.21,0:17:05.67,Main,Joy,0,0,0,,I lied! I hate you!
 Dialogue: 0,0:17:14.18,0:17:15.35,Main,Dent,0,0,0,,Did you get that?
@@ -381,7 +381,7 @@ Dialogue: 0,0:20:53.73,0:20:55.90,Main,Dent,0,0,0,,While I am honored to \N rece
 Dialogue: 0,0:20:55.90,0:20:57.90,Main,Dent,0,0,0,,I’m afraid I must excuse myself.
 Dialogue: 0,0:20:57.90,0:20:58.57,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 0,0:20:58.57,0:20:59.91,Main,Satoshi,0,0,0,,You’re not going with us?
-Dialogue: 0,0:20:59.91,0:21:06.12,Main,Dent,0,0,0,,I have to attend an event where Mr. Nobori \N and Mr. Kudari are unveiling a new coach.
+Dialogue: 0,0:20:59.91,0:21:06.12,Main,Dent,0,0,0,,I have to attend an event where Mr. Nobori{Honorifics note: Nobori-san} \N and Mr. Kudari{Honorifics note: Kudari-san} are unveiling a new coach.
 Dialogue: 0,0:21:06.12,0:21:07.91,Main,Dent,0,0,0,,I’d like to try their {train station }boxed lunches, too.{Shortened for CPS.}
 Dialogue: 0,0:21:07.91,0:21:09.54,Main,Satoshi,0,0,0,,Is that so...
 Dialogue: 0,0:21:09.54,0:21:10.67,Main,Satoshi,0,0,0,,Let’s meet again!

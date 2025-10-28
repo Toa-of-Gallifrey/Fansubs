@@ -150,7 +150,7 @@ Dialogue: 0,0:11:53.73,0:11:57.61,Main,Musashi,0,0,0,,Wh-Why is it I suddenly fe
 Dialogue: 0,0:11:57.61,0:12:00.03,Main,Kojiro,0,0,0,,Wh-What may we do to...
 Dialogue: 0,0:12:00.03,0:12:02.45,Main,Nyarth,0,0,0,,...b-be of help, meow?
 Dialogue: 0,0:12:09.33,0:12:11.71,Main,Kasumi,0,0,0,,Can we really trust them?
-Dialogue: 0,0:12:13.25,0:12:15.92,Main,Nyarth,0,0,0,,We’ve made a vow \N with Mr. Pikachu, meow.
+Dialogue: 0,0:12:13.25,0:12:15.92,Main,Nyarth,0,0,0,,We’ve made a vow \N with Mr. Pikachu{Honorifics note: Pikachu-san}, meow.
 Dialogue: 0,0:12:17.22,0:12:20.72,Main,Takeshi,0,0,0,,We don’t have a choice. Right now, \N we can’t look a gift Nyarth in the mouth.{Right now, we’d even take a Nyarth’s assistance.}{'neko no te mo karitai'->'[I'd] even like to borrow a cat's paws [to help]', so desperate you'd even consider asking a fickle cat for help. Takeshi swaps 'cat' for 'Nyarth'. Cat->Nyarth stuff is common enough, and the same idiom turns up enough (even the move named EN:Assist) that it may be best left as-is, even though EN viewers won't spot 'this is an idiom'...}
 Dialogue: 0,0:12:20.72,0:12:21.89,Main,Satoshi & Kasumi,0,0,0,,Yeah.
 Dialogue: 0,0:12:21.89,0:12:26.73,Main,Takeshi,0,0,0,,And that mecha will be a good \N source of power to pull Whaleoh out.
@@ -265,8 +265,8 @@ Dialogue: 0,0:23:06.24,0:23:08.99,Main,Kasumi,0,0,0,,A strange phenomenon \N whe
 Dialogue: 0,0:23:08.99,0:23:11.75,Main,Takeshi,0,0,0,,Yeah. And it’s apparently \N the work of a Jupetta.
 Dialogue: 0,0:23:11.75,0:23:15.37,Main,Kasumi,0,0,0,,Jupetta’s an abandoned plush toy \N that became a Pokémon, right?
 Dialogue: 0,0:23:15.37,0:23:17.96,Main,Kasumi,0,0,0,,Is it harassing people \N because of that grudge?
-Dialogue: 0,0:23:17.96,0:23:20.71,Main,Takeshi,0,0,0,,I don’t know... but... \N Ms. Joy is worried!
-Dialogue: 0,0:23:20.71,0:23:21.88,Main,Takeshi,0,0,0,,Ms. Joy!
+Dialogue: 0,0:23:17.96,0:23:20.71,Main,Takeshi,0,0,0,,I don’t know... but... \N Ms. Joy{Honorifics note: Joy-san} is worried!
+Dialogue: 0,0:23:20.71,0:23:21.88,Main,Takeshi,0,0,0,,Ms. Joy{Honorifics note: Joy-san}!
 Dialogue: 0,0:23:21.88,0:23:24.88,Main,Takeshi,0,0,0,,With the power of my blazing flames of love, \N your heart’s worries will—
 Dialogue: 0,0:23:24.88,0:23:25.51,Main,Takeshi,0,0,0,,Ack!
 Dialogue: 0,0:23:25.51,0:23:27.09,Main,Satoshi,0,0,0,,Numb...!

@@ -68,7 +68,7 @@ Dialogue: 0,0:06:15.10,0:06:16.06,Main,Satoshi,0,0,0,,But...
 Dialogue: 0,0:06:17.48,0:06:19.03,Main,Satoshi,0,0,0,,Did you see that, Pikachu?!
 Dialogue: 0,0:06:19.03,0:06:20.11,Main,Satoshi,0,0,0,,I...
 Dialogue: 0,0:06:20.82,0:06:23.78,Main,Satoshi,0,0,0,,...may have just \N made friends with that Spear!
-Dialogue: 0,0:07:04.99,0:07:06.70,Main,Okido,0,0,0,,Ms. Mom!
+Dialogue: 0,0:07:04.99,0:07:06.70,Main,Okido,0,0,0,,Ms. Mom{Honorifics note: Mom-san}!
 Dialogue: 0,0:07:06.70,0:07:08.37,Main,Okido,0,0,0,,Hello!
 Dialogue: 0,0:07:08.37,0:07:09.83,Main,Hanako,0,0,0,,Professor Okido!
 Dialogue: 0,0:07:09.83,0:07:11.45,Main,Okido,0,0,0,,How are you doing?
@@ -83,7 +83,7 @@ Dialogue: 0,0:07:31.60,0:07:33.35,Main,Okido,0,0,0,,Hmm, friends...
 Dialogue: 0,0:07:33.35,0:07:35.31,Main,Okido,0,0,0,,A poem just came to mind.
 Dialogue: 0,0:07:35.85,0:07:40.36,Main,Okido,0,0,0,,If it’s friends you seek \N You should start with Pokémon \N Hundred fifty one
 Dialogue: 0,0:07:40.36,0:07:41.82,Main,Hanako,0,0,0,,Master of the craft!{Yoh, meijin seems to derive from 'iyoh, daitouryou', "芸をほめる呼びかけ" a call praising a work of art}
-Dialogue: 0,0:07:56.12,0:07:58.42,Main,Satoshi,0,0,0,,Ooh, a Korobohshi!
+Dialogue: 0,0:07:56.12,0:07:58.42,Main,Satoshi,0,0,0,,Ooh, a Koroboushi!
 Dialogue: 0,0:07:59.58,0:08:01.21,Main,Satoshi,0,0,0,,A Minezumi?
 Dialogue: 0,0:08:03.38,0:08:04.71,Main,Satoshi,0,0,0,,Digda.
 Dialogue: 0,0:08:07.26,0:08:08.22,Main,Satoshi,0,0,0,,Nyarth...

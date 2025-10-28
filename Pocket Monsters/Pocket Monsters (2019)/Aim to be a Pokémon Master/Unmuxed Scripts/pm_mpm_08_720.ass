@@ -45,14 +45,14 @@ Dialogue: 0,0:00:32.55,0:00:34.39,Main,Kasumi,0,0,0,,What was that scream?
 Dialogue: 0,0:00:34.39,0:00:35.31,Main,Satoshi,0,0,0,,Let’s check it out.
 Dialogue: 0,0:00:35.31,0:00:36.02,Main,Kasumi,0,0,0,,Yeah.
 Dialogue: 0,0:00:37.81,0:00:38.98,Main,Satoshi,0,0,0,,Over there!
-Dialogue: 0,0:00:40.06,0:00:41.81,Main,Takeshi,0,0,0,,Ms. Junsa!
+Dialogue: 0,0:00:40.06,0:00:41.81,Main,Takeshi,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}!
 Dialogue: 0,0:00:41.81,0:00:43.15,Main,Junsa,0,0,0,,It happened again?
 Dialogue: 0,0:00:43.15,0:00:44.94,Main,Takeshi,0,0,0,,Put your mind at ease!
 Dialogue: 0,0:00:44.94,0:00:47.65,Main,Takeshi,0,0,0,,You have nothing to fear \N now that I’ve arrived.
 Dialogue: 0,0:00:47.65,0:00:49.82,Main,Takeshi,0,0,0,,I will exhaust every effort \N to aid yo—Gah!
 Dialogue: 0,0:00:50.53,0:00:52.70,Main,Kasumi,0,0,0,,Okay, okay, \N you’re getting us nowhere.
 Dialogue: 0,0:00:52.70,0:00:54.03,Main,Takeshi,0,0,0,,I shall be back...
-Dialogue: 0,0:00:56.16,0:00:58.62,Main,Satoshi,0,0,0,,Ms. Junsa, did something happen?
+Dialogue: 0,0:00:56.16,0:00:58.62,Main,Satoshi,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}, did something happen?
 Dialogue: 0,0:00:59.08,0:01:03.63,Main,Junsa,0,0,0,,Well, there’s been a strange phenomenon \N occurring in houses all over lately.
 Dialogue: 0,0:01:03.63,0:01:07.80,Main,Junsa,0,0,0,,I believe a Pokémon’s behind it, \N but don’t know who.
 Dialogue: 0,0:01:07.80,0:01:09.76,Main,Kasumi,0,0,0,,A strange phenomenon?
@@ -66,9 +66,9 @@ Comment: 0,0:02:52.90,0:02:52.90,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:03:11.88,0:03:13.55,Main,Junsa,0,0,0,,Let’s split up and look around.
 Dialogue: 0,0:03:13.55,0:03:14.72,Main,Satoshi,0,0,0,,Right.
 Dialogue: 0,0:03:26.06,0:03:28.52,Main,Junsa,0,0,0,,Guardie, smell something?
-Dialogue: 0,0:03:33.65,0:03:35.24,Main,Kasumi,0,0,0,,Ms. Junsa, behind you!
+Dialogue: 0,0:03:33.65,0:03:35.24,Main,Kasumi,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}, behind you!
 Dialogue: 0,0:03:47.37,0:03:49.50,Main,Satoshi,0,0,0,,Gänger, use Shadow Ball!
-Dialogue: 0,0:03:54.51,0:03:56.84,Main,Satoshi,0,0,0,,Don’t let it get away, Pikachu! \N Electroweb!
+Dialogue: 0,0:03:54.51,0:03:56.84,Main,Satoshi,0,0,0,,Don’t let it get away, Pikachu! \N Electric Net!
 Dialogue: 0,0:04:01.80,0:04:03.56,Main,Takeshi,0,0,0,,A Jupetta?!
 Dialogue: 0,0:04:09.31,0:04:12.19,Main,Takeshi,0,0,0,,I’ve figured it out! \N It’s a Jupetta.
 Dialogue: 0,0:04:12.19,0:04:13.48,Main,Junsa,0,0,0,,Jupetta?
@@ -102,7 +102,7 @@ Dialogue: 0,0:06:49.64,0:06:51.31,Main,Kasumi,0,0,0,,We’re all hungry...
 Dialogue: 0,0:06:51.31,0:06:54.10,Main,Takeshi,0,0,0,,We haven’t eaten anything \N since midday.
 Dialogue: 0,0:06:55.73,0:06:57.86,Main,Joy,0,0,0,,Oh, is that so?
 Dialogue: 0,0:06:58.27,0:07:00.44,Main,Joy,0,0,0,,I’ll have to {original: improve the}increase security...
-Dialogue: 0,0:07:00.44,0:07:01.57,Main,Takeshi,0,0,0,,Ms. Joy!
+Dialogue: 0,0:07:00.44,0:07:01.57,Main,Takeshi,0,0,0,,Ms. Joy{Honorifics note: Joy-san}!
 Dialogue: 0,0:07:01.57,0:07:03.74,Main,Takeshi,0,0,0,,Your security is here.
 Dialogue: 0,0:07:03.74,0:07:07.66,Main,Takeshi,0,0,0,,Your heart’s worries are the key to unlock \N my blazing flames of love—{NEPish but different wording}
 Dialogue: 0,0:07:14.54,0:07:16.12,Main,Takeshi,0,0,0,,I shall be back!
@@ -118,7 +118,7 @@ Dialogue: 0,0:08:27.82,0:08:30.41,Main,Satoshi,0,0,0,,Kasumi! It wants your hair
 Dialogue: 0,0:08:30.41,0:08:31.57,Main,Kasumi,0,0,0,,Huh?!
 Dialogue: 0,0:08:31.57,0:08:33.03,Main,Satoshi,0,0,0,,Hey!
 Dialogue: 0,0:08:35.91,0:08:38.08,Main,Takeshi,0,0,0,,This girl...
-Dialogue: 0,0:08:41.08,0:08:44.46,Main,Satoshi,0,0,0,,For now, I gotta stop it. \N Pikachu, use Electroweb!
+Dialogue: 0,0:08:41.08,0:08:44.46,Main,Satoshi,0,0,0,,For now, I gotta stop it. \N Pikachu, use Electric Net!
 Dialogue: 0,0:08:49.26,0:08:50.84,Main,Satoshi,0,0,0,,Listen to me, Jupetta!
 Dialogue: 0,0:08:50.84,0:08:53.72,Main,Satoshi,0,0,0,,We might be able to help—
 Dialogue: 0,0:08:55.81,0:08:58.64,Main,Satoshi,0,0,0,,Wait! Gänger, follow it!
@@ -210,10 +210,10 @@ Dialogue: 0,0:17:07.01,0:17:09.80,Main,Satoshi,0,0,0,,He must be worried \N abou
 Dialogue: 0,0:17:58.10,0:18:00.23,Main,Kasumi,0,0,0,,What is it now, Takeshi?
 Dialogue: 0,0:18:00.23,0:18:04.56,Main,Takeshi,0,0,0,,I just feel like I’m overlooking \N something important...
 Dialogue: 0,0:18:06.61,0:18:07.57,Main,Joy,0,0,0,,Welcome back!
-Dialogue: 0,0:18:10.07,0:18:11.15,Main,Takeshi,0,0,0,,It’s Ms. Joy!
+Dialogue: 0,0:18:10.07,0:18:11.15,Main,Takeshi,0,0,0,,It’s Ms. Joy{Honorifics note: Joy-san}!
 Dialogue: 0,0:18:11.15,0:18:12.70,Main,Joy,0,0,0,,Y-Yes?
 Dialogue: 0,0:18:12.70,0:18:14.57,Main,Kasumi,0,0,0,,Excuse you? \N Learn when to give—
-Dialogue: 0,0:18:14.57,0:18:18.62,Main,Takeshi,0,0,0,,That’s right! It’s Ms. Joy! \N The girl in the photo!
+Dialogue: 0,0:18:14.57,0:18:18.62,Main,Takeshi,0,0,0,,That’s right! It’s Ms. Joy{Honorifics note: Joy-san}! \N The girl in the photo!
 Dialogue: 0,0:18:18.99,0:18:19.75,Main,Satoshi & Kasumi,0,0,0,,Huh?
 Dialogue: 0,0:18:33.84,0:18:35.80,Main,Satoshi & Kasumi,0,0,0,,Ahh!
 Dialogue: 0,0:18:35.80,0:18:39.06,Main,Joy,0,0,0,,Huh? What is it?
@@ -238,7 +238,7 @@ Dialogue: 0,0:20:16.61,0:20:19.07,Main,Joy,0,0,0,,Is that you, Gon-chan?
 Dialogue: 0,0:20:32.34,0:20:33.71,Main,Joy,0,0,0,,Gon-chan...
 Dialogue: 0,0:20:40.26,0:20:43.93,Main,Joy,0,0,0,,I’m sorry I left you all alone.
 Dialogue: 0,0:21:05.54,0:21:07.04,Main,Satoshi,0,0,0,,It looks good on you, Jupetta!
-Dialogue: 0,0:21:09.41,0:21:12.58,Main,Kasumi,0,0,0,,Now you’ll get to \N be with Ms. Joy forever.
+Dialogue: 0,0:21:09.41,0:21:12.58,Main,Kasumi,0,0,0,,Now you’ll get to \N be with Ms. Joy{Honorifics note: Joy-san} forever.
 Dialogue: 0,0:21:12.58,0:21:13.92,Main,Takeshi,0,0,0,,I’m so jealous!
 Dialogue: 0,0:21:13.92,0:21:16.17,Main,Joy,0,0,0,,Thank you so much.
 Dialogue: 0,0:21:16.17,0:21:18.72,Main,Joy,0,0,0,,The two of us working together \N is like a dream come true.

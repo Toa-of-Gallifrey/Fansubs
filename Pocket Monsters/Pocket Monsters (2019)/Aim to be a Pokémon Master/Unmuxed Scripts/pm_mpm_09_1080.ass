@@ -60,7 +60,7 @@ Dialogue: 0,0:01:44.13,0:01:47.42,Main,Nyarth,0,0,0,,It’s a great big gatherin
 Comment: 0,0:01:49.96,0:01:49.96,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:18.05,0:03:18.05,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:03:36.99,0:03:39.45,Main,Sakaki,0,0,0,,Musashi. Kojiro. Nyarth.
-Dialogue: 0,0:03:39.45,0:03:40.83,Main,Team Rocket,0,0,0,,{\i1}Sakaki, sir!{\i0}
+Dialogue: 0,0:03:39.45,0:03:40.83,Main,Team Rocket,0,0,0,,{\i1}Sakaki, sir{Honorifics note: Sakaki-sama}!{\i0}
 Dialogue: 0,0:03:41.20,0:03:44.70,Main,Sakaki,0,0,0,,These are the Pokémon \N you caught across various regions.
 Dialogue: 0,0:03:44.70,0:03:46.96,Main,Sakaki,0,0,0,,Take charge of managing them.
 Dialogue: 0,0:03:46.96,0:03:48.08,Main,Team Rocket,0,0,0,,{\i1}S-Sir!{\i0}
@@ -132,10 +132,10 @@ Dialogue: 0,0:08:22.65,0:08:26.11,Main,Kojiro,0,0,0,,Manene! \N Don’t go think
 Dialogue: 0,0:08:26.11,0:08:28.61,Main,Nyarth,0,0,0,,We won’t give up, meow!
 Dialogue: 0,0:08:28.61,0:08:31.16,Main,Musashi,0,0,0,,We’ll be coming back for you!
 Dialogue: 0,0:08:35.58,0:08:37.37,Main,Kasumi,0,0,0,,You don’t have to bother!
-Dialogue: 0,0:08:37.37,0:08:41.50,Main,Takeshi,0,0,0,,We need to hurry to Ms. Junsa! \N We don’t have a moment to waste!
-Dialogue: 0,0:08:41.50,0:08:45.05,Main,Takeshi,0,0,0,,So... I have a favor to ask, \N li’l Manene.
+Dialogue: 0,0:08:37.37,0:08:41.50,Main,Takeshi,0,0,0,,We need to hurry to Ms. Junsa{Honorifics note: Junsa-san}! \N We don’t have a moment to waste!
+Dialogue: 0,0:08:41.50,0:08:45.05,Main,Takeshi,0,0,0,,So... I have a favor to ask, \N li’l Manene{Honorifics note: Manene-chan}.
 Dialogue: 0,0:08:45.05,0:08:47.34,Main,Takeshi,0,0,0,,Once you meet her, please,
-Dialogue: 0,0:08:47.34,0:08:51.55,Main,Takeshi,0,0,0,,tell Ms. Junsa all about everything \N that I, Takeshi, did to protect—
+Dialogue: 0,0:08:47.34,0:08:51.55,Main,Takeshi,0,0,0,,tell Ms. Junsa{Honorifics note: Junsa-san} all about everything \N that I, Takeshi, did to protect—
 Dialogue: 0,0:08:53.60,0:08:57.35,Main,Takeshi,0,0,0,,Ow, ow, ow... \N Let me dream...
 Dialogue: 0,0:08:57.35,0:09:00.31,Main,Kasumi,0,0,0,,Okay, okay, \N you can dream when you’re asleep.
 Dialogue: 0,0:09:01.44,0:09:03.27,Main,Kasumi,0,0,0,,I’m going numb!
@@ -179,10 +179,10 @@ Dialogue: 0,0:12:39.78,0:12:41.78,Main,Satoshi,0,0,0,,Muscippa and Pumpjin!
 Dialogue: 0,0:12:43.03,0:12:44.08,Main,Satoshi,0,0,0,,Pikachu.
 Dialogue: 0,0:12:44.66,0:12:46.91,Main,Satoshi,0,0,0,,You take Manene.
 Dialogue: 0,0:12:46.91,0:12:49.29,Main,Satoshi,0,0,0,,I’ll hold these guys off!
-Dialogue: 0,0:12:50.04,0:12:52.38,Main,Satoshi,0,0,0,,Make sure it gets to Ms. Junsa!
+Dialogue: 0,0:12:50.04,0:12:52.38,Main,Satoshi,0,0,0,,Make sure it gets to Ms. Junsa{Honorifics note: Junsa-san}!
 Dialogue: 0,0:12:58.51,0:12:59.63,Main,Satoshi,0,0,0,,Go, Luchabull!
 Dialogue: 0,0:13:07.52,0:13:08.93,Main,Satoshi,0,0,0,,Let’s go!
-Dialogue: 0,0:13:43.39,0:13:47.22,Main,Musashi,0,0,0,,We’d never let you get away, \N li’l Manene.
+Dialogue: 0,0:13:43.39,0:13:47.22,Main,Musashi,0,0,0,,We’d never let you get away, \N li’l Manene{Honorifics note: Manene-chan}.
 Dialogue: 0,0:13:47.22,0:13:50.73,Main,Kojiro,0,0,0,,Team Rocket never forgives traitors.
 Dialogue: 0,0:13:51.39,0:13:53.31,Main,Nyarth,0,0,0,,Accept your punishment, meow.
 Dialogue: 0,0:14:01.74,0:14:04.11,Main,Kojiro,0,0,0,,Manene, prepare yourself!
@@ -298,8 +298,8 @@ Dialogue: 0,0:17:01.75,0:17:04.80,Insert,Team Rocket Theme,0,0,0,,{\an8}The litt
 Dialogue: 0,0:17:04.80,0:17:06.38,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Course, we’re villains!”
 Dialogue: 0,0:17:06.38,0:17:07.80,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:17:07.80,0:17:11.34,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
-Dialogue: 0,0:17:11.39,0:17:14.51,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off again,
-Dialogue: 0,0:17:14.51,0:17:17.68,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
+Dialogue: 0,0:17:11.39,0:17:14.51,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,
+Dialogue: 0,0:17:14.51,0:17:17.68,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny Earth,
 Dialogue: 0,0:17:17.68,0:17:20.98,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:17:20.98,0:17:25.86,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together! What a great feeling!
 Dialogue: 0,0:17:25.86,0:17:28.99,Insert,Team Rocket Theme,0,0,0,,{\an8}Wherever we land,
@@ -307,7 +307,7 @@ Dialogue: 0,0:17:28.99,0:17:32.20,Insert,Team Rocket Theme,0,0,0,,{\an8}we’ll 
 Dialogue: 0,0:17:32.20,0:17:35.49,Insert,Team Rocket Theme,0,0,0,,{\an8}We look up and see the shining moon
 Dialogue: 0,0:17:35.49,0:17:38.58,Insert,Team Rocket Theme,0,0,0,,{\an8}We look each other in the eye and laugh together
 Dialogue: 0,0:17:41.83,0:17:48.34,Insert,Team Rocket Theme,0,0,0,,{\an8}We’re the invincible Team Rocket!
-Dialogue: 0,0:17:48.34,0:17:51.93,Insert,Team Rocket Theme,0,0,0,,{\an8}Scaring crying children into silence...
+Dialogue: 0,0:17:48.34,0:17:51.93,Insert,Team Rocket Theme,0,0,0,,{\an8}Tricking crying children into silence...
 Dialogue: 0,0:17:51.93,0:17:53.93,Insert,Team Rocket Theme,0,0,0,,{\an8}Team Rocket!
 Comment: 0,0:00:25.13,0:00:25.13,Main,,0,0,0,,
 Dialogue: 0,0:01:54.89,0:01:56.43,Logo - Glow,,0,0,0,,{\fad(232,0)\fsp-60\bord9.75\blur4.125\fscx90\fscy90\pos(615.87,295.2)}P{\fsp-75}o{\fsp-79.995}c{\fsp-88.005}k{\fsp-79.995}e{\fsp-34.995}t{\fsp-60}M{\fsp-72}o{\fsp-75}n{\fsp-70.005}s{\fsp-79.995}t{\fsp-90}e{\fsp-78}rs

@@ -193,7 +193,7 @@ Dialogue: 0,0:13:37.59,0:13:41.88,Main,Team Rocket,0,0,0,,{\i1}What an awful fee
 Dialogue: 0,0:13:50.18,0:13:53.77,Main,Junsa,0,0,0,,When you realized Konpang was gone, \N where were you?
 Dialogue: 0,0:13:54.65,0:13:57.15,Main,Trainer of Kong the Pang,0,0,0,,It was when I was crossing \N that intersection...
 Dialogue: 0,0:13:57.15,0:14:00.03,Main,Junsa,0,0,0,,Understood. \N I’ll see if I can find it.
-Dialogue: 0,0:14:00.03,0:14:03.41,Main,Takeshi,0,0,0,,Ms. Junsa! \N Is something wrong?
+Dialogue: 0,0:14:00.03,0:14:03.41,Main,Takeshi,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}! \N Is something wrong?
 Dialogue: 0,0:14:03.41,0:14:05.62,Main,Junsa,0,0,0,,Yes... \N A Pokémon is missing.
 Dialogue: 0,0:14:05.95,0:14:08.49,Main,Takeshi,0,0,0,,Let me accompany you \N in your search.
 Dialogue: 0,0:14:08.49,0:14:10.70,Main,Junsa,0,0,0,,Huh? N-No, I’ll be fine.
@@ -204,7 +204,7 @@ Dialogue: 0,0:14:18.67,0:14:21.97,Main,Kasumi,0,0,0,,Okay, okay... Don’t bothe
 Dialogue: 0,0:14:21.97,0:14:25.18,Main,Takeshi,0,0,0,,Double the straight men, \N double the punishment...
 Dialogue: 0,0:14:37.44,0:14:40.19,Main,Junsa,0,0,0,,Thank you for your cooperation.
 Dialogue: 0,0:14:40.19,0:14:41.78,Main,Human being,0,0,0,,Look! It’s a fire!
-Dialogue: 0,0:14:41.78,0:14:43.70,Main,Human being,0,0,0,,Isn’t that the \N warehouse district?!
+Dialogue: 0,0:14:41.78,0:14:43.70,Main,Human being,0,0,0,,Isn’t that the warehouse district?!
 Dialogue: 0,0:14:43.70,0:14:45.03,Main,Junsa,0,0,0,,Oh, no!
 Dialogue: 0,0:14:46.91,0:14:48.83,Main,Takeshi,0,0,0,,What’s all this noise about?
 Dialogue: 0,0:14:48.83,0:14:50.58,Main,Kasumi,0,0,0,,Hey, what’s that smoke?
@@ -258,7 +258,7 @@ Dialogue: 0,0:19:35.28,0:19:37.07,Main,Satoshi,0,0,0,,You’re incredible, Zenig
 Dialogue: 0,0:19:52.59,0:19:55.97,Main,Kasumi,0,0,0,,We never did find out \N why they were fighting.
 Dialogue: 0,0:19:55.97,0:20:00.05,Main,Takeshi,0,0,0,,Well, they’ve made up now, \N so all’s well that ends well.
 Dialogue: 0,0:20:08.31,0:20:11.02,Main,Junsa,0,0,0,,What a relief. \N There you are!
-Dialogue: 0,0:20:11.98,0:20:15.11,Main,Takeshi,0,0,0,,Double the Ms. Junsas, \N double the joy!
+Dialogue: 0,0:20:11.98,0:20:15.11,Main,Takeshi,0,0,0,,Double the Ms. Junsa{Honorifics note: Junsa-san}s, \N double the joy!
 Dialogue: 0,0:20:16.07,0:20:20.32,Main,Kasumi,0,0,0,,So then, those managers \N took the Zenigame Fire Squad without telling you?
 Dialogue: 0,0:20:20.32,0:20:23.45,Main,Junsa,0,0,0,,Yes. I’m glad I finally \N found them again.
 Dialogue: 0,0:20:23.45,0:20:26.91,Main,Junsa,0,0,0,,Allow me to donate \N the merch proceeds to this town.
@@ -279,7 +279,7 @@ Dialogue: 0,0:21:20.63,0:21:22.39,Main,Satoshi,0,0,0,,Huh? Me?
 Dialogue: 0,0:21:23.39,0:21:25.35,Main,Takeshi,0,0,0,,Guess we had a famous face \N in our midst, too.
 Dialogue: 0,0:21:25.76,0:21:26.85,Main,Child,0,0,0,,Shake my hand!
 Dialogue: 0,0:21:26.85,0:21:28.35,Main,Child,0,0,0,,Let me hug Pikachu!
-Dialogue: 0,0:21:28.35,0:21:29.81,Main,Child,0,0,0,,Ms. Kasumi! Mr. Takeshi!
+Dialogue: 0,0:21:28.35,0:21:29.81,Main,Child,0,0,0,,Ms. Kasumi{Honorifics note: Kasumi-san}! Mr. Takeshi{Honorifics note: Takeshi-san}!
 Dialogue: 0,0:21:29.81,0:21:31.23,Main,Takeshi,0,0,0,,I’m popular!
 Dialogue: 0,0:21:31.23,0:21:35.73,Main,Narrator,0,0,0,,Bidding the Zenigame Fire Squad farewell, \N Satoshi and friends set off once again.
 Dialogue: 0,0:21:35.73,0:21:39.86,Main,Narrator,0,0,0,,What sort of Pokémon \N and adventures await them?
