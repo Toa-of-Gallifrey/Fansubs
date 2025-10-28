@@ -88,7 +88,7 @@ Dialogue: 0,0:03:55.59,0:03:56.31,Main,Satoshi,0,0,0,,Ow!
 Dialogue: 0,0:03:57.18,0:03:58.04,Main,Satoshi,0,0,0,,What?
 Dialogue: 0,0:04:00.78,0:04:02.51,Main,Satoshi,0,0,0,,Ow! Ow!
 Dialogue: 0,0:04:08.71,0:04:09.35,Main,Go,0,0,0,,Gänger!
-Dialogue: 0,0:04:10.73,0:04:12.80,Main,Satoshi,0,0,0,,Pikachu, use Electroweb!
+Dialogue: 0,0:04:10.73,0:04:12.80,Main,Satoshi,0,0,0,,Pikachu, use Electric Net!
 Dialogue: 0,0:04:22.23,0:04:24.33,Main,Satoshi,0,0,0,,Cut it out!{015 NEP}
 Dialogue: 0,0:04:27.83,0:04:28.79,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 0,0:04:33.61,0:04:34.90,Main,Go,0,0,0,,It ran away?
@@ -185,7 +185,7 @@ Dialogue: 0,0:12:13.48,0:12:15.12,Main,Go,0,0,0,,Pocket Monsters!
 Comment: 0,0:12:18.46,0:12:18.46,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:12:29.03,0:12:30.81,Main,Green chick,0,0,0,,Wh-What? No way!
 Dialogue: 0,0:12:31.23,0:12:34.14,Main,Satoshi,0,0,0,,Stop it, Gänger! \N That’s your trainer, right?
-Dialogue: 0,0:12:36.99,0:12:38.23,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:12:36.99,0:12:38.23,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:12:43.64,0:12:45.03,Main,Satoshi,0,0,0,,Calm down, already!
 Dialogue: 0,0:12:45.51,0:12:47.74,Main,Satoshi,0,0,0,,That Gänger is yours, right?!
 Dialogue: 0,0:12:47.74,0:12:49.24,Main,Satoshi,0,0,0,,You should listen to...
@@ -1558,8 +1558,8 @@ Dialogue: 1,0:22:07.05,0:22:10.05,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.05,0:22:10.05,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.05,0:22:13.39,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.05,0:22:13.39,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.39,0:22:16.39,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.39,0:22:16.39,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.39,0:22:16.39,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.39,0:22:16.39,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.39,0:22:20.02,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.39,0:22:20.02,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.42,0:22:47.29,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

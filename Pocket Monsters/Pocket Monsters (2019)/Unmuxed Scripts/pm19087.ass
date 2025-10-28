@@ -85,7 +85,7 @@ Dialogue: 0,0:02:09.61,0:02:11.13,Main,Koharu,0,0,0,,I’m coming!
 Comment: 0,0:02:17.62,0:02:17.62,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:45.71,0:03:45.71,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:04:00.13,0:04:05.14,Main,Go,0,0,0,,...and what does the inside \N of Satoshi’s head look like?
-Dialogue: 0,0:04:05.84,0:04:10.10,Main,Go,0,0,0,,It’s pretty much just stuffed \N with Pokémon and Pokémon battles!
+Dialogue: 0,0:04:05.84,0:04:10.10,Main,Go,0,0,0,,It’s pretty much just stuffed \N with Pokémon and Pokémon Battles!
 Dialogue: 0,0:04:10.72,0:04:12.73,Main,Satoshi,0,0,0,,That’s not true!
 Dialogue: 0,0:04:12.73,0:04:14.21,Main,Go,0,0,0,,It is, though.
 Dialogue: 0,0:04:14.21,0:04:16.58,Main,Satoshi,0,0,0,,I think about other stuff, too!
@@ -331,7 +331,7 @@ Dialogue: 0,0:20:45.64,0:20:48.05,Main,Koharu,0,0,0,,“I’ve been doing great.
 Dialogue: 0,0:20:48.05,0:20:48.96,Main,Koharu,0,0,0,,“Mieze hasn’t sent out...”
 Dialogue: 0,0:20:48.96,0:20:52.01,Main,Regina,0,0,0,,Mieze hasn’t sent out \N a single Blizzard ever since.
 Dialogue: 0,0:20:52.01,0:20:55.83,Main,Koharu,0,0,0,,Oh, I mean those \N {\i1}really{\i0} powerful Blizzards.
-Dialogue: 0,0:20:56.61,0:20:59.74,Main,Regina,0,0,0,,I’m really into \N Pokémon battles now.
+Dialogue: 0,0:20:56.61,0:20:59.74,Main,Regina,0,0,0,,I’m really into \N Pokémon Battles now.
 Dialogue: 0,0:21:00.87,0:21:02.57,Main,Bully,0,0,0,,Go, Utsubot!
 Dialogue: 0,0:21:12.08,0:21:16.05,Main,Regina,0,0,0,,We’ll come and visit during school break, \N so look forward to it!
 Dialogue: 0,0:21:16.05,0:21:17.46,Main,Koharu,0,0,0,,“Regina.”

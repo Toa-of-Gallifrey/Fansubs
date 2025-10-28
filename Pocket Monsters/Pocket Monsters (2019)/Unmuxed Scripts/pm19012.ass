@@ -54,7 +54,7 @@ Dialogue: 0,0:00:35.68,0:00:38.31,Main,Kikuna,0,0,0,,...the world’s strongest,
 Dialogue: 0,0:00:38.31,0:00:39.89,Main,Satoshi,0,0,0,,The world’s strongest?!
 Dialogue: 0,0:00:39.89,0:00:43.75,Main,Go,0,0,0,,And these tickets are \N for the {\i1}finals!{\i0}
 Dialogue: 0,0:00:43.75,0:00:45.49,Main,Satoshi,0,0,0,,So, that means...
-Dialogue: 0,0:00:45.49,0:00:48.90,Main,Satoshi,0,0,0,,We’ll get to see the Pokémon battle \N that’ll decide the world’s strongest?!
+Dialogue: 0,0:00:45.49,0:00:48.90,Main,Satoshi,0,0,0,,We’ll get to see the Pokémon Battle \N that’ll decide the world’s strongest?!
 Dialogue: 0,0:00:48.90,0:00:50.18,Main,Sakuragi,0,0,0,,Indeed!
 Dialogue: 0,0:00:50.18,0:00:51.53,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 0,0:00:52.05,0:00:53.95,Main,Sakuragi,0,0,0,,It will be held in the Galar Region.
@@ -112,7 +112,7 @@ Dialogue: 0,0:05:56.22,0:05:59.09,Main,Musashi,0,0,0,,Those gigantifying Pokémo
 Dialogue: 0,0:05:59.09,0:06:00.52,Main,Kojiro,0,0,0,,Operation: Catch Them!{大作戦 - Should we do anything in particular with the dai? Apparently Operation: Dub Pikachu in 041 was also a dai sakusen, as was the Kairyu mission in 010. Go also says 大作戦 in the Bachinkey episode. - Toa of the Batch}
 Dialogue: 0,0:06:00.52,0:06:04.29,Main,Nyarth,0,0,0,,And for that purpose, we’ve been provided \N with a new item too, meow!
 Dialogue: 0,0:06:10.02,0:06:14.90,Main,Announcer,0,0,0,,Ladies and gentlemen! \N The time has come at last!
-Dialogue: 0,0:06:14.90,0:06:21.18,Main,Announcer,0,0,0,,{\q2}The world’s biggest and greatest \N Pokémon battle festival to crown the world’s strongest!
+Dialogue: 0,0:06:14.90,0:06:21.18,Main,Announcer,0,0,0,,{\q2}The world’s biggest and greatest \N Pokémon Battle festival to crown the world’s strongest!
 Dialogue: 0,0:06:21.18,0:06:25.80,Main,Announcer,0,0,0,,Its name? \N The Pokémon World Championships!
 Dialogue: 0,0:06:29.28,0:06:34.38,Main,Announcer,0,0,0,,The top eight battlers certified \N by the Pokémon Battle Commission,
 Dialogue: 0,0:06:34.38,0:06:38.81,Main,Announcer,0,0,0,,the Masters Eight, have duked it out \N in a fierce tournament!
@@ -193,7 +193,7 @@ Dialogue: 0,0:12:05.46,0:12:07.38,Main,Dande,0,0,0,,Lizardon, are you all right?
 Dialogue: 0,0:12:09.79,0:12:11.25,Main,Wataru,0,0,0,,Keep up the pressure!
 Dialogue: 0,0:12:11.25,0:12:12.54,Main,Wataru,0,0,0,,Ice Fang flurry!
 Dialogue: 0,0:12:16.61,0:12:17.92,Main,Announcer,0,0,0,,Ferocious!
-Dialogue: 0,0:12:17.92,0:12:23.51,Main,Announcer,0,0,0,,Having raised its speed and power, \N Gyarados wraps around Lizardon and attacks nonstop!
+Dialogue: 0,0:12:17.92,0:12:23.51,Main,Announcer,0,0,0,,Having raised its speed and power, \N Gyarados wraps around Lizardon and attacks non-stop!
 Dialogue: 0,0:12:23.51,0:12:26.26,Main,Dande,0,0,0,,Shake it off, Lizardon! \N Fire Vortex!
 Dialogue: 0,0:12:31.19,0:12:34.61,Main,Announcer,0,0,0,,What’s this?! Gyarados is \N locked in place by Fire Vortex!
 Dialogue: 0,0:12:34.61,0:12:35.93,Main,Go,0,0,0,,You’re kidding!
@@ -1523,8 +1523,8 @@ Dialogue: 1,0:22:07.18,0:22:10.18,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.18,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.18,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.18,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.52,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.52,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.52,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.52,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.52,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.52,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.55,0:22:47.42,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

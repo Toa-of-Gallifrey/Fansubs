@@ -46,7 +46,7 @@ Dialogue: 0,0:00:01.40,0:00:05.23,Main,Narrator,0,0,0,,Satoshi, who aims to batt
 Dialogue: 0,0:00:05.23,0:00:10.24,Main,Narrator,0,0,0,,And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
 Dialogue: 0,0:00:10.24,0:00:15.53,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 0,0:00:19.76,0:00:22.16,Main,Narrator,0,0,0,,The Pokémon World Championships... {Copy-paste from episode 51 START}
-Dialogue: 0,0:00:22.16,0:00:25.67,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon battler.
+Dialogue: 0,0:00:22.16,0:00:25.67,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon Battler.
 Dialogue: 0,0:00:26.12,0:00:28.59,Main,Narrator,0,0,0,,Satoshi is currently ranked 99th.
 Dialogue: 0,0:00:28.59,0:00:32.01,Main,Narrator,0,0,0,,He has finally entered the Hyper Class.
 Dialogue: 0,0:00:32.01,0:00:38.17,Main,Narrator,0,0,0,,His first opponent{for his first battle} will be \N Denji from Sinnoh, Nagisa{~~Sandy~~} City’s Gym Leader.
@@ -81,28 +81,28 @@ Dialogue: 0,0:03:48.06,0:03:48.99,Main,Drone Rotom,0,0,0,,{2}
 Dialogue: 0,0:03:48.99,0:03:50.03,Main,Drone Rotom,0,0,0,,{1}
 Dialogue: 0,0:03:50.03,0:03:50.62,Main,Drone Rotom,0,0,0,,Go!
 Dialogue: 0,0:03:50.62,0:03:51.71,Main,Satoshi,0,0,0,,Lucario!
-Dialogue: 0,0:03:51.71,0:03:52.22,Main,Denji,0,0,0,,Rentorar!
+Dialogue: 0,0:03:51.71,0:03:52.22,Main,Denji,0,0,0,,Roentorar!
 Dialogue: 0,0:03:52.22,0:03:53.35,Main,Satoshi,0,0,0,,I choose you!
 Dialogue: 0,0:03:53.35,0:03:54.59,Main,Denji,0,0,0,,Go!
-Dialogue: 0,0:04:02.59,0:04:06.01,Main,Rotom Go Ver,0,0,0,,Rentorar! Gleam Eyes Pokémon! \N Electric type!
+Dialogue: 0,0:04:02.59,0:04:06.01,Main,Rotom Go Ver,0,0,0,,Roentorar! Gleaming Eyes Pokémon! \N Electric type!
 Dialogue: 0,0:04:06.01,0:04:11.73,Main,Rotom Go Ver,0,0,0,,It can see through solid objects! \N It can track down prey trying to hide behind thick walls!{Reworded Sword dex entry -blu}
 Dialogue: 0,0:04:12.14,0:04:14.10,Main,Rotom,0,0,0,,Battle, start!
-Dialogue: 0,0:04:14.96,0:04:15.98,Main,Denji,0,0,0,,Electro Field!
-Dialogue: 0,0:04:19.87,0:04:21.79,Main,Commentator,0,0,0,,He deployed an Electro Field!
+Dialogue: 0,0:04:14.96,0:04:15.98,Main,Denji,0,0,0,,Electric Field!
+Dialogue: 0,0:04:19.87,0:04:21.79,Main,Commentator,0,0,0,,He deployed an Electric Field!
 Dialogue: 0,0:04:21.79,0:04:25.33,Main,Commentator,0,0,0,,That makes Electric-type moves \N more powerful!
-Dialogue: 0,0:04:25.33,0:04:28.16,Main,Satoshi,0,0,0,,I thought you might start \N with Electro Field...
+Dialogue: 0,0:04:25.33,0:04:28.16,Main,Satoshi,0,0,0,,I thought you might start \N with Electric Field...
 Dialogue: 0,0:04:30.91,0:04:32.54,Main,Go,0,0,0,,Satoshi’s got a few tricks \N of his own!
 Dialogue: 0,0:04:35.03,0:04:36.79,Main,Satoshi,0,0,0,,Lucario! Guiding Wave Sphere!
 Dialogue: 0,0:04:43.93,0:04:45.72,Main,Denji,0,0,0,,Rising Bolt!{Bulba has ‘Rising Volt’, but maybe a ‘bolt’ makes more sense than a ‘volt’ here... -blu}{I second "Bolt". - Toa}
 Dialogue: 0,0:04:58.94,0:04:59.95,Main,Satoshi,0,0,0,,Lucario!
-Dialogue: 0,0:05:01.18,0:05:05.20,Main,Commentator,0,0,0,,The combo of Electro Field \N and Rising Bolt broke through!
+Dialogue: 0,0:05:01.18,0:05:05.20,Main,Commentator,0,0,0,,The combo of Electric Field \N and Rising Bolt broke through!
 Dialogue: 0,0:05:05.20,0:05:07.34,Main,Go,0,0,0,,That’s so powerful!
 Dialogue: 0,0:05:10.24,0:05:11.79,Main,Satoshi,0,0,0,,Return, Lucario!
 Dialogue: 0,0:05:13.42,0:05:15.07,Main,Satoshi,0,0,0,,Rest up for a while.
-Dialogue: 0,0:05:16.83,0:05:19.46,Main,Satoshi,0,0,0,,That Electro Field is {\i1}nasty...{\i0}
+Dialogue: 0,0:05:16.83,0:05:19.46,Main,Satoshi,0,0,0,,That Electric Field is {\i1}nasty...{\i0}
 Dialogue: 0,0:05:23.92,0:05:27.05,Main,Satoshi,0,0,0,,Next up... Gänger! \N I choose you!
 Dialogue: 0,0:05:29.47,0:05:32.27,Main,Commentator,0,0,0,,Competitor Satoshi’s \N second Pokémon is Gänger!
-Dialogue: 0,0:05:34.25,0:05:35.64,Main,Denji,0,0,0,,Rentorar! Bark Out!
+Dialogue: 0,0:05:34.25,0:05:35.64,Main,Denji,0,0,0,,Roentorar! Bark Out!
 Dialogue: 0,0:05:41.11,0:05:42.62,Main,Commentator,0,0,0,,It dodged the Bark Out!
 Dialogue: 0,0:05:42.62,0:05:43.44,Main,Denji,0,0,0,,What?!
 Dialogue: 0,0:05:43.44,0:05:44.90,Main,Satoshi,0,0,0,,Psychokinesis!
@@ -110,10 +110,10 @@ Dialogue: 0,0:05:59.84,0:06:01.30,Main,Satoshi,0,0,0,,Night Head!
 Dialogue: 0,0:06:15.27,0:06:16.52,Main,Satoshi,0,0,0,,Good job, Gänger!
 Dialogue: 0,0:06:17.39,0:06:19.38,Main,Go,0,0,0,,All right! You can do this!
 Dialogue: 0,0:06:26.06,0:06:28.56,Main,Commentator,0,0,0,,What a tricky Gänger!
-Dialogue: 0,0:06:28.56,0:06:30.70,Main,Commentator,0,0,0,,Rentorar can’t move a step!
-Dialogue: 0,0:06:31.13,0:06:32.95,Main,Denji,0,0,0,,Return, Rentorar!
+Dialogue: 0,0:06:28.56,0:06:30.70,Main,Commentator,0,0,0,,Roentorar can’t move a step!
+Dialogue: 0,0:06:31.13,0:06:32.95,Main,Denji,0,0,0,,Return, Roentorar!
 Dialogue: 0,0:06:37.46,0:06:40.03,Main,Denji,0,0,0,,Your Gänger \N is quite the opponent.
-Dialogue: 0,0:06:40.03,0:06:42.38,Main,Denji,0,0,0,,Not much can bewilder \N my Rentorar like that. {Leaving "bewilder" untouched but tagging for later in case there's a better word. - Toa}
+Dialogue: 0,0:06:40.03,0:06:42.38,Main,Denji,0,0,0,,Not much can bewilder \N my Roentorar like that. {Leaving "bewilder" untouched but tagging for later in case there's a better word. - Toa}
 Dialogue: 0,0:06:43.58,0:06:46.01,Main,Satoshi,0,0,0,,Gänger! \N Go bewilder ‘em some more!
 Dialogue: 0,0:06:47.13,0:06:50.14,Main,Denji,0,0,0,,So... how will you fight {\i1}this?!{\i0}
 Dialogue: 0,0:06:53.50,0:06:56.57,Main,Commentator,0,0,0,,Competitor Denji’s second pick \N is a Spin Forme Rotom!
@@ -139,11 +139,11 @@ Dialogue: 0,0:08:24.73,0:08:29.06,Main,Commentator,0,0,0,,Competitor Denji overp
 Dialogue: 0,0:08:30.19,0:08:31.24,Main,Satoshi,0,0,0,,Gänger!
 Dialogue: 0,0:08:34.87,0:08:36.18,Main,Satoshi,0,0,0,,You okay?
 Dialogue: 0,0:08:44.10,0:08:45.83,Main,Drone Rotom,0,0,0,,Gänger is unable to battle.{~~has given up the ghost.~~ -blu}
-Dialogue: 0,0:08:47.84,0:08:51.84,Main,Commentator,0,0,0,,Even though it put up a good fight \N against Rentorar, Gänger quickly goes down!
+Dialogue: 0,0:08:47.84,0:08:51.84,Main,Commentator,0,0,0,,Even though it put up a good fight \N against Roentorar, Gänger quickly goes down!
 Dialogue: 0,0:08:52.84,0:08:53.76,Main,Satoshi,0,0,0,,Return, Gänger!
 Dialogue: 0,0:08:55.77,0:08:57.03,Main,Satoshi,0,0,0,,Thanks.
 Dialogue: 0,0:08:57.03,0:08:58.47,Main,Satoshi,0,0,0,,You held your ground{out} well.
-Dialogue: 0,0:09:02.20,0:09:05.35,Main,Commentator,0,0,0,,Oh? The Electro Field’s effect faded!
+Dialogue: 0,0:09:02.20,0:09:05.35,Main,Commentator,0,0,0,,Oh? The Electric Field’s effect faded!
 Dialogue: 0,0:09:08.36,0:09:11.23,Main,Satoshi,0,0,0,,We better not let Gänger down.
 Dialogue: 0,0:09:13.37,0:09:16.70,Main,Satoshi,0,0,0,,I’m counting on you next! \N Pikachu!
 Dialogue: 0,0:09:18.32,0:09:21.72,Main,Commentator,0,0,0,,Competitor Satoshi’s \N third Pokémon is Pikachu!
@@ -151,8 +151,8 @@ Dialogue: 0,0:09:21.72,0:09:22.70,Main,Denji,0,0,0,,Pikachu, huh?
 Dialogue: 0,0:09:24.52,0:09:26.59,Main,Commentator,0,0,0,,It’s a battle between Electric types.
 Dialogue: 0,0:09:26.59,0:09:30.45,Main,Commentator,0,0,0,,Electric moves can’t deal \N much damage to Electric types.{Fan Rotom is PART FLYING THOUGH!!!!!!!!!!!!!!!!! -Starfish the occasional Rules Lawyer}
 Dialogue: 0,0:09:30.45,0:09:33.09,Main,Commentator,0,0,0,,How will they contend with this?!
-Dialogue: 0,0:09:33.09,0:09:35.13,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
-Dialogue: 0,0:09:40.18,0:09:42.18,Main,Denji,0,0,0,,He learned Electroweb?
+Dialogue: 0,0:09:33.09,0:09:35.13,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
+Dialogue: 0,0:09:40.18,0:09:42.18,Main,Denji,0,0,0,,He learned Electric Net?
 Dialogue: 0,0:09:44.35,0:09:45.35,Main,Go,0,0,0,,He caught it!
 Dialogue: 0,0:09:45.35,0:09:47.06,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 0,0:09:45.88,0:09:47.06,Main,Denji,0,0,0,,{\an8}Return, Rotom!
@@ -215,17 +215,17 @@ Dialogue: 0,0:14:52.11,0:14:53.60,Main,Satoshi,0,0,0,,Can you keep going?
 Dialogue: 0,0:14:56.33,0:14:58.59,Main,Denji,0,0,0,,The Guiding Wave Pokémon \N lives up to its fame.{sasuga line -blu}
 Dialogue: 0,0:14:58.59,0:15:01.58,Main,Denji,0,0,0,,It even shook off \N its paralysis with that attack.
 Dialogue: 0,0:15:01.58,0:15:04.45,Main,Go,0,0,0,,Is Lucario going to \N win this for him?!
-Dialogue: 0,0:15:06.09,0:15:08.76,Main,Denji,0,0,0,,Go! Rentorar!
-Dialogue: 0,0:15:08.76,0:15:11.84,Main,Commentator,0,0,0,,Competitor Denji sends out \N Rentorar once again!
+Dialogue: 0,0:15:06.09,0:15:08.76,Main,Denji,0,0,0,,Go! Roentorar!
+Dialogue: 0,0:15:08.76,0:15:11.84,Main,Commentator,0,0,0,,Competitor Denji sends out \N Roentorar once again!
 Dialogue: 0,0:15:11.84,0:15:16.32,Main,Satoshi,0,0,0,,Two left... I know what Pokémon \N Mr. Denji{Honorifics note: Denji-san} has.
 Dialogue: 0,0:15:16.32,0:15:17.86,Main,Satoshi,0,0,0,,Time to finish this quick!
-Dialogue: 0,0:15:18.27,0:15:19.39,Main,Denji,0,0,0,,Electro Field!
+Dialogue: 0,0:15:18.27,0:15:19.39,Main,Denji,0,0,0,,Electric Field!
 Dialogue: 0,0:15:23.05,0:15:26.40,Main,Commentator,0,0,0,,And there it is! \N He takes control of the field again!
 Dialogue: 0,0:15:26.40,0:15:27.44,Main,Satoshi,0,0,0,,Guiding Wave Sphere!
 Dialogue: 0,0:15:30.90,0:15:32.33,Main,Denji,0,0,0,,Rising Bolt!
 Dialogue: 0,0:15:44.50,0:15:45.42,Main,Satoshi,0,0,0,,Lucario!
-Dialogue: 0,0:15:45.42,0:15:46.38,Main,Denji,0,0,0,,Rentorar!
-Dialogue: 0,0:16:02.30,0:16:05.49,Main,Drone Rotom,0,0,0,,Rentorar and Lucario \N are unable to battle.
+Dialogue: 0,0:15:45.42,0:15:46.38,Main,Denji,0,0,0,,Roentorar!
+Dialogue: 0,0:16:02.30,0:16:05.49,Main,Drone Rotom,0,0,0,,Roentorar and Lucario \N are unable to battle.
 Dialogue: 0,0:16:05.49,0:16:08.15,Main,Commentator,0,0,0,,An incredible double knockout!
 Dialogue: 0,0:16:08.15,0:16:12.91,Main,Commentator,0,0,0,,Now the battle comes down \N to Elecible against Pikachu!
 Dialogue: 0,0:16:12.91,0:16:14.76,Main,Go,0,0,0,,They took each other out...
@@ -243,7 +243,7 @@ Dialogue: 0,0:16:46.16,0:16:47.61,Main,Denji,0,0,0,,Wild Bolt!
 Dialogue: 0,0:16:58.70,0:17:01.66,Main,Go,0,0,0,,How can they be {\i1}that{\i0} strong?!
 Dialogue: 0,0:17:04.70,0:17:09.09,Main,Commentator,0,0,0,,Elecible is completely unfazed \N by Wild Bolt’s recoil damage!
 Dialogue: 0,0:17:10.72,0:17:12.56,Main,Satoshi,0,0,0,,Pikachu! You okay?
-Dialogue: 0,0:17:16.74,0:17:18.35,Main,Commentator,0,0,0,,Electro Field’s effect has faded!
+Dialogue: 0,0:17:16.74,0:17:18.35,Main,Commentator,0,0,0,,Electric Field’s effect has faded!
 Dialogue: 0,0:17:18.71,0:17:21.30,Main,Go,0,0,0,,But it’s so huge compared to Pikachu...{lit. But with this size difference...}
 Dialogue: 0,0:17:21.30,0:17:22.85,Main,Go,0,0,0,,What now, Satoshi?!
 Dialogue: 0,0:17:24.85,0:17:26.86,Main,Denji,0,0,0,,Elecible! Use Iron Tail!

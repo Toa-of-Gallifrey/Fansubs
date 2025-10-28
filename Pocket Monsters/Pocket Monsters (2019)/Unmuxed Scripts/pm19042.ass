@@ -197,11 +197,11 @@ Dialogue: 0,0:15:30.75,0:15:33.93,Main,Satoshi,0,0,0,,Maruyakude, you must have 
 Dialogue: 0,0:15:38.29,0:15:40.88,Main,Satoshi,0,0,0,,I have to... \N I have to do something...
 Dialogue: 0,0:15:41.44,0:15:43.08,Main,Satoshi,0,0,0,,Pikachu! Let’s do it!
 Dialogue: 0,0:15:43.85,0:15:45.17,Main,Satoshi,0,0,0,,Riolu, you too!
-Dialogue: 0,0:15:54.25,0:15:56.92,Main,Satoshi,0,0,0,,Pikachu, use Electroweb! \N Riolu, use Vacuum Wave!
+Dialogue: 0,0:15:54.25,0:15:56.92,Main,Satoshi,0,0,0,,Pikachu, use Electric Net! \N Riolu, use Vacuum Wave!
 Dialogue: 0,0:16:14.30,0:16:15.57,Main,Satoshi,0,0,0,,No way...
 Dialogue: 0,0:16:21.95,0:16:24.32,Main,Satoshi,0,0,0,,Kairyu! I choose you!
 Dialogue: 0,0:16:31.88,0:16:33.76,Main,Satoshi,0,0,0,,Kairyu! Hurricane!
-Dialogue: 0,0:16:33.76,0:16:35.79,Main,Satoshi,0,0,0,,Pikachu, use Electroweb!
+Dialogue: 0,0:16:33.76,0:16:35.79,Main,Satoshi,0,0,0,,Pikachu, use Electric Net!
 Dialogue: 0,0:16:35.79,0:16:37.63,Main,Satoshi,0,0,0,,Riolu, use Vacuum Wave!
 Dialogue: 0,0:17:04.96,0:17:06.17,Main,Satoshi,0,0,0,,Ugh... {Toned down because kids' show. -Starfish}
 Dialogue: 0,0:17:06.66,0:17:08.66,Main,Satoshi,0,0,0,,It didn’t do anything...
@@ -1007,8 +1007,8 @@ Dialogue: 1,0:22:07.18,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.53,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 0,0:22:16.53,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

@@ -42,7 +42,7 @@ Style: Answer,FOT-Slump Std DB,48,&H00FDFFFF,&H00F5FEF5,&H00293251,&HFF293251,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 0,0:00:13.16,0:00:19.00,Main,Narrator,0,0,0,,{\q2}The world’s biggest and greatest \N Pokémon battle festival to crown the world’s strongest...{Repeated wording from episode 12}
+Dialogue: 0,0:00:13.16,0:00:19.00,Main,Narrator,0,0,0,,{\q2}The world’s biggest and greatest \N Pokémon Battle festival to crown the world’s strongest...{Repeated wording from episode 12}
 Dialogue: 0,0:00:19.00,0:00:20.71,Main,Narrator,0,0,0,,...is finally here.
 Dialogue: 0,0:00:21.50,0:00:26.26,Main,Narrator,0,0,0,,{\an8}That is... the Pokémon World Championships \N Masters Tournament.
 Dialogue: 0,0:00:26.80,0:00:30.89,Main,Narrator,0,0,0,,Satoshi and Pikachu have arrived \N at the place these fateful battles will be held.
@@ -109,7 +109,7 @@ Dialogue: 0,0:05:06.83,0:05:08.79,Main,Go,0,0,0,,I’m Go. \N Nice to meet you.
 Dialogue: 0,0:05:08.79,0:05:11.42,Main,Hop,0,0,0,,Yeah! Let’s make some noise!
 Dialogue: 0,0:05:11.42,0:05:16.71,Main,Mic,0,0,0,,The Pokémon World Championships \N Masters Tournament.
 Dialogue: 0,0:05:16.71,0:05:18.67,Main,Mic,0,0,0,,The biggest tournament in history,
-Dialogue: 0,0:05:18.67,0:05:25.43,Main,Mic,0,0,0,,where the highest-ranked eight, the Masters Eight, \N determine the greatest Pokémon battler.
+Dialogue: 0,0:05:18.67,0:05:25.43,Main,Mic,0,0,0,,where the highest-ranked eight, the Masters Eight, \N determine the greatest Pokémon Battler.
 Dialogue: 0,0:05:25.43,0:05:29.18,Main,Mic,0,0,0,,And so, which of them \N will be crowned...
 Dialogue: 0,0:05:29.18,0:05:31.19,Main,Mic,0,0,0,,...Championships Monarch?!
 Dialogue: 0,0:05:31.60,0:05:33.81,Main,Mic,0,0,0,,Now, let’s introduce the Masters Eight.

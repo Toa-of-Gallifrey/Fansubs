@@ -61,7 +61,7 @@ Dialogue: 0,0:01:07.05,0:01:10.63,Main,Asahi,0,0,0,,Hurricanes and storm clouds 
 Dialogue: 0,0:01:10.63,0:01:12.26,Main,Asahi,0,0,0,,making landing impossible.
 Dialogue: 0,0:01:12.26,0:01:16.14,Main,Asahi,0,0,0,,But the clouds clear once a year \N for the dry season.{Mew: I need better reception to watch the finals! Mew!}
 Dialogue: 0,0:01:16.81,0:01:20.44,Main,Hodaka,0,0,0,,Last year, around the center \N of Table Mountain...
-Dialogue: 0,0:01:20.44,0:01:23.31,Main,Hodaka,0,0,0,,...we picked up \N extremely strong {psycho}psychic energy.
+Dialogue: 0,0:01:20.44,0:01:23.31,Main,Hodaka,0,0,0,,...we picked up \N extremely strong psycho-energy.
 Dialogue: 0,0:01:24.06,0:01:26.52,Main,Hodaka,0,0,0,,Presuming it to have come from Mew,
 Dialogue: 0,0:01:27.28,0:01:30.03,Main,Hodaka,0,0,0,,I set up Project Mew.
 Dialogue: 0,0:01:30.03,0:01:36.53,Main,Asahi,0,0,0,,We Chasers will land on Faraway Island{132}\N and climb Table Mountain.
@@ -86,9 +86,9 @@ Dialogue: 0,0:04:29.79,0:04:30.54,Main,Go,0,0,0,,Yes, ma’am.
 Dialogue: 0,0:04:34.80,0:04:37.51,Main,Shigeru,0,0,0,,So... that’s your invention,
 Dialogue: 0,0:04:37.51,0:04:40.13,Main,Shigeru,0,0,0,,which Professor Hodaka \N then went and upgraded?
 Dialogue: 0,0:04:40.13,0:04:41.05,Main,Go,0,0,0,,Yeah.
-Dialogue: 0,0:04:41.05,0:04:45.01,Main,Go,0,0,0,,It picks up nearby {psycho}psychic energy, \N and transmits it to the lab.
+Dialogue: 0,0:04:41.05,0:04:45.01,Main,Go,0,0,0,,It picks up nearby psycho-energy, \N and transmits it to the lab.
 Dialogue: 0,0:04:45.01,0:04:50.06,Main,Go,0,0,0,,Then the lab compares it with the waveform \N of Mewtwo, who I’ve met before.
-Dialogue: 0,0:04:50.06,0:04:54.98,Main,Hodaka,0,0,0,,Mew and Mewtwo should have matching \N {psycho}psychic energy waveforms, after all.
+Dialogue: 0,0:04:50.06,0:04:54.98,Main,Hodaka,0,0,0,,Mew and Mewtwo should have matching \N psycho-energy waveforms, after all.
 Dialogue: 0,0:04:55.69,0:04:57.74,Main,Asahi,0,0,0,,How’s it going, \N Professor Hodaka?
 Dialogue: 0,0:04:59.90,0:05:01.70,Main,Hodaka,0,0,0,,It’s functioning properly.
 Dialogue: 0,0:05:03.37,0:05:04.95,Main,Hodaka,0,0,0,,I’ll let you know if I find anything.
@@ -147,7 +147,7 @@ Dialogue: 0,0:08:40.62,0:08:42.25,Main,Go,0,0,0,,This is...
 Dialogue: 0,0:08:42.25,0:08:44.09,Main,Tokio,0,0,0,,The center of the world...
 Dialogue: 0,0:08:49.01,0:08:50.84,Main,Hodaka,0,0,0,,This is Hodaka. \N Can you hear me?
 Dialogue: 0,0:08:51.51,0:08:52.55,Main,Asahi,0,0,0,,We hear you.
-Dialogue: 0,0:08:53.22,0:08:56.06,Main,Hodaka,0,0,0,,The sensor has picked up \N {psycho}psychic energy!
+Dialogue: 0,0:08:53.22,0:08:56.06,Main,Hodaka,0,0,0,,The sensor has picked up \N psycho-energy!
 Dialogue: 0,0:08:57.43,0:08:58.56,Main,Asahi,0,0,0,,And the waveform?
 Dialogue: 0,0:08:58.56,0:09:00.90,Main,Asahi,0,0,0,,Professor Hodaka, \N what was the waveform?
 Dialogue: 0,0:09:00.90,0:09:02.02,Main,Hodaka,0,0,0,,—can... ear...
@@ -167,7 +167,7 @@ Dialogue: 0,0:09:36.64,0:09:42.27,Main,Go,0,0,0,,That means we can’t even reca
 Dialogue: 0,0:09:49.24,0:09:50.40,Main,Shigeru,0,0,0,,And behind this is...
 Dialogue: 0,0:09:51.15,0:09:52.15,Main,Go,0,0,0,,...Mew?
 Dialogue: 0,0:09:56.08,0:09:59.12,Main,Asahi,0,0,0,,We weren’t able to \N confirm the waveform,
-Dialogue: 0,0:09:59.12,0:10:02.33,Main,Asahi,0,0,0,,but it definitely picked up \N {psycho}psychic energy.
+Dialogue: 0,0:09:59.12,0:10:02.33,Main,Asahi,0,0,0,,but it definitely picked up \N psycho-energy.
 Dialogue: 0,0:10:02.33,0:10:04.54,Main,Tokio,0,0,0,,So, it came from near here?
 Dialogue: 0,0:10:06.96,0:10:10.05,Main,Asahi,0,0,0,,Should we head back for now \N and get reorganized?
 Dialogue: 0,0:10:10.05,0:10:14.93,Main,Tsurugi,0,0,0,,If Mew is behind this, \N we can’t let this chance get away.

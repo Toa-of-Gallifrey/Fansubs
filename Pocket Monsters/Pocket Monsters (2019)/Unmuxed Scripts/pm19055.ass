@@ -66,11 +66,11 @@ Dialogue: 0,0:03:17.71,0:03:21.20,Main,Renji,0,0,0,,In the Kanto Region... \N th
 Dialogue: 0,0:03:21.20,0:03:24.93,Main,Go,0,0,0,,Huh? \N So they’re different in Galar?!
 Dialogue: 0,0:03:24.93,0:03:30.14,Main,Rotom Go Ver,0,0,0,,Ponyta! Galarian Form! \N One-Horned Pokémon!{not sure what’d be best, something like ‘unicorn’ or the literal ‘one-horned’. EN games: ‘Unique Horn’...} Psychic type!
 Dialogue: 0,0:03:30.14,0:03:33.54,Main,Rotom Go Ver,0,0,0,,Its small horn hides a healing power!
-Dialogue: 0,0:03:33.54,0:03:37.43,Main,Rotom Go Ver,0,0,0,,With its Heal Pulse{iyashi no hadou}, \N any slight wound you have will be healed!{Sword dex entry, with half a sentence replaced with Heal Pulse -blu}
+Dialogue: 0,0:03:33.54,0:03:37.43,Main,Rotom Go Ver,0,0,0,,With its Healing Pulse{iyashi no hadou}, \N any slight wound you have will be healed!{Sword dex entry, with half a sentence replaced with Healing Pulse -blu}
 Dialogue: 0,0:03:38.82,0:03:44.73,Main,Rotom Go Ver,0,0,0,,Gallop! Galarian Form! One-Horned Pokémon! \N Fairy/Psychic type!
 Dialogue: 0,0:03:44.73,0:03:46.65,Main,Rotom Go Ver,0,0,0,,The evolved form of Ponyta!{not a dex entry. -blu}
 Dialogue: 0,0:03:46.65,0:03:48.99,Main,Rotom Go Ver,0,0,0,,Brave and prideful!
-Dialogue: 0,0:03:48.99,0:03:53.96,Main,Rotom Go Ver,0,0,0,,This Pokémon dashes airily through the forest, its steps aided \N by the psychic power stored in the fur on its fetlocks!{Shield dex entry -blu}
+Dialogue: 0,0:03:48.99,0:03:53.96,Main,Rotom Go Ver,0,0,0,,This Pokémon dashes airily through the forest, its steps aided \N by the psycho-power stored in the fur on its fetlocks!{Shield dex entry -blu}
 Dialogue: 0,0:03:54.45,0:03:56.66,Main,Koharu,0,0,0,,Ponyta and Gallop...
 Dialogue: 0,0:03:56.66,0:04:01.35,Main,Sakuragi,0,0,0,,It’s rare to see you asking \N about a Pokémon, Koharu.
 Dialogue: 0,0:04:01.35,0:04:03.20,Main,Koharu,0,0,0,,I guess I was just curious.
@@ -118,7 +118,7 @@ Dialogue: 0,0:07:25.71,0:07:27.55,Main,Koharu,0,0,0,,You’re hurt...
 Dialogue: 0,0:07:28.90,0:07:30.90,Main,Koharu,0,0,0,,It’s just like I saw before...
 Dialogue: 0,0:07:36.56,0:07:37.92,Main,Koharu,0,0,0,,Are you okay?
 Dialogue: 0,0:07:39.49,0:07:41.91,Main,Koharu,0,0,0,,You want me to help Gallop?{resembles NEP line -blu}
-Dialogue: 0,0:07:47.23,0:07:49.57,Main,Koharu,0,0,0,,Is that... Heal Pulse{iyashi no hadou}?
+Dialogue: 0,0:07:47.23,0:07:49.57,Main,Koharu,0,0,0,,Is that... Healing Pulse{iyashi no hadou}?
 Dialogue: 0,0:07:57.45,0:08:01.45,Main,Koharu,0,0,0,,It’s hurt badly enough that \N even Ponyta can’t heal it...
 Dialogue: 0,0:08:03.67,0:08:06.98,Main,Koharu,0,0,0,,Did it slip and fall down \N into the ravine?
 Dialogue: 0,0:08:08.46,0:08:09.55,Main,Koharu,0,0,0,,I know!
@@ -183,11 +183,11 @@ Dialogue: 0,0:11:56.11,0:11:57.83,Main,Koharu,0,0,0,,Are you okay, Eevee?
 Dialogue: 0,0:12:01.71,0:12:03.78,Main,Koharu,0,0,0,,Okay, I’ve got to get going, too!
 Dialogue: 0,0:12:16.42,0:12:18.55,Main,Koharu,0,0,0,,Should we take a little break?
 Dialogue: 0,0:12:27.03,0:12:28.42,Main,Koharu,0,0,0,,You want a drink too, Ponyta?
-Dialogue: 0,0:12:32.06,0:12:33.85,Main,Koharu,0,0,0,,Heal Pulse{iyashi no hadou}...
+Dialogue: 0,0:12:32.06,0:12:33.85,Main,Koharu,0,0,0,,Healing Pulse{iyashi no hadou}...
 Dialogue: 0,0:12:36.08,0:12:37.36,Main,Koharu,0,0,0,,Wow!
 Dialogue: 0,0:12:42.51,0:12:44.51,Main,Koharu,0,0,0,,Thank you, Ponyta!
 Dialogue: 0,0:12:58.83,0:13:01.35,Main,Koharu,0,0,0,,It’s healed! Wow!
-Dialogue: 0,0:13:01.35,0:13:02.88,Main,Koharu,0,0,0,,You used Heal Pulse{iyashi no hadou} on me?
+Dialogue: 0,0:13:01.35,0:13:02.88,Main,Koharu,0,0,0,,You used Healing Pulse{iyashi no hadou} on me?
 Dialogue: 0,0:13:04.13,0:13:06.09,Main,Koharu,0,0,0,,Thank you, Eevee!
 Dialogue: 0,0:13:23.58,0:13:27.07,Main,Koharu,0,0,0,,Over there! The rainbow flowers!
 Dialogue: 0,0:13:27.58,0:13:29.73,Main,Koharu,0,0,0,,We’re nearly there. Let’s hurry!
@@ -1429,8 +1429,8 @@ Dialogue: 1,0:22:07.19,0:22:10.15,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.19,0:22:10.15,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.15,0:22:13.40,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.15,0:22:13.40,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.40,0:22:16.44,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.40,0:22:16.44,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.40,0:22:16.44,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.40,0:22:16.44,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.44,0:22:19.95,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.44,0:22:19.95,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

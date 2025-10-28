@@ -182,7 +182,7 @@ Dialogue: 0,0:07:34.00,0:07:38.14,Main,Kojiro,0,0,0,,I perfectly synced with Pik
 Dialogue: 0,0:07:38.14,0:07:40.23,Main,Musashi,0,0,0,,You did?!
 Dialogue: 0,0:07:40.23,0:07:43.95,Main,Musashi,0,0,0,,Why does he end \N his sentences with “pi”?!
 Dialogue: 0,0:07:43.95,0:07:46.86,Main,Nyarth,0,0,0,,I must’ve fallen asleep, meow.
-Dialogue: 0,0:07:46.86,0:07:53.11,Main,Kojiro,0,0,0,,Well, “Pi” “ka” “ch” “u”.\N The cutest sound is “pi”, right?
+Dialogue: 0,0:07:46.86,0:07:53.11,Main,Kojiro,0,0,0,,Well, “Pi” “ka” “ch” “u”.\N The cutest sound is “pi,” right?
 Dialogue: 0,0:07:53.11,0:07:56.85,Main,Kojiro,0,0,0,,So, I thought \N he’d end his sentences with “pi.”
 Dialogue: 0,0:07:56.85,0:07:58.77,Main,Musashi,0,0,0,,Yeah, “pi” is cute.
 Dialogue: 0,0:07:58.77,0:07:59.50,Main,Kojiro,0,0,0,,See?
@@ -246,14 +246,14 @@ Dialogue: 0,0:10:55.27,0:10:56.17,Main,Musashi & Kojiro,0,0,0,,Nod, nod.
 Dialogue: 0,0:10:56.17,0:10:58.32,Main,Nyarth,0,0,0,,What does it say, meow?
 Dialogue: 0,0:10:58.32,0:11:00.55,Main,Kojiro,0,0,0,,Today’s episode is a double-feature.
 Dialogue: 0,0:11:00.55,0:11:04.52,Main,Nyarth,0,0,0,,That again, meow?! \N What’re the titles, meow?
-Dialogue: 0,0:11:04.52,0:11:06.54,Main,Kojiro,0,0,0,,“Half a Numacraw”, and...
+Dialogue: 0,0:11:04.52,0:11:06.54,Main,Kojiro,0,0,0,,“Half a Numacraw,” and...
 Dialogue: 0,0:11:06.54,0:11:08.66,Main,Musashi,0,0,0,,“Operation: Dub Pikachu!”...
 Dialogue: 0,0:11:09.29,0:11:12.06,Main,Team Rocket,0,0,0,,{\i1}“Operation: Dub Pikachu”?!{\i0}
 Dialogue: 0,0:11:12.06,0:11:13.44,Main,Musashi,0,0,0,,Does that mean...
 Dialogue: 0,0:11:13.44,0:11:17.87,Main,Kojiro,0,0,0,,Our dubbing earlier \N was the first episode?!
 Dialogue: 0,0:11:18.94,0:11:20.33,Main,Musashi,0,0,0,,No way.
 Dialogue: 0,0:11:21.45,0:11:23.51,Main,Kojiro,0,0,0,,What’s going on?
-Dialogue: 0,0:11:35.14,0:11:38.94,Main,Nyarth,0,0,0,,After this, it’s \N “Half a Numacraw”, meow!
+Dialogue: 0,0:11:35.14,0:11:38.94,Main,Nyarth,0,0,0,,After this, it’s \N “Half a Numacraw,” meow!
 Comment: 0,0:11:39.55,0:11:39.55,Main,,0,0,0,,{Opening}
 Comment: 0,0:13:07.80,0:13:07.80,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:13:32.11,0:13:33.62,Main,Satoshi,0,0,0,,The weather’s so nice!
@@ -1530,8 +1530,8 @@ Dialogue: 1,0:22:07.19,0:22:10.15,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.19,0:22:10.15,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.15,0:22:13.40,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.15,0:22:13.40,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.40,0:22:16.44,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.40,0:22:16.44,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.40,0:22:16.44,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.40,0:22:16.44,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.44,0:22:19.95,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.44,0:22:19.95,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

@@ -122,7 +122,7 @@ Dialogue: 0,0:07:11.91,0:07:13.69,Main,Satoshi,0,0,0,,Stand strong, Pikachu!
 Dialogue: 0,0:07:13.69,0:07:14.62,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:07:22.12,0:07:23.13,Main,Go,0,0,0,,They’re evenly matched.
 Dialogue: 0,0:07:23.13,0:07:24.46,Main,Satoshi,0,0,0,,Lightning Speed!
-Dialogue: 0,0:07:32.39,0:07:34.10,Main,Satoshi,0,0,0,,Now! Electroweb!
+Dialogue: 0,0:07:32.39,0:07:34.10,Main,Satoshi,0,0,0,,Now! Electric Net!
 Dialogue: 0,0:07:36.22,0:07:37.84,Main,Shijima,0,0,0,,He’s putting on pressure.
 Dialogue: 0,0:07:37.84,0:07:41.19,Main,Go,0,0,0,,He might be trying his good old \N “fight with speed” tactic!
 Dialogue: 0,0:07:42.23,0:07:43.11,Main,Satoshi,0,0,0,,Catch it!
@@ -132,11 +132,11 @@ Dialogue: 0,0:08:03.25,0:08:04.63,Main,Satoshi,0,0,0,,Be careful, Pikachu! {I ha
 Dialogue: 0,0:08:05.88,0:08:10.84,Main,Shijima,0,0,0,,Focus Energy, huh? \N That’ll make it easier for Capoeirer to hit a vital spot!
 Dialogue: 0,0:08:11.63,0:08:12.60,Main,Saito,0,0,0,,Triple Kick!
 Dialogue: 0,0:08:27.40,0:08:29.46,Main,Shijima,0,0,0,,That hit hard!
-Dialogue: 0,0:08:29.46,0:08:31.64,Main,Go,0,0,0,,The Electroweb hit its mark,
+Dialogue: 0,0:08:29.46,0:08:31.64,Main,Go,0,0,0,,The Electric Net hit its mark,
 Dialogue: 0,0:08:31.64,0:08:33.53,Main,Go,0,0,0,,but it’s like it did nothing.
 Dialogue: 0,0:08:33.91,0:08:35.64,Main,Satoshi,0,0,0,,Are you okay, Pikachu?
 Dialogue: 0,0:08:38.78,0:08:40.62,Main,Satoshi,0,0,0,,Well then, how’s this?!
-Dialogue: 0,0:08:40.62,0:08:43.60,Main,Satoshi,0,0,0,,Use Electroweb on the arena! {Reduced the lead-out to just 350 ms since I believe the keyframe registered to be a false positive. - Toa}{would that make this an electric terrain? lol -Puto}
+Dialogue: 0,0:08:40.62,0:08:43.60,Main,Satoshi,0,0,0,,Use Electric Net on the arena! {Reduced the lead-out to just 350 ms since I believe the keyframe registered to be a false positive. - Toa}{would that make this an electric terrain? lol -Puto}
 Dialogue: 0,0:08:51.97,0:08:52.92,Main,Shijima,0,0,0,,Wh-What?!
 Dialogue: 0,0:08:54.30,0:08:55.26,Main,Saito,0,0,0,,Gyro Ball!
 Dialogue: 0,0:09:06.07,0:09:07.15,Main,Satoshi,0,0,0,,Iron Tail!
@@ -1457,8 +1457,8 @@ Dialogue: 1,0:22:07.23,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.23,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.44,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.44,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.44,0:22:16.48,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.44,0:22:16.48,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.44,0:22:16.48,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.44,0:22:16.48,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.48,0:22:19.99,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.48,0:22:19.99,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.51,0:22:47.35,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

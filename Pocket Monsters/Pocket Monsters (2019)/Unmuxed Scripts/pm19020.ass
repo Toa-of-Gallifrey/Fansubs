@@ -137,7 +137,7 @@ Dialogue: 0,0:06:44.34,0:06:47.98,Main,Go,0,0,0,,Those innocent childhood days \
 Dialogue: 0,0:06:47.98,0:06:50.33,Main,Koharu,0,0,0,,But you’re {\i1}still{\i0} a kid, though...
 Dialogue: 0,0:06:50.33,0:06:54.81,Main,Go,0,0,0,,I’m a Pokémon Trainer! \N There are no “kids” or “adults” among trainers!{Tagging to come back to this later. - Toa of the Batch}
 Dialogue: 0,0:06:54.81,0:06:59.35,Main,Go,0,0,0,,Satoshi will gladly battle \N any grown-up opponents!
-Dialogue: 0,0:06:59.79,0:07:02.94,Main,Koharu,0,0,0,,I thought you weren’t \N interested in Pokémon battling.{Tagging to maybe rephrase as a question. - Toa of the Batch}
+Dialogue: 0,0:06:59.79,0:07:02.94,Main,Koharu,0,0,0,,I thought you weren’t \N interested in Pokémon Battling.{Tagging to maybe rephrase as a question. - Toa of the Batch}
 Dialogue: 0,0:07:02.94,0:07:05.82,Main,Go,0,0,0,,It’s just that I don’t fight \N {\i1}pointless{\i0} battles.
 Dialogue: 0,0:07:05.82,0:07:08.20,Main,Go,0,0,0,,I’ll battle if I have to \N in order to catch Pokémon, yeah?
 Dialogue: 0,0:07:08.20,0:07:11.05,Main,Koharu,0,0,0,,Oh, is that so?
@@ -191,7 +191,7 @@ Dialogue: 0,0:09:55.91,0:09:59.39,Main,Rotom Satoshi Ver,0,0,0,,It is a battle b
 Dialogue: 0,0:09:59.39,0:10:03.31,Main,Rotom Satoshi Ver,0,0,0,,fought so that they may \N increase their ranking.
 Dialogue: 0,0:10:05.15,0:10:07.77,Main,Rotom Satoshi Ver,0,0,0,,Would you like to battle? Or not?{Copy-paste from episode 18 -Starfish}
 Dialogue: 0,0:10:07.77,0:10:11.30,Main,Satoshi,0,0,0,,Of course I’ll battle! \N Or, so I’d {\i1}like{\i0} to say, but...{Totally random but I find it awkward how the other guy is just standing there and saying absolutely nothing. -Starfish}
-Dialogue: 0,0:10:12.44,0:10:14.84,Main,Kids,0,0,0,,We want to see a Pokémon battle!
+Dialogue: 0,0:10:12.44,0:10:14.84,Main,Kids,0,0,0,,We want to see a Pokémon Battle!
 Dialogue: 0,0:10:15.51,0:10:17.72,Main,Satoshi,0,0,0,,Really? \N All right, then I’ll do it!
 Dialogue: 0,0:10:17.72,0:10:20.04,Main,Rotom Satoshi Ver,0,0,0,,Official battle appointment made!{Copy-paste from episode 18 -Starfish}
 Dialogue: 0,0:10:20.04,0:10:21.90,Main,Drone Rotom,0,0,0,,Welcome! Welcome!
@@ -217,13 +217,13 @@ Dialogue: 0,0:11:24.53,0:11:27.06,Main,Satoshi,0,0,0,,I know! But I won’t lose
 Dialogue: 0,0:11:29.06,0:11:31.50,Main,Drone Rotom,0,0,0,,Battle start!
 Dialogue: 0,0:11:32.46,0:11:34.31,Main,Rotom Satoshi Ver,0,0,0,,Pocket Monsters!
 Comment: 0,0:11:37.51,0:11:37.51,Main,,0,0,0,,{Part C}
-Dialogue: 0,0:11:43.51,0:11:46.36,Main,Seiya,0,0,0,,Victory goes to he who strikes first! \N Use Razor Leaf!
-Dialogue: 0,0:11:48.81,0:11:49.81,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:11:43.51,0:11:46.36,Main,Seiya,0,0,0,,Victory goes to he who strikes first! \N Use Leaf Cutter!
+Dialogue: 0,0:11:48.81,0:11:49.81,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:11:55.35,0:11:56.23,Main,Seiya,0,0,0,,Body Slam!{Not sure if we want to use the official name for のしかかり but I will leave that to y’all to decide. -Starfish}{Tagging to address. Maybe Weigh Down? - Toa of the Batch}
 Dialogue: 0,0:11:57.73,0:11:58.44,Main,Satoshi,0,0,0,,Dodge!
 Dialogue: 0,0:12:00.07,0:12:01.57,Main,Seiya,0,0,0,,Continue using Body Slam!
 Dialogue: 0,0:12:01.57,0:12:03.07,Main,Satoshi,0,0,0,,Dodge and use Iron Tail!
-Dialogue: 0,0:12:09.02,0:12:10.08,Main,Seiya,0,0,0,,Razor Leaf!
+Dialogue: 0,0:12:09.02,0:12:10.08,Main,Seiya,0,0,0,,Leaf Cutter!
 Dialogue: 0,0:12:12.24,0:12:13.38,Main,Satoshi,0,0,0,,Hang in there, Pikachu!
 Dialogue: 0,0:12:13.38,0:12:14.88,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 0,0:12:18.40,0:12:20.64,Main,Seiya,0,0,0,,Stay strong! Solar Beam!
@@ -249,7 +249,7 @@ Dialogue: 0,0:13:45.47,0:13:47.63,Main,Seiya,0,0,0,,That was a great battle, Sat
 Dialogue: 0,0:13:47.63,0:13:48.80,Main,Satoshi,0,0,0,,Thank you!
 Dialogue: 0,0:13:48.80,0:13:50.85,Main,Seiya,0,0,0,,I won’t lose next time!
 Dialogue: 0,0:13:50.85,0:13:52.18,Main,Satoshi,0,0,0,,Likewise!
-Dialogue: 0,0:14:00.17,0:14:03.21,Main,Kids,0,0,0,,That was such a cool \N Pokémon battle, Mister!
+Dialogue: 0,0:14:00.17,0:14:03.21,Main,Kids,0,0,0,,That was such a cool \N Pokémon Battle, Mister!
 Dialogue: 0,0:14:03.21,0:14:06.19,Main,Satoshi,0,0,0,,Thanks! But being “cool” \N isn’t everything.
 Dialogue: 0,0:14:07.31,0:14:11.25,Main,Satoshi,0,0,0,,I believe that battling helps you \N know Pokémon better,
 Dialogue: 0,0:14:11.25,0:14:13.57,Main,Satoshi,0,0,0,,and grow closer to them.
@@ -379,7 +379,7 @@ Dialogue: 0,0:20:36.10,0:20:39.17,Main,Sota,0,0,0,,Yeah! It made me want to \N l
 Dialogue: 0,0:20:39.17,0:20:41.49,Main,Go,0,0,0,,I’m glad to hear it.
 Dialogue: 0,0:20:41.49,0:20:42.18,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 0,0:20:42.18,0:20:46.43,Main,Kids,0,0,0,,And I want to catch every Pokémon, too! \N Just like you, Mr. Go{Honorifics note: Go-niichan}!
-Dialogue: 0,0:20:46.43,0:20:50.60,Main,Kids,0,0,0,,I wanna get as good at Pokémon battling \N as Mr. Satoshi{Honorifics note: Satoshi-niichan}!
+Dialogue: 0,0:20:46.43,0:20:50.60,Main,Kids,0,0,0,,I wanna get as good at Pokémon Battling \N as Mr. Satoshi{Honorifics note: Satoshi-niichan}!
 Dialogue: 0,0:20:50.60,0:20:54.03,Main,Satoshi,0,0,0,,I see. Well, you’d better \N hurry and turn ten...
 Dialogue: 0,0:20:54.03,0:20:55.90,Main,Go,0,0,0,,...so you can make \N your trainer debuts!
 Dialogue: 0,0:20:55.90,0:20:57.10,Main,Kids,0,0,0,,Yeah!
@@ -1623,8 +1623,8 @@ Dialogue: 1,0:22:07.18,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.39,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.39,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.43,0:22:19.94,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.43,0:22:19.94,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.46,0:22:47.30,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

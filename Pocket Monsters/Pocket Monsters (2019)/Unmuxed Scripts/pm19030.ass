@@ -47,7 +47,7 @@ Dialogue: 0,0:00:05.40,0:00:10.11,Main,Narrator,0,0,0,,And Go, who dreams of cat
 Dialogue: 0,0:00:10.11,0:00:15.29,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 0,0:00:20.50,0:00:22.37,Main,Tony,0,0,0,,Eleboo, use Shock Wave!{The CCs named this guy. Also oh hey, continuity, this guy was in episode 18 as well. -Starfish}
 Dialogue: 0,0:00:27.45,0:00:28.47,Main,Satoshi,0,0,0,,Riolu!
-Dialogue: 0,0:00:29.21,0:00:31.09,Main,Tony,0,0,0,,Eleboo! Electro Ball!
+Dialogue: 0,0:00:29.21,0:00:31.09,Main,Tony,0,0,0,,Eleboo! Electric Ball!
 Dialogue: 0,0:00:34.93,0:00:35.76,Main,Satoshi,0,0,0,,Are you okay?!
 Dialogue: 0,0:00:36.24,0:00:37.64,Main,Satoshi,0,0,0,,You can still do this! \N Stand up!
 Dialogue: 0,0:00:39.47,0:00:41.14,Main,Satoshi,0,0,0,,That’s it, Riolu! \N You got this!
@@ -1441,8 +1441,8 @@ Dialogue: 1,0:22:07.18,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.39,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.39,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.43,0:22:19.94,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.43,0:22:19.94,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.46,0:22:47.30,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

@@ -276,7 +276,7 @@ Dialogue: 0,0:15:35.63,0:15:37.58,Main,Satoshi,0,0,0,,Why?!
 Dialogue: 0,0:15:41.47,0:15:43.20,Main,Gasattsu,0,0,0,,Looks like it likes him.
 Dialogue: 0,0:15:43.20,0:15:44.65,Main,Go,0,0,0,,Are you sure about that?
 Dialogue: 0,0:15:44.65,0:15:46.05,Main,Koharu,0,0,0,,It won’t stop...
-Dialogue: 0,0:15:47.41,0:15:48.72,Main,Satoshi,0,0,0,,Pikachu! Electroweb{elekinet}!
+Dialogue: 0,0:15:47.41,0:15:48.72,Main,Satoshi,0,0,0,,Pikachu! Electric Net{elekinet}!
 Dialogue: 0,0:15:57.23,0:15:58.22,Main,Satoshi,0,0,0,,Dodge it!{Adjusted end time. -Starfish}
 Dialogue: 0,0:16:14.52,0:16:15.25,Main,Go,0,0,0,,Satoshi!
 Dialogue: 0,0:16:23.25,0:16:24.63,Main,Koharu,0,0,0,,Oh, dear!
@@ -1505,8 +1505,8 @@ Dialogue: 1,0:22:07.18,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.53,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 0,0:22:16.53,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

@@ -289,7 +289,7 @@ Comment: 0,0:21:44.45,0:21:44.45,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:05.45,0:23:05.45,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:07.09,0:23:09.51,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 0,0:23:09.51,0:23:10.83,Main,Go,0,0,0,,Go!
-Dialogue: 0,0:23:11.08,0:23:15.98,Main,Sakuragi,0,0,0,,As a matter of fact, psychic energy \N thought to belong to Mew has been detected.{01:09}
+Dialogue: 0,0:23:11.08,0:23:15.98,Main,Sakuragi,0,0,0,,As a matter of fact, psycho-energy thought to \N belong to Mew has been detected.{01:09}
 Dialogue: 0,0:23:15.98,0:23:18.40,Main,Satoshi & Go,0,0,0,,What?!{01:15}
 Dialogue: 0,0:23:18.86,0:23:21.70,Main,Go,0,0,0,,The isolated isle of Cero Island, huh?{02:33}
 Dialogue: 0,0:23:21.70,0:23:23.55,Main,Mewtwo,0,0,0,,Why have you come here?{11:55}
@@ -1028,8 +1028,8 @@ Dialogue: 1,0:22:07.14,0:22:10.10,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.14,0:22:10.10,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.10,0:22:13.35,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.10,0:22:13.35,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.35,0:22:16.39,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.35,0:22:16.39,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.35,0:22:16.39,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.35,0:22:16.39,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.39,0:22:19.90,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.39,0:22:19.90,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.42,0:22:47.26,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

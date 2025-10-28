@@ -196,7 +196,7 @@ Dialogue: 0,0:13:06.45,0:13:07.39,Main,Koharu,0,0,0,,Um...
 Dialogue: 0,0:13:07.39,0:13:11.14,Main,Classmate,0,0,0,,You gotta have tons of Pokémon \N at home, right? Lucky you!
 Dialogue: 0,0:13:11.14,0:13:13.36,Main,Koharu,0,0,0,,Just Wanpachi...
 Dialogue: 0,0:13:13.36,0:13:14.57,Main,Classmate,0,0,0,,Really?!
-Dialogue: 0,0:13:14.57,0:13:17.59,Main,Classmate,0,0,0,,Hey! Can we have \N a Pokémon battle later?
+Dialogue: 0,0:13:14.57,0:13:17.59,Main,Classmate,0,0,0,,Hey! Can we have \N a Pokémon Battle later?
 Dialogue: 0,0:13:17.59,0:13:19.37,Main,Koharu,0,0,0,,I’ve never done that before.
 Dialogue: 0,0:13:21.82,0:13:24.40,Main,Koharu,0,0,0,,Is it really {\i1}that{\i0} surprising...?
 Dialogue: 0,0:13:24.40,0:13:27.28,Main,Classmate,0,0,0,,Wait, do you hate Pokémon?
@@ -260,7 +260,7 @@ Dialogue: 0,0:17:05.50,0:17:06.46,Main,Satoshi,0,0,0,,Nice!
 Dialogue: 0,0:17:23.23,0:17:25.10,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:17:31.86,0:17:32.44,Main,Satoshi,0,0,0,,Dodge!
 Dialogue: 0,0:17:39.12,0:17:41.04,Main,Go,0,0,0,,Hibunny, can you thaw him out?
-Dialogue: 0,0:17:54.47,0:17:55.55,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:17:54.47,0:17:55.55,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:18:06.72,0:18:08.94,Main,Kikuna,0,0,0,,Professor, what’s this?
 Dialogue: 0,0:18:08.94,0:18:11.78,Main,Sakuragi,0,0,0,,A diagram of the temperature \N in the institute.
 Dialogue: 0,0:18:12.19,0:18:16.12,Main,Sakuragi,0,0,0,,If there’s a rapid temperature drop somewhere, \N that’s probably where Gänger is.
@@ -304,7 +304,7 @@ Dialogue: 0,0:23:11.37,0:23:13.46,Main,Go,0,0,0,,Satoshi! Let’s go to \N the G
 Dialogue: 0,0:23:13.46,0:23:14.42,Main,Satoshi,0,0,0,,Huh? Why?{not said in ep12}
 Dialogue: 0,0:23:14.42,0:23:17.40,Main,Go,0,0,0,,We’re gonna see \N the Pokémon World Championships!{not said in ep12}
 Dialogue: 0,0:23:17.40,0:23:18.00,Main,Satoshi,0,0,0,,What’s that?{..."What's that"? REALLY? -Starfish}{"Nani sore?" here, "Nan kore?" in ep12 at 00:16 with more flat comedic delivery}
-Dialogue: 0,0:23:18.00,0:23:20.91,Main,Go,0,0,0,,A Pokémon battle to crown \N the world’s strongest, the Supreme Monarch!{not in ep12, but paralleled by Satoshi's line at 00:45 and perhaps somewhat Kikuna's at 00:32?}
+Dialogue: 0,0:23:18.00,0:23:20.91,Main,Go,0,0,0,,A Pokémon Battle to crown \N the world’s strongest, the Supreme Monarch!{not in ep12, but paralleled by Satoshi's line at 00:45 and perhaps somewhat Kikuna's at 00:32?}
 Dialogue: 0,0:23:20.91,0:23:24.42,Main,Go,0,0,0,,And the finalists are \N Wataru from the Kanto Elite Four...{not in ep12, the Announcer delivers this information differently starting at 06:43}
 Dialogue: 0,0:23:24.42,0:23:26.21,Main,Go,0,0,0,,...and Dande, \N the Champion of Galar!{see above}
 Dialogue: 0,0:23:26.21,0:23:28.88,Main,Satoshi,0,0,0,,Awesome! I gotta see that!{not in ep12}
@@ -1509,8 +1509,8 @@ Dialogue: 1,0:22:07.14,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.14,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.48,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.48,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.48,0:22:16.48,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.48,0:22:16.48,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.48,0:22:16.48,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.48,0:22:16.48,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.48,0:22:20.11,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.48,0:22:20.11,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.51,0:22:47.38,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

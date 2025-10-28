@@ -177,7 +177,7 @@ Dialogue: 0,0:13:53.90,0:13:55.13,Main,Go,0,0,0,,They’re here, then...
 Dialogue: 0,0:14:00.46,0:14:02.02,Main,Boss,0,0,0,,So there they were.
 Dialogue: 0,0:14:02.44,0:14:03.75,Main,Hunter,0,0,0,,Betobeton! Sludge B—{hedoro bakudan}
 Dialogue: 0,0:14:03.75,0:14:05.15,Main,Go,0,0,0,,Lightning Speed{denkousekka}!
-Dialogue: 0,0:14:07.40,0:14:09.11,Main,Go,0,0,0,,Psybeam{saike kousen}!
+Dialogue: 0,0:14:07.40,0:14:09.11,Main,Go,0,0,0,,Psyche Beam{saike kousen}!
 Dialogue: 0,0:14:11.76,0:14:12.62,Main,Hunter,0,0,0,,What?!
 Dialogue: 0,0:14:12.62,0:14:18.45,Main,Go,0,0,0,,I made sure to catch a Psychic-type Pokémon, \N which are good against Poison types, just in case!
 Dialogue: 0,0:14:26.05,0:14:27.51,Main,Go,0,0,0,,All right!
@@ -186,9 +186,9 @@ Dialogue: 0,0:14:31.60,0:14:33.63,Main,Go,0,0,0,,Let’s go, Sleep!
 Dialogue: 0,0:14:38.30,0:14:40.94,Main,Boss,0,0,0,,So what? Get him!
 Dialogue: 0,0:14:40.94,0:14:42.82,Main,Hunter,0,0,0,,Yabukuron! Pound{hataku}!
 Dialogue: 0,0:14:44.15,0:14:46.44,Main,Go,0,0,0,,Sleep, you use Pound,{hataku} too!
-Dialogue: 0,0:14:51.53,0:14:52.99,Main,Go,0,0,0,,Psybeam{saike kousen}!
+Dialogue: 0,0:14:51.53,0:14:52.99,Main,Go,0,0,0,,Psyche Beam{saike kousen}!
 Dialogue: 0,0:14:55.99,0:14:57.79,Main,Go,0,0,0,,Aceburn! Pyro Ball{kaen ball}!
-Dialogue: 0,0:15:01.57,0:15:03.94,Main,Go,0,0,0,,Use Psybeam{saike kousen}, Sleep!
+Dialogue: 0,0:15:01.57,0:15:03.94,Main,Go,0,0,0,,Use Psyche Beam{saike kousen}, Sleep!
 Dialogue: 0,0:15:11.05,0:15:12.85,Main,Go,0,0,0,,All right! We can win this!
 Dialogue: 0,0:15:16.11,0:15:17.57,Main,Boss,0,0,0,,You think you’re so clever, \N don’t you?
 Dialogue: 0,0:15:17.57,0:15:18.23,Main,Hunters,0,0,0,,Boss!
@@ -1427,8 +1427,8 @@ Dialogue: 1,0:22:07.23,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.23,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.44,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.44,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.44,0:22:16.48,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.44,0:22:16.48,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.44,0:22:16.48,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.44,0:22:16.48,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.48,0:22:19.99,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.48,0:22:19.99,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.51,0:22:47.35,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

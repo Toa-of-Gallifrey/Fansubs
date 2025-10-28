@@ -110,7 +110,7 @@ Dialogue: 0,0:05:56.75,0:05:58.25,Main,Go,0,0,0,,Wait, Mew!
 Dialogue: 0,0:06:04.93,0:06:05.80,Main,Go & Tokio,0,0,0,,Wait!
 Dialogue: 0,0:06:05.80,0:06:06.72,Main,Go,0,0,0,,Mew!
 Dialogue: 0,0:06:06.72,0:06:08.18,Main,Tokio,0,0,0,,Celebi!
-Dialogue: 0,0:06:12.77,0:06:15.69,Main,Go & Tokio,0,0,0,,Ow....
+Dialogue: 0,0:06:12.77,0:06:15.69,Main,Go & Tokio,0,0,0,,Ow...
 Dialogue: 0,0:06:16.65,0:06:17.69,Main,Go,0,0,0,,And you are?!
 Dialogue: 0,0:06:17.69,0:06:18.86,Main,Tokio,0,0,0,,What about you?
 Dialogue: 0,0:06:24.28,0:06:26.20,Main,Go,0,0,0,,It was just a Muma?
@@ -228,7 +228,7 @@ Comment: 0,0:12:10.46,0:12:10.46,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:12:21.35,0:12:22.85,Main,Go,0,0,0,,Hey!
 Dialogue: 0,0:12:25.77,0:12:27.73,Main,Tokio,0,0,0,,A Kimawari? \N Where’d you get one?
 Dialogue: 0,0:12:27.73,0:12:30.94,Main,Go,0,0,0,,I borrowed it from the caretaker \N of the cottage I’m staying in.
-Dialogue: 0,0:12:30.94,0:12:34.53,Main,Go,0,0,0,,Kimawari’s Razor Leaf \N can cut down that tall grass, yeah?
+Dialogue: 0,0:12:30.94,0:12:34.53,Main,Go,0,0,0,,Kimawari’s Leaf Cutter \N can cut down that tall grass, yeah?
 Dialogue: 0,0:12:34.53,0:12:36.24,Main,Tokio,0,0,0,,I see...
 Dialogue: 0,0:12:36.24,0:12:37.86,Main,Tokio,0,0,0,,What a relief!
 Dialogue: 0,0:12:37.86,0:12:39.45,Main,Go,0,0,0,,Huh? What?
@@ -241,9 +241,9 @@ Dialogue: 0,0:12:55.30,0:12:57.01,Main,Go,0,0,0,,That’s just not who I am!
 Dialogue: 0,0:12:57.01,0:13:00.01,Main,Tokio,0,0,0,,Me, too! \N I always keep my promises!
 Dialogue: 0,0:13:00.01,0:13:02.39,Main,Go,0,0,0,,Okay! Resume search!
 Dialogue: 0,0:13:02.39,0:13:04.01,Main,Tokio,0,0,0,,Resume search!
-Dialogue: 0,0:13:04.01,0:13:06.89,Main,Go,0,0,0,,Kimawari! Razor Leaf!
+Dialogue: 0,0:13:04.01,0:13:06.89,Main,Go,0,0,0,,Kimawari! Leaf Cutter!
 Dialogue: 0,0:13:09.27,0:13:10.44,Main,Go,0,0,0,,Good, keep it up!
-Dialogue: 0,0:13:10.44,0:13:12.90,Main,Go,0,0,0,,Another Razor Leaf!
+Dialogue: 0,0:13:10.44,0:13:12.90,Main,Go,0,0,0,,Another Leaf Cutter!
 Dialogue: 0,0:13:16.94,0:13:18.69,Main,Go,0,0,0,,See the shrine?
 Dialogue: 0,0:13:18.69,0:13:20.03,Main,Tokio,0,0,0,,No.
 Dialogue: 0,0:13:20.03,0:13:21.61,Main,Go,0,0,0,,Let’s look further in.
@@ -1528,8 +1528,8 @@ Dialogue: 1,0:22:07.18,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.39,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.39,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.43,0:22:19.94,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.43,0:22:19.94,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.46,0:22:47.30,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

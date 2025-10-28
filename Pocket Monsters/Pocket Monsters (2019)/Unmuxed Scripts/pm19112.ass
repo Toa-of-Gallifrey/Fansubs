@@ -143,7 +143,7 @@ Dialogue: 0,0:07:08.32,0:07:09.58,Main,Burnet,0,0,0,,Ooh!
 Dialogue: 0,0:07:09.58,0:07:11.58,Main,Burnet,0,0,0,,Were you copying \N your big bro{ther} Satoshi?
 Dialogue: 0,0:07:11.58,0:07:13.96,Main,Koharu,0,0,0,,Lei’s so cute!
 Dialogue: 0,0:07:13.96,0:07:16.46,Main,Go,0,0,0,,Um, what’s a Battle Royal?{similar to Koharu NEP line}{They really shouldn’t have called his recent Project Mew thing a battle royale :| - Toa}
-Dialogue: 0,0:07:16.46,0:07:20.59,Main,Kukui,0,0,0,,It’s a type of Pokémon battle \N held at Alola’s Royal Dome.
+Dialogue: 0,0:07:16.46,0:07:20.59,Main,Kukui,0,0,0,,It’s a type of Pokémon Battle \N held at Alola’s Royal Dome.
 Dialogue: 0,0:07:21.42,0:07:24.59,Main,Kukui,0,0,0,,Four teams of competitors \N clash and battle, all at the same time.
 Dialogue: 0,0:07:24.59,0:07:26.30,Main,Satoshi,0,0,0,,Who am I fighting?
 Dialogue: 0,0:07:26.30,0:07:28.30,Main,Kukui,0,0,0,,That’s a secret until the day.
@@ -248,7 +248,7 @@ Dialogue: 0,0:13:31.00,0:13:33.71,Main,Kaki,0,0,0,,Garagara! Shadow Bone!
 Dialogue: 0,0:13:35.38,0:13:37.55,Main,Gladio,0,0,0,,Lilie! Venom Shock!
 Dialogue: 0,0:13:38.88,0:13:41.22,Main,Kukui,0,0,0,,Gaogaen! Blast Burn!
 Dialogue: 0,0:13:43.47,0:13:46.10,Main,Satoshi,0,0,0,,Pikachu! 100,000 Volts!
-Dialogue: 0,0:13:50.60,0:13:52.48,Main,Satoshi,0,0,0,,Now! Electroweb!
+Dialogue: 0,0:13:50.60,0:13:52.48,Main,Satoshi,0,0,0,,Now! Electric Net!
 Dialogue: 0,0:13:55.61,0:13:56.48,Main,Them,0,0,0,,Dodge it!
 Dialogue: 0,0:13:59.69,0:14:01.65,Main,Satoshi,0,0,0,,One more 100,000 Volts!
 Dialogue: 0,0:14:05.87,0:14:07.53,Main,Kukui,0,0,0,,Gaogaen, use Hell Thrust!

@@ -73,7 +73,7 @@ Comment: 0,0:01:22.56,0:01:22.56,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:50.65,0:02:50.65,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:03:05.29,0:03:07.79,Main,Go,0,0,0,,Let’s put our all \N into cheering for him!
 Dialogue: 0,0:03:12.59,0:03:15.43,Main,Announcer,0,0,0,,Ladies and gentlemen...
-Dialogue: 0,0:03:15.43,0:03:20.76,Main,Announcer,0,0,0,,The world’s greatest Pokémon battles: \N the Pokémon World Championships.
+Dialogue: 0,0:03:15.43,0:03:20.76,Main,Announcer,0,0,0,,The world’s greatest Pokémon Battles: \N the Pokémon World Championships.
 Dialogue: 0,0:03:20.76,0:03:24.68,Main,Announcer,0,0,0,,The title conferred upon \N the top-ranked eight: the Masters Eight.
 Dialogue: 0,0:03:24.68,0:03:30.15,Main,Announcer,0,0,0,,{\q2}With that title on the line, \N the final Promotion Match of the season will now begin.
 Dialogue: 0,0:03:30.98,0:03:33.86,Main,Announcer,0,0,0,,First up, and currently ranked 9th...
@@ -318,7 +318,7 @@ Comment: 0,0:23:05.45,0:23:05.45,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:23:07.12,0:23:09.53,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 0,0:23:09.53,0:23:10.83,Main,Go,0,0,0,,Go!
 Dialogue: 0,0:23:11.49,0:23:13.29,Main,Asahi,0,0,0,,Your mission this time is survival.{04:13}
-Dialogue: 0,0:23:13.71,0:23:17.42,Main,Asahi,0,0,0,,Have Pokémon battles with the other Challengers, \N and come out on top.{04:15}
+Dialogue: 0,0:23:13.71,0:23:17.42,Main,Asahi,0,0,0,,Have Pokémon Battles with the other Challengers, \N and come out on top.{04:15}
 Dialogue: 0,0:23:17.42,0:23:19.21,Main,Satoshi,0,0,0,,Give it your best shot, Go!{01:16}
 Dialogue: 0,0:23:19.21,0:23:21.59,Main,Go,0,0,0,,So this is Sea Kinsetsu...{not in the episode}
 Dialogue: 0,0:23:21.59,0:23:23.80,Main,Go,0,0,0,,There were {\i1}this{\i0} many Challengers?!{not in the episode}

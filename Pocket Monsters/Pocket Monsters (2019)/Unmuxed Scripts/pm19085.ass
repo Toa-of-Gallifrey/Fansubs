@@ -41,7 +41,7 @@ Dialogue: 0,0:00:01.54,0:00:05.23,Main,Narrator,0,0,0,,Satoshi, who aims to batt
 Dialogue: 0,0:00:05.23,0:00:10.24,Main,Narrator,0,0,0,,And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
 Dialogue: 0,0:00:10.24,0:00:15.54,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 0,0:00:20.04,0:00:22.21,Main,Narrator,0,0,0,,The Pokémon World Championships...{Copy-paste from episode 51 START}
-Dialogue: 0,0:00:22.21,0:00:25.67,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon battler.
+Dialogue: 0,0:00:22.21,0:00:25.67,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon Battler.
 Dialogue: 0,0:00:26.50,0:00:31.55,Main,Narrator,0,0,0,,In the hopes of battling Dande, \N the current Supreme Monarch,
 Dialogue: 0,0:00:31.55,0:00:34.72,Main,Narrator,0,0,0,,Satoshi is participating \N in the Championships.{Copy-paste from episode 51 END}
 Dialogue: 0,0:00:35.29,0:00:37.06,Main,Satoshi,0,0,0,,My next opponent’s been decided!{From 84, but with the "Hyper Class" omitted. -TLC}
@@ -179,11 +179,11 @@ Dialogue: 0,0:11:20.34,0:11:21.58,Main,Saito,0,0,0,,Otosupus!
 Dialogue: 0,0:11:28.63,0:11:30.87,Main,Rotom,0,0,0,,Battle, start!
 Dialogue: 0,0:11:30.87,0:11:32.38,Main,Satoshi,0,0,0,,Lightning Speed!
 Dialogue: 0,0:11:33.05,0:11:33.71,Main,Saito,0,0,0,,Detect!
-Dialogue: 0,0:11:39.72,0:11:40.93,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:11:39.72,0:11:40.93,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:11:47.49,0:11:48.73,Main,Satoshi,0,0,0,,All right, it’s trapped!
 Dialogue: 0,0:11:49.13,0:11:50.32,Main,Go,0,0,0,,Straight for the attack!
 Dialogue: 0,0:11:50.32,0:11:53.41,Main,Corni,0,0,0,,So he managed to get \N the first hit on Saitokins{Honorifics note: Saito-chan}...
-Dialogue: 0,0:11:53.41,0:11:56.65,Main,Corni,0,0,0,,The Lightning Speed was just a feint \N for the Electroweb.
+Dialogue: 0,0:11:53.41,0:11:56.65,Main,Corni,0,0,0,,The Lightning Speed was just a feint \N for the Electric Net.
 Dialogue: 0,0:11:56.65,0:11:57.88,Main,Corni,0,0,0,,It had to be!
 Dialogue: 0,0:12:02.20,0:12:04.62,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:12:03.66,0:12:04.62,Main,Saito,0,0,0,,{\an8}Infight!
@@ -191,8 +191,8 @@ Dialogue: 0,0:12:10.61,0:12:11.84,Main,Satoshi,0,0,0,,What?!
 Comment: 0,0:12:18.47,0:12:18.47,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:12:32.06,0:12:33.36,Main,Satoshi,0,0,0,,{silence}Pikachu!
 Dialogue: 0,0:12:36.94,0:12:38.39,Main,Mic,0,0,0,,An unexpected Infight!
-Dialogue: 0,0:12:38.39,0:12:43.49,Main,Mic,0,0,0,,Completely ignoring the Electroweb, \N Otosupus’s display of toughness leaves the crowd gasping!
-Dialogue: 0,0:12:48.96,0:12:50.62,Main,Go,0,0,0,,The Electroweb...
+Dialogue: 0,0:12:38.39,0:12:43.49,Main,Mic,0,0,0,,Completely ignoring the Electric Net, \N Otosupus’s display of toughness leaves the crowd gasping!
+Dialogue: 0,0:12:48.96,0:12:50.62,Main,Go,0,0,0,,The Electric Net...
 Dialogue: 0,0:12:50.62,0:12:52.79,Main,Corni,0,0,0,,Nothing fazes that Otosupus.
 Dialogue: 0,0:12:53.28,0:12:54.86,Main,Satoshi,0,0,0,,You okay, Pikachu?
 Dialogue: 0,0:12:57.92,0:12:59.18,Main,Satoshi,0,0,0,,Come back for now!

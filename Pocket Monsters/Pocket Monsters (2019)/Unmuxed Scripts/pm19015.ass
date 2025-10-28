@@ -211,10 +211,10 @@ Dialogue: 0,0:13:36.34,0:13:39.21,Main,Satoshi,0,0,0,,They can be pretty crafty.
 Dialogue: 0,0:13:52.39,0:13:55.77,Main,Go,0,0,0,,I see... You’re luring them out \N with a Nana Berry.
 Dialogue: 0,0:13:55.77,0:13:57.77,Main,Satoshi,0,0,0,,That’s right!
 Dialogue: 0,0:14:07.91,0:14:09.25,Main,Go,0,0,0,,There!
-Dialogue: 0,0:14:14.12,0:14:16.41,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:14:14.12,0:14:16.41,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:14:20.13,0:14:22.30,Main,Go,0,0,0,,Hibunny! Lightning Speed!
 Dialogue: 0,0:14:27.59,0:14:29.46,Main,Satoshi,0,0,0,,Pikachu! 100,000 Volts!
-Dialogue: 0,0:14:42.40,0:14:45.19,Main,Go,0,0,0,,Butterfree! Stun Spore!{Is Stun Spore a good enough TL for shibiregona? -Starfish}{Either that or Paralyze Powder, I guess? Which I imagine the only reason they didn't use it was because lol gen 1 length limitations —Puto}
+Dialogue: 0,0:14:42.40,0:14:45.19,Main,Go,0,0,0,,Butterfree! Paralyze Powder!
 Dialogue: 0,0:14:54.83,0:14:57.33,Main,Go,0,0,0,,Mankey! \N Give back Karakara’s bone!
 Dialogue: 0,0:15:02.60,0:15:03.96,Main,Go,0,0,0,,Where’d you leave it?
 Dialogue: 0,0:15:06.86,0:15:07.97,Main,Satoshi,0,0,0,,You lost it?!
@@ -1505,8 +1505,8 @@ Dialogue: 1,0:22:07.13,0:22:10.13,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.13,0:22:10.13,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.13,0:22:13.47,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.13,0:22:13.47,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.47,0:22:16.47,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.47,0:22:16.47,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.47,0:22:16.47,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.47,0:22:16.47,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.47,0:22:20.10,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.47,0:22:20.10,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.50,0:22:47.37,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

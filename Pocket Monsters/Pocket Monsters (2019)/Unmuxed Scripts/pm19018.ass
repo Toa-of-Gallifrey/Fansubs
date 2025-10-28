@@ -95,7 +95,7 @@ Dialogue: 0,0:04:30.71,0:04:34.21,Main,Satoshi,0,0,0,,I got it from Mr. Matis{Ho
 Dialogue: 0,0:04:34.62,0:04:36.84,Main,Satoshi,0,0,0,,It was my third Badge!
 Dialogue: 0,0:04:37.58,0:04:41.81,Main,Narrator,0,0,0,,This world has Pokémon Gyms \N built in all sorts of places.{Tagging to rework later. - Toa of the Batch}{この世界には各地にポケモンジムが作られている}
 Dialogue: 0,0:04:41.81,0:04:46.85,Main,Narrator,0,0,0,,Gym Leaders await within, \N serving as role models to many trainers.{alt: They are occupied by Gym Leaders, \N who serve as role models to many trainers.}
-Dialogue: 0,0:04:47.47,0:04:50.67,Main,Narrator,0,0,0,,Challengers are tested \N in their Pokémon battling skills,
+Dialogue: 0,0:04:47.47,0:04:50.67,Main,Narrator,0,0,0,,Challengers are tested \N in their Pokémon Battling skills,
 Dialogue: 0,0:04:50.67,0:04:53.85,Main,Narrator,0,0,0,,and receive a Badge \N if they are victorious.
 Dialogue: 0,0:04:54.49,0:04:58.82,Main,Narrator,0,0,0,,But in the Pokémon World Championships \N Satoshi is now entering,
 Dialogue: 0,0:04:58.82,0:05:03.09,Main,Narrator,0,0,0,,Gym Leaders and regular trainers alike \N all start in the Normal Class,
@@ -287,7 +287,7 @@ Dialogue: 0,0:19:17.59,0:19:20.80,Main,Satoshi,0,0,0,,Finish it off! Iron Tail!
 Dialogue: 0,0:19:30.48,0:19:31.23,Main,Steve,0,0,0,,No way!
 Dialogue: 0,0:19:31.23,0:19:32.11,Main,Tony,0,0,0,,Induced Explosion?!
 Dialogue: 0,0:19:32.86,0:19:34.51,Main,Visquez,0,0,0,,Wait, Marumine!
-Dialogue: 0,0:19:35.61,0:19:36.82,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:19:35.61,0:19:36.82,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:19:44.92,0:19:47.64,Main,Visquez,0,0,0,,I... I can’t believe it...
 Dialogue: 0,0:19:53.00,0:19:54.75,Main,Satoshi,0,0,0,,Well done, Pikachu!
 Dialogue: 0,0:19:57.29,0:20:00.26,Main,Drone Rotom,0,0,0,,Marumine is unable to battle! \N Pikachu wins!
@@ -1526,8 +1526,8 @@ Dialogue: 1,0:22:07.17,0:22:10.17,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.17,0:22:10.17,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.17,0:22:13.51,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.17,0:22:13.51,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.51,0:22:16.51,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.51,0:22:16.51,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.51,0:22:16.51,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.51,0:22:16.51,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.51,0:22:20.14,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.51,0:22:20.14,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.54,0:22:47.41,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

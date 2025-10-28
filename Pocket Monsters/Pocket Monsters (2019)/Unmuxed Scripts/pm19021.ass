@@ -111,7 +111,7 @@ Dialogue: 0,0:05:44.24,0:05:46.36,Main,Go,0,0,0,,Those are boss-level horns!
 Dialogue: 0,0:05:46.36,0:05:47.99,Main,Drone Rotom,0,0,0,,Battle start!
 Dialogue: 0,0:05:48.37,0:05:50.32,Main,Hashiba,0,0,0,,Kentauros! Horn Attack!
 Dialogue: 0,0:05:52.70,0:05:54.45,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
-Dialogue: 0,0:06:10.15,0:06:11.39,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:06:10.15,0:06:11.39,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:06:14.97,0:06:16.73,Main,Hashiba,0,0,0,,Rip through it with Iron Head!
 Dialogue: 0,0:06:24.93,0:06:26.07,Main,Satoshi,0,0,0,,Pikachu!
 Dialogue: 0,0:06:26.07,0:06:27.45,Main,Satoshi,0,0,0,,Are you okay?
@@ -1512,8 +1512,8 @@ Dialogue: 1,0:22:07.18,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.39,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.39,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.39,0:22:16.43,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.39,0:22:16.43,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.43,0:22:19.94,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.43,0:22:19.94,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.46,0:22:47.30,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

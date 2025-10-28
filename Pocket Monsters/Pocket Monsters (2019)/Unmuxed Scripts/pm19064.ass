@@ -193,7 +193,7 @@ Comment: 0,0:11:18.49,0:11:18.49,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:11:31.55,0:11:35.00,Main,Rotom Go Ver,0,0,0,,Onigohri! Face Pokémon! \N Ice type!
 Dialogue: 0,0:11:35.00,0:11:37.47,Main,Rotom Go Ver,0,0,0,,It has a body of ice that won’t melt, \N even with fire!
 Dialogue: 0,0:11:37.47,0:11:40.80,Main,Rotom Go Ver,0,0,0,,It can instantly freeze \N moisture in the atmosphere!{FRLG dex entry}
-Dialogue: 0,0:11:43.56,0:11:45.64,Main,Satoshi,0,0,0,,Pikachu! Electroweb{Eleckinet}!
+Dialogue: 0,0:11:43.56,0:11:45.64,Main,Satoshi,0,0,0,,Pikachu! Electric Net{Eleckinet}!
 Dialogue: 0,0:11:54.86,0:11:56.36,Main,Satoshi,0,0,0,,Brrr!
 Dialogue: 0,0:11:57.31,0:11:58.59,Main,Satoshi,0,0,0,,Pikachu, now try―
 Dialogue: 0,0:11:58.59,0:11:59.56,Main,Go,0,0,0,,Hold on!
@@ -1495,8 +1495,8 @@ Dialogue: 1,0:22:07.18,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.53,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 0,0:22:16.53,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

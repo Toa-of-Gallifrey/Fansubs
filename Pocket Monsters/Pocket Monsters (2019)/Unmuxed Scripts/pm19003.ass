@@ -51,7 +51,7 @@ Dialogue: 0,0:00:50.70,0:00:54.03,Main,Go,0,0,0,,...research fellows here!
 Dialogue: 0,0:00:54.03,0:00:55.87,Main,Satoshi,0,0,0,,Being research fellows is amazing!
 Dialogue: 0,0:00:55.87,0:00:57.54,Main,Go,0,0,0,,Yeah!
 Dialogue: 0,0:00:57.54,0:00:59.54,Main,Satoshi,0,0,0,,They’ve got Pokémon food, too!
-Dialogue: 0,0:01:01.54,0:01:04.54,Main,Satoshi,0,0,0,,So, I was thinking of \N using Electroweb,
+Dialogue: 0,0:01:01.54,0:01:04.54,Main,Satoshi,0,0,0,,So, I was thinking of \N using Electric Net,
 Dialogue: 0,0:01:04.54,0:01:07.80,Main,Satoshi,0,0,0,,but then I realized I should go with \N 100,000 Volts instead!
 Dialogue: 0,0:01:07.80,0:01:09.01,Main,Satoshi,0,0,0,,Right, Pikachu?
 Dialogue: 0,0:01:11.55,0:01:13.85,Main,Go,0,0,0,,Director Sakuragi!
@@ -271,7 +271,7 @@ Dialogue: 0,0:16:01.06,0:16:02.52,Main,Kojiro,0,0,0,,Banguirus, use Fire Fang!
 Dialogue: 0,0:16:05.19,0:16:06.57,Main,Satoshi,0,0,0,,Dodge it, Pikachu!
 Dialogue: 0,0:16:08.86,0:16:10.41,Main,Musashi,0,0,0,,Something powerful!
 Dialogue: 0,0:16:11.24,0:16:12.74,Main,Kojiro,0,0,0,,Evil Pulse!
-Dialogue: 0,0:16:13.95,0:16:15.50,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:16:13.95,0:16:15.50,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:16:20.42,0:16:21.67,Main,Satoshi,0,0,0,,Lightning Speed!
 Dialogue: 0,0:16:27.55,0:16:28.47,Main,Satoshi,0,0,0,,Good!
 Dialogue: 0,0:16:28.47,0:16:29.26,Main,Go,0,0,0,,Awesome...
@@ -1550,8 +1550,8 @@ Dialogue: 1,0:22:07.18,0:22:10.18,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.18,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.18,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.18,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.52,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.52,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.52,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.52,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.52,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.52,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.55,0:22:47.42,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

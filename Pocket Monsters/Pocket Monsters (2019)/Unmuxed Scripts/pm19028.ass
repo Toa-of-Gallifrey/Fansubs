@@ -308,7 +308,7 @@ Dialogue: 0,0:19:09.29,0:19:11.00,Main,Musashi,0,0,0,,{\i1}Those{\i0} are its ey
 Dialogue: 0,0:19:13.87,0:19:18.01,Main,Musashi,0,0,0,,But that must mean \N the brat boys have it just as bad!
 Dialogue: 0,0:19:20.95,0:19:22.93,Main,Satoshi,0,0,0,,I see... Goggles, huh?
 Dialogue: 0,0:19:22.93,0:19:23.51,Main,Go,0,0,0,,Yeah!
-Dialogue: 0,0:19:23.95,0:19:26.39,Main,Go,0,0,0,,Since it said \N “the chemical punch of 100 onions”, {Suggesting to move "the" inside the quotes. - Toa}
+Dialogue: 0,0:19:23.95,0:19:26.39,Main,Go,0,0,0,,Since it said \N “the chemical punch of 100 onions,”
 Dialogue: 0,0:19:26.87,0:19:29.39,Main,Go,0,0,0,,I thought back to \N Barrierd cooking!
 Dialogue: 0,0:19:32.71,0:19:34.64,Main,Satoshi,0,0,0,,Guess we owe \N Barrierd our thanks!{SASUGA. -Starfish}
 Dialogue: 0,0:19:34.64,0:19:35.73,Main,Go,0,0,0,,That’s right!
@@ -1565,8 +1565,8 @@ Dialogue: 1,0:22:07.22,0:22:10.18,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.22,0:22:10.18,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.18,0:22:13.43,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.18,0:22:13.43,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.43,0:22:16.47,ED,,0,0,0,,Even if it ends in an “N”, I still love it
-Dialogue: 0,0:22:13.43,0:22:16.47,EDp2,,0,0,0,,Even if it ends in an “N”, I still love it
+Dialogue: 1,0:22:13.43,0:22:16.47,ED,,0,0,0,,Even if it ends in an “N,” I still love it
+Dialogue: 0,0:22:13.43,0:22:16.47,EDp2,,0,0,0,,Even if it ends in an “N,” I still love it
 Dialogue: 1,0:22:16.47,0:22:19.98,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.47,0:22:19.98,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.50,0:22:47.34,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

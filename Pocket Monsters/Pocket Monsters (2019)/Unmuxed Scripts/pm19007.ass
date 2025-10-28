@@ -73,7 +73,7 @@ Dialogue: 0,0:03:40.49,0:03:42.40,Main,Human being,0,0,0,,{\an8}The Battle Front
 Dialogue: 0,0:03:42.40,0:03:45.37,Main,Human being,0,0,0,,{\an8}A place of fierce battles \N and strong battlers!
 Dialogue: 0,0:03:46.41,0:03:49.95,Main,Human being,0,0,0,,Bring two Pokémon and win your way \N up the ranks in Single Battles!
 Dialogue: 0,0:03:51.96,0:03:55.83,Main,Hibana,0,0,0,,The winner gets this set of \N five colored Glass Flutes!
-Dialogue: 0,0:03:58.88,0:04:05.30,Main,Hibana,0,0,0,,Come join the Battle Frontier Glass Flute Cup, \N and let’s have some Pokémon battles!
+Dialogue: 0,0:03:58.88,0:04:05.30,Main,Hibana,0,0,0,,Come join the Battle Frontier Glass Flute Cup, \N and let’s have some Pokémon Battles!
 Dialogue: 0,0:04:07.89,0:04:09.56,Main,Go,0,0,0,,I see.
 Dialogue: 0,0:04:09.56,0:04:10.64,Main,Go,0,0,0,,And?
 Dialogue: 0,0:04:10.64,0:04:13.23,Main,Go,0,0,0,,Who did you enter?
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:54.27,0:04:56.02,Main,Go,0,0,0,,Kaiross! You!
 Dialogue: 0,0:05:02.94,0:05:04.99,Main,Go,0,0,0,,You want to go, Strike?
 Dialogue: 0,0:05:10.49,0:05:14.29,Main,Satoshi,0,0,0,,Strike, huh? \N This is gonna be loads of fun!
 Dialogue: 0,0:05:15.21,0:05:17.08,Main,Satoshi,0,0,0,,I’m really getting fired up!
-Dialogue: 0,0:05:17.08,0:05:20.25,Main,Go,0,0,0,,You really love \N Pokémon battles, don’t you?
+Dialogue: 0,0:05:17.08,0:05:20.25,Main,Go,0,0,0,,You really love \N Pokémon Battles, don’t you?
 Dialogue: 0,0:05:20.25,0:05:23.17,Main,Satoshi,0,0,0,,Yeah! It’s hard to explain,
 Dialogue: 0,0:05:23.17,0:05:28.26,Main,Satoshi,0,0,0,,but I kinda feel like I can do anything \N when I’m with my Pokémon!{Hey, who got all this Movie 21 in my PM19 episode?! -Starfish}{Pokémon PAWAAAA— }
 Dialogue: 0,0:05:28.26,0:05:29.01,Main,Satoshi,0,0,0,,What about you?
@@ -266,7 +266,7 @@ Dialogue: 0,0:18:11.02,0:18:13.86,Main,Announcer,0,0,0,,A breathtaking exchange 
 Dialogue: 0,0:18:13.86,0:18:16.65,Main,Announcer,0,0,0,,The two have truly earned \N their spot in the finals!{SASUGA - Starfish}
 Dialogue: 0,0:18:16.65,0:18:19.78,Main,Announcer,0,0,0,,You can’t even blink!
 Dialogue: 0,0:18:20.32,0:18:22.08,Main,Go,0,0,0,,This is...
-Dialogue: 0,0:18:22.08,0:18:24.79,Main,Go,0,0,0,,This is a Pokémon battle?!
+Dialogue: 0,0:18:22.08,0:18:24.79,Main,Go,0,0,0,,This is a Pokémon Battle?!
 Dialogue: 0,0:18:24.79,0:18:26.62,Main,Satoshi,0,0,0,,You all right, Pikachu?
 Dialogue: 0,0:18:28.67,0:18:30.75,Main,Hoji,0,0,0,,Let’s finish this!
 Dialogue: 0,0:18:30.75,0:18:32.54,Main,Hoji,0,0,0,,Graena, use Surprise Attack!{fuiuchi}
@@ -275,9 +275,9 @@ Dialogue: 0,0:18:42.10,0:18:43.85,Main,Go,0,0,0,,What will you do, Satoshi?
 Dialogue: 0,0:18:47.60,0:18:49.94,Main,Hoji,0,0,0,,Now! Get him, Graena!
 Dialogue: 0,0:18:52.15,0:18:52.65,Main,Hoji,0,0,0,,All right!
 Dialogue: 0,0:18:52.65,0:18:53.86,Main,Satoshi,0,0,0,,We’re not done, Pikachu!
-Dialogue: 0,0:18:53.86,0:18:55.90,Main,Satoshi,0,0,0,,Send an Electroweb upwards!
+Dialogue: 0,0:18:53.86,0:18:55.90,Main,Satoshi,0,0,0,,Send an Electric Net upwards!
 Dialogue: 0,0:18:59.49,0:19:01.11,Main,Announcer,0,0,0,,What is Pikachu doing?!
-Dialogue: 0,0:19:01.11,0:19:03.87,Main,Announcer,0,0,0,,It launched an Electroweb \N in entirely the wrong direction!
+Dialogue: 0,0:19:01.11,0:19:03.87,Main,Announcer,0,0,0,,It launched an Electric Net \N in entirely the wrong direction!
 Dialogue: 0,0:19:03.87,0:19:04.62,Main,Hoji,0,0,0,,What?!
 Dialogue: 0,0:19:07.25,0:19:09.46,Main,Satoshi,0,0,0,,Now use Iron Tail!
 Dialogue: 0,0:19:10.04,0:19:12.13,Main,Hoji,0,0,0,,Dodge it, Graena!
@@ -298,7 +298,7 @@ Dialogue: 0,0:20:36.96,0:20:38.59,Main,Satoshi,0,0,0,,Thanks!
 Dialogue: 0,0:20:38.59,0:20:41.67,Main,Go,0,0,0,,Barrierd, you were really cool too!
 Dialogue: 0,0:20:42.42,0:20:44.18,Main,Go,0,0,0,,Oh, and...
 Dialogue: 0,0:20:44.76,0:20:45.72,Main,Go,0,0,0,,Um...
-Dialogue: 0,0:20:49.39,0:20:51.06,Main,Go,0,0,0,,Pokémon battles...
+Dialogue: 0,0:20:49.39,0:20:51.06,Main,Go,0,0,0,,Pokémon Battles...
 Dialogue: 0,0:20:51.68,0:20:53.31,Main,Go,0,0,0,,...sure are fun, huh?
 Dialogue: 0,0:20:56.23,0:20:57.36,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 0,0:21:00.36,0:21:02.57,Main,Sakuragi,0,0,0,,What’s the deal with these Kemusso?{Tagging to maybe think about this more. - Toa of the Batch}
@@ -1526,8 +1526,8 @@ Dialogue: 1,0:22:07.14,0:22:10.14,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.14,0:22:10.14,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.14,0:22:13.48,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.14,0:22:13.48,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.48,0:22:16.48,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.48,0:22:16.48,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.48,0:22:16.48,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.48,0:22:16.48,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.48,0:22:20.11,ED,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 0,0:22:16.48,0:22:20.11,EDp2,,0,0,0,,{\fad(0,340)}Okay, let’s go one more time!
 Dialogue: 1,0:22:44.51,0:22:47.38,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

@@ -1523,8 +1523,8 @@ Dialogue: 1,0:22:07.22,0:22:10.23,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.22,0:22:10.23,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.23,0:22:13.56,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.23,0:22:13.56,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.56,0:22:16.57,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.56,0:22:16.57,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.56,0:22:16.57,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.56,0:22:16.57,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.57,0:22:20.19,ED,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 0,0:22:16.57,0:22:20.19,EDp2,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 1,0:22:44.51,0:22:47.35,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

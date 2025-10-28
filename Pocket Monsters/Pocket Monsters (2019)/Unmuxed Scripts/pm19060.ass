@@ -43,7 +43,7 @@ Dialogue: 0,0:00:01.43,0:00:05.23,Main,Narrator,0,0,0,,Satoshi, who aims to batt
 Dialogue: 0,0:00:05.23,0:00:10.24,Main,Narrator,0,0,0,,And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
 Dialogue: 0,0:00:10.24,0:00:15.53,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 0,0:00:20.37,0:00:22.79,Main,Narrator,0,0,0,,The Pokémon World Championships...{Copy-paste from episode 51 START}
-Dialogue: 0,0:00:22.79,0:00:26.46,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon battler.
+Dialogue: 0,0:00:22.79,0:00:26.46,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon Battler.
 Dialogue: 0,0:00:26.46,0:00:31.38,Main,Narrator,0,0,0,,In the hopes of battling Dande, \N the current Supreme Monarch,
 Dialogue: 0,0:00:31.38,0:00:34.72,Main,Narrator,0,0,0,,Satoshi is participating \N in the Championships.
 Dialogue: 0,0:00:35.26,0:00:37.89,Main,Narrator,0,0,0,,Trainers from all over the world \N are taking part.
@@ -1456,8 +1456,8 @@ Dialogue: 1,0:22:07.18,0:22:10.19,ED,,0,0,0,,{\fad(340,0)}Shiritori set to Poké
 Dialogue: 0,0:22:07.18,0:22:10.19,EDp2,,0,0,0,,{\fad(340,0)}Shiritori set to Pokémon Techno
 Dialogue: 1,0:22:10.19,0:22:13.52,ED,,0,0,0,,Chain the names of Pokémon
 Dialogue: 0,0:22:10.19,0:22:13.52,EDp2,,0,0,0,,Chain the names of Pokémon
-Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N”, you lose
-Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N”, you lose
+Dialogue: 1,0:22:13.52,0:22:16.53,ED,,0,0,0,,If it ends in an “N,” you lose
+Dialogue: 0,0:22:13.52,0:22:16.53,EDp2,,0,0,0,,If it ends in an “N,” you lose
 Dialogue: 1,0:22:16.53,0:22:20.15,ED,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 0,0:22:16.53,0:22:20.15,EDp2,,0,0,0,,{\fad(0,340)}Okay, let's go one more time!
 Dialogue: 1,0:22:44.47,0:22:47.31,ED,,0,0,0,,{\fad(340,0)}Shiritori with the Music Club

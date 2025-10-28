@@ -183,7 +183,7 @@ Dialogue: 0,0:10:03.79,0:10:05.45,Main,Go,0,0,0,,It’s a new task!
 Dialogue: 0,0:10:05.45,0:10:09.11,Main,Go,0,0,0,,Task 2: \N Catch a Hagigishiri.
 Dialogue: 0,0:10:09.11,0:10:10.71,Main,Satoshi,0,0,0,,Hagigishiri, huh?
 Dialogue: 0,0:10:11.73,0:10:16.11,Main,Rotom Go Ver,0,0,0,,Hagigishiri! Gnash Teeth Pokémon! \N Water/Psychic type!
-Dialogue: 0,0:10:16.11,0:10:19.53,Main,Rotom Go Ver,0,0,0,,When it unleashes its psychic power \N from the protuberance on its head,
+Dialogue: 0,0:10:16.11,0:10:19.53,Main,Rotom Go Ver,0,0,0,,When it unleashes its psycho-power \N from the protuberance on its head,
 Dialogue: 0,0:10:19.53,0:10:23.10,Main,Rotom Go Ver,0,0,0,,the grating sound of grinding teeth \N echoes through the area!{Sun dex entry -blu}{YOU talking about grating sounds? THE IRONY. -Starfish}
 Dialogue: 0,0:10:23.77,0:10:25.35,Main,Go,0,0,0,,Are they in this lake?
 Dialogue: 0,0:10:25.35,0:10:27.38,Main,Satoshi,0,0,0,,Hmm... I can’t tell...
@@ -196,7 +196,7 @@ Comment: 0,0:11:07.47,0:11:07.47,Main,,0,0,0,,{Part C}
 Dialogue: 0,0:11:16.43,0:11:17.88,Main,Satoshi,0,0,0,,It was over there somewhere!
 Dialogue: 0,0:11:17.88,0:11:20.27,Main,Go,0,0,0,,Come on out, Namakobushi!
 Dialogue: 0,0:11:22.74,0:11:24.83,Main,Go,0,0,0,,Battle Hagigishiri \N so I can catch it!
-Dialogue: 0,0:11:31.75,0:11:33.58,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:11:31.75,0:11:33.58,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:11:40.42,0:11:42.13,Main,Go,0,0,0,,Namakobushi! Toxic!
 Dialogue: 0,0:11:49.56,0:11:52.14,Main,Go,0,0,0,,Monster Ball, go!
 Dialogue: 0,0:12:00.95,0:12:04.66,Main,Rotom Go Ver,0,0,0,,Hagigishiri’s data will be \N added to the Index!
