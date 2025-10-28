@@ -25,12 +25,12 @@ Video Position: 34
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -177,7 +177,7 @@ Dialogue: 0,0:07:47.68,0:07:50.40,Main,Kaki,0,0,0,,If it were me, I’d go with 
 Dialogue: 0,0:07:52.70,0:07:55.50,Main,Mamane,0,0,0,,But this {\i1}is{\i0} Satoshi \N we’re talking about.
 Dialogue: 0,0:07:55.50,0:08:00.66,Main,Mamane,0,0,0,,So maybe Lugarugan? \N Or Nyaheat? Or even Pikachu?
 Dialogue: 0,0:08:01.43,0:08:05.19,Main,Rotom,0,0,0,,He’s fighting Banbadoro! \N Pikachu would put him at the {\i1}biggest{\i0} disadvantage-roto!
-Dialogue: 0,0:08:05.19,0:08:07.92,Main,Rotom,0,0,0,,Neither 100,000 Volts nor Electroweb \N will work on it-roto!
+Dialogue: 0,0:08:05.19,0:08:07.92,Main,Rotom,0,0,0,,Neither 100,000 Volts nor Electric Net \N will work on it-roto!
 Dialogue: 0,0:08:09.10,0:08:13.44,Main,Kaki,0,0,0,,Satoshi, have you decided \N who you’ll be using in the Grand Trial?
 Dialogue: 0,0:08:13.44,0:08:14.57,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 0,0:08:14.57,0:08:15.43,Main,Suiren,0,0,0,,You’re wide open!
@@ -268,7 +268,7 @@ Dialogue: 0,0:14:34.39,0:14:36.18,Main,Satoshi,0,0,0,,Pikachu, run!
 Dialogue: 0,0:14:57.16,0:14:57.91,Main,Satoshi,0,0,0,,Pikachu!
 Dialogue: 0,0:15:10.54,0:15:14.56,Main,Rotom,0,0,0,,A fall from that height has \N a 100% chance of incapacitating him{If there was ever a situation where I REALLY don’t want to use "unable to battle", this is it. -Starfish}-roto!
 Dialogue: 0,0:15:16.31,0:15:17.56,Main,Satoshi,0,0,0,,Calm down! {RULE BREAKER! - Toa}
-Dialogue: 0,0:15:18.12,0:15:20.27,Main,Satoshi,0,0,0,,Pikachu, fire an Electroweb down!
+Dialogue: 0,0:15:18.12,0:15:20.27,Main,Satoshi,0,0,0,,Pikachu, fire an Electric Net down!
 Dialogue: 0,0:15:39.16,0:15:40.29,Main,Satoshi,0,0,0,,Are you all right?
 Dialogue: 0,0:15:44.54,0:15:46.55,Main,Mao,0,0,0,,Great call, Satoshi!
 Dialogue: 0,0:15:46.55,0:15:50.03,Main,Hapu,0,0,0,,He utilized an Electric move that \N would have no effect in this battle...
@@ -284,7 +284,7 @@ Dialogue: 0,0:16:36.82,0:16:39.23,Main,Hapu,0,0,0,,Banbadoro, \N continue attack
 Dialogue: 0,0:16:42.94,0:16:44.94,Main,Satoshi,0,0,0,,Pikachu, \N stop where you are!
 Dialogue: 0,0:16:48.40,0:16:49.65,Main,Hapu,0,0,0,,Now! Ground Stomp!
 Dialogue: 0,0:16:51.94,0:16:53.94,Main,Satoshi,0,0,0,,Pikachu, jump off the pillar! {RULE BREAKER! - Toa}
-Dialogue: 0,0:17:04.37,0:17:06.70,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:17:04.37,0:17:06.70,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:17:13.22,0:17:14.55,Main,Hapu,0,0,0,,What?!
 Dialogue: 0,0:17:15.63,0:17:17.62,Main,Rotom,0,0,0,,Analyzing... Analyzing...
 Dialogue: 0,0:17:17.62,0:17:22.82,Main,Rotom,0,0,0,,Unbelievable! The seawater covering Banbadoro \N has induced the effects of the move Soak-roto!

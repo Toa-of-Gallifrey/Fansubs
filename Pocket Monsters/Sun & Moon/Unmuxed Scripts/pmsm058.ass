@@ -23,13 +23,13 @@ Video Position: 24
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,8 +48,8 @@ Dialogue: 1,0:03:23.05,0:03:26.06,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:03:23.05,0:03:26.06,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:03:26.06,0:03:29.43,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:03:26.06,0:03:29.43,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:03:29.43,0:03:34.23,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:03:29.43,0:03:34.23,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:03:29.43,0:03:34.23,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:03:29.43,0:03:34.23,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:03:34.23,0:03:35.98,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:03:34.23,0:03:35.98,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:03:35.98,0:03:38.53,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -105,7 +105,7 @@ Dialogue: 0,0:19:20.27,0:19:21.64,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Co
 Dialogue: 0,0:19:21.64,0:19:23.19,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:19:23.19,0:19:26.61,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
 Dialogue: 0,0:19:26.61,0:19:29.69,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,{Couldn’t resist -Starfish}
-Dialogue: 0,0:19:29.69,0:19:33.03,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
+Dialogue: 0,0:19:29.69,0:19:33.03,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny Earth,
 Dialogue: 0,0:19:33.03,0:19:36.28,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:19:36.28,0:19:41.37,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together! What a great feeling!
 Dialogue: 0,0:19:41.37,0:19:44.25,Insert,Team Rocket Theme,0,0,0,,{\an8}Wherever we land,
@@ -172,7 +172,7 @@ Dialogue: 0,0:05:10.46,0:05:13.05,Main,Narrator,0,0,0,,You also seem pretty \N s
 Dialogue: 0,0:05:14.26,0:05:15.59,Main,Kojiro,0,0,0,,{\i1}That’s{\i0} what we have in common?!
 Dialogue: 0,0:05:15.59,0:05:16.97,Main,Musashi,0,0,0,,He healed.
 Dialogue: 0,0:05:36.81,0:05:38.19,Main,Team Rocket,0,0,0,,What?!
-Dialogue: 0,0:05:43.99,0:05:45.04,Main,Kojiro,0,0,0,,W-What happened?{my head exploded somewhere around here. -BYH.}
+Dialogue: 0,0:05:43.99,0:05:45.04,Main,Kojiro,0,0,0,,Wh-What happened?{my head exploded somewhere around here. -BYH.}
 Dialogue: 0,0:05:45.04,0:05:46.66,Main,Musashi,0,0,0,,We’re in for a bloodbath!
 Dialogue: 0,0:05:46.66,0:05:47.91,Main,Musashi,0,0,0,,Nyarth, translate!
 Dialogue: 0,0:05:47.91,0:05:49.37,Main,Nyarth,0,0,0,,Guess I’ve got no choice, meow.
@@ -214,7 +214,7 @@ Dialogue: 0,0:08:02.67,0:08:04.50,Main,Musashi,0,0,0,,The man’s completely hop
 Dialogue: 0,0:08:07.76,0:08:09.51,Main,Nyarth,0,0,0,,Maybe not, meow.
 Dialogue: 0,0:08:10.01,0:08:15.26,Main,Nyarth,0,0,0,,He’s saying that he just happened to pick up \N a Sunnygo horn that another Hidoide dropped, meow. {Compressed “be picking” to “pick” and omitted “had”. - Toa}
 Dialogue: 0,0:08:15.77,0:08:18.26,Main,Musashi,0,0,0,,Really? Sounds like an excuse.
-Dialogue: 0,0:08:20.98,0:08:22.02,Main,Kojiro,0,0,0,,T-That’s...
+Dialogue: 0,0:08:20.98,0:08:22.02,Main,Kojiro,0,0,0,,Th-That’s...
 Dialogue: 0,0:08:28.38,0:08:28.91,Main,Kojiro,0,0,0,,Huh?
 Dialogue: 0,0:08:28.91,0:08:30.40,Main,Kojiro,0,0,0,,H-Hey, Hidoide...
 Dialogue: 0,0:08:40.92,0:08:42.16,Main,Kojiro,0,0,0,,What’s the big idea?!
@@ -286,7 +286,7 @@ Dialogue: 0,0:16:58.33,0:17:01.37,Main,Kojiro,0,0,0,,Now I won’t get poisoned 
 Dialogue: 0,0:17:01.96,0:17:04.62,Main,Kojiro,0,0,0,,And I can catch Pokémon \N without her getting in my way.
 Dialogue: 0,0:17:05.17,0:17:08.13,Main,Kojiro,0,0,0,,I won’t have to worry about \N any fits of jealous rage.
 Dialogue: 0,0:17:10.10,0:17:12.76,Main,Kojiro,0,0,0,,This is fine... Just fine...
-Dialogue: 0,0:17:24.23,0:17:26.98,Main,Kojiro,0,0,0,,Ow... W-What?
+Dialogue: 0,0:17:24.23,0:17:26.98,Main,Kojiro,0,0,0,,Ow... Wh-What?
 Dialogue: 0,0:17:30.73,0:17:33.07,Main,Kojiro,0,0,0,,What? Why?
 Dialogue: 0,0:17:35.54,0:17:36.50,Main,Kojiro,0,0,0,,What?
 Dialogue: 0,0:17:36.50,0:17:41.75,Main,Nyarth,0,0,0,,Looks like he’s pretty angry at you, \N for making Hidoide cry, meow. {Replaced “with” with “at”. - Toa}

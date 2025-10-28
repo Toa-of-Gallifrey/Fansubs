@@ -23,13 +23,13 @@ Video Position: 25
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -321,7 +321,7 @@ Dialogue: 0,0:16:18.60,0:16:21.42,Main,Rotom,0,0,0,,The Ishitsubute you know \N 
 Dialogue: 0,0:16:21.42,0:16:23.26,Main,Satoshi,0,0,0,,Yeah, that’s the one!
 Dialogue: 0,0:16:23.26,0:16:26.42,Main,Satoshi,0,0,0,,All right, I’m gonna \N catch its Alolan form!
 Dialogue: 0,0:16:28.44,0:16:29.46,Main,Satoshi,0,0,0,,Hey, wait!
-Dialogue: 0,0:16:31.65,0:16:33.14,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:16:31.65,0:16:33.14,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:16:39.97,0:16:43.06,Main,Rotom,0,0,0,,They’re both Electric types, \N so it’s not very effective-roto!
 Dialogue: 0,0:16:43.86,0:16:44.77,Main,Satoshi,0,0,0,,Here it comes, Pikachu!
 Dialogue: 0,0:16:47.56,0:16:48.56,Main,Satoshi,0,0,0,,Iron Tail!

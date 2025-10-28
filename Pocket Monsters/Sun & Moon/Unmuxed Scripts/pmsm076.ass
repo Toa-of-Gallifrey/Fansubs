@@ -23,13 +23,13 @@ Video Position: 31
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00FE59FB,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F6AF47,&H00F5FEF5,&H00F6AF47,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -142,7 +142,7 @@ Dialogue: 0,0:00:22.79,0:00:25.17,Main,Musashi,0,0,0,,Are you ready, Mimikkyu?
 Dialogue: 0,0:00:26.01,0:00:27.43,Main,Musashi,0,0,0,,Now, let’s go!
 Dialogue: 0,0:00:27.43,0:00:28.29,Main,Kojiro,0,0,0,,Yeah!
 Dialogue: 0,0:00:39.43,0:00:41.06,Main,Musashi,0,0,0,,Oh, yeah!
-Dialogue: 0,0:00:44.95,0:00:48.31,Main,Musashi,0,0,0,,W-What? Just when things \N were getting good!
+Dialogue: 0,0:00:44.95,0:00:48.31,Main,Musashi,0,0,0,,Wh-What? Just when things \N were getting good!
 Dialogue: 0,0:00:50.95,0:00:52.91,Main,Matori,0,0,0,,It’s time for your regular report.
 Dialogue: 0,0:00:53.45,0:00:56.91,Main,Matori,0,0,0,,Has your trip to Ula'ula Island \N produced any results?
 Dialogue: 0,0:00:56.91,0:00:59.33,Main,Musashi,0,0,0,,We’re doing just fine.
@@ -179,15 +179,15 @@ Dialogue: 0,0:04:03.41,0:04:04.42,Main,Satoshi,0,0,0,,Let’s go, Pikachu!
 Dialogue: 0,0:04:04.87,0:04:06.81,Main,Satoshi,0,0,0,,Use Lightning Speed on Lugarugan!
 Dialogue: 0,0:04:08.57,0:04:12.02,Main,Satoshi,0,0,0,,Lugarugan, dodge \N and use Accelerock on Pikachu!
 Dialogue: 0,0:04:13.98,0:04:15.77,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
-Dialogue: 0,0:04:20.75,0:04:22.66,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:04:20.75,0:04:22.66,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:04:22.66,0:04:24.70,Main,Satoshi,0,0,0,,Lugarugan, dodge it!
 Dialogue: 0,0:04:40.51,0:04:42.23,Main,Acerola,0,0,0,,He’s not angry-roto!
 Dialogue: 0,0:04:42.23,0:04:44.10,Main,Satoshi,0,0,0,,Well done, Lugarugan!
 Dialogue: 0,0:04:44.10,0:04:46.22,Main,Acerola,0,0,0,,Looks like he’s worked it out.
 Dialogue: 0,0:04:50.69,0:04:52.41,Main,Satoshi,0,0,0,,And you, Pikachu? \N You okay?
 Dialogue: 0,0:04:54.24,0:04:57.86,Main,Satoshi,0,0,0,,There, there. \N I’ll wash you and Lugarugan later.
-Dialogue: 0,0:04:58.53,0:05:02.75,Main,Satoshi,0,0,0,,But what happened with \N that Electro Ball just now?
-Dialogue: 0,0:05:02.75,0:05:05.50,Main,Rotom,0,0,0,,It looked as if \N the Electro Ball {\i1}popped{\i0}-roto.
+Dialogue: 0,0:04:58.53,0:05:02.75,Main,Satoshi,0,0,0,,But what happened with \N that Electric Ball just now?
+Dialogue: 0,0:05:02.75,0:05:05.50,Main,Rotom,0,0,0,,It looked as if \N the Electric Ball {\i1}popped{\i0}-roto.
 Dialogue: 0,0:05:09.88,0:05:10.45,Main,Satoshi,0,0,0,,Ow!
 Dialogue: 0,0:05:11.75,0:05:13.71,Main,Satoshi,0,0,0,,Fine, I got it!
 Dialogue: 0,0:05:14.26,0:05:15.57,Main,Satoshi,0,0,0,,All right!
@@ -226,8 +226,8 @@ Dialogue: 0,0:06:57.32,0:06:58.82,Main,Satoshi,0,0,0,,All right!
 Dialogue: 0,0:06:58.82,0:07:00.82,Main,Satoshi,0,0,0,,Let’s do our best, Lugarugan!
 Dialogue: 0,0:07:00.82,0:07:03.19,Main,Satoshi,0,0,0,,So, what sort of Trial will it be?
 Dialogue: 0,0:07:03.19,0:07:07.54,Main,Kuchinashi,0,0,0,,There are some trainers with a Mimikkyu \N at the ruins of Mega Cheap Supermarket.
-Dialogue: 0,0:07:07.54,0:07:10.78,Main,Kuchinashi,0,0,0,,Defeat ‘em in a Pokémon battle.
-Dialogue: 0,0:07:10.78,0:07:14.12,Main,Satoshi,0,0,0,,A Pokémon battle? \N That’s perfect!
+Dialogue: 0,0:07:07.54,0:07:10.78,Main,Kuchinashi,0,0,0,,Defeat ‘em in a Pokémon Battle.
+Dialogue: 0,0:07:10.78,0:07:14.12,Main,Satoshi,0,0,0,,A Pokémon Battle? \N That’s perfect!
 Dialogue: 0,0:07:14.12,0:07:16.55,Main,Kuchinashi,0,0,0,,Acerola, you be the judge.
 Dialogue: 0,0:07:16.55,0:07:17.59,Main,Acerola,0,0,0,,Sure!
 Dialogue: 0,0:07:18.05,0:07:20.04,Main,Acerola,0,0,0,,Mimikins, \N we have work to do!
@@ -281,7 +281,7 @@ Dialogue: 0,0:10:28.36,0:10:29.98,Main,Doll Musashi,0,0,0,,Clever as always, Nya
 Dialogue: 0,0:10:29.98,0:10:31.57,Main,Doll Kojiro,0,0,0,,Very impressive.
 Dialogue: 0,0:10:32.20,0:10:34.29,Main,Doll Nyarth,0,0,0,,We’ll get Pikachu, meow.
 Dialogue: 0,0:10:34.29,0:10:36.49,Main,Doll Musashi,0,0,0,,Nyarth, you’re the best.
-Dialogue: 0,0:10:36.49,0:10:37.91,Main,Doll Kojiro,0,0,0,,W-W-What a great feeling.
+Dialogue: 0,0:10:36.49,0:10:37.91,Main,Doll Kojiro,0,0,0,,W-Wh-What a great feeling.
 Dialogue: 0,0:10:40.50,0:10:44.38,Main,Doll Nyarth,0,0,0,,I’ve settled on this plan, meow.
 Dialogue: 0,0:10:44.38,0:10:48.97,Main,Doll Musashi,0,0,0,,C-C-C-C-Clever as always, \N N-N-N-Nyarth. Nyarth.
 Dialogue: 0,0:10:48.97,0:10:50.93,Main,Doll Kojiro,0,0,0,,Very impressive.
@@ -312,7 +312,7 @@ Dialogue: 0,0:12:27.02,0:12:29.49,Main,Satoshi,0,0,0,,Pikachu, use Iron Tail!
 Dialogue: 0,0:12:37.11,0:12:38.78,Main,Rotom,0,0,0,,It’s Disguise-roto!
 Dialogue: 0,0:12:47.50,0:12:49.00,Main,Satoshi,0,0,0,,It really is strong!
 Dialogue: 0,0:12:55.64,0:12:57.99,Main,Satoshi,0,0,0,,Fighting up close \N gives them an advantage...
-Dialogue: 0,0:12:57.99,0:13:00.00,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:12:57.99,0:13:00.00,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:13:07.39,0:13:08.78,Main,Satoshi,0,0,0,,Another one, Pikachu!
 Dialogue: 0,0:13:17.61,0:13:18.79,Main,Satoshi,0,0,0,,What?
 Dialogue: 0,0:13:18.79,0:13:21.20,Main,Rotom,0,0,0,,It’s a repeat of the morning \N training session-roto!
@@ -338,7 +338,7 @@ Dialogue: 0,0:15:16.56,0:15:17.81,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:15:41.17,0:15:42.30,Main,Satoshi,0,0,0,,Pikachu, behind you!
 Dialogue: 0,0:15:57.14,0:16:00.44,Main,Acerola,0,0,0,,That Mimikkyu and Pikachu \N are both amazing. Right, Mimikins? {Added another “k” to “Mimikkyu”. Also, suggesting that this be made into two sentences as such: “That Mimikkyu and Pikachu are both amazing. Right, Mimikins?” - Toa}
 Dialogue: 0,0:16:05.15,0:16:06.79,Main,Satoshi,0,0,0,,Don’t lose, Pikachu!
-Dialogue: 0,0:16:06.79,0:16:08.13,Main,Satoshi,0,0,0,,Electro Ball!
+Dialogue: 0,0:16:06.79,0:16:08.13,Main,Satoshi,0,0,0,,Electric Ball!
 Dialogue: 0,0:16:14.92,0:16:15.75,Main,Team Rocket,0,0,0,,{\i1}Watch it!{\i0}
 Dialogue: 0,0:16:18.08,0:16:19.25,Main,Nyarth,0,0,0,,Never mind that, look!
 Dialogue: 0,0:16:25.26,0:16:28.38,Main,Nyarth,0,0,0,,Mimikkyu’s got \N the clear upper hand, meow!
@@ -351,11 +351,11 @@ Dialogue: 0,0:16:50.41,0:16:52.00,Main,Musashi,0,0,0,,This is...
 Dialogue: 0,0:16:52.00,0:16:53.25,Main,Nyarth,0,0,0,,...our...
 Dialogue: 0,0:16:53.25,0:16:54.66,Main,Kojiro,0,0,0,,...Z-Move!
 Dialogue: 0,0:17:03.59,0:17:06.05,Main,Musashi,0,0,0,,Go, Mimikkyu!
-Dialogue: 0,0:17:09.02,0:17:11.89,Main,Nyarth,0,0,0,,Apparently the move is called \N “Snuggly Friend Time”, meow.
+Dialogue: 0,0:17:09.02,0:17:11.89,Main,Nyarth,0,0,0,,Apparently the move is called \N “Snuggly Friend Time,” meow.
 Dialogue: 0,0:17:11.89,0:17:13.93,Main,Musashi,0,0,0,,Okay, Mimikkyu!
 Dialogue: 0,0:17:13.93,0:17:15.35,Main,Musashi,0,0,0,,Snuggly...
 Dialogue: 0,0:17:15.35,0:17:17.52,Main,Team Rocket,0,0,0,,{\i1}...Friend Time!{\i0}
-Dialogue: 0,0:17:22.45,0:17:23.78,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:17:22.45,0:17:23.78,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:17:33.37,0:17:35.45,Main,Rotom,0,0,0,,He’s trapped-roto!
 Dialogue: 0,0:17:35.45,0:17:36.95,Main,Satoshi,0,0,0,,Pikachu!
 Dialogue: 0,0:17:38.71,0:17:44.08,Main,Nyarth,0,0,0,,Snuggly Friend Time... \N What a terrifying Z-Move, meow...
@@ -371,11 +371,11 @@ Dialogue: 0,0:18:09.20,0:18:10.50,Main,Kojiro,0,0,0,,What’s that?
 Dialogue: 0,0:18:16.46,0:18:18.20,Main,Satoshi,0,0,0,,Are you all right, Pikachu?
 Dialogue: 0,0:18:19.46,0:18:20.34,Main,Rotom,0,0,0,,That’s...
 Dialogue: 0,0:18:20.34,0:18:22.54,Main,Rotom,0,0,0,,Calculating... Calculating...
-Dialogue: 0,0:18:23.17,0:18:24.80,Main,Rotom,0,0,0,,It’s Electroweb-roto!{Yeah okay HOW? That’s a friggin’ MOVE TUTOR MOVE! HOW DARE THIS ANIME NOT PERFECTLY ADHERE TO GAME LOGIC AT ALL TIMES!!!}{Move that ressemble the one he came up with back in Shinnoh to counter the Hearthome Gym Leader Melissa...Recycled much - Vgtw}
+Dialogue: 0,0:18:23.17,0:18:24.80,Main,Rotom,0,0,0,,It’s Electric Net-roto!{Yeah okay HOW? That’s a friggin’ MOVE TUTOR MOVE! HOW DARE THIS ANIME NOT PERFECTLY ADHERE TO GAME LOGIC AT ALL TIMES!!!}{Move that ressemble the one he came up with back in Shinnoh to counter the Hearthome Gym Leader Melissa...Recycled much - Vgtw}
 Dialogue: 0,0:18:24.80,0:18:27.74,Main,Rotom,0,0,0,,He covered himself in a net of electricity \N to protect himself-roto!
 Dialogue: 0,0:18:27.74,0:18:28.42,Main,Satoshi,0,0,0,,Really?!
-Dialogue: 0,0:18:29.01,0:18:32.77,Main,Satoshi,0,0,0,,Amazing, Pikachu! \N So you’ve learned Electroweb?
-Dialogue: 0,0:18:32.77,0:18:35.93,Main,Satoshi,0,0,0,,All right! \N Then, use Electroweb again!
+Dialogue: 0,0:18:29.01,0:18:32.77,Main,Satoshi,0,0,0,,Amazing, Pikachu! \N So you’ve learned Electric Net?
+Dialogue: 0,0:18:32.77,0:18:35.93,Main,Satoshi,0,0,0,,All right! \N Then, use Electric Net again!
 Dialogue: 0,0:18:41.93,0:18:43.28,Main,Musashi,0,0,0,,What was that?!
 Dialogue: 0,0:18:43.28,0:18:44.94,Main,Kojiro,0,0,0,,He stopped it from moving?!
 Dialogue: 0,0:18:44.94,0:18:46.56,Main,Satoshi,0,0,0,,We’ll use a Z-Move, too!
@@ -394,7 +394,7 @@ Dialogue: 0,0:20:10.11,0:20:13.23,Main,Acerola,0,0,0,,Satoshi and Pikachu \N win
 Dialogue: 0,0:20:13.23,0:20:14.86,Main,Satoshi,0,0,0,,We did it!
 Dialogue: 0,0:20:14.86,0:20:16.74,Main,Satoshi,0,0,0,,We won, Pikachu!
 Dialogue: 0,0:20:20.38,0:20:23.22,Main,Musashi,0,0,0,,Mimikkyu! \N You can still keep going, can’t you?!
-Dialogue: 0,0:20:30.26,0:20:32.00,Main,Musashi,0,0,0,,W-What?
+Dialogue: 0,0:20:30.26,0:20:32.00,Main,Musashi,0,0,0,,Wh-What?
 Dialogue: 0,0:20:34.83,0:20:36.78,Main,Musashi,0,0,0,,What, what, what?!
 Dialogue: 0,0:20:39.19,0:20:41.64,Main,Kojiro,0,0,0,,You’re buying us?!{Thanks For your patronage - Vgtw}
 Dialogue: 0,0:20:47.94,0:20:51.15,Main,Team Rocket,0,0,0,,What even {\i1}is{\i0} this feeling?
@@ -404,7 +404,7 @@ Dialogue: 0,0:21:09.80,0:21:11.34,Main,Satoshi,0,0,0,,Thank you!
 Dialogue: 0,0:21:11.34,0:21:14.08,Main,Satoshi,0,0,0,,Think he’ll let me take \N the Grand Trial now?
 Dialogue: 0,0:21:14.51,0:21:17.34,Main,Kuchinashi,0,0,0,,What, you went and won?
 Dialogue: 0,0:21:18.25,0:21:22.63,Main,Acerola,0,0,0,,Listen to this! Satoshi and Pikachu’s \N 10,000,000 Volts was amazing!
-Dialogue: 0,0:21:22.63,0:21:24.84,Main,Rotom,0,0,0,,He learned Electroweb, too-roto!
+Dialogue: 0,0:21:22.63,0:21:24.84,Main,Rotom,0,0,0,,He learned Electric Net, too-roto!
 Dialogue: 0,0:21:25.23,0:21:27.60,Main,Satoshi,0,0,0,,It’s all because you worked so hard!
 Dialogue: 0,0:21:28.82,0:21:30.86,Main,Satoshi,0,0,0,,This means we’ve \N cleared the Trial, right?
 Dialogue: 0,0:21:31.27,0:21:34.97,Main,Kuchinashi,0,0,0,,Guess I got no choice... \N A promise is a promise.

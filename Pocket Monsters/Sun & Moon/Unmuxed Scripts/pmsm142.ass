@@ -20,12 +20,12 @@ Active Line: 85
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -169,7 +169,7 @@ Dialogue: 0,0:05:15.62,0:05:18.58,Main,Satoshi,0,0,0,,Thanks. You gave it your a
 Dialogue: 0,0:05:20.59,0:05:22.21,Main,Satoshi,0,0,0,,Fight air with air.
 Dialogue: 0,0:05:23.05,0:05:25.51,Main,Satoshi,0,0,0,,Mokuroh, I choose you!
 Dialogue: 0,0:05:33.89,0:05:36.81,Main,Satoshi,0,0,0,,Mokuroh! \N Time to show your stuff!
-Dialogue: 0,0:05:38.02,0:05:39.27,Main,Satoshi,0,0,0,,Razor Leaf!
+Dialogue: 0,0:05:38.02,0:05:39.27,Main,Satoshi,0,0,0,,Leaf Cutter!
 Dialogue: 0,0:05:41.98,0:05:43.07,Main,Kukui,0,0,0,,Steel Wing!
 Dialogue: 0,0:05:47.61,0:05:48.87,Main,Satoshi,0,0,0,,Go!
 Dialogue: 0,0:05:51.66,0:05:54.25,Main,Kukui,0,0,0,,An aerial battle, huh? \N Very well!
@@ -288,9 +288,9 @@ Dialogue: 0,0:14:04.86,0:14:06.49,Main,Satoshi,0,0,0,,Now, who will you send out
 Dialogue: 0,0:14:09.03,0:14:11.95,Main,Satoshi,0,0,0,,All right, Pikachu! \N It’s your turn!
 Dialogue: 0,0:14:11.95,0:14:13.45,Main,Satoshi,0,0,0,,I choose you!
 Dialogue: 0,0:14:17.25,0:14:21.34,Main,Jeekyo,0,0,0,,He faces the Water-type Emperte \N with the Electric-type Pikachu!
-Dialogue: 0,0:14:21.34,0:14:23.30,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:14:21.34,0:14:23.30,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:14:26.59,0:14:28.22,Main,Kukui,0,0,0,,Emperte! Metal Claw!
-Dialogue: 0,0:14:34.18,0:14:37.31,Main,Jeekyo,0,0,0,,Emperte made quick work \N of the Electroweb!
+Dialogue: 0,0:14:34.18,0:14:37.31,Main,Jeekyo,0,0,0,,Emperte made quick work \N of the Electric Net!
 Dialogue: 0,0:14:38.06,0:14:41.19,Main,Satoshi,0,0,0,,Then we’ll fight Steel with Steel!
 Dialogue: 0,0:14:41.19,0:14:42.40,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:14:44.90,0:14:46.15,Main,Kukui,0,0,0,,Metal Claw!
@@ -298,8 +298,8 @@ Dialogue: 0,0:14:57.00,0:14:59.12,Main,Burnet,0,0,0,,He’s positively beaming.
 Dialogue: 0,0:14:59.12,0:15:00.37,Main,Hanako,0,0,0,,As is Satoshi.
 Dialogue: 0,0:15:01.58,0:15:06.00,Main,Burnet,0,0,0,,Your dream came true \N in the best way possible, Kukui.
 Dialogue: 0,0:15:07.46,0:15:09.22,Main,Kukui,0,0,0,,Drill Beak!
-Dialogue: 0,0:15:11.22,0:15:12.43,Main,Satoshi,0,0,0,,Electroweb!
-Dialogue: 0,0:15:15.31,0:15:18.81,Main,Jeekyo,0,0,0,,It stopped! \N Electroweb did its job!
+Dialogue: 0,0:15:11.22,0:15:12.43,Main,Satoshi,0,0,0,,Electric Net!
+Dialogue: 0,0:15:15.31,0:15:18.81,Main,Jeekyo,0,0,0,,It stopped! \N Electric Net did its job!
 Dialogue: 0,0:15:20.77,0:15:21.90,Main,Kukui,0,0,0,,Whirlpool!
 Dialogue: 0,0:15:28.90,0:15:32.36,Main,Jeekyo,0,0,0,,Pikachu is trapped in the Whirlpool!
 Dialogue: 0,0:15:32.36,0:15:33.57,Main,Satoshi,0,0,0,,Pikachu!
@@ -339,7 +339,7 @@ Dialogue: 0,0:17:43.16,0:17:46.16,Main,Satoshi,0,0,0,,Your Pokémon are \N crazy
 Dialogue: 0,0:17:46.16,0:17:47.71,Main,Kukui,0,0,0,,Thank you!
 Dialogue: 0,0:17:47.71,0:17:53.34,Main,Kukui,0,0,0,,I’m so glad I got to have \N a battle so filled with surprises!
 Dialogue: 0,0:17:53.34,0:17:55.05,Main,Satoshi,0,0,0,,Professor...
-Dialogue: 0,0:17:55.05,0:18:00.18,Main,Kukui,0,0,0,,Now {\i1}this{\i0} is a Pokémon battle!
+Dialogue: 0,0:17:55.05,0:18:00.18,Main,Kukui,0,0,0,,Now {\i1}this{\i0} is a Pokémon Battle!
 Dialogue: 0,0:18:00.64,0:18:01.93,Main,Sauboh,0,0,0,,Royal Mask...
 Dialogue: 0,0:18:02.35,0:18:05.43,Main,Sauboh,0,0,0,,...would have gone “Enjoy” there!
 Dialogue: 0,0:18:07.44,0:18:09.31,Main,Kukui,0,0,0,,And so, Satoshi...
@@ -384,14 +384,14 @@ Dialogue: 0,0:20:41.67,0:20:45.43,Main,Jeekyo,0,0,0,,Competitor Satoshi’s sixt
 Dialogue: 0,0:20:45.43,0:20:47.22,Main,Hanako,0,0,0,,Oh, my! Goyo-chan!
 Dialogue: 0,0:20:47.22,0:20:48.14,Main,Burnet,0,0,0,,“Goyo-chan”?
 Dialogue: 0,0:20:48.14,0:20:50.56,Main,Hanako,0,0,0,,It’s Agoyon, so “Goyo-chan”!
-Dialogue: 0,0:20:51.68,0:20:56.90,Main,Wicke,0,0,0,,An Ultra Beast appearing in a Pokémon battle arena \N under the command of a trainer...
+Dialogue: 0,0:20:51.68,0:20:56.90,Main,Wicke,0,0,0,,An Ultra Beast appearing in a Pokémon Battle arena \N under the command of a trainer...
 Dialogue: 0,0:20:57.44,0:21:00.32,Main,Wicke,0,0,0,,I feel the romanticism in the air!
 Dialogue: 0,0:21:00.32,0:21:02.86,Main,Lusamine,0,0,0,,Giving it to Satoshi \N was the right choice.
 Dialogue: 0,0:21:10.33,0:21:14.16,Main,Satoshi,0,0,0,,Counting on you, Agoyon! \N Show them your power!
 Dialogue: 0,0:21:18.13,0:21:20.84,Main,Kukui,0,0,0,,This’ll be a fun battle!
 Dialogue: 0,0:21:21.30,0:21:23.51,Main,Kukui,0,0,0,,Lucario! Let’s go all out!
 Dialogue: 0,0:21:24.84,0:21:29.43,Main,Jeekyo,0,0,0,,The unknown Ultra Beast, Agoyon, VS the Aura Pokémon, Lucario!
-Dialogue: 0,0:21:29.43,0:21:35.27,Main,Jeekyo,0,0,0,,In all the vast history of Pokémon battling, \N you won’t find many examples of a match-up like this one!
+Dialogue: 0,0:21:29.43,0:21:35.27,Main,Jeekyo,0,0,0,,In all the vast history of Pokémon Battling, \N you won’t find many examples of a match-up like this one!
 Dialogue: 0,0:21:38.52,0:21:40.65,Main,Satoshi,0,0,0,,Here we go! Cross Scissor!
 Dialogue: 0,0:21:43.40,0:21:44.65,Main,Kukui,0,0,0,,Infight!
 Dialogue: 0,0:21:49.16,0:21:54.75,Main,Narrator,0,0,0,,Satoshi VS Kukui! \N The fierce back-and-forth continues next time!

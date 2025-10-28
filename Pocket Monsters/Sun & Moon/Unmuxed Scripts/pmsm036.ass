@@ -22,13 +22,13 @@ Video Position: 51
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -79,7 +79,7 @@ Dialogue: 0,0:23:10.91,0:23:20.54,OPED,,0,0,0,,So that we can meet here again on
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:18:48.14,0:18:51.31,Insert,Alola!!,0,0,0,,Just standing around waiting \N won’t get us anywhere
 Dialogue: 1,0:18:51.31,0:18:54.15,Insert,Alola!!,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:18:54.15,0:18:59.53,Insert,Alola!!,0,0,0,,the sun, the moon, the Pokémon and that girl \N all turn to look in awe
+Dialogue: 1,0:18:54.15,0:18:59.53,Insert,Alola!!,0,0,0,,the sun, the moon, the Pokémon, and that girl \N all turn to look in awe
 Dialogue: 1,0:18:59.53,0:19:01.07,Insert,Alola!!,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:19:01.07,0:19:03.87,Insert,Alola!!,0,0,0,,It’s a thrilling, surprising, astonishing, \N naturally endless journey
 Dialogue: 1,0:19:03.87,0:19:06.74,Insert,Alola!!,0,0,0,,Things to find here and there and everywhere, \N it’s almost too much
@@ -154,7 +154,7 @@ Dialogue: 0,0:05:21.67,0:05:24.72,Main,Mamane,0,0,0,,Iwanko seems pretty aggress
 Dialogue: 0,0:05:24.72,0:05:26.18,Main,Suiren,0,0,0,,What could be wrong?
 Dialogue: 0,0:05:26.80,0:05:29.76,Main,Kukui,0,0,0,,We will now begin \N the Grand Trial battle!
 Dialogue: 0,0:05:29.76,0:05:30.93,Main,Kukui,0,0,0,,Both fighters, send out \N your Pokémon!
-Dialogue: 0,0:05:32.18,0:05:35.31,Main,Lychee,0,0,0,,This will be your hardest \N Pokémon battle on Akala Island. {Is she saying that this’ll be his most challenging battle here? If not then ignore, but if so, suggesting "your" in place of "the". - Toa}
+Dialogue: 0,0:05:32.18,0:05:35.31,Main,Lychee,0,0,0,,This will be your hardest \N Pokémon Battle on Akala Island. {Is she saying that this’ll be his most challenging battle here? If not then ignore, but if so, suggesting "your" in place of "the". - Toa}
 Dialogue: 0,0:05:35.31,0:05:36.44,Main,Lychee,0,0,0,,I’m going all out!
 Dialogue: 0,0:05:36.44,0:05:37.69,Main,Satoshi,0,0,0,,I’ve been waiting for this!
 Dialogue: 0,0:05:37.69,0:05:43.07,Main,Lychee,0,0,0,,My partners are all adorable, \N rugged little Rock types!{Direct quote from the game. -Starfish}

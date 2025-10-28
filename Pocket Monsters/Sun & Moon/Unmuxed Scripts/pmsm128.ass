@@ -22,12 +22,12 @@ Video Position: 32
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -354,7 +354,7 @@ Dialogue: 0,0:14:09.22,0:14:10.62,Main,Satoshi,0,0,0,,Mokuroh! Seed Bomb!
 Dialogue: 0,0:14:21.61,0:14:22.77,Main,Tupper,0,0,0,,Yatoumori!
 Dialogue: 0,0:14:22.77,0:14:24.84,Main,Wrap,0,0,0,,Zubat! Bite!
 Dialogue: 0,0:14:26.34,0:14:27.72,Main,Hau,0,0,0,,Dodge, Ju'niper!
-Dialogue: 0,0:14:32.86,0:14:33.69,Main,Hau,0,0,0,,Razor Leaf!
+Dialogue: 0,0:14:32.86,0:14:33.69,Main,Hau,0,0,0,,Leaf Cutter!
 Dialogue: 0,0:14:41.07,0:14:44.07,Main,Rotom,0,0,0,,You’re all dazzling-roto!
 Dialogue: 0,0:14:45.13,0:14:47.26,Main,Mamane,0,0,0,,We didn’t get to do anything...
 Dialogue: 0,0:14:49.58,0:14:51.75,Main,Satoshi,0,0,0,,Why are you doing this?!
@@ -412,7 +412,7 @@ Dialogue: 0,0:18:06.35,0:18:08.44,Main,Kukui,0,0,0,,It wasn’t your fault.
 Dialogue: 0,0:18:09.01,0:18:12.70,Main,Kukui,0,0,0,,If only I’d tried harder \N to talk him out of it...
 Dialogue: 0,0:18:15.51,0:18:18.79,Main,Satoshi,0,0,0,,I don’t want to lose to him.
 Dialogue: 0,0:18:18.79,0:18:20.16,Main,Kaki,0,0,0,,Satoshi?
-Dialogue: 0,0:18:20.16,0:18:24.44,Main,Satoshi,0,0,0,,Everyone I’ve met here in Alola \N have been so nice...
+Dialogue: 0,0:18:20.16,0:18:24.44,Main,Satoshi,0,0,0,,Everyone I’ve met here in Alola \N has been so nice...
 Dialogue: 0,0:18:24.44,0:18:27.46,Main,Satoshi,0,0,0,,It’s been so much fun!
 Dialogue: 0,0:18:27.82,0:18:32.60,Main,Satoshi,0,0,0,,I’ve been really looking forward to \N competing with you all in the Pokémon League.
 Dialogue: 0,0:18:33.22,0:18:39.08,Main,Satoshi,0,0,0,,And Professor Kukui’s been working so hard \N to make this a League everyone can enjoy!
@@ -421,7 +421,7 @@ Dialogue: 0,0:18:44.64,0:18:45.98,Main,Kukui,0,0,0,,Satoshi...
 Dialogue: 0,0:18:46.39,0:18:49.72,Main,Satoshi,0,0,0,,So I refuse to let him beat me!
 Dialogue: 0,0:18:49.72,0:18:51.69,Main,Kaki,0,0,0,,Well said, Satoshi!
 Dialogue: 0,0:18:51.69,0:18:53.91,Main,Kaki,0,0,0,,You’re exactly right!
-Dialogue: 0,0:18:53.91,0:18:55.20,Main,Satoshi,0,0,0,,T-Thanks...
+Dialogue: 0,0:18:53.91,0:18:55.20,Main,Satoshi,0,0,0,,Th-Thanks...
 Dialogue: 0,0:18:55.20,0:18:58.10,Main,Mao,0,0,0,,We won’t let that guy \N destroy the League!
 Dialogue: 0,0:18:58.10,0:18:58.72,Main,Lilie,0,0,0,,Indeed.
 Dialogue: 0,0:18:58.72,0:18:59.76,Main,Suiren,0,0,0,,We won’t lose.
@@ -450,7 +450,7 @@ Dialogue: 0,0:19:52.97,0:19:54.47,Main,Satoshi,0,0,0,,Principal Okido?!
 Dialogue: 0,0:19:54.47,0:19:56.53,Main,Lilie,0,0,0,,Have you come to cheer us on?
 Dialogue: 0,0:19:56.53,0:19:59.68,Main,Alolan Oak,0,0,0,,Not at all! \N I’m participating as well!
 Dialogue: 0,0:19:59.68,0:20:02.69,Main,Alolan Oak,0,0,0,,I’d hate to miss a festival \N as grand as this!
-Dialogue: 0,0:20:02.69,0:20:05.18,Main,Alolan Oak,0,0,0,,Everyone, \N try to get faRentorar!
+Dialogue: 0,0:20:02.69,0:20:05.18,Main,Alolan Oak,0,0,0,,Everyone, \N try to get faRoentorar!
 Dialogue: 0,0:20:05.18,0:20:06.28,Main,Alolan Oak,0,0,0,,Later!
 Dialogue: 0,0:20:08.08,0:20:09.50,Main,Hau,0,0,0,,What a weird guy...
 Dialogue: 0,0:20:09.50,0:20:11.31,Main,Mamane,0,0,0,,Well... Yeah...

@@ -21,13 +21,13 @@ Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
+Style: Main,Candara,83,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,2,45,45,45,0
 Style: On-screen stuff,Arial Rounded MT Bold,45,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,4.5,0,2,45,45,45,0
-Style: OPED,HummingMod,54,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,45,45,8,0
+Style: OPED,HummingMod,54,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,1.5,2,45,45,8,0
 Style: Episode titles,HummingMod,105,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,3,2,45,45,45,0
 Style: OP,HummingMod,60,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,4.5,3,8,45,45,45,0
 Style: OPp2,HummingMod,60,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,7.5,3,8,45,45,45,0
-Style: Insert,Candara,60,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,1.5,8,45,45,60,0
+Style: Insert,Candara,60,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,1.5,8,45,45,60,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

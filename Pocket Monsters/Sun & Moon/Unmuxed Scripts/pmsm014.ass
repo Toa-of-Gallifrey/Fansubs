@@ -22,13 +22,13 @@ Video Position: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,8 +47,8 @@ Dialogue: 1,0:01:25.06,0:01:28.06,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:01:25.06,0:01:28.06,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:01:28.06,0:01:31.44,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:01:28.06,0:01:31.44,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:01:31.44,0:01:36.24,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:01:31.44,0:01:36.24,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:01:31.44,0:01:36.24,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:01:31.44,0:01:36.24,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:01:36.24,0:01:37.99,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:01:36.24,0:01:37.99,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:01:37.99,0:01:40.53,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -181,7 +181,7 @@ Dialogue: 0,0:06:27.19,0:06:28.03,Main,Suiren,0,0,0,,Yeah!
 Dialogue: 0,0:06:28.03,0:06:29.03,Main,Mamane,0,0,0,,Hang in there!
 Dialogue: 0,0:06:29.03,0:06:30.03,Main,Kaki,0,0,0,,It’ll be fine!
 Dialogue: 0,0:06:30.41,0:06:32.16,Main,Satoshi,0,0,0,,You’ve even given her \N a name already!
-Dialogue: 0,0:06:32.16,0:06:36.50,Main,Lilie,0,0,0,,T-That was just something \N I called her on a whim...
+Dialogue: 0,0:06:32.16,0:06:36.50,Main,Lilie,0,0,0,,Th-That was just something \N I called her on a whim...
 Dialogue: 0,0:06:36.50,0:06:39.33,Main,Mao,0,0,0,,It’s a great name, though! \N Good job, Lilie!
 Dialogue: 0,0:06:41.38,0:06:43.34,Main,Lilie,0,0,0,,Are you really okay with me?
 Dialogue: 0,0:06:44.34,0:06:46.67,Main,Lilie,0,0,0,,Will you be my partner?
@@ -391,8 +391,8 @@ Dialogue: 0,0:19:47.87,0:19:50.71,Main,Musashi,0,0,0,,so I figured doing somethi
 Dialogue: 0,0:19:53.71,0:19:56.08,Main,Musashi,0,0,0,,Don’t get the wrong idea, though! \N It’s a one-time thing!
 Dialogue: 0,0:19:56.79,0:19:59.59,Main,Kojiro,0,0,0,,Oh, I see.
 Dialogue: 0,0:19:59.59,0:20:02.55,Main,Nyarth,0,0,0,,I should’ve known, meow.{SASUGA -Starfish}
-Dialogue: 0,0:20:11.10,0:20:13.35,Main,Musashi,0,0,0,,W-What?!
-Dialogue: 0,0:20:19.32,0:20:20.28,Main,Musashi,0,0,0,,W-W-What?
+Dialogue: 0,0:20:11.10,0:20:13.35,Main,Musashi,0,0,0,,Wh-What?!
+Dialogue: 0,0:20:19.32,0:20:20.28,Main,Musashi,0,0,0,,W-Wh-What?
 Dialogue: 0,0:20:20.28,0:20:23.32,Main,Musashi,0,0,0,,Are you happy? Angry? Hey!
 Dialogue: 0,0:20:23.32,0:20:25.78,Main,Musashi,0,0,0,,That hurts!
 Dialogue: 0,0:20:25.78,0:20:27.58,Main,Nyarth,0,0,0,,I think it’s happy, meow.
@@ -436,7 +436,7 @@ Dialogue: 0,0:24:04.04,0:24:06.88,Main,Kukui,0,0,0,,I thought so, too, \N so I s
 Dialogue: 0,0:24:06.88,0:24:09.38,Main,Satoshi,0,0,0,,All right! Let’s solve \N the mystery of Iwanko!
 Dialogue: 0,0:24:09.38,0:24:10.97,Main,Kukui,0,0,0,,Start playback!
 Dialogue: 0,0:24:12.18,0:24:14.09,Main,Kukui,0,0,0,,Oh, this is Satoshi coming home.
-Dialogue: 0,0:24:15.14,0:24:17.64,Main,Kukui,0,0,0,,Satoshi! \N W-What is the meaning of this?!
+Dialogue: 0,0:24:15.14,0:24:17.64,Main,Kukui,0,0,0,,Satoshi! \N Wh-What is the meaning of this?!
 Dialogue: 0,0:24:17.64,0:24:20.81,Main,Satoshi,0,0,0,,Professor, don’t look!
 Dialogue: 0,0:24:20.81,0:24:23.77,Main,Kukui,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:23.77,0:24:27.11,Main,Satoshi,0,0,0,,Clawmark Hill, Iwanko and Lugarugan!!

@@ -17,12 +17,12 @@ Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -377,7 +377,7 @@ Dialogue: 0,0:18:38.04,0:18:39.55,Main,Musashi,0,0,0,,Hey! Where are you going?!
 Dialogue: 0,0:18:39.55,0:18:42.92,Main,Musashi,0,0,0,,Pikachu is here! \N Listen, Pikachu is here!
 Dialogue: 0,0:18:54.32,0:18:56.66,Main,Satoshi,0,0,0,,Pikachu, I leave Mimikkyu to you!
 Dialogue: 0,0:18:58.08,0:19:00.20,Main,Satoshi,0,0,0,,Prepare yourselves, \N Team Rocket!
-Dialogue: 0,0:19:02.77,0:19:03.58,Main,Musashi,0,0,0,,W-What?
+Dialogue: 0,0:19:02.77,0:19:03.58,Main,Musashi,0,0,0,,Wh-What?
 Dialogue: 0,0:19:05.20,0:19:06.45,Main,Kojiro,0,0,0,,Nuikoguma?
 Dialogue: 0,0:19:06.45,0:19:08.71,Main,Nyarth,0,0,0,,It seems to be carrying \N some huge thing, meow...
 Dialogue: 0,0:19:09.37,0:19:11.58,Main,Musashi,0,0,0,,If you’re here, that means...

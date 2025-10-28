@@ -25,12 +25,12 @@ Video Position: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -259,7 +259,7 @@ Dialogue: 0,0:09:33.38,0:09:34.80,Main,Rotom,0,0,0,,Someone’s coming-roto!
 Dialogue: 0,0:09:34.80,0:09:36.80,Main,Amara,0,0,0,,Hope we’re not late!
 Dialogue: 0,0:09:36.80,0:09:39.80,Main,Hoshi,0,0,0,,Food’s here, everyone!
 Dialogue: 0,0:09:39.80,0:09:43.51,Main,Kaki,0,0,0,,I asked them to bring us food.
-Dialogue: 0,0:09:43.51,0:09:45.68,Main,Mamane,0,0,0,,T-Thank goodness...
+Dialogue: 0,0:09:43.51,0:09:45.68,Main,Mamane,0,0,0,,Th-Thank goodness...
 Dialogue: 0,0:09:45.68,0:09:48.13,Main,Amara,0,0,0,,So, is the training going well?
 Dialogue: 0,0:09:48.13,0:09:48.95,Main,Kaki,0,0,0,,Well...
 Dialogue: 0,0:09:48.95,0:09:49.79,Main,Satoshi,0,0,0,,Um...
@@ -406,7 +406,7 @@ Dialogue: 0,0:20:32.34,0:20:34.71,Main,Kaki,0,0,0,,You felt the breath of Alola,
 Dialogue: 0,0:20:34.71,0:20:37.25,Main,Mamane,0,0,0,,No, I’m still totally lost...
 Dialogue: 0,0:20:42.42,0:20:44.13,Main,Mamane,0,0,0,,Kaki, behind you!
 Dialogue: 0,0:20:47.22,0:20:49.41,Main,Kaki,0,0,0,,Great job, Scizarigar!
-Dialogue: 0,0:20:50.54,0:20:52.58,Main,Mamane & Satoshi,0,0,0,,W-What’s going on?
+Dialogue: 0,0:20:50.54,0:20:52.58,Main,Mamane & Satoshi,0,0,0,,Wh-What’s going on?
 Dialogue: 0,0:20:52.58,0:20:55.89,Main,Kaki,0,0,0,,He had a change of heart \N after losing to us.
 Dialogue: 0,0:20:59.69,0:21:02.65,Main,Kaki,0,0,0,,...Though he’s still quick to fight.
 Dialogue: 0,0:21:03.29,0:21:08.63,Main,Kaki,0,0,0,,Last night, Rotom and I \N asked him to battle you guys.

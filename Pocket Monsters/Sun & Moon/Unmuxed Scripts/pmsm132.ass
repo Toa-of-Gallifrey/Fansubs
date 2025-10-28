@@ -25,12 +25,12 @@ Video Position: 26
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -229,7 +229,7 @@ Dialogue: 0,0:08:28.69,0:08:32.28,Main,Kojiro,0,0,0,,Victory goes to he who stri
 Dialogue: 0,0:08:34.49,0:08:35.66,Main,Gladio,0,0,0,,Dodge.
 Dialogue: 0,0:08:41.91,0:08:43.71,Main,Musashi,0,0,0,,Come on! What is he doing?!
 Dialogue: 0,0:08:43.71,0:08:45.29,Main,Nyarth,0,0,0,,He can still win, meow...
-Dialogue: 0,0:08:47.00,0:08:48.75,Main,Satoshi,0,0,0,,Mokuroh! Razor Leaf!
+Dialogue: 0,0:08:47.00,0:08:48.75,Main,Satoshi,0,0,0,,Mokuroh! Leaf Cutter!
 Dialogue: 0,0:08:51.00,0:08:52.92,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:08:56.18,0:08:57.93,Main,Satoshi,0,0,0,,Go, Mokuroh!
 Dialogue: 0,0:09:04.64,0:09:06.27,Main,Satoshi,0,0,0,,Are you all right, \N Mokuroh?
@@ -372,7 +372,7 @@ Dialogue: 0,0:18:54.73,0:18:56.23,Main,Mamane,0,0,0,,What’s that mean?
 Dialogue: 0,0:19:02.95,0:19:07.04,Main,Kuchinashi,0,0,0,,Um... We will now begin \N round two, match two!
 Dialogue: 0,0:19:07.04,0:19:08.41,Main,Kuchinashi,0,0,0,,Let the match begin!
 Dialogue: 0,0:19:10.71,0:19:13.71,Main,Hau,0,0,0,,Let’s show them \N how much stronger we’ve gotten!
-Dialogue: 0,0:19:13.71,0:19:15.88,Main,Hau,0,0,0,,Ju'niper! Razor Leaf!
+Dialogue: 0,0:19:13.71,0:19:15.88,Main,Hau,0,0,0,,Ju'niper! Leaf Cutter!
 Dialogue: 0,0:19:17.38,0:19:19.01,Main,Satoshi,0,0,0,,Dodge it, Mokuroh!
 Dialogue: 0,0:19:20.38,0:19:21.76,Main,Satoshi,0,0,0,,Seed Bomb!
 Dialogue: 0,0:19:22.76,0:19:24.10,Main,Hau,0,0,0,,Leaf Blade!

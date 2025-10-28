@@ -24,12 +24,12 @@ Video Position: 37
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -262,7 +262,7 @@ Dialogue: 0,0:09:35.67,0:09:37.63,Main,Kukui,0,0,0,,Oh, stop, you’re embarrass
 Dialogue: 0,0:09:37.63,0:09:39.93,Main,Burnet,0,0,0,,Your performance was really cool!
 Dialogue: 0,0:09:39.93,0:09:42.76,Main,Satoshi,0,0,0,,Hey, do you think Royal Mask \N will participate in the League, too?
 Dialogue: 0,0:09:42.76,0:09:43.31,Main,Kukui,0,0,0,,Huh?!
-Dialogue: 0,0:09:43.31,0:09:45.43,Main,Kukui,0,0,0,,W-Why are you asking me?
+Dialogue: 0,0:09:43.31,0:09:45.43,Main,Kukui,0,0,0,,Wh-Why are you asking me?
 Dialogue: 0,0:09:45.43,0:09:47.06,Main,Satoshi,0,0,0,,What? “Why”?
 Dialogue: 0,0:09:47.06,0:09:48.48,Main,Rotom,0,0,0,,What a naïve question-roto.
 Dialogue: 0,0:09:48.48,0:09:52.07,Main,Kukui,0,0,0,,Well, you know... He’s a mysterious, \N anonymous masked man...
@@ -274,7 +274,7 @@ Dialogue: 0,0:10:04.45,0:10:06.96,Main,Lychee,0,0,0,,We Island Queens and Kings.
 Dialogue: 0,0:10:06.96,0:10:10.83,Main,Lychee,0,0,0,,...will be acting as referees \N to ensure the battles are fair.
 Dialogue: 0,0:10:10.83,0:10:14.09,Main,Hapu,0,0,0,,I am most pleased to be able to \N partake in this event!
 Dialogue: 0,0:10:14.09,0:10:17.22,Main,Kuchinashi,0,0,0,,Isn’t this enough? \N Mr. Hala has a message to wrap this up.
-Dialogue: 0,0:10:18.93,0:10:23.48,Main,Hala,0,0,0,,Pokémon battles enable \N both trainers and their Pokémon to grow!
+Dialogue: 0,0:10:18.93,0:10:23.48,Main,Hala,0,0,0,,Pokémon Battles enable \N both trainers and their Pokémon to grow!
 Dialogue: 0,0:10:23.48,0:10:27.60,Main,Hala,0,0,0,,And this goes for both sides, \N as they all aid in each other’s growth as well!
 Dialogue: 0,0:10:27.60,0:10:32.61,Main,Hala,0,0,0,,I wish for the Alola Pokémon League \N to become a place of learning for all involved.
 Dialogue: 0,0:10:33.48,0:10:35.53,Main,Tupper,0,0,0,,Battlin’ sure is complicated...
@@ -384,7 +384,7 @@ Dialogue: 0,0:15:13.14,0:15:14.93,Main,Kukui,0,0,0,,I won’t let you do that!
 Dialogue: 0,0:15:14.93,0:15:18.02,Main,Guzma,0,0,0,,And that’s why I came to \N destroy you first.
 Dialogue: 0,0:15:18.52,0:15:20.52,Main,Kukui,0,0,0,,You haven’t changed one bit, Guzma.
 Dialogue: 0,0:15:20.52,0:15:23.06,Main,Tupper,0,0,0,,Hey! That’s {\i1}Mr.{\i0} Guzma to you!
-Dialogue: 0,0:15:24.56,0:15:27.28,Main,Satoshi,0,0,0,,If you want a Pokémon battle, \N then you can fight me!
+Dialogue: 0,0:15:24.56,0:15:27.28,Main,Satoshi,0,0,0,,If you want a Pokémon Battle, \N then you can fight me!
 Dialogue: 0,0:15:28.03,0:15:29.90,Main,Zip,0,0,0,,We’re talkin’ \N important stuff here!
 Dialogue: 0,0:15:29.90,0:15:32.53,Main,Wrap,0,0,0,,Don’t interrupt us, yo!
 Dialogue: 0,0:15:32.53,0:15:35.12,Main,Guzma,0,0,0,,You use Z-Moves?
@@ -418,7 +418,7 @@ Dialogue: 0,0:17:03.83,0:17:07.83,Main,Plumeri,0,0,0,,That was First Impression!
 Dialogue: 0,0:17:08.46,0:17:09.59,Main,Satoshi,0,0,0,,Use Iron Tail!
 Dialogue: 0,0:17:15.43,0:17:17.80,Main,Mamane,0,0,0,,It’s like it didn’t do anything!
 Dialogue: 0,0:17:17.80,0:17:19.10,Main,Guzma,0,0,0,,Use Pin Missile.
-Dialogue: 0,0:17:24.23,0:17:25.23,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:17:24.23,0:17:25.23,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:17:28.31,0:17:29.40,Main,Satoshi,0,0,0,,Use 100,000 Volts!
 Dialogue: 0,0:17:38.20,0:17:41.33,Main,Rotom,0,0,0,,It deflected the super effective \N Electric move-roto!
 Dialogue: 0,0:17:41.33,0:17:43.16,Main,Satoshi,0,0,0,,Then let’s show \N the results of our training!
@@ -486,7 +486,7 @@ Dialogue: 0,0:23:32.47,0:23:37.14,Main,Kukui,0,0,0,,With a flashing slash of its
 Dialogue: 0,0:23:37.14,0:23:41.85,Main,Kukui,0,0,0,,It’s got really high defenses, too, \N so Pikachu wasn’t able to smash its shell.{ “kara o yaburu” is the move Shell Smash, but actually putting that in here as-is would just snap the grammar clean in half. -Starfish}
 Dialogue: 0,0:23:42.40,0:23:46.82,Main,Satoshi,0,0,0,,Pikachu! If we wanna land that Z-Move properly, \N we’ll just have to strengthen your Iron Tail!
 Dialogue: 0,0:23:48.57,0:23:51.61,Main,Satoshi,0,0,0,,Now, let loose on this frying pan!
-Dialogue: 0,0:23:56.74,0:24:00.50,Main,Satoshi,0,0,0,,T-That was awesome... \N Pikachu... {Added a linebreak. - Toa}
+Dialogue: 0,0:23:56.74,0:24:00.50,Main,Satoshi,0,0,0,,Th-That was awesome... \N Pikachu... {Added a linebreak. - Toa}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 0,0:24:01.04,0:24:02.50,Main,Lusamine,0,0,0,,I’m so happy!
 Dialogue: 0,0:24:02.50,0:24:05.08,Main,Lilie,0,0,0,,Oh, come on, Mother, \N can’t we eat in peace?

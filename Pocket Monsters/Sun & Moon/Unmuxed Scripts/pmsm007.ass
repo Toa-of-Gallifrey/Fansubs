@@ -24,13 +24,13 @@ Video Position: 52
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,8 +49,8 @@ Dialogue: 1,0:02:21.07,0:02:24.08,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:02:21.07,0:02:24.08,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:24.08,0:02:27.46,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:24.08,0:02:27.46,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:27.46,0:02:32.25,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:27.46,0:02:32.25,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:27.46,0:02:32.25,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:27.46,0:02:32.25,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:02:32.25,0:02:34.00,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:02:32.25,0:02:34.00,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:02:34.00,0:02:36.55,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -218,7 +218,7 @@ Dialogue: 0,0:11:34.35,0:11:35.64,Main,Satoshi,0,0,0,,Nyabby!
 Dialogue: 0,0:11:35.64,0:11:36.50,Main,Satoshi,0,0,0,,Hey, you!
 Dialogue: 0,0:11:36.50,0:11:39.67,Main,Satoshi,0,0,0,,Is a berry {\i1}really{\i0} \N worth all this trouble?
 Dialogue: 0,0:11:50.87,0:11:52.40,Main,Satoshi,0,0,0,,Stop, Persian!
-Dialogue: 0,0:11:53.40,0:11:55.11,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:11:53.40,0:11:55.11,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:12:03.22,0:12:04.28,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 0,0:12:15.27,0:12:16.62,Main,Satoshi,0,0,0,,Are you all right, Nyabby?
 Dialogue: 0,0:12:17.16,0:12:19.63,Main,Rotom,0,0,0,,Nyabby is at 90% damage.

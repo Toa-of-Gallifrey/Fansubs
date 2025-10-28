@@ -24,16 +24,16 @@ Video Position: 32
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FB1E2A,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FB1E2A,&H00F5FEF5,&H00E7A035,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00FE59FB,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F6AF47,&H00F5FEF5,&H00F6AF47,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Default,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
+Style: Default,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -222,7 +222,7 @@ Dialogue: 0,0:07:27.09,0:07:30.79,Main,Kojiro,0,0,0,,You’re the best! So aweso
 Dialogue: 0,0:07:30.79,0:07:32.87,Main,Kojiro,0,0,0,,Oh, I’m very...
 Dialogue: 0,0:07:35.59,0:07:37.37,Main,Kojiro & Sauboh,0,0,0,,What are you doing here?!
 Dialogue: 0,0:07:37.37,0:07:40.01,Main,Kojiro & Sauboh,0,0,0,,No, that’s what {\i1}I{\i0} should be asking!
-Dialogue: 0,0:07:41.11,0:07:43.40,Main,Sauboh,0,0,0,,T-That T-shirt!
+Dialogue: 0,0:07:41.11,0:07:43.40,Main,Sauboh,0,0,0,,Th-That T-shirt!
 Dialogue: 0,0:07:43.40,0:07:46.15,Main,Sauboh,0,0,0,,It’s the one that Royal Mask himself \N had a hand in producing! {Suggesting “had a hand” in place of “took part”. - Toa}
 Dialogue: 0,0:07:46.15,0:07:49.06,Main,Sauboh,0,0,0,,After six months in the design phase \N and three months of production time,
 Dialogue: 0,0:07:49.06,0:07:54.36,Main,Sauboh,0,0,0,,it was sold out a mere three minutes after its release! \N A super rare item!
@@ -273,7 +273,7 @@ Dialogue: 0,0:10:14.71,0:10:17.91,Main,Kojiro,0,0,0,,I’d prefer to get this do
 Dialogue: 0,0:10:18.53,0:10:19.76,Main,Sauboh,0,0,0,,Actually...
 Dialogue: 0,0:10:22.77,0:10:24.11,Main,Kojiro,0,0,0,,You know Royal Mask?!
 Dialogue: 0,0:10:24.11,0:10:25.52,Main,Sauboh,0,0,0,,Quiet!
-Dialogue: 0,0:10:25.52,0:10:28.01,Main,Kojiro,0,0,0,,T-That’s incredible!
+Dialogue: 0,0:10:25.52,0:10:28.01,Main,Kojiro,0,0,0,,Th-That’s incredible!
 Dialogue: 0,0:10:28.01,0:10:29.27,Main,Sauboh,0,0,0,,With that said...
 Dialogue: 0,0:10:29.74,0:10:35.14,Main,Sauboh,0,0,0,,It’s not entirely impossible that maybe we could \N sneak past the line and shake his hand backstage...
 Dialogue: 0,0:10:35.14,0:10:37.29,Main,Kojiro,0,0,0,,R-R-Really?
@@ -350,7 +350,7 @@ Dialogue: 0,0:14:50.48,0:14:53.45,Main,Sauboh,0,0,0,,he can’t help even if he 
 Dialogue: 0,0:14:54.53,0:14:57.57,Main,Mad Boobur,0,0,0,,Didn’t take you for such a coward, \N Royal Mask!
 Dialogue: 0,0:14:57.57,0:15:02.20,Main,Mad Boobur,0,0,0,,This just proves that I, Mad Boobur, \N am the true champion!
 Dialogue: 0,0:15:02.20,0:15:05.96,Main,Kojiro,0,0,0,,Any further insults towards Royal Mask \N will {\i1}not{\i0} be tolerated!
-Dialogue: 0,0:15:05.96,0:15:07.96,Main,Mad Boobur,0,0,0,,W-Who’s there?!
+Dialogue: 0,0:15:05.96,0:15:07.96,Main,Mad Boobur,0,0,0,,Wh-Who’s there?!
 Dialogue: 0,0:15:08.48,0:15:11.43,Main,Kojiro,0,0,0,,We’re terribly sorry to have \N kept you waiting, everyone!
 Dialogue: 0,0:15:11.43,0:15:13.35,Main,Kojiro,0,0,0,,The star has arrived!
 Dialogue: 0,0:15:13.35,0:15:17.21,Main,Kojiro,0,0,0,,Today’s leading man and \N the true Battle Royal champion...
@@ -393,7 +393,7 @@ Dialogue: 0,0:17:42.50,0:17:48.50,Main,Audience,0,0,0,,{\i1}Royal! Royal! Royal!
 Dialogue: 0,0:17:53.68,0:17:55.00,Main,Kukui,0,0,0,,Gaogaen.
 Dialogue: 0,0:17:55.00,0:17:57.58,Main,Mad Boobur,0,0,0,,Can it! Can it, I say!
 Dialogue: 0,0:17:57.58,0:18:03.39,Main,Mad Boobur,0,0,0,,He still refuses to show himself! \N That {\i1}proves{\i0} that he’s a coward!
-Dialogue: 0,0:18:05.38,0:18:06.81,Main,Mad Boobur,0,0,0,,W-What?!
+Dialogue: 0,0:18:05.38,0:18:06.81,Main,Mad Boobur,0,0,0,,Wh-What?!
 Dialogue: 0,0:18:07.51,0:18:09.03,Main,Audience,0,0,0,,What’s going on?
 Dialogue: 0,0:18:11.07,0:18:13.72,Main,Mullein,0,0,0,,I’m sorry I took so long, Kukui.
 Dialogue: 0,0:18:13.72,0:18:14.82,Main,Kukui,0,0,0,,Mullein!

@@ -22,13 +22,13 @@ Video Position: 35
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,8 +47,8 @@ Dialogue: 1,0:01:59.09,0:02:02.10,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:01:59.09,0:02:02.10,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:02.10,0:02:05.48,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:02.10,0:02:05.48,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:05.48,0:02:10.27,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:05.48,0:02:10.27,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:05.48,0:02:10.27,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:05.48,0:02:10.27,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:02:10.27,0:02:12.02,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:02:10.27,0:02:12.02,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:02:12.02,0:02:14.57,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -163,7 +163,7 @@ Dialogue: 0,0:04:27.83,0:04:31.75,Main,Satoshi,0,0,0,,It’s floating in the air
 Dialogue: 0,0:04:32.71,0:04:35.17,Main,Rotom,0,0,0,,Raichu: Alolan Form.
 Dialogue: 0,0:04:35.17,0:04:37.84,Main,Rotom,0,0,0,,Mouse Pokémon. \N Electric/Psychic type.
 Dialogue: 0,0:04:37.84,0:04:39.92,Main,Rotom,0,0,0,,It uses psychokinesis to \N control electricity.
-Dialogue: 0,0:04:39.92,0:04:44.80,Main,Rotom,0,0,0,,It hops aboard its own tail, using psychic power \N to lift the tail and move about while riding it. {Moon Pokédex entry -Starfish}
+Dialogue: 0,0:04:39.92,0:04:44.80,Main,Rotom,0,0,0,,It hops aboard its own tail, using psycho-power \N to lift the tail and move about while riding it. {Moon Pokédex entry -Starfish}
 Dialogue: 0,0:04:45.93,0:04:49.18,Main,Satoshi,0,0,0,,It’s not just Electric, \N but a Psychic type, too?
 Dialogue: 0,0:04:54.77,0:04:56.48,Main,Noa,0,0,0,,Here you are!
 Dialogue: 0,0:04:56.48,0:04:59.57,Main,Noa,0,0,0,,Our store’s special \N Alola Pancakes!
@@ -391,7 +391,7 @@ Dialogue: 0,0:23:25.13,0:23:28.80,Main,Alolan Oak,0,0,0,,The answer to the Poké
 Dialogue: 0,0:23:28.80,0:23:30.59,Main,Alolan Oak,0,0,0,,Well done, Nekkoala!
 Dialogue: 0,0:23:31.18,0:23:34.35,Main,Alolan Oak,0,0,0,,Last year’s winner of \N the Pokémon Pancake Race was Raichu!
 Dialogue: 0,0:23:34.35,0:23:36.47,Main,Alolan Oak,0,0,0,,It’s an Electric/Psychic type.
-Dialogue: 0,0:23:36.47,0:23:41.98,Main,Alolan Oak,0,0,0,,It focuses psychic energy into its tail and \N rides it like it’s surfing. {This is actually its Ultra Sun dex entry which would not yet have been written when this episode was released probably, but... it’s close enough to work. -Starfish}It was quite the formidable foe!
+Dialogue: 0,0:23:36.47,0:23:41.98,Main,Alolan Oak,0,0,0,,It focuses psycho-power into its tail and \N rides it like it’s surfing. {This is actually its Ultra Sun dex entry which would not yet have been written when this episode was released probably, but... it’s close enough to work. -Starfish}It was quite the formidable foe!
 Dialogue: 0,0:23:41.98,0:23:46.44,Main,Alolan Oak,0,0,0,,I didn’t think Nekkoala stood a chance, \N to be honesTabunne!
 Dialogue: 0,0:23:48.99,0:23:51.36,Main,Alolan Oak,0,0,0,,I got a one-year gift card!
 Dialogue: 0,0:23:55.37,0:23:59.91,Main,Alolan Oak,0,0,0,,Nekkoala... The race is over... \N GeeZoroark...

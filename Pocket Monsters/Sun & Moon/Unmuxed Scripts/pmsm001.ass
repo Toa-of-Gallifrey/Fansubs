@@ -24,13 +24,13 @@ Video Position: 82
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,8 +44,8 @@ Dialogue: 1,0:01:36.07,0:01:39.07,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:01:36.07,0:01:39.07,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:01:39.07,0:01:42.45,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:01:39.07,0:01:42.45,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:01:42.45,0:01:47.25,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:01:42.45,0:01:47.25,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:01:42.45,0:01:47.25,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:01:42.45,0:01:47.25,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:01:47.25,0:01:49.00,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:01:47.25,0:01:49.00,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:01:49.00,0:01:51.54,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -179,7 +179,7 @@ Dialogue: 0,0:07:35.97,0:07:37.06,Main,Satoshi,0,0,0,,Another Pokémon?
 Dialogue: 0,0:07:41.48,0:07:42.48,Main,Satoshi,0,0,0,,There it is!
 Dialogue: 0,0:07:46.90,0:07:48.03,Main,Satoshi,0,0,0,,It’s waving at us!
 Dialogue: 0,0:07:50.28,0:07:52.24,Main,Satoshi,0,0,0,,It’s so cute!
-Dialogue: 0,0:08:00.66,0:08:02.62,Main,Satoshi,0,0,0,,W-What?!
+Dialogue: 0,0:08:00.66,0:08:02.62,Main,Satoshi,0,0,0,,Wh-What?!
 Dialogue: 0,0:08:29.57,0:08:31.24,Main,Satoshi,0,0,0,,What {\i1}was{\i0} that thing?
 Dialogue: 0,0:08:35.36,0:08:36.57,Main,Satoshi,0,0,0,,Isn’t that a...
 Dialogue: 0,0:08:37.53,0:08:41.50,Main,Satoshi,0,0,0,,A Lizardon! That must be \N a Sky Ride Pokémon!
@@ -284,7 +284,7 @@ Dialogue: 0,0:14:06.57,0:14:08.74,Main,Tupper,0,0,0,,I {\i1}dare{\i0} ya to say 
 Dialogue: 0,0:14:08.74,0:14:10.49,Main,Satoshi,0,0,0,,Who are those guys?
 Dialogue: 0,0:14:10.49,0:14:12.08,Main,Mao,0,0,0,,They’re Team Skull.
 Dialogue: 0,0:14:12.08,0:14:16.08,Main,Mao,0,0,0,,They’re a nasty bunch who say all kinds of crazy things \N and force you to battle them.
-Dialogue: 0,0:14:16.54,0:14:21.21,Main,Tupper,0,0,0,,I {\i1}might{\i0} be willin’ to let ya go, \N if ya can beat us in a Pokémon battle...
+Dialogue: 0,0:14:16.54,0:14:21.21,Main,Tupper,0,0,0,,I {\i1}might{\i0} be willin’ to let ya go, \N if ya can beat us in a Pokémon Battle...
 Dialogue: 0,0:14:21.21,0:14:23.55,Main,Zip,0,0,0,,But if ya lose...
 Dialogue: 0,0:14:23.55,0:14:26.13,Main,Zip,0,0,0,,...we’ll be takin’ yer Lizardon!
 Dialogue: 0,0:14:26.59,0:14:28.51,Main,Kaki,0,0,0,,You’ll come to regret that.

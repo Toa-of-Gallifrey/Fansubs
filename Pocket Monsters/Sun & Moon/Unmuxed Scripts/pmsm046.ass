@@ -16,13 +16,13 @@ Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -41,8 +41,8 @@ Dialogue: 1,0:03:24.05,0:03:27.06,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:03:24.05,0:03:27.06,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:03:27.06,0:03:30.44,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:03:27.06,0:03:30.44,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:03:30.44,0:03:35.23,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:03:30.44,0:03:35.23,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:03:30.44,0:03:35.23,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:03:30.44,0:03:35.23,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:03:35.23,0:03:36.98,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:03:35.23,0:03:36.98,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:03:36.98,0:03:39.53,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -160,7 +160,7 @@ Dialogue: 0,0:05:35.44,0:05:39.53,Main,Kojiro,0,0,0,,And then we were just hired
 Dialogue: 0,0:05:39.53,0:05:41.52,Main,Kojiro,0,0,0,,However!
 Dialogue: 0,0:05:41.52,0:05:44.49,Main,Nyarth,0,0,0,,Who’d have expected \N this turn of events, meow?
 Dialogue: 0,0:05:44.87,0:05:49.99,Main,Musashi,0,0,0,,The plan was to wait for a good time \N to steal all the Pokémon here, but...
-Dialogue: 0,0:05:50.46,0:05:54.50,Main,Kojiro,0,0,0,,Pikachu and that \N mega rare PetitDogas!
+Dialogue: 0,0:05:50.46,0:05:54.50,Main,Kojiro,0,0,0,,Pikachu and that \N mega rare Petitdogas!
 Dialogue: 0,0:05:54.50,0:05:59.50,Main,Nyarth,0,0,0,,If we hand them over to Sakaki, \N we’ll get promoted for sure, meow!
 Dialogue: 0,0:06:02.35,0:06:04.38,Main,Wicke,0,0,0,,We’ll be going outside now.
 Dialogue: 0,0:06:09.89,0:06:12.02,Main,Mao,0,0,0,,It’s even grander than I’d imagined!
@@ -174,7 +174,7 @@ Dialogue: 0,0:06:53.19,0:06:56.54,Main,Lusamine,0,0,0,,Thank you for coming! \N 
 Dialogue: 0,0:06:58.15,0:07:00.90,Main,Lusamine,0,0,0,,Make yourselves at home! \N I’m very sorry.
 Dialogue: 0,0:07:00.90,0:07:02.66,Main,Lusamine,0,0,0,,Yes, hello?
 Dialogue: 0,0:07:02.66,0:07:06.15,Main,Lusamine,0,0,0,,Oh, the interview? \N I’m sorry...
-Dialogue: 0,0:07:06.15,0:07:09.14,Main,Them,0,0,0,,{\i1}T-Thank you for having us...{\i0}
+Dialogue: 0,0:07:06.15,0:07:09.14,Main,Them,0,0,0,,{\i1}Th-Thank you for having us...{\i0}
 Dialogue: 0,0:07:12.54,0:07:14.66,Main,Wicke,0,0,0,,Eat up!
 Dialogue: 0,0:07:15.75,0:07:17.08,Main,Mamane,0,0,0,,Looks delicious!
 Dialogue: 0,0:07:17.08,0:07:18.70,Main,Mamane & Satoshi,0,0,0,,Thanks for the food!
@@ -274,7 +274,7 @@ Dialogue: 0,0:13:18.48,0:13:21.63,Main,Burnet,0,0,0,,Pocket Monsters Sun & Moon!
 Comment: 0,0:13:24.49,0:13:24.49,Main,,0,0,0,,{Part B}
 Dialogue: 0,0:13:25.16,0:13:27.64,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 0,0:13:30.49,0:13:34.25,Main,Team Rocket,0,0,0,,Heave, ho! Heave, ho!
-Dialogue: 0,0:13:34.25,0:13:39.80,Main,Musashi,0,0,0,,Hey, will we really be able to catch that PetitDogas if we have this?
+Dialogue: 0,0:13:34.25,0:13:39.80,Main,Musashi,0,0,0,,Hey, will we really be able to catch that Petitdogas if we have this?
 Dialogue: 0,0:13:39.80,0:13:43.47,Main,Kojiro,0,0,0,,Yeah... As long as we have this, \N we’re sure to catch it!
 Dialogue: 0,0:13:43.47,0:13:45.76,Main,Nyarth,0,0,0,,I know that, but...
 Dialogue: 0,0:13:46.52,0:13:48.64,Main,Team Rocket,0,0,0,,It stinks!
@@ -335,8 +335,8 @@ Dialogue: 0,0:16:40.52,0:16:45.55,Main,Mamane,0,0,0,,Let’s just waste some tim
 Dialogue: 0,0:16:46.86,0:16:47.52,Main,Kojiro,0,0,0,,What’s that?
 Dialogue: 0,0:16:47.87,0:16:49.12,Main,Musashi,0,0,0,,Nice, isn’t it?
 Dialogue: 0,0:16:49.12,0:16:51.47,Main,Musashi,0,0,0,,I got some when leaving the room.
-Dialogue: 0,0:16:53.83,0:16:55.03,Main,Kojiro,0,0,0,,PetitDogas!
-Dialogue: 0,0:16:57.83,0:16:59.31,Main,Kojiro,0,0,0,,W-Where did it go?!
+Dialogue: 0,0:16:53.83,0:16:55.03,Main,Kojiro,0,0,0,,Petitdogas!
+Dialogue: 0,0:16:57.83,0:16:59.31,Main,Kojiro,0,0,0,,Wh-Where did it go?!
 Dialogue: 0,0:17:02.33,0:17:03.71,Main,Satoshi,0,0,0,,You won’t get away again!
 Dialogue: 0,0:17:17.64,0:17:20.06,Main,Lilie,0,0,0,,Snowball, are you all right?
 Dialogue: 0,0:17:23.57,0:17:26.63,Main,Lilie,0,0,0,,Why can’t I touch Snowball?
@@ -378,12 +378,12 @@ Dialogue: 0,0:19:35.69,0:19:40.64,Main,Sauboh,0,0,0,,Little Miss Lilie being abl
 Dialogue: 0,0:19:42.70,0:19:46.83,Main,Sauboh,0,0,0,,If something happens to remind her of \N what happened back then...
 Dialogue: 0,0:19:46.83,0:19:48.85,Main,Sauboh,0,0,0,,It would be trouble!
 Dialogue: 0,0:19:57.97,0:20:00.47,Main,Musashi,0,0,0,,Man, it’s nowhere to be found!
-Dialogue: 0,0:20:01.27,0:20:03.73,Main,Kojiro,0,0,0,,Where did PetitDogas go?
+Dialogue: 0,0:20:01.27,0:20:03.73,Main,Kojiro,0,0,0,,Where did Petitdogas go?
 Dialogue: 0,0:20:03.73,0:20:08.40,Main,Musashi,0,0,0,,Also, is it just me, \N or are we walking in circles?
 Dialogue: 0,0:20:08.40,0:20:10.50,Main,Kojiro,0,0,0,,Now that you mention it...
 Dialogue: 0,0:20:11.35,0:20:13.85,Main,Nyarth,0,0,0,,It’s open over there, meow!
 Dialogue: 0,0:20:13.85,0:20:16.48,Main,Kojiro,0,0,0,,It was closed earlier, right?
-Dialogue: 0,0:20:17.70,0:20:20.44,Main,Musashi,0,0,0,,Are you here, little PetitDogas?
+Dialogue: 0,0:20:17.70,0:20:20.44,Main,Musashi,0,0,0,,Are you here, little Petitdogas?
 Dialogue: 0,0:20:20.44,0:20:22.11,Main,Kojiro,0,0,0,,Come out, come out!
 Dialogue: 0,0:20:23.12,0:20:25.77,Main,Musashi,0,0,0,,Huh? Looks like some sort of lab.
 Dialogue: 0,0:20:30.46,0:20:32.16,Main,Nyarth,0,0,0,,What’s this, meow?
@@ -393,7 +393,7 @@ Dialogue: 0,0:20:45.35,0:20:47.05,Main,Musashi,0,0,0,,Ultra Beasts?
 Dialogue: 0,0:20:47.69,0:20:49.68,Main,Nyarth,0,0,0,,My whiskers are tingling.
 Dialogue: 0,0:20:50.02,0:20:51.43,Main,Nyarth,0,0,0,,I got a bad feeling about this...
 Dialogue: 0,0:20:51.43,0:20:54.90,Main,Nyarth,0,0,0,,I feel like we really \N shouldn’t be seeing this, meow!
-Dialogue: 0,0:21:03.95,0:21:05.57,Main,Team Rocket,0,0,0,,PetitDogas!
+Dialogue: 0,0:21:03.95,0:21:05.57,Main,Team Rocket,0,0,0,,Petitdogas!
 Dialogue: 0,0:21:08.13,0:21:09.83,Main,Nyarth,0,0,0,,Now’s my chance!
 Dialogue: 0,0:21:13.08,0:21:14.05,Main,Team Rocket,0,0,0,,There!
 Dialogue: 0,0:21:14.05,0:21:14.94,Main,Sauboh,0,0,0,,You!

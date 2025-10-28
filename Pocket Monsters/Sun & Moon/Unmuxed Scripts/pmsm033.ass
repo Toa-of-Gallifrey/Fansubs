@@ -24,13 +24,13 @@ Video Position: 56
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -304,7 +304,7 @@ Dialogue: 0,0:17:02.29,0:17:03.29,Main,Suiren,0,0,0,,Ashimari!
 Dialogue: 0,0:17:04.20,0:17:05.79,Main,Satoshi,0,0,0,,What?
 Dialogue: 0,0:17:13.82,0:17:14.88,Main,Satoshi,0,0,0,,It’s a Mamanbou!
 Dialogue: 0,0:17:16.11,0:17:18.68,Main,Rotom,0,0,0,,Mamanbou. Caring Pokémon. \N Water type.
-Dialogue: 0,0:17:19.02,0:17:21.39,Main,Rotom,0,0,0,,It heals its friends’ wounds \N with Heal Pulse!
+Dialogue: 0,0:17:19.02,0:17:21.39,Main,Rotom,0,0,0,,It heals its friends’ wounds \N with Healing Pulse!
 Dialogue: 0,0:17:25.70,0:17:26.81,Main,Satoshi,0,0,0,,Leave it to me!
 Dialogue: 0,0:17:27.28,0:17:28.40,Main,Satoshi,0,0,0,,Go!
 Dialogue: 0,0:17:38.18,0:17:38.87,Main,Satoshi,0,0,0,,There!
@@ -314,7 +314,7 @@ Dialogue: 0,0:17:50.25,0:17:51.89,Main,Satoshi,0,0,0,,Suiren, now’s your chanc
 Dialogue: 0,0:17:51.89,0:17:52.26,Main,Suiren,0,0,0,,Right!
 Dialogue: 0,0:18:03.08,0:18:04.68,Main,Rotom,0,0,0,,Hang in there, \N both of you-roto!
 Dialogue: 0,0:18:05.02,0:18:06.56,Main,Satoshi,0,0,0,,Pikachu, let’s do it!
-Dialogue: 0,0:18:14.31,0:18:16.24,Main,Satoshi,0,0,0,,Now, Pikachu! Electro Ball!
+Dialogue: 0,0:18:14.31,0:18:16.24,Main,Satoshi,0,0,0,,Now, Pikachu! Electric Ball!
 Dialogue: 0,0:18:36.85,0:18:37.84,Main,Satoshi,0,0,0,,We did it!
 Dialogue: 0,0:18:39.22,0:18:40.55,Main,Satoshi,0,0,0,,We’ve done our part.
 Dialogue: 0,0:18:42.04,0:18:43.56,Main,Suiren,0,0,0,,Thank you...
@@ -330,7 +330,7 @@ Dialogue: 0,0:19:53.08,0:19:54.62,Main,Satoshi,0,0,0,,You did it!
 Dialogue: 0,0:19:55.99,0:19:57.28,Main,Suiren,0,0,0,,Yowashi?
 Dialogue: 0,0:19:59.01,0:20:00.30,Main,Rotom,0,0,0,,This is a big discovery-roto!
 Dialogue: 0,0:20:00.76,0:20:04.56,Main,Rotom,0,0,0,,The Lord of the Lake was a school of Yowashi! \N Its School Form-roto!
-Dialogue: 0,0:20:05.58,0:20:09.90,Main,Fishing Guru,0,0,0,,T-T-That’s right! I’m impressed \N you figured out the answer!
+Dialogue: 0,0:20:05.58,0:20:09.90,Main,Fishing Guru,0,0,0,,T-Th-That’s right! I’m impressed \N you figured out the answer!
 Dialogue: 0,0:20:09.90,0:20:12.81,Main,Fishing Guru,0,0,0,,To reel in the Lord of the Lake and \N expose its true identity...
 Dialogue: 0,0:20:13.35,0:20:16.20,Main,Fishing Guru,0,0,0,,For ninety-nine years \N and two months, I have{\fscx250}-{\r\i0}
 Dialogue: 0,0:20:16.20,0:20:19.94,Main,Satoshi,0,0,0,,Even a tiny Yowashi can be really strong \N when it starts schooling, huh.{Note: “started schooling” is what the game says when it assumes its super mega ultra powerful School Form. -Starfish}{Is it the same term as what Satoshi says here? - Toa}

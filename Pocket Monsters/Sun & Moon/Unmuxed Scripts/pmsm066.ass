@@ -22,13 +22,13 @@ Video Position: 53
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00FE59FB,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F6AF47,&H00F5FEF5,&H00F6AF47,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -182,7 +182,7 @@ Dialogue: 0,0:05:04.76,0:05:06.32,Main,Mamane,0,0,0,,It’s gotta be the serves,
 Dialogue: 0,0:05:06.80,0:05:07.88,Main,Ilima,0,0,0,,No.
 Dialogue: 0,0:05:07.88,0:05:09.08,Main,Ilima,0,0,0,,It’s empathy.
 Dialogue: 0,0:05:09.55,0:05:10.83,Main,Satoshi,0,0,0,,Empathy?
-Dialogue: 0,0:05:11.55,0:05:16.56,Main,Ilima,0,0,0,,Poké-Ping Pong is a sport where \N trainers and Pokémon battle together as partners.
+Dialogue: 0,0:05:11.55,0:05:16.56,Main,Ilima,0,0,0,,Poké-Ping Pong is a sport where \N trainers and Pokémon Battle together as partners.
 Dialogue: 0,0:05:16.56,0:05:20.40,Main,Ilima,0,0,0,,If you forget about empathy, \N your feelings and your partner’s will go out of sync,
 Dialogue: 0,0:05:20.40,0:05:22.67,Main,Ilima,0,0,0,,and you won’t be able to play well.
 Dialogue: 0,0:05:23.07,0:05:24.22,Main,Satoshi,0,0,0,,I get it!
@@ -218,7 +218,7 @@ Dialogue: 0,0:06:47.61,0:06:49.65,Main,Mao,0,0,0,,Return it with Magical Leaf!
 Dialogue: 0,0:06:51.70,0:06:53.31,Main,Satoshi,0,0,0,,Something smells nice...
 Dialogue: 0,0:06:53.31,0:06:55.52,Main,Rotom,0,0,0,,It’s a scented Magical Leaf-roto!
 Dialogue: 0,0:06:55.52,0:06:56.52,Main,Satoshi,0,0,0,,For real?!
-Dialogue: 0,0:06:57.08,0:06:59.88,Main,Satoshi,0,0,0,,In that case, \N we’ll counter it with Electro Ball!
+Dialogue: 0,0:06:57.08,0:06:59.88,Main,Satoshi,0,0,0,,In that case, \N we’ll counter it with Electric Ball!
 Dialogue: 0,0:07:03.98,0:07:06.74,Main,Mao,0,0,0,,Amamaiko! \N Smash with Double Attack!
 Dialogue: 0,0:07:10.67,0:07:14.22,Main,Kaki,0,0,0,,Softening them with the scent, \N and then delivering a Round-Trip Slap smash...
 Dialogue: 0,0:07:14.22,0:07:17.75,Main,Rotom,0,0,0,,This is the mythical technique: \N “From Heaven to Hell”-roto!

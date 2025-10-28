@@ -23,13 +23,13 @@ Video Position: 35
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,8 +49,8 @@ Dialogue: 1,0:02:06.10,0:02:09.10,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:02:06.10,0:02:09.10,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:09.10,0:02:12.48,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:09.10,0:02:12.48,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:12.48,0:02:17.28,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:12.48,0:02:17.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:12.48,0:02:17.28,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:12.48,0:02:17.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:02:17.28,0:02:19.03,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:02:17.28,0:02:19.03,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:02:19.03,0:02:21.57,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -79,7 +79,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:19.47,0:03:24.47,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,250)}Gladio and Silvuddy!
 Dialogue: 0,0:03:19.47,0:03:24.47,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,540)}The Confinement Mask!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:13:01.55,0:13:04.51,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Lugarugan \N {\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}               (Dusk Form) \N {\fs40}Type:   Rock
+Dialogue: 0,0:13:01.55,0:13:04.51,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Lugarugan \N {\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}               (Twilight Form) \N {\fs40}Type:   Rock
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:03.21,0:22:07.13,OPED,,0,0,0,,{\fad(400,0)}Yo! Champ in the making! Now, let’s keep up the enthusiasm today!
 Dialogue: 0,0:22:07.13,0:22:10.85,OPED,,0,0,0,,Get them, get them! (Get them, get them!) Now, let’s keep making friends!
@@ -197,7 +197,7 @@ Dialogue: 0,0:08:33.90,0:08:35.87,Main,Satoshi,0,0,0,,Yeah.
 Dialogue: 0,0:08:35.87,0:08:39.82,Main,Satoshi,0,0,0,,I wanted you to meet this guy.
 Dialogue: 0,0:08:39.82,0:08:42.95,Main,Gladio,0,0,0,,It’s neither Midnight Form \N nor Midday Form, huh.
 Dialogue: 0,0:08:42.95,0:08:45.20,Main,Satoshi,0,0,0,,Yeah. Cool, isn’t it?
-Dialogue: 0,0:08:45.20,0:08:47.46,Main,Satoshi,0,0,0,,We call it the Dusk Form.
+Dialogue: 0,0:08:45.20,0:08:47.46,Main,Satoshi,0,0,0,,We call it the Twilight Form.
 Dialogue: 0,0:08:53.92,0:08:57.29,Main,Satoshi,0,0,0,,Owww... That hurts, cut it out!
 Dialogue: 0,0:08:57.92,0:08:59.16,Main,Satoshi,0,0,0,,Lugarugan!
 Dialogue: 0,0:09:03.13,0:09:04.60,Main,Satoshi,0,0,0,,Where are we?
@@ -246,7 +246,7 @@ Dialogue: 0,0:11:36.30,0:11:40.91,Main,Gladio,0,0,0,,You just showed up uninvite
 Dialogue: 0,0:11:41.58,0:11:42.79,Main,Satoshi,0,0,0,,Sorry.
 Dialogue: 0,0:11:42.79,0:11:49.56,Main,Gladio,0,0,0,,But I’m sure there must be some meaning \N behind you showing up here with that Ultra Beast.
 Dialogue: 0,0:11:51.01,0:11:52.60,Main,Gladio,0,0,0,,What are you?!
-Dialogue: 0,0:11:52.60,0:11:56.07,Main,Satoshi,0,0,0,,W-What? I’m Satoshi from Mas—
+Dialogue: 0,0:11:52.60,0:11:56.07,Main,Satoshi,0,0,0,,Wh-What? I’m Satoshi from Mas—
 Dialogue: 0,0:11:56.07,0:12:00.73,Main,Gladio,0,0,0,,Why did Solgaleo and Lunala \N entrust you with an Ultra Beast?
 Dialogue: 0,0:12:00.73,0:12:02.57,Main,Gladio,0,0,0,,Why did Mom accept it?
 Dialogue: 0,0:12:02.57,0:12:06.83,Main,Gladio,0,0,0,,Why did she think that Ultra Beast \N wouldn’t be dangerous in your care?
@@ -325,7 +325,7 @@ Dialogue: 0,0:18:15.98,0:18:18.36,Main,Satoshi,0,0,0,,Stop, stop! {\i1}Stop!{\i0
 Dialogue: 0,0:18:26.57,0:18:28.21,Main,Satoshi,0,0,0,,Calm down, Lugarugan!
 Dialogue: 0,0:18:29.37,0:18:31.00,Main,Satoshi,0,0,0,,I’ll wash you in a moment!
 Dialogue: 0,0:18:33.45,0:18:35.58,Main,Gladio,0,0,0,,You haven’t raised it \N well enough, I see.
-Dialogue: 0,0:18:35.58,0:18:37.67,Main,Gladio,0,0,0,,So this is the Dusk Form’s power.
+Dialogue: 0,0:18:35.58,0:18:37.67,Main,Gladio,0,0,0,,So this is the Twilight Form’s power.
 Dialogue: 0,0:18:38.21,0:18:40.63,Main,Satoshi,0,0,0,,I only just found out \N he gets like this...
 Dialogue: 0,0:18:40.63,0:18:44.68,Main,Satoshi,0,0,0,,When his fur gets messed up, \N he gets blinded by rage!
 Dialogue: 0,0:19:09.87,0:19:11.92,Main,Satoshi,0,0,0,,Are you all right, Lugarugan?
@@ -394,7 +394,7 @@ Dialogue: 0,0:24:10.83,0:24:13.01,Main,James,0,0,0,,A photo of you on the beach,
 Dialogue: 0,0:24:13.01,0:24:14.13,Main,Lilie,0,0,0,,V-Very well.
 Dialogue: 0,0:24:14.13,0:24:16.29,Main,James,0,0,0,,Oh, how lovely!
 Dialogue: 0,0:24:16.29,0:24:17.89,Main,Satoshi,0,0,0,,What’re you doing, Lilie?
-Dialogue: 0,0:24:18.30,0:24:20.18,Main,Lilie,0,0,0,,T-This is, well, um...
+Dialogue: 0,0:24:18.30,0:24:20.18,Main,Lilie,0,0,0,,Th-This is, well, um...
 Dialogue: 0,0:24:20.18,0:24:22.56,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
 Dialogue: 0,0:24:22.56,0:24:25.19,Main,Satoshi,0,0,0,,Strike a Full Power Pose for a Sleepover!
 Dialogue: 0,0:24:25.19,0:24:27.64,Main,James,0,0,0,,Now, please smile, Ms. Lilie!

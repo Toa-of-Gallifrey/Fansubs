@@ -24,12 +24,12 @@ Video Position: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -196,7 +196,7 @@ Dialogue: 0,0:09:53.54,0:09:55.26,Main,Mamane,0,0,0,,There’s loads more over h
 Dialogue: 0,0:09:59.16,0:10:01.66,Main,Satoshi,0,0,0,,You’re right! \N Where’d they come from?!
 Dialogue: 0,0:10:05.66,0:10:07.16,Main,Suiren,0,0,0,,Sandy, no!
 Dialogue: 0,0:10:09.69,0:10:10.54,Main,Suiren,0,0,0,,Watch out!
-Dialogue: 0,0:10:10.54,0:10:12.29,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:10:10.54,0:10:12.29,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:10:22.27,0:10:24.56,Main,Suiren,0,0,0,,Thank you, Satoshi, Pikachu.
 Dialogue: 0,0:10:24.56,0:10:26.35,Main,Rotom,0,0,0,,I have to record its traits-roto!
 Dialogue: 0,0:10:26.35,0:10:29.21,Main,Kukui,0,0,0,,So it’ll attack if provoked...
@@ -281,7 +281,7 @@ Dialogue: 0,0:16:43.16,0:16:44.71,Main,Kojiro,0,0,0,,You!
 Dialogue: 0,0:16:45.45,0:16:48.44,Main,Kojiro,0,0,0,,I will avenge my crowns!
 Dialogue: 0,0:16:50.19,0:16:52.87,Main,Nyarth,0,0,0,,And {\i1}I{\i0} will avenge \N our machinery, meow!
 Dialogue: 0,0:16:55.57,0:16:57.37,Main,Kojiro,0,0,0,,What are they saying?
-Dialogue: 0,0:16:57.37,0:17:01.87,Main,Nyarth,0,0,0,,It’s all nonsense like \N “Will you eat this?” and “Good Pokémon”, meow.
+Dialogue: 0,0:16:57.37,0:17:01.87,Main,Nyarth,0,0,0,,It’s all nonsense like \N “Will you eat this?” and “Good Pokémon!”, meow.
 Dialogue: 0,0:17:01.87,0:17:08.75,Main,Musashi,0,0,0,,You know, if we sell these as some new Pokémon species, \N we’ll make a killing, don’t you think?
 Dialogue: 0,0:17:10.55,0:17:12.05,Main,Kojiro,0,0,0,,Well, whatever the case...
 Dialogue: 0,0:17:12.05,0:17:14.09,Main,Kojiro,0,0,0,,It’s time to make them \N feel some pain!

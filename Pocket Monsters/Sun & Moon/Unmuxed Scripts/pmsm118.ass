@@ -25,12 +25,12 @@ Video Position: 52
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -168,9 +168,9 @@ Dialogue: 0,0:04:25.11,0:04:28.76,Main,Ganmo,0,0,0,,We are Gym Trainers here \N 
 Dialogue: 0,0:04:28.76,0:04:31.71,Main,Shirataki,0,0,0,,We look up to the Gyms of Kanto,
 Dialogue: 0,0:04:31.71,0:04:35.13,Main,Shirataki,0,0,0,,so we were excited to meet \N a real trainer from Kanto, desu.
 Dialogue: 0,0:04:35.13,0:04:38.25,Main,Chikuwa,0,0,0,,Let me welcome you once more, \N to the Gym of Kanto!
-Dialogue: 0,0:04:38.25,0:04:42.13,Main,Satoshi,0,0,0,,Does that mean I’ll get to have \N Pokémon battles with all of you?
+Dialogue: 0,0:04:38.25,0:04:42.13,Main,Satoshi,0,0,0,,Does that mean I’ll get to have \N Pokémon Battles with all of you?
 Dialogue: 0,0:04:42.13,0:04:43.63,Main,Kaki,0,0,0,,I want to do that, too!
-Dialogue: 0,0:04:43.63,0:04:46.82,Main,Shirataki,0,0,0,,We don’t do \N Pokémon battles, desu.
+Dialogue: 0,0:04:43.63,0:04:46.82,Main,Shirataki,0,0,0,,We don’t do \N Pokémon Battles, desu.
 Dialogue: 0,0:04:46.82,0:04:48.13,Main,Satoshi,0,0,0,,What? Really?
 Dialogue: 0,0:04:48.13,0:04:51.35,Main,Chikuwa,0,0,0,,Here in this tower, \N you’ll have to play our games! Believe it!
 Dialogue: 0,0:04:51.35,0:04:52.39,Main,Kaki,0,0,0,,Games?
@@ -193,7 +193,7 @@ Dialogue: 0,0:05:41.99,0:05:45.75,Main,Lilie,0,0,0,,I can’t believe you have \
 Dialogue: 0,0:05:45.75,0:05:47.70,Main,Lilie,0,0,0,,But what are we \N supposed to do here?
 Dialogue: 0,0:05:47.70,0:05:52.45,Main,Hanpen,0,0,0,,My name is Hanpen, indeed! \N Can you folks win against me?
 Dialogue: 0,0:05:52.45,0:05:54.00,Main,Kaki,0,0,0,,Absolutely!
-Dialogue: 0,0:05:54.00,0:05:55.79,Main,Satoshi,0,0,0,,I’ll win and face the Pokémon battle!
+Dialogue: 0,0:05:54.00,0:05:55.79,Main,Satoshi,0,0,0,,I’ll win and face the Pokémon Battle!
 Dialogue: 0,0:05:55.79,0:05:58.23,Main,Hanpen,0,0,0,,I like your enthusiasm, indeed!
 Dialogue: 0,0:05:58.23,0:06:01.29,Main,Hanpen,0,0,0,,The first game will be \N water crossing, indeed!
 Dialogue: 0,0:06:01.29,0:06:03.00,Main,Satoshi,0,0,0,,Water crossing?
@@ -289,7 +289,7 @@ Dialogue: 0,0:10:33.18,0:10:35.20,Main,Satoshi,0,0,0,,Lilie, see you later!
 Dialogue: 0,0:10:35.73,0:10:38.00,Main,Lilie,0,0,0,,Everybody, do your best.
 Dialogue: 0,0:10:39.26,0:10:40.49,Main,Satoshi,0,0,0,,Just a little further...
 Dialogue: 0,0:10:46.11,0:10:47.50,Main,Chikuwa,0,0,0,,I’m glad you’re here! \N Believe it!
-Dialogue: 0,0:10:47.88,0:10:51.25,Main,Satoshi,0,0,0,,If we win here, we’ll get to face your chief \N in a Pokémon battle, right?
+Dialogue: 0,0:10:47.88,0:10:51.25,Main,Satoshi,0,0,0,,If we win here, we’ll get to face your chief \N in a Pokémon Battle, right?
 Dialogue: 0,0:10:51.25,0:10:54.23,Main,Chikuwa,0,0,0,,That’s right, believe it! \N So, the fourth floor’s task...
 Dialogue: 0,0:10:54.75,0:10:56.01,Main,Chikuwa,0,0,0,,...is this! Believe it!
 Dialogue: 0,0:10:57.59,0:11:01.52,Main,Chikuwa,0,0,0,,Clear this course, and you’ll claim the right \N to battle our chief, believe it!

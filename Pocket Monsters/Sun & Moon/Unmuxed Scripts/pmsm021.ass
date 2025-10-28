@@ -23,13 +23,13 @@ Video Position: 43
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,8 +48,8 @@ Dialogue: 1,0:02:04.10,0:02:07.10,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:02:04.10,0:02:07.10,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:07.10,0:02:10.48,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:07.10,0:02:10.48,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:10.48,0:02:15.28,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:10.48,0:02:15.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:10.48,0:02:15.28,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:10.48,0:02:15.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:02:15.28,0:02:17.03,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:02:15.28,0:02:17.03,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:02:17.03,0:02:19.57,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -189,7 +189,7 @@ Dialogue: 0,0:07:11.18,0:07:12.91,Main,Satoshi,0,0,0,,Did something happen?
 Dialogue: 0,0:07:14.30,0:07:15.33,Main,Musashi,0,0,0,,Sheesh!
 Dialogue: 0,0:07:15.33,0:07:16.41,Main,Kojiro,0,0,0,,Don’t get in our way!
 Dialogue: 0,0:07:17.19,0:07:18.66,Main,Nyarth,0,0,0,,Is that the honcho?!
-Dialogue: 0,0:07:18.66,0:07:20.54,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:07:18.66,0:07:20.54,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:07:27.06,0:07:29.38,Main,Musashi,0,0,0,,Huh? They vanished with a {\i1}poof!{\i0}
 Dialogue: 0,0:07:29.38,0:07:31.15,Main,Kojiro,0,0,0,,Like a villain!
 Dialogue: 0,0:07:33.46,0:07:36.23,Main,Musashi,0,0,0,,Man, what a waste of time.
@@ -272,7 +272,7 @@ Dialogue: 0,0:20:02.26,0:20:03.45,Main,Satoshi,0,0,0,,What?!
 Dialogue: 0,0:20:05.64,0:20:06.76,Main,Rotom,0,0,0,,It’s Fire Fang-roto!
 Dialogue: 0,0:20:06.76,0:20:08.27,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:20:15.06,0:20:16.39,Main,Satoshi,0,0,0,,Lightning Speed!
-Dialogue: 0,0:20:22.03,0:20:23.20,Main,Satoshi,0,0,0,,Electro Ball!
+Dialogue: 0,0:20:22.03,0:20:23.20,Main,Satoshi,0,0,0,,Electric Ball!
 Dialogue: 0,0:20:40.75,0:20:43.13,Main,Satoshi,0,0,0,,Come with us!
 Dialogue: 0,0:20:48.26,0:20:50.68,Main,Satoshi,0,0,0,,Go, Monster Ball!{Oh god, flashbacks... to things that would happen three years later. Gah, in just four months Go has managed to thoroughly *poison* the word “Go” for me. -Starfish}
 Dialogue: 0,0:21:07.82,0:21:11.32,Main,Satoshi,0,0,0,,I got Nyabby!

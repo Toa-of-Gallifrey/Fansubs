@@ -24,12 +24,12 @@ Video Position: 35
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -203,7 +203,7 @@ Dialogue: 0,0:08:45.75,0:08:46.63,Main,Kaki,0,0,0,,But...
 Dialogue: 0,0:08:47.21,0:08:50.25,Main,Kaki,0,0,0,,As of now, \N you’re my rival, too!
 Dialogue: 0,0:08:50.67,0:08:52.13,Main,Kaki,0,0,0,,I won’t lose next time!
 Dialogue: 0,0:08:55.88,0:08:57.09,Main,Gladio,0,0,0,,I look forward to it.
-Dialogue: 0,0:09:03.10,0:09:06.35,Main,Lychee,0,0,0,,{\i1}This{\i0} is what a Pokémon battle \N should be!
+Dialogue: 0,0:09:03.10,0:09:06.35,Main,Lychee,0,0,0,,{\i1}This{\i0} is what a Pokémon Battle \N should be!
 Dialogue: 0,0:09:27.42,0:09:29.63,Main,Plumeri,0,0,0,,He sure made a mess...
 Dialogue: 0,0:09:31.34,0:09:33.01,Main,Plumeri,0,0,0,,Second place...
 Dialogue: 0,0:09:34.55,0:09:35.67,Main,Plumeri,0,0,0,,Silver medal...
@@ -237,7 +237,7 @@ Dialogue: 0,0:12:53.91,0:12:57.08,Main,Tupper,0,0,0,,There ain’t no way the bo
 Dialogue: 0,0:12:57.08,0:12:58.46,Main,Wrap,0,0,0,,Got that right!
 Dialogue: 0,0:12:58.46,0:13:00.80,Main,Zip,0,0,0,,Ya said it, Bro!
 Dialogue: 0,0:13:00.80,0:13:02.80,Main,Tupper,0,0,0,,The boss ain’t ever lost!
-Dialogue: 0,0:13:03.17,0:13:05.68,Main,Satoshi,0,0,0,,You can’t tell how a {“Pokémon battle”, but this sentence was a bit on the long side and the “Pokémon” is obvious enough from context that I don’t think anyone would really miss it. -Starfish}battle will end \N before it’s begun!
+Dialogue: 0,0:13:03.17,0:13:05.68,Main,Satoshi,0,0,0,,You can’t tell how a {“Pokémon Battle”, but this sentence was a bit on the long side and the “Pokémon” is obvious enough from context that I don’t think anyone would really miss it. -Starfish}battle will end \N before it’s begun!
 Dialogue: 0,0:13:05.68,0:13:08.18,Main,Tupper,0,0,0,,{\i1}This{\i0} one’s obvious!
 Dialogue: 0,0:13:08.18,0:13:10.43,Main,Zip,0,0,0,,The boss’ll win, no sweat!
 Dialogue: 0,0:13:10.43,0:13:12.06,Main,Mamane,0,0,0,,Satoshi will win!
@@ -252,7 +252,7 @@ Dialogue: 0,0:13:29.53,0:13:31.74,Main,Tupper,0,0,0,,They were all, \N “You ha
 Dialogue: 0,0:13:31.74,0:13:33.95,Main,Tupper,0,0,0,,They called you “{\i1}that guy,{\i0}” boss!
 Dialogue: 0,0:13:33.95,0:13:37.17,Main,Tupper,0,0,0,,Can ya {\i1}believe{\i0} it?! \N I just wanna {\i1}wreck{\i0} their annoyin’ faces!{Well this sure was an overly verbose way of writing around him calling them "So freakin’ annoyin’." -Starfish}
 Dialogue: 0,0:13:56.14,0:13:59.52,Main,Tupper,0,0,0,,Ya see that? \N Yer not even worth {\i1}acknowledgin’!{\i0}
-Dialogue: 0,0:13:59.52,0:14:01.77,Main,Zip,0,0,0,,T-That’s what was goin’ on?!
+Dialogue: 0,0:13:59.52,0:14:01.77,Main,Zip,0,0,0,,Th-That’s what was goin’ on?!
 Dialogue: 0,0:14:01.77,0:14:02.94,Main,Wrap,0,0,0,,That was {\i1}scary{\i0}...
 Dialogue: 0,0:14:02.94,0:14:06.15,Main,Tupper,0,0,0,,Okay! Let’s give the boss \N some more cheers!
 Dialogue: 0,0:14:06.15,0:14:07.53,Main,Zip & Wrap,0,0,0,,Yeah!

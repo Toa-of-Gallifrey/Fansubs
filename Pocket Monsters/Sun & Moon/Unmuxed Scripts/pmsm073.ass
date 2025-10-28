@@ -23,13 +23,13 @@ Video Position: 21
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00FE59FB,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F6AF47,&H00F5FEF5,&H00F6AF47,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -77,7 +77,7 @@ Dialogue: 0,0:18:42.77,0:18:44.10,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Co
 Dialogue: 0,0:18:44.10,0:18:45.56,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:18:45.56,0:18:49.31,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
 Dialogue: 0,0:18:49.31,0:18:52.44,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,
-Dialogue: 0,0:18:52.44,0:18:55.70,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
+Dialogue: 0,0:18:52.44,0:18:55.70,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny Earth,
 Dialogue: 0,0:18:55.70,0:18:59.00,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:18:59.00,0:19:02.52,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together!
 Comment: 0,0:00:00.48,0:00:00.48,Main,,0,0,0,,
@@ -208,7 +208,7 @@ Dialogue: 0,0:05:56.56,0:05:59.37,Main,Acerola,0,0,0,,A long, long time ago, \N 
 Dialogue: 0,0:05:59.37,0:06:02.26,Main,Acerola,0,0,0,,there lived a ghost \N that nobody liked at all.
 Dialogue: 0,0:06:03.45,0:06:08.03,Main,Acerola,0,0,0,,The ghost was very violent, \N and liked to frighten people.
 Dialogue: 0,0:06:08.03,0:06:13.19,Main,Acerola,0,0,0,,What’s more, the ghost was very greedy \N and would run off with anything that struck its fancy.
-Dialogue: 0,0:06:14.25,0:06:19.48,Main,Acerola,0,0,0,,The people named the ghost “the Greedy Lapoo”, \N and were quite scared of it.
+Dialogue: 0,0:06:14.25,0:06:19.48,Main,Acerola,0,0,0,,The people named the ghost “The Greedy Lapoo” \N and were quite scared of it.
 Dialogue: 0,0:06:21.31,0:06:24.54,Main,Musashi,0,0,0,,What kind of guy do you think \N this Island King Kuchinashi is?
 Dialogue: 0,0:06:24.54,0:06:27.28,Main,Kojiro,0,0,0,,I hope he’ll give us \N a Z-Ring quickly.
 Dialogue: 0,0:06:27.28,0:06:31.45,Main,Nyarth,0,0,0,,No problem. \N I’ve prepared a secret weapon, meow.
@@ -265,7 +265,7 @@ Dialogue: 0,0:09:36.39,0:09:37.36,Main,Musashi,0,0,0,,Huh?
 Dialogue: 0,0:09:37.36,0:09:38.93,Main,Nyarth,0,0,0,,You’re too fired up, meow.
 Dialogue: 0,0:09:47.47,0:09:49.21,Main,Piko,0,0,0,,Big Sis Acerola, look!
 Dialogue: 0,0:09:49.21,0:09:50.15,Main,Nene,0,0,0,,Something came out!
-Dialogue: 0,0:09:50.51,0:09:53.20,Main,Acerola,0,0,0,,T-The Greedy Lapoo?
+Dialogue: 0,0:09:50.51,0:09:53.20,Main,Acerola,0,0,0,,Th-The Greedy Lapoo?
 Dialogue: 0,0:09:53.20,0:09:55.41,Main,Acerola,0,0,0,,It {\i1}wasn’t{\i0} a fairy tale?
 Dialogue: 0,0:09:56.95,0:09:59.17,Main,Nyarth,0,0,0,,Who’re you supposed to be?!
 Dialogue: 0,0:09:59.17,0:10:01.13,Main,Kojiro,0,0,0,,You scared us!

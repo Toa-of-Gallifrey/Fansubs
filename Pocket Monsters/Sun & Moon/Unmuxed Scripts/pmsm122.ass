@@ -24,12 +24,12 @@ Video Position: 25
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H000B71FF,&H00F1F6FF,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00F1F6FF,&H00F1F6FF,&H0000BCF3,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -104,7 +104,7 @@ Dialogue: 0,0:15:23.53,0:15:25.04,Insert,Team Rocket Theme,0,0,0,,{\an8}“‘Co
 Dialogue: 0,0:15:25.04,0:15:26.45,Insert,Team Rocket Theme,0,0,0,,{\an8}“Come on, come at us!”
 Dialogue: 0,0:15:26.45,0:15:30.18,Insert,Team Rocket Theme,0,0,0,,{\an8}“Clearly, Pikachu’s too strong, meow!”
 Dialogue: 0,0:15:30.18,0:15:33.20,Insert,Team Rocket Theme,0,0,0,,{\an8}“What an awful feeling!” we scream as we blast off,{Couldn't resist -Starfish}
-Dialogue: 0,0:15:33.20,0:15:36.53,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny earth,
+Dialogue: 0,0:15:33.20,0:15:36.53,Insert,Team Rocket Theme,0,0,0,,{\an8}and beneath us we see a little, tiny Earth,
 Dialogue: 0,0:15:36.53,0:15:39.76,Insert,Team Rocket Theme,0,0,0,,{\an8}forests, mountains and Pokémon...
 Dialogue: 0,0:15:39.76,0:15:43.46,Insert,Team Rocket Theme,0,0,0,,{\an8}They all blend together!
 Dialogue: 0,0:20:29.52,0:20:35.96,Insert,Team Rocket Theme,0,0,0,,We are the indestructible Team Rocket!
@@ -326,7 +326,7 @@ Dialogue: 0,0:15:45.57,0:15:46.13,Main,Musashi,0,0,0,,Nui...
 Dialogue: 0,0:15:46.13,0:15:47.20,Main,Kojiro,0,0,0,,...koguma...
 Dialogue: 0,0:15:47.20,0:15:48.68,Main,Kojiro,0,0,0,,That’s...
 Dialogue: 0,0:16:00.56,0:16:05.00,Main,Team Rocket,0,0,0,,What even {\i1}is{\i0} this feeling?
-Dialogue: 0,0:16:29.32,0:16:31.25,Main,Matori,0,0,0,,W-What?
+Dialogue: 0,0:16:29.32,0:16:31.25,Main,Matori,0,0,0,,Wh-What?
 Dialogue: 0,0:16:32.92,0:16:34.09,Main,Matori,0,0,0,,Again, what?
 Dialogue: 0,0:16:46.49,0:16:48.05,Main,Matori,0,0,0,,What is this?!
 Dialogue: 0,0:16:48.05,0:16:51.37,Main,Nyarth,0,0,0,,Kiteruguma wants to be \N a good host to her guests, meow.
@@ -363,7 +363,7 @@ Dialogue: 0,0:19:45.80,0:19:49.08,Main,Matori,0,0,0,,But Sakaki should be happy 
 Dialogue: 0,0:19:50.35,0:19:51.84,Main,Matori,0,0,0,,What are {\i1}you{\i0} doing here?!
 Dialogue: 0,0:19:53.49,0:19:55.34,Main,Kojiro,0,0,0,,Think this’ll work?
 Dialogue: 0,0:19:55.75,0:19:58.60,Main,Musashi,0,0,0,,He’ll figure something out, I’m sure.
-Dialogue: 0,0:20:06.70,0:20:10.96,Main,Matori,0,0,0,,W-Where is Nuikoguma?! \N Answer me!
+Dialogue: 0,0:20:06.70,0:20:10.96,Main,Matori,0,0,0,,Wh-Where is Nuikoguma?! \N Answer me!
 Dialogue: 0,0:20:12.63,0:20:15.26,Main,Matori,0,0,0,,I know full well who you are!
 Dialogue: 0,0:20:32.98,0:20:34.30,Main,Nyarth,0,0,0,,Kiteruguma!
 Dialogue: 0,0:20:48.39,0:20:52.11,Main,Nyarth,0,0,0,,What even {\i1}is{\i0} this feeling?

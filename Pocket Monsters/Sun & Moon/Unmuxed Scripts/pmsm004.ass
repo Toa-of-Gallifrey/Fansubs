@@ -24,13 +24,13 @@ Video Position: 57
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,8 +49,8 @@ Dialogue: 1,0:02:27.08,0:02:30.08,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:02:27.08,0:02:30.08,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:30.08,0:02:33.46,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:30.08,0:02:33.46,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:33.46,0:02:38.26,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:33.46,0:02:38.26,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:33.46,0:02:38.26,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:33.46,0:02:38.26,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:02:38.26,0:02:40.01,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:02:38.26,0:02:40.01,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:02:40.01,0:02:42.55,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -123,7 +123,7 @@ Dialogue: 0,0:00:53.99,0:00:58.91,Main,Moani,0,0,0,,The blessings of nature \N a
 Dialogue: 0,0:00:58.91,0:01:02.82,Main,Moani,0,0,0,,That’s the law for \N those who live in Alola.
 Dialogue: 0,0:01:05.51,0:01:11.70,Main,Moani,0,0,0,,So feel free to come here \N whenever you feel hungry, too!
 Dialogue: 0,0:01:14.82,0:01:19.68,Main,Narrator,0,0,0,,Satoshi and Pikachu are trying to catch \N their first Pokémon in the Alola Region.
-Dialogue: 0,0:01:19.68,0:01:23.23,Main,Narrator,0,0,0,,They are right in the middle of \N a Pokémon battle as we speak!
+Dialogue: 0,0:01:19.68,0:01:23.23,Main,Narrator,0,0,0,,They are right in the middle of \N a Pokémon Battle as we speak!
 Dialogue: 0,0:01:23.23,0:01:26.06,Main,Rotom,0,0,0,,Agojimushi. Larva Pokémon. \N Bug type.
 Dialogue: 0,0:01:26.06,0:01:29.56,Main,Rotom,0,0,0,,Its strong jaw enables it to \N scrape trees and slurp out the sap.
 Dialogue: 0,0:01:29.56,0:01:32.03,Main,Rotom,0,0,0,,It normally lives underground.{Sun Pokédex entry -Starfish}
@@ -132,7 +132,7 @@ Dialogue: 0,0:01:34.68,0:01:36.40,Main,Satoshi,0,0,0,,Sure did! \N Thanks, Rotom
 Dialogue: 0,0:01:38.34,0:01:39.89,Main,Satoshi,0,0,0,,Pikachu, jump!
 Dialogue: 0,0:01:41.10,0:01:41.91,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 0,0:01:48.84,0:01:55.80,Main,Rotom,0,0,0,,To catch wild Pokémon, you first have to wear them out \N in a battle before throwing the Monster Ball.
-Dialogue: 0,0:01:55.80,0:01:58.09,Main,Rotom,0,0,0,,That’s a basic of \N Pokémon battling-roto!
+Dialogue: 0,0:01:55.80,0:01:58.09,Main,Rotom,0,0,0,,That’s a basic of \N Pokémon Battling-roto!
 Dialogue: 0,0:01:58.09,0:01:59.97,Main,Satoshi,0,0,0,,All right!
 Comment: 0,0:02:08.48,0:02:08.48,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:36.48,0:03:36.48,Main,,0,0,0,,{Part A}
@@ -183,7 +183,7 @@ Dialogue: 0,0:06:45.63,0:06:49.42,Main,Musashi,0,0,0,,Mimikkyu! {\i1}Mimikkyu!{\
 Dialogue: 0,0:06:51.01,0:06:51.89,Main,Musashi,0,0,0,,What’s this?
 Dialogue: 0,0:06:51.89,0:06:54.57,Main,Musashi,0,0,0,,It’s so sweet! Delicious!
 Dialogue: 0,0:06:54.57,0:06:55.77,Main,Musashi,0,0,0,,I’m filled with energy!
-Dialogue: 0,0:06:55.77,0:07:00.09,Main,Nyarth,0,0,0,,T-This is Mitsuhoney honey, meow!
+Dialogue: 0,0:06:55.77,0:07:00.09,Main,Nyarth,0,0,0,,Th-This is Mitsuhoney honey, meow!
 Dialogue: 0,0:07:01.52,0:07:02.94,Main,Nyarth,0,0,0,,It’s so sweet, meow!
 Dialogue: 0,0:07:04.82,0:07:06.32,Main,Kojiro,0,0,0,,You’re right!
 Dialogue: 0,0:07:10.60,0:07:15.08,Main,Team Rocket,0,0,0,,{\i1}This is really nice \N somehow, isn’t it?{\i0}
@@ -215,7 +215,7 @@ Dialogue: 0,0:09:32.71,0:09:35.50,Main,Satoshi,0,0,0,,I’m 100% gonna catch \N 
 Dialogue: 0,0:09:37.31,0:09:42.56,Main,Rotom,0,0,0,,The forest behind the Pokémon School \N currently has an 89% chance of Pokémon appearing!
 Dialogue: 0,0:09:42.56,0:09:44.59,Main,Mao,0,0,0,,That could be good!
 Dialogue: 0,0:09:44.59,0:09:46.69,Main,Mao,0,0,0,,I met Amakaji in that forest, too.
-Dialogue: 0,0:10:13.84,0:10:16.03,Main,Satoshi,0,0,0,,W-What Pokémon is that?
+Dialogue: 0,0:10:13.84,0:10:16.03,Main,Satoshi,0,0,0,,Wh-What Pokémon is that?
 Dialogue: 0,0:10:16.03,0:10:18.01,Main,Rotom,0,0,0,,Leave it to me-roto!
 Dialogue: 0,0:10:18.01,0:10:21.22,Main,Rotom,0,0,0,,Mokuroh. Grass Quill Pokémon. \N Grass/Flying type.
 Dialogue: 0,0:10:21.22,0:10:23.97,Main,Rotom,0,0,0,,It stores up energy during the day \N using photosynthesis.{This is IN its Sun Pokédex entry, but the exact phrasing doesn’t quite match. The next two lines are straight out of Moon. -Starfish}
@@ -278,8 +278,8 @@ Dialogue: 0,0:14:37.27,0:14:41.94,Main,Rotom,0,0,0,,The temperature of its heate
 Dialogue: 0,0:14:43.54,0:14:45.93,Main,Rotom,0,0,0,,Oh? It’s not warm at all-roto.
 Dialogue: 0,0:14:45.93,0:14:48.87,Main,Rotom,0,0,0,,How odd! This contradicts \N my explanation-roto!
 Dialogue: 0,0:14:52.56,0:14:55.99,Main,Satoshi,0,0,0,,You had this many friends?
-Dialogue: 0,0:15:01.46,0:15:02.71,Main,Satoshi,0,0,0,,W-What?!
-Dialogue: 0,0:15:05.66,0:15:08.47,Main,Musashi,0,0,0,,When asked “W-What?!”...
+Dialogue: 0,0:15:01.46,0:15:02.71,Main,Satoshi,0,0,0,,Wh-What?!
+Dialogue: 0,0:15:05.66,0:15:08.47,Main,Musashi,0,0,0,,When asked “Wh-What?!”...
 Dialogue: 0,0:15:08.47,0:15:11.30,Main,Kojiro,0,0,0,,Let us tell you our names!
 Dialogue: 0,0:15:11.30,0:15:14.22,Main,Musashi,0,0,0,,Flower’s face, willow’s waist, \N moon and flowers hide in her wake.
 Dialogue: 0,0:15:14.22,0:15:17.27,Main,Musashi,0,0,0,,A single flower of evil in this fleeting world!
@@ -302,7 +302,7 @@ Dialogue: 0,0:15:59.57,0:16:03.95,Main,Musashi,0,0,0,,And then we’re giving Pi
 Dialogue: 0,0:16:03.95,0:16:06.15,Main,Musashi,0,0,0,,Mimikkyu! It’s all on you!
 Dialogue: 0,0:16:09.74,0:16:13.08,Main,Musashi,0,0,0,,Mimikkyu, pummel them! \N I don’t even care how you do it!
 Dialogue: 0,0:16:15.58,0:16:17.04,Main,Nyarth,0,0,0,,A Shadow Ball, meow!
-Dialogue: 0,0:16:17.04,0:16:18.91,Main,Satoshi,0,0,0,,Pikachu! Electro Ball!
+Dialogue: 0,0:16:17.04,0:16:18.91,Main,Satoshi,0,0,0,,Pikachu! Electric Ball!
 Dialogue: 0,0:16:22.46,0:16:25.42,Main,Satoshi,0,0,0,,Mokuroh, now’s your chance! \N Go save your friends!
 Dialogue: 0,0:16:27.55,0:16:29.42,Main,Satoshi,0,0,0,,Use Iron Tail, Pikachu!
 Dialogue: 0,0:16:40.89,0:16:43.94,Main,Rotom,0,0,0,,It broke through that net \N with a single kick-roto!

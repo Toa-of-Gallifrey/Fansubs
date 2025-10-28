@@ -22,13 +22,13 @@ Video Position: 24
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FF7718,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,8 +47,8 @@ Dialogue: 1,0:02:53.11,0:02:56.11,OP,,0,0,0,,Just standing around waiting won’
 Dialogue: 0,0:02:53.11,0:02:56.11,OPp2,,0,0,0,,Just standing around waiting won’t get us anywhere
 Dialogue: 1,0:02:56.11,0:02:59.49,OP,,0,0,0,,I want to go on a grand adventure that’ll make
 Dialogue: 0,0:02:56.11,0:02:59.49,OPp2,,0,0,0,,I want to go on a grand adventure that’ll make
-Dialogue: 1,0:02:59.49,0:03:04.28,OP,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
-Dialogue: 0,0:02:59.49,0:03:04.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon and that girl all turn to look in awe
+Dialogue: 1,0:02:59.49,0:03:04.28,OP,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
+Dialogue: 0,0:02:59.49,0:03:04.28,OPp2,,0,0,0,,the sun, the moon, the Pokémon, and that girl all turn to look in awe
 Dialogue: 1,0:03:04.28,0:03:06.04,OP,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 0,0:03:04.28,0:03:06.04,OPp2,,0,0,0,,(Ay-ya-ya!)
 Dialogue: 1,0:03:06.04,0:03:08.58,OP,,0,0,0,,It’s a thrilling, surprising, astonishing, naturally endless journey
@@ -145,7 +145,7 @@ Dialogue: 0,0:04:31.80,0:04:33.81,Main,Mamane,0,0,0,,This isn’t a game!
 Dialogue: 0,0:04:33.81,0:04:35.14,Main,Lilie,0,0,0,,Snowball, use Powder...
 Dialogue: 0,0:04:35.14,0:04:37.52,Main,Lilie,0,0,0,,No... Run!
 Dialogue: 0,0:04:37.52,0:04:39.31,Main,Mamane,0,0,0,,Stop!
-Dialogue: 0,0:04:39.31,0:04:43.01,Main,Kukui,0,0,0,,Orders in a Pokémon battles need to be given \N clearly and with confidence!
+Dialogue: 0,0:04:39.31,0:04:43.01,Main,Kukui,0,0,0,,Orders in a Pokémon Battles need to be given \N clearly and with confidence!
 Dialogue: 0,0:04:43.65,0:04:47.80,Main,Kukui,0,0,0,,If a trainer hesitates, their Pokémon \N will be Dragged Along into hesitating, too!
 Dialogue: 0,0:04:48.20,0:04:49.24,Main,Them,0,0,0,,Got it!
 Dialogue: 0,0:04:49.24,0:04:50.41,Main,Kukui,0,0,0,,Well then, start!
@@ -232,7 +232,7 @@ Dialogue: 0,0:09:39.99,0:09:44.02,Main,Alolan Oak,0,0,0,,Of course. It won’t l
 Dialogue: 0,0:09:44.41,0:09:46.29,Main,Satoshi,0,0,0,,I wanna battle it!
 Dialogue: 0,0:09:46.29,0:09:48.90,Main,Alolan Oak,0,0,0,,Very well. Kani, Kani!
 Dialogue: 0,0:09:50.50,0:09:55.34,Main,Musashi,0,0,0,,It’s been a while since we’ve walked \N around the woods like this looking for Pokémon. {Removed an extra space, moved “like this” up and changed the linebreak (original line sans the extra space: “It’s been a while since we’ve walked around the woods \N looking for Pokémon like this.”). - Toa}
-Dialogue: 0,0:09:55.34,0:09:59.66,Main,Kojiro,0,0,0,,Yeah. Lately we’ve been \N so focused on PetitDogas,
+Dialogue: 0,0:09:55.34,0:09:59.66,Main,Kojiro,0,0,0,,Yeah. Lately we’ve been \N so focused on Petitdogas,
 Dialogue: 0,0:09:59.66,0:10:01.91,Main,Kojiro,0,0,0,,but one mustn’t forget the basics!
 Dialogue: 0,0:10:02.30,0:10:09.17,Main,Nyarth,0,0,0,,Our mission is, and always will be, \N catching rare Pokémon to send to Team Rocket HQ.
 Dialogue: 0,0:10:09.17,0:10:11.23,Main,Nyarth,0,0,0,,All is for our boss...
@@ -254,7 +254,7 @@ Dialogue: 0,0:11:06.62,0:11:09.12,Main,Musashi,0,0,0,,Huh? Somehow...
 Dialogue: 0,0:11:09.12,0:11:10.29,Main,Kojiro,0,0,0,,This is a really...
 Dialogue: 0,0:11:10.29,0:11:12.27,Main,Nyarth,0,0,0,,...great feeling, meow...
 Dialogue: 0,0:11:29.29,0:11:30.92,Main,Satoshi,0,0,0,,Let’s go, Nyabby!
-Dialogue: 0,0:11:32.29,0:11:34.88,Main,Alolan Oak,0,0,0,,Nekkoala, this is a Pokémon battle!
+Dialogue: 0,0:11:32.29,0:11:34.88,Main,Alolan Oak,0,0,0,,Nekkoala, this is a Pokémon Battle!
 Dialogue: 0,0:11:35.23,0:11:36.25,Main,Satoshi,0,0,0,,Use Ember!
 Dialogue: 0,0:11:38.46,0:11:39.47,Main,Mao,0,0,0,,It dodged it!
 Dialogue: 0,0:11:39.47,0:11:40.47,Main,Satoshi,0,0,0,,Scratch!

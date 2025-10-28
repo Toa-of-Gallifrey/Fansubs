@@ -23,13 +23,13 @@ Video Position: 28
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: OPED,HummingMod,36,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
+Style: OPED,HummingMod,36,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,5,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,40,&H0000E6FF,&H00F5FEF5,&H00FF7803,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,40,&H0023FCFF,&H00F5FEF5,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -86,7 +86,7 @@ Dialogue: 0,0:00:01.16,0:00:02.70,Main,Satoshi,0,0,0,,Alola!
 Dialogue: 0,0:00:02.70,0:00:04.30,Main,Satoshi,0,0,0,,You all doing all right?
 Dialogue: 0,0:00:04.30,0:00:06.97,Main,Satoshi,0,0,0,,I’ll be giving today’s PokéProblem.
 Dialogue: 0,0:00:06.97,0:00:07.98,Main,Satoshi,0,0,0,,Good luck!
-Dialogue: 0,0:00:08.83,0:00:13.46,Main,Satoshi,0,0,0,,Which Pokémon battles Pikachu today?
+Dialogue: 0,0:00:08.83,0:00:13.46,Main,Satoshi,0,0,0,,Which Pokémon Battles Pikachu today?
 Dialogue: 0,0:00:13.46,0:00:15.49,Main,Satoshi,0,0,0,,Get the answer at the end of the episode!
 Comment: 0,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 0,0:00:16.94,0:00:22.01,Main,Narrator,0,0,0,,Satoshi and the others have left the Alola Region \N to go on an extracurricular class in Kanto.
@@ -120,7 +120,7 @@ Dialogue: 0,0:03:34.52,0:03:36.57,Main,Takeshi,0,0,0,,Yeah, I guess that did hap
 Dialogue: 0,0:03:36.57,0:03:38.88,Main,Kaki,0,0,0,,Is that true, Satoshi?
 Dialogue: 0,0:03:40.79,0:03:44.28,Main,Satoshi,0,0,0,,Once you’ve gathered eight Badges, \N you can challenge the Pokémon League!
 Dialogue: 0,0:03:44.28,0:03:45.76,Main,Mao,0,0,0,,Pokémon League?
-Dialogue: 0,0:03:46.36,0:03:50.02,Main,Satoshi,0,0,0,,It’s a Pokémon battle tournament \N where plenty of strong trainers gather!
+Dialogue: 0,0:03:46.36,0:03:50.02,Main,Satoshi,0,0,0,,It’s a Pokémon Battle tournament \N where plenty of strong trainers gather!
 Dialogue: 0,0:03:51.21,0:03:55.80,Main,Kukui,0,0,0,,Well then, let’s get right into some \N mock battles with Kasumi and Takeshi!
 Dialogue: 0,0:03:55.80,0:03:57.71,Main,Kukui,0,0,0,,Who wants to go first?
 Dialogue: 0,0:03:57.71,0:03:59.71,Main,Them,0,0,0,,{\i1}Me!{\i0}
@@ -153,7 +153,7 @@ Dialogue: 0,0:05:12.00,0:05:13.54,Main,Kasumi,0,0,0,,But what now?
 Dialogue: 0,0:05:13.54,0:05:15.99,Main,Suiren,0,0,0,,Launch the balloon!
 Dialogue: 0,0:05:21.25,0:05:25.76,Main,Mao,0,0,0,,When Suiren and Ashimari get to use their balloons, \N they’re absolutely incredible!
 Dialogue: 0,0:05:25.76,0:05:30.35,Main,Kasumi,0,0,0,,Impressive. But my Koduck \N is really strong in tight spots!
-Dialogue: 0,0:05:30.35,0:05:31.22,Main,Kasumi,0,0,0,,Use Mindpower!
+Dialogue: 0,0:05:30.35,0:05:31.22,Main,Kasumi,0,0,0,,Use Mind Power!
 Dialogue: 0,0:05:32.90,0:05:33.60,Main,Kasumi,0,0,0,,Huh?
 Dialogue: 0,0:05:34.93,0:05:36.83,Main,Rotom,0,0,0,,Why isn’t it using the move-roto?
 Dialogue: 0,0:05:36.83,0:05:39.52,Main,Satoshi,0,0,0,,Kasumi’s Koduck is a bit slow.
@@ -163,7 +163,7 @@ Dialogue: 0,0:05:48.68,0:05:49.99,Main,Suiren,0,0,0,,That was a nasty sound!
 Dialogue: 0,0:05:49.99,0:05:51.99,Main,Kasumi,0,0,0,,Oh, don’t worry about it.
 Dialogue: 0,0:05:54.75,0:05:55.76,Main,Kasumi,0,0,0,,Here it comes!
 Dialogue: 0,0:05:57.90,0:05:59.33,Main,Mao,0,0,0,,What? What’s happening?
-Dialogue: 0,0:06:03.46,0:06:06.01,Main,Mamane,0,0,0,,Mindpower? Why {\i1}now?{\i0}
+Dialogue: 0,0:06:03.46,0:06:06.01,Main,Mamane,0,0,0,,Mind Power? Why {\i1}now?{\i0}
 Dialogue: 0,0:06:06.01,0:06:08.11,Main,Kasumi,0,0,0,,Koduck, that’s enough.
 Dialogue: 0,0:06:09.15,0:06:11.91,Main,Kasumi,0,0,0,,Let Amamaiko and \N Ashimari down.
 Dialogue: 0,0:06:14.52,0:06:16.78,Main,Kukui,0,0,0,,Guess that’s that.
@@ -197,7 +197,7 @@ Dialogue: 0,0:07:50.55,0:07:54.94,Main,Lilie,0,0,0,,That isn’t even in any of 
 Dialogue: 0,0:07:54.94,0:07:56.70,Main,Mamane,0,0,0,,I can’t beat that.
 Dialogue: 0,0:07:57.10,0:08:02.58,Main,Takeshi,0,0,0,,Mind you, I learned to battle this way \N from a certain challenger of mine!
 Dialogue: 0,0:08:03.24,0:08:05.11,Main,Kukui,0,0,0,,Well, everyone?
-Dialogue: 0,0:08:05.11,0:08:08.21,Main,Kukui,0,0,0,,Did you feel some of \N the complexity of Pokémon battles?
+Dialogue: 0,0:08:05.11,0:08:08.21,Main,Kukui,0,0,0,,Did you feel some of \N the complexity of Pokémon Battles?
 Dialogue: 0,0:08:08.59,0:08:09.59,Main,Them,0,0,0,,{\i1}Yes!{\i0}
 Dialogue: 0,0:08:09.59,0:08:12.29,Main,Kukui,0,0,0,,A Pokémon’s type and \N the moves it learns...
 Dialogue: 0,0:08:12.29,0:08:15.72,Main,Kukui,0,0,0,,Those, and the way you raise them, \N can create infinite ways to battle!
@@ -315,7 +315,7 @@ Dialogue: 0,0:15:53.93,0:15:55.26,Main,Kasumi,0,0,0,,Hydro Pump!
 Dialogue: 0,0:15:57.26,0:16:00.52,Main,Kasumi,0,0,0,,How’d you like that? \N We’re blocking your Electric moves with water!
 Dialogue: 0,0:16:01.02,0:16:02.64,Main,Rotom,0,0,0,,Does not compute...
 Dialogue: 0,0:16:03.12,0:16:04.40,Main,Satoshi,0,0,0,,Lightning Speed!
-Dialogue: 0,0:16:09.73,0:16:11.99,Main,Satoshi,0,0,0,,Follow it up with an Electro Ball!
+Dialogue: 0,0:16:09.73,0:16:11.99,Main,Satoshi,0,0,0,,Follow it up with an Electric Ball!
 Dialogue: 0,0:16:12.38,0:16:13.41,Main,Kasumi,0,0,0,,Rain Prayer!
 Dialogue: 0,0:16:22.42,0:16:23.58,Main,Mamane,0,0,0,,It’s raining.
 Dialogue: 0,0:16:23.58,0:16:26.30,Main,Mao,0,0,0,,But how? We’re inside the Gym!

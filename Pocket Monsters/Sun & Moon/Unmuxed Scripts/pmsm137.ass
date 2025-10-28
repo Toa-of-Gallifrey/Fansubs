@@ -24,12 +24,12 @@ Video Position: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -227,7 +227,7 @@ Dialogue: 0,0:08:41.58,0:08:44.21,Main,Satoshi,0,0,0,,We won’t give up!
 Dialogue: 0,0:08:44.79,0:08:46.25,Main,Guzma,0,0,0,,What is with this kid?!
 Dialogue: 0,0:08:47.04,0:08:49.34,Main,Guzma,0,0,0,,There’s no way this kid could...
 Dialogue: 0,0:08:49.34,0:08:51.30,Main,Guzma,0,0,0,,Gusokumusha! Pin Missile!
-Dialogue: 0,0:08:55.93,0:08:56.93,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:08:55.93,0:08:56.93,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:09:03.85,0:09:05.39,Main,Satoshi,0,0,0,,100,000 Volts!
 Dialogue: 0,0:09:15.57,0:09:19.16,Main,Jeekyo,0,0,0,,It blocked the super effective \N Electric-type move!
 Dialogue: 0,0:09:21.08,0:09:22.45,Main,Guzma,0,0,0,,That won’t work!
@@ -305,7 +305,7 @@ Dialogue: 0,0:15:21.85,0:15:23.31,Main,Guzma,0,0,0,,Pin Missile!
 Dialogue: 0,0:15:27.65,0:15:28.78,Main,Satoshi,0,0,0,,Lightning Speed!
 Dialogue: 0,0:15:31.61,0:15:32.61,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:15:33.78,0:15:34.95,Main,Guzma,0,0,0,,Aqua Break!
-Dialogue: 0,0:15:41.75,0:15:42.71,Main,Satoshi,0,0,0,,Electroweb!
+Dialogue: 0,0:15:41.75,0:15:42.71,Main,Satoshi,0,0,0,,Electric Net!
 Dialogue: 0,0:15:45.59,0:15:48.05,Main,Guzma,0,0,0,,As if! Gusokumusha!
 Dialogue: 0,0:15:51.97,0:15:52.85,Main,Guzma,0,0,0,,Poison Jab!
 Dialogue: 0,0:16:00.27,0:16:03.10,Main,Jeekyo,0,0,0,,What a fight! \N Neither side is backing down!
@@ -373,7 +373,7 @@ Dialogue: 0,0:23:23.29,0:23:24.84,Main,Hala,0,0,0,,I am Hala!
 Dialogue: 0,0:23:24.84,0:23:26.96,Main,Hala,0,0,0,,The referee was...
 Dialogue: 0,0:23:26.96,0:23:29.17,Main,Hala,0,0,0,,...Mr. Kuchinashi, huh?
 Dialogue: 0,0:23:29.17,0:23:33.64,Main,Hala,0,0,0,,It seems Guzma learned something \N from his battle with Satoshi.
-Dialogue: 0,0:23:33.64,0:23:37.27,Main,Hala,0,0,0,,Pokémon battles are \N a truly complicated affair!
+Dialogue: 0,0:23:33.64,0:23:37.27,Main,Hala,0,0,0,,Pokémon Battles are \N a truly complicated affair!
 Dialogue: 0,0:23:37.27,0:23:39.02,Main,Tupper,0,0,0,,All right!
 Dialogue: 0,0:23:39.02,0:23:42.15,Main,Tupper,0,0,0,,Let’s get some \N battle trainin’ done!
 Dialogue: 0,0:23:42.15,0:23:43.94,Main,Wrap,0,0,0,,Strike while the iron’s hot!

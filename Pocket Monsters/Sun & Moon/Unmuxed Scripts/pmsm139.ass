@@ -24,12 +24,12 @@ Video Position: 24
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -78,7 +78,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:04:01.51,0:04:06.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,220)}The Rise of
 Dialogue: 0,0:04:01.51,0:04:06.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,550)}Alola’s Champion!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:10:02.53,0:10:05.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,445)}Name: Lugarugan\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}     ..                 {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}        (Dusk Form)\N{\fs40}Type:   Rock
+Dialogue: 0,0:10:02.53,0:10:05.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,445)}Name: Lugarugan\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}     ..                 {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}        (Twilight Form)\N{\fs40}Type:   Rock
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:08:27.23,0:08:32.28,Insert,,0,0,0,,I don’t need a suitcase, photos or a guide on this journey
 Dialogue: 0,0:08:32.78,0:08:39.12,Insert,,0,0,0,,but I’ll keep the warmth of everyone I’ve met as a souvenir!
@@ -153,7 +153,7 @@ Dialogue: 0,0:00:35.84,0:00:36.84,Main,Gladio,0,0,0,,Here it comes!
 Dialogue: 0,0:00:41.52,0:00:42.14,Main,Gladio,0,0,0,,What?!
 Dialogue: 0,0:00:43.98,0:00:45.06,Main,Gladio,0,0,0,,Multi-Attack!
 Dialogue: 0,0:00:49.19,0:00:53.69,Main,Narrator,0,0,0,,Using superior technique, \N Silvuddy broke through Melmetal’s powerful moves,
-Dialogue: 0,0:00:53.69,0:00:56.82,Main,Narrator,0,0,0,,before falling to Pikachu’s \N Electroweb tactic.
+Dialogue: 0,0:00:53.69,0:00:56.82,Main,Narrator,0,0,0,,before falling to Pikachu’s \N Electric Net tactic.
 Dialogue: 0,0:00:59.03,0:01:00.66,Main,Satoshi,0,0,0,,Go!
 Dialogue: 0,0:01:02.12,0:01:03.12,Main,Satoshi,0,0,0,,Iron Tail!
 Dialogue: 0,0:01:05.96,0:01:10.29,Main,Narrator,0,0,0,,And the second Pokémon Gladio sent out \N was Lugarugan.
@@ -361,7 +361,7 @@ Dialogue: 0,0:21:03.40,0:21:06.49,Main,Wicke,0,0,0,,Bad news! I’m getting \N a
 Dialogue: 0,0:21:06.49,0:21:07.41,Main,Lusamine,0,0,0,,At what coordinates?!
 Dialogue: 0,0:21:08.95,0:21:11.66,Main,Wicke,0,0,0,,It’s very close... No...
 Dialogue: 0,0:21:11.66,0:21:13.16,Main,Wicke,0,0,0,,It’s right above us!
-Dialogue: 0,0:21:15.92,0:21:17.54,Main,Gladio,0,0,0,,W-What?!
+Dialogue: 0,0:21:15.92,0:21:17.54,Main,Gladio,0,0,0,,Wh-What?!
 Dialogue: 0,0:21:26.18,0:21:27.89,Main,Kukui,0,0,0,,It’s an Ultra Beast! \N Watch out!
 Dialogue: 0,0:21:27.89,0:21:28.68,Main,Satoshi,0,0,0,,What?!
 Dialogue: 0,0:21:44.32,0:21:46.07,Main,Satoshi,0,0,0,,Akujiking?!

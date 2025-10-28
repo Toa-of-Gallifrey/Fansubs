@@ -24,12 +24,12 @@ Video Position: 44
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
+Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
 Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
 Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
 Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00F6FBF6,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
+Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
 Style: ED,HummingMod,48,&H00CC5EFF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
 Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00DECD02,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
 
@@ -149,7 +149,7 @@ Dialogue: 0,0:01:35.83,0:01:38.37,Main,Kojiro,0,0,0,,Yup! If we fight, we lose, 
 Dialogue: 0,0:01:41.12,0:01:41.94,Main,Musashi,0,0,0,,What?
 Dialogue: 0,0:01:42.75,0:01:47.04,Main,Fangirls,0,0,0,,{\i1}Go, go, Sir Ilima! \N You can do it, Sir Ilima!{\i0}
 Dialogue: 0,0:01:49.49,0:01:51.74,Main,Ilima,0,0,0,,Your encouragement flatters me.
-Dialogue: 0,0:01:51.74,0:01:54.40,Main,Tupper,0,0,0,,T-That jerk, Ilima!
+Dialogue: 0,0:01:51.74,0:01:54.40,Main,Tupper,0,0,0,,Th-That jerk, Ilima!
 Dialogue: 0,0:01:54.40,0:01:58.76,Main,Tupper,0,0,0,,I don’t care if he’s the favorite to win or whatever, \N I just can’t stand the guy!
 Dialogue: 0,0:01:58.76,0:02:00.07,Main,Plumeri,0,0,0,,Numskulls!
 Dialogue: 0,0:02:00.07,0:02:02.23,Main,Plumeri,0,0,0,,Don’t get in the boss’s way, got it?
@@ -204,7 +204,7 @@ Dialogue: 0,0:06:56.43,0:06:58.86,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:07:05.91,0:07:08.15,Main,Hala,0,0,0,,Usokki is unable to battle!
 Dialogue: 0,0:07:08.76,0:07:10.41,Main,Satoshi,0,0,0,,You did it, Pikachu!
 Dialogue: 0,0:07:10.41,0:07:11.66,Main,Kaki,0,0,0,,Stay sharp, Satoshi!
-Dialogue: 0,0:07:14.16,0:07:15.79,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:07:14.16,0:07:15.79,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:07:26.03,0:07:29.39,Main,Jeekyo,0,0,0,,Nyorobon and Onishizukumo \N are both unable to battle!
 Dialogue: 0,0:07:29.39,0:07:30.98,Main,Satoshi,0,0,0,,Thanks, Kaki!
 Dialogue: 0,0:07:30.98,0:07:33.64,Main,Kaki,0,0,0,,Hey, you don’t have time \N to thank me!
@@ -315,7 +315,7 @@ Dialogue: 0,0:16:47.39,0:16:48.07,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 0,0:16:48.53,0:16:49.93,Main,Satoshi,0,0,0,,That Mimikkyu...
 Dialogue: 0,0:16:50.94,0:16:52.27,Main,Musashi,0,0,0,,Hey! Mimikkyu!
 Dialogue: 0,0:16:52.27,0:16:54.45,Main,Musashi,0,0,0,,What?! The brat...
-Dialogue: 0,0:16:57.68,0:16:59.58,Main,Satoshi,0,0,0,,Pikachu! Electroweb!
+Dialogue: 0,0:16:57.68,0:16:59.58,Main,Satoshi,0,0,0,,Pikachu! Electric Net!
 Dialogue: 0,0:17:08.96,0:17:11.84,Main,Kojiro,0,0,0,,Oh, come on! \N Why are you battling?!
 Dialogue: 0,0:17:12.38,0:17:15.85,Main,Kojiro,0,0,0,,It’s almost over, \N so just run away!
 Dialogue: 0,0:17:16.31,0:17:20.85,Main,Kaki,0,0,0,,Dynamic Full Flame!
