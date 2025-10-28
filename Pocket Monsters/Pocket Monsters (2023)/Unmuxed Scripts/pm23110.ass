@@ -116,7 +116,7 @@ Dialogue: 10,0:08:57.39,0:09:00.23,Main,Dot,0,0,0,,H-Hold up, Mr. Hamber{Honorif
 Dialogue: 10,0:09:01.40,0:09:04.57,Main,Hamber,0,0,0,,Oh, please do excuse me.
 Dialogue: 10,0:09:05.52,0:09:07.86,Main,Dot,0,0,0,,No, it’s fine... \N We {\i1}do{\i0} need to hurry...
 Dialogue: 10,0:09:08.61,0:09:11.16,Main,Hamber,0,0,0,,Allow me to ask you something \N while you recover.
-Dialogue: 10,0:09:11.57,0:09:16.99,Main,Hamber,0,0,0,,{\q2}I’ve discovered that former president Crave \N has been locked in the management office up ahead. {tentatively went for "management" for kanri. hopefully that sounds a bit less strange than "manager's office" because I'm a bit short on other ideas. If others feels quite strongly that this should be admin and we shouldn't worry too much about potential conflict, I suppose we can just go with "admin" but my gut says not to at least. -ed}
+Dialogue: 10,0:09:11.57,0:09:16.99,Main,Hamber,0,0,0,,{\q2}I’ve determined that former president Crave \N has been locked in the management office up ahead. {tentatively went for "management" for kanri. hopefully that sounds a bit less strange than "manager's office" because I'm a bit short on other ideas. If others feels quite strongly that this should be admin and we shouldn't worry too much about potential conflict, I suppose we can just go with "admin" but my gut says not to at least. -ed}
 Dialogue: 10,0:09:17.50,0:09:22.37,Main,Hamber,0,0,0,,But the door has a password lock on it, \N which I cannot breach{toppa}.
 Dialogue: 10,0:09:22.37,0:09:25.75,Main,Hamber,0,0,0,,I would prefer to avoid uncouth methods, \N such as breaking down the door,
 Dialogue: 10,0:09:25.75,0:09:27.92,Main,Hamber,0,0,0,,so that we may remain undetected...
@@ -181,7 +181,7 @@ Dialogue: 10,0:14:13.54,0:14:14.88,Main,Agate,0,0,0,,Pull back, Charem!
 Dialogue: 10,0:14:15.92,0:14:18.67,Main,Dot,0,0,0,,I knew you’d play cautious...
 Dialogue: 10,0:14:18.67,0:14:20.05,Main,Agate,0,0,0,,What?
 Dialogue: 10,0:14:24.51,0:14:27.30,Main,Hamber,0,0,0,,It was a tactic to gain time \N and build up more power...
-Dialogue: 10,0:14:32.94,0:14:34.81,Main,Agate,0,0,0,,No! Charem, Psy— {full move name for search: Psybeam/Psychebeam}
+Dialogue: 10,0:14:32.94,0:14:34.81,Main,Agate,0,0,0,,No! Charem, Psy— {full move name for search: Psyche Beam/Psybeam}
 Dialogue: 10,0:14:34.81,0:14:37.36,Main,Dot,0,0,0,,Dekanuchan! Go for it!
 Dialogue: 10,0:14:56.33,0:14:58.71,Main,Dot,0,0,0,,Was that Giant Hammer...?
 Dialogue: 10,0:14:59.84,0:15:02.55,Main,Dot,0,0,0,,You did it, Dekanuchan!

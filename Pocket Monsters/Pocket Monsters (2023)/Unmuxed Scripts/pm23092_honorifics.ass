@@ -280,7 +280,7 @@ Dialogue: 10,0:21:46.00,0:21:47.22,Main,Gurumin,0,0,0,,Yo-ssu!
 Dialogue: 10,0:21:47.22,0:21:50.77,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
 Dialogue: 10,0:21:52.37,0:21:54.19,Main,Gurumin,0,0,0,,Mega Evolving today is...
 Dialogue: 10,0:21:54.19,0:21:56.77,Main,Gurumin,0,0,0,,The Iron Snake Pokémon, Haganail!
-Dialogue: 10,0:21:57.81,0:22:00.40,Main,Gurumin,0,0,0,,What’s it gonna look like \N when it Mega Evolves?!
+Dialogue: 10,0:21:57.81,0:22:00.40,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
 Dialogue: 10,0:22:00.40,0:22:02.13,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
 Dialogue: 10,0:22:03.30,0:22:04.97,Main,Gurumin,0,0,0,,Its true form is...
 Dialogue: 10,0:22:04.97,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
@@ -2290,8 +2290,8 @@ Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-
 Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&H46719B&\fscx40\fscy40\pos(685,590)\clip(638,615,732,617)}Ground
 Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&H44729C&\fscx40\fscy40\pos(685,590)\clip(638,617,732,618)}Ground
 Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&H44769C&\fscx40\fscy40\pos(685,590)\clip(638,618,732,619)}Ground
-Dialogue: 0,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\blur0.6\fnFOT-Cezanne Pro B\b0\an7\shad4\4a&H00&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(498,812)\1a&HFF&\t(435,480,\1a&H00&)}Sand Force
-Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\bord0\fad(480,0)\blur0.6\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(498,812)}Sand Force
+Dialogue: 0,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\fad(480,0)\blur0.6\fnFOT-Cezanne Pro B\b0\an7\shad4\4a&H00&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(498,812)\1a&HFF&\t(435,480,\1a&H00&)}Sand Power
+Dialogue: 1,0:23:42.98,0:23:50.49,Main,,0,0,0,,{\bord0\fad(480,0)\blur0.6\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(498,812)}Sand Power
 Comment: 0,0:03:22.52,0:03:29.69,Main,,0,0,0,,
 Dialogue: 0,0:03:22.52,0:03:29.69,Episode titles,,0,0,0,,{=1107}{\fad(480,0)\bord5\shad3\blur6\pos(960,430)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Follow the Rakurium Signs
 Dialogue: 1,0:03:22.52,0:03:29.69,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,430)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Follow the Rakurium Signs

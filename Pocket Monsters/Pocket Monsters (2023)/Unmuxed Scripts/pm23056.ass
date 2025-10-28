@@ -107,7 +107,7 @@ Dialogue: 10,0:06:15.31,0:06:16.19,Main,Chili,0,0,0,,Am I wrong?
 Dialogue: 10,0:06:16.56,0:06:18.19,Main,Liko,0,0,0,,Well...
 Dialogue: 10,0:06:18.19,0:06:22.11,Main,Chili,0,0,0,,You shouldn’t think about anything else \N when you’re battling.
 Dialogue: 10,0:06:22.11,0:06:26.62,Main,Chili,0,0,0,,Trainers and Pokémon having \N all-out clashes to try and win!{clash line}
-Dialogue: 10,0:06:26.62,0:06:28.58,Main,Chili,0,0,0,,{\i1}That’s{\i0} what a Pokémon battle is!
+Dialogue: 10,0:06:26.62,0:06:28.58,Main,Chili,0,0,0,,{\i1}That’s{\i0} what a Pokémon Battle is!
 Dialogue: 10,0:06:30.58,0:06:33.96,Main,Chili,0,0,0,,Your face is saying \N “I know that already,” yeah?
 Dialogue: 10,0:06:33.96,0:06:36.04,Main,Chili,0,0,0,,If the goal of a battle is winning it,
 Dialogue: 10,0:06:36.04,0:06:38.96,Main,Chili,0,0,0,,what do ya think I battle for?
@@ -286,7 +286,7 @@ Dialogue: 10,0:17:34.99,0:17:36.54,Main,Chili,0,0,0,,Do'oh! Mud Shot!
 Dialogue: 10,0:17:39.75,0:17:41.00,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:17:43.29,0:17:45.25,Main,Liko,0,0,0,, Ms. Chili{Honorifics note: Chili-san}’s so strong...
 Dialogue: 10,0:17:45.25,0:17:49.38,Main,Liko,0,0,0,,Someone this strong \N is going all out against me?
-Dialogue: 10,0:17:52.80,0:17:56.18,Main,Chili,0,0,0,,Earlier, I asked why ya think \N I do Pokémon battles, right?
+Dialogue: 10,0:17:52.80,0:17:56.18,Main,Chili,0,0,0,,Earlier, I asked why ya think \N I do Pokémon Battles, right?
 Dialogue: 10,0:17:58.18,0:18:01.18,Main,Chili,0,0,0,,What are ya thinkin’ now, Liko?!
 Dialogue: 10,0:18:02.14,0:18:03.73,Main,Liko,0,0,0,,To immerse yourself in the battle!
 Dialogue: 10,0:18:05.06,0:18:09.36,Main,Liko,0,0,0,,When I get immersed in a battle, \N I can sense how Nyarote feels!

@@ -58,7 +58,7 @@ Dialogue: 10,0:04:20.99,0:04:22.20,Main,Liko,0,0,0,,This...
 Dialogue: 10,0:04:23.37,0:04:26.75,Main,Liko,0,0,0,,Is this Carbou... his Soublades?
 Dialogue: 10,0:04:26.75,0:04:28.79,Main,Conia,0,0,0,,Apparently, his father kept so busy...{rashii}
 Dialogue: 10,0:04:28.79,0:04:32.21,Main,Conia,0,0,0,,...that Master Amethio{Honorifics note: Amethio-sama} \N spent all his time with Carbou.
-Dialogue: 10,0:04:32.21,0:04:35.76,Main,Zir,0,0,0,,It was an irreplaceable partner \N to Master Amethio{Honorifics note: Amethio-sama}.{Dread Soublades}
+Dialogue: 10,0:04:32.21,0:04:35.76,Main,Zir,0,0,0,,He was an irreplaceable partner \N to Master Amethio{Honorifics note: Amethio-sama}.
 Dialogue: 10,0:04:40.64,0:04:42.76,Main,Liko,0,0,0,,Amethio when he was young...
 Dialogue: 10,0:04:45.89,0:04:47.98,Main,Liko,0,0,0,,The woman in the painting \N on the stairwell...
 Dialogue: 10,0:04:49.44,0:04:50.98,Main,Zir,0,0,0,,His mother.
@@ -242,7 +242,7 @@ Dialogue: 10,0:19:43.95,0:19:47.21,Main,Amethio,0,0,0,,Things that I can’t do.
 Dialogue: 10,0:19:47.87,0:19:52.63,Main,Amethio,0,0,0,,I think I’ll start by looking for \N something that {\i1}I{\i0} can do.
 Dialogue: 10,0:19:55.09,0:19:56.34,Main,Zirconia,0,0,0,,Yes, sir!
 Dialogue: 10,0:19:58.72,0:20:00.72,Main,Zir,0,0,0,,Then... Take this.
-Dialogue: 10,0:20:02.85,0:20:04.47,Main,Amethio,0,0,0,,What is it...?
+Dialogue: 10,0:20:02.85,0:20:04.47,Main,Amethio,0,0,0,,That’s...
 Dialogue: 10,0:20:04.85,0:20:08.35,Main,Zir,0,0,0,,It’s from Master Hamber{Honorifics note: Hamber-sama}. \N His Zygarde Cell. It’s for you, Master Amethio{Honorifics note: Amethio-sama}.
 Dialogue: 10,0:20:14.57,0:20:18.78,Main,Amethio,0,0,0,,So he wants me to gather \N Grandfather’s Zygarde...?
 Dialogue: 10,0:20:19.82,0:20:20.78,Main,Liko,0,0,0,,Amethio.
@@ -269,7 +269,7 @@ Comment: 0,0:21:45.45,0:21:45.45,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Ev
 Dialogue: 10,0:21:45.91,0:21:47.16,Main,Gurumin,0,0,0,,Yo-ssu!
 Dialogue: 10,0:21:47.16,0:21:50.83,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
 Dialogue: 10,0:21:52.33,0:21:56.63,Main,Gurumin,0,0,0,,Mega Evolving today is \N the Hermit Crab Pokémon, Yadoran!
-Dialogue: 10,0:21:58.05,0:22:00.34,Main,Gurumin,0,0,0,,What’s it gonna look like \N when it Mega Evolves?!
+Dialogue: 10,0:21:58.05,0:22:00.34,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
 Dialogue: 10,0:22:00.34,0:22:02.34,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
 Dialogue: 10,0:22:03.51,0:22:05.14,Main,Gurumin,0,0,0,,Its true form is...
 Dialogue: 10,0:22:05.14,0:22:07.43,Main,Gurumin,0,0,0,,...coming after these commercials!

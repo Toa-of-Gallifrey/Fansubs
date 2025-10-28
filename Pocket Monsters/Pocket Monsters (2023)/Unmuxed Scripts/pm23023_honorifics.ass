@@ -189,7 +189,7 @@ Dialogue: 10,0:13:25.66,0:13:27.62,Main,Roy,0,0,0,,Hogator, let’s lend support
 Dialogue: 10,0:13:33.08,0:13:34.42,Main,Friede,0,0,0,,I know!
 Dialogue: 10,0:13:34.42,0:13:37.21,Main,Friede,0,0,0,,Roy, don’t let Nyahoja’s \N Leafage go to waste.
 Dialogue: 10,0:13:37.21,0:13:37.76,Main,Roy,0,0,0,,Huh?
-Dialogue: 10,0:13:37.76,0:13:41.76,Main,Friede,0,0,0,,Have Kaiden whip up a gust of wind \N under those falling leaves.{same word as kaze okoshi (Wind Gust) used in sentence}
+Dialogue: 10,0:13:37.76,0:13:41.76,Main,Friede,0,0,0,,Have Kaiden raise up a gust of wind \N under those falling leaves.{same word as kaze okoshi (Raising Wind) used in sentence}
 Dialogue: 10,0:13:41.76,0:13:42.76,Main,Roy,0,0,0,,Got it!
 Dialogue: 10,0:13:43.34,0:13:44.64,Main,Roy,0,0,0,,Kaiden!
 Dialogue: 10,0:13:48.43,0:13:50.93,Main,Friede,0,0,0,,Lizardon, let’s help too!

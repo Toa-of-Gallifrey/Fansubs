@@ -197,12 +197,12 @@ Dialogue: 10,0:11:27.46,0:11:28.88,Main,Ult,0,0,0,,{\an8}Nuh-uh, I don’t!
 Dialogue: 10,0:11:28.88,0:11:29.96,Main,Roy,0,0,0,,{\an8}Yeah, you do!
 Dialogue: 10,0:11:29.96,0:11:31.55,Main,Ult,0,0,0,,When’s that {\i1}ever{\i0} happened before?!
 Dialogue: 10,0:11:31.55,0:11:32.25,Main,Roy,0,0,0,,Huh?!
-Dialogue: 10,0:11:32.25,0:11:35.88,Main,Kaede,0,0,0,,Well then, how about having \N a Pokémon battle with me, Ms. Liko{Honorifics note: Liko-san}?
+Dialogue: 10,0:11:32.25,0:11:35.88,Main,Kaede,0,0,0,,Well then, how about having \N a Pokémon Battle with me, Ms. Liko{Honorifics note: Liko-san}?
 Dialogue: 10,0:11:35.88,0:11:36.97,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:11:37.38,0:11:40.35,Main,Kaede,0,0,0,,If you could show him \N how you’ve improved with a battle,
 Dialogue: 10,0:11:40.35,0:11:43.43,Main,Kaede,0,0,0,,perhaps that would help \N set Mr. Murdock{Honorifics note: Murdock-san}’s mind at ease.
 Dialogue: 10,0:11:43.97,0:11:45.10,Main,Liko,0,0,0,,You’re right.
-Dialogue: 10,0:11:45.60,0:11:50.90,Main,Liko,0,0,0,,{\q2}I’ll show you a Pokémon battle that’ll \N send your worries flying to the far end of the sky!
+Dialogue: 10,0:11:45.60,0:11:50.90,Main,Liko,0,0,0,,{\q2}I’ll show you a Pokémon Battle that’ll \N send your worries flying to the far end of the sky!
 Dialogue: 10,0:11:50.90,0:11:51.98,Main,Liko,0,0,0,,Just you watch.
 Dialogue: 10,0:11:51.98,0:11:53.86,Main,Murdock,0,0,0,,S-Sure...
 Dialogue: 10,0:11:53.86,0:11:56.86,Main,Kaede,0,0,0,,Well then, let’s get started. Beary{Honorifics note: Kuma-chan}!
@@ -281,7 +281,7 @@ Dialogue: 10,0:17:55.80,0:17:58.64,Main,Ult,0,0,0,,Well, guess you might be \N p
 Dialogue: 10,0:18:00.02,0:18:01.35,Main,Liko,0,0,0,,Thank you!
 Dialogue: 10,0:18:01.35,0:18:02.23,Main,Murdock,0,0,0,,Liko...
 Dialogue: 10,0:18:02.89,0:18:04.98,Main,Murdock,0,0,0,,You’ve shown me plain as day...
-Dialogue: 10,0:18:04.98,0:18:08.57,Main,Murdock,0,0,0,,...how well you can fight a Pokémon battle, \N and how strongly you feel about this.
+Dialogue: 10,0:18:04.98,0:18:08.57,Main,Murdock,0,0,0,,...how well you can fight a Pokémon Battle, \N and how strongly you feel about this.
 Dialogue: 10,0:18:09.03,0:18:10.15,Main,Murdock,0,0,0,,Just what you’d expect...{this is sort of an infamous stock TL of sasuga but I actually think it works pretty well here -ed}{Yeah, it's a good fit. - QC}
 Dialogue: 10,0:18:10.15,0:18:12.53,Main,Murdock,0,0,0,,...from the Rising Voltteccers!{Sasuga. line}
 Dialogue: 10,0:18:13.82,0:18:15.03,Main,Liko,0,0,0,,Yeah!
@@ -355,7 +355,7 @@ Dialogue: 10,0:21:45.99,0:21:47.20,Main,Gurumin,0,0,0,,Yo-ssu!
 Dialogue: 10,0:21:47.20,0:21:50.91,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
 Dialogue: 10,0:21:52.79,0:21:54.33,Main,Gurumin,0,0,0,,Mega Evolving today is...
 Dialogue: 10,0:21:54.33,0:21:57.00,Main,Gurumin,0,0,0,,The Atrocious Pokémon, Gyarados!
-Dialogue: 10,0:21:58.13,0:22:00.38,Main,Gurumin,0,0,0,,What’s it gonna look like \N when it Mega Evolves?!
+Dialogue: 10,0:21:58.13,0:22:00.38,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
 Dialogue: 10,0:22:00.38,0:22:02.43,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
 Dialogue: 10,0:22:03.30,0:22:05.18,Main,Gurumin,0,0,0,,Its true form is...
 Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!

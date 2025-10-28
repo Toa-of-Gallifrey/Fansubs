@@ -115,7 +115,7 @@ Dialogue: 10,0:07:18.00,0:07:21.38,Main,Nemo,0,0,0,,She’s a Gym Leader {\i1}an
 Dialogue: 10,0:07:21.38,0:07:23.09,Main,Roy,0,0,0,,Huh?! For real?!
 Dialogue: 10,0:07:23.59,0:07:25.93,Main,Liko,0,0,0,,So, Nemo... \N Are {\i1}you{\i0} here to see the concert?
 Dialogue: 10,0:07:26.97,0:07:32.06,Main,Nemo,0,0,0,,Ms. Rhyme{Honorifics note: Rhyme-san}’s concerts \N have open participation segments,
-Dialogue: 10,0:07:32.06,0:07:34.60,Main,Nemo,0,0,0,,and sometimes you get to see \N heated Pokémon battles.
+Dialogue: 10,0:07:32.06,0:07:34.60,Main,Nemo,0,0,0,,and sometimes you get to see \N heated Pokémon Battles.
 Dialogue: 10,0:07:34.98,0:07:36.89,Main,Nemo,0,0,0,,That’s why I’m going.
 Dialogue: 10,0:07:36.89,0:07:38.48,Main,Roy,0,0,0,,Ooh!
 Dialogue: 10,0:07:41.15,0:07:43.07,Main,Dot,0,0,0,,There’s a lot more people than before.
@@ -265,7 +265,7 @@ Dialogue: 10,0:13:35.42,0:13:37.09,Main,Rhyme,0,0,0,,You’re pretty good!
 Dialogue: 10,0:13:37.09,0:13:40.17,Main,Rhyme,0,0,0,,Okay, let’s get this \N implementation test going.
 Dialogue: 10,0:13:40.17,0:13:40.80,Main,Roy,0,0,0,,All right!
 Dialogue: 10,0:13:40.80,0:13:43.51,Main,MC Kammer,0,0,0,,Whoa! Rhyme’s taking the challenge!
-Dialogue: 10,0:13:43.51,0:13:44.93,Main,MC Kammer,0,0,0,,Time for a Pokémon battle!
+Dialogue: 10,0:13:43.51,0:13:44.93,Main,MC Kammer,0,0,0,,Time for a Pokémon Battle!
 Dialogue: 10,0:13:46.39,0:13:47.97,Main,Rhyme,0,0,0,,Let me ask you one thing.
 Dialogue: 10,0:13:47.97,0:13:51.19,Main,Rhyme,0,0,0,,What does Terastal mean to you?
 Dialogue: 10,0:13:51.19,0:13:52.73,Main,Roy,0,0,0,,Terastal is...

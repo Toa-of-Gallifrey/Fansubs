@@ -12,7 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.250000
+Audio File: ../../../../../../Downloads/[Some-Stuffs] Pocket Monsters (2023) 045 (1080p) v2 [DBA10D0B].mkv
+Video File: ../../../../../../Downloads/[Some-Stuffs] Pocket Monsters (2023) 045 (1080p) v2 [DBA10D0B].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Scroll Position: 265
+Active Line: 320
+Video Position: 4018
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -346,6 +353,8 @@ Dialogue: 0,0:03:49.54,0:03:52.50,OPp2,,0,0,0,,{\blur7\1a&HFF&\3c&HEB05F7&\3a&H6
 Dialogue: 0,0:03:53.92,0:03:55.38,OPp2,,0,0,0,,{\blur7\1a&HFF&\3c&HFFE357&\3a&H60&}Crossing beyond
 Dialogue: 0,0:03:56.80,0:03:58.22,OPp2,,0,0,0,,{\blur7\1a&HFF&\3c&HFFE357&\3a&H60&}the rainbow's glow
 Dialogue: 0,0:03:59.59,0:04:01.85,OPp2,,0,0,0,,{=1018}{\fad(0,560)\blur7\1a&HFF&\3c&HFFE357&\3a&H60&}I found my dream
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:02:47.61,0:02:49.40,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:12:50.50,0:13:00.51,Logo,,0,0,0,,{=1019}{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\pos(1456.01,811.71)\clip(27,653.97,1911.9,804)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:12:50.50,0:13:00.51,Logo,,0,0,0,,{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\pos(1456.01,811.71)\clip(27,822,1904.17,957.48)}p{\fsp-13}O{\fsp-9}Cket Monsters

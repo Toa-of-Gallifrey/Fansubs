@@ -203,7 +203,7 @@ Dialogue: 10,0:10:47.67,0:10:49.67,Main,Liko,0,0,0,,Why...?
 Dialogue: 10,0:10:52.63,0:10:55.84,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
 Dialogue: 10,0:10:55.84,0:10:59.51,Main,Gurumin,0,0,0,,Y’all been groovin’? It’s a vid from Gurumin!
 Dialogue: 10,0:10:59.51,0:11:02.64,Main,Gurumin,0,0,0,,What? “What’s a Pokémon Trainer?”, you ask?
-Dialogue: 10,0:11:02.64,0:11:09.23,Main,Gurumin,0,0,0,,{\q2}Well, when someone raises Pokémon to compete \N in Pokémon battles, we call that someone a Pokémon Trainer!
+Dialogue: 10,0:11:02.64,0:11:09.23,Main,Gurumin,0,0,0,,{\q2}Well, when someone raises Pokémon to compete \N in Pokémon Battles, we call that someone a Pokémon Trainer!
 Dialogue: 10,0:11:09.23,0:11:13.94,Main,Gurumin,0,0,0,,And all of those Pokémon Trainers \N have their eyes on the same prize...
 Dialogue: 10,0:11:13.94,0:11:16.61,Main,Gurumin,0,0,0,,To be a {\i1}Champion!{\i0}
 Dialogue: 10,0:11:17.91,0:11:23.45,Main,Liko,0,0,0,,One thing led to another, \N and my partnership with Nyahoja began, but...
@@ -221,7 +221,7 @@ Dialogue: 10,0:12:09.17,0:12:13.67,Main,Anne,0,0,0,,Also, you gotta coordinate s
 Dialogue: 10,0:12:13.67,0:12:14.92,Main,Anne,0,0,0,,Hey, you listening?
 Dialogue: 10,0:12:15.55,0:12:19.43,Main,Liko,0,0,0,,Sorry. \N Yeah, I’ll try my best.
 Dialogue: 10,0:12:19.43,0:12:20.89,Main,Gurumin,0,0,0,,Yo-ssu!
-Dialogue: 10,0:12:20.89,0:12:22.10,Main,Gurumin,0,0,0,,In Pokémon battles,
+Dialogue: 10,0:12:20.89,0:12:22.10,Main,Gurumin,0,0,0,,In Pokémon Battles,
 Dialogue: 10,0:12:22.10,0:12:27.52,Main,Gurumin,0,0,0,,trainers command Pokémon to use the moves \N they’ve mastered{same wording as MPM} in clashes of strength!
 Dialogue: 10,0:12:27.52,0:12:29.65,Main,Gurumin,0,0,0,,All sortsa things can affect a battle,
 Dialogue: 10,0:12:29.65,0:12:32.44,Main,Gurumin,0,0,0,,but top of the list is type match-ups.
@@ -376,7 +376,7 @@ Dialogue: 10,0:21:52.71,0:21:54.00,Main,Amethio,0,0,0,,Who are you?!
 Dialogue: 10,0:21:54.00,0:21:55.71,Main,Friede,0,0,0,,I could ask you the same question.
 Dialogue: 10,0:21:57.17,0:21:59.71,Main,Friede,0,0,0,,I have business with that girl.
 Dialogue: 10,0:21:59.71,0:22:01.80,Main,Amethio,0,0,0,,As do we.
-Dialogue: 10,0:22:01.80,0:22:04.76,Main,Amethio,0,0,0,,Well then, let’s decide this \N with a Pokémon battle.
+Dialogue: 10,0:22:01.80,0:22:04.76,Main,Amethio,0,0,0,,Well then, let’s decide this \N with a Pokémon Battle.
 Dialogue: 10,0:22:04.76,0:22:06.01,Main,Amethio,0,0,0,,Soublades!
 Dialogue: 10,0:22:11.18,0:22:13.14,Main,Friede,0,0,0,,Just what I was hoping for!
 Dialogue: 10,0:22:14.10,0:22:15.40,Main,Amethio,0,0,0,,Stay out of this.

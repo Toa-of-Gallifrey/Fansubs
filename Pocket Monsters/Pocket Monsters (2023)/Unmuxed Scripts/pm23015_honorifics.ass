@@ -379,7 +379,7 @@ Comment: 0,0:21:45.58,0:21:45.58,Main,,0,0,0,,{Professor Friede’s Pokémon Sem
 Dialogue: 10,0:21:46.24,0:21:47.24,Main,Friede,0,0,0,,Friede here.
 Dialogue: 10,0:21:47.24,0:21:49.33,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 10,0:21:50.91,0:21:54.58,Main,Friede,0,0,0,,Today, let’s take a look at \N the Brain Pokémon, Ohbem.
-Dialogue: 10,0:21:55.00,0:21:59.09,Main,Friede,0,0,0,,A Pokémon shrouded in mystery, \N which commands intense psychic powers.
+Dialogue: 10,0:21:55.00,0:21:59.09,Main,Friede,0,0,0,,A Pokémon shrouded in mystery, \N which commands intense psycho-power.
 Dialogue: 10,0:21:59.09,0:22:02.43,Main,Friede,0,0,0,,It can use those powers \N to rewrite a certain thing,
 Dialogue: 10,0:22:02.43,0:22:04.80,Main,Friede,0,0,0,,but do you know what that is?
 Dialogue: 10,0:22:04.80,0:22:06.72,Main,Friede,0,0,0,,See the answer after the commercials!
@@ -387,7 +387,7 @@ Comment: 0,0:22:07.56,0:22:07.56,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.56,0:23:37.56,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 10,0:23:39.48,0:23:41.57,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 10,0:23:42.53,0:23:45.11,Main,Friede,0,0,220,,The answer is C: Memories.
-Dialogue: 10,0:23:45.49,0:23:50.45,Main,Friede,0,0,220,,Using the tricolor lights on its fingers, \N it commands intense psychic powers.
+Dialogue: 10,0:23:45.49,0:23:50.45,Main,Friede,0,0,220,,Using the tricolor lights on its fingers, \N it commands intense psycho-power.
 Dialogue: 10,0:23:50.45,0:23:53.54,Main,Friede,0,0,220,,It rewrites its opponents’ memories \N into different ones.
 Dialogue: 10,0:23:55.96,0:24:00.59,Main,Friede,0,0,0,,Maybe all our memories \N have been secretly rewritten too?
 Comment: 0,0:24:00.59,0:24:00.59,Main,,0,0,0,,{Preview}
@@ -3613,16 +3613,16 @@ Dialogue: 1,0:21:54.88,0:22:07.56,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx
 Dialogue: 0,0:21:54.88,0:22:07.56,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Ohbem\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Brain Pokémon\NType: Psychic
 Dialogue: 0,0:21:55.54,0:21:58.88,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,445.07)}Height\N1.0m
 Dialogue: 0,0:21:59.13,0:22:02.63,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,445.07)}Weight\N34.5kg
-Dialogue: 0,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What does it rewrite using its psychic powers?
-Dialogue: 1,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What does it rewrite using its psychic powers?
+Dialogue: 0,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What does it rewrite using its psycho-power?
+Dialogue: 1,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What does it rewrite using its psycho-power?
 Dialogue: 0,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Sheet music
 Dialogue: 1,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Sheet music
 Dialogue: 0,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Programs
 Dialogue: 1,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Programs
 Dialogue: 0,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Memories
 Dialogue: 1,0:22:03.01,0:22:07.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Memories
-Dialogue: 0,0:23:41.57,0:23:53.58,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it rewrite \N using its psychic powers?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HF1C08C&\shad2}C: Memories
-Dialogue: 1,0:23:41.57,0:23:53.58,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it rewrite \N using its psychic powers?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&HEF8610&}C: Memories
+Dialogue: 0,0:23:41.57,0:23:53.58,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it rewrite \N using its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HF1C08C&\shad2}C: Memories
+Dialogue: 1,0:23:41.57,0:23:53.58,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it rewrite \N using its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&HEF8610&}C: Memories
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:59.33,0:03:07.92,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}An Invisible Threa{\fsp5}t{\fsp}! Whoza{\fsp5}t?{\fsp}
 Dialogue: 1,0:02:59.33,0:03:07.92,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,700)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}An Invisible Threa{\fsp5}t{\fsp}! Whoza{\fsp5}t?{\fsp}
