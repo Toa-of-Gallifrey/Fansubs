@@ -33,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Opening}
 Comment: 0,0:00:41.52,0:00:41.52,Main,,0,0,0,,{Episode 3}
 Dialogue: 0,0:01:48.30,0:01:52.13,Main,Announcer,0,0,0,,A drastic increase in temperature \N has been observed in the Mount Tengan area.
-Dialogue: 0,0:01:52.13,0:01:54.47,Main,Announcer,0,0,0,,According to the \N Sinnoh Meteorological Observatory,
+Dialogue: 0,0:01:52.13,0:01:54.47,Main,Announcer,0,0,0,,According to \N the Sinnoh Meteorological Observatory,
 Dialogue: 0,0:01:54.47,0:01:58.10,Main,Announcer,0,0,0,,the wildfire seen in these images \N was determined as the cause.
 Dialogue: 0,0:02:08.52,0:02:10.36,Main,Hikari,0,0,0,,It’s so hot...!
 Dialogue: 0,0:02:10.36,0:02:12.74,Main,Go,0,0,0,,What is going on \N with that Heatran?!
@@ -138,10 +138,10 @@ Dialogue: 0,0:10:20.52,0:10:22.81,Main,Mars,0,0,0,,Bunyat! Iron Tail!
 Dialogue: 0,0:10:26.19,0:10:26.94,Main,Mars,0,0,0,,What?!
 Dialogue: 0,0:10:26.94,0:10:28.11,Main,Jupiter,0,0,0,,Gaburias?!
 Dialogue: 0,0:10:28.11,0:10:28.94,Main,Saturn,0,0,0,,It couldn’t be...!
-Dialogue: 0,0:10:32.28,0:10:33.57,Main,Takeshi,0,0,0,,Ms. Shirona!
+Dialogue: 0,0:10:32.28,0:10:33.57,Main,Takeshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:10:35.66,0:10:37.37,Main,Mars,0,0,0,,The Champion of Sinnoh?!
 Dialogue: 0,0:10:37.37,0:10:39.66,Main,Jupiter,0,0,0,,Another bother.
-Dialogue: 0,0:10:42.00,0:10:44.42,Main,Shirona,0,0,0,,Ms. Junsa. \N It really was Team Galactic.
+Dialogue: 0,0:10:42.00,0:10:44.42,Main,Shirona,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}. \N It really was Team Galactic.
 Dialogue: 0,0:10:44.42,0:10:47.33,Main,Junsa,0,0,0,,Indeed. \N This time, they won’t get away!
 Dialogue: 0,0:10:47.33,0:10:49.71,Main,Junsa,0,0,0,,The Sinnoh Police \N will be here shortly.
 Dialogue: 0,0:10:49.71,0:10:51.42,Main,Junsa,0,0,0,,Keep us posted \N on any developments.
@@ -153,11 +153,11 @@ Dialogue: 0,0:11:08.02,0:11:08.94,Main,Takeshi,0,0,0,,Got it.
 Dialogue: 0,0:11:09.36,0:11:11.36,Main,Shirona,0,0,0,,I’m counting on you, \N Gaburias.
 Dialogue: 0,0:11:12.94,0:11:15.36,Main,Takeshi,0,0,0,,Gureggru. Happinus.
 Dialogue: 0,0:11:18.12,0:11:20.28,Main,Takeshi,0,0,0,,You mean you’re staying here?
-Dialogue: 0,0:11:22.41,0:11:24.58,Main,Takeshi,0,0,0,,Then you help Ms. Shirona \N in my place!
+Dialogue: 0,0:11:22.41,0:11:24.58,Main,Takeshi,0,0,0,,Then you help Ms. Shirona{Honorifics note: Shirona-san} \N in my place!
 Dialogue: 0,0:11:24.58,0:11:26.37,Main,Takeshi,0,0,0,,Haganail! Dig!
 Dialogue: 0,0:11:33.09,0:11:36.22,Main,Shirona,0,0,0,,Bloom, Roserade!
 Dialogue: 0,0:11:52.82,0:11:53.73,Main,Satoshi,0,0,0,,Takeshi!
-Dialogue: 0,0:11:56.15,0:11:59.24,Main,Takeshi,0,0,0,,Ms. Shirona said to \N collapse its footing!
+Dialogue: 0,0:11:56.15,0:11:59.24,Main,Takeshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} said to \N collapse its footing!
 Dialogue: 0,0:11:59.78,0:12:01.45,Main,Go,0,0,0,,So we make a pitfall?
 Dialogue: 0,0:12:01.45,0:12:02.49,Main,Takeshi,0,0,0,,Yeah!
 Dialogue: 0,0:12:02.49,0:12:05.33,Main,Takeshi,0,0,0,,If we get it stuck, \N we can extinguish it!

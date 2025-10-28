@@ -37,7 +37,7 @@ Dialogue: 0,0:00:51.53,0:00:52.78,Main,Satoshi,0,0,0,,What’s wrong, Pikachu?
 Dialogue: 0,0:00:53.78,0:00:55.24,Main,Go,0,0,0,,Is there something there?
 Dialogue: 0,0:01:01.33,0:01:03.00,Main,Go,0,0,0,,What’s this noise?!
 Dialogue: 0,0:01:07.46,0:01:08.72,Main,Satoshi,0,0,0,,Rishan!
-Dialogue: 0,0:01:15.26,0:01:16.14,Main,Go,0,0,0,,Dotakun!
+Dialogue: 0,0:01:15.26,0:01:16.14,Main,Go,0,0,0,,Doutakun!
 Dialogue: 0,0:01:29.28,0:01:30.57,Main,Satoshi,0,0,0,,Hey, cut it out!
 Dialogue: 0,0:01:30.57,0:01:32.36,Main,Go,0,0,0,,What’s the matter \N with you guys?!
 Dialogue: 0,0:01:32.36,0:01:33.78,Main,Hikari,0,0,0,,Pochama!
@@ -135,7 +135,7 @@ Dialogue: 0,0:07:31.22,0:07:32.85,Main,Galaxyman,0,0,0,,Commencing operation!
 Dialogue: 0,0:07:56.41,0:07:57.46,Main,Takeshi,0,0,0,,I see.
 Dialogue: 0,0:07:57.46,0:08:02.04,Main,Takeshi,0,0,0,,Maybe that message wasn’t \N from Agnome, but from Arceus.
 Dialogue: 0,0:08:02.04,0:08:03.09,Main,Hikari,0,0,0,,Of course!
-Dialogue: 0,0:08:03.09,0:08:05.51,Main,Hikari,0,0,0,,I’d better tell \N Ms. Shirona about this!
+Dialogue: 0,0:08:03.09,0:08:05.51,Main,Hikari,0,0,0,,I’d better tell \N Ms. Shirona{Honorifics note: Shirona-san} about this!
 Dialogue: 0,0:08:05.51,0:08:07.30,Main,Hikari,0,0,0,,She could help us!
 Dialogue: 0,0:08:08.43,0:08:10.93,Main,Jupiter,0,0,0,,Plate B standing by.
 Dialogue: 0,0:08:10.93,0:08:13.43,Main,Mars,0,0,0,,All systems operational.
@@ -199,7 +199,7 @@ Dialogue: 0,0:14:11.71,0:14:14.37,Main,Go,0,0,0,,First we have to put out\N thos
 Dialogue: 0,0:14:14.37,0:14:16.79,Main,Hikari,0,0,0,,Yes. Fight fire with water!
 Dialogue: 0,0:14:17.46,0:14:19.84,Main,Satoshi,0,0,0,,Okay! An all-out offense \N with Water types!
 Dialogue: 0,0:14:20.17,0:14:22.09,Main,Takeshi,0,0,0,,Wait! It’s too big!
-Dialogue: 0,0:14:22.09,0:14:26.47,Main,Takeshi,0,0,0,,A Pokémon battle isn’t the solution. \N We need to formulate a plan!
+Dialogue: 0,0:14:22.09,0:14:26.47,Main,Takeshi,0,0,0,,A Pokémon Battle isn’t the solution. \N We need to formulate a plan!
 Dialogue: 0,0:14:35.98,0:14:37.11,Main,Takeshi,0,0,0,,Dokurog?!
 Dialogue: 0,0:14:46.20,0:14:46.87,Main,Hikari,0,0,0,,Is that...?!
 Dialogue: 0,0:14:55.12,0:14:56.38,Main,Satoshi,0,0,0,,Team Galactic!

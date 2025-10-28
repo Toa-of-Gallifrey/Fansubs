@@ -49,14 +49,14 @@ Dialogue: 0,0:02:33.34,0:02:36.01,Main,Go,0,0,0,,it’ll cause tons of damage to
 Dialogue: 0,0:02:36.01,0:02:37.97,Main,Hikari,0,0,0,,Please, Arceus!
 Dialogue: 0,0:03:02.75,0:03:04.25,Main,Satoshi,0,0,0,,Arceus...
 Dialogue: 0,0:03:08.04,0:03:09.13,Main,Shirona,0,0,0,,Everyone!
-Dialogue: 0,0:03:09.88,0:03:11.05,Main,Satoshi,0,0,0,,Ms. Shirona!
+Dialogue: 0,0:03:09.88,0:03:11.05,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}!
 Dialogue: 0,0:03:12.76,0:03:14.51,Main,Shirona,0,0,0,,You’ll do it?{Literally "So you responded?" -TL}
 Dialogue: 0,0:03:19.39,0:03:22.01,Main,Hikari,0,0,0,,Thank you, Arceus.
 Dialogue: 0,0:03:44.00,0:03:45.16,Main,Go,0,0,0,,It turned Water type?
 Dialogue: 0,0:03:56.67,0:04:00.18,Main,Satoshi,0,0,0,,Whoa! \N It’s like it’s creating an ocean!
 Dialogue: 0,0:04:00.18,0:04:01.51,Main,Go,0,0,0,,An ocean, huh?
-Dialogue: 0,0:04:01.51,0:04:04.43,Main,Go,0,0,0,,This is the \N Creation Pokémon’s power!
-Dialogue: 0,0:04:10.69,0:04:12.90,Main,Satoshi,0,0,0,,Arceus, \N it’s dangerous to get it wet!
+Dialogue: 0,0:04:01.51,0:04:04.43,Main,Go,0,0,0,,This is the Creation Pokémon’s power!
+Dialogue: 0,0:04:10.69,0:04:12.90,Main,Satoshi,0,0,0,,Arceus, it’s dangerous to get it wet!
 Dialogue: 0,0:04:12.90,0:04:17.03,Main,Satoshi,0,0,0,,When we tried using Water attacks on Heatran, \N they caused an explosion!
 Dialogue: 0,0:04:21.07,0:04:23.78,Main,Hikari,0,0,0,,Is it saying... \N It’ll be fine?
 Dialogue: 0,0:04:23.78,0:04:26.41,Main,Go,0,0,0,,Yeah, that’s how \N it seemed to me, too.
@@ -78,7 +78,7 @@ Dialogue: 0,0:05:11.21,0:05:13.17,Main,Hikari,0,0,0,,Pochama, \N you’re up for
 Dialogue: 0,0:05:14.79,0:05:16.21,Main,Hikari,0,0,0,,Oh, geez!
 Dialogue: 0,0:05:16.21,0:05:17.88,Main,Hikari,0,0,0,,I’ll come, too!
 Dialogue: 0,0:05:17.88,0:05:19.38,Main,Satoshi,0,0,0,,Thanks, Hikari!
-Dialogue: 0,0:05:20.05,0:05:23.14,Main,Takeshi,0,0,0,,There you have it. \N What do we do, Ms. Shirona?
+Dialogue: 0,0:05:20.05,0:05:23.14,Main,Takeshi,0,0,0,,There you have it. \N What do we do, Ms. Shirona{Honorifics note: Shirona-san}?
 Dialogue: 0,0:05:23.14,0:05:24.93,Main,Shirona,0,0,0,,We’ll provide backup.
 Dialogue: 0,0:05:24.93,0:05:27.27,Main,Shirona,0,0,0,,Turn back immediately \N if you feel threatened.
 Dialogue: 0,0:05:27.27,0:05:28.77,Main,Them,0,0,0,,{\i1}All right!{\i0}
@@ -115,10 +115,10 @@ Dialogue: 0,0:09:20.25,0:09:22.00,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 0,0:09:29.01,0:09:31.26,Main,Go,0,0,0,,Aceburn! Pyro Ball!
 Dialogue: 0,0:09:44.81,0:09:47.02,Main,Go,0,0,0,,Okay! \N We enveloped it with the Pyro Ball!
 Dialogue: 0,0:09:49.32,0:09:50.57,Main,Satoshi,0,0,0,,Great work, Go!{These two lines feels very desynced, even for this show's standards. - Toa}
-Dialogue: 0,0:09:50.57,0:09:53.16,Main,Satoshi,0,0,0,,Pikachu! Let’s finish the job \N with an Electroweb!
-Dialogue: 0,0:10:00.00,0:10:01.83,Main,Hikari,0,0,0,,Now an Electroweb!
+Dialogue: 0,0:09:50.57,0:09:53.16,Main,Satoshi,0,0,0,,Pikachu! Let’s finish the job \N with an Electric Net!
+Dialogue: 0,0:10:00.00,0:10:01.83,Main,Hikari,0,0,0,,Now an Electric Net!
 Dialogue: 0,0:10:01.83,0:10:05.88,Main,Go,0,0,0,,Yeah! Fire and electricity... \N Two layers of coating!
-Dialogue: 0,0:10:05.88,0:10:09.38,Main,Satoshi,0,0,0,,We’re protecting it with flames, \N and the Electroweb even keeps the water out!
+Dialogue: 0,0:10:05.88,0:10:09.38,Main,Satoshi,0,0,0,,We’re protecting it with flames, \N and the Electric Net even keeps the water out!
 Dialogue: 0,0:10:09.38,0:10:12.84,Main,Satoshi,0,0,0,,Now we can break through \N the water dome and save Heatran!
 Dialogue: 0,0:10:12.84,0:10:13.63,Main,Hikari,0,0,0,,Now...
 Dialogue: 0,0:10:13.63,0:10:15.14,Main,Go,0,0,0,,There’s no time to waste!
@@ -156,7 +156,7 @@ Dialogue: 0,0:14:17.80,0:14:21.67,Main,Shirona,0,0,0,,it will provide a hint \N 
 Dialogue: 0,0:14:22.38,0:14:23.93,Main,Hikari,0,0,0,,A hint...
 Dialogue: 0,0:14:27.93,0:14:33.44,Main,Shirona,0,0,0,,But we must overcome \N the adversity on our own.
 Dialogue: 0,0:14:34.19,0:14:38.61,Main,Shirona,0,0,0,,That is why Arceus \N left the task of rescuing Heatran to us.
-Dialogue: 0,0:14:49.79,0:14:52.08,Main,Junsa,0,0,0,,Ms. Shirona! \N What happened to Heatran?!
+Dialogue: 0,0:14:49.79,0:14:52.08,Main,Junsa,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}! \N What happened to Heatran?!
 Dialogue: 0,0:14:52.54,0:14:54.16,Main,Shirona,0,0,0,,The situation’s been resolved.
 Dialogue: 0,0:14:54.16,0:14:57.46,Main,Shirona,0,0,0,,All thanks to some \N brave trainers and Pokémon.
 Dialogue: 0,0:14:57.46,0:14:59.34,Main,Takeshi,0,0,0,,Brave?!
@@ -164,7 +164,7 @@ Dialogue: 0,0:14:59.71,0:15:00.67,Main,Shirona,0,0,0,,Excuse me?
 Dialogue: 0,0:15:01.38,0:15:05.34,Main,Takeshi,0,0,0,,Would you go on a Mount Tengan date \N with me to celebrate saving the—
 Dialogue: 0,0:15:06.34,0:15:08.35,Main,Takeshi,0,0,0,,I feel numb...
 Dialogue: 0,0:15:09.72,0:15:11.68,Main,Hikari,0,0,0,,Haven’t seen {\i1}that{\i0} in a while...
-Dialogue: 0,0:15:11.68,0:15:13.68,Main,Go,0,0,0,,Is Mr. Takeshi all right?!
+Dialogue: 0,0:15:11.68,0:15:13.68,Main,Go,0,0,0,,Is Mr. Takeshi{Honorifics note: Takeshi-san} all right?!
 Dialogue: 0,0:15:21.82,0:15:24.32,Main,Satoshi,0,0,0,,This research trip sure wound up \N bigger than I expected.
 Dialogue: 0,0:15:24.32,0:15:25.24,Main,Go,0,0,0,,Yeah.
 Dialogue: 0,0:15:25.82,0:15:26.86,Main,Hikari,0,0,0,,Satoshi!

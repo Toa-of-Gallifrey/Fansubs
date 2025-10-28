@@ -68,14 +68,14 @@ Dialogue: 0,0:02:26.08,0:02:27.54,Main,Hikari,0,0,0,,Over here!
 Dialogue: 0,0:02:30.55,0:02:32.47,Main,Hikari,0,0,0,,You can rent them here.
 Dialogue: 0,0:02:33.30,0:02:34.51,Main,Shirona,0,0,0,,Oh?
 Dialogue: 0,0:02:34.51,0:02:36.72,Main,Shirona,0,0,0,,Hello, Satoshi, Go!
-Dialogue: 0,0:02:37.60,0:02:38.72,Main,Go,0,0,0,,Ms. Shirona?!
-Dialogue: 0,0:02:39.85,0:02:45.44,Main,Hikari,0,0,0,,Ms. Shirona’s been helping out a ton \N with the Sinnoh Fest this year!
+Dialogue: 0,0:02:37.60,0:02:38.72,Main,Go,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}?!
+Dialogue: 0,0:02:39.85,0:02:45.44,Main,Hikari,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}’s been helping out a ton \N with the Sinnoh Fest this year!
 Dialogue: 0,0:02:45.44,0:02:47.77,Main,Shirona,0,0,0,,Are you here for research?
 Dialogue: 0,0:02:47.77,0:02:48.31,Main,Satoshi & Go,0,0,0,,Yup!
 Dialogue: 0,0:02:48.31,0:02:51.32,Main,Shirona,0,0,0,,The museum should be \N a real help to you, then!
 Dialogue: 0,0:02:51.32,0:02:52.90,Main,Shirona,0,0,0,,Take your time \N and look around!
 Dialogue: 0,0:02:52.90,0:02:53.74,Main,Satoshi & Go,0,0,0,,Okay!
-Dialogue: 0,0:03:00.83,0:03:02.08,Main,Hikari,0,0,0,,Ms. Shirona...
+Dialogue: 0,0:03:00.83,0:03:02.08,Main,Hikari,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}...
 Dialogue: 0,0:03:02.08,0:03:04.75,Main,Hikari,0,0,0,,Satoshi and Go said \N they’d like to try these clothes, too.
 Dialogue: 0,0:03:05.37,0:03:06.83,Main,Shirona,0,0,0,,No problem!
 Dialogue: 0,0:03:08.58,0:03:10.09,Main,Satoshi,0,0,0,,What do you think, \N Pikachu?
@@ -122,7 +122,7 @@ Dialogue: 0,0:06:33.41,0:06:36.04,Main,Satoshi,0,0,0,,Mijumaru! Hinoarashi! \N M
 Dialogue: 0,0:06:39.00,0:06:41.05,Main,Go,0,0,0,,Hinoarashi comes from \N the Johto Region...
 Dialogue: 0,0:06:43.42,0:06:45.68,Main,Go,0,0,0,,Mijumaru is from Isshu...
 Dialogue: 0,0:06:46.30,0:06:49.18,Main,Go,0,0,0,,And Mokuroh comes from \N the Alola Region, yeah?{BEST BIRB}
-Dialogue: 0,0:06:49.18,0:06:52.14,Main,Hikari,0,0,0,,Why are they here, \N Ms. Shirona?
+Dialogue: 0,0:06:49.18,0:06:52.14,Main,Hikari,0,0,0,,Why are they here, \N Ms. Shirona{Honorifics note: Shirona-san}?
 Dialogue: 0,0:06:52.14,0:06:59.19,Main,Shirona,0,0,0,,Historical records show that these three \N were brought here from other regions.
 Dialogue: 0,0:06:59.19,0:07:00.90,Main,Go,0,0,0,,Wow, you’re right.
 Dialogue: 0,0:07:01.48,0:07:06.49,Main,Shirona,0,0,0,,I wanted to study the influence foreign Pokémon \N might have on Sinnoh’s ecosystem,
@@ -140,7 +140,7 @@ Dialogue: 0,0:07:33.60,0:07:37.19,Main,Hikari,0,0,0,,Let’s! Whoever catches on
 Dialogue: 0,0:07:37.19,0:07:38.10,Main,Satoshi & Go,0,0,0,,You’re on!
 Dialogue: 0,0:07:38.10,0:07:41.11,Main,Shirona,0,0,0,,Of course, \N you can have your Pokémon assist you.
 Dialogue: 0,0:07:41.11,0:07:44.24,Main,Shirona,0,0,0,,Now, you three! \N Go into the bushes!
-Dialogue: 0,0:07:48.07,0:07:49.91,Main,Hikari,0,0,0,,It’s like playing hide and seek!
+Dialogue: 0,0:07:48.07,0:07:49.91,Main,Hikari,0,0,0,,It’s like playing hide-and-seek!
 Dialogue: 0,0:07:51.53,0:07:54.41,Main,Shirona,0,0,0,,All right, \N Satoshi, Go, Hikari!
 Dialogue: 0,0:07:54.41,0:07:56.58,Main,Shirona,0,0,0,,Ready... Start!
 Dialogue: 0,0:07:57.04,0:07:58.79,Main,Satoshi,0,0,0,,C’mon, Pikachu!
