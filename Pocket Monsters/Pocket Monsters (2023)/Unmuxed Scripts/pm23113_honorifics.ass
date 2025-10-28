@@ -116,7 +116,7 @@ Dialogue: 10,0:04:46.43,0:04:46.97,Main,Man,0,0,0,,Ahh!
 Dialogue: 10,0:04:46.97,0:04:48.35,Main,Man,0,0,0,,It happened again!
 Dialogue: 10,0:04:52.90,0:04:54.61,Main,Matière,0,0,0,,Thank you, Denryu.
 Dialogue: 10,0:04:56.15,0:04:57.78,Main,Roy,0,0,0,,It Mega Evolved...{Dread Denryu}
-Dialogue: 10,0:04:57.78,0:05:00.07,Main,Ult,0,0,0,,She’s as wasteful as ever...
+Dialogue: 10,0:04:57.78,0:05:00.07,Main,Ult,0,0,0,,She’s always so excessive...
 Dialogue: 10,0:05:00.07,0:05:02.53,Main,Ult,0,0,0,,Hey. If there’s some kinda \N trick to that, teach me.
 Dialogue: 10,0:05:03.12,0:05:06.91,Main,Matière,0,0,0,,Oh? You’ve never \N cared about it before, Ult...
 Dialogue: 10,0:05:06.91,0:05:08.16,Main,Ult,0,0,0,,Shut it!
@@ -128,7 +128,7 @@ Dialogue: 10,0:05:22.30,0:05:25.14,Main,Matière,0,0,0,,The Rising Voltteccers..
 Dialogue: 10,0:05:25.14,0:05:28.43,Main,Matière,0,0,0,,Oh! Exceed said something about them.
 Dialogue: 10,0:05:28.43,0:05:30.31,Main,Matière,0,0,0,,What was it...?
 Dialogue: 10,0:05:37.61,0:05:39.36,Main,Matière,0,0,0,,Thank you, Fluff.{Mokoo}
-Dialogue: 10,0:05:41.15,0:05:45.37,Main,Matière,0,0,0,,“The Rising Voltteccers \N caused an incident upon Mt. Kumuri...”
+Dialogue: 10,0:05:41.15,0:05:45.37,Main,Matière,0,0,0,,“The Rising Voltteccers, \N perpetrators behind an incident on Mt. Kumuri...”
 Dialogue: 10,0:05:45.37,0:05:49.04,Main,Roy,0,0,0,,That’s what Exceed’s been saying, \N but it’s not true!
 Dialogue: 10,0:05:49.75,0:05:50.71,Main,Roy,0,0,0,,But...
 Dialogue: 10,0:05:51.58,0:05:54.54,Main,Roy,0,0,0,,The Rising Voltteccers \N are disbanded now.
@@ -310,7 +310,7 @@ Dialogue: 10,0:15:54.22,0:15:55.14,Main,Roy,0,0,0,,All right!
 Dialogue: 10,0:15:57.35,0:16:00.06,Main,Ult,0,0,0,,Not yet... This ain’t over yet...!
 Dialogue: 10,0:16:00.06,0:16:01.65,Main,Ult,0,0,0,,I’ve still got this one!
 Dialogue: 10,0:16:01.65,0:16:02.94,Main,Ult,0,0,0,,Come on out!
-Dialogue: 10,0:16:03.90,0:16:06.61,Main,Ult,0,0,0,,Fight for me!
+Dialogue: 10,0:16:03.90,0:16:06.61,Main,Ult,0,0,0,,Fight by my side!
 Dialogue: 10,0:16:07.36,0:16:09.49,Main,Ult,0,0,0,,How come...?
 Dialogue: 10,0:16:09.49,0:16:12.08,Main,Ult,0,0,0,,How come you won’t come out?!
 Dialogue: 10,0:16:12.08,0:16:16.62,Main,Mayonnaise,0,0,0,,That’s enough! \N Victory goes to Roy and Achigator!
@@ -404,7 +404,7 @@ Dialogue: 10,0:21:58.84,0:21:59.71,Main,Roy,0,0,0,,Yeah.
 Dialogue: 10,0:22:09.98,0:22:11.89,Main,Roy,0,0,0,,Trainers and their Pokémon?
 Dialogue: 10,0:22:11.89,0:22:12.73,Main,Ult,0,0,0,,Who’re you?!
 Dialogue: 10,0:22:13.56,0:22:17.48,Main,Oyster,0,0,0,,Oy-ssu! I am Count Oy{-s}ster!
-Dialogue: 10,0:22:19.28,0:22:22.24,Main,Soy,0,0,0,,This one is Shouyu the Shinobi.
+Dialogue: 10,0:22:19.28,0:22:22.24,Main,Soy,0,0,0,,This humble one \N is Shouyu the Shinobi.
 Dialogue: 10,0:22:28.24,0:22:29.91,Main,Ult,0,0,0,,No seriously, \N who’re you?!
 Dialogue: 10,0:22:28.24,0:22:29.91,Main,Roy,0,0,0,,{\an8}No seriously, \N who are you?!
 Comment: 0,0:22:30.50,0:22:30.50,Main,,0,0,0,,{Ending}
