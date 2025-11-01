@@ -968,7 +968,7 @@ burein foosu ブレインフォース (Neuroforce) - # TBD #
 chidori ashi ちどりあし (Tangled Feet) - # TBD #
 chikara mochi ちからもち (Huge Power) - Powerhouse
 chikara zuku ちからずく (Sheer Force) - # TBD #
-chikuden ちくでん (Volt Absorb) - # TBD #
+chikuden ちくでん (Volt Absorb) - Electricity Reserve
 chosui ちょすい (Water Absorb) - # TBD #
 daaku oora ダークオーラ (Dark Aura) - Dark Aura
 dappai だっぴ (Shed Skin) - # TBD #
@@ -1174,7 +1174,7 @@ seishinryoku せいしんりょく (Inner Focus) - Force of Will
 sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
 shingan しんがん (Mind's Eye) - # TBD #
-shinkuro シンクロ (Synchronize) - # TBD #
+shinkuro シンクロ (Synchronize) - Synchro
 shinryoku しんりょく (Overgrow) - Fresh Greenery
 shireitou しれいとう (Commander) - # TBD #
 shiro no inanaki しろのいななき (Chilling Neigh) - # TBD #
@@ -1531,8 +1531,8 @@ POKÉMON NAMES
 0278 キャモメ Camome - うみねこポケモン 
 0279 ペリッパー Pelipper - みずどりポケモン Water Bird Pokémon
 0280 ラルトス 
-0281 キルリア 
-0282 サーナイト Sirknight - ほうようポケモン 
+0281 キルリア Kirlia - かんじょうポケモン Emotion Pokémon
+0282 サーナイト Sirknight - ほうようポケモン Embrace Pokémon
 0283 アメタマ Ametama - あめんぼポケモン Pond Skater Pokémon
 0284 アメモース Amemoth - めだまポケモン 
 0285 キノココ Kinokoko - きのこポケモン Mushroom Pokémon
@@ -1972,9 +1972,9 @@ POKÉMON NAMES
 0719 ディアンシー Diancie - ほうせきポケモン 
 0720 フーパ 
 0721 ボルケニオン 
-0722 モクロー Mokuroh - くさばねポケモン Grass Quill Pokémon
-0723 フクスロー Fukuthrow - はばねポケモン Blade Quill Pokémon
-0724 ジュナイパー Ju'niper - やばねポケモン Arrow Quill Pokémon
+0722 モクロー Mokuroh - くさばねポケモン Grass Feather Pokémon
+0723 フクスロー Fukuthrow - はばねポケモン Blade Feather Pokémon
+0724 ジュナイパー Ju'niper - やばねポケモン Arrow Feather Pokémon
 0725 ニャビー Nyabby - ひねこポケモン Fire Cat Pokémon
 0726 ニャヒート Nyaheat - ひねこポケモン Fire Cat Pokémon
 0727 ガオガエン Gaogaen - ヒールポケモン Heel Pokémon
