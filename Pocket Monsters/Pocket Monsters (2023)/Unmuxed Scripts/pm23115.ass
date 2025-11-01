@@ -287,7 +287,7 @@ Dialogue: 10,0:17:45.17,0:17:48.01,Main,Nemo,0,0,0,,I won’t let you, either! \
 Dialogue: 10,0:17:52.80,0:17:53.84,Main,Roy,0,0,0,,Achigator!
 Dialogue: 10,0:18:01.31,0:18:03.56,Main,Liko,0,0,0,,She restrained{sealed away} \N the Terastallized Achigator,
 Dialogue: 10,0:18:03.56,0:18:06.23,Main,Liko,0,0,0,,and is now having Parmot \N charge up his{game gender} fighting spirit! {TL: and is using this chance to have Parmot charge up his fighting spirit.}{I could not think of any sane way to compress this without simplifying the thought, bleh -ed}
-Dialogue: 10,0:18:06.23,0:18:11.57,Main,Dot,0,0,0,,Yeah. It’s a tactic to ensure \N his faithful{TL: devoted} Fighting Spirit Punch will land.
+Dialogue: 10,0:18:06.23,0:18:11.57,Main,Dot,0,0,0,,Yeah. It’s a tactic to ensure \N his full-hearted Fighting Spirit Punch will land.
 Dialogue: 10,0:18:14.32,0:18:16.07,Main,Roy,0,0,0,,Go for it, Achigator!
 Dialogue: 10,0:18:32.22,0:18:33.72,Main,Roy,0,0,0,,Achigator!
 Dialogue: 10,0:18:38.72,0:18:40.02,Main,Roy,0,0,0,,Go!
@@ -386,7 +386,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:07.50,0:03:12.13,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:03:12.51,0:03:20.81,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
 Dialogue: 0,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4220,4265,\1a&HFF&)}That even if I take detours, I still took the shortest route
-Dialogue: 0,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Stashing fear and excitement away in my pocket, I ran straight over
+Dialogue: 0,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 0,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}Let me hear about all of your tears
 Dialogue: 0,0:03:36.70,0:03:39.53,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}This adventure can’t be overcome alone
 Dialogue: 0,0:03:39.53,0:03:44.37,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}We will go beyond where the wind points
@@ -395,9 +395,9 @@ Dialogue: 0,0:03:52.46,0:03:56.01,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&
 Dialogue: 0,0:03:56.01,0:03:59.34,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}Having you by my side was all I needed
 Dialogue: 0,0:03:59.34,0:04:02.39,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}To feel like I could walk anywhere
 Dialogue: 0,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}The answer is inside of me
-Dialogue: 0,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}The world will always be in my hands
+Dialogue: 0,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}The world has always been in my hands
 Dialogue: 0,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}Having you there for me was all I needed
-Dialogue: 0,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\fad(0,440)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4690,4735,\1a&HFF&)}To make my heart leap tremendously
+Dialogue: 0,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\fad(0,440)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4690,4735,\1a&HFF&)}To make my heart leap with joy
 Comment: 1,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\bord5.7\fad(0,320)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}I stepped out upon a question with no answer
 Comment: 1,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\bord5.7\fad(0,320)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}I stepped out upon a question with no answer
 Dialogue: 1,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HA34D45&}I stepped out upon a question with no answer
@@ -443,21 +443,21 @@ Dialogue: 1,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bo
 Dialogue: 1,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HB5ADC0&}That even if I take detours, I still took the shortest route
 Dialogue: 1,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HB7B9CF&}That even if I take detours, I still took the shortest route
 Dialogue: 1,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HBAC5DF&}That even if I take detours, I still took the shortest route
-Comment: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Stashing fear and excitement away in my pocket, I ran straight over
-Comment: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA34D45&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA4534C&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA55A56&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA76362&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA96D6E&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAB767A&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAD8188&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAF8B95&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB196A3&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB3A1B2&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB5ADC0&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB7B9CF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HBAC5DF&}Stashing fear and excitement away in my pocket, I ran straight over
+Comment: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
+Comment: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA34D45&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA4534C&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA55A56&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA76362&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA96D6E&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAB767A&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAD8188&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAF8B95&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB196A3&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB3A1B2&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB5ADC0&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB7B9CF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HBAC5DF&}Tucking fear and excitement away in my pocket, I ran straight over
 Comment: 1,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Let me hear about all of your tears
 Comment: 1,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Let me hear about all of your tears
 Dialogue: 1,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}Let me hear about all of your tears
@@ -578,21 +578,21 @@ Dialogue: 1,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bo
 Dialogue: 1,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB5ADC0&}The answer is inside of me
 Dialogue: 1,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB7B9CF&}The answer is inside of me
 Dialogue: 1,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HBAC5DF&}The answer is inside of me
-Comment: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}The world will always be in my hands
-Comment: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA4534C&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA55A56&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA76362&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA96D6E&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAB767A&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAD8188&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAF8B95&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB196A3&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB3A1B2&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB5ADC0&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB7B9CF&}The world will always be in my hands
-Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HBAC5DF&}The world will always be in my hands
+Comment: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}The world has always been in my hands
+Comment: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA4534C&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA55A56&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA76362&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA96D6E&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAB767A&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAD8188&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAF8B95&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB196A3&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB3A1B2&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB5ADC0&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB7B9CF&}The world has always been in my hands
+Dialogue: 1,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HBAC5DF&}The world has always been in my hands
 Comment: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Having you there for me was all I needed
 Comment: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Having you there for me was all I needed
 Dialogue: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}Having you there for me was all I needed
@@ -608,25 +608,25 @@ Dialogue: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bo
 Dialogue: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB5ADC0&}Having you there for me was all I needed
 Dialogue: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB7B9CF&}Having you there for me was all I needed
 Dialogue: 1,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HBAC5DF&}Having you there for me was all I needed
-Comment: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\bord5.7\fad(0,440)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}To make my heart leap tremendously
-Comment: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\bord5.7\fad(0,440)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA34D45&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA4534C&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA55A56&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA76362&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA96D6E&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAB767A&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAD8188&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAF8B95&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB196A3&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB3A1B2&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB5ADC0&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB7B9CF&}To make my heart leap tremendously
-Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HBAC5DF&}To make my heart leap tremendously
+Comment: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\bord5.7\fad(0,440)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}To make my heart leap with joy
+Comment: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\bord5.7\fad(0,440)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA34D45&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA4534C&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA55A56&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA76362&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HA96D6E&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAB767A&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAD8188&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HAF8B95&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB196A3&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB3A1B2&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB5ADC0&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HB7B9CF&}To make my heart leap with joy
+Dialogue: 1,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(0,440)\blur0.6\1a&HFF&\3c&HBAC5DF&}To make my heart leap with joy
 Dialogue: 2,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 2,0:03:12.51,0:03:20.81,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
 Dialogue: 2,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4220,4265,\1a&HFF&)}That even if I take detours, I still took the shortest route
-Dialogue: 2,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\1a&HFF&\t(275,320,\1a&H00&)}Stashing fear and excitement away in my pocket, I ran straight over
+Dialogue: 2,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\1a&HFF&\t(275,320,\1a&H00&)}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 2,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}Let me hear about all of your tears
 Dialogue: 2,0:03:36.70,0:03:39.53,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}This adventure can’t be overcome alone
 Dialogue: 2,0:03:39.53,0:03:44.37,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}We will go beyond where the wind points
@@ -635,9 +635,9 @@ Dialogue: 2,0:03:52.46,0:03:56.01,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&
 Dialogue: 2,0:03:56.01,0:03:59.34,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}Having you by my side was all I needed
 Dialogue: 2,0:03:59.34,0:04:02.39,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}To feel like I could walk anywhere
 Dialogue: 2,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}The answer is inside of me
-Dialogue: 2,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}The world will always be in my hands
+Dialogue: 2,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}The world has always been in my hands
 Dialogue: 2,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}Having you there for me was all I needed
-Dialogue: 2,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\fad(0,440)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4690,4735,\1a&HFF&)}To make my heart leap tremendously
+Dialogue: 2,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\fad(0,440)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4690,4735,\1a&HFF&)}To make my heart leap with joy
 Dialogue: 3,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\pos(960,35)\blur0.3\clip(481,46,1440,48)\1c&HC85E82&\4a&HFF&}I stepped out upon a question with no answer
 Dialogue: 3,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\pos(960,35)\blur0.3\clip(481,48,1440,50)\1c&HC76185&\4a&HFF&}I stepped out upon a question with no answer
 Dialogue: 3,0:03:07.50,0:03:12.13,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\pos(960,35)\blur0.3\clip(481,50,1440,51)\1c&HCD6487&\4a&HFF&}I stepped out upon a question with no answer
@@ -695,25 +695,25 @@ Dialogue: 3,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\b
 Dialogue: 3,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,81,1540,86)\1c&HDE8479&\4a&HFF&}That even if I take detours, I still took the shortest route
 Dialogue: 3,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,86,1540,87)\1c&HDA8673&\4a&HFF&}That even if I take detours, I still took the shortest route
 Dialogue: 3,0:03:20.81,0:03:25.35,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,87,1540,89)\1c&HD88770&\4a&HFF&}That even if I take detours, I still took the shortest route
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,46,1671,48)\1c&HC85E82&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,48,1671,50)\1c&HC76185&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,50,1671,51)\1c&HCD6487&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,51,1671,52)\1c&HCC6285&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,52,1671,53)\1c&HD2668A&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,53,1671,57)\1c&HD5678C&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,57,1671,58)\1c&HDA6C8A&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,58,1671,59)\1c&HE06E8C&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,59,1671,60)\1c&HE3708F&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,60,1671,61)\1c&HDE6F8F&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,61,1671,66)\1c&HE57394&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,66,1671,69)\1c&HE97892&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,69,1671,77)\1c&HEB7C8F&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,77,1671,78)\1c&HE98185&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,78,1671,81)\1c&HE78281&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,81,1671,82)\1c&HE0837D&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,82,1671,88)\1c&HDE847A&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,88,1671,89)\1c&HDA8673&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,89,1671,91)\1c&HD88770&\4a&HFF&}Stashing fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,46,1671,48)\1c&HC85E82&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,48,1671,50)\1c&HC76185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,50,1671,51)\1c&HCD6487&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,51,1671,52)\1c&HCC6285&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,52,1671,53)\1c&HD2668A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,53,1671,57)\1c&HD5678C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,57,1671,58)\1c&HDA6C8A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,58,1671,59)\1c&HE06E8C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,59,1671,60)\1c&HE3708F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,60,1671,61)\1c&HDE6F8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,61,1671,66)\1c&HE57394&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,66,1671,69)\1c&HE97892&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,69,1671,77)\1c&HEB7C8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,77,1671,78)\1c&HE98185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,78,1671,81)\1c&HE78281&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,81,1671,82)\1c&HE0837D&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,82,1671,88)\1c&HDE847A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,88,1671,89)\1c&HDA8673&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:03:25.48,0:03:33.78,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,89,1671,91)\1c&HD88770&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 3,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,46,1320,48)\1c&HC85E82&\4a&HFF&}Let me hear about all of your tears
 Dialogue: 3,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,48,1320,50)\1c&HC76185&\4a&HFF&}Let me hear about all of your tears
 Dialogue: 3,0:03:33.78,0:03:36.70,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,50,1320,51)\1c&HCD6487&\4a&HFF&}Let me hear about all of your tears
@@ -860,25 +860,25 @@ Dialogue: 3,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip
 Dialogue: 3,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(683,76,1235,80)\1c&HDE8479&\4a&HFF&}The answer is inside of me
 Dialogue: 3,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(683,80,1235,81)\1c&HDA8673&\4a&HFF&}The answer is inside of me
 Dialogue: 3,0:04:02.39,0:04:05.35,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(683,81,1235,83)\1c&HD88770&\4a&HFF&}The answer is inside of me
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,46,1354,48)\1c&HC85E82&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,48,1354,50)\1c&HC76185&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,50,1354,51)\1c&HCD6487&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,51,1354,52)\1c&HCC6285&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,52,1354,53)\1c&HD2668A&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,53,1354,57)\1c&HD5678C&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,57,1354,58)\1c&HDA6C8A&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,58,1354,59)\1c&HE06E8C&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,59,1354,60)\1c&HE3708F&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,60,1354,61)\1c&HDE6F8F&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,61,1354,66)\1c&HE57394&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,66,1354,69)\1c&HE97892&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,69,1354,77)\1c&HEB7C8F&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,77,1354,78)\1c&HE98185&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,78,1354,81)\1c&HE78281&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,81,1354,82)\1c&HE0837D&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,82,1354,88)\1c&HDE847A&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,88,1354,89)\1c&HDA8673&\4a&HFF&}The world will always be in my hands
-Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(565,89,1354,91)\1c&HD88770&\4a&HFF&}The world will always be in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,46,1394,48)\1c&HC85E82&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,48,1394,50)\1c&HC76185&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,50,1394,51)\1c&HCD6487&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,51,1394,52)\1c&HCC6285&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,52,1394,53)\1c&HD2668A&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,53,1394,57)\1c&HD5678C&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,57,1394,58)\1c&HDA6C8A&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,58,1394,59)\1c&HE06E8C&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,59,1394,60)\1c&HE3708F&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,60,1394,61)\1c&HDE6F8F&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,61,1394,66)\1c&HE57394&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,66,1394,69)\1c&HE97892&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,69,1394,77)\1c&HEB7C8F&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,77,1394,78)\1c&HE98185&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,78,1394,81)\1c&HE78281&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,81,1394,82)\1c&HE0837D&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,82,1394,88)\1c&HDE847A&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,88,1394,89)\1c&HDA8673&\4a&HFF&}The world has always been in my hands
+Dialogue: 3,0:04:05.35,0:04:08.85,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(525,89,1394,91)\1c&HD88770&\4a&HFF&}The world has always been in my hands
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,46,1388,48)\1c&HC85E82&\4a&HFF&}Having you there for me was all I needed
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,48,1388,50)\1c&HC76185&\4a&HFF&}Having you there for me was all I needed
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,50,1388,51)\1c&HCD6487&\4a&HFF&}Having you there for me was all I needed
@@ -898,25 +898,25 @@ Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,82,1388,88)\1c&HDE847A&\4a&HFF&}Having you there for me was all I needed
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,88,1388,89)\1c&HDA8673&\4a&HFF&}Having you there for me was all I needed
 Dialogue: 3,0:04:08.85,0:04:11.94,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(532,89,1388,91)\1c&HD88770&\4a&HFF&}Having you there for me was all I needed
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,46,1349,48)\1c&HC85E82&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,48,1349,50)\1c&HC76185&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,50,1349,51)\1c&HCD6487&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,51,1349,52)\1c&HCC6285&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,52,1349,53)\1c&HD2668A&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,53,1349,57)\1c&HD5678C&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,57,1349,58)\1c&HDA6C8A&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,58,1349,59)\1c&HE06E8C&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,59,1349,60)\1c&HE3708F&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,60,1349,61)\1c&HDE6F8F&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,61,1349,66)\1c&HE57394&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,66,1349,69)\1c&HE97892&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,69,1349,77)\1c&HEB7C8F&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,77,1349,78)\1c&HE98185&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,78,1349,81)\1c&HE78281&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,81,1349,82)\1c&HE0837D&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,82,1349,88)\1c&HDE847A&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,88,1349,89)\1c&HDA8673&\4a&HFF&}To make my heart leap tremendously
-Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{=1601}{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,89,1349,91)\1c&HD88770&\4a&HFF&}To make my heart leap tremendously
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,46,1349,48)\1c&HC85E82&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,48,1349,50)\1c&HC76185&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,50,1349,51)\1c&HCD6487&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,51,1349,52)\1c&HCC6285&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,52,1349,53)\1c&HD2668A&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,53,1349,57)\1c&HD5678C&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,57,1349,58)\1c&HDA6C8A&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,58,1349,59)\1c&HE06E8C&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,59,1349,60)\1c&HE3708F&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,60,1349,61)\1c&HDE6F8F&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,61,1349,66)\1c&HE57394&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,66,1349,69)\1c&HE97892&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,69,1349,77)\1c&HEB7C8F&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,77,1349,78)\1c&HE98185&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,78,1349,81)\1c&HE78281&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,81,1349,82)\1c&HE0837D&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,82,1349,88)\1c&HDE847A&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,88,1349,89)\1c&HDA8673&\4a&HFF&}To make my heart leap with joy
+Dialogue: 3,0:04:11.94,0:04:17.07,OP,,0,0,0,,{=1601}{\q2\bord0\fad(0,440)\pos(960,35)\blur0.3\clip(568,89,1349,91)\1c&HD88770&\4a&HFF&}To make my heart leap with joy
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 3,0:03:07.50,0:03:07.54,Logo,,0,0,0,,{=1560=1594}{\alpha&H00&\blur0.6\fscx51.31\fscy51.31\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\clip(27,148.97,1911.9,279)\pos(970.68,286.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 3,0:03:07.54,0:03:07.58,Logo,,0,0,0,,{=1560}{\alpha&H00&\blur0.6\fscx51.33\fscy51.33\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\clip(26.71,148.86,1912.19,278.93)\pos(970.68,286.64)}p{\fsp-13}O{\fsp-9}Cket Monsters
