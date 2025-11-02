@@ -38,7 +38,7 @@ Dialogue: 10,0:00:45.44,0:00:47.32,Main,Anne,0,0,0,,Sandpan! Rapid Spin!
 Dialogue: 10,0:00:53.28,0:00:56.58,Main,Taro,0,0,0,,The things you’ve learned \N at Blueberry Academy are on full display...
 Dialogue: 10,0:00:56.58,0:00:57.95,Main,Taro,0,0,0,,...Anne-san!
 Dialogue: 10,0:00:57.95,0:00:59.21,Main,Anne,0,0,0,,Yeah!
-Dialogue: 10,0:00:59.21,0:01:02.08,Main,Anne,0,0,0,,I’ve got a knack for Double Battles!
+Dialogue: 10,0:00:59.21,0:01:02.08,Main,Anne,0,0,0,,I’ve figured out the trick \N to doing good in Double Battles!
 Dialogue: 10,0:01:02.08,0:01:05.30,Main,Taro,0,0,0,,A fine reply! \N But we’re barely getting started.
 Dialogue: 10,0:01:05.30,0:01:06.34,Main,Anne,0,0,0,,Right, Senpai!
 Dialogue: 10,0:01:06.34,0:01:08.34,Main,Anne,0,0,0,,Daikenki! Hydro Pump!
@@ -240,7 +240,7 @@ Dialogue: 10,0:13:47.39,0:13:48.60,Main,Roy,0,0,0,,Lucario, behind you!
 Dialogue: 10,0:13:51.10,0:13:53.60,Main,Nemo,0,0,0,,Parmot! \N Use Mach Punch on Lucario!
 Dialogue: 10,0:13:58.98,0:14:01.70,Main,Roy,0,0,0,,A move combo, \N predicting the opponents’ actions...
 Dialogue: 10,0:14:01.70,0:14:02.61,Main,Roy,0,0,0,,We can do that, too!
-Dialogue: 10,0:14:02.61,0:14:06.53,Main,Nemo,0,0,0,,Here they come, Ju'niper. Ascend!{Not a move} \N Parmot, you Dig!{Yes a move}
+Dialogue: 10,0:14:02.61,0:14:06.53,Main,Nemo,0,0,0,,Here they come, Ju'niper. Take to the air!{Not a move} \N Parmot, you Dig!{Yes a move}
 Dialogue: 10,0:14:11.04,0:14:13.62,Main,Roy,0,0,0,,In that case... \N Achigator! Flamethrower!
 Dialogue: 10,0:14:13.62,0:14:16.21,Main,Roy,0,0,0,,Lucario, aim a Luster Cannon \N at Ju'niper!
 Dialogue: 10,0:14:23.59,0:14:25.18,Main,Nemo,0,0,0,,Use Leaf Blade on Lucario!
@@ -335,7 +335,7 @@ Dialogue: 10,0:20:42.39,0:20:45.18,Main,Taro,0,0,0,,It sounds like you have \N i
 Dialogue: 10,0:20:45.18,0:20:49.02,Main,Anne,0,0,0,,{\q2}How about this, then? \N You could ask the older students here to train you!{senpais}
 Dialogue: 10,0:20:49.02,0:20:50.98,Main,Anne,0,0,0,,I’m having them teach me!
 Dialogue: 10,0:20:50.98,0:20:52.31,Main,Taro,0,0,0,,Huh? Anne-san...
-Dialogue: 10,0:20:52.31,0:20:55.69,Main,Anne,0,0,0,,After all, Taro-senpai’s \N in the Bluebelleague Elite Four!
+Dialogue: 10,0:20:52.31,0:20:55.69,Main,Anne,0,0,0,,After all, Taro-senpai’s \N in the Bluebeleague Elite Four!
 Dialogue: 10,0:20:55.69,0:20:56.82,Main,Kids,0,0,0,,{\i1}Elite Four?!{\i0}
 Dialogue: 10,0:20:56.82,0:20:59.32,Main,Taro,0,0,0,,Oh, that’s... Well...
 Dialogue: 10,0:20:59.86,0:21:00.99,Main,Kids,0,0,0,,{\i1}Please!{\i0}{I make a (polite) request! - polite ordinary usual phrasing}
