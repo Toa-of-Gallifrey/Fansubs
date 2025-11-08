@@ -1082,7 +1082,7 @@ kimottama きもったま (Scrappy) - # TBD #
 kimyou na kusuri きみょうなくすり (Curious Medicine) - # TBD #
 kinchoukan きんちょうかん (Unnerve) - # TBD #
 kinshi no chikara きんしのちから (Mycelium Might) - # TBD #
-kireaji きれあじ (Sharpness) - # TBD #
+kireaji きれあじ (Sharpness) - Sharpness
 kiyome no shio きよめのしお (Purifying Salt) - # TBD #
 kizuna henge きずなへんげ (Battle Bond) - # TBD #
 kobore dane こぼれダネ (Seed Sower) - Falling Seeds
@@ -1187,7 +1187,7 @@ soudaishou そうだいしょう (Supreme Overlord) - # TBD #
 souru haato ソウルハート (Soul-Heart) - Soul Heart
 soushoku そうしょく (Sap Sipper) - # TBD #
 suihou すいほう (Water Bubble) - # TBD #
-suisui すいすい (Swift Swim) - # TBD #
+suisui すいすい (Swift Swim) - Swift Swim
 suiito beeru スイートベール (Sweet Veil) - Sweet Veil
 sujiganeiri すじがねいり (Stalwart) - # TBD #
 sukai sukin スカイスキン (Aerilate) - # TBD #
@@ -1725,7 +1725,7 @@ POKÉMON NAMES
 0472 グライオン 
 0473 マンムー Mammoo - 2ほんキバポケモン 
 0474 ポリゴンＺ 
-0475 エルレイド Earlade - やいばポケモン Blade Pokémon
+0475 エルレイド Ellade - やいばポケモン Blade Pokémon
 0476 ダイノーズ Dainose - コンパスポケモン Compass Pokémon
 0477 ヨノワール Yonoir - てづかみポケモン Grasping Pokémon
 0478 ユキメノコ Yukimenoko - ゆきぐにポケモン 
@@ -1918,7 +1918,7 @@ POKÉMON NAMES
 0665 コフーライ 
 0666 ビビヨン 
 0667 シシコ 
-0668 カエンジシ 
+0668 カエンジシ Kaenjishi - おうじゃポケモン Monarch Pokémon
 0669 フラベベ Flabébé - いちりんポケモン Single Bloom Pokémon
 0670 フラエッテ Floette - いちりんポケモン Single Bloom Pokémon
 0671 フラージェス Florges - ガーデンポケモン Garden Pokémon
@@ -2268,7 +2268,7 @@ POKÉMON NAMES
 1015 マシマシラ 
 1016 キチキギス 
 1017 オーガポン 
-1018 ブリジュラス 
+1018 ブリジュラス Bridgeurus - ごうきんポケモン Alloy Pokémon
 1019 カミツオロチ 
 1020 ウガツホムラ Gouging Inferno - パラドックスポケモン Paradox Pokémon
 1021 タケルライコ 
