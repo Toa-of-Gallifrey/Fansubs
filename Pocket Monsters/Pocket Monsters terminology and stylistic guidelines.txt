@@ -1780,7 +1780,7 @@ POKÉMON NAMES
 0527 コロモリ Koromori - こうもりポケモン 
 0528 ココロモリ Kokoromori - きゅうあいポケモン 
 0529 モグリュー Mogurew - もぐらポケモン Mole Pokémon
-0530 ドリュウズ Doryuzu - ちていポケモン Subterrene Pokémon
+0530 ドリュウズ Doryuuzu - ちていポケモン Subterrene Pokémon
 0531 タブンネ Tabunne - ヒヤリングポケモン 
 0532 ドッコラー Dokkorar - きんこつポケモン Muscular Pokémon
 0533 ドテッコツ Dotekkotsu - きんこつポケモン Muscular Pokémon
@@ -2045,7 +2045,7 @@ POKÉMON NAMES
 0792 ルナアーラ Lunala - がちりんポケモン Moone Pokémon
 0793 ウツロイド Utsuroid - きせいポケモン 
 0794 マッシブーン Massivoon - ぼうちょうポケモン Swollen Pokémon
-0795 フェローチェ Pheroache - えんびポケモン Sensual Pokémon
+0795 フェローチェ Pheroache - えんびポケモン Seductive Pokémon
 0796 デンジュモク Denjumoku - でんしょくポケモン Glowing Pokémon
 0797 テッカグヤ Tekkaguya - うちあげポケモン Launch Pokémon
 0798 カミツルギ Kamitsurugi - ばっとうポケモン Drawn Sword Pokémon
@@ -2303,7 +2303,7 @@ Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
 Kasumi's Udeppou - Male (referred to as "otoko" in MPM)
 
 Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
-Iris's Doryuzu - Male (attracted to female Emonga in BW)
+Iris's Doryuuzu - Male (attracted to female Emonga in BW)
 Iris's Emonga - Female
 
 Shirona's Gaburias - Female (gender design difference)
