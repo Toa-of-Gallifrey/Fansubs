@@ -291,49 +291,49 @@ Dialogue: 10,0:19:00.70,0:19:03.25,Main,Mayonnaise,0,0,0,,From here on, \N using
 Dialogue: 10,0:19:03.25,0:19:06.29,Main,Mayonnaise,0,0,0,,...appropriately falls to you, \N as you each walk your own paths.
 Dialogue: 10,0:19:06.29,0:19:07.92,Main,Roy,0,0,0,,Right!
 Dialogue: 10,0:19:11.71,0:19:14.17,Main,Roy,0,0,0,,Matière-san, \N thanks for all your help.
-Dialogue: 10,0:19:14.17,0:19:16.18,Main,Matiere,0,0,0,,What are you going to do next?
+Dialogue: 10,0:19:14.17,0:19:16.18,Main,Matière,0,0,0,,What are you going to do next?
 Dialogue: 10,0:19:16.18,0:19:18.80,Main,Roy,0,0,0,,I’ll keep on traveling with everyone.
 Dialogue: 10,0:19:18.80,0:19:21.43,Main,Roy,0,0,0,,I wanna test our strength even more!
-Dialogue: 10,0:19:21.43,0:19:23.43,Main,Matiere,0,0,0,,I see. Go for it!
+Dialogue: 10,0:19:21.43,0:19:23.43,Main,Matière,0,0,0,,I see. Go for it!
 Dialogue: 10,0:19:23.43,0:19:25.19,Main,Roy,0,0,0,,Right!
 Dialogue: 10,0:19:25.19,0:19:29.52,Main,Roy,0,0,0,,Before I go, \N I was hoping to say goodbye to Ult...
-Dialogue: 10,0:19:29.52,0:19:32.57,Main,Matiere,0,0,0,,Oh... Ult already left \N to go adventuring.
+Dialogue: 10,0:19:29.52,0:19:32.57,Main,Matière,0,0,0,,Oh... Ult already left \N to go adventuring.
 Dialogue: 10,0:19:32.57,0:19:33.19,Main,Roy,0,0,0,,Huh?
 Dialogue: 10,0:19:33.19,0:19:34.95,Main,Roy,0,0,0,,Huh?!
 Dialogue: 10,0:19:35.49,0:19:37.41,Main,Ult,0,0,0,,To become the mega-strongest,
 Dialogue: 10,0:19:37.41,0:19:39.99,Main,Ult,0,0,0,,I wanna leave this city \N and go adventure with Yamirami!
 Dialogue: 10,0:19:42.99,0:19:48.00,Main,Ult,0,0,0,,So... H-How should I...? \N W-Well... You helped me and all...
 Dialogue: 10,0:19:48.83,0:19:51.00,Main,Ult,0,0,0,,Tanksalot, Matière!{muttered/slurred as if reluctant to say it}
-Dialogue: 10,0:19:55.01,0:19:58.89,Main,Matiere,0,0,0,,Ult. Feel free to come back \N whenever you like.
-Dialogue: 10,0:19:58.89,0:20:02.51,Main,Matiere,0,0,0,,This is your home, \N and we’re family.
+Dialogue: 10,0:19:55.01,0:19:58.89,Main,Matière,0,0,0,,Ult. Feel free to come back \N whenever you like.
+Dialogue: 10,0:19:58.89,0:20:02.51,Main,Matière,0,0,0,,This is your home, \N and we’re family.
 Dialogue: 10,0:20:03.60,0:20:06.48,Main,Ult,0,0,0,,O-Okay then! I’ll be goin’!
 Dialogue: 10,0:20:09.40,0:20:12.82,Main,Roy,0,0,0,,What’s with him? \N He could’ve said something to me...
-Dialogue: 10,0:20:12.82,0:20:14.57,Main,Matiere,0,0,0,,He did leave a message with me.
-Dialogue: 10,0:20:14.57,0:20:18.41,Main,Matiere,0,0,0,,“Roy! The black Rekkuuza \N belongs to me!”, he said.
+Dialogue: 10,0:20:12.82,0:20:14.57,Main,Matière,0,0,0,,He did leave a message with me.
+Dialogue: 10,0:20:14.57,0:20:18.41,Main,Matière,0,0,0,,“Roy! The black Rekkuuza \N belongs to me!”, he said.
 Dialogue: 10,0:20:19.53,0:20:21.91,Main,Roy,0,0,0,,I’m not giving up on that, either!
-Dialogue: 10,0:20:23.45,0:20:25.12,Main,Matiere,0,0,0,,Roy... Thank you.
-Dialogue: 10,0:20:25.12,0:20:28.17,Main,Matiere,0,0,0,,Ult finally found something he wants to do.
-Dialogue: 10,0:20:28.17,0:20:29.92,Main,Matiere,0,0,0,,You really do make good buddies!
+Dialogue: 10,0:20:23.45,0:20:25.12,Main,Matière,0,0,0,,Roy... Thank you.
+Dialogue: 10,0:20:25.12,0:20:28.17,Main,Matière,0,0,0,,Ult finally found something he wants to do.
+Dialogue: 10,0:20:28.17,0:20:29.92,Main,Matière,0,0,0,,You really do make good buddies!
 Dialogue: 10,0:20:29.92,0:20:31.21,Main,Roy,0,0,0,,Yeah!
-Dialogue: 10,0:20:31.21,0:20:32.38,Main,Matiere,0,0,0,,Oh, right.
-Dialogue: 10,0:20:32.38,0:20:35.67,Main,Matiere,0,0,0,,You said you didn’t know \N why Cap chose to follow you...
-Dialogue: 10,0:20:36.09,0:20:39.18,Main,Matiere,0,0,0,,But I think it’s because \N you’re always looking forward.
+Dialogue: 10,0:20:31.21,0:20:32.38,Main,Matière,0,0,0,,Oh, right.
+Dialogue: 10,0:20:32.38,0:20:35.67,Main,Matière,0,0,0,,You said you didn’t know \N why Cap chose to follow you...
+Dialogue: 10,0:20:36.09,0:20:39.18,Main,Matière,0,0,0,,But I think it’s because \N you’re always looking forward.
 Dialogue: 10,0:20:39.59,0:20:40.43,Main,Roy,0,0,0,,Huh?
-Dialogue: 10,0:20:40.43,0:20:43.43,Main,Matiere,0,0,0,,Sometimes, I can tell things.
-Dialogue: 10,0:20:43.43,0:20:47.39,Main,Matiere,0,0,0,,What people are thinking, \N with Fluff’s mysterious powers...{Mokoo}
-Dialogue: 10,0:20:47.39,0:20:48.69,Main,Matiere,0,0,0,,Like, inside my head.
-Dialogue: 10,0:20:51.69,0:20:56.23,Main,Matiere,0,0,0,,Ult stopped always looking down, \N because {\i1}you{\i0} weren’t doing that.
-Dialogue: 10,0:20:56.23,0:20:59.24,Main,Matiere,0,0,0,,That Friede guy used to \N look forward too, didn’t he?
-Dialogue: 10,0:20:59.24,0:21:01.70,Main,Matiere,0,0,0,,Maybe you two look alike, \N from a certain angle.
+Dialogue: 10,0:20:40.43,0:20:43.43,Main,Matière,0,0,0,,Sometimes, I can tell things.
+Dialogue: 10,0:20:43.43,0:20:47.39,Main,Matière,0,0,0,,What people are thinking, \N with Fluff’s mysterious powers...{Mokoo}
+Dialogue: 10,0:20:47.39,0:20:48.69,Main,Matière,0,0,0,,Like, inside my head.
+Dialogue: 10,0:20:51.69,0:20:56.23,Main,Matière,0,0,0,,Ult stopped always looking down, \N because {\i1}you{\i0} weren’t doing that.
+Dialogue: 10,0:20:56.23,0:20:59.24,Main,Matière,0,0,0,,That Friede guy used to \N look forward too, didn’t he?
+Dialogue: 10,0:20:59.24,0:21:01.70,Main,Matière,0,0,0,,Maybe you two look alike, \N from a certain angle.
 Dialogue: 10,0:21:02.91,0:21:04.08,Main,Roy,0,0,0,,Cap...!
 Dialogue: 10,0:21:04.70,0:21:07.70,Main,Roy,0,0,0,,Do you think \N I’m a bit closer to being like Friede?
 Dialogue: 10,0:21:22.47,0:21:23.64,Main,Roy,0,0,0,,How do I look?
 Dialogue: 10,0:21:26.01,0:21:29.94,Main,Roy,0,0,0,,Cool, right? \N It’s just like Friede’s!
 Dialogue: 10,0:21:29.94,0:21:31.14,Main,Roy,0,0,0,,I’ll take this!
-Dialogue: 10,0:21:31.14,0:21:32.69,Main,Clerk,0,0,0,,A’ight.
+Dialogue: 10,0:21:31.14,0:21:32.69,Main,Clerk,0,0,0,,Sure, sure.
 Dialogue: 10,0:21:32.69,0:21:35.15,Main,Clerk,0,0,0,,Yo, kid... Lookin’ fresh!
 Dialogue: 10,0:21:39.61,0:21:41.66,Main,Roy,0,0,0,,Now, let’s set off!
-Dialogue: 10,0:21:49.29,0:21:51.41,Main,Matiere,0,0,0,,Oh, he forgot this.
+Dialogue: 10,0:21:49.29,0:21:51.41,Main,Matière,0,0,0,,Oh, he forgot this.
 Dialogue: 10,0:21:59.17,0:22:01.80,Main,Roy,0,0,0,,Geez, why’re you following me?
 Dialogue: 10,0:22:01.80,0:22:05.93,Main,Ult,0,0,0,,Huh?! You’re the one \N copyin’ offa {\i1}my{\i} path!
 Dialogue: 10,0:22:08.81,0:22:10.35,Main,Roy,0,0,0,,Anyway, for now...
