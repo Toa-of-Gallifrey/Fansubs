@@ -1,4 +1,4 @@
-Here you can find up-to-date scripts for my fansubbing projects. Unless stated otherwise, every project archived here is available as unmuxed .ass files and also as muxed .mks files with fonts, chapters, and alternate sub tracks when applicable. You can also find our terminology document for Pocket Monsters here, which anyone is free to consult, use as-is, or modify for their own releases and/or translations if they so wish.
+Here you can find up-to-date scripts for my fansubbing projects. Unless stated otherwise, every project archived here is available as unmuxed .ass files and also as muxed .mks files with fonts, chapters, and alternate sub tracks when applicable. You can also find our terminology document for Pocket Monsters here, which anyone is free to consult, use as-is, or modify for use in their own projects if they so wish.
 
 **Projects currently maintained/archived here:**  
 * Revolutionary Girl Utena  
