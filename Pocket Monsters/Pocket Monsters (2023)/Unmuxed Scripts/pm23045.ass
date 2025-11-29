@@ -347,6 +347,59 @@ Dialogue: 0,0:03:53.92,0:03:55.38,OPp2,,0,0,0,,{\blur7\1a&HFF&\3c&HFFE357&\3a&H6
 Dialogue: 0,0:03:56.80,0:03:58.22,OPp2,,0,0,0,,{\blur7\1a&HFF&\3c&HFFE357&\3a&H60&}the rainbow's glow
 Dialogue: 0,0:03:59.59,0:04:01.85,OPp2,,0,0,0,,{=1018}{\fad(0,560)\blur7\1a&HFF&\3c&HFFE357&\3a&H60&}I found my dream
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 1,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{=1060}{\fad(500,440)\alpha&H00&\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\pos(960.06,356.45)\c&HE9A801&\clip(5.87,185.13,1909.07,333.46)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 1,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\pos(960.06,356.45)\c&H3D38E2&\clip(9.09,378.02,1909.07,618.46)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 0,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\bord8\blur5\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\pos(960.06,356.45)\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)\t(1680,1725,\1a&HFF&)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,333,1909,334)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HE9A801&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,334,1909,335)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HE6A506&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,335,1909,336)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HE3A20C&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,336,1909,337)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HE09F12&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,337,1909,338)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HDD9C18&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,338,1909,339)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HDA991E&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,339,1909,340)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HD89624&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,340,1909,341)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HD5932A&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,341,1909,342)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HD2902F&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,342,1909,343)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HCF8D35&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,343,1909,344)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HCC8A3B&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,344,1909,345)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HCA8841&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,345,1909,346)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HC78547&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,346,1909,347)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HC4824D&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,347,1909,348)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HC17F53&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,348,1909,349)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HBE7C58&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,349,1909,350)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HBB795E&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,350,1909,351)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HB97664&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,351,1909,352)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HB6736A&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,352,1909,353)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HB37070&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,353,1909,354)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HB06D76&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,354,1909,355)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HAD6A7C&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,355,1909,356)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HAB6882&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,356,1909,357)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HAB6882&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,357,1909,358)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HA56586&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,358,1909,359)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&HA0638B&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,359,1909,360)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H9B618F&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,360,1909,361)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H965E94&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,361,1909,362)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H905C98&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,362,1909,363)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H8B5A9D&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,363,1909,364)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H8658A2&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,364,1909,365)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H8155A6&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,365,1909,366)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H7B53AB&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,366,1909,367)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H7651AF&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,367,1909,368)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H714EB4&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,368,1909,369)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H6C4CB8&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,369,1909,370)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H664ABD&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,370,1909,371)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H6148C2&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,371,1909,372)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H5C45C6&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,372,1909,373)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H5743CB&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,373,1909,374)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H5141CF&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,374,1909,375)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H4C3ED4&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,375,1909,376)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H473CD8&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,376,1909,377)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H423ADD&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\fad(500,440)\alpha&H00&\clip(12,377,1909,378)\pos(960.06,356.45)\blur0.6\fscx55\fscy55\an5\fs200\fnPmLogo2023\fsp-33\c&H3D38E2&}p{\fsp-14}O{\fsp-10}Cket Monsters
+Comment: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\blur0.6\fscx65\fscy65\an5\fs200\fnPmLogo2023\fsp-33\pos(960,295)\c&HE9A801&\clip(12.09,278.46,1909.07,323.02)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Comment: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\blur0.6\fscx65\fscy65\an5\fs200\fnPmLogo2023\fsp-33\pos(960,295)\c&HAB6882&\clip(12.09,278.46,1909.07,323.02)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Comment: 2,0:02:47.61,0:02:49.73,Logo,,0,0,0,,{\blur0.6\fscx65\fscy65\an5\fs200\fnPmLogo2023\fsp-33\pos(960,295)\c&H3D38E2&\clip(12.09,278.46,1909.07,323.02)}p{\fsp-14}O{\fsp-10}Cket Monsters
+Dialogue: 1,0:02:47.61,0:02:49.73,Logo Sub-title,,0,0,0,,{\fad(500,440)\fscx84.60\fscy84.60\alpha&H00&\pos(960,829.61)\blur0.6}The Gleam of Terapagos
+Dialogue: 0,0:02:47.61,0:02:49.73,Logo Sub-title,,0,0,0,,{=1061}{\fad(500,440)\fscx84.60\fscy84.60\alpha&H00&\pos(960,829.61)\bord5\blur3\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)\t(1680,1725,\1a&HFF&)}The Gleam of Terapagos
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:12:50.50,0:13:00.51,Logo,,0,0,0,,{=1019}{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\pos(1456.01,811.71)\clip(27,653.97,1911.9,804)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:12:50.50,0:13:00.51,Logo,,0,0,0,,{\blur0.6\fscx25\fscy25\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\pos(1456.01,811.71)\clip(27,822,1904.17,957.48)}p{\fsp-13}O{\fsp-9}Cket Monsters
@@ -1108,3 +1161,5 @@ Data: 1053,_aegi_folddata,e0;1;139
 Data: 1054,_aegi_folddata,e1;1;139
 Data: 1057,_aegi_folddata,e0;1;130
 Data: 1058,_aegi_folddata,e1;1;130
+Data: 1060,_aegi_folddata,e0;1;140
+Data: 1061,_aegi_folddata,e1;1;140
