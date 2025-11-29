@@ -372,9 +372,9 @@ kauntaa カウンター (Counter) - Counter
 kawarawari かわらわり (Brick Break) - Brick Break
 kaze okoshi かぜおこし (Gust) - Raising Wind
 ketaguri けたぐり (Low Kick) - Kick Down
-kiai dama きあいだま (Focus Blast) - Focus Blast
-kiai dame きあいだめ (Focus Energy) - Build Focus
-kiai panchi きあいパンチ (Focus Punch) - Focus Punch
+kiai dama きあいだま (Focus Blast) - Fighting Spirit Blast
+kiai dame きあいだめ (Focus Energy) - Build Fighting Spirit
+kiai panchi きあいパンチ (Focus Punch) - Fighting Spirit Punch
 kimagu reezaa きまぐレーザー (Fickle Beam) - # TBD #
 kingu shiirudo キングシールド (King's Shield) - # TBD #
 kinoko no hoshi キノコのほうし (Spore) - Mushroom Spores
@@ -1011,7 +1011,7 @@ fuuryoku denki ふうりょくでんき (Wind Power) - # TBD #
 fuyuu ふゆう (Levitate) - # TBD #
 ganjou がんじょう (Sturdy) - # TBD #
 ganjou ago がんじょうあご (Strong Jaw) - # TBD #
-gekiryuu げきりゅう (Torrent) - # TBD #
+gekiryuu げきりゅう (Torrent) - Torrent
 gitai ぎたい (Mimicry) - Mimicry
 gorimuchuu ごりむちゅう (Gorilla Tactics) - # TBD #
 gurasu meikaa グラスメイカー (Grassy Surge) - Grass Maker
@@ -1123,7 +1123,7 @@ mitsu atsume みつあつめ (Honey Gather) - # TBD #
 mizu gatame みずがため (Water Compaction) - # TBD #
 mizu no beeru みずのベール (Water Veil) - # TBD #
 mofumofu もふもふ (Fluffy) - # TBD #
-mouka もうか (Blaze) - # TBD #
+mouka もうか (Blaze) - Blaze
 mono hiroi ものひろい (Pickup) - # TBD #
 moraibi もらいび (Flash Fire) - Kindled Fire
 murakke ムラっけ (Moody) - # TBD #
@@ -1507,7 +1507,7 @@ POKÉMON NAMES
 0254 ジュカイン Jukain - みつりんポケモン 
 0255 アチャモ Achamo - ひよこポケモン 
 0256 ワカシャモ Wakashamo - わかどりポケモン 
-0257 バシャーモ Burshamo - もうかポケモン 
+0257 バシャーモ Burshamo - もうかポケモン Blaze Pokémon
 0258 ミズゴロウ Mizugorou - ぬまうおポケモン Swamp Fish Pokémon
 0259 ヌマクロー Numacraw - ぬまうおポケモン Swamp Fish Pokémon
 0260 ラグラージ Laglarge - ぬまうおポケモン Swamp Fish Pokémon
@@ -2160,8 +2160,8 @@ POKÉMON NAMES
 0907 ニャローテ Nyarote - くさねこポケモン Grass Cat Pokémon
 0908 マスカーニャ Masquernya - マジシャンポケモン Magician Pokémon
 0909 ホゲータ Hogator - ほのおワニポケモン Fire Croc Pokémon
-0910 アチゲータ 
-0911 ラウドボーン 
+0910 アチゲータ Achigator - ほのおワニポケモン Fire Croc Pokémon
+0911 ラウドボーン Loudbone - シンガーポケモン Singer Pokémon
 0912 クワッス Kuwassu - こがもポケモン Duckling Pokémon
 0913 ウェルカモ Welcamo - レッスンポケモン 
 0914 ウェーニバル
