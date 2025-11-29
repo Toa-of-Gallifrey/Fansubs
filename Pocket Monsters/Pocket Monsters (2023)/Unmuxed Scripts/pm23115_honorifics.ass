@@ -94,7 +94,7 @@ Dialogue: 10,0:05:30.18,0:05:31.98,Main,Cyano,0,0,0,,Ain’t that something?{ENg
 Dialogue: 10,0:05:31.98,0:05:34.69,Main,Ult,0,0,0,,Hey! I wanna get mega-stronger!
 Dialogue: 10,0:05:35.02,0:05:36.90,Main,Ult,0,0,0,,Lemme train here! Train!
 Dialogue: 10,0:05:36.90,0:05:38.94,Main,Cyano,0,0,0,,Train? Oh, that’s right!
-Dialogue: 10,0:05:38.94,0:05:42.91,Main,Cyano,0,0,0,,Vel-chan tells me that you are \N trainers well worth my attention!
+Dialogue: 10,0:05:38.94,0:05:42.91,Main,Cyano,0,0,0,,Vel-chan tells me that \N you are trainers well worth watching!
 Dialogue: 10,0:05:42.91,0:05:44.37,Main,Liko,0,0,0,,Vel-chan...?
 Dialogue: 10,0:05:44.37,0:05:46.45,Main,Cyano,0,0,0,,Principal Clavel, naturally.
 Dialogue: 10,0:05:46.45,0:05:50.50,Main,Cyano,0,0,0,,You did a course at Orange Academy, yes?
@@ -110,7 +110,7 @@ Dialogue: 10,0:06:15.77,0:06:17.15,Main,Briar,0,0,0,,Oh dear...
 Dialogue: 10,0:06:17.15,0:06:19.15,Main,Cyano,0,0,0,,Huh? You mean you forgot?
 Dialogue: 10,0:06:19.15,0:06:21.44,Main,Cyano,0,0,0,,What a scatterbrain you are!
 Dialogue: 10,0:06:21.44,0:06:23.78,Main,Briar,0,0,0,,Coming from you, that {\i1}really{\i0} stings...
-Dialogue: 10,0:06:23.78,0:06:28.28,Main,Briar,0,0,0,,Kids, I apologize, but let’s meet \N in my office tomorrow morning.
+Dialogue: 10,0:06:23.78,0:06:28.28,Main,Briar,0,0,0,,Kids, I apologize, but let’s meet \N in my lab tomorrow morning.
 Dialogue: 10,0:06:28.28,0:06:31.41,Main,Briar,0,0,0,,Principal Cyano, \N if you’d please show them to their dorms.
 Dialogue: 10,0:06:31.83,0:06:34.29,Main,Briar,0,0,0,,Well then, kids, see you tomorrow.
 Dialogue: 10,0:06:35.75,0:06:38.71,Main,Cyano,0,0,0,,Oh... Why, I must apologize.
