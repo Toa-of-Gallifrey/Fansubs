@@ -110,9 +110,9 @@ deka hammaa デカハンマー (Gigaton Hammer) - Giant Hammer
 dekoreeshon デコレーション (Decorate) - Decoration
 dengeki kushibashi でんげきくちばし (Bolt Beak) - # TBD #
 dengeki ha でんげきは (Shock Wave) - Shock Wave
-denji fuyuu でんじふゆう (Magnet Rise) - Electromagnetic Levitation [alt: EM Levitation]
-denji ha でんじは (Thunder Wave) - Electromagnetic Wave [alt: EM Wave]
-denji hou でんじほう (Zap Cannon) - Electromagnetic Cannon [alt: EM Cannon]
+denji fuyuu でんじふゆう (Magnet Rise) - EM Levitation
+denji ha でんじは (Thunder Wave) - EM Wave
+denji hou でんじほう (Zap Cannon) - EM Cannon
 denki shokku でんきショック (Thunder Shock) - Electric Shock
 denkou sekka でんこうせっか (Quick Attack) - Lightning Speed
 denkou sougeki でんこうそうげき (Double Shock) - All-Out Lightning Attack
