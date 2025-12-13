@@ -806,7 +806,7 @@ uppun barashi うっぷんばらし (Lash Out) - # TBD #
 urami うらみ (Spite) - # TBD #
 urami tsurami うらみつらみ (Bitter Malice) - # TBD #
 uso naki うそなき (Fake Tears) - Fake Tears
-utakata no aria うたかた (Sparkling Aria) - # TBD #
+utakata no aria うたかた (Sparkling Aria) - Fleeting Bubble Aria
 utau うたう (Sing) - Sing
 utsushie うつしえ (Doodle) - # TBD #
 uzushio うずしお (Whirlpool) - Whirlpool
@@ -1022,7 +1022,7 @@ hadoron enjin ハドロンエンジン (Hadron Engine) - Hadron Engine
 hagane no seishin はがねのせいしん (Steely Spirit) - # TBD #
 hagane tsukai はがねつかい (Steelworker) - # TBD #
 hajimari no umi はじまりのうみ (Primordial Sea) - # TBD #
-hakkou はっこう (Illuminate) - # TBD #
+hakkou はっこう (Illuminate) - Luminescence
 hansuu はんすう (Cud Chew) - # TBD #
 harapeko suicchi はらぺこスイッチ (Hunger Switch) - # TBD #
 harakiri はりきり (Hustle) - # TBD #
@@ -1371,7 +1371,7 @@ POKÉMON NAMES
 0118 トサキント Tosakinto - きんぎょポケモン Goldfish Pokémon
 0119 アズマオウ Azumao - きんぎょポケモン Goldfish Pokémon
 0120 ヒトデマン Hitodeman - ほしがたポケモン Star Shape Pokémon
-0121 スターミー Starmie - なぞのポケモン 
+0121 スターミー Starmie - なぞのポケモン Mysterious Pokémon
 0122 バリヤード Barrierd - バリアーポケモン Barrier Pokémon | Galarian Form - ダンスポケモン Dancing Pokémon
 0123 ストライク Strike - かまきりポケモン Mantis Pokémon
 0124 ルージュラ 
