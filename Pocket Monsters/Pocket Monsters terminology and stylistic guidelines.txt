@@ -342,7 +342,7 @@ kaendan かえんだん (Searing Shot) - # TBD #
 kaenhousha かえんほうしゃ (Flamethrower) - Flamethrower
 kafun dango かふんだんご (Pollen Puff) - Pollen Dumpling
 kage bunshin かげぶんしん (Double Team) - Shadow Clones
-kagenui かげぬい (Spirit Shackle) - # TBD #
+kagenui かげぬい (Spirit Shackle) - Shadow Stitch
 kageuchi かげうち (Shadow Sneak) - Shadow Strike
 kagiwakeru かぎわける (Odor Sleuth) - # TBD #
 kaidenpa かいでんぱ (Eerie Impulse) - # TBD #
