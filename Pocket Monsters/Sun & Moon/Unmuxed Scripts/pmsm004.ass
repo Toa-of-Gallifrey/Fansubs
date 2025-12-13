@@ -217,7 +217,7 @@ Dialogue: 0,0:09:42.56,0:09:44.59,Main,Mao,0,0,0,,That could be good!
 Dialogue: 0,0:09:44.59,0:09:46.69,Main,Mao,0,0,0,,I met Amakaji in that forest, too.
 Dialogue: 0,0:10:13.84,0:10:16.03,Main,Satoshi,0,0,0,,Wh-What Pokémon is that?
 Dialogue: 0,0:10:16.03,0:10:18.01,Main,Rotom,0,0,0,,Leave it to me-roto!
-Dialogue: 0,0:10:18.01,0:10:21.22,Main,Rotom,0,0,0,,Mokuroh. Grass Quill Pokémon. \N Grass/Flying type.
+Dialogue: 0,0:10:18.01,0:10:21.22,Main,Rotom,0,0,0,,Mokuroh. Grass Feather Pokémon. \N Grass/Flying type.
 Dialogue: 0,0:10:21.22,0:10:23.97,Main,Rotom,0,0,0,,It stores up energy during the day \N using photosynthesis.{This is IN its Sun Pokédex entry, but the exact phrasing doesn’t quite match. The next two lines are straight out of Moon. -Starfish}
 Dialogue: 0,0:10:23.97,0:10:27.27,Main,Rotom,0,0,0,,Silently it glides, drawing near its targets.
 Dialogue: 0,0:10:27.27,0:10:29.19,Main,Rotom,0,0,0,,Unnoticed, it starts pelting them \N with vicious kicks.{The game text is "Before they even notice it, it begins to pelt them with vicious kicks." but that's a BIT too much text for such a quick line. Honestly even this rewording is a bit excessive. -Starfish}
@@ -374,7 +374,7 @@ Comment: 0,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 0,0:23:23.52,0:23:25.56,Main,Mao,0,0,0,,Thanks for waiting!
 Dialogue: 0,0:23:25.56,0:23:29.09,Main,Mao,0,0,0,,The answer to the PokéProblem \N was Mokuroh!
-Dialogue: 0,0:23:29.09,0:23:33.64,Main,Mao,0,0,0,,The Grass Quill Pokémon Mokuroh \N has strong legs and is great at kicking!
+Dialogue: 0,0:23:29.09,0:23:33.64,Main,Mao,0,0,0,,The Grass Feather Pokémon Mokuroh \N has strong legs and is great at kicking!
 Dialogue: 0,0:23:33.64,0:23:37.10,Main,Mao,0,0,0,,Even its Tackle attack uses its legs!
 Dialogue: 0,0:23:37.10,0:23:40.60,Main,Mao,0,0,0,,Oh, yeah, and it seems like Mokuroh really likes Satoshi’s backpack.
 Dialogue: 0,0:23:40.60,0:23:44.36,Main,Mao,0,0,0,,It looks really cute \N peeking out from there, doesn’t it?

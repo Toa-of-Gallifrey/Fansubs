@@ -4,8 +4,8 @@
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Zoom: 6
 Video Aspect Ratio: c1.77778
@@ -13,18 +13,18 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,Candara,55,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.0001,0,1,3,0,2,30,30,30,0
-Style: On-screen stuff,Arial Rounded MT Bold,30,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,0
-Style: Episode titles,HummingMod,70,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,0
-Style: OP,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
-Style: OPp2,HummingMod,48,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
-Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,3,0,8,30,30,40,0
-Style: ED,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,3,2,8,30,30,30,0
-Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00FFB033,&H00524756,-1,0,0,0,100,100,0,0,1,5,2,8,30,30,30,0
+Style: Main,Candara,83,&H00FFFFFF,&H00F5FEF5,&H00000000,&H78000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,2,45,45,45,0
+Style: On-screen stuff,Arial Rounded MT Bold,45,&H00000000,&H00F5FEF5,&H00FFFFFF,&H78000000,0,0,0,0,100,100,0,0,1,4.5,0,2,45,45,45,0
+Style: Episode titles,HummingMod,105,&H00000000,&H00F5FEF5,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,3,2,45,45,45,0
+Style: OP,HummingMod,72,&H00FF231C,&H00F5FEF5,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,4.5,3,8,45,45,45,0
+Style: OPp2,HummingMod,72,&H00FF231C,&H00F5FEF5,&H00FFAE11,&H00574F4B,-1,0,0,0,100,100,0,0,1,7.5,3,8,45,45,45,0
+Style: Insert,Candara,60,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,100,100,0.00015,0,1,4.5,0,8,45,45,60,0
+Style: ED,HummingMod,72,&H00FE76FF,&H00F5FEF5,&H00FAFAFF,&HFF000000,-1,0,0,0,100,100,0,0,1,4.5,3,8,45,45,45,0
+Style: EDp2,HummingMod,72,&H00FE76FF,&H00F5FEF5,&H00FFB033,&H00524756,-1,0,0,0,100,100,0,0,1,7.5,3,8,45,45,45,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -362,7 +362,7 @@ Dialogue: 10,0:21:38.82,0:21:40.07,Main,Kasumi,0,0,0,,Of course!
 Dialogue: 10,0:21:40.61,0:21:42.78,Main,Takeshi,0,0,0,,Hey, hey, don’t forget about me!
 Dialogue: 10,0:21:42.78,0:21:45.03,Main,Satoshi & Kasumi,0,0,0,,{\i1}Of course not!{\i0}
 Dialogue: 10,0:21:46.41,0:21:51.04,Main,Narrator,0,0,0,,Let’s hope Takeshi and Kasumi \N come visit Alola again sometime.
-Dialogue: 10,0:21:56.59,0:21:58.67,Main,Narrator,0,0,0,,{\pos(720,690)}What a show!
+Dialogue: 10,0:21:56.59,0:21:58.67,Main,Narrator,0,0,0,,{\pos(1080,1035)}What a show!
 Comment: 10,0:21:59.51,0:21:59.51,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.42,0:23:24.76,Main,Kaki,0,0,0,,Thanks for waiting!
@@ -395,62 +395,62 @@ Dialogue: 10,0:24:22.65,0:24:26.03,Main,Mao,0,0,0,,Research Projects on Poni Isl
 Dialogue: 10,0:24:26.03,0:24:27.61,Main,Kaki,0,0,0,,Tune in next week, too!
 Dialogue: 10,0:24:27.61,0:24:29.86,Main,Satoshi,0,0,0,,Tell me the answer!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=0}TYPESETTING
-Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur2\pos(423,70)}Guardie
-Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur2\pos(875,70)}Garoola
-Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur2\pos(435,342)}Gaburias
-Dialogue: 1,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur2\pos(885,342)}Gamageroge
+Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(634.5,105)}Guardie
+Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(1312.5,105)}Garoola
+Dialogue: 0,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(652.5,513)}Gaburias
+Dialogue: 1,0:00:06.86,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(1327.5,513)}Gamageroge
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,220)}A Rock-Smassing Passionate Heart!
-Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,560)}Lychee and Takeshi!!
+Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,330)}A Rock-Smassing Passionate Heart!
+Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,840)}Lychee and Takeshi!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Garoola\N{\fs40}Type:   Normal
+Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{\an7\fad(500,0)\fs60\blur4.5\pos(202,717)}Name: Garoola\N{\fs60}Type:   Normal
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:00.54,0:24:27.61,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
-Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(640,100)}Next time
-Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(640,300)}Research Projects on Poni Island!
-Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(640,600)}Find the Island King!!
+Dialogue: 0,0:24:00.54,0:24:27.61,Main,,0,0,0,,{\fs52.5\pos(1680,225)}Next episode
+Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(960,150)}Next time
+Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(960,450)}Research Projects on Poni Island!
+Dialogue: 0,0:24:27.61,0:24:30.49,Episode titles,,0,0,0,,{\c&00a800&\pos(960,900)}Find the Island King!!
 Dialogue: 0,0:24:30.49,0:24:33.49,Episode titles,,0,0,0,,{=1}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=2}OPENING
 Dialogue: 1,0:02:20.58,0:02:25.00,OP,,0,0,0,,{\fad(300,0)}Don’t fear things you’ve never seen or done
-Dialogue: 0,0:02:20.58,0:02:25.00,OPp2,,0,0,0,,{\be2\bord6}{\fad(300,0)}Don’t fear things you’ve never seen or done
+Dialogue: 0,0:02:20.58,0:02:25.00,OPp2,,0,0,0,,{\be3\bord9}{\fad(300,0)}Don’t fear things you’ve never seen or done
 Dialogue: 1,0:02:25.00,0:02:31.30,OP,,0,0,0,,{\fad(0,300)}Now run, future hero, and feel the Tailwind at your back!
-Dialogue: 0,0:02:25.00,0:02:31.30,OPp2,,0,0,0,,{\be2\bord6}{\fad(0,300)}Now run, future hero, and feel the Tailwind at your back!
+Dialogue: 0,0:02:25.00,0:02:31.30,OPp2,,0,0,0,,{\be3\bord9}{\fad(0,300)}Now run, future hero, and feel the Tailwind at your back!
 Dialogue: 1,0:02:38.93,0:02:42.64,OP,,0,0,0,,You’ve gotten a lot tanner since we first met
-Dialogue: 0,0:02:38.93,0:02:42.64,OPp2,,0,0,0,,{\be2\bord6}You’ve gotten a lot tanner since we first met
-Dialogue: 1,0:02:42.64,0:02:48.40,OP,,0,0,0,,{\fsp-1.5}And your clothes are a bit dirtier, but that’s the best look for you
-Dialogue: 0,0:02:42.64,0:02:48.40,OPp2,,0,0,0,,{\fsp-1.5}{\be2\bord6}And your clothes are a bit dirtier, but that’s the best look for you
+Dialogue: 0,0:02:38.93,0:02:42.64,OPp2,,0,0,0,,{\be3\bord9}You’ve gotten a lot tanner since we first met
+Dialogue: 1,0:02:42.64,0:02:48.40,OP,,0,0,0,,{\fsp-2.25}And your clothes are a bit dirtier, but that’s the best look for you
+Dialogue: 0,0:02:42.64,0:02:48.40,OPp2,,0,0,0,,{\fsp-2.25}{\be3\bord9}And your clothes are a bit dirtier, but that’s the best look for you
 Dialogue: 1,0:02:48.40,0:02:52.90,OP,,0,0,0,,Look, the tears of frustration you’ve hidden beneath your cap
-Dialogue: 0,0:02:48.40,0:02:52.90,OPp2,,0,0,0,,{\be2\bord6}Look, the tears of frustration you’ve hidden beneath your cap
+Dialogue: 0,0:02:48.40,0:02:52.90,OPp2,,0,0,0,,{\be3\bord9}Look, the tears of frustration you’ve hidden beneath your cap
 Dialogue: 1,0:02:52.90,0:02:58.16,OP,,0,0,0,,will be dried up by the sun in no time
-Dialogue: 0,0:02:52.90,0:02:58.16,OPp2,,0,0,0,,{\be2\bord6}will be dried up by the sun in no time
+Dialogue: 0,0:02:52.90,0:02:58.16,OPp2,,0,0,0,,{\be3\bord9}will be dried up by the sun in no time
 Dialogue: 1,0:02:58.16,0:03:00.49,OP,,0,0,0,,Learning until you’re all worn out,
-Dialogue: 0,0:02:58.16,0:03:00.49,OPp2,,0,0,0,,{\be2\bord6}Learning until you’re all worn out,
+Dialogue: 0,0:02:58.16,0:03:00.49,OPp2,,0,0,0,,{\be3\bord9}Learning until you’re all worn out,
 Dialogue: 1,0:03:00.49,0:03:02.58,OP,,0,0,0,,playing until nightfall,
-Dialogue: 0,0:03:00.49,0:03:02.58,OPp2,,0,0,0,,{\be2\bord6}playing until nightfall,
+Dialogue: 0,0:03:00.49,0:03:02.58,OPp2,,0,0,0,,{\be3\bord9}playing until nightfall,
 Dialogue: 1,0:03:02.58,0:03:07.58,OP,,0,0,0,,go on, chase after the Rainbow Feather
-Dialogue: 0,0:03:02.58,0:03:07.58,OPp2,,0,0,0,,{\be2\bord6}go on, chase after the Rainbow Feather
+Dialogue: 0,0:03:02.58,0:03:07.58,OPp2,,0,0,0,,{\be3\bord9}go on, chase after the Rainbow Feather
 Dialogue: 1,0:03:07.58,0:03:11.80,OP,,0,0,0,,You were the one who taught us
-Dialogue: 0,0:03:07.58,0:03:11.80,OPp2,,0,0,0,,{\be2\bord6}You were the one who taught us
+Dialogue: 0,0:03:07.58,0:03:11.80,OPp2,,0,0,0,,{\be3\bord9}You were the one who taught us
 Dialogue: 1,0:03:11.80,0:03:16.68,OP,,0,0,0,,how important it is to speak our dreams out loud
-Dialogue: 0,0:03:11.80,0:03:16.68,OPp2,,0,0,0,,{\be2\bord6}how important it is to speak our dreams out loud
+Dialogue: 0,0:03:11.80,0:03:16.68,OPp2,,0,0,0,,{\be3\bord9}how important it is to speak our dreams out loud
 Dialogue: 1,0:03:16.68,0:03:21.10,OP,,0,0,0,,Don’t fear things you’ve never seen or done
-Dialogue: 0,0:03:16.68,0:03:21.10,OPp2,,0,0,0,,{\be2\bord6}Don’t fear things you’ve never seen or done
+Dialogue: 0,0:03:16.68,0:03:21.10,OPp2,,0,0,0,,{\be3\bord9}Don’t fear things you’ve never seen or done
 Dialogue: 1,0:03:21.10,0:03:26.98,OP,,0,0,0,,Now run, future hero, and feel the Tailwind at your back!
-Dialogue: 0,0:03:21.10,0:03:26.98,OPp2,,0,0,0,,{\be2\bord6}Now run, future hero, and feel the Tailwind at your back!
+Dialogue: 0,0:03:21.10,0:03:26.98,OPp2,,0,0,0,,{\be3\bord9}Now run, future hero, and feel the Tailwind at your back!
 Dialogue: 1,0:03:26.98,0:03:30.86,OP,,0,0,0,,Never forget your dreams
-Dialogue: 0,0:03:26.98,0:03:30.86,OPp2,,0,0,0,,{\be2\bord6}Never forget your dreams
+Dialogue: 0,0:03:26.98,0:03:30.86,OPp2,,0,0,0,,{\be3\bord9}Never forget your dreams
 Dialogue: 1,0:03:30.86,0:03:35.95,OP,,0,0,0,,With your backpack full of stuff, you’re ready to go
-Dialogue: 0,0:03:30.86,0:03:35.95,OPp2,,0,0,0,,{\be2\bord6}With your backpack full of stuff, you’re ready to go
+Dialogue: 0,0:03:30.86,0:03:35.95,OPp2,,0,0,0,,{\be3\bord9}With your backpack full of stuff, you’re ready to go
 Dialogue: 1,0:03:35.95,0:03:40.95,OP,,0,0,0,,It’s your adventure which nobody else can picture
-Dialogue: 0,0:03:35.95,0:03:40.95,OPp2,,0,0,0,,{\be2\bord6}It’s your adventure which nobody else can picture
+Dialogue: 0,0:03:35.95,0:03:40.95,OPp2,,0,0,0,,{\be3\bord9}It’s your adventure which nobody else can picture
 Dialogue: 1,0:03:40.95,0:03:48.50,OP,,0,0,0,,Step forward!
-Dialogue: 0,0:03:40.95,0:03:48.50,OPp2,,0,0,0,,{\be2\bord6}Step forward!
+Dialogue: 0,0:03:40.95,0:03:48.50,OPp2,,0,0,0,,{\be3\bord9}Step forward!
 Dialogue: 0,0:03:48.50,0:03:48.50,OPp2,,0,0,0,,{=3}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=4}ENDING
 Dialogue: 1,0:22:01.05,0:22:04.39,ED,,0,0,0,,{\fad(350,0)}Waking up refreshed with the sun, bid everyone a good morning
 Dialogue: 0,0:22:01.05,0:22:04.39,EDp2,,0,0,0,,{\fad(350,0)}Waking up refreshed with the sun, bid everyone a good morning
-Dialogue: 1,0:22:04.39,0:22:08.01,ED,,0,0,0,,{\fsp-1.5}Relaxing with some milk, gonna have another great day (Happy!)
-Dialogue: 0,0:22:04.39,0:22:08.01,EDp2,,0,0,0,,{\fsp-1.5}Relaxing with some milk, gonna have another great day (Happy!)
+Dialogue: 1,0:22:04.39,0:22:08.01,ED,,0,0,0,,{\fsp-2.25}Relaxing with some milk, gonna have another great day (Happy!)
+Dialogue: 0,0:22:04.39,0:22:08.01,EDp2,,0,0,0,,{\fsp-2.25}Relaxing with some milk, gonna have another great day (Happy!)
 Dialogue: 1,0:22:08.01,0:22:11.10,ED,,0,0,0,,The Backpacker, the Gentleman, the Swimmer Girl
 Dialogue: 0,0:22:08.01,0:22:11.10,EDp2,,0,0,0,,The Backpacker, the Gentleman, the Swimmer Girl
 Dialogue: 1,0:22:11.10,0:22:14.35,ED,,0,0,0,,Everyone’s on an adventure of their own
@@ -459,8 +459,8 @@ Dialogue: 1,0:22:14.35,0:22:17.82,ED,,0,0,0,,The Badges we’ve earned are proof
 Dialogue: 0,0:22:14.35,0:22:17.82,EDp2,,0,0,0,,The Badges we’ve earned are proof of our friendship
 Dialogue: 1,0:22:17.82,0:22:21.07,ED,,0,0,0,,Searching for a treasure you can’t see
 Dialogue: 0,0:22:17.82,0:22:21.07,EDp2,,0,0,0,,Searching for a treasure you can’t see
-Dialogue: 1,0:22:21.07,0:22:24.20,ED,,0,0,0,,{\fsp-1.5}Flaming, sparkling, hulaing, and fanning, dances in every color
-Dialogue: 0,0:22:21.07,0:22:24.20,EDp2,,0,0,0,,{\fsp-1.5}Flaming, sparkling, hulaing, and fanning, dances in every color
+Dialogue: 1,0:22:21.07,0:22:24.20,ED,,0,0,0,,{\fsp-2.25}Flaming, sparkling, hulaing, and fanning, dances in every color
+Dialogue: 0,0:22:21.07,0:22:24.20,EDp2,,0,0,0,,{\fsp-2.25}Flaming, sparkling, hulaing, and fanning, dances in every color
 Dialogue: 1,0:22:24.20,0:22:27.62,ED,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 0,0:22:24.20,0:22:27.62,EDp2,,0,0,0,,Everyone’s on an adventure of their own
 Dialogue: 1,0:22:27.62,0:22:33.83,ED,,0,0,0,,When we’ve had a fight, and I’m feeling down

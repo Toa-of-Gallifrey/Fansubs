@@ -109,7 +109,7 @@ Dialogue: 0,0:00:39.93,0:00:42.98,Main,Mao,0,0,0,,Come on... I spent {\i1}so{\i0
 Dialogue: 0,0:00:42.98,0:00:44.77,Main,Mao,0,0,0,,Stretch out your arms like {\i1}this!{\i0}
 Dialogue: 0,0:00:46.52,0:00:49.65,Main,Rotom,0,0,0,,Match with the example given: 53%-roto.
 Dialogue: 0,0:00:49.65,0:00:50.82,Main,Satoshi,0,0,0,,Slump!
-Dialogue: 0,0:00:52.15,0:00:54.74,Main,Kukui,0,0,0,,You know how to Focus Energy, \N but that’s not enough.
+Dialogue: 0,0:00:52.15,0:00:54.74,Main,Kukui,0,0,0,,You know how to Build Fighting Spirit, \N but that’s not enough.
 Dialogue: 0,0:00:56.66,0:00:59.16,Main,Mamane,0,0,0,,Satoshi, will you be okay \N for the Grand Trial?
 Dialogue: 0,0:00:59.62,0:01:03.12,Main,Satoshi,0,0,0,,I’ll be fine! \N I do better at the main event.
 Dialogue: 0,0:01:03.12,0:01:04.87,Main,Kaki,0,0,0,,I hope you’re right...
@@ -238,7 +238,7 @@ Dialogue: 0,0:11:26.49,0:11:28.54,Main,Satoshi,0,0,0,,This is getting interestin
 Dialogue: 0,0:11:28.54,0:11:31.46,Main,Satoshi,0,0,0,,Breaking out of situations like these \N is what make battles so intense!
 Dialogue: 0,0:11:32.21,0:11:34.33,Main,Lychee,0,0,0,,You’re burning hotter \N than Wela Volcano!
 Dialogue: 0,0:11:34.33,0:11:38.34,Main,Lychee,0,0,0,,Satoshi, challengers like you \N are the best!
-Dialogue: 0,0:11:38.96,0:11:41.26,Main,Lychee,0,0,0,,Dainose, use Zap Cannon \N on Mokuroh!
+Dialogue: 0,0:11:38.96,0:11:41.26,Main,Lychee,0,0,0,,Dainose, use EM Cannon \N on Mokuroh!
 Dialogue: 0,0:11:41.26,0:11:43.47,Main,Lychee,0,0,0,,Lugarugan, use Accelerock \N on Iwanko!
 Dialogue: 0,0:11:47.22,0:11:49.47,Main,Satoshi,0,0,0,,Mokuroh! Grab on to Iwanko and fly!
 Dialogue: 0,0:11:49.47,0:11:50.85,Main,Satoshi,0,0,0,,Then use Leafage on Lugarugan!
@@ -246,7 +246,7 @@ Dialogue: 0,0:12:02.90,0:12:03.66,Main,Lychee,0,0,0,,Lugarugan!
 Dialogue: 0,0:12:11.16,0:12:12.50,Main,Lilie,0,0,0,,Watch out!
 Dialogue: 0,0:12:12.50,0:12:14.37,Main,Mao,0,0,0,,They can even do {\i1}that?!{\i0}
 Dialogue: 0,0:12:14.37,0:12:16.54,Main,Rotom,0,0,0,,Collecting data! Collecting data! \N Collecting data!
-Dialogue: 0,0:12:24.55,0:12:25.80,Main,Lychee,0,0,0,,Now! Use Zap Cannon!
+Dialogue: 0,0:12:24.55,0:12:25.80,Main,Lychee,0,0,0,,Now! Use EM Cannon!
 Dialogue: 0,0:12:25.80,0:12:27.18,Main,Satoshi,0,0,0,,Watch out, Mokuroh!
 Dialogue: 0,0:12:37.19,0:12:40.03,Main,Mao,0,0,0,,Iwanko’s so cool! \N Well played!
 Dialogue: 0,0:12:40.53,0:12:42.32,Main,Satoshi,0,0,0,,Good work, Iwanko!

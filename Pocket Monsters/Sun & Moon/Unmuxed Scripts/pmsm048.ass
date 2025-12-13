@@ -136,7 +136,7 @@ Dialogue: 0,0:03:13.67,0:03:18.21,Main,Lilie,0,0,0,,If your work is {\i1}that{\i
 Dialogue: 0,0:03:21.24,0:03:23.83,Main,Lilie,0,0,0,,I’ll be going now.
 Dialogue: 0,0:03:23.83,0:03:25.76,Main,James,0,0,0,,Understood.
 Dialogue: 0,0:03:47.03,0:03:48.85,Main,Burnet,0,0,0,,All right, done.
-Dialogue: 0,0:03:48.85,0:03:50.48,Main,Rotom,0,0,0,,Checkup complete-roto.
+Dialogue: 0,0:03:48.85,0:03:50.48,Main,Rotom,0,0,0,,Check-up complete-roto.
 Dialogue: 0,0:03:50.48,0:03:53.19,Main,Burnet,0,0,0,,Thanks. You did well, as always.
 Dialogue: 0,0:03:56.86,0:04:00.62,Main,Satoshi,0,0,0,,Nebby’s gotten really attached \N to Professor Burnet.
 Dialogue: 0,0:04:00.62,0:04:02.26,Main,Kukui,0,0,0,,It’s quite smitten with her.
@@ -149,7 +149,7 @@ Dialogue: 0,0:04:17.22,0:04:19.15,Main,Burnet,0,0,0,,Oh, you’re all here?
 Dialogue: 0,0:04:19.88,0:04:21.01,Main,Suiren,0,0,0,,Professor Burnet!
 Dialogue: 0,0:04:21.01,0:04:22.68,Main,Burnet,0,0,0,,It’s been a while.
 Dialogue: 0,0:04:22.68,0:04:24.57,Main,Mao,0,0,0,,What are you doing here?
-Dialogue: 0,0:04:24.57,0:04:27.39,Main,Rotom,0,0,0,,She came for a regular \N checkup on Nebby-roto.
+Dialogue: 0,0:04:24.57,0:04:27.39,Main,Rotom,0,0,0,,She came for a regular \N check-up on Nebby-roto.
 Dialogue: 0,0:04:27.39,0:04:29.10,Main,Burnet,0,0,0,,I just finished.
 Dialogue: 0,0:04:29.10,0:04:32.02,Main,Satoshi,0,0,0,,Oh, I know! Why don’t you join us, \N Professor Burnet?
 Dialogue: 0,0:04:32.02,0:04:32.77,Main,Burnet,0,0,0,,What?

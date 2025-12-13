@@ -241,7 +241,7 @@ Dialogue: 10,0:20:53.82,0:20:58.07,Main,Rotom,0,0,0,,Kapu-Tetefu. Land God Poké
 Dialogue: 10,0:20:58.07,0:21:01.91,Main,Rotom,0,0,0,,As it flutters about, \N it scatters its strangely glowing scales.
 Dialogue: 10,0:21:01.91,0:21:06.04,Main,Rotom,0,0,0,,Touching them is said to \N restore good health on the spot.{Moon dex entry -Starfish}
 Dialogue: 10,0:21:06.04,0:21:07.91,Main,Satoshi,0,0,0,,So that’s why \N my bruises faded...
-Dialogue: 10,0:21:09.50,0:21:12.96,Main,Rotom,0,0,0,,Kosokumushi. Turn Tail Pokémon. \N Bug/Water type.
+Dialogue: 10,0:21:09.50,0:21:12.96,Main,Rotom,0,0,0,,Kosokumushi. Hightail Pokémon. \N Bug/Water type.
 Dialogue: 10,0:21:12.96,0:21:15.84,Main,Rotom,0,0,0,,Its habitat varies from \N beaches to seabeds.
 Dialogue: 10,0:21:15.84,0:21:19.59,Main,Rotom,0,0,0,,Nature’s very own cleaner, it will gleefully chow down on \N anything edible, no matter how rotten.{Moon dex entry, but the game had “A natural scavenger”, which doesn’t seem to match the JP so I changed it. The dub, incidentally, called them “Nature’s vacuum cleaners” so I feel like that backs up how I was totes justified in doing this. -Starfish}
 Dialogue: 10,0:21:20.18,0:21:24.18,Main,Kukui,0,0,0,,Kapu-Tetefu is regarded as \N Akala Island’s Guardian Deity.{I dunno, he says “Something like a Guardian Deity to Akala Island”, but I’m really not sure why he’s being so Wishiwashi about it. Like, has it not already established that they literally ARE Guardian Deities, so why the “like”? -Starfish}
