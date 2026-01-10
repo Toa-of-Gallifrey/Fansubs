@@ -1624,9 +1624,9 @@ POKÉMON NAMES
 0371 タツベイ 
 0372 コモルー Komoru - にんたいポケモン 
 0373 ボーマンダ Bohmander - ドラゴンポケモン Dragon Pokémon
-0374 ダンバル Dumbball - てっきゅうポケモン 
+0374 ダンバル Dumbbar - てっきゅうポケモン 
 0375 メタング Metang - てつツメポケモン 
-0376 メタグロス Metagross - てつあしポケモン 
+0376 メタグロス Metagross - てつあしポケモン Iron Legs Pokémon
 0379 レジロック Regirock - いわやまポケモン 
 0378 レジアイス Regice - ひょうざんポケモン Iceberg Pokémon
 0379 レジスチル Registeel - くろがねポケモン 
@@ -2275,7 +2275,7 @@ POKÉMON NAMES
 1022 テツノイワオ 
 1023 テツノカシラ 
 1024 テラパゴス Terapagos - テラスタルポケモン Terastal Pokémon
-1025 モモワロウ 
+1025 モモワロウ Momowarou - しはいポケモン Dominance Pokémon
 
 
 
