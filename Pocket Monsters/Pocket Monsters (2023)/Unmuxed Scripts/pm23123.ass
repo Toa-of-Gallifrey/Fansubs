@@ -314,7 +314,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:01:17.43,0:01:22.06,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:01:22.44,0:01:30.74,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
 Dialogue: 0,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4220,4265,\1a&HFF&)}That even if I take detours, I still took the shortest route
-Dialogue: 0,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 0,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 0,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}Let me hear about all of your tears
 Dialogue: 0,0:01:46.63,0:01:49.46,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}This adventure can’t be overcome alone
 Dialogue: 0,0:01:49.46,0:01:54.30,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&}We will go beyond where the wind points
@@ -371,21 +371,21 @@ Dialogue: 1,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bo
 Dialogue: 1,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HB5ADC0&}That even if I take detours, I still took the shortest route
 Dialogue: 1,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HB7B9CF&}That even if I take detours, I still took the shortest route
 Dialogue: 1,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(0,320)\blur0.6\1a&HFF&\3c&HBAC5DF&}That even if I take detours, I still took the shortest route
-Comment: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
-Comment: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\bord5.7\fad(320,0)\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA34D45&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA4534C&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA55A56&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA76362&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HA96D6E&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAB767A&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAD8188&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HAF8B95&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB196A3&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB3A1B2&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB5ADC0&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HB7B9CF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 1,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\fad(320,0)\blur0.6\1a&HFF&\3c&HBAC5DF&}Tucking fear and excitement away in my pocket, I ran straight over
+Comment: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
+Comment: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,43,1920,48)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA4534C&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,48,1920,53)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA55A56&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,53,1920,58)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA76362&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,58,1920,63)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA96D6E&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,63,1920,68)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAB767A&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,68,1920,73)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAD8188&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,73,1920,78)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HAF8B95&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,78,1920,83)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB196A3&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,83,1920,88)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB3A1B2&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,88,1920,93)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB5ADC0&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,93,1920,98)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HB7B9CF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 1,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HBAC5DF&}Tucking fear and excitement away in my pocket, I ran straight over
 Comment: 1,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HA34D45&\clip(0,38,1920,99)}Let me hear about all of your tears
 Comment: 1,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\bord5.7\pos(960,35)\blur0.6\1a&HFF&\3c&HBAC5DF&\clip(0,38,1920,99)}Let me hear about all of your tears
 Dialogue: 1,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\clip(0,38,1920,43)\pos(960,35)\bord5.7\blur0.6\1a&HFF&\3c&HA34D45&}Let me hear about all of your tears
@@ -554,7 +554,7 @@ Dialogue: 1,0:02:21.87,0:02:27.00,OP,,0,0,0,,{\clip(0,98,1920,103)\pos(960,35)\b
 Dialogue: 2,0:01:17.43,0:01:22.06,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 2,0:01:22.44,0:01:30.74,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
 Dialogue: 2,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\t(4220,4265,\1a&HFF&)}That even if I take detours, I still took the shortest route
-Dialogue: 2,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\1a&HFF&\t(275,320,\1a&H00&)}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 2,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 2,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}Let me hear about all of your tears
 Dialogue: 2,0:01:46.63,0:01:49.46,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}This adventure can’t be overcome alone
 Dialogue: 2,0:01:49.46,0:01:54.30,OP,,0,0,0,,{\q2\pos(960,35)\blur0.6\c&HFFFFFF&}We will go beyond where the wind points
@@ -623,25 +623,25 @@ Dialogue: 3,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\b
 Dialogue: 3,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,81,1540,86)\1c&HDE8479&\4a&HFF&}That even if I take detours, I still took the shortest route
 Dialogue: 3,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,86,1540,87)\1c&HDA8673&\4a&HFF&}That even if I take detours, I still took the shortest route
 Dialogue: 3,0:01:30.74,0:01:35.28,OP,,0,0,0,,{\q2\bord0\fad(0,320)\pos(960,35)\blur0.3\clip(378,87,1540,89)\1c&HD88770&\4a&HFF&}That even if I take detours, I still took the shortest route
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,46,1671,48)\1c&HC85E82&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,48,1671,50)\1c&HC76185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,50,1671,51)\1c&HCD6487&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,51,1671,52)\1c&HCC6285&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,52,1671,53)\1c&HD2668A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,53,1671,57)\1c&HD5678C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,57,1671,58)\1c&HDA6C8A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,58,1671,59)\1c&HE06E8C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,59,1671,60)\1c&HE3708F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,60,1671,61)\1c&HDE6F8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,61,1671,66)\1c&HE57394&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,66,1671,69)\1c&HE97892&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,69,1671,77)\1c&HEB7C8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,77,1671,78)\1c&HE98185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,78,1671,81)\1c&HE78281&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,81,1671,82)\1c&HE0837D&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,82,1671,88)\1c&HDE847A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,88,1671,89)\1c&HDA8673&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
-Dialogue: 3,0:01:35.41,0:01:43.71,OP,,0,0,0,,{\q2\bord0\fad(320,0)\pos(960,35)\blur0.3\clip(250,89,1671,91)\1c&HD88770&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,46,1671,48)\1c&HC85E82&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,48,1671,50)\1c&HC76185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,50,1671,51)\1c&HCD6487&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,51,1671,52)\1c&HCC6285&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,52,1671,53)\1c&HD2668A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,53,1671,57)\1c&HD5678C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,57,1671,58)\1c&HDA6C8A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,58,1671,59)\1c&HE06E8C&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,59,1671,60)\1c&HE3708F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,60,1671,61)\1c&HDE6F8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,61,1671,66)\1c&HE57394&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,66,1671,69)\1c&HE97892&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,69,1671,77)\1c&HEB7C8F&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,77,1671,78)\1c&HE98185&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,78,1671,81)\1c&HE78281&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,81,1671,82)\1c&HE0837D&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,82,1671,88)\1c&HDE847A&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,88,1671,89)\1c&HDA8673&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
+Dialogue: 3,0:01:35.99,0:01:43.71,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(250,89,1671,91)\1c&HD88770&\4a&HFF&}Tucking fear and excitement away in my pocket, I ran straight over
 Dialogue: 3,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,46,1320,48)\1c&HC85E82&\4a&HFF&}Let me hear about all of your tears
 Dialogue: 3,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,48,1320,50)\1c&HC76185&\4a&HFF&}Let me hear about all of your tears
 Dialogue: 3,0:01:43.71,0:01:46.63,OP,,0,0,0,,{\q2\bord0\pos(960,35)\blur0.3\clip(601,50,1320,51)\1c&HCD6487&\4a&HFF&}Let me hear about all of your tears
