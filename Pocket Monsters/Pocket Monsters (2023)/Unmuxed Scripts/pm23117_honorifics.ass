@@ -29,7 +29,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.36,0:00:02.73,Main,Taro,0,0,0,,Ult-san!{116 start}
 Dialogue: 10,0:00:02.73,0:00:05.36,Main,Ult,0,0,0,,Gah! You {\i1}again?{\i0}
-Dialogue: 10,0:00:05.36,0:00:08.70,Main,Taro,0,0,0,,Do you... wish to get stronger?
+Dialogue: 10,0:00:05.36,0:00:08.11,Main,Taro,0,0,0,,Do you... wish to get stronger?
 Dialogue: 10,0:00:08.70,0:00:09.99,Main,Ult,0,0,0,,‘Course!
 Dialogue: 10,0:00:10.49,0:00:11.82,Main,Taro,0,0,0,,Then...
 Dialogue: 10,0:00:11.82,0:00:13.45,Main,Taro,0,0,0,,...let’s study!{116 end}
@@ -130,7 +130,8 @@ Dialogue: 10,0:07:07.32,0:07:11.37,Main,Ult,0,0,0,,Well, I did promise and all..
 Dialogue: 10,0:07:11.74,0:07:14.62,Main,Taro,0,0,0,,First, let’s begin by properly \N expanding your knowledge.
 Dialogue: 10,0:07:14.62,0:07:16.67,Main,Taro,0,0,0,,Pokémon Quiz time!
 Dialogue: 10,0:07:16.67,0:07:17.63,Main,Ult,0,0,0,,Huh?
-Dialogue: 10,0:07:19.63,0:07:23.05,Main,Briar,0,0,0,,Mmm... Eighteen types \N that resonate with Terapagos, huh...?
+Dialogue: 10,0:07:18.08,0:07:19.63,Main,Briar,0,0,0,,Mmm...
+Dialogue: 10,0:07:19.63,0:07:23.05,Main,Briar,0,0,0,,Eighteen types that resonate \N with Terapagos, huh...?
 Dialogue: 10,0:07:24.34,0:07:25.42,Main,Briar,0,0,0,,Hmm...
 Dialogue: 10,0:07:25.42,0:07:27.18,Main,Briar,0,0,0,,Something bothers me about that...
 Dialogue: 10,0:07:28.64,0:07:31.14,Main,Dot,0,0,0,,Now she’s deep in thought \N out of nowhere...?
@@ -167,7 +168,7 @@ Dialogue: 10,0:09:11.16,0:09:15.74,Main,Ult,0,0,0,,Hey, is this the training? \N
 Dialogue: 10,0:09:15.74,0:09:18.54,Main,Taro,0,0,0,,I’m looking for things \N to hold quizzes on.
 Dialogue: 10,0:09:22.21,0:09:25.17,Main,Roy,0,0,0,,Chilling, chilling...
 Dialogue: 10,0:09:27.80,0:09:28.51,Main,Ult,0,0,0,,Huh?
-Dialogue: 10,0:09:28.51,0:09:31.43,Main,Ult,0,0,0,,Roy! What’re you doing?!
+Dialogue: 10,0:09:28.51,0:09:30.88,Main,Ult,0,0,0,,Roy! What’re you doing?!
 Dialogue: 10,0:09:31.43,0:09:33.05,Main,Roy,0,0,0,,Ult...
 Dialogue: 10,0:09:33.05,0:09:39.93,Main,Roy,0,0,0,,We’re copying Namakero. \N For our “chilling” training. Right, Achigator?
 Dialogue: 10,0:09:41.89,0:09:43.40,Main,Ult,0,0,0,,Chilling?
