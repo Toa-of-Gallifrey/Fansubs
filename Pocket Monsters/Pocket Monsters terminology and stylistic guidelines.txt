@@ -337,7 +337,7 @@ juuman boruto １０まんぼると (Thunderbolt) - 100,000 Volts
 juuryoku じゅうりょく (Gravity) - Gravity
 kaen booru かえんボール (Pyro Ball) - Pyro Ball
 kaen guruma かえんぐるま (Flame Wheel) - Flame Wheel
-kaen no mamori かえんのまもり (Burning Bulwark) - # TBD #
+kaen no mamori かえんのまもり (Burning Bulwark) - Fiery Guard
 kaendan かえんだん (Searing Shot) - # TBD #
 kaenhousha かえんほうしゃ (Flamethrower) - Flamethrower
 kafun dango かふんだんご (Pollen Puff) - Pollen Dumpling
@@ -422,7 +422,7 @@ kuroi kiri くろいきり (Haze) - Black Fog
 kuroi manazashi くろいまなざし (Mean Look) - # TBD #
 kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
 kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
-kurosu fureimu クロスフレイム (Fusion Flare) - # TBD #
+kurosu fureimu クロスフレイム (Fusion Flare) - Cross Flame
 kurosu poizun クロスポイズン (Cross Poison) - Cross Poison
 kurosu sandaa クロスサンダー (Fusion Bolt) - # TBD #
 kusa musubi くさむすび (Grass Knot) - # TBD #
@@ -818,7 +818,7 @@ wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
 wandaa ruumu ワンダールーム (Wonder Room) - Wonder Room
 wandaa suchiimu ワンダースチーム (Strange Steam) - Wonder Steam
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
-waruagaki わるあがき (Struggle) - Struggle in Vain [subject to change]
+waruagaki わるあがき (Struggle) - Vain Struggle
 waruwaru zoon わるわるゾーン (Baddy Bad) - # TBD #
 wata houshi わたほうし (Cotton Spore) - Cotton Spores
 yadorigi no tane やどりぎのタネ (Leech Seed) - # TBD #
@@ -1071,7 +1071,7 @@ kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
 kansou hada かんそうはだ (Dry Skin) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
 karuwaza かるわざ (Unburden) - # TBD #
-kasoku かそく (Speed Boost) - # TBD #
+kasoku かそく (Speed Boost) - Speed Boost
 katai tsume かたいツメ (Tough Claws) - Tough Claws
 katayaburi かたやぶり (Mold Breaker) - Mold Breaker
 kawari mono かわりもの (Imposter) - # TBD #
@@ -1166,8 +1166,8 @@ saafu teeru サーフテール (Surge Surfer) - # TBD #
 saiko meikaa サイコメイカー (Psychic Surge) - Psycho Maker
 saiseiryoku さいせいりょく (Regenerator) - # TBD #
 samayou tamashii さまようたましい (Wandering Spirit) - # TBD #
-samehada さめはだ (Rough Skin) - # TBD #
-san pawaa サンパワー (Solar Power) - # TBD #
+samehada さめはだ (Rough Skin) - Rough Skin
+san pawaa サンパワー (Solar Power) - Sun Power
 seidenki せいでんき (Static) - Static
 seigi no kokoro せいぎのこころ (Justified) - Heart of Justice
 seishinryoku せいしんりょく (Inner Focus) - Force of Will
@@ -1196,7 +1196,7 @@ sukiru rinku スキルリンク (Skill Link) - Skill Link
 suna haki すなはき (Sand Spit) - # TBD #
 suna no chikara すなのちから (Sand Force) - Sand Power
 suna okoshi すなおこし (Sand Stream) - Raising Sand
-sunagakure すながくれ (Sand Veil) - # TBD #
+sunagakure すながくれ (Sand Veil) - Sand Cloak
 sunaipaa スナイパー (Sniper) - Sniper
 sunakaki すなかき (Sand Rush) - # TBD #
 surinuke すりぬけ (Infiltrator) - # TBD #
@@ -1242,7 +1242,7 @@ youryokuso ようりょくそ (Chlorophyll) - # TBD #
 yowaki よわき (Defeatist) - # TBD #
 yuki furashi ゆきふらし (Snow Warning) - # TBD #
 yuki kaki ゆきかき (Slush Rush) - # TBD #
-yukigakure ゆきがくれ (Snow Cloak) - # TBD #
+yukigakure ゆきがくれ (Snow Cloak) - Snow Cloak
 yuubaku ゆうばく (Aftermath) - Induced Explosion
 zero foomingu ゼロフォーミング (Teraform Zero) - Zero-Forming
 zettai nemuri ぜったいねむり (Comatose) - Hyper Sleep
