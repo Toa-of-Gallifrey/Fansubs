@@ -2193,7 +2193,7 @@ POKÉMON NAMES
 0940 カイデン Kaiden - うみつばめポケモン Storm Petrel Pokémon
 0941 タイカイデン Taikaiden - ぐんかんどりポケモン Frigatebird Pokémon
 0942 オラチフ Orachiff - わかぞうポケモン 
-0943 マフィティフ 
+0943 マフィティフ Mafitiff - おやぶんポケモン 
 0944 シルシュルー 
 0945 タギングル Taggingru - どくざるポケモン Poison Monkey Pokémon
 0946 アノクサ Anokusa - ころがりぐさポケモン Tumbleweed Pokémon
