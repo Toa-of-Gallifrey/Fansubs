@@ -1007,7 +1007,7 @@ fushigi na uroko ふしぎなうろこ (Marvel Scale) - # TBD #
 fushigi na mamori ふしぎなまもり (Wonder Guard) - # TBD #
 fushoku ふしょく (Corrosion) - # TBD #
 futou no ken ふとうのけん (Intrepid Sword) - # TBD #
-fuuryoku denki ふうりょくでんき (Wind Power) - # TBD #
+fuuryoku denki ふうりょくでんき (Wind Power) - Wind Power
 fuyuu ふゆう (Levitate) - # TBD #
 ganjou がんじょう (Sturdy) - # TBD #
 ganjou ago がんじょうあご (Strong Jaw) - # TBD #
@@ -1053,7 +1053,7 @@ ishi atama いしあたま (Rock Head) - Rock Head
 itazura gokoro いたずらごころ (Prankster) - # TBD #
 iwahakobi いわはこび (Rocky Payload) - # TBD #
 iyashi no kokoro いやしのこころ (Healer) - Healing Heart
-jikyuuryoku じきゅうりょく (Stamina) - # TBD #
+jikyuuryoku じきゅうりょく (Stamina) - Stamina
 jinba ittai じんばいったい (As One) - # TBD #
 jiryoku じりょく (Magnet Pull) - # TBD #
 jishin kajou じしんかじょう (Moxie) - # TBD #
@@ -1164,7 +1164,7 @@ rinpun りんぷん (Shield Dust) - # TBD #
 ryuu no agito りゅうのあぎと (Dragon's Maw) - # TBD #
 saafu teeru サーフテール (Surge Surfer) - # TBD #
 saiko meikaa サイコメイカー (Psychic Surge) - Psycho Maker
-saiseiryoku さいせいりょく (Regenerator) - # TBD #
+saiseiryoku さいせいりょく (Regenerator) - Regenerative Power
 samayou tamashii さまようたましい (Wandering Spirit) - # TBD #
 samehada さめはだ (Rough Skin) - Rough Skin
 san pawaa サンパワー (Solar Power) - Sun Power
@@ -1781,7 +1781,7 @@ POKÉMON NAMES
 0528 ココロモリ Kokoromori - きゅうあいポケモン 
 0529 モグリュー Mogurew - もぐらポケモン Mole Pokémon
 0530 ドリュウズ Doryuuzu - ちていポケモン Subterrene Pokémon
-0531 タブンネ Tabunne - ヒヤリングポケモン 
+0531 タブンネ Tabunne - ヒヤリングポケモン Hearing Pokémon
 0532 ドッコラー Dokkorar - きんこつポケモン Muscular Pokémon
 0533 ドテッコツ Dotekkotsu - きんこつポケモン Muscular Pokémon
 0534 ローブシン Roubushin - きんこつポケモン Muscular Pokémon
