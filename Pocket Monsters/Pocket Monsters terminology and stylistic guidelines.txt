@@ -427,7 +427,7 @@ kurosu poizun クロスポイズン (Cross Poison) - Cross Poison
 kurosu sandaa クロスサンダー (Fusion Bolt) - # TBD #
 kusa musubi くさむすび (Grass Knot) - # TBD #
 kusa no chikai くさのちかい (Grass Pledge) - Grass Pledge
-kusawake くさわけ (Trailblaze) - # TBD #
+kusawake くさわけ (Trailblaze) - Trailblaze
 kusabue くさぶえ (Grass Whistle) - # TBD #
 kusuguru くすぐる (Tickle) - Tickle
 kyojuudan きょじゅうだん (Behemoth Bash) - # TBD #
@@ -969,7 +969,7 @@ chidori ashi ちどりあし (Tangled Feet) - # TBD #
 chikara mochi ちからもち (Huge Power) - Powerhouse
 chikara zuku ちからずく (Sheer Force) - # TBD #
 chikuden ちくでん (Volt Absorb) - Electricity Reserve
-chosui ちょすい (Water Absorb) - # TBD #
+chosui ちょすい (Water Absorb) - Water Storage
 daaku oora ダークオーラ (Dark Aura) - Dark Aura
 dappai だっぴ (Shed Skin) - # TBD #
 daruma moodo ダルマモード (Zen Mode) - Daruma Mode
@@ -1088,7 +1088,7 @@ kizuna henge きずなへんげ (Battle Bond) - # TBD #
 kobore dane こぼれダネ (Seed Sower) - Falling Seeds
 kodaikassei こだいかっせい (Protosynthesis) - Ancient Activation
 kongari bodi こんがりボディ (Well-Baked Body) - # TBD #
-konjou こんじょう (Guts) - # TBD #
+konjou こんじょう (Guts) - Guts
 koori no rinpun こおりのりんぷん (Ice Scales) - # TBD #
 kudakeru yoroi くだけるよろい (Weak Armor) - Breaking Armor
 kuikku doroo クイックドロウ (Quick Draw) - Quick Draw
