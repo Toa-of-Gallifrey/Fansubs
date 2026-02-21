@@ -181,7 +181,7 @@ furawaa gaado フラワーガード (Flower Shield) - # TBD #
 furawaa hiiru フラワーヒール (Floral Healing) - # TBD #
 furea doraibu フレアドライブ (Flare Blitz) - Flare Drive
 furea songu フレアソング (Torch Song) - Flare Song
-furii fooru フリーフォール (Sky Drop) - Freefall
+furiifooru フリーフォール (Sky Drop) - Freefall
 furiizu boruto フリーズボルト (Freeze Shock) - # TBD #
 furiizu dorai フリーズドライ (Freeze-Dry) - Freeze-Dry
 furui tateru ふるいたてる (Work Up) - Work Up
@@ -1137,7 +1137,7 @@ nige ashi にげあし (Run Away) - # TBD #
 nigegoshi にげごし (Wimp Out) - # TBD #
 noo gaado ノーガード (No Guard) - No Guard
 noo tenki ノーてんき (Cloud Nine) - # TBD #
-noomaru sukin ノーマルスキン (Normalize) - # TBD #
+noomaru sukin ノーマルスキン (Normalize) - Normal Skin
 noroware bodi のろわれボディ (Cursed Body) - Cursed Body
 numenume ぬめぬめ (Gooey) - # TBD #
 odoriko おどりこ (Dancer) - # TBD #
@@ -1190,7 +1190,7 @@ suihou すいほう (Water Bubble) - # TBD #
 suisui すいすい (Swift Swim) - Swift Swim
 suiito beeru スイートベール (Sweet Veil) - Sweet Veil
 sujiganeiri すじがねいり (Stalwart) - # TBD #
-sukai sukin スカイスキン (Aerilate) - # TBD #
+sukai sukin スカイスキン (Aerilate) - Sky Skin
 sukuryuu obire スクリューおびれ (Propeller Tail) - # TBD #
 sukiru rinku スキルリンク (Skill Link) - Skill Link
 suna haki すなはき (Sand Spit) - # TBD #
@@ -2163,8 +2163,8 @@ POKÉMON NAMES
 0910 アチゲータ Achigator - ほのおワニポケモン Fire Croc Pokémon
 0911 ラウドボーン Loudbone - シンガーポケモン Singer Pokémon
 0912 クワッス Kuwassu - こがもポケモン Duckling Pokémon
-0913 ウェルカモ Welcamo - レッスンポケモン 
-0914 ウェーニバル
+0913 ウェルカモ Welcamo - レッスンポケモン Lesson Pokémon
+0914 ウェーニバル Wanival - ダンサーポケモン Dancer Pokémon
 0915 グルトン Gourton - ぶたポケモン Pig Pokémon
 0916 パフュートン Perfuton - ぶたポケモン Pig Pokémon
 0917 タマンチュラ Tamantula - いとだまポケモン 
