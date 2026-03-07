@@ -70,6 +70,7 @@ buchikamashi ぶちかまし (Headlong Rush) - # TBD #
 buibui bureiku ブイブイブレイク (Veevee Volley) - # TBD #
 bukimi na juumon ぶきみなじゅもん (Eerie Spell) - # TBD #
 bunmawasu ぶんまわす (Brutal Swing) - Brutal Swing
+buraddo muun ブラッドムーン (Blood Moon) - Blood Moon
 burasuto baan ブラストバーン (Blast Burn) - Blast Burn
 bureibu baado ブレイブバード (Brave Bird) - Brave Bird
 bureibu chaaji ブレイブチャージ (Take Heart) - # TBD #
@@ -237,7 +238,7 @@ hametsu no hikari はめつのひかり (Light of Ruin) - # TBD #
 hametsu no negai はめつのねがい (Doom Desire) - # TBD #
 hana fubuki はなふぶき (Petal Blizzard) - Petal Blizzard
 hanabira no mai はなびらのまい (Petal Dance) - # TBD #
-hane yasume はねやすめ (Roost) - Roost [subject to change]
+hane yasume はねやすめ (Roost) - Roost
 haneru はねる (Splash) - Flop
 happa kattaa はっぱカッター (Razor Leaf) - Leaf Cutter
 happii taimu ハッピータイム (Happy Hour) - # TBD #
@@ -418,7 +419,7 @@ kumo no su クモのす (Spider Web) - # TBD #
 kurabbu hammaa クラブハンマー (Crabhammer) - Crabhammer
 kuraitsuku くらいつく (Jaw Lock) - # TBD #
 kuria sumoggu クリアスモッグ (Clear Smog) - Clear Smog
-kuroi kiri くろいきり (Haze) - Black Fog
+kuroi kiri くろいきり (Haze) - Black Mist
 kuroi manazashi くろいまなざし (Mean Look) - # TBD #
 kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
 kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
@@ -570,7 +571,7 @@ oshaberi おしゃべり (Chatter) - # TBD #
 oshioki おしおき (Punishment) - # TBD #
 otakebi おたけび (Noble Roar) - War Cry
 oufuku binta おうふくビンタ (Double Slap) - Round-Trip Slap
-oumu gaeshi オウムがえし (Mirror Move) - Parrot Mimicry [subject to change]
+oumu gaeshi オウムがえし (Mirror Move) - Parrot Mimicry
 parabora chaaji パラボラチャージ (Parabolic Charge) - # TBD #
 pawaa jemu パワージェム (Power Gem) - Power Gem
 pawaa shea パワーシェア (Power Split) - # TBD #
@@ -582,7 +583,7 @@ pikapika sandaa ピカピカサンダー (Pika Papow) - # TBD #
 piyopiyo panchi ピヨピヨパンチ (Dizzy Punch) - Chirp-Chirp Punch
 poizun teeru ポイズンテール (Poison Tail) - Poison Tail
 porutaagaisuto ポルターガイスト (Poltergeist) - Poltergeist
-purazuma fisuto プラズマフィスト (Plasma Fists) - Plasma Fists [subject to change]
+purazuma fisuto プラズマフィスト (Plasma Fists) - Plasma Fist
 purazuma shawaa プラズマシャワー (Ion Deluge) - Plasma Shower
 purezento プレゼント (Present) - Present
 purizumu reezaa プリズムレーザー (Prismatic Laser) - Prism Laser
@@ -596,7 +597,7 @@ reitou biimu れいとうビーム (Ice Beam) - Ice Beam
 reitou panchii れいとうパンチ (Ice Punch) - Ice Punch
 rengoku れんごく (Inferno) - Purgatory
 renzoku giri れんぞくぎり (Fury Cutter) - Consecutive Cut
-renzoku panchi れんぞくパンチ (Comet Punch) - Consecutive Punch [subject to change]
+renzoku panchi れんぞくパンチ (Comet Punch) - Consecutive Punch
 ribenji リベンジ (Revenge) - Revenge
 rifurektaa リフレクター (Reflect) - Reflector
 rifuresshu リフレッシュ (Refresh) - Refresh
@@ -681,7 +682,7 @@ shita de nameru したでなめる (Lick) - # TBD #
 shitto no honoo しっとのほのお (Burning Jealousy) - # TBD #
 shizaa kurosu シザークロス (X-Scissor) - Scissor Cross
 shizen no chikara しぜんのちから (Nature Power) - # TBD #
-shizen no ikari しぜんのいかり (Nature's Madness) - Nature's Wrath [subject to change]
+shizen no ikari しぜんのいかり (Nature's Madness) - Nature's Wrath
 shizen no megumi しぜんのめぐみ (Natural Gift) - # TBD #
 shoori no mai しょうりのまい (Victory Dance) - # TBD #
 sonikku buumu ソニックブーム (Sonic Boom) - Sonic Boom
@@ -691,7 +692,7 @@ sora o tobu そらをとぶ (Fly) - Fly
 souden そうでん (Electrify) - # TBD #
 sourubiito ソウルビート (Clangorous Soul) - Soulbeat
 souru kurasshu ソウルクラッシュ (Spirit Break) - Soul Crush
-suchiimu baasuto スチームバースト (Steam Eruption) - # TBD #
+suchiimu baasuto スチームバースト (Steam Eruption) - Steam Burst
 suiipu binta スイープビンタ (Tail Slap) - # TBD #
 suiryuu renda すいりゅうれんだ (Surging Strikes) - Pouring Strikes
 suitoru すいとる (Absorb) - # TBD #
@@ -706,7 +707,7 @@ sumoggu スモッグ (Smog) - # TBD #
 suna arashi すなあらし (Sandstorm) - Sandstorm
 suna jigoku すなじごく (Sand Tomb) - Sand Hell
 sunaatsume すなあつめ (Shore Up) - # TBD #
-sunakake すなかけ (Sand Attack) - Sand Attack [subject to change]
+sunakake すなかけ (Sand Attack) - Sand Attack
 supaaku スパーク (Spark) - Spark
 supiido sutaa スピードスター (Swift) - Speed Star
 supiido suwappu スピードスワップ (Speed Swap) - Speed Swap
@@ -755,7 +756,7 @@ tobihizageri とびひざげり (High Jump Kick) - High Jump Kick [subject to ch
 tobikakaru とびかかる (Lunge) - Lunge
 tobitsuku とびつく (Pounce) - Pounce
 todomebari とどめばり (Fell Stinger) - Finishing Sting
-toge kyanon とげキャノン (Spike Cannon) - Spike Cannon [subject to change]
+toge kyanon とげキャノン (Spike Cannon) - Spike Cannon
 togisumasu とぎすます (Laser Focus) - # TBD #
 toguro o maku とぐろをまく (Coil) - # TBD #
 tokeru とける (Acid Armor) - # TBD #
@@ -998,7 +999,7 @@ fukashi no kobushi ふかしのこぶし (Unseen Fist) - # TBD #
 fukugan ふくがん (Compound Eyes) - # TBD #
 fukutsu no kokoro ふくつのこころ (Steadfast) - Steadfast Heart
 fukutsu no tate ふくつのたて (Dauntless Shield) - # TBD #
-fumin ふみん (Insomnia) - # TBD #
+fumin ふみん (Insomnia) - Insomnia
 furawaa beeru フラワーベール (Flower Veil) - # TBD #
 furawaa gifuto フラワーギフト (Flower Gift) - # TBD #
 furendo gaado フレンドガード (Friend Guard) - # TBD #
@@ -2086,7 +2087,7 @@ POKÉMON NAMES
 0833 カムカメ Kamukame - くいつきポケモン Snapping Pokémon
 0834 カジリガメ Kajirigame - かみつきポケモン Bite Pokémon
 0835 ワンパチ Wanpachi - こいぬポケモン Puppy Pokémon
-0836 パルスワン 
+0836 パルスワン Pulsewan - いぬポケモン Dog Pokémon
 0837 タンドン Tandon - せきたんポケモン Coal Pokémon
 0838 トロッゴン Toroggon - せきたんポケモン Coal Pokémon
 0839 セキタンザン Sekitanzan - せきたんポケモン Coal Pokémon
@@ -2151,7 +2152,7 @@ POKÉMON NAMES
 0898 バドレックス 
 0899 アヤシシ 
 0900 バサギリ Basagiri - まさかりポケモン Battle-Axe Pokémon
-0901 ガチグマ 
+0901 ガチグマ Gachiguma - でいたんポケモン 
 0902 イダイトウ 
 0903 オオニューラ 
 0904 ハリーマン 
@@ -2177,7 +2178,7 @@ POKÉMON NAMES
 0924 ワッカネズミ Wakkanezumi - カップルポケモン Couple Pokémon
 0925 イッカネズミ Ikkanezumi - ファミリーポケモン Family Pokémon
 0926 パピモッチ Puppymocchi - こいぬポケモン Puppy Pokémon
-0927 バウッツェル
+0927 バウッツェル Bowtzel - いぬポケモン Dog Pokémon
 0928 ミニーブ Minive - オリーブポケモン Olive Pokémon
 0929 オリーニョ Oliño - オリーブポケモン Olive Pokémon
 0930 オリーヴァ Oliva - オリーブポケモン Olive Pokémon
@@ -2247,7 +2248,7 @@ POKÉMON NAMES
 0994 テツノドクガ 
 0995 テツノイバラ 
 0996 セビエ Sebie - こおりビレポケモン Ice Fin Pokémon
-0997 セゴール 
+0997 セゴール Segohru - こおりビレポケモン Ice Fin Pokémon
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
 0999 コレクレー Collecurei - たからばこポケモン Treasure Chest Pokémon | Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
 1000 サーフゴー Surfugo - たからものポケモン Treasure Pokémon
