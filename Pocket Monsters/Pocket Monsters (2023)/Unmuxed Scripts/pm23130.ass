@@ -327,7 +327,7 @@ Dialogue: 10,0:21:47.20,0:21:50.87,Main,Gurumin,0,0,0,,It’s time for Mega Guru
 Dialogue: 10,0:21:52.37,0:21:54.29,Main,Gurumin,0,0,0,,Mega Evolving today is...
 Dialogue: 10,0:21:54.29,0:21:56.88,Main,Gurumin,0,0,0,,The Genetic Pokémon, Mewtwo!
 Dialogue: 10,0:21:58.09,0:22:00.34,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
-Dialogue: 10,0:22:00.34,0:22:02.09,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
+Dialogue: 10,0:22:00.34,0:22:02.43,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
 Dialogue: 10,0:22:03.59,0:22:05.18,Main,Gurumin,0,0,0,,Its true form is...
 Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
@@ -347,8 +347,8 @@ Dialogue: 10,0:24:11.26,0:24:13.64,Main,Friede,0,0,0,,Even when I try to shake �
 Dialogue: 10,0:24:13.64,0:24:16.02,Main,Friede,0,0,0,,What exactly do they want with me?
 Dialogue: 10,0:24:16.02,0:24:19.23,Main,Friede,0,0,0,,We’ve gotta sort this out quick \N and get back to Liko and the others!
 Dialogue: 10,0:24:19.81,0:24:22.98,Main,Friede,0,0,0,,And so, to be continued \N next time on Pocket Monsters...
-Dialogue: 10,0:24:22.98,0:24:25.32,Main,Friede,0,0,0,,They’re Coming! They’re Assembling! The Allies{feels kinda bleh but idk what to do without completely rewording. nakama is same word as in Liko's narration just before the ED}
-Dialogue: 10,0:24:25.32,0:24:26.95,Main,Friede,0,0,0,,“Allies”?{lit: -tachi?} Meaning more than just us?
+Dialogue: 10,0:24:22.98,0:24:25.32,Main,Friede,0,0,0,,They’re Coming! They’re Assembling! Our Friends
+Dialogue: 10,0:24:25.32,0:24:26.95,Main,Friede,0,0,0,,“Friends”?{lit: -tachi?} Meaning more than just us?
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:01:02.96,0:01:07.59,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:01:07.96,0:01:16.26,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
@@ -8009,56 +8009,56 @@ Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=1612}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1607}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1608}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! The Allies
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1607}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1608}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}They're Comin{\fsp5}g{\fsp}! They're Assemblin{\fsp5}g{\fsp}! Our Friends
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
