@@ -1061,7 +1061,7 @@ jishin kajou じしんかじょう (Moxie) - # TBD #
 joukikan じょうききかん (Steam Engine) - # TBD #
 jo'ou no igen じょおうのいげん (Queenly Majesty) - # TBD #
 jukusei じゅくせい (Ripen) - # TBD #
-juunan じゅうなん (Limber) - # TBD #
+juunan じゅうなん (Limber) - Limber
 kabuto aamaa カブトアーマー (Battle Armor) - # TBD #
 kachiki かちき (Competitive) - # TBD #
 kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
@@ -1453,7 +1453,7 @@ POKÉMON NAMES
 0199 ヤドキング Yadoking - おうじゃポケモン Monarch Pokémon
 0200 ムウマ Muma - よなきポケモン Night Screeching Pokémon
 0201 アンノーン Unknown - シンボルポケモン Symbol Pokémon
-0202 ソーナンス Sonansu - がまんポケモン 
+0202 ソーナンス Sohnansu - がまんポケモン 
 0203 キリンリキ Kirinriki - くびながポケモン Long Neck Pokémon
 0204 クヌギダマ Kunugidama - みのむしポケモン Bagworm Pokémon
 0205 フォレトス Foretos - みのむしポケモン Bagworm Pokémon
@@ -1611,7 +1611,7 @@ POKÉMON NAMES
 0357 トロピウス Tropius - フルーツポケモン Fruit Pokémon
 0358 チリーン Chiriin - ふうりんポケモン 
 0359 アブソル Absol - わざわいポケモン Disaster Pokémon
-0360 ソーナノ Sonano - ほがらかポケモン 
+0360 ソーナノ Sohnano - ほがらかポケモン 
 0361 ユキワラシ Yukiwarashi - ゆきかさポケモン Snow Hat Pokémon
 0362 オニゴーリ Onigohri - がんめんポケモン Face Pokémon
 0363 タマザラシ Tamazarashi - てたたきポケモン 
@@ -2369,15 +2369,15 @@ tou-chan とうちゃん (Dada) - Dada
 
 Classic Team Rocket motto:
 Musashi: If you ask us about “this” or “that”...
-Kojiro: We’ll answer out of \N sympathy for the world!
+Kojirou: We’ll answer out of \N sympathy for the world!
 Musashi: To protect the world from devastation.
-Kojiro: To preserve world peace.
+Kojirou: To preserve world peace.
 Musashi: Championing the evils \N of truth and love.
-Kojiro: We’re the lovely, charming villains.
+Kojirou: We’re the lovely, charming villains.
 Musashi: Musashi!
-Kojiro: Kojiro!
+Kojirou: Kojirou!
 Musashi: The Team Rocket duo \N soars through the galaxy!
-Kojiro: Like a white hole, \N a white tomorrow awaits us!
+Kojirou: Like a white hole, \N a white tomorrow awaits us!
 Nyarth: Just kidding, meow!
 
 
