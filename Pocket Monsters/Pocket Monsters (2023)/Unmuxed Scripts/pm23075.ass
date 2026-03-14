@@ -320,12 +320,12 @@ Dialogue: 10,0:21:16.84,0:21:19.67,Main,Friede,0,0,0,,Guess we’ll just have to
 Dialogue: 10,0:21:19.67,0:21:22.76,Main,Liko,0,0,0,,Which is why we need \N to find the rest of the Six Heroes!
 Dialogue: 10,0:21:22.76,0:21:24.68,Main,Roy,0,0,0,,Entei and the black Rekkuuza!
 Dialogue: 10,0:21:24.68,0:21:27.18,Main,Dot,0,0,0,,But where do we start \N on {\i1}either{\i0} of them?
-Dialogue: 10,0:21:28.85,0:21:29.94,Main,Friede,0,0,0,,Sodayo!
+Dialogue: 10,0:21:28.85,0:21:29.94,Main,Friede,0,0,0,,Sohdayo!
 Dialogue: 10,0:21:28.85,0:21:29.94,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}That’s right!
 Dialogue: 10,0:21:30.39,0:21:31.69,Main,Liko,0,0,0,,Figure something out?
 Dialogue: 10,0:21:31.69,0:21:33.98,Main,Friede,0,0,0,,Nope, not a thing.
 Dialogue: 10,0:21:33.98,0:21:36.69,Main,Friede,0,0,0,,But when you don’t know something, \N it’s best to ask someone.
-Dialogue: 10,0:21:38.61,0:21:42.20,Main,Friede,0,0,0,,That’s right! Sodayo! \N We can ask him!
+Dialogue: 10,0:21:38.61,0:21:42.20,Main,Friede,0,0,0,,That’s right! Sohdayo! \N We can ask him!
 Dialogue: 10,0:21:54.96,0:21:56.59,Main,Agate,0,0,0,,You’re quite the zealous one.
 Dialogue: 10,0:21:58.84,0:22:02.59,Main,Agate,0,0,0,,Please, do take care not to allow \N Hamber to sniff us out.
 Dialogue: 10,0:22:02.59,0:22:04.09,Main,Spinel,0,0,0,,I will not slip.
@@ -353,9 +353,9 @@ Dialogue: 10,0:24:16.77,0:24:17.69,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fs
 Dialogue: 10,0:24:17.69,0:24:18.40,Main,Roy,0,0,0,,That’s right!
 Dialogue: 10,0:24:17.69,0:24:18.40,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}sou dayo
 Dialogue: 10,0:24:18.40,0:24:21.86,Main,Roy,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
-Dialogue: 10,0:24:21.86,0:24:22.65,Main,Liko,0,0,0,,Sonano?
+Dialogue: 10,0:24:21.86,0:24:22.65,Main,Liko,0,0,0,,Sohnano?
 Dialogue: 10,0:24:21.86,0:24:22.65,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}Is that right?
-Dialogue: 10,0:24:22.65,0:24:23.65,Main,Roy,0,0,0,,Sodayo!
+Dialogue: 10,0:24:22.65,0:24:23.65,Main,Roy,0,0,0,,Sohdayo!
 Dialogue: 10,0:24:22.65,0:24:23.65,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}That’s right!
 Dialogue: 10,0:24:23.65,0:24:25.03,Main,Dot,0,0,0,,Wait, that’s the title?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -948,56 +948,56 @@ Dialogue: 2,0:24:00.46,0:24:26.90,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:00.46,0:24:26.90,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:00.46,0:24:26.90,Episode titles,,0,0,0,,{=3}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=0}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 1,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
+Dialogue: 0,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=0}{\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 1,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\blur0.6\pos(960,700)\c&HFFFFFF&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&HFAFE1F&\clip(12.59,630.82,1904.19,673.58)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\clip(12.59,630.82,1904.19,673.58)\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(12.59,630.82,1904.19,673.58)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,630,1904,631)\pos(960,700)\bord0\shad0\blur0.6\c&HFAFE1F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,631,1904,632)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF81F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,632,1904,633)\pos(960,700)\bord0\shad0\blur0.6\c&HFAF31F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,633,1904,634)\pos(960,700)\bord0\shad0\blur0.6\c&HFBED1F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,634,1904,635)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE81F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,635,1904,636)\pos(960,700)\bord0\shad0\blur0.6\c&HFBE220&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,636,1904,637)\pos(960,700)\bord0\shad0\blur0.6\c&HFCDD20&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,637,1904,638)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD720&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,638,1904,639)\pos(960,700)\bord0\shad0\blur0.6\c&HFCD220&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,639,1904,640)\pos(960,700)\bord0\shad0\blur0.6\c&HFDCC20&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,640,1904,641)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC721&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,641,1904,642)\pos(960,700)\bord0\shad0\blur0.6\c&HFDC121&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,642,1904,643)\pos(960,700)\bord0\shad0\blur0.6\c&HFEBC21&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,643,1904,644)\pos(960,700)\bord0\shad0\blur0.6\c&HFEB621&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,644,1904,645)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,645,1904,646)\pos(960,700)\bord0\shad0\blur0.6\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,646,1904,647)\pos(960,700)\bord0\shad0\blur0.6\c&HF8AB29&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,647,1904,648)\pos(960,700)\bord0\shad0\blur0.6\c&HF2A530&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,648,1904,649)\pos(960,700)\bord0\shad0\blur0.6\c&HEBA038&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,649,1904,650)\pos(960,700)\bord0\shad0\blur0.6\c&HE59A3F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,650,1904,651)\pos(960,700)\bord0\shad0\blur0.6\c&HDE9446&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,651,1904,652)\pos(960,700)\bord0\shad0\blur0.6\c&HD88F4E&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,652,1904,653)\pos(960,700)\bord0\shad0\blur0.6\c&HD18955&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,653,1904,654)\pos(960,700)\bord0\shad0\blur0.6\c&HCB845D&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,654,1904,655)\pos(960,700)\bord0\shad0\blur0.6\c&HC47E64&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,655,1904,656)\pos(960,700)\bord0\shad0\blur0.6\c&HBE786B&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,656,1904,657)\pos(960,700)\bord0\shad0\blur0.6\c&HB77373&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,657,1904,658)\pos(960,700)\bord0\shad0\blur0.6\c&HB16D7A&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,658,1904,659)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,659,1904,660)\pos(960,700)\bord0\shad0\blur0.6\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,660,1904,661)\pos(960,700)\bord0\shad0\blur0.6\c&HA1628B&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,661,1904,662)\pos(960,700)\bord0\shad0\blur0.6\c&H985C95&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,662,1904,663)\pos(960,700)\bord0\shad0\blur0.6\c&H8F569E&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,663,1904,664)\pos(960,700)\bord0\shad0\blur0.6\c&H8650A8&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,664,1904,665)\pos(960,700)\bord0\shad0\blur0.6\c&H7D4BB2&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,665,1904,666)\pos(960,700)\bord0\shad0\blur0.6\c&H7445BB&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,666,1904,667)\pos(960,700)\bord0\shad0\blur0.6\c&H6A3FC5&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,667,1904,668)\pos(960,700)\bord0\shad0\blur0.6\c&H6139CE&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,668,1904,669)\pos(960,700)\bord0\shad0\blur0.6\c&H5834D8&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,669,1904,670)\pos(960,700)\bord0\shad0\blur0.6\c&H4F2EE2&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,670,1904,671)\pos(960,700)\bord0\shad0\blur0.6\c&H4628EB&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,671,1904,672)\pos(960,700)\bord0\shad0\blur0.6\c&H3D22F5&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,672,1904,673)\pos(960,700)\bord0\shad0\blur0.6\c&H341DFF&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1}{\bord0\shad0\blur0.6\pos(960,700)\c&H341DFF&\clip(14.88,673,1904.19,1050.25)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]

@@ -32,13 +32,13 @@ Dialogue: 10,0:00:05.36,0:00:09.99,Main,Liko,0,0,0,,who told us about how she me
 Dialogue: 10,0:00:11.37,0:00:15.25,Main,Liko,0,0,0,,With Terapagos—Pagogo, that is—\N now entrusted to me by Rystal{Honorifics note: Rystal-san},
 Dialogue: 10,0:00:15.25,0:00:19.46,Main,Liko,0,0,0,,we set out for our next destination \N in the search for the Six Heroes.
 Dialogue: 10,0:00:24.46,0:00:28.84,Main,Friede,0,0,0,,So, I realized who the best person to ask \N about Entei’s whereabouts is...
-Dialogue: 10,0:00:28.84,0:00:31.39,Main,Friede,0,0,0,,We should ask Sodayo.
+Dialogue: 10,0:00:28.84,0:00:31.39,Main,Friede,0,0,0,,We should ask Sohdayo.
 Dialogue: 10,0:00:31.39,0:00:32.60,Main,Murdock,0,0,0,,Huh?
 Dialogue: 10,0:00:31.39,0:00:32.60,Main,Murdock,0,0,0,,{\an8}Mm...
-Dialogue: 10,0:00:32.60,0:00:34.18,Main,Murdock,0,0,0,,Sodayo, huh...?
-Dialogue: 10,0:00:34.18,0:00:35.39,Main,Orio,0,0,0,,Sodayo, right...
-Dialogue: 10,0:00:35.39,0:00:36.60,Main,Landau,0,0,0,,Sodayo...
-Dialogue: 10,0:00:36.60,0:00:38.31,Main,Liko,0,0,0,,Sodayo was...
+Dialogue: 10,0:00:32.60,0:00:34.18,Main,Murdock,0,0,0,,Sohdayo, huh...?
+Dialogue: 10,0:00:34.18,0:00:35.39,Main,Orio,0,0,0,,Sohdayo, right...
+Dialogue: 10,0:00:35.39,0:00:36.60,Main,Landau,0,0,0,,Sohdayo...
+Dialogue: 10,0:00:36.60,0:00:38.31,Main,Liko,0,0,0,,Sohdayo was...
 Dialogue: 10,0:00:38.31,0:00:39.39,Main,Roy,0,0,0,,...someone’s name?
 Dialogue: 10,0:00:40.10,0:00:41.94,Main,Molly,0,0,0,,I’m against it!
 Dialogue: 10,0:00:41.94,0:00:43.86,Main,Molly,0,0,0,,Asking him {\i1}anything{\i0} is a waste of time!{Any [time spent] listening to what he has to say is wasted!}
@@ -46,7 +46,7 @@ Dialogue: 10,0:00:44.90,0:00:46.03,Main,Friede,0,0,0,,Aw, c’mon now...
 Dialogue: 10,0:00:46.03,0:00:47.61,Main,Friede,0,0,0,,He {\i1}did{\i0} use to be one of us.
 Dialogue: 10,0:00:47.61,0:00:49.28,Main,Liko,0,0,0,,“One of us”...
 Dialogue: 10,0:00:49.28,0:00:51.45,Main,Liko,0,0,0,,He was in the Rising Voltteccers?
-Dialogue: 10,0:00:51.45,0:00:53.87,Main,Dot,0,0,0,,I’ve never heard of \N this Sodayo guy before, though...
+Dialogue: 10,0:00:51.45,0:00:53.87,Main,Dot,0,0,0,,I’ve never heard of \N this Sohdayo guy before, though...
 Dialogue: 10,0:00:54.28,0:00:57.79,Main,Murdock,0,0,0,,That’s ‘cause he left the ship \N before you came aboard, Dot.
 Dialogue: 10,0:00:57.79,0:00:59.54,Main,Murdock,0,0,0,,He was technically Molly’s senior.{He was Molly’s senior by a smidge.}
 Dialogue: 10,0:00:59.54,0:01:01.50,Main,Molly,0,0,0,,By two measly days!{Only by two days!}
@@ -62,7 +62,7 @@ Dialogue: 10,0:01:23.94,0:01:25.36,Main,Friede,0,0,0,,Didn’t I mention?
 Dialogue: 10,0:01:25.86,0:01:27.40,Main,Molly,0,0,0,,No, you freaking didn’t!
 Comment: 0,0:01:27.40,0:01:27.40,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:57.49,0:02:57.49,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:09.21,0:03:11.50,Main,Murdock,0,0,0,,So, this is where Sodayo’s headed?
+Dialogue: 10,0:03:09.21,0:03:11.50,Main,Murdock,0,0,0,,So, this is where Sohdayo’s headed?
 Dialogue: 10,0:03:11.92,0:03:13.76,Main,Friede,0,0,0,,Doesn’t look like he’s here yet.
 Dialogue: 10,0:03:15.17,0:03:16.88,Main,Orio,0,0,0,,Molly said she doesn’t wanna see him.
 Dialogue: 10,0:03:17.26,0:03:20.18,Main,Murdock,0,0,0,,Like oil and water, those two...
@@ -93,7 +93,7 @@ Dialogue: 10,0:05:02.32,0:05:03.99,Main,Liko,0,0,0,,What should we do?
 Dialogue: 10,0:05:07.08,0:05:09.21,Main,Sohdayo,0,0,0,,Ooh, now {\i1}this{\i0} is a scoop!
 Dialogue: 10,0:05:09.87,0:05:12.42,Main,Sohdayo,0,0,0,,“What Provoked Rikikirin’s \N Burning Rage?!
 Dialogue: 10,0:05:12.42,0:05:14.09,Main,Sohdayo,0,0,0,,“Was It the Savanna’s Curse?!”
-Dialogue: 10,0:05:14.09,0:05:15.71,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:05:14.09,0:05:15.71,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:05:14.09,0:05:15.71,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}Is that right?
 Dialogue: 10,0:05:15.71,0:05:18.63,Main,Dot,0,0,0,,Welcamo! Aim for the head \N and use Water Gun!
 Dialogue: 10,0:05:22.76,0:05:24.68,Main,Dot,0,0,0,,Roy! Attack from the other side!
@@ -112,7 +112,7 @@ Dialogue: 10,0:06:07.22,0:06:09.02,Main,Sohdayo,0,0,0,,I get the drift...{catchp
 Dialogue: 10,0:06:09.02,0:06:13.23,Main,Sohdayo,0,0,0,,You’re that rumored secret society \N that goes all over the place fighting Pokémon!
 Dialogue: 10,0:06:13.23,0:06:14.19,Main,Dot/Roy,0,0,0,,What?
 Dialogue: 10,0:06:14.19,0:06:15.02,Main,Liko,0,0,0,,Huh?
-Dialogue: 10,0:06:15.02,0:06:16.36,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:06:15.02,0:06:16.36,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:06:16.36,0:06:17.40,Main,Sohdayo,0,0,0,,That’s right!
 Dialogue: 10,0:06:17.98,0:06:24.11,Main,Sohdayo,0,0,0,,{\q2}Founded in sworn secrecy, the youngsters vigilantly \N await their chance to conquer the entire world!{shonenshojo}
 Dialogue: 10,0:06:24.11,0:06:25.53,Main,Sohdayo,0,0,0,,Now {\i1}this{\i0} is a scoop!
@@ -122,16 +122,16 @@ Dialogue: 10,0:06:29.24,0:06:30.45,Main,Sohdayo,0,0,0,,Tsk, tsk.
 Dialogue: 10,0:06:30.45,0:06:32.83,Main,Sohdayo,0,0,0,,The truth is what you make it!{catchphrase 2}
 Dialogue: 10,0:06:32.83,0:06:34.75,Main,Sohdayo,0,0,0,,Please, give me an interview.
 Dialogue: 10,0:06:34.75,0:06:35.50,Main,Sohdayo,0,0,0,,The name’s—
-Dialogue: 10,0:06:35.50,0:06:36.54,Main,Friede,0,0,0,,Sodayo!
+Dialogue: 10,0:06:35.50,0:06:36.54,Main,Friede,0,0,0,,Sohdayo!
 Dialogue: 10,0:06:37.92,0:06:39.71,Main,Sohdayo,0,0,0,,Oh! Friede!
 Dialogue: 10,0:06:46.64,0:06:48.93,Main,Sohdayo,0,0,0,,I can see you’re as stylish as ever, Cap!
 Dialogue: 10,0:06:49.93,0:06:50.93,Main,Kids,0,0,0,,{\i1}Huh?{\i0}
 Dialogue: 10,0:06:51.43,0:06:53.06,Main,Friede,0,0,0,,Let me introduce you guys.
 Dialogue: 10,0:06:54.02,0:06:56.02,Main,Friede,0,0,0,,This guy’s our old pal...
-Dialogue: 10,0:06:56.02,0:06:57.69,Main,Sohdayo,0,0,0,,Sotim da Yotim.
-Dialogue: 10,0:06:57.69,0:06:59.65,Main,Sohdayo,0,0,0,,Call me Sodayo.
-Dialogue: 10,0:06:59.65,0:07:02.07,Main,Sohdayo,0,0,0,,And this is my partner, Sonano.
-Dialogue: 10,0:07:02.44,0:07:04.07,Main,Sohnano,0,0,0,,Sonano!
+Dialogue: 10,0:06:56.02,0:06:57.69,Main,Sohdayo,0,0,0,,Sohtim da Yotim.
+Dialogue: 10,0:06:57.69,0:06:59.65,Main,Sohdayo,0,0,0,,Call me Sohdayo.
+Dialogue: 10,0:06:59.65,0:07:02.07,Main,Sohdayo,0,0,0,,And this is my partner, Sohnano.
+Dialogue: 10,0:07:02.44,0:07:04.07,Main,Sohnano,0,0,0,,Sohnano!
 Dialogue: 10,0:07:05.32,0:07:07.03,Main,Sohdayo,0,0,0,,Hey, hey, hey!
 Dialogue: 10,0:07:07.03,0:07:10.49,Main,Sohdayo,0,0,0,,So you youngsters joined \N the Rising Voltteccers!{shonenshojo}
 Dialogue: 10,0:07:10.49,0:07:13.83,Main,Sohdayo,0,0,0,,Murdock! Orio! Old man Landau! \N It’s been an age!
@@ -144,7 +144,7 @@ Dialogue: 10,0:07:31.01,0:07:34.43,Main,Sohdayo,0,0,0,,I travel the world tracki
 Dialogue: 10,0:07:34.43,0:07:35.85,Main,Roy,0,0,0,,Wow, that’s awesome!
 Dialogue: 10,0:07:35.85,0:07:38.48,Main,Dot,0,0,0,,A “truth-seeking Pokémon Journalist”?!
 Dialogue: 10,0:07:39.48,0:07:43.57,Main,Molly,0,0,0,,Orio! I can’t get my bed{the bed in my room} to fold up...
-Dialogue: 10,0:07:43.57,0:07:45.49,Main,Molly,0,0,0,,Gah! Sodayo!
+Dialogue: 10,0:07:43.57,0:07:45.49,Main,Molly,0,0,0,,Gah! Sohdayo!
 Dialogue: 10,0:07:45.49,0:07:48.99,Main,Sohdayo,0,0,0,,Wow, Molly! What happened to you?! \N Look at that hair! And those clothes!
 Dialogue: 10,0:07:49.37,0:07:49.95,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:07:49.95,0:07:51.41,Main,Roy,0,0,0,,Molly...
@@ -167,7 +167,7 @@ Dialogue: 10,0:08:27.65,0:08:29.53,Main,Friede,0,0,0,,Yeah. Actually, we—
 Dialogue: 10,0:08:29.53,0:08:30.66,Main,Sohdayo,0,0,0,,Say no more!{sub-catchphrase 1}
 Dialogue: 10,0:08:31.41,0:08:32.91,Main,Sohdayo,0,0,0,,I get the drift...{catchphrase 1}
 Dialogue: 10,0:08:32.91,0:08:35.87,Main,Sohdayo,0,0,0,,You want to know what I’ve been up to \N since way back when.
-Dialogue: 10,0:08:35.87,0:08:37.16,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:08:35.87,0:08:37.16,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:08:37.16,0:08:38.46,Main,Friede,0,0,0,,Huh? Not exac—
 Dialogue: 10,0:08:38.46,0:08:39.54,Main,Sohdayo,0,0,0,,Okay!
 Dialogue: 10,0:08:39.54,0:08:44.75,Main,Sohdayo,0,0,0,,I’ll regale you with the long and turbulent tale \N of my thousands of hardships.
@@ -181,9 +181,9 @@ Dialogue: 10,0:08:57.81,0:08:59.06,Main,Dot,0,0,0,,Look at this.
 Dialogue: 10,0:08:59.06,0:09:01.15,Main,Roy,0,0,0,,“Monthly Occulture”?
 Dialogue: 10,0:09:01.15,0:09:04.19,Main,Dot,0,0,0,,The number one long-running \N indie{B-grade, as in minor} occult mag in stores!
 Dialogue: 10,0:09:06.48,0:09:08.07,Main,Dot,0,0,0,,Here, check out this article!
-Dialogue: 10,0:09:08.07,0:09:12.95,Main,Liko,0,0,0,,“The Truth-Seeking Pokémon Journalist Sodayo \N Reveals Confidential Info!”?
+Dialogue: 10,0:09:08.07,0:09:12.95,Main,Liko,0,0,0,,“The Truth-Seeking Pokémon Journalist Sohdayo \N Reveals Confidential Info!”?
 Dialogue: 10,0:09:12.95,0:09:15.58,Main,Roy,0,0,0,,“Unfabricated True News”...{Lie-less truth news}
-Dialogue: 10,0:09:15.58,0:09:17.45,Main,Dot,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san} wrote this article!
+Dialogue: 10,0:09:15.58,0:09:17.45,Main,Dot,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san} wrote this article!
 Dialogue: 10,0:09:17.45,0:09:19.58,Main,Dot,0,0,0,,I {\i1}thought{\i0} I’d seen \N his name somewhere!
 Dialogue: 10,0:09:19.58,0:09:21.92,Main,Liko,0,0,0,,“The Hundred Faces of Pikachu”?
 Comment: 10,0:09:22.17,0:09:22.79,Main,Roy,0,0,0,,Ah!
@@ -197,9 +197,9 @@ Dialogue: 10,0:09:35.35,0:09:36.60,Main,Kids,0,0,0,,{\i1}Whoa!{\i0}
 Dialogue: 10,0:09:37.60,0:09:39.64,Main,Sohdayo,0,0,0,,Oh, that’s one of my articles!
 Dialogue: 10,0:09:39.64,0:09:41.94,Main,Sohdayo,0,0,0,,I get the drift, you guys.{catchphrase 1}
 Dialogue: 10,0:09:41.94,0:09:43.27,Main,Sohdayo,0,0,0,,You’re fans of mine!
-Dialogue: 10,0:09:43.27,0:09:44.06,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:09:43.27,0:09:44.06,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:09:44.06,0:09:45.02,Main,Dot,0,0,0,,That’s right!
-Dialogue: 10,0:09:45.02,0:09:45.86,Main,Dot,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}...
+Dialogue: 10,0:09:45.02,0:09:45.86,Main,Dot,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san}...
 Dialogue: 10,0:09:45.86,0:09:48.78,Main,Dot,0,0,0,,I read all of your \N Unfabricated True News articles!
 Dialogue: 10,0:09:48.78,0:09:51.82,Main,Dot,0,0,0,,Your unique angle when digging deep \N into mysteries is just so cool!
 Dialogue: 10,0:09:51.82,0:09:54.24,Main,Sohdayo,0,0,0,,Heh! You guys sound like \N you know your stuff!
@@ -209,7 +209,7 @@ Dialogue: 10,0:09:56.87,0:09:57.79,Main,Roy,0,0,0,,Really?!
 Dialogue: 10,0:09:57.79,0:09:58.66,Main,Dot,0,0,0,,B-B-But...
 Dialogue: 10,0:09:58.66,0:10:00.91,Main,Dot,0,0,0,,Reading news is way different \N from {\i1}being{\i0} news...
 Dialogue: 10,0:10:00.91,0:10:02.71,Main,Dot,0,0,0,,I bet it’s a real pain...
-Dialogue: 10,0:10:03.37,0:10:05.17,Main,Roy,0,0,0,,Hey, Mr. Sodayo{Honorifics note: Sodayo-san}! \N I’ve got a question!
+Dialogue: 10,0:10:03.37,0:10:05.17,Main,Roy,0,0,0,,Hey, Mr. Sohdayo{Honorifics note: Sohdayo-san}! \N I’ve got a question!
 Dialogue: 10,0:10:05.17,0:10:06.75,Main,Sohdayo,0,0,0,,Oh, what is it?
 Dialogue: 10,0:10:06.75,0:10:08.42,Main,Sohdayo,0,0,0,,I’ll answer anything.
 Dialogue: 10,0:10:08.42,0:10:09.63,Main,Roy,0,0,0,,We’re actually after En—{Actually, we, En[tei]--}
@@ -228,14 +228,14 @@ Dialogue: 10,0:10:35.32,0:10:38.49,Main,Roy,0,0,0,,And that you’ve never told 
 Dialogue: 10,0:10:38.49,0:10:41.79,Main,Dot,0,0,0,,And how pâtissiers the world over \N come after you for the recipe!
 Dialogue: 10,0:10:42.29,0:10:43.29,Main,Murdock,0,0,0,,Huh?
 Dialogue: 10,0:10:44.83,0:10:49.71,Main,Murdock,0,0,0,,I mean, I {\i1}did{\i0} make that... But its “popularity” \N was temporary, and limited to here on the ship.
-Dialogue: 10,0:10:49.71,0:10:52.09,Main,Murdock,0,0,0,,Have you been listening to \N Sodayo’s tall tales?
+Dialogue: 10,0:10:49.71,0:10:52.09,Main,Murdock,0,0,0,,Have you been listening to \N Sohdayo’s tall tales?
 Dialogue: 10,0:10:52.59,0:10:53.22,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:10:54.88,0:10:59.51,Main,Orio,0,0,0,,{\i1}I{\i0} made a super-fast ship \N that circumnavigated the globe?
 Dialogue: 10,0:10:59.51,0:11:02.06,Main,Liko,0,0,0,,Drawing out the power \N of Pokémon to the fullest!
 Dialogue: 10,0:11:02.06,0:11:04.94,Main,Roy,0,0,0,,And it was so fast, \N nobody could even see it!
 Dialogue: 10,0:11:04.94,0:11:07.40,Main,Dot,0,0,0,,Even the {\i1}sound{\i0} it made \N couldn’t keep up with it!
 Dialogue: 10,0:11:09.15,0:11:12.61,Main,Orio,0,0,0,,If I could make a ship like that, \N we’d be on it right now.
-Dialogue: 10,0:11:12.61,0:11:14.36,Main,Orio,0,0,0,,Sodayo came up with that, \N I imagine?
+Dialogue: 10,0:11:12.61,0:11:14.36,Main,Orio,0,0,0,,Sohdayo came up with that, \N I imagine?
 Dialogue: 10,0:11:14.90,0:11:16.11,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:11:17.49,0:11:19.74,Main,Sohdayo,0,0,0,,Hmm? That aura...
 Dialogue: 10,0:11:19.74,0:11:24.16,Main,Sohdayo,0,0,0,,You’re the Pokémon secretly commanding \N this ship from the shadows, are you not?
@@ -245,18 +245,18 @@ Dialogue: 10,0:11:40.72,0:11:42.18,Main,Liko,0,0,0,,Um...
 Dialogue: 10,0:11:42.18,0:11:47.31,Main,Sohdayo,0,0,0,,{\q2}Old man Landau is secretly hiding \N a tempered body of steel beneath his clothes.
 Dialogue: 10,0:11:48.23,0:11:51.27,Main,Sohdayo,0,0,0,,He’s actually a superhero, I tell ya!
 Dialogue: 10,0:11:56.49,0:11:58.53,Main,Dot,0,0,0,,There’s just no way...
-Dialogue: 10,0:12:01.70,0:12:02.79,Main,Liko,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}!
+Dialogue: 10,0:12:01.70,0:12:02.79,Main,Liko,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san}!
 Dialogue: 10,0:12:02.79,0:12:04.41,Main,Roy,0,0,0,,All of that was fake, wasn’t it?
 Dialogue: 10,0:12:04.41,0:12:06.08,Main,Sohdayo,0,0,0,,Was it, though?!
 Dialogue: 10,0:12:06.08,0:12:07.67,Main,Sohdayo,0,0,0,,The truth is what you make it!{catchphrase 2}
-Dialogue: 10,0:12:08.75,0:12:09.92,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:12:08.75,0:12:09.92,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:12:11.67,0:12:13.67,Main,Sohdayo,0,0,0,,And lastly, there’s Molly! She—
 Dialogue: 10,0:12:13.67,0:12:15.01,Main,Molly,0,0,0,,That’s enough out of you.
 Dialogue: 10,0:12:15.01,0:12:17.80,Main,Molly,0,0,0,,If you mess with them \N one more time,
 Dialogue: 10,0:12:17.80,0:12:20.51,Main,Molly,0,0,0,,I’ll have Lucky launch you \N to the stars{turn you into a star} with Tackle.{similar 0:07:59.04}
 Dialogue: 10,0:12:21.85,0:12:23.85,Main,Sohdayo,0,0,0,,Ooh, scary stuff!
 Dialogue: 10,0:12:23.85,0:12:27.60,Main,Sohdayo,0,0,0,,Just to think, you used to hang on \N my every word, crying out “My senior crewmate{Honorifics note: Senpai}!”...
-Dialogue: 10,0:12:27.60,0:12:29.56,Main,Molly,0,0,0,,Sodayo! How dare y—
+Dialogue: 10,0:12:27.60,0:12:29.56,Main,Molly,0,0,0,,Sohdayo! How dare y—
 Dialogue: 10,0:12:29.56,0:12:30.44,Main,Molly,0,0,0,,Ack!
 Dialogue: 10,0:12:30.44,0:12:31.40,Main,Molly,0,0,0,,Is that...?
 Dialogue: 10,0:12:31.40,0:12:32.11,Main,Liko,0,0,0,,What?
@@ -265,30 +265,30 @@ Dialogue: 10,0:12:33.61,0:12:34.69,Main,Roy,0,0,0,,...Molly?!
 Dialogue: 10,0:12:34.69,0:12:35.86,Main,Dot,0,0,0,,That’s crazy...
 Dialogue: 10,0:12:35.86,0:12:39.15,Main,Sohdayo,0,0,0,,Ain’t it? She was the perfect picture \N of a demure gal, right?
 Dialogue: 10,0:12:39.15,0:12:40.78,Main,Sohdayo,0,0,0,,That’s the unfabricated truth.
-Dialogue: 10,0:12:40.78,0:12:41.53,Main,Sohnano,0,0,0,,Sonano!
+Dialogue: 10,0:12:40.78,0:12:41.53,Main,Sohnano,0,0,0,,Sohnano!
 Dialogue: 10,0:12:41.53,0:12:42.49,Main,Molly,0,0,0,,Lucky!
 Dialogue: 10,0:12:49.87,0:12:51.75,Main,Molly,0,0,0,,And this time, stay gone!
 Dialogue: 10,0:12:51.75,0:12:54.21,Main,Liko,0,0,0,,I think now I understand...
 Dialogue: 10,0:12:54.21,0:12:56.51,Main,Dot,0,0,0,,...why Molly didn’t like him.
 Dialogue: 10,0:13:03.26,0:13:04.35,Main,Friede,0,0,0,,What’s that?
 Dialogue: 10,0:13:14.94,0:13:16.82,Main,Sohdayo,0,0,0,,My junior’s in a bad mood...
-Dialogue: 10,0:13:16.82,0:13:18.07,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:13:16.82,0:13:18.07,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:13:20.24,0:13:21.78,Main,Friede,0,0,0,,Honestly...
 Dialogue: 10,0:13:22.49,0:13:24.16,Main,Sohdayo,0,0,0,,You out here gathering info, too?
 Dialogue: 10,0:13:24.62,0:13:28.37,Main,Friede,0,0,0,,I’m concerned about the Rikikirin \N that attacked Liko and her friends.
 Dialogue: 10,0:13:28.37,0:13:30.04,Main,Sohdayo,0,0,0,,The savanna’s curse?
-Dialogue: 10,0:13:30.04,0:13:31.54,Main,Liko,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}!
+Dialogue: 10,0:13:30.04,0:13:31.54,Main,Liko,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san}!
 Dialogue: 10,0:13:33.00,0:13:34.04,Main,Dot,0,0,0,,You okay?
 Dialogue: 10,0:13:34.42,0:13:35.88,Main,Sohdayo,0,0,0,,Yeah, no sweat!
 Dialogue: 10,0:13:35.88,0:13:38.76,Main,Sohdayo,0,0,0,,I’m always getting roughed up \N when looking for news.
 Dialogue: 10,0:13:38.76,0:13:42.05,Main,Sohdayo,0,0,0,,Just the other day, I even went \N toe to toe with a Groudon!
-Dialogue: 10,0:13:42.05,0:13:43.30,Main,Sohnano,0,0,0,,Sonano?
-Dialogue: 10,0:13:43.30,0:13:46.43,Main,Liko,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}, we have \N something important to ask you.
+Dialogue: 10,0:13:42.05,0:13:43.30,Main,Sohnano,0,0,0,,Sohnano?
+Dialogue: 10,0:13:43.30,0:13:46.43,Main,Liko,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san}, we have \N something important to ask you.
 Dialogue: 10,0:13:46.43,0:13:47.10,Main,Liko,0,0,0,,We’re looki—
 Dialogue: 10,0:13:47.10,0:13:48.14,Main,Sohdayo,0,0,0,,Shh!
 Dialogue: 10,0:13:48.14,0:13:49.77,Main,Sohdayo,0,0,0,,I can hear Rikikirin.
 Dialogue: 10,0:13:49.77,0:13:51.27,Main,Sohdayo,0,0,0,,And more than just one.
-Dialogue: 10,0:13:51.27,0:13:51.77,Main,Sohnano,0,0,0,,Sonano!
+Dialogue: 10,0:13:51.27,0:13:51.77,Main,Sohnano,0,0,0,,Sohnano!
 Dialogue: 10,0:13:51.77,0:13:53.52,Main,Roy,0,0,0,,There he goes again...{He's doing that(bullshitting) again...}
 Dialogue: 10,0:14:00.78,0:14:02.45,Main,Liko,0,0,0,,They actually {\i1}are{\i0} coming!
 Comment: 0,0:14:07.45,0:14:07.45,Main,,0,0,0,,{Part C}
@@ -315,7 +315,7 @@ Dialogue: 10,0:15:40.04,0:15:40.92,Main,Dot,0,0,0,,Amazing...
 Dialogue: 10,0:15:40.92,0:15:42.00,Main,Sohdayo,0,0,0,,Could this be?
 Dialogue: 10,0:15:42.00,0:15:44.84,Main,Sohdayo,0,0,0,,“{An }Extraordinary Paranormal \N Phenomenon Ravages the Savanna?!
 Dialogue: 10,0:15:44.84,0:15:47.47,Main,Sohdayo,0,0,0,,“Is It the Harbinger \N of Unprecedented Catastrophe?!”
-Dialogue: 10,0:15:47.47,0:15:48.26,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:15:47.47,0:15:48.26,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:15:48.72,0:15:50.64,Main,Friede,0,0,0,,The {two }Psychic moves collided...
 Dialogue: 10,0:15:50.64,0:15:54.39,Main,Friede,0,0,0,,...and created some \N enigmatic power, perhaps?
 Dialogue: 10,0:15:57.27,0:15:58.27,Main,Molly,0,0,0,,What the...?!
@@ -347,16 +347,16 @@ Dialogue: 10,0:17:42.96,0:17:44.84,Main,Roy,0,0,0,,Good to see they’re getting
 Dialogue: 10,0:17:44.84,0:17:46.42,Main,Sohdayo,0,0,0,,Hey, hey, hey!
 Dialogue: 10,0:17:46.42,0:17:48.42,Main,Sohdayo,0,0,0,,I just got the biggest scoop \N of the century!
 Dialogue: 10,0:17:48.42,0:17:51.76,Main,Sohdayo,0,0,0,,Yet again, \N the unfabricated truth comes to light!
-Dialogue: 10,0:17:51.76,0:17:53.59,Main,Sohnano,0,0,0,,Sonano?
+Dialogue: 10,0:17:51.76,0:17:53.59,Main,Sohnano,0,0,0,,Sohnano?
 Dialogue: 10,0:17:54.80,0:17:57.89,Main,Sohdayo,0,0,0,,You helped me get \N some great material for Occulture!
 Dialogue: 10,0:17:57.89,0:17:59.77,Main,Sohdayo,0,0,0,,Thanks, guys!
-Dialogue: 10,0:18:00.14,0:18:01.44,Main,Liko,0,0,0,,So, Mr. Sodayo{Honorifics note: Sodayo-san}...
+Dialogue: 10,0:18:00.14,0:18:01.44,Main,Liko,0,0,0,,So, Mr. Sohdayo{Honorifics note: Sohdayo-san}...
 Dialogue: 10,0:18:01.44,0:18:03.98,Main,Roy,0,0,0,,We’ve got something \N we want to ask you!
 Dialogue: 10,0:18:03.98,0:18:04.94,Main,Roy,0,0,0,,Tell us...
 Dialogue: 10,0:18:04.94,0:18:06.40,Main,Kids,0,0,0,,{\i1}...about Entei!{\i0}
 Dialogue: 10,0:18:06.82,0:18:07.77,Main,Sohdayo,0,0,0,,Huh?
 Dialogue: 10,0:18:08.32,0:18:13.36,Main,Sohdayo,0,0,0,,{\q2}If it’s Entei you’re after, I heard something about \N a sighting at Asagi City in Johto{the Johto Region} recently...{delivery/phrasing comes across as 'wait you just wanted something as humdrum as an Entei? eh I guess someone said it was over there'}{tried to make the phrasing a bit more disinterested, and went with an ellipses to hopefully aid the feeling -ed}
-Dialogue: 10,0:18:13.36,0:18:14.99,Main,Sohnano,0,0,0,,Sonano!
+Dialogue: 10,0:18:13.36,0:18:14.99,Main,Sohnano,0,0,0,,Sohnano!
 Dialogue: 10,0:18:14.99,0:18:15.49,Main,Kids,0,0,0,,{\i1}Huh?{\i0}
 Dialogue: 10,0:18:16.74,0:18:18.45,Main,Sohdayo,0,0,0,,Wait, so...
 Dialogue: 10,0:18:18.45,0:18:21.62,Main,Sohdayo,0,0,0,,Was that all you wanted to ask me?
@@ -366,22 +366,22 @@ Dialogue: 10,0:18:28.59,0:18:30.55,Main,Molly,0,0,0,,Fatigue is a hotbed for ill
 Dialogue: 10,0:18:30.96,0:18:34.55,Main,Molly,0,0,0,,It’ll be a while ‘til we touch down in Johto{the Johto Region}, \N so make sure to get some rest.
 Dialogue: 10,0:18:34.55,0:18:36.43,Main,Liko,0,0,0,,Yeah. You should, too.
 Dialogue: 10,0:18:36.43,0:18:38.35,Main,Molly,0,0,0,,Oh, I’m used to it.
-Dialogue: 10,0:18:38.35,0:18:42.93,Main,Liko,0,0,0,,Hey, Molly... Do you think Mr. Sodayo{Honorifics note: Sodayo-san} \N was telling us the truth about Entei?
+Dialogue: 10,0:18:38.35,0:18:42.93,Main,Liko,0,0,0,,Hey, Molly... Do you think Mr. Sohdayo{Honorifics note: Sohdayo-san} \N was telling us the truth about Entei?
 Dialogue: 10,0:18:43.52,0:18:45.81,Main,Molly,0,0,0,,Yeah, no need to worry about that.
-Dialogue: 10,0:18:45.81,0:18:52.69,Main,Molly,0,0,0,,When Sonano eagerly cries “Sonano!”, \N you know Sodayo’s telling the truth.
+Dialogue: 10,0:18:45.81,0:18:52.69,Main,Molly,0,0,0,,When Sohnano eagerly cries “Sohnano!”, \N you know Sohdayo’s telling the truth.
 Dialogue: 10,0:18:45.81,0:18:52.69,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(1355,878)}That’s right!
 Dialogue: 10,0:18:52.69,0:18:53.82,Main,Liko,0,0,0,,Huh?
-Dialogue: 10,0:18:53.86,0:18:55.78,Main,Sohnano,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\t(0,356,\c&HFFFFFF&\3c&H000000&)\t(1399,1900,\c&HFFFFFF&\3c&HFFFFFF&)}Sonano!
-Dialogue: 10,0:18:56.16,0:18:59.58,Main,Molly,0,0,0,,They’ve been together so long \N that Sonano can always tell.
-Dialogue: 10,0:18:59.58,0:19:04.04,Main,Molly,0,0,0,,On the flipside, if you hear it asking “Sonano?”, \N you can’t be sure if it’s true or not.
+Dialogue: 10,0:18:53.86,0:18:55.78,Main,Sohnano,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\t(0,356,\c&HFFFFFF&\3c&H000000&)\t(1399,1900,\c&HFFFFFF&\3c&HFFFFFF&)}Sohnano!
+Dialogue: 10,0:18:56.16,0:18:59.58,Main,Molly,0,0,0,,They’ve been together so long \N that Sohnano can always tell.
+Dialogue: 10,0:18:59.58,0:19:04.04,Main,Molly,0,0,0,,On the flipside, if you hear it asking “Sohnano?”, \N you can’t be sure if it’s true or not.
 Dialogue: 10,0:18:59.58,0:19:04.04,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(1477,878)}Is that right?
 Dialogue: 10,0:19:04.04,0:19:05.54,Main,Liko,0,0,0,,I see...
 Dialogue: 10,0:19:05.54,0:19:06.79,Main,Liko,0,0,0,,Then we can relax?
 Dialogue: 10,0:19:06.79,0:19:09.42,Main,Molly,0,0,0,,Well, he did wind up \N with some good material,
 Dialogue: 10,0:19:09.42,0:19:11.76,Main,Molly,0,0,0,,so maybe that was his way \N of saying thanks.
 Dialogue: 10,0:19:11.76,0:19:13.72,Main,Molly,0,0,0,,Obnoxious or not, \N he {\i1}is{\i0} still a journalist.
-Dialogue: 10,0:19:13.72,0:19:18.39,Main,Liko,0,0,0,,Oh, so that means... When Mr. Sodayo{Honorifics note: Sodayo-san} \N was talking about how you used to be...
-Dialogue: 10,0:19:18.39,0:19:19.97,Main,Sohnano,0,0,0,,{\t(810,1560,\c&HFFFFFF&\3c&HFFFFFF&)}Sonano!
+Dialogue: 10,0:19:13.72,0:19:18.39,Main,Liko,0,0,0,,Oh, so that means... When Mr. Sohdayo{Honorifics note: Sohdayo-san} \N was talking about how you used to be...
+Dialogue: 10,0:19:18.39,0:19:19.97,Main,Sohnano,0,0,0,,{\t(810,1560,\c&HFFFFFF&\3c&HFFFFFF&)}Sohnano!
 Dialogue: 10,0:19:19.97,0:19:20.81,Main,Molly,0,0,0,,Ack...
 Dialogue: 10,0:19:21.89,0:19:22.85,Main,Molly,0,0,0,,Well...
 Dialogue: 10,0:19:22.85,0:19:25.77,Main,Molly,0,0,0,,I was pretty naïve back then...
@@ -398,16 +398,16 @@ Dialogue: 10,0:19:53.13,0:19:54.88,Main,Sohdayo,0,0,140,,that wish will come tru
 Dialogue: 10,0:19:54.88,0:19:56.13,Main,Molly,0,0,140,,Really?
 Dialogue: 10,0:19:57.84,0:20:01.89,Main,Molly,0,0,140,,I wanna be the top Pokémon Doctor!{echo 0:08:09.26}
 Dialogue: 10,0:20:03.22,0:20:04.93,Main,Molly,0,0,140,,Huh? Huh? Huh?
-Dialogue: 10,0:20:05.35,0:20:07.27,Main,Molly,0,0,140,,{\t(1147,1898,\c&HFFFFFF&\3c&HFFFFFF&)}Sodayo!
+Dialogue: 10,0:20:05.35,0:20:07.27,Main,Molly,0,0,140,,{\t(1147,1898,\c&HFFFFFF&\3c&HFFFFFF&)}Sohdayo!
 Dialogue: 10,0:20:07.39,0:20:09.90,Main,Liko,0,0,0,,I can see how you might \N get fed up with that...
 Dialogue: 10,0:20:10.40,0:20:15.90,Main,Molly,0,0,0,,Well, I still don’t know \N if he was doing it just to tease me...
 Dialogue: 10,0:20:15.90,0:20:18.03,Main,Molly,0,0,0,,...or if he was trying to teach me stuff.
 Dialogue: 10,0:20:18.03,0:20:20.41,Main,Liko,0,0,0,,So, the truth is what you make it?{catchphrase 2}
 Dialogue: 10,0:20:21.53,0:20:23.16,Main,Molly,0,0,0,,You might be right, there.
 Dialogue: 10,0:20:32.29,0:20:35.67,Main,Sohdayo,0,0,0,,Let’s meet again somewhere, \N Rising Voltteccers!
-Dialogue: 10,0:20:35.67,0:20:37.22,Main,Sohnano,0,0,0,,Sonano!
+Dialogue: 10,0:20:35.67,0:20:37.22,Main,Sohnano,0,0,0,,Sohnano!
 Dialogue: 10,0:20:44.89,0:20:46.18,Main,Dot,0,0,0,,Liko! Roy!
-Dialogue: 10,0:20:46.18,0:20:50.15,Main,Dot,0,0,0,,Mr. Sodayo{Honorifics note: Sodayo-san}’s article got posted to \N  the web version of Occulture!
+Dialogue: 10,0:20:46.18,0:20:50.15,Main,Dot,0,0,0,,Mr. Sohdayo{Honorifics note: Sohdayo-san}’s article got posted to \N  the web version of Occulture!
 Dialogue: 10,0:20:50.15,0:20:51.69,Main,Liko,0,0,0,,Huh? Let me see, let me see!
 Dialogue: 10,0:20:52.11,0:20:53.98,Main,Roy,0,0,0,,Think we’re in it?
 Dialogue: 10,0:20:53.98,0:20:56.49,Main,Dot,0,0,0,,No big deal \N if we aren’t though, really...
@@ -941,56 +941,56 @@ Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\
 Dialogue: 0,0:23:40.48,0:23:52.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What power improved when it evolved?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: ESPer power
 Dialogue: 1,0:23:40.48,0:23:52.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What power improved when it evolved?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: ESPer power
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{=1081}{\fad(480,0)\bord5\shad3\blur6\pos(960,480)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 1,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,480)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&HFAFE1F&\clip(12.59,410.82,1904.19,453.58)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(12.59,410.82,1904.19,453.58)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,410,1904,411)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,411,1904,412)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,412,1904,413)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,413,1904,414)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,414,1904,415)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,415,1904,416)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,416,1904,417)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,417,1904,418)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,418,1904,419)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,419,1904,420)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,420,1904,421)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,421,1904,422)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,422,1904,423)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,423,1904,424)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,424,1904,425)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,425,1904,426)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,426,1904,427)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,427,1904,428)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,428,1904,429)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,429,1904,430)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,430,1904,431)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,431,1904,432)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,432,1904,433)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,433,1904,434)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,434,1904,435)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,435,1904,436)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,436,1904,437)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,437,1904,438)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,438,1904,439)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,439,1904,440)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,440,1904,441)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,441,1904,442)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,442,1904,443)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,443,1904,444)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,444,1904,445)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,445,1904,446)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,446,1904,447)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,447,1904,448)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,448,1904,449)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,449,1904,450)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,450,1904,451)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,451,1904,452)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,452,1904,453)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
-Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{=1082}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(14.88,453,1904.19,830.25)}Sonan{\fsp5}o{\fsp}? Soday{\fsp5}o!{\fsp}
+Dialogue: 0,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{=1081}{\fad(480,0)\bord5\shad3\blur6\pos(960,480)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 1,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,480)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&HFAFE1F&\clip(12.59,410.82,1904.19,453.58)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\clip(12.59,410.82,1904.19,453.58)\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Comment: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(12.59,410.82,1904.19,453.58)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,410,1904,411)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAFE1F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,411,1904,412)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF81F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,412,1904,413)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFAF31F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,413,1904,414)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBED1F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,414,1904,415)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE81F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,415,1904,416)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFBE220&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,416,1904,417)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCDD20&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,417,1904,418)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD720&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,418,1904,419)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFCD220&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,419,1904,420)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDCC20&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,420,1904,421)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC721&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,421,1904,422)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFDC121&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,422,1904,423)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEBC21&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,423,1904,424)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFEB621&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,424,1904,425)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,425,1904,426)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HFFB122&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,426,1904,427)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF8AB29&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,427,1904,428)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HF2A530&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,428,1904,429)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HEBA038&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,429,1904,430)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HE59A3F&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,430,1904,431)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HDE9446&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,431,1904,432)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD88F4E&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,432,1904,433)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HD18955&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,433,1904,434)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HCB845D&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,434,1904,435)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HC47E64&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,435,1904,436)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HBE786B&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,436,1904,437)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB77373&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,437,1904,438)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HB16D7A&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,438,1904,439)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,439,1904,440)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HAB6882&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,440,1904,441)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&HA1628B&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,441,1904,442)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H985C95&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,442,1904,443)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8F569E&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,443,1904,444)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H8650A8&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,444,1904,445)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7D4BB2&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,445,1904,446)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H7445BB&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,446,1904,447)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6A3FC5&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,447,1904,448)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H6139CE&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,448,1904,449)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H5834D8&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,449,1904,450)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4F2EE2&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,450,1904,451)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H4628EB&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,451,1904,452)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{\clip(12,452,1904,453)\pos(960,480)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
+Dialogue: 2,0:03:01.58,0:03:07.50,Episode titles,,0,0,0,,{=1082}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,480)\c&H341DFF&\clip(14.88,453,1904.19,830.25)}Sohnan{\fsp5}o{\fsp}? Sohday{\fsp5}o!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1041}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
 Dialogue: 1,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
