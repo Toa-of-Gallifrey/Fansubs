@@ -7779,7 +7779,7 @@ Dialogue: 0,0:21:57.88,0:22:01.09,Main,,0,0,0,,{\blur0.3\fad(0,480)\fnFOT-Cezann
 Dialogue: 1,0:21:57.88,0:22:01.09,Main,,0,0,0,,{\bord0\fad(0,480)\blur0.3\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(1651.8,426.7)}Regular color
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\fad(100,0)\pos(-93,0)\an7\bord0\blur1\c&HFFFFFF&\p1}m 351.93 142.57 b 330.47 145.81 313.68 163.17 313.3 190.49 313.09 225.03 336.49 239.84 351.62 242.86 l 773.94 243.43 b 794.06 241.43 816.13 224.33 816.62 193.23 815.74 159.24 792.54 142.17 773.85 143.08
-Dialogue: 1,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\bord0\fad(480,0)\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&H000000&\fscx80\fscy80\pos(473.68,156)\4a&HFF&}Mega Lucario
+Dialogue: 1,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\bord0\fad(480,0)\blur0.3\fnFOT-Cezanne Pro B\b0\an8\c&H000000&\fscx80\fscy80\pos(473.68,156)\4a&HFF&}Mega Lucario Z
 Dialogue: 0,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(176,465)}Classification
 Dialogue: 0,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(176,621)}Type
 Dialogue: 0,0:23:43.07,0:23:49.99,Main,,0,0,0,,{\fad(480,0)\bord0\blur0.3\fnFOT-Cezanne Pro B\b0\an7\c&H000000&\fscx40\fscy40\pos(176,745)}Height
