@@ -106,7 +106,7 @@ Dialogue: 10,0:06:02.05,0:06:03.55,Main,Dot,0,0,0,,Wanival’s Water.
 Dialogue: 10,0:06:03.55,0:06:05.39,Main,Dot,0,0,0,,Dekanuchan’s Steel.
 Dialogue: 10,0:06:05.39,0:06:07.39,Main,Ult,0,0,0,,Don’t include me, ‘kay?
 Dialogue: 10,0:06:07.39,0:06:10.98,Main,Ult,0,0,0,,I’d rather fight usin’ \N Mega Evolution than Terastal.
-Dialogue: 10,0:06:10.98,0:06:13.27,Main,Dot,0,0,0,,Which puts us at twelve.{lit. With that, we're at twelve. | Script error, not our place to fix it. Line doesn't give us the wiggle room to do "about a dozen" or something along those lines, she specifically says they're at 12.}
+Dialogue: 10,0:06:10.98,0:06:13.27,Main,Dot,0,0,0,,Which puts us at thirteen.
 Dialogue: 10,0:06:13.27,0:06:17.52,Main,Dot,0,0,0,,Botan will help out with her Nymphia. \N Her Terastype is Fairy.{Game gender}
 Dialogue: 10,0:06:17.52,0:06:21.24,Main,Roy,0,0,0,,Nemo will be there for us, too. \N Parmot is Fighting.
 Dialogue: 10,0:06:21.24,0:06:24.03,Main,Liko,0,0,0,,And Anne! Daikenki’s Ground.
