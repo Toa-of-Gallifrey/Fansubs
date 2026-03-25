@@ -1675,7 +1675,7 @@ POKÉMON NAMES
 0421 チェリム Cherrim - サクラポケモン 
 0422 カラナクシ Karanakushi - ウミウシポケモン Sea Slug Pokémon
 0423 トリトドン Tritodon - ウミウシポケモン Sea Slug Pokémon
-0424 カラナクシ Eteboth - おながポケモン 
+0424 エテボース Eteboth - おながポケモン 
 0425 フワンテ Fuwante - ふうせんポケモン Balloon Pokémon
 0426 フワライド Fuwaride - ききゅうポケモン 
 0427 ミミロル Mimiroll - うさぎポケモン Rabbit Pokémon
