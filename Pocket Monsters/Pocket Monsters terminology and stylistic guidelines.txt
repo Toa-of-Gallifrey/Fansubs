@@ -420,7 +420,7 @@ kurabbu hammaa クラブハンマー (Crabhammer) - Crabhammer
 kuraitsuku くらいつく (Jaw Lock) - # TBD #
 kuria sumoggu クリアスモッグ (Clear Smog) - Clear Smog
 kuroi kiri くろいきり (Haze) - Black Mist
-kuroi manazashi くろいまなざし (Mean Look) - # TBD #
+kuroi manazashi くろいまなざし (Mean Look) - Dark Gaze
 kuroroburasuto クロロブラスト (Chloroblast) - Chloroblast
 kurosu choppu クロスチョップ (Cross Chop) - Cross Chop
 kurosu fureimu クロスフレイム (Fusion Flare) - Cross Flame
@@ -530,7 +530,7 @@ nekodamashi ねこだまし (Fake Out) - # TBD #
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nemuru ねむる (Rest) - Sleep
 nenriki ねんりき (Confusion) - Mind Power
-neppuu ねっぷう (Heat Wave) - Heat Wave
+neppuu ねっぷう (Heat Wave) - Scorching Wind
 neraiuchi ねらいうち (Snipe Shot) - Snipe Shot
 nessa no arashi ねっさのあらし (Sandsear Storm) - # TBD #
 nessa no daichi ねっさのだいち (Scorching Sands) - # TBD #
