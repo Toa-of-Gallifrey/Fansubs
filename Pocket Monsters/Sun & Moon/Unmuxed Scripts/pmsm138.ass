@@ -56,7 +56,7 @@ Dialogue: 10,0:01:26.32,0:01:27.73,Main,Satoshi,0,0,0,,In that case...
 Dialogue: 10,0:01:28.78,0:01:29.53,Main,Satoshi,0,0,0,,Here.
 Dialogue: 10,0:01:36.33,0:01:38.08,Main,Okido,0,0,0,,It’s a pleasure to meet you, Meltan!
 Dialogue: 10,0:01:45.67,0:01:47.46,Main,Burnet,0,0,0,,Are you all right?
-Dialogue: 10,0:01:47.46,0:01:52.22,Main,Okido,0,0,0,,Please take utmost care \N From its eye it launches \N a Fierce Luster Cannon {Haikus, yo! -Starfish}
+Dialogue: 10,0:01:47.46,0:01:52.22,Main,Okido,0,0,0,,Please take utmost care \N From its eye it launches a \N Fierce Luster Cannon {Haikus, yo! -Starfish}
 Dialogue: 10,0:02:02.06,0:02:05.86,Main,Okido,0,0,0,,This must be Meltan’s unique behavior \N that I’ve heard so much about!
 Dialogue: 10,0:02:23.00,0:02:24.58,Main,Okido,0,0,0,,What’s this?
 Dialogue: 10,0:02:24.58,0:02:26.13,Main,Satoshi,0,0,0,,Look at all the Meltan!
@@ -81,7 +81,7 @@ Dialogue: 10,0:05:11.37,0:05:12.88,Main,Lusamine,0,0,0,,Your father.
 Dialogue: 10,0:05:14.09,0:05:18.21,Main,Lusamine,0,0,0,,Whenever he was facing a battle, \N he’d get so obsessed he’d forget to sleep!
 Dialogue: 10,0:05:18.21,0:05:22.89,Main,Lusamine,0,0,0,,Even on our wedding day, he was training ‘til morning, \N and almost missed the ceremony!
 Dialogue: 10,0:05:24.01,0:05:25.64,Main,Lilie,0,0,0,,Oh, Father...
-Dialogue: 10,0:05:26.47,0:05:29.14,Main,Lusamine,0,0,0,,I look forward to \N your battle with Satoshi.
+Dialogue: 10,0:05:26.47,0:05:29.14,Main,Lusamine,0,0,0,,I look forward to \N your battle with Satoshi{honorific note: Satoshi-kun}.
 Dialogue: 10,0:05:29.14,0:05:30.27,Main,Gladio,0,0,0,,Me, too.
 Dialogue: 10,0:05:57.67,0:05:59.80,Main,Satoshi,0,0,0,,Meltan?
 Dialogue: 10,0:05:59.80,0:06:01.92,Main,Okido,0,0,0,,This is Melmetal.
@@ -121,12 +121,12 @@ Comment: 10,0:09:25.46,0:09:25.46,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:09:26.21,0:09:28.34,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 10,0:09:38.14,0:09:42.19,Main,Musashi,0,0,0,,The final match is between the brat boy and \N the dark brat boy{I’m ALMOST tempted to go with “emo brat boy” but... no. -Starfish}? What a snorefest!
 Dialogue: 10,0:09:42.73,0:09:45.94,Main,Musashi,0,0,0,,{\i1}I{\i0} was supposed to be \N in that ring!
-Dialogue: 10,0:09:45.94,0:09:51.78,Main,Nyarth,0,0,0,,You and Kojiro ended up having to \N face each other right off the bat, meow...
-Dialogue: 10,0:09:51.78,0:09:54.62,Main,Musashi,0,0,0,,Well, Kojiro? \N Think you can finish it?
+Dialogue: 10,0:09:45.94,0:09:51.78,Main,Nyarth,0,0,0,,You and Kojirou ended up having to \N face each other right off the bat, meow...
+Dialogue: 10,0:09:51.78,0:09:54.62,Main,Musashi,0,0,0,,Well, Kojirou? \N Think you can finish it?
 Dialogue: 10,0:09:54.62,0:09:56.83,Main,Kojiro,0,0,0,,It’ll be done in time for \N the award ceremony.
 Dialogue: 10,0:09:56.83,0:10:00.70,Main,Nyarth,0,0,0,,That’ll be our chance to nab \N loads of Pokémon, meow!
 Dialogue: 10,0:10:00.70,0:10:05.50,Main,Musashi,0,0,0,,The brat boy’s Pikachu, and all the other \N rare Pokémon running around...
-Dialogue: 10,0:10:05.50,0:10:08.96,Main,Musashi,0,0,0,,If we can nab ‘em all, \N Sakaki is sure to be pleased! {Suggesting "Sakaki will be absolutely over the moon!" for the post-linebreak portion.}
+Dialogue: 10,0:10:05.50,0:10:08.96,Main,Musashi,0,0,0,check,If we can nab ‘em all, \N Sakaki{honorific note: Sakaki-sama} is sure to be pleased! {Suggesting "Sakaki will be absolutely over the moon!" for the post-linebreak portion.}
 Dialogue: 10,0:10:08.96,0:10:13.05,Main,Kojiro,0,0,0,,This new robot’s sure \N to manage it!
 Dialogue: 10,0:10:49.63,0:10:51.88,Main,Kukui,0,0,0,,The finals are a three-on-three.
 Dialogue: 10,0:10:51.88,0:10:55.76,Main,Kukui,0,0,0,,I want a fair, full power battle \N from the both of you!
@@ -146,7 +146,7 @@ Dialogue: 10,0:11:36.63,0:11:38.30,Main,Mao,0,0,0,,You can do it, Melmetal!
 Dialogue: 10,0:11:38.30,0:11:42.22,Main,Jeekyo,0,0,0,,What kind of battle will we see \N from Competitor Satoshi’s Melmetal?
 Dialogue: 10,0:11:42.22,0:11:44.56,Main,Jeekyo,0,0,0,,This will be truly exciting!
 Dialogue: 10,0:11:44.56,0:11:47.56,Main,Gladio,0,75,0,,Melmetal... Fascinating!
-Dialogue: 10,0:11:47.56,0:11:49.81,Main,Kukui,0,0,0,,Let the match begin!
+Dialogue: 10,0:11:47.56,0:11:49.81,Main,Kukui,0,0,0,,Let the battle begin!
 Dialogue: 10,0:11:52.57,0:11:55.03,Main,Satoshi,0,0,0,,Victory goes to he who \N strikes first, Melmetal!
 Dialogue: 10,0:11:55.03,0:11:55.57,Main,Satoshi,0,0,0,,...Uh...
 Dialogue: 10,0:11:57.91,0:11:59.28,Main,Gladio,0,0,0,,Be careful, Silvuddy!
@@ -190,7 +190,7 @@ Dialogue: 10,0:15:14.06,0:15:19.19,Main,Jeekyo,0,0,0,,Silvuddy changed into \N a
 Dialogue: 10,0:15:19.19,0:15:21.11,Main,Gladio,0,0,0,,Silvuddy! Multi-Attack!
 Dialogue: 10,0:15:22.32,0:15:23.65,Main,Satoshi,0,0,0,,Use Luster Cannon!
 Dialogue: 10,0:15:38.04,0:15:39.67,Main,Satoshi,0,0,0,,Hang in there, Melmetal!
-Dialogue: 10,0:15:43.13,0:15:46.93,Main,Jeekyo,0,0,0,,Melmetal demonstrates fearsome toughness! \N It’s back on its feet!
+Dialogue: 10,0:15:43.13,0:15:46.93,Main,Jeekyo,0,0,0,,Melmetal demonstrates fearsome toughness! \N It stands firm!
 Dialogue: 10,0:15:46.93,0:15:51.31,Main,Gladio,0,0,0,,What a powerhouse... \N How intriguing!
 Dialogue: 10,0:15:51.31,0:15:53.31,Main,Gladio,0,0,0,,Silvuddy, keep attacking!
 Dialogue: 10,0:15:54.10,0:15:57.23,Main,Satoshi,0,0,0,,You think we’ll lose?! \N Use Double Panzer!

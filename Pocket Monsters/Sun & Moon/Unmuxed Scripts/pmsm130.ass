@@ -118,7 +118,7 @@ Dialogue: 10,0:07:49.32,0:07:50.78,Main,Guzma,0,0,0,,I’ll destroy you.
 Dialogue: 10,0:07:50.78,0:07:51.70,Main,Guzma,0,0,0,,Go!
 Dialogue: 10,0:07:55.08,0:07:59.71,Main,Jeekyo,0,0,0,,It seems Competitor Ilima intends to battle with Garura, \N and Competitor Guzma with Hassam!
 Dialogue: 10,0:07:59.71,0:08:03.21,Main,Hala,0,0,0,,I want a fair battle from both of you!
-Dialogue: 10,0:08:05.13,0:08:06.84,Main,Hala,0,0,0,,Let the match begin!
+Dialogue: 10,0:08:05.13,0:08:06.84,Main,Hala,0,0,0,,Let the battle begin!
 Dialogue: 10,0:08:09.59,0:08:11.43,Main,Ilima,0,0,0,,Garura! Grow Punch!
 Dialogue: 10,0:08:11.43,0:08:13.35,Main,Guzma,0,0,0,,Hassam! Bullet Punch!
 Dialogue: 10,0:08:20.02,0:08:22.31,Main,Jeekyo,0,0,0,,The favorite, Ilima, \N does not disappoint!{SASUGA. -Starfish}
@@ -138,9 +138,9 @@ Dialogue: 10,0:09:32.59,0:09:33.43,Main,Ilima,0,0,0,,Kick Down{Low Kick in Engli
 Dialogue: 10,0:09:38.14,0:09:42.69,Main,Jeekyo,0,0,0,,Competitor Ilima’s relentless attacks \N have Competitor Guzma up against the wall!
 Dialogue: 10,0:09:43.27,0:09:45.94,Main,Ilima,0,0,0,,Keep going! Grow Punch!
 Dialogue: 10,0:09:48.57,0:09:49.57,Main,Guzma,0,0,0,,Dodge backwards!
-Dialogue: 10,0:09:53.91,0:09:55.83,Main,Guzma,0,0,0,,Now! Cross Scissor!
+Dialogue: 10,0:09:53.91,0:09:55.83,Main,Guzma,0,0,0,,Now! Scissor Cross!
 Dialogue: 10,0:09:58.41,0:10:00.04,Main,Ilima,0,0,0,,We’re not done! \N Grow Punch!
-Dialogue: 10,0:10:00.58,0:10:02.21,Main,Guzma,0,0,0,,Dodge to the right \N and use Cross Scissor!
+Dialogue: 10,0:10:00.58,0:10:02.21,Main,Guzma,0,0,0,,Dodge to the right \N and use Scissor Cross!
 Dialogue: 10,0:10:02.21,0:10:02.21,Main,Starfish keeping count of how often an overused track is overused,0,0,0,,{Heated Fire Showdown play count in the Alola League: 1 -Starfish}
 Dialogue: 10,0:10:10.59,0:10:13.43,Main,Mamane,0,0,0,,Hassam’s attacks \N started landing all of a sudden!
 Dialogue: 10,0:10:13.43,0:10:15.01,Main,Rotom,0,0,0,,What’s going on-roto?
@@ -152,7 +152,7 @@ Dialogue: 10,0:10:34.70,0:10:39.08,Main,Jeekyo,0,0,0,,What could have happened?!
 Dialogue: 10,0:10:41.00,0:10:43.75,Main,Fangirls,0,0,0,,{\i1}Sir Ilima{honorific note: Ilima-sama}!{\i0}
 Dialogue: 10,0:10:44.96,0:10:47.17,Main,Guzma,0,0,0,,Time to end this.
 Dialogue: 10,0:10:47.17,0:10:48.34,Main,Guzma,0,0,0,,Destroy them, Hassam!
-Dialogue: 10,0:10:48.34,0:10:49.92,Main,Guzma,0,0,0,,Cross Scissor!
+Dialogue: 10,0:10:48.34,0:10:49.92,Main,Guzma,0,0,0,,Scissor Cross!
 Dialogue: 10,0:10:51.13,0:10:52.30,Main,Ilima,0,0,0,,Get out of the way, Garura!
 Dialogue: 10,0:11:05.85,0:11:07.73,Main,Hala,0,0,0,,Garura is unable to battle!
 Dialogue: 10,0:11:08.11,0:11:10.23,Main,Hala,0,0,0,,The winner is Competitor Guzma!
@@ -198,7 +198,7 @@ Dialogue: 10,0:14:03.91,0:14:05.95,Main,Satoshi,0,0,0,,Both of you, give it your
 Dialogue: 10,0:14:05.95,0:14:07.74,Main,Lilie,0,0,0,,Let’s cheer them on, together.
 Dialogue: 10,0:14:16.96,0:14:19.00,Main,Suiren,0,0,0,,Let’s go, Mao{honorific note: Mao-chan}!
 Dialogue: 10,0:14:19.00,0:14:19.96,Main,Mao,0,0,0,,Yeah!
-Dialogue: 10,0:14:19.96,0:14:22.22,Main,Lychee,0,0,0,,Let the match begin!
+Dialogue: 10,0:14:19.96,0:14:22.22,Main,Lychee,0,0,0,,Let the battle begin!
 Dialogue: 10,0:14:25.39,0:14:27.22,Main,Mao,0,0,0,,Amajo! Magical Leaf!
 Dialogue: 10,0:14:29.47,0:14:31.73,Main,Suiren,0,0,0,,Ashirène! Fleeting Bubble Aria!
 Dialogue: 10,0:14:38.02,0:14:39.32,Main,Mao,0,0,0,,Dodge it, Amajo!
@@ -319,7 +319,7 @@ Dialogue: 10,0:24:12.60,0:24:13.68,Main,Acerola,0,0,0,,Waiting room?
 Dialogue: 10,0:24:13.68,0:24:16.35,Main,Kuchinashi,0,0,0,,I gotta share it with the other \N Island Kings and Queens.
 Dialogue: 10,0:24:17.10,0:24:20.02,Main,Acerola,0,0,0,,One wouldn’t think you’d be this shy.
 Dialogue: 10,0:24:20.81,0:24:23.57,Main,Acerola,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
-Dialogue: 10,0:24:23.57,0:24:26.74,Main,Acerola,0,0,0,,Musashi VS Kojiro! \N A Battlefield of Truth and Love!!
+Dialogue: 10,0:24:23.57,0:24:26.74,Main,Acerola,0,0,0,,Musashi VS Kojirou! \N A Battlefield of Truth and Love!!
 Dialogue: 10,0:24:26.74,0:24:28.61,Main,Kuchinashi,0,0,0,,Acerola, wanna be the Island Queen?
 Dialogue: 10,0:24:28.61,0:24:29.78,Main,Acerola,0,0,0,,No.
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=2}TYPESETTING
@@ -335,7 +335,7 @@ Dialogue: 0,0:11:44.56,0:11:47.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs60\
 Comment: 10,0:24:00.46,0:24:00.46,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:27.45,Main,,0,0,0,,{\fs52.5\pos(1680,225)}Next episode
 Dialogue: 0,0:24:27.45,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\fs75\pos(960,150)}Next time
-Dialogue: 0,0:24:27.45,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(960,930)\fs120}Musashi VS Kojiro! \N A Battlefield of Truth and Love!!
+Dialogue: 0,0:24:27.45,0:24:30.45,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(960,930)\fs120}Musashi VS Kojirou! \N A Battlefield of Truth and Love!!
 Dialogue: 0,0:24:30.45,0:24:33.45,Episode titles,,0,0,0,,{=3}
 Comment: 10,0:02:22.50,0:02:22.50,Main,,0,0,0,,{=4}OPENING
 Dialogue: 1,0:02:22.58,0:02:27.00,OP,,0,0,0,,{\fad(300,0)}Don’t fear things you’ve never seen or done

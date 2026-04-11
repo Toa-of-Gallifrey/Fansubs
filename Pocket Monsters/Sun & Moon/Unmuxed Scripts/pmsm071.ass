@@ -211,12 +211,12 @@ Dialogue: 10,0:23:28.61,0:23:31.48,Main,Kukui,0,0,0,,The Water Bubble Pokémon S
 Dialogue: 10,0:23:31.91,0:23:37.83,Main,Kukui,0,0,0,,It prefers clean water because \N it’s easier to store in its bubble helmet. {Original: “The reason why it prefers clean water is because \N this allows it to better store water for its bubble helmet.”. Kind of a sloppy edit on my part, fix or revert as needed. - Toa}
 Dialogue: 10,0:23:37.83,0:23:40.55,Main,Kukui,0,0,0,,This helmet doesn’t just serve \N to protect its head,
 Dialogue: 10,0:23:40.55,0:23:43.95,Main,Kukui,0,0,0,,but also to provide it with \N oxygen dissolved in water.
-Dialogue: 10,0:23:43.95,0:23:46.95,Main,Suiren,0,0,0,,Ashimari, \N use Balloon on Ho and Sui!
-Dialogue: 10,0:23:50.26,0:23:51.45,Main,Ho & Sui,0,0,0,,We’re Shizukumo!
-Dialogue: 10,0:23:51.45,0:23:53.35,Main,Ho & Sui,0,0,0,,Shizukumo! Shizukumo!
-Dialogue: 10,0:23:53.35,0:23:55.43,Main,Ho & Sui,0,0,0,,Shizukumo! Shizukumo!
+Dialogue: 10,0:23:43.95,0:23:46.95,Main,Suiren,0,0,0,,Ashimari, \N use Balloon on Hou and Sui!
+Dialogue: 10,0:23:50.26,0:23:51.45,Main,Hou & Sui,0,0,0,,We’re Shizukumo!
+Dialogue: 10,0:23:51.45,0:23:53.35,Main,Hou & Sui,0,0,0,,Shizukumo! Shizukumo!
+Dialogue: 10,0:23:53.35,0:23:55.43,Main,Hou & Sui,0,0,0,,Shizukumo! Shizukumo!
 Dialogue: 10,0:23:55.43,0:23:57.77,Main,Suiren,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fscy80\blur3\pos(505,638)}Sui
-Dialogue: 10,0:23:55.43,0:23:57.77,Main,Suiren,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fscy80\blur3\pos(645,638)}Ho
+Dialogue: 10,0:23:55.43,0:23:57.77,Main,Suiren,0,0,0,,{\c0\3c&HFFFFFF}{\fscx80\fscy80\blur3\pos(645,638)}Hou
 Dialogue: 10,0:23:55.43,0:23:57.77,Main,Suiren,0,0,0,,The Water Bubble Pokémon.
 Comment: 10,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.38,0:24:03.42,Main,Mao,0,0,0,,Everyone! What’s your favorite bread?

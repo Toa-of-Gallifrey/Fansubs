@@ -233,10 +233,10 @@ Dialogue: 10,0:15:13.85,0:15:16.98,Main,Sauboh,0,0,0,,I will take some time off 
 Dialogue: 10,0:15:18.06,0:15:22.03,Main,Sauboh,0,0,0,,I need to train \N in order to win the League!
 Dialogue: 10,0:15:22.03,0:15:26.28,Main,Wicke,0,0,0,,Didn’t you {\i1}just{\i0} say you’d rather \N watch the battles than participate?
 Dialogue: 10,0:15:26.28,0:15:29.37,Main,Sauboh,0,0,0,,Why, I said no such thing!
-Dialogue: 10,0:15:29.99,0:15:32.24,Main,Kojiro,0,0,0,,Musashi! Nyarth! Sonansu!
+Dialogue: 10,0:15:29.99,0:15:32.24,Main,Kojiro,0,0,0,,Musashi! Nyarth! Sohnansu!
 Dialogue: 10,0:15:32.24,0:15:33.62,Main,Musashi,0,0,0,,What?
 Dialogue: 10,0:15:33.62,0:15:37.42,Main,Kojiro,0,0,0,,I {\i1}will{\i0} win the Alola Pokémon League, \N no matter what!
-Dialogue: 10,0:15:39.46,0:15:41.92,Main,Nyarth,0,0,0,,Kojiro’s on fire, meow!
+Dialogue: 10,0:15:39.46,0:15:41.92,Main,Nyarth,0,0,0,,Kojirou’s on fire, meow!
 Dialogue: 10,0:15:41.92,0:15:43.92,Main,Musashi,0,0,0,,Wh-Why?!
 Dialogue: 10,0:15:52.68,0:15:54.18,Main,Gladio,0,0,0,,Evil Pulse!
 Dialogue: 10,0:15:59.81,0:16:01.06,Main,Gladio,0,0,0,,Shadow Ball!

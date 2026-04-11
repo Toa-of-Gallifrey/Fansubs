@@ -56,7 +56,7 @@ Comment: 10,0:03:23.47,0:03:23.47,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:33.07,0:03:35.49,Main,Kaki,0,0,0,,Bakugames! Use Dragon Tail!
 Dialogue: 10,0:03:41.49,0:03:42.37,Main,Satoshi,0,0,0,,Don’t give up!
 Dialogue: 10,0:03:42.37,0:03:44.37,Main,Satoshi,0,0,0,,Nyaheat, use Revenge!
-Dialogue: 10,0:03:47.00,0:03:49.75,Main,Rotom,0,0,0,,You’re on fire-roto!
+Dialogue: 10,0:03:47.00,0:03:49.75,Main,Rotom,0,0,0,,You’re on fire-roto!{I just want to point out that this line did indeed have fire imagery in Japanese as well, so it’s not an unjustified pun added in the TL for no reason. -TLC}
 Dialogue: 10,0:03:49.75,0:03:51.63,Main,Satoshi,0,0,0,,Use Great Blaze!
 Dialogue: 10,0:03:54.38,0:03:56.47,Main,Kaki,0,0,0,,Flamethrower!
 Dialogue: 10,0:04:02.18,0:04:03.97,Main,Satoshi,0,0,0,,You’ve got a lot of spirit, Kaki!{Tweaked - Toa of the future}{This phrasing might seem a bit odd, but I notice that “kiai” comes up a lot here to foreshadow Bakugames’s learning Focus Ms. at the end of the episode. So... FOCUS. -Starfish}
@@ -102,7 +102,7 @@ Dialogue: 10,0:05:43.36,0:05:45.62,Main,Team Skull,0,0,0,,{\i1}Full power! Blue 
 Dialogue: 10,0:05:45.62,0:05:47.66,Main,Hoshi,0,0,0,,You’re not allowed to do that!
 Dialogue: 10,0:05:49.16,0:05:51.12,Main,Tupper,0,0,0,,Who’s the kid?
 Dialogue: 10,0:05:51.12,0:05:53.29,Main,Wrap,0,0,0,,Ya got a problem \N with Team Skull?
-Dialogue: 10,0:05:53.29,0:05:56.04,Main,Zip,0,0,0,,If ya get in our way, \N ya best not expect no mercy! {Not sure if "better" would be better than "best". - Toa}{Hmmm... I think I like "best" best. -Starfish}
+Dialogue: 10,0:05:53.29,0:05:56.04,Main,Zip,0,0,0,,If ya get in our way, \N ya best not expect no mercy! {Not sure if “better” would be better than “best”. - Toa}{Hmmm... I think I like “best” best. -Starfish}
 Dialogue: 10,0:05:56.04,0:05:59.67,Main,Hoshi,0,0,0,,I said you can’t doodle on \N stuff that isn’t yours!
 Dialogue: 10,0:06:00.34,0:06:01.72,Main,Tupper,0,0,0,,Oh.{I don’t know WHY I love this line read, but I love this line read. -Starfish}
 Dialogue: 10,0:06:07.68,0:06:12.02,Main,Tupper,0,0,0,,Still got gripes? \N Well, let’s hear ‘em!
@@ -267,7 +267,7 @@ Dialogue: 10,0:14:54.33,0:14:59.84,Main,Jeekyo,0,0,0,,First off is a clash betwe
 Dialogue: 10,0:14:59.84,0:15:03.09,Main,Jeekyo,0,0,0,,In terms of type match-ups, \N Lugarugan has the upper hand,
 Dialogue: 10,0:15:03.09,0:15:06.59,Main,Jeekyo,0,0,0,,but you can never tell how a battle \N will go before it’s over.
 Dialogue: 10,0:15:07.14,0:15:11.35,Main,Lychee,0,0,0,,May those who battle \N be blessed by Wela Volcano...
-Dialogue: 10,0:15:11.93,0:15:13.68,Main,Lychee,0,0,0,,Let the match begin!
+Dialogue: 10,0:15:11.93,0:15:13.68,Main,Lychee,0,0,0,,Let the battle begin!
 Dialogue: 10,0:15:16.44,0:15:18.77,Main,Kaki,0,0,0,,Victory goes to he who strikes first! \N Bone Boomerang!
 Dialogue: 10,0:15:21.36,0:15:22.11,Main,Gladio,0,0,0,,Dodge it!
 Dialogue: 10,0:15:23.28,0:15:24.53,Main,Kaki,0,0,0,,That’s not all!
@@ -306,8 +306,8 @@ Dialogue: 10,0:17:15.72,0:17:18.18,Main,Lychee,0,0,0,,Bring out your next Pokém
 Dialogue: 10,0:17:19.02,0:17:22.06,Main,Kaki,0,0,0,,I’ll entrust our victory to you!
 Dialogue: 10,0:17:22.06,0:17:23.36,Main,Kaki,0,0,0,,Bakugames!
 Dialogue: 10,0:17:29.49,0:17:32.45,Main,Jeekyo,0,0,0,,Competitor Kaki’s second Pokémon \N is Bakugames!
-Dialogue: 10,0:17:32.45,0:17:35.45,Main,Hoshi,0,0,0,,Big bro! Baku{honorific note: Baku-chan}!{I just checked: "Baku" is used honorific-less in episode 70 and so even though this matches our newfound standards of honorifics being acceptable in nicknames, she cannot call him Baku-chan here. -Starfish}{And then with our even more newfounder standards of having honorific tracks, Baku-chan gets to come back! -TLC} Hang in there!
-Dialogue: 10,0:17:35.91,0:17:40.83,Main,Kaki,0,0,0,,If we want to defeat Lugarugan, \N we’ll have to find a way to conquer that Stone Edge.
+Dialogue: 10,0:17:32.45,0:17:35.45,Main,Hoshi,0,0,0,,Big bro! Baku{honorific note: Baku-chan}!{I just checked: “Baku” is used honorific-less in episode 70 and so even though this matches our newfound standards of honorifics being acceptable in nicknames, she cannot call him Baku-chan here. -Starfish}{And then with our even more newfounder standards of having honorific tracks, Baku-chan gets to come back! -TLC} Hang in there!
+Dialogue: 10,0:17:35.91,0:17:40.83,Main,Kaki,0,0,0,,If we want to defeat Lugarugan, \N we’ll have to find a way to conquer that Stone Edge.{More literally “Victory against Lugarugan depends on whether or not we can conquer that Stone Edge” but idk if the difference is big enough to matter. -TLC}
 Dialogue: 10,0:17:41.83,0:17:44.25,Main,Kaki,0,0,0,,And you have just the move for it!{Literally “That move of yours can do it!” but... let’s not. -Starfish}
 Dialogue: 10,0:17:45.59,0:17:47.34,Main,Gladio,0,0,0,,Lugarugan! Stone Edge!
 Dialogue: 10,0:17:52.72,0:17:53.93,Main,Kaki,0,0,0,,Use Dragon Tail!
@@ -339,8 +339,8 @@ Dialogue: 10,0:19:54.72,0:19:57.26,Main,Kaki,0,0,0,,But it kept a cool head \N a
 Dialogue: 10,0:19:57.80,0:20:00.76,Main,Lychee,0,0,0,,So, that’s the sort of \N training they’ve done...
 Dialogue: 10,0:20:00.76,0:20:02.35,Main,Gladio,0,0,0,,Don’t let them get away!
 Dialogue: 10,0:20:10.90,0:20:12.15,Main,Kaki,0,0,0,,Bakugames!
-Dialogue: 10,0:20:18.61,0:20:20.16,Main,Kaki,0,0,0,,Keep your spirit and \N tough it out!
-Dialogue: 10,0:20:23.74,0:20:26.58,Main,Kaki,0,0,0,,Your fighting spirit!{CPS needs to be checked since I edited this in Notepad - Toa of the future}
+Dialogue: 10,0:20:18.61,0:20:20.16,Main,Kaki,0,0,0,,Tough it out with fighting spirit!
+Dialogue: 10,0:20:23.74,0:20:26.58,Main,Kaki,0,0,0,,{\i1}Fighting spirit!{\i0}{CPS needs to be checked since I edited this in Notepad - Toa of the future}
 Dialogue: 10,0:20:31.17,0:20:32.09,Main,Gladio,0,0,0,,Lugarugan!
 Dialogue: 10,0:20:32.09,0:20:35.13,Main,Jeekyo,0,0,0,,Oh, my! \N Was that a Fighting Spirit Blast?!
 Dialogue: 10,0:20:35.13,0:20:38.80,Main,Jeekyo,0,0,0,,At the last minute, \N Bakugames has learned Fighting Spirit Blast!
@@ -369,7 +369,7 @@ Dialogue: 10,0:23:29.60,0:23:33.68,Main,Suiren,0,0,0,,Bakugames’s new attack, 
 Dialogue: 10,0:23:33.68,0:23:39.90,Main,Suiren,0,0,0,,It’s super effective against Rock types, \N so it was too much even for Gladio’s Lugarugan!
 Dialogue: 10,0:23:42.15,0:23:44.99,Main,Team Skull,0,0,0,,{\i1}Beat down and smash \N this rotten world!{\i0}{Copy-paste from 115 3: The Copy-Pastening}
 Dialogue: 10,0:23:46.95,0:23:49.45,Main,Zip,0,0,0,,Ain’t no kids to disturb us here!
-Dialogue: 10,0:23:49.45,0:23:52.83,Main,Wrap,0,0,0,,Let’s wrap this up \N before Mr. Guzma{honorific note: Guzma-san}’s match! {Would "wrap" instead of "finish" be too much of a meme suggestion? - Toa}{Why? ...Oh because Wrap. Nah I think it's cool. Not like the show itself is not guilty of far more forced name drops. "ma-ilima-su" *shudders* -Starfish}
+Dialogue: 10,0:23:49.45,0:23:52.83,Main,Wrap,0,0,0,,Let’s wrap this up \N before Mr. Guzma{honorific note: Guzma-san}’s match! {Would “wrap” instead of “finish” be too much of a meme suggestion? - Toa}{Why? ...Oh because Wrap. Nah I think it’s cool. Not like the show itself is not guilty of far more forced name drops. “ma-ilima-su” *shudders* -Starfish}
 Dialogue: 10,0:23:52.83,0:23:53.75,Main,Team Skull,0,0,0,,Whoa!
 Dialogue: 10,0:23:53.75,0:23:56.12,Main,Tupper,0,0,0,,Hey, lemme down!
 Comment: 10,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}

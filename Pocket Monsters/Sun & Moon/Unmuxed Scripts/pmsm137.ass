@@ -50,7 +50,7 @@ Dialogue: 10,0:01:08.42,0:01:11.38,Main,Mao,0,0,0,,The timing seemed strange.
 Dialogue: 10,0:01:11.38,0:01:14.14,Main,Kaki,0,0,0,,Yeah. It was anything {\i1}but{\i0} helpful...
 Dialogue: 10,0:01:14.14,0:01:16.06,Main,Mamane,0,0,0,,It completely backfired on him.
 Dialogue: 10,0:01:16.06,0:01:17.93,Main,Rotom,0,0,0,,Does not compute. \NDoes not compute.
-Dialogue: 10,0:01:17.93,0:01:19.68,Main,Suiren,0,0,0,,Poor Hassam.
+Dialogue: 10,0:01:17.93,0:01:19.68,Main,Suiren,0,0,0,check,Poor Hassam.{Might call for a revision. "Hassamu, aware" feels like a peculiarly almost poetic wording that the TL does not reflect, like, Suiren is very much Doing A Thing here. -TLC}
 Dialogue: 10,0:01:24.77,0:01:26.07,Main,Guzma,0,0,0,,Gusokumusha.
 Dialogue: 10,0:01:27.19,0:01:29.99,Main,Guzma,0,0,0,,This is your last chance. Get it?
 Comment: 10,0:01:44.50,0:01:44.50,Main,,0,0,0,,{Opening}
@@ -86,7 +86,7 @@ Dialogue: 10,0:06:06.30,0:06:09.64,Main,Guzma,0,0,0,,Try all you want... \N You 
 Dialogue: 10,0:06:09.64,0:06:11.60,Main,Guzma,0,0,0,,Weaklings should know their place!
 Dialogue: 10,0:06:11.60,0:06:13.23,Main,Tupper,0,0,0,,Yo, yo!
 Dialogue: 10,0:06:13.23,0:06:15.98,Main,Team Skull,0,0,0,,{\i1}We’re the unbeatable Team Skull!{\i0}
-Dialogue: 10,0:06:15.98,0:06:19.11,Main,Team Skull,0,0,0,,{\i1}Our boss is the undefeated \N Mr. Guzma! Woo!{\i0}
+Dialogue: 10,0:06:15.98,0:06:19.11,Main,Team Skull,0,0,0,,{\i1}Our boss is the undefeated \N Mr. Guzma{honorific note: Guzma-san}! Woo!{\i0}
 Dialogue: 10,0:06:19.11,0:06:22.24,Main,Team Skull,0,0,0,,{\an8}{\i1}We’re the unbeatable Team Skull!{\i0}
 Dialogue: 10,0:06:20.74,0:06:22.78,Main,Plumeri,0,0,0,,The undefeated Guzma...
 Dialogue: 10,0:06:22.78,0:06:24.74,Main,Tupper,0,0,0,,Huh? Ya say somethin’, Big Sis?
@@ -109,7 +109,7 @@ Dialogue: 10,0:07:51.74,0:07:52.95,Main,Kukui,0,0,0,,Yeah...
 Dialogue: 10,0:07:52.95,0:07:57.12,Main,Hala,0,0,0,,It is quite regrettable. \N He had considerable talent.
 Dialogue: 10,0:07:57.12,0:08:01.79,Main,Hala,0,0,0,,But he failed to learn \N the most important thing.
 Dialogue: 10,0:08:01.79,0:08:05.21,Main,Hala,0,0,0,,Had he learned that, \N he could have grown so much more.
-Dialogue: 10,0:08:08.22,0:08:10.09,Main,Tupper,0,0,0,,Go, Mr. Guzma!
+Dialogue: 10,0:08:08.22,0:08:10.09,Main,Tupper,0,0,0,,Go, Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:08:10.09,0:08:11.22,Main,Zip,0,0,0,,Ya can win!
 Dialogue: 10,0:08:12.10,0:08:16.60,Main,Plumeri,0,0,0,,Guzma... You’re their hope.
 Dialogue: 10,0:08:16.60,0:08:18.77,Main,Plumeri,0,0,0,,Wherever you go in the world, \N there’ll always be...
@@ -142,7 +142,7 @@ Dialogue: 10,0:10:12.34,0:10:14.34,Main,Jeekyo,0,0,0,,Who will be the winner?!
 Dialogue: 10,0:10:14.34,0:10:18.10,Main,Rotom,0,0,0,,Satoshi and Pikachu \N still have their Z-Move-roto!
 Dialogue: 10,0:10:18.10,0:10:19.52,Main,Mamane,0,0,0,,Now’s your chance!
 Dialogue: 10,0:10:19.52,0:10:20.77,Main,Suiren,0,0,0,,Go!
-Dialogue: 10,0:10:21.23,0:10:24.02,Main,Tupper,0,0,0,,M-Mr. Guzma’ll be fine... \N Won’t he?
+Dialogue: 10,0:10:21.23,0:10:24.02,Main,Tupper,0,0,0,,M-Mr. Guzma{honorific note: Guzma-san}’ll be fine... \N Won’t he?
 Dialogue: 10,0:10:32.57,0:10:35.82,Main,Them,0,0,0,,{\i1}Pocket Monsters Sun & Moon!{\i0}
 Comment: 10,0:10:37.53,0:10:37.53,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:10:38.33,0:10:40.41,Main,Satoshi,0,0,0,,I’ll get Pokémon!
@@ -161,13 +161,13 @@ Dialogue: 10,0:11:54.40,0:11:56.53,Main,Guzma,0,0,0,,Makes my skin crawl...
 Dialogue: 10,0:11:57.20,0:11:58.91,Main,Guzma,0,0,0,,Kukui... And this kid!
 Dialogue: 10,0:11:59.99,0:12:02.79,Main,Guzma,0,0,0,,If I’m gonna lose to this brat,
 Dialogue: 10,0:12:02.79,0:12:06.33,Main,Guzma,0,0,0,,then I might as well use those guys \N to wreck this whole League!
-Dialogue: 10,0:12:07.12,0:12:08.96,Main,Tupper,0,0,0,,Mr. Guzma?
+Dialogue: 10,0:12:07.12,0:12:08.96,Main,Tupper,0,0,0,,Mr. Guzma{honorific note: Guzma-san}?
 Dialogue: 10,0:12:08.96,0:12:10.13,Main,Zip,0,0,0,,What’s goin’ on?
 Dialogue: 10,0:12:11.29,0:12:14.21,Main,Plumeri,0,0,0,,I know what you’re thinking.
 Dialogue: 10,0:12:14.76,0:12:16.67,Main,Plumeri,0,0,0,,You’re afraid to lose, right?
-Dialogue: 10,0:12:20.09,0:12:23.22,Main,Zip,0,0,0,,Mr. Guzma was \N so cool today, too!
-Dialogue: 10,0:12:23.22,0:12:27.14,Main,Tupper,0,0,0,,Team Skull ain’t got no equals, long as \N we got the undefeated Mr. Guzma on our side!
-Dialogue: 10,0:12:27.14,0:12:29.14,Main,Tupper,0,0,0,,Right, Mr. Guzma?
+Dialogue: 10,0:12:20.09,0:12:23.22,Main,Zip,0,0,0,,Mr. Guzma{honorific note: Guzma-san} was \N so cool today, too!
+Dialogue: 10,0:12:23.22,0:12:27.14,Main,Tupper,0,0,0,,Team Skull ain’t got no equals, long as \N we got the undefeated Mr. Guzma{honorific note: Guzma-san} on our side!
+Dialogue: 10,0:12:27.14,0:12:29.14,Main,Tupper,0,0,0,,Right, Mr. Guzma{honorific note: Guzma-san}?
 Dialogue: 10,0:12:41.74,0:12:43.49,Main,Plumeri,0,0,0,,Guzma the undefeated...
 Dialogue: 10,0:12:43.49,0:12:46.04,Main,Plumeri,0,0,0,,Of course, because you only take on \N fights you can win.
 Dialogue: 10,0:12:46.58,0:12:49.50,Main,Plumeri,0,0,0,,You and Gusokumusha \N are a lot alike.
@@ -191,7 +191,7 @@ Dialogue: 10,0:14:31.27,0:14:35.06,Main,Guzma,0,0,0,,I see... You’re not gonna
 Dialogue: 10,0:14:43.86,0:14:47.28,Main,Guzma,0,0,0,,Why?! Why can’t I beat him?! {Copy-paste from... line 220 in this script}
 Dialogue: 10,0:14:47.28,0:14:51.41,Main,Guzma,0,0,0,,That high-and-mighty \N “I’ll follow the righteous path” attitude of yours...{Copy-paste from 128 start}
 Dialogue: 10,0:14:51.41,0:14:53.25,Main,Guzma,0,0,0,,...really gets on my nerves!{Copy-paste from 128 end}
-Dialogue: 10,0:14:53.25,0:14:55.92,Main,Tupper,0,0,0,,Ya really {\i1}are{\i0} \N the undefeated Mr. Guzma!
+Dialogue: 10,0:14:53.25,0:14:55.92,Main,Tupper,0,0,0,,Ya really {\i1}are{\i0} \N the undefeated Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:14:55.92,0:15:00.67,Main,Guzma,0,0,0,,{\fad(0,500)}When I’m Champion, \N I’ll make sure you’ll never hold another League!{More copy-paste from 128.}
 Dialogue: 10,0:15:01.42,0:15:03.92,Main,Kukui,0,0,0,,Are you just going to \N run away like that again?{Copy-paste from 115 start}
 Dialogue: 10,0:15:04.93,0:15:07.97,Main,Kukui,0,0,0,,{\fad(0,1000)}Just like you ran from the Island Pilgrimage, \N and the Island King?{Copy-paste from 115 end}
@@ -227,10 +227,10 @@ Dialogue: 10,0:18:20.54,0:18:23.37,Main,Jeekyo,0,0,0,,Now, only the finals remai
 Dialogue: 10,0:18:23.37,0:18:26.13,Main,Jeekyo,0,0,0,,Competitor Satoshi, \N with his heated, aggressive battle style...
 Dialogue: 10,0:18:26.13,0:18:29.80,Main,Jeekyo,0,0,0,,...VS Competitor Gladio, \N with his calm, bold battling style!
 Dialogue: 10,0:18:29.80,0:18:34.80,Main,Jeekyo,0,0,0,,Which of these two will become \N the Alola Pokémon League’s first-ever Champion?!
-Dialogue: 10,0:18:44.23,0:18:47.40,Main,Guzma,0,0,0,,This is the end of \N the “undefeated” Mr. Guzma.
+Dialogue: 10,0:18:44.23,0:18:47.40,Main,Guzma,0,0,0,,This is the end of \N the “undefeated” Mr. Guzma{honorific note: Guzma-sama}.
 Dialogue: 10,0:18:47.40,0:18:48.69,Main,Guzma,0,0,0,,Go wherever you want.
 Dialogue: 10,0:18:49.23,0:18:50.69,Main,Tupper,0,0,0,,That was so movin’!
-Dialogue: 10,0:18:50.69,0:18:51.90,Main,Zip,0,0,0,,Mr. Guzma!
+Dialogue: 10,0:18:50.69,0:18:51.90,Main,Zip,0,0,0,,Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:18:51.90,0:18:53.24,Main,Wrap,0,0,0,,Ya were incredible!
 Dialogue: 10,0:18:54.28,0:18:55.74,Main,Guzma,0,0,0,,You guys...
 Dialogue: 10,0:18:57.12,0:19:00.99,Main,Plumeri,0,0,0,,They all got real fired up \N watching you battle.
@@ -240,7 +240,7 @@ Dialogue: 10,0:19:10.25,0:19:13.01,Main,Wrap,0,0,0,,We wanna have \N some {\i1}r
 Dialogue: 10,0:19:13.59,0:19:14.22,Main,Team Skull Grunt,0,0,0,,Me, too!
 Dialogue: 10,0:19:14.22,0:19:15.59,Main,Team Skull Grunt,0,0,0,,And me!
 Dialogue: 10,0:19:16.68,0:19:19.97,Main,Plumeri,0,0,0,,Looks like they \N still wanna follow you.
-Dialogue: 10,0:19:21.47,0:19:25.10,Main,Tupper,0,0,0,,Oh, wait, Mr. Guzma!
+Dialogue: 10,0:19:21.47,0:19:25.10,Main,Tupper,0,0,0,,Oh, wait, Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:19:27.27,0:19:30.73,Main,Plumeri,0,0,0,,Perhaps it’s time for Team Skull \N to take a step forward?
 Dialogue: 10,0:19:31.44,0:19:34.74,Main,Plumeri,0,0,0,,Of course, I’ll be with you... \N if that’s what you want, Guzma. {Should "if" be capitalized? - Toa}
 Dialogue: 10,0:19:52.09,0:19:53.46,Main,Joy,0,0,0,,Thank you for waiting!
@@ -267,13 +267,13 @@ Comment: 10,0:21:59.51,0:21:59.51,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.55,0:23:20.55,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.30,0:23:24.84,Main,Hala,0,0,0,,I am Hala!
 Dialogue: 10,0:23:24.84,0:23:26.97,Main,Hala,0,0,0,,The referee was...
-Dialogue: 10,0:23:26.97,0:23:29.18,Main,Hala,0,0,0,,...Mr. Kuchinashi, huh?
-Dialogue: 10,0:23:29.18,0:23:33.64,Main,Hala,0,0,0,,It seems Guzma learned something \N from his battle with Satoshi.
+Dialogue: 10,0:23:26.97,0:23:29.18,Main,Hala,0,0,0,,...Mr. Kuchinashi{honorific note: Kuchinashi-san}, huh?
+Dialogue: 10,0:23:29.18,0:23:33.64,Main,Hala,0,0,0,,It seems Guzma learned something \N from his battle with Satoshi{honorific note: Satoshi-kun}.
 Dialogue: 10,0:23:33.64,0:23:37.27,Main,Hala,0,0,0,,Pokémon Battles are \N a truly complicated affair!
 Dialogue: 10,0:23:37.27,0:23:39.02,Main,Tupper,0,0,0,,All right!
 Dialogue: 10,0:23:39.02,0:23:42.15,Main,Tupper,0,0,0,,Let’s get some \N battle trainin’ done!
 Dialogue: 10,0:23:42.15,0:23:43.94,Main,Wrap,0,0,0,,Strike while the iron’s hot!
-Dialogue: 10,0:23:43.94,0:23:46.53,Main,Zip,0,0,0,,Let’s try to be as awesome \N as Mr. Guzma!
+Dialogue: 10,0:23:43.94,0:23:46.53,Main,Zip,0,0,0,,Let’s try to be as awesome \N as Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:23:46.53,0:23:49.03,Main,Team Skull,0,0,0,,{\i1}Yeah!{\i0}
 Dialogue: 10,0:23:49.03,0:23:50.49,Main,Plumeri,0,0,0,,Pipe down!
 Dialogue: 10,0:23:50.49,0:23:52.41,Main,Plumeri,0,0,0,,Do you know what time it is?!
@@ -307,7 +307,7 @@ Dialogue: 0,0:00:06.36,0:00:15.50,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur3\po
 Dialogue: 0,0:00:06.36,0:00:15.50,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur3\pos(1434,870)}Hapu'u
 Dialogue: 0,0:00:06.36,0:00:15.50,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur3\pos(1408.5,852)}-
 Comment: 10,0:03:16.43,0:03:16.43,Main,,0,0,0,,
-Dialogue: 0,0:03:16.47,0:03:21.47,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,435)}Guzma the Undefeated Emperor! {KING CRIMSON! - Toa}
+Dialogue: 0,0:03:16.47,0:03:21.47,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,435)}Guzma, the Undefeated Emperor! {KING CRIMSON! - Toa}
 Comment: 10,0:10:40.54,0:10:40.54,Main,,0,0,0,,
 Dialogue: 0,0:10:40.58,0:10:43.54,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs60\blur4.5\pos(202.5,717)}Name: Warrgle\N{\fs60}Type:   Normal/Flying
 Comment: 10,0:24:00.50,0:24:00.50,Main,,0,0,0,,
@@ -411,3 +411,5 @@ Data: 4,_aegi_folddata,e0;1;3
 Data: 5,_aegi_folddata,e1;1;3
 Data: 6,_aegi_folddata,e0;1;4
 Data: 7,_aegi_folddata,e1;1;4
+Data: 8,_aegi_folddata,e0;0;1
+Data: 9,_aegi_folddata,e1;0;1

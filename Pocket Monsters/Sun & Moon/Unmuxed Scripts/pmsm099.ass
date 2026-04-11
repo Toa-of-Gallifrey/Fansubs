@@ -41,36 +41,36 @@ Dialogue: 10,0:02:57.24,0:02:59.83,Main,Human being,0,0,0,,Wanna have a barbecue
 Dialogue: 10,0:03:00.58,0:03:02.75,Main,Human being,0,0,0,,I get it!
 Comment: 10,0:03:13.46,0:03:13.46,Main,,0,0,0,,{Opening}
 Comment: 10,0:04:41.51,0:04:41.51,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:04:51.15,0:04:52.61,Main,Ho,0,0,0,,Yay! Yay!
+Dialogue: 10,0:04:51.15,0:04:52.61,Main,Hou,0,0,0,,Yay! Yay!
 Dialogue: 10,0:04:52.61,0:04:54.73,Main,Sui,0,0,0,,Yay! Yay! Yay!
 Dialogue: 10,0:04:54.73,0:04:56.98,Main,Suiren,0,0,0,,Alola...
-Dialogue: 10,0:04:56.98,0:04:58.69,Main,Ho,0,0,0,,Alola! Alola!
+Dialogue: 10,0:04:56.98,0:04:58.69,Main,Hou,0,0,0,,Alola! Alola!
 Dialogue: 10,0:04:58.69,0:05:00.53,Main,Sui,0,0,0,,Alola! Alola! Alola!
 Dialogue: 10,0:05:00.99,0:05:02.62,Main,Suiren,0,0,0,,You sure are peppy...
-Dialogue: 10,0:05:02.62,0:05:05.16,Main,Ho & Sui,0,0,0,,Yeah! Peppy! Peppy!
-Dialogue: 10,0:05:05.16,0:05:06.20,Main,Ho & Sui,0,0,0,,Because...
-Dialogue: 10,0:05:06.20,0:05:07.54,Main,Ho,0,0,0,,He’s coming home!
+Dialogue: 10,0:05:02.62,0:05:05.16,Main,Hou & Sui,0,0,0,,Yeah! Peppy! Peppy!
+Dialogue: 10,0:05:05.16,0:05:06.20,Main,Hou & Sui,0,0,0,,Because...
+Dialogue: 10,0:05:06.20,0:05:07.54,Main,Hou,0,0,0,,He’s coming home!
 Dialogue: 10,0:05:07.54,0:05:09.12,Main,Sui,0,0,0,,Home! Home!
 Dialogue: 10,0:05:09.12,0:05:10.08,Main,Suiren,0,0,0,,Coming home?
-Dialogue: 10,0:05:11.04,0:05:12.25,Main,Ho & Sui,0,0,0,,Daddy’s coming home!
+Dialogue: 10,0:05:11.04,0:05:12.25,Main,Hou & Sui,0,0,0,,Daddy’s coming home!
 Dialogue: 10,0:05:13.75,0:05:14.92,Main,Suiren,0,0,0,,I see!
 Dialogue: 10,0:05:21.51,0:05:23.64,Main,Suiren's Mom,0,0,0,,He just called.
 Dialogue: 10,0:05:23.64,0:05:27.35,Main,Suiren's Mom,0,0,0,,He’s obtained{Intentionally avoided both "caught" and "gotten" here because she does not use the common phrase that is "getto". -Starfish} every single one of \N the Pokémon the lab requested! {Suggesting "requested" in place of "asked for". - Toa}
 Dialogue: 10,0:05:27.35,0:05:28.27,Main,Suiren,0,0,0,,Whoa!
 Dialogue: 10,0:05:28.27,0:05:31.06,Main,Suiren's Mom,0,0,0,,Including Kaiogre!
-Dialogue: 10,0:05:31.44,0:05:33.06,Main,Ho & Sui,0,0,0,,Kaiogre?!
+Dialogue: 10,0:05:31.44,0:05:33.06,Main,Hou & Sui,0,0,0,,Kaiogre?!
 Dialogue: 10,0:05:33.98,0:05:35.02,Main,Suiren's Mom,0,0,0,,No...
 Dialogue: 10,0:05:35.02,0:05:37.15,Main,Suiren's Mom,0,0,0,,I’m just kidding!
-Dialogue: 10,0:05:37.15,0:05:38.86,Main,Ho & Sui,0,0,0,,Just kidding?!
+Dialogue: 10,0:05:37.15,0:05:38.86,Main,Hou & Sui,0,0,0,,Just kidding?!
 Dialogue: 10,0:05:39.74,0:05:41.65,Main,Suiren's Mom,0,0,0,,Oh, we’ll be having a feast tonight!
-Dialogue: 10,0:05:42.61,0:05:44.74,Main,Ho & Sui,0,0,0,,Are you kidding about that, too?
+Dialogue: 10,0:05:42.61,0:05:44.74,Main,Hou & Sui,0,0,0,,Are you kidding about that, too?
 Dialogue: 10,0:05:45.49,0:05:46.87,Main,Suiren's Mom,0,0,0,,It’s true!
-Dialogue: 10,0:05:46.87,0:05:49.54,Main,Ho & Sui,0,0,0,,It’s true?!
-Dialogue: 10,0:05:50.12,0:05:52.54,Main,Ho,0,0,0,,I want malasada for dessert!
+Dialogue: 10,0:05:46.87,0:05:49.54,Main,Hou & Sui,0,0,0,,It’s true?!
+Dialogue: 10,0:05:50.12,0:05:52.54,Main,Hou,0,0,0,,I want malasada for dessert!
 Dialogue: 10,0:05:52.16,0:05:54.25,Main,Sui,0,0,0,,{\an8}Masalada! Masalada!{Not a typo. She said it wrong. -Starfish}
 Dialogue: 10,0:05:52.92,0:05:55.75,Main,Suiren,0,0,0,,We’ll go buy some. Right, Ashimari?
-Dialogue: 10,0:05:56.67,0:05:58.46,Main,Ho & Sui,0,0,0,,Thanks, Big Sis!{Sudden thing that occurred to me that will now bother me till the end of time: We've been capitalizing "Big Sis" but NOT Hoshi's "big bro" :| (Oh well at the time of writing this the season 1 batch is still not out and so it can be corrected for *most* of za episodes.) -Starfish}
-Dialogue: 10,0:05:58.46,0:06:00.84,Main,Ho & Sui,0,0,0,,Thanks, Ashimari!
+Dialogue: 10,0:05:56.67,0:05:58.46,Main,Hou & Sui,0,0,0,,Thanks, Big Sis!{Sudden thing that occurred to me that will now bother me till the end of time: We've been capitalizing "Big Sis" but NOT Hoshi's "big bro" :| (Oh well at the time of writing this the season 1 batch is still not out and so it can be corrected for *most* of za episodes.) -Starfish}
+Dialogue: 10,0:05:58.46,0:06:00.84,Main,Hou & Sui,0,0,0,,Thanks, Ashimari!
 Dialogue: 10,0:06:18.69,0:06:20.57,Main,Human being,0,0,0,,It looks wonderful on you!
 Dialogue: 10,0:06:20.57,0:06:25.16,Main,Human being,0,0,0,,You really think so? \N I wonder if it’s a tad plain, though...
 Dialogue: 10,0:06:25.62,0:06:31.00,Main,Human being,0,0,0,,Plain?! Oh, it simply pales in comparison to \N your natural beauty!
@@ -79,7 +79,7 @@ Dialogue: 10,0:06:33.87,0:06:36.33,Main,Human being,0,0,0,,Could you show me som
 Dialogue: 10,0:07:06.91,0:07:08.74,Main,Human being,0,0,0,,Welcome!
 Dialogue: 10,0:07:08.74,0:07:10.79,Main,Suiren,0,0,0,,I’d like some malasadas.
 Dialogue: 10,0:07:10.79,0:07:14.37,Main,Human being,0,0,0,,Would you like them sweet, \N sour, or dry?
-Dialogue: 10,0:07:24.80,0:07:26.88,Main,Suiren,0,0,0,,Ho and Sui want them sweet...
+Dialogue: 10,0:07:24.80,0:07:26.88,Main,Suiren,0,0,0,,Hou and Sui want them sweet...
 Dialogue: 10,0:07:26.88,0:07:28.93,Main,Suiren,0,0,0,,And then, um...
 Dialogue: 10,0:07:28.93,0:07:31.06,Main,Suiren,0,0,0,,Which would you like, Ashi...
 Dialogue: 10,0:07:32.18,0:07:34.27,Main,Suiren,0,0,0,,Huh? Ashimari?
@@ -235,19 +235,19 @@ Dialogue: 10,0:19:01.75,0:19:04.66,Main,Mao,0,0,0,,Come on... \N You got the ord
 Dialogue: 10,0:19:04.66,0:19:05.92,Main,Satoshi,0,0,0,,Catch him! Catch him!
 Dialogue: 10,0:19:25.77,0:19:28.15,Main,Suiren,0,0,0,,Will you be with us?
 Dialogue: 10,0:19:52.88,0:19:55.30,Main,Suiren,0,0,0,,I got Sandy!
-Dialogue: 10,0:20:04.56,0:20:05.89,Main,Ho & Sui,0,0,0,,Feast! Feast!
-Dialogue: 10,0:20:05.89,0:20:07.98,Main,Ho & Sui,0,0,0,,Sandy! Sandy!
+Dialogue: 10,0:20:04.56,0:20:05.89,Main,Hou & Sui,0,0,0,,Feast! Feast!
+Dialogue: 10,0:20:05.89,0:20:07.98,Main,Hou & Sui,0,0,0,,Sandy! Sandy!
 Dialogue: 10,0:20:07.98,0:20:09.35,Main,Suiren's Mom,0,0,0,,Oh, my...
-Dialogue: 10,0:20:10.36,0:20:11.73,Main,Ho & Sui,0,0,0,,Feast! Feast!
-Dialogue: 10,0:20:11.73,0:20:12.57,Main,Ho & Sui,0,0,0,,Sandy! Sandy!
+Dialogue: 10,0:20:10.36,0:20:11.73,Main,Hou & Sui,0,0,0,,Feast! Feast!
+Dialogue: 10,0:20:11.73,0:20:12.57,Main,Hou & Sui,0,0,0,,Sandy! Sandy!
 Dialogue: 10,0:20:12.57,0:20:13.90,Main,Suiren's Dad,0,0,0,,I’m home!
-Dialogue: 10,0:20:13.90,0:20:15.24,Main,Ho & Sui,0,0,0,,Daddy!
-Dialogue: 10,0:20:17.95,0:20:20.20,Main,Ho & Sui,0,0,0,,Welcome home!
+Dialogue: 10,0:20:13.90,0:20:15.24,Main,Hou & Sui,0,0,0,,Daddy!
+Dialogue: 10,0:20:17.95,0:20:20.20,Main,Hou & Sui,0,0,0,,Welcome home!
 Dialogue: 10,0:20:22.28,0:20:23.87,Main,Suiren's Dad,0,0,0,,Gah!
 Dialogue: 10,0:20:25.29,0:20:26.12,Main,Suiren,0,0,0,,Sandy.
 Dialogue: 10,0:20:26.12,0:20:27.71,Main,Suiren's Dad,0,0,0,,Sandy?
 Dialogue: 10,0:20:27.71,0:20:29.25,Main,Suiren,0,0,0,,I just caught him earlier today.
-Dialogue: 10,0:20:29.25,0:20:31.88,Main,Ho & Sui,0,0,0,,So cute! So cute!
+Dialogue: 10,0:20:29.25,0:20:31.88,Main,Hou & Sui,0,0,0,,So cute! So cute!
 Dialogue: 10,0:20:31.88,0:20:33.75,Main,Suiren,0,0,0,,He’s an Eevee who \N loves the sea!
 Dialogue: 10,0:20:34.30,0:20:35.34,Main,Suiren's Dad,0,0,0,,The sea...
 Dialogue: 10,0:20:35.84,0:20:37.34,Main,Suiren's Dad,0,0,0,,Loves the sea...
@@ -271,7 +271,7 @@ Dialogue: 10,0:23:28.93,0:23:32.47,Main,Suiren,0,0,0,,The Evolution Pokémon Eev
 Dialogue: 10,0:23:32.47,0:23:35.31,Main,Suiren,0,0,0,,What should I evolve Sandy into?
 Dialogue: 10,0:23:35.31,0:23:38.69,Main,Suiren,0,0,0,,I’m thinking of evolving him \N into a Bug type!
 Dialogue: 10,0:23:38.69,0:23:40.36,Main,Suiren,0,0,0,,Just kidding!
-Dialogue: 10,0:23:40.36,0:23:42.78,Main,Ho & Sui,0,0,0,,Yay! Yay!
+Dialogue: 10,0:23:40.36,0:23:42.78,Main,Hou & Sui,0,0,0,,Yay! Yay!
 Comment: 10,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:00.88,0:24:02.05,Main,Satoshi,0,0,0,,Hey, Rotom.
 Dialogue: 10,0:24:02.05,0:24:04.71,Main,Satoshi,0,0,0,,I saw a yellow, spiky Pokémon!

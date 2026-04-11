@@ -12,6 +12,7 @@ YCbCr Matrix: TV.709
 Video Aspect Ratio: c1.77778
 
 [Aegisub Project Garbage]
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +35,7 @@ Dialogue: 10,0:00:12.83,0:00:15.50,Main,Joy,0,0,0,,Get the answer at the end of 
 Comment: 10,0:00:15.50,0:00:15.50,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:16.83,0:00:18.83,Main,Narrator,0,0,0,,It’s the second round \N of the Alola Pokémon League.
 Dialogue: 10,0:00:19.50,0:00:21.79,Main,Narrator,0,0,0,,Gladio won the first match.
-Dialogue: 10,0:00:21.79,0:00:27.09,Main,Narrator,0,0,0,,In the second match, Satoshi struggled greatly against Hau, \N but ultimately came out on top.
+Dialogue: 10,0:00:21.79,0:00:27.09,Main,Narrator,0,0,0,,In the second match, Satoshi managed \N to defeat Hau after a prolonged struggle.{Tentative re-edit. Was “In the second match, Satoshi struggled greatly against Hau, \N but ultimately came out on top.” which was just unreasonably unweildy. -TLC}
 Dialogue: 10,0:00:27.72,0:00:30.01,Main,Narrator,0,0,0,,Now the third match has begun.
 Dialogue: 10,0:00:30.01,0:00:33.39,Main,Narrator,0,0,0,,Māmane has researched \N Kaki’s battle style thoroughly,
 Dialogue: 10,0:00:33.39,0:00:36.27,Main,Narrator,0,0,0,,and is pushing Lizardon into a corner \N with Kuwagannon.
@@ -86,7 +87,7 @@ Dialogue: 10,0:05:50.58,0:05:54.67,Main,Jeekyo,0,0,0,,Kuwagannon charged in! \N 
 Dialogue: 10,0:05:54.67,0:05:57.25,Main,Kaki,0,0,0,,It’s a spectacular clash!
 Dialogue: 10,0:06:10.22,0:06:11.23,Main,Mamane,0,0,0,,Kuwagannon!
 Dialogue: 10,0:06:13.64,0:06:15.94,Main,Kaki,0,0,0,,I gotta hand it to you, Māmane...
-Dialogue: 10,0:06:15.94,0:06:18.61,Main,Kaki,0,0,0,,You’ve done well to draw out \N so much power from Kuwagannon. {This sounds a bit too Hala-y to me (which is weird for me to say since we've disagreed on interpretations for Kaki's speech before where my stance was him speaking more proper), but I'm not sure what to suggest. Leave it if it seems fine to you. - Toa}
+Dialogue: 10,0:06:15.94,0:06:18.61,Main,Kaki,0,0,0,,You’ve done well to draw out \N so much power from Kuwagannon. {This sounds a bit too Hala-y to me (which is weird for me to say since we’ve disagreed on interpretations for Kaki’s speech before where my stance was him speaking more proper), but I’m not sure what to suggest. Leave it if it seems fine to you. - Toa}
 Dialogue: 10,0:06:19.82,0:06:22.74,Main,Kaki,0,0,0,,I’ve been looking forward \N to this battle!
 Dialogue: 10,0:06:23.53,0:06:27.45,Main,Kaki,0,0,0,,And you haven’t let me down!
 Dialogue: 10,0:06:28.08,0:06:29.16,Main,Mamane,0,0,0,,Kaki...
@@ -154,7 +155,7 @@ Dialogue: 10,0:11:03.18,0:11:04.94,Main,Guzma,0,0,0,,Destroy ‘em, Gusokumusha!
 Dialogue: 10,0:11:10.27,0:11:14.07,Main,Jeekyo,0,0,0,,Competitor Guzma will face the second round \N with Gusokumusha.
 Dialogue: 10,0:11:14.07,0:11:19.28,Main,Jeekyo,0,0,0,,How will Competitor Suiren and Ashirène \N stand up to its hard shell?
 Dialogue: 10,0:11:20.12,0:11:21.70,Main,Suiren,0,0,0,,Gusokumusha...
-Dialogue: 10,0:11:21.74,0:11:22.83,Main,Guzma,0,0,0,,{\fad(300,0)}First Impression.
+Dialogue: 10,0:11:21.70,0:11:22.83,Main,Guzma,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\t(23,315,\3c&H000000&)}First Impression.
 Dialogue: 10,0:11:28.25,0:11:29.25,Main,Suiren,0,0,0,,Ashirène.
 Dialogue: 10,0:11:30.42,0:11:33.38,Main,Suiren,0,0,0,,Watch out for First Impression.
 Dialogue: 10,0:11:34.88,0:11:37.26,Main,Satoshi,0,0,0,,You got this, Suiren!
@@ -171,7 +172,7 @@ Dialogue: 10,0:12:14.42,0:12:17.09,Main,Team Skull,0,0,0,,{\i1}We’re the proud
 Dialogue: 10,0:12:17.09,0:12:20.72,Main,Team Skull,0,0,0,,{\i1}Our glorious leader, Mr. Guzma{honorific note: Guzma-san}!{\i0}{Copy-paste from 130 -Starfish}
 Dialogue: 10,0:12:20.72,0:12:23.51,Main,Lychee,0,0,0,,I want a fair fight \N from both of you.
 Dialogue: 10,0:12:23.51,0:12:24.77,Main,Suiren,0,0,0,,Yes!
-Dialogue: 10,0:12:29.65,0:12:31.52,Main,Lychee,0,0,0,,Let the match begin!
+Dialogue: 10,0:12:29.65,0:12:31.52,Main,Lychee,0,0,0,,Let the battle begin!
 Dialogue: 10,0:12:34.28,0:12:36.19,Main,Suiren,0,0,0,,Here it comes, Ashirène.
 Dialogue: 10,0:12:46.50,0:12:49.92,Main,Suiren,0,0,0,,If you won’t attack, then we will! \N Fleeting Bubble Aria!
 Dialogue: 10,0:12:49.92,0:12:51.04,Main,Guzma,0,0,0,,Hell Thrust.
@@ -301,7 +302,7 @@ Comment: 10,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.38,0:23:25.18,Main,Joy,0,0,0,,Thank you for waiting!
 Dialogue: 10,0:23:25.18,0:23:29.10,Main,Joy,0,0,0,,The battle ended with \N Red: Victory for Competitor Kaki!
 Dialogue: 10,0:23:29.10,0:23:33.14,Main,Joy,0,0,0,,The Flame Pokémon Lizardon \N is a Fire/Flying type.
-Dialogue: 10,0:23:33.14,0:23:37.06,Main,Joy,0,0,0,,Its wings can carry this Pokémon \N close to an altitude of 1200 meters.{X Pokédex entry -Starfish}
+Dialogue: 10,0:23:33.14,0:23:37.06,Main,Joy,0,0,0,,Its wings can carry it \N nearly 1,200 meters into the air.
 Dialogue: 10,0:23:37.06,0:23:38.73,Main,Joy,0,0,0,,Competitor Kaki, Lizardon...
 Dialogue: 10,0:23:38.73,0:23:41.65,Main,Joy,0,0,0,,Congratulations on \N reaching the semifinals!
 Dialogue: 10,0:23:41.65,0:23:43.90,Main,Joy,0,0,0,,It’s finally time for \N the semifinals!

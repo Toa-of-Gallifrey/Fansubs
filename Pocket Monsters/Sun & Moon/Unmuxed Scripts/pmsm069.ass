@@ -276,7 +276,7 @@ Dialogue: 10,0:17:57.81,0:17:58.73,Main,Musashi,0,0,0,,Musashi!
 Dialogue: 10,0:17:59.27,0:18:01.15,Main,Kojiro,0,0,0,,Read from the front: takeyabu yaketa. \N (The bamboo grove burned down) {Suggesting that, for these two lines, “takeyabu yaketa” either be rubytexted like the original iteration of Pikarla’s Kurin or TL noted in your preferred style.}{Problem is, writing it as “The bamboo grove burned down” with “takeyabu yaketa” above it like with our other TL notes makes the line annoyingly long for my tastes, whereas flipping it to have the romaji full size and the translation TL noted becomes a bit of a clusterfuck since the English still ends up being way too long. Splitting the line in two is also not really feasible given how fast he talks, and putting the TL note BELOW the line would make it a three-liner... Point being, there is no possible way for this line not to be an eyesore. I think what we have right now is the least eyesore option. -Starfish OF THE FUTURE}
 Dialogue: 10,0:18:01.15,0:18:03.19,Main,Kojiro,0,0,0,,Read from the back: takeyabu yaketa. \N (The bamboo grove burned down)
 Dialogue: 10,0:18:03.19,0:18:04.53,Main,Kojiro,0,0,0,,The apostle of palindromes!
-Dialogue: 10,0:18:04.53,0:18:05.74,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:18:04.53,0:18:05.74,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:18:05.74,0:18:09.78,Main,Nyarth,0,0,0,,I bid a view bamboo grew through adie...
 Dialogue: 10,0:18:09.78,0:18:11.24,Main,Nyarth,0,0,0,,I bid a...
 Dialogue: 10,0:18:11.24,0:18:12.74,Main,Nyarth,0,0,0,,Nyarth, who messed up \N his tongue twister!

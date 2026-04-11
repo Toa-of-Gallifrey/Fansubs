@@ -225,7 +225,7 @@ Dialogue: 10,0:13:33.50,0:13:35.50,Main,Satoshi,0,0,0,,I’ll get Pokémon!
 Dialogue: 10,0:13:42.01,0:13:44.18,Main,Hapu,0,0,0,,I shall serve as referee.
 Dialogue: 10,0:13:44.18,0:13:45.76,Main,Satoshi,0,0,0,,Sure! Counting on you!
 Dialogue: 10,0:13:46.39,0:13:47.93,Main,Hapu,0,0,0,,What is that Lugarugan?
-Dialogue: 10,0:13:47.93,0:13:51.27,Main,Rotom,0,0,0,,Satoshi’s Lugarugan is called \N the Twilight Form-roto.
+Dialogue: 10,0:13:47.93,0:13:51.27,Main,Rotom,0,0,0,,Satoshi’s Lugarugan is called \N the Dusk Form-roto.
 Dialogue: 10,0:13:51.27,0:13:54.44,Main,Hapu,0,0,0,,Twilight? I have never \N heard of this form before!{Added "form" just to clarify that she doesn't mean she is unfamiliar with the concept of dusk. Though this might not have actually been a problem for anyone. -Starfish}
 Dialogue: 10,0:13:54.44,0:13:56.57,Main,Rotom,0,0,0,,It’s a rare case. \N One of a kind-roto!
 Dialogue: 10,0:13:57.52,0:14:00.28,Main,Hapu,0,0,0,,Who {\i1}is{\i0} Satoshi?
@@ -233,7 +233,7 @@ Dialogue: 10,0:14:01.53,0:14:04.74,Main,Hapu,0,0,0,,This battle will be between 
 Dialogue: 10,0:14:04.74,0:14:09.33,Main,Hapu,0,0,0,,It will last until either side’s Pokémon \N is unable to continue battling!
 Dialogue: 10,0:14:09.33,0:14:10.04,Main,Hapu,0,0,0,,Begin!
 Dialogue: 10,0:14:10.04,0:14:11.58,Main,Satoshi,0,0,0,,Let’s go!
-Dialogue: 10,0:14:11.58,0:14:14.00,Main,Satoshi,0,0,0,,Lugarugan, Accelerock!
+Dialogue: 10,0:14:11.58,0:14:14.00,Main,Satoshi,0,0,0,,Lugarugan, Accel Rock!
 Dialogue: 10,0:14:14.63,0:14:15.79,Main,Gladio,0,0,0,,Counter!
 Dialogue: 10,0:14:16.54,0:14:17.75,Main,Satoshi,0,0,0,,Break through it with speed!
 Dialogue: 10,0:14:29.72,0:14:31.68,Main,Hapu,0,0,0,,This Counter...
@@ -245,7 +245,7 @@ Dialogue: 10,0:14:41.53,0:14:43.70,Main,Lilie,0,0,0,,Despite all the damage he t
 Dialogue: 10,0:14:45.03,0:14:47.24,Main,Gladio,0,0,0,,You managed to withstand \N our Counter?
 Dialogue: 10,0:14:48.37,0:14:49.41,Main,Gladio,0,0,0,,You’re something else!{SASUGA. -Starfish}
 Dialogue: 10,0:14:49.41,0:14:50.79,Main,Satoshi,0,0,0,,Let’s go!
-Dialogue: 10,0:14:50.79,0:14:52.58,Main,Satoshi,0,0,0,,Another Accelerock!
+Dialogue: 10,0:14:50.79,0:14:52.58,Main,Satoshi,0,0,0,,Another Accel Rock!
 Dialogue: 10,0:15:00.42,0:15:03.38,Main,Hapu,0,0,0,,Remarkable! They are taking \N advantage of the terrain!
 Dialogue: 10,0:15:03.38,0:15:05.01,Main,Lilie,0,0,0,,This is what makes Satoshi \N so formidable!
 Dialogue: 10,0:15:05.43,0:15:10.81,Main,Lilie,0,0,0,,He doesn’t just fight using moves. \N He makes everything around him an asset!
@@ -277,7 +277,7 @@ Dialogue: 10,0:16:55.04,0:16:57.29,Main,Gladio,0,0,0,,Impressive! \N But we’re
 Dialogue: 10,0:16:57.29,0:16:58.46,Main,Gladio,0,0,0,,Swords Dance!
 Dialogue: 10,0:17:02.58,0:17:03.34,Main,Satoshi,0,0,0,,That’s...
 Dialogue: 10,0:17:03.34,0:17:04.71,Main,Gladio,0,0,0,,Reversed Scale!
-Dialogue: 10,0:17:14.22,0:17:15.22,Main,Satoshi,0,0,0,,Accelerock!
+Dialogue: 10,0:17:14.22,0:17:15.22,Main,Satoshi,0,0,0,,Accel Rock!
 Dialogue: 10,0:17:24.31,0:17:26.69,Main,Rotom,0,0,0,,There’s no time for him \N to fight back-roto!
 Dialogue: 10,0:17:26.69,0:17:29.28,Main,Hapu,0,0,0,,This is quite the rampage.
 Dialogue: 10,0:17:29.28,0:17:33.03,Main,Lilie,0,0,0,,They used Swords Dance right before attacking, \N so the move’s power has increased!

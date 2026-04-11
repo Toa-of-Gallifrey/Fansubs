@@ -142,7 +142,7 @@ Dialogue: 10,0:12:43.66,0:12:45.37,Main,Satoshi,0,0,0,,I will!
 Dialogue: 10,0:12:45.37,0:12:47.12,Main,Tupper,0,0,0,,Hold it!
 Dialogue: 10,0:12:49.92,0:12:51.42,Main,Rotom,0,0,0,,Team Skull-roto!
 Dialogue: 10,0:12:51.42,0:12:53.42,Main,Tupper,0,0,0,,I can’t let that slide!
-Dialogue: 10,0:12:53.92,0:12:57.09,Main,Tupper,0,0,0,,There ain’t no way the boss \N is losin’ to {\i1}you!{\i0}{I reckon the "you" is acceptable here, no? 'cuz this would look weird with "ya," I think. -Starfish}{Agreed. - Toa}
+Dialogue: 10,0:12:53.92,0:12:57.09,Main,Tupper,0,0,0,,There ain’t no way the boss \N is losin’ to {\i1}you!{\i0}{I reckon the “you” is acceptable here, no? ‘cuz this would look weird with “ya,” I think. -Starfish}{Agreed. - Toa}
 Dialogue: 10,0:12:57.09,0:12:58.47,Main,Wrap,0,0,0,,Got that right!
 Dialogue: 10,0:12:58.47,0:13:00.80,Main,Zip,0,0,0,,Ya said it, Bro!
 Dialogue: 10,0:13:00.80,0:13:02.80,Main,Tupper,0,0,0,,The boss ain’t ever lost!
@@ -156,10 +156,10 @@ Dialogue: 10,0:13:15.40,0:13:17.36,Main,Tupper,0,0,0,,We’re tellin’ ya, \N i
 Dialogue: 10,0:13:17.36,0:13:19.07,Main,Lilie & Suiren,0,0,0,,It will be Satoshi!
 Dialogue: 10,0:13:23.53,0:13:24.62,Main,Plumeri,0,0,0,,Drop it!
 Dialogue: 10,0:13:26.16,0:13:27.08,Main,Tupper,0,0,0,,Boss!
-Dialogue: 10,0:13:27.62,0:13:29.54,Main,Tupper,0,0,0,,Yo, listen to this!{So here we have the choice between a scene bleed and a line cutting off awkwardly early... YAY. -Starfish}{Yeah the keyframe'd be too early a cut. - Toa}
+Dialogue: 10,0:13:27.62,0:13:29.54,Main,Tupper,0,0,0,,Yo, listen to this!{So here we have the choice between a scene bleed and a line cutting off awkwardly early... YAY. -Starfish}{Yeah the keyframe’d be too early a cut. - Toa}
 Dialogue: 10,0:13:29.54,0:13:31.75,Main,Tupper,0,0,0,,They were all, \N “You have to beat that guy!”
 Dialogue: 10,0:13:31.75,0:13:33.96,Main,Tupper,0,0,0,,They called you “{\i1}that guy,{\i0}” boss!
-Dialogue: 10,0:13:33.96,0:13:37.17,Main,Tupper,0,0,0,,Can ya {\i1}believe{\i0} it?! \N I just wanna {\i1}wreck{\i0} their annoyin’ faces!{Well this sure was an overly verbose way of writing around him calling them "So freakin’ annoyin’." -Starfish}
+Dialogue: 10,0:13:33.96,0:13:37.17,Main,Tupper,0,0,0,,Can ya {\i1}believe{\i0} it?! \N I just wanna {\i1}wreck{\i0} their annoyin’ faces!{Well this sure was an overly verbose way of writing around him calling them “So freakin’ annoyin’.” -Starfish}
 Dialogue: 10,0:13:56.15,0:13:59.53,Main,Tupper,0,0,0,,Ya see that? \N Yer not even worth {\i1}acknowledgin’!{\i0}
 Dialogue: 10,0:13:59.53,0:14:01.78,Main,Zip,0,0,0,,Th-That’s what was goin’ on?!
 Dialogue: 10,0:14:01.78,0:14:02.95,Main,Wrap,0,0,0,,That was {\i1}scary{\i0}...
@@ -194,7 +194,7 @@ Dialogue: 10,0:15:40.25,0:15:41.59,Main,Human being,0,0,0,,...Competitor Satoshi
 Dialogue: 10,0:15:43.51,0:15:48.51,Main,Kuchinashi,0,0,0,,Same rules as in \N the first semifinal! Over!
 Dialogue: 10,0:15:48.51,0:15:50.51,Main,Kuchinashi,0,0,0,,You both ready?
 Dialogue: 10,0:15:50.51,0:15:51.39,Main,Satoshi,0,0,0,,Yes, sir!
-Dialogue: 10,0:16:00.06,0:16:02.19,Main,Kuchinashi,0,0,0,,Let the match begin!
+Dialogue: 10,0:16:00.06,0:16:02.19,Main,Kuchinashi,0,0,0,,Let the battle begin!
 Dialogue: 10,0:16:04.94,0:16:06.74,Main,Satoshi,0,0,0,,Here we go, Nyaheat!
 Dialogue: 10,0:16:06.74,0:16:07.53,Main,Satoshi,0,0,0,,Great Blaze!
 Dialogue: 10,0:16:08.45,0:16:09.95,Main,Guzma,0,0,0,,Dragonfly Turnaround.
@@ -264,7 +264,7 @@ Dialogue: 10,0:21:45.12,0:21:50.37,Main,Narrator,0,0,0,,Will it be Satoshi or Gu
 Dialogue: 10,0:21:51.37,0:21:54.58,Main,Narrator,0,0,0,,The fierce battle will keep going!
 Comment: 10,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.46,0:23:20.46,Main,,0,0,0,,{PokéProblem - Answer}
-Dialogue: 10,0:23:23.26,0:23:24.97,Main,Kukui,0,0,0,,Did you pull off a Future Sight?
+Dialogue: 10,0:23:23.26,0:23:24.97,Main,Kukui,0,0,0,check?,Did you pull off a Future Sight?{みらいよち / mirai yochi - “Future Sight” is not a BAD adaptation of this, but marking it anyway just in case we wanna think of something better. It’s more literally like “Future Premonition”. -TLC}
 Dialogue: 10,0:23:24.97,0:23:28.43,Main,Kukui,0,0,0,,The first Pokémon Guzma sent out \N was Hassam!
 Dialogue: 10,0:23:28.85,0:23:31.51,Main,Kukui,0,0,0,,Since Gusokumusha switched out \N with Hassam so abruptly,
 Dialogue: 10,0:23:31.51,0:23:37.69,Main,Kukui,0,0,0,,it might have the ability Emergency Exit, \N which allows it to retreat if it feels it’s in danger.
@@ -285,7 +285,7 @@ Dialogue: 10,0:24:16.69,0:24:19.15,Main,Zip,0,0,0,,Our idol, Mr. Guzma{honorific
 Dialogue: 10,0:24:19.15,0:24:21.90,Main,Wrap,0,0,0,,Everybody’s bro, Mr. Guzma{honorific note: Guzma-san}!
 Dialogue: 10,0:24:21.90,0:24:23.73,Main,Plumeri,0,0,0,,Pipe down!
 Dialogue: 10,0:24:23.73,0:24:26.70,Main,Team Skull,0,0,0,,{\i1}Next time, on Pocket Monsters Sun & Moon...{\i0}{Should this end with a colon instead of an ellipsis? - Toa}{Nop. -Starfish the giver of well-explained reasons}
-Dialogue: 10,0:24:26.70,0:24:28.86,Main,Team Skull,0,0,0,,{\i1}Guzma the Undefeated Emperor!{\i0}
+Dialogue: 10,0:24:26.70,0:24:28.86,Main,Team Skull,0,0,0,,{\i1}Guzma, the Undefeated Emperor!{\i0}
 Dialogue: 10,0:24:28.86,0:24:30.45,Main,Plumeri,0,0,0,,Sheesh...
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=0}TYPESETTING
 Dialogue: 0,0:00:07.24,0:00:15.50,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur3\pos(636,112.5)}Amemoth
@@ -300,7 +300,7 @@ Dialogue: 0,0:12:16.51,0:12:19.47,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs60\
 Comment: 10,0:24:00.46,0:24:00.46,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:26.70,Main,,0,0,0,,{\fs52.5\pos(1680,225)}Next episode
 Dialogue: 0,0:24:26.70,0:24:30.45,Episode titles,,0,0,0,,{\c&00a800&\pos(960,150)}Next time
-Dialogue: 0,0:24:26.70,0:24:30.45,Episode titles,,0,0,0,,{\c&00a800&\pos(960,780)}Guzma the Undefeated Emperor!
+Dialogue: 0,0:24:26.70,0:24:30.45,Episode titles,,0,0,0,,{\c&00a800&\pos(960,780)}Guzma, the Undefeated Emperor!
 Dialogue: 0,0:24:30.45,0:24:33.45,Episode titles,,0,0,0,,{=1}
 Comment: 10,0:02:05.48,0:02:05.48,Main,,0,0,0,,{=2}OPENING
 Dialogue: 1,0:02:05.56,0:02:09.98,OP,,0,0,0,,{\fad(300,0)}Don’t fear things you’ve never seen or done
@@ -384,3 +384,5 @@ Data: 4,_aegi_folddata,e0;1;3
 Data: 5,_aegi_folddata,e1;1;3
 Data: 6,_aegi_folddata,e0;0;2
 Data: 7,_aegi_folddata,e1;0;2
+Data: 8,_aegi_folddata,e0;0;1
+Data: 9,_aegi_folddata,e1;0;1
