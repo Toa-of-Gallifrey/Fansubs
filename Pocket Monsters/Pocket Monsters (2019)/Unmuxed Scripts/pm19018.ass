@@ -184,7 +184,7 @@ Dialogue: 10,0:10:29.44,0:10:32.62,Main,Rotom Go Ver,0,0,0,,Raichu! Mouse Pokém
 Dialogue: 10,0:10:32.62,0:10:34.38,Main,Rotom Go Ver,0,0,0,,Pikachu’s evolved form!
 Dialogue: 10,0:10:34.38,0:10:39.45,Main,Rotom Go Ver,0,0,0,,As electricity builds up inside its body, \N it becomes more aggressive!{Ultra Sun dex entry... Though variations of this sentence are found in like half of the dex entries it has. -Starfish}
 Dialogue: 10,0:10:39.45,0:10:42.24,Main,Go,0,0,0,,Hang in there, Pikachu!
-Dialogue: 10,0:10:44.30,0:10:46.20,Main,Drone Rotom,0,0,0,,Battle start!
+Dialogue: 10,0:10:44.30,0:10:46.20,Main,Drone Rotom,0,0,0,,Battle, start!
 Dialogue: 10,0:10:46.20,0:10:48.00,Main,Visquez,0,0,0,,This is my squadron’s welcome!
 Dialogue: 10,0:10:48.00,0:10:49.46,Main,Visquez,0,0,0,,100,000 Volts!
 Dialogue: 10,0:10:51.75,0:10:54.10,Main,Satoshi,0,0,0,,We’ll use 100,000 Volts too!
@@ -324,7 +324,7 @@ Comment: 10,0:23:05.44,0:23:05.44,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.16,0:23:09.57,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.57,0:23:10.82,Main,Go,0,0,0,,Go!
 Dialogue: 10,0:23:11.60,0:23:15.24,Main,Nyarth,0,0,0,,We should make this Metamon \N our partner, meow! {not in ep19 exactly, but partially echoed by Nyarth at 0:06:00.04 much less sinisterly}
-Dialogue: 10,0:23:15.24,0:23:19.04,Main,Kojiro,0,0,0,,I agree! It would enable us to \N carry out {all-new schemes}new kinds of schemes! {not in ep19 exactly, but partially echoed by Kojiro 0:06:09.73 again much less sinisterly}
+Dialogue: 10,0:23:15.24,0:23:19.04,Main,Kojiro,0,0,0,,I agree! It would enable us to \N carry out {all-new schemes}new kinds of schemes! {not in ep19 exactly, but partially echoed by Kojirou 0:06:09.73 again much less sinisterly}
 Dialogue: 10,0:23:21.02,0:23:24.79,Main,Musashi,0,0,0,,But it’s a failure of a Metamon \N who just got fired from its TV gig, right? {I don't think this reasonably echoes any of the クビに lines from ep19}
 Dialogue: 10,0:23:24.79,0:23:29.80,Main,Musashi,0,0,0,,That thing has a {\i1}long{\i0} way to go before it’s worthy of \N acting alongside a world-class actress such as myself! {not really echoed by any of Musashi's 大女優 lines in ep19 that I can see}
 Dialogue: 10,0:23:29.80,0:23:30.85,Main,Nyarth,0,0,0,,Next time...

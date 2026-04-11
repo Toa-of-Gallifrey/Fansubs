@@ -46,7 +46,7 @@ Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:03.57,0:00:06.49,Main,Musashi,0,0,0,,Hey... \N You get the feeling we’re lost?
 Dialogue: 10,0:00:09.24,0:00:12.62,Main,Musashi,0,0,0,,How’d we even end up like this?
 Dialogue: 10,0:00:14.49,0:00:18.21,Main,Musashi,0,0,0,,Was this our fate... all along?
-Dialogue: 10,0:00:21.00,0:00:23.84,Main,Musashi,0,0,0,,Kojiro... Nyarth... Fare—
+Dialogue: 10,0:00:21.00,0:00:23.84,Main,Musashi,0,0,0,,Kojirou... Nyarth... Fare—
 Comment: 10,0:00:26.71,0:00:26.71,Main,,0,0,0,,{Opening}
 Comment: 10,0:01:54.80,0:01:54.80,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:05.90,0:02:07.32,Main,Narrator,0,0,0,,One week earlier...
@@ -139,7 +139,7 @@ Dialogue: 10,0:06:40.80,0:06:43.72,Main,Musashi,0,0,0,,Go, go, go, go, go!
 Dialogue: 10,0:06:47.22,0:06:49.39,Main,Nyarth,0,0,0,,It’s a Whaleoh, meow!
 Dialogue: 10,0:07:03.24,0:07:04.36,Main,Kojiro,0,0,0,,Musashi!
 Dialogue: 10,0:07:04.36,0:07:05.61,Main,Musashi,0,0,0,,Nyarth!
-Dialogue: 10,0:07:05.61,0:07:07.45,Main,Nyarth,0,0,0,,Sonansu!
+Dialogue: 10,0:07:05.61,0:07:07.45,Main,Nyarth,0,0,0,,Sohnansu!
 Dialogue: 10,0:07:10.20,0:07:12.75,Main,Musashi,0,0,0,,So, we’re inside Whaleoh right now?
 Dialogue: 10,0:07:12.75,0:07:15.29,Main,Kojiro,0,0,0,,I don’t want to think we are, \N but... probably.
 Dialogue: 10,0:07:15.29,0:07:19.96,Main,Nyarth,0,0,0,,We’re lucky to still be alive \N after being swallowed up like that, meow.
@@ -254,15 +254,15 @@ Dialogue: 10,0:12:37.32,0:12:39.61,Main,Kojiro,0,0,0,,Hold on! \N We’re not ev
 Dialogue: 10,0:12:39.61,0:12:40.11,Main,Musashi,0,0,0,,Huh?
 Dialogue: 10,0:12:40.11,0:12:41.57,Main,Kojiro,0,0,0,,Oh, it’s just...
 Dialogue: 10,0:12:41.57,0:12:45.12,Main,Kojiro,0,0,0,,After she took such good care of us, \N it seems rude to just abandon her...
-Dialogue: 10,0:12:45.79,0:12:48.71,Main,Musashi,0,0,0,,Kojiro. If you want to stay here, \N don’t let us stop you.
+Dialogue: 10,0:12:45.79,0:12:48.71,Main,Musashi,0,0,0,,Kojirou. If you want to stay here, \N don’t let us stop you.
 Dialogue: 10,0:12:48.71,0:12:49.79,Main,Kojiro,0,0,0,,Huh?
 Dialogue: 10,0:12:49.79,0:12:54.17,Main,Musashi,0,0,0,,I saw you and Yamato \N carving one of the crown caps you love. {Marking use of bottle caps/crowns, make sure to use the appropriate one. - Toa}{Nabbing the suggested "crown caps". -TLC}
 Dialogue: 10,0:12:54.17,0:12:57.88,Main,Nyarth,0,0,0,,I’ve never seen you \N look so happy before, meow.
 Dialogue: 10,0:12:58.34,0:12:59.55,Main,Kojiro,0,0,0,,Oh, no, that was...
 Dialogue: 10,0:12:59.55,0:13:02.26,Main,Nyarth,0,0,0,,Team Rocket’s \N nyot all there is to life.
 Dialogue: 10,0:13:02.26,0:13:04.85,Main,Musashi,0,0,0,,You’ve worked so hard \N for so long.
-Dialogue: 10,0:13:19.49,0:13:20.36,Main,Musashi and Nyarth,0,0,0,,Kojiro! Farewell!
-Dialogue: 10,0:13:20.36,0:13:23.70,Main,Kojiro,0,0,0,,Musashi! Nyarth! Sonansu!
+Dialogue: 10,0:13:19.49,0:13:20.36,Main,Musashi and Nyarth,0,0,0,,Kojirou! Farewell!
+Dialogue: 10,0:13:20.36,0:13:23.70,Main,Kojiro,0,0,0,,Musashi! Nyarth! Sohnansu!
 Comment: 10,0:13:31.50,0:13:31.50,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:13:40.97,0:13:42.22,Main,Musashi,0,0,0,,What’s this?
 Dialogue: 10,0:13:42.22,0:13:45.89,Main,Musashi,0,0,0,,“Here, where the Ground-type ends \N and the Water-type begins.”{“Aqui... Onde a terra se acaba e o mar comeca (Here, where the land ends and the sea begins).”}
@@ -322,18 +322,18 @@ Dialogue: 10,0:16:34.06,0:16:37.56,Main,Musashi,0,0,0,,What an awful fee— ling
 Dialogue: 10,0:16:47.32,0:16:50.24,Main,Musashi,0,0,0,,Hey... \N You get the feeling we’re lost?
 Dialogue: 10,0:16:52.95,0:16:55.95,Main,Musashi,0,0,0,,How’d we even end up like this?
 Dialogue: 10,0:16:58.12,0:17:01.12,Main,Musashi,0,0,0,,Was this our fate... all along?
-Dialogue: 10,0:17:04.71,0:17:07.38,Main,Musashi,0,0,0,,Kojiro... Nyarth... Fare—
+Dialogue: 10,0:17:04.71,0:17:07.38,Main,Musashi,0,0,0,,Kojirou... Nyarth... Fare—
 Dialogue: 10,0:17:12.89,0:17:13.85,Main,Kojiro,0,0,0,,Musashi!
 Dialogue: 10,0:17:13.85,0:17:15.89,Main,Nyarth,0,0,0,,Get it together, meow!
 Dialogue: 10,0:17:15.89,0:17:17.43,Main,Musashi,0,0,0,,Huh? Why...?
 Dialogue: 10,0:17:17.43,0:17:19.64,Main,Kojiro,0,0,0,,Saving a friend in need...
 Dialogue: 10,0:17:19.64,0:17:21.90,Main,Nyarth,0,0,0,,...is what a true friend \N does, meow!
-Dialogue: 10,0:17:21.90,0:17:23.36,Main,Musashi,0,0,0,,Kojiro... Nyarth...
+Dialogue: 10,0:17:21.90,0:17:23.36,Main,Musashi,0,0,0,,Kojirou... Nyarth...
 Dialogue: 10,0:17:23.36,0:17:24.40,Main,Musashi,0,0,0,,That hurts, that hurts!
 Dialogue: 10,0:17:24.40,0:17:26.78,Main,Musashi,0,0,0,,I said that hurts!
 Dialogue: 10,0:17:26.78,0:17:28.36,Main,Musashi,0,0,0,,Huh? A Sand?
 Dialogue: 10,0:17:30.15,0:17:32.49,Main,Musashi,0,0,0,,Then what was that? \N A dream?
-Dialogue: 10,0:17:34.07,0:17:36.24,Main,Musashi,0,0,0,,Sonansu! Wake up!
+Dialogue: 10,0:17:34.07,0:17:36.24,Main,Musashi,0,0,0,,Sohnansu! Wake up!
 Dialogue: 10,0:17:37.20,0:17:40.33,Main,Musashi,0,0,0,,This ain’t the time to slack off \N and drop dead, you hear me?!{Part of me almost wants to say "slack off and BE dead" but that would be a bit much... The "dead" absolutely HAS to be there though. A literal TL of this would be "to nonchalantly die." -TLC}
 Dialogue: 10,0:17:40.33,0:17:43.38,Main,Musashi,0,0,0,,We’re following that Pelipper, \N no matter what it takes!
 Dialogue: 10,0:17:51.01,0:17:51.76,Main,Musashi,0,0,0,,No! No!
@@ -344,7 +344,7 @@ Dialogue: 10,0:18:02.14,0:18:05.15,Main,Musashi,0,0,0,,That’s right, \N what w
 Dialogue: 10,0:18:05.15,0:18:07.90,Main,Musashi,0,0,0,,“To change your luck \N is to change your life.”
 Dialogue: 10,0:18:07.90,0:18:13.03,Main,Musashi,0,0,0,,Then I guess we were just \N unlucky to the bitter end...
 Dialogue: 10,0:18:13.03,0:18:14.66,Main,Kojiro and Nyarth,0,0,0,,Musashi!
-Dialogue: 10,0:18:15.49,0:18:17.16,Main,Musashi,0,0,0,,Kojiro? Nyarth?
+Dialogue: 10,0:18:15.49,0:18:17.16,Main,Musashi,0,0,0,,Kojirou? Nyarth?
 Dialogue: 10,0:18:17.70,0:18:21.16,Main,Kojiro,0,0,0,,What a stroke of luck it is \N to see you again!
 Dialogue: 10,0:18:21.16,0:18:23.67,Main,Musashi,0,0,0,,You guys... \N Why are you here?!
 Dialogue: 10,0:18:24.17,0:18:26.17,Main,Kojiro,0,0,0,,It’s a long story.
@@ -352,7 +352,7 @@ Dialogue: 10,0:18:27.04,0:18:31.47,Main,Kojiro,0,0,0,,The moment I took my eyes 
 Dialogue: 10,0:18:31.47,0:18:36.93,Main,Kojiro,0,0,0,,Yamato tossed me out, \N and when I saw Pelipper again, I chased after it!
 Dialogue: 10,0:18:36.93,0:18:43.69,Main,Nyarth,0,0,0,,{\q2}And for me, that Madonnya lookalike turned out to be \N good friends with the Persian who rules the town, meow...
 Dialogue: 10,0:18:43.69,0:18:47.06,Main,Nyarth,0,0,0,,With a broken heart, \N I bid the town farewell, meow.
-Dialogue: 10,0:18:47.06,0:18:51.82,Main,Nyarth,0,0,0,,That’s when I saw Kojiro \N chasing after Pelipper, meow.
+Dialogue: 10,0:18:47.06,0:18:51.82,Main,Nyarth,0,0,0,,That’s when I saw Kojirou \N chasing after Pelipper, meow.
 Dialogue: 10,0:18:51.82,0:18:54.07,Main,Musashi,0,0,0,,Save the details for later...
 Dialogue: 10,0:18:54.07,0:18:56.07,Main,Musashi,0,0,0,,Just do something already!
 Dialogue: 10,0:18:56.07,0:18:57.41,Main,Kojiro,0,0,0,,R-Right!
@@ -384,7 +384,7 @@ Dialogue: 10,0:20:23.49,0:20:26.33,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:20:26.33,0:20:29.79,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:20:29.79,0:20:32.54,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:20:33.21,0:20:33.92,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:20:33.92,0:20:35.01,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:20:33.92,0:20:35.01,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:20:35.59,0:20:38.47,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:20:38.47,0:20:41.76,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:20:41.76,0:20:44.18,Main,Nyarth,0,0,0,,Just kidding, meow!

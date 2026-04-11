@@ -106,9 +106,9 @@ Dialogue: 10,0:05:38.82,0:05:41.48,Main,Kojiro,0,0,0,,We’ll answer out of \N s
 Dialogue: 10,0:05:42.91,0:05:45.38,Main,Musashi,0,0,0,,To protect the world from devastation.
 Dialogue: 10,0:05:45.38,0:05:48.20,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:05:48.60,0:05:51.46,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
-Dialogue: 10,0:05:51.46,0:05:54.42,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.{This is year-old(?) stock footage... But this is the first time I’ve noticed Musashi’s hair + Kojiro’s pose is making an “R” xD -blu}
+Dialogue: 10,0:05:51.46,0:05:54.42,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.{This is year-old(?) stock footage... But this is the first time I’ve noticed Musashi’s hair + Kojirou’s pose is making an “R” xD -blu}
 Dialogue: 10,0:05:55.01,0:05:55.80,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:05:55.80,0:05:56.87,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:05:55.80,0:05:56.87,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:05:57.29,0:06:00.63,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:06:00.63,0:06:03.63,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:06:03.63,0:06:06.00,Main,Nyarth,0,0,0,,Just kidding, meow!
@@ -297,7 +297,7 @@ Dialogue: 10,0:18:09.14,0:18:11.21,Main,Satoshi,0,0,0,,It soaked up its own Wate
 Dialogue: 10,0:18:11.21,0:18:13.32,Main,Go,0,0,0,,Now your enemies can’t see you!
 Dialogue: 10,0:18:13.70,0:18:16.18,Main,Go,0,0,0,,Relax and use Water Gun{mizudeppou} on Nyarth!
 Dialogue: 10,0:18:19.66,0:18:21.71,Main,Musashi,0,0,0,,Even if you can’t see it, \N you can guess where it is!
-Dialogue: 10,0:18:21.71,0:18:23.37,Main,Musashi,0,0,0,,Sonansu, around there!
+Dialogue: 10,0:18:21.71,0:18:23.37,Main,Musashi,0,0,0,,Sohnansu, around there!
 Dialogue: 10,0:18:27.11,0:18:30.30,Main,Go,0,0,0,,Quickly get out of there, \N without a sound and without a trace!
 Dialogue: 10,0:18:32.56,0:18:34.38,Main,Go,0,0,0,,Now, Water Gun{mizudeppou}!
 Dialogue: 10,0:18:35.18,0:18:36.68,Main,Go,0,0,0,,Then run for it, Messon!
@@ -320,7 +320,7 @@ Dialogue: 10,0:19:54.38,0:19:56.12,Main,Go,0,0,0,,You did it, Messon!
 Dialogue: 10,0:19:56.12,0:20:01.68,Main,Go,0,0,0,,Hitting your opponent then returning, \N you’ve learned the ultimate hit-and-run tactic!
 Dialogue: 10,0:20:03.14,0:20:08.31,Main,Satoshi,0,0,0,,All right, Pikachu, Messon, Aceburn! \N Let’s break down this cage together!
 Dialogue: 10,0:20:09.15,0:20:10.87,Main,Kojiro,0,0,0,,Nyarth, are you okay?
-Dialogue: 10,0:20:10.87,0:20:13.36,Main,Musashi,0,0,0,,Sonansu, snap out of it!
+Dialogue: 10,0:20:10.87,0:20:13.36,Main,Musashi,0,0,0,,Sohnansu, snap out of it!
 Dialogue: 10,0:20:15.32,0:20:17.40,Main,Go,0,0,0,,Now the tables have turned!
 Dialogue: 10,0:20:18.26,0:20:19.78,Main,Kojiro,0,0,0,,No way...
 Dialogue: 10,0:20:19.78,0:20:23.83,Main,Go,0,0,0,,You can finish the job, Aceburn! \N Pyro Ball{kaen ball}!

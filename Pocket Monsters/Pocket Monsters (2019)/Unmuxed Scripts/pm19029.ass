@@ -50,34 +50,34 @@ Dialogue: 10,0:00:10.11,0:00:15.35,Main,Narrator,0,0,0,,This is the story of \N 
 Dialogue: 10,0:00:25.96,0:00:27.29,Main,Narrator,0,0,0,,The sun shines bright.
 Dialogue: 10,0:00:27.76,0:00:29.50,Main,Narrator,0,0,0,,It’s a peaceful day off.
 Dialogue: 10,0:00:31.04,0:00:32.55,Main,Koharu,0,0,0,,Sheesh!
-Dialogue: 10,0:00:42.28,0:00:43.12,Main,Sota,0,0,0,,There!{dafuq kid are you playing your Switch in handheld mode while also looking at the screen that’s not how this works. -Starfish}
+Dialogue: 10,0:00:42.28,0:00:43.12,Main,Souta,0,0,0,,There!{dafuq kid are you playing your Switch in handheld mode while also looking at the screen that’s not how this works. -Starfish}
 Dialogue: 10,0:00:50.54,0:00:52.76,Main,Koharu,0,0,0,,Mom, this illustration’s yours, isn’t it?
 Dialogue: 10,0:00:53.40,0:00:56.70,Main,Yoshino,0,0,0,,Correct! You really are my daughter.{SASUGA. -Starfish}
 Dialogue: 10,0:00:56.70,0:00:58.78,Main,Koharu,0,0,0,,Isn’t this me?
 Dialogue: 10,0:01:00.01,0:01:04.23,Main,Koharu,0,0,0,,You know I don’t like my bedhair!\N Why would you put it in an illustration?!
 Dialogue: 10,0:01:04.23,0:01:07.19,Main,Yoshino,0,0,0,,Oh, no, that’s just a character! \N A completely fictional creation.
 Dialogue: 10,0:01:07.19,0:01:09.41,Main,Yoshino,0,0,0,,It doesn’t look like you at all.
-Dialogue: 10,0:01:09.41,0:01:10.04,Main,Sota,0,0,0,,Lemme see.
-Dialogue: 10,0:01:11.14,0:01:12.42,Main,Sota,0,0,0,,It’s Sis!
+Dialogue: 10,0:01:09.41,0:01:10.04,Main,Souta,0,0,0,,Lemme see.
+Dialogue: 10,0:01:11.14,0:01:12.42,Main,Souta,0,0,0,,It’s Sis!
 Dialogue: 10,0:01:12.42,0:01:13.98,Main,Koharu,0,0,0,,See?!
-Dialogue: 10,0:01:13.98,0:01:16.48,Main,Yoshino,0,0,0,,Oh, Sota...
+Dialogue: 10,0:01:13.98,0:01:16.48,Main,Yoshino,0,0,0,,Oh, Souta...
 Dialogue: 10,0:01:17.29,0:01:20.08,Main,Yoshino,0,0,0,,Oh, dear, it seems \N Wanpachi is calling.
 Dialogue: 10,0:01:20.08,0:01:22.02,Main,Yoshino,0,0,0,,What is it, Wanpachi?
 Dialogue: 10,0:01:30.23,0:01:32.94,Main,Yoshino,0,0,0,,Wh-What? \N What’s that in your mouth?!
 Dialogue: 10,0:01:33.37,0:01:35.83,Main,Koharu,0,0,0,,W-Wait a second, Wanpachi!
 Dialogue: 10,0:01:37.32,0:01:38.91,Main,Sakuragi,0,0,0,,Wanpachi, come here.
 Dialogue: 10,0:01:38.91,0:01:40.16,Main,Sakuragi,0,0,0,,There, there...
-Dialogue: 10,0:01:41.61,0:01:42.87,Main,Sota,0,0,0,,It’s a Mamepato.
+Dialogue: 10,0:01:41.61,0:01:42.87,Main,Souta,0,0,0,,It’s a Mamepato.
 Dialogue: 10,0:01:44.02,0:01:44.85,Main,Koharu,0,0,0,,But...
-Dialogue: 10,0:01:44.85,0:01:46.07,Main,Sota,0,0,0,,It’s not moving.
+Dialogue: 10,0:01:44.85,0:01:46.07,Main,Souta,0,0,0,,It’s not moving.
 Dialogue: 10,0:01:48.75,0:01:49.99,Main,Sakuragi,0,0,0,,It’s fine.
 Dialogue: 10,0:01:49.99,0:01:51.90,Main,Sakuragi,0,0,0,,It’s just unconscious.
-Dialogue: 10,0:01:53.14,0:01:54.71,Main,Sota,0,0,0,,What a relief.
+Dialogue: 10,0:01:53.14,0:01:54.71,Main,Souta,0,0,0,,What a relief.
 Dialogue: 10,0:01:55.42,0:01:58.44,Main,Koharu,0,0,0,,Oh, yeah... \N Something hit my window earlier.
 Dialogue: 10,0:01:58.44,0:02:00.74,Main,Koharu,0,0,0,,It must have been \N this Mamepato.
 Dialogue: 10,0:02:10.38,0:02:12.19,Main,Yoshino,0,0,0,,It’s injured.
 Dialogue: 10,0:02:13.87,0:02:18.16,Main,Yoshino,0,0,0,,Let’s look after it \N until it can fly again.
-Dialogue: 10,0:02:19.03,0:02:20.73,Main,Sota,0,0,0,,Let me hold it, too!
+Dialogue: 10,0:02:19.03,0:02:20.73,Main,Souta,0,0,0,,Let me hold it, too!
 Dialogue: 10,0:02:20.73,0:02:22.07,Main,Koharu,0,0,0,,Treating its wounds comes first.
 Dialogue: 10,0:02:22.07,0:02:22.62,Main,Sakuragi,0,0,0,,Yeah.
 Comment: 10,0:02:30.21,0:02:30.21,Main,,0,0,0,,{Opening}
@@ -111,12 +111,12 @@ Dialogue: 10,0:05:59.42,0:06:01.84,Main,Satoshi,0,0,0,,Kairyu! \N Do your thing 
 Dialogue: 10,0:06:16.24,0:06:17.66,Main,Koharu,0,0,0,,What an appetite.
 Dialogue: 10,0:06:17.66,0:06:18.85,Main,Sakuragi,0,0,0,,Yeah.
 Dialogue: 10,0:06:21.30,0:06:23.60,Main,Yoshino,0,0,0,,I guess it said \N thanks for the food?
-Dialogue: 10,0:06:23.60,0:06:25.69,Main,Sota,0,0,0,,Mamepato, I’m Sota.
-Dialogue: 10,0:06:25.69,0:06:28.91,Main,Sota,0,0,0,,This is my sister Koharu, \N and these are my mom and dad.
+Dialogue: 10,0:06:23.60,0:06:25.69,Main,Souta,0,0,0,,Mamepato, I’m Souta.
+Dialogue: 10,0:06:25.69,0:06:28.91,Main,Souta,0,0,0,,This is my sister Koharu, \N and these are my mom and dad.
 Dialogue: 10,0:06:36.12,0:06:38.51,Main,Koharu,0,0,0,,Mamepato, this is Wanpachi.
-Dialogue: 10,0:06:42.46,0:06:44.47,Main,Sota,0,0,0,,Hey, wait!
+Dialogue: 10,0:06:42.46,0:06:44.47,Main,Souta,0,0,0,,Hey, wait!
 Dialogue: 10,0:06:46.01,0:06:47.51,Main,Yoshino,0,0,0,,Oh, dear...
-Dialogue: 10,0:06:48.04,0:06:49.59,Main,Sota,0,0,0,,Wait! Wait!
+Dialogue: 10,0:06:48.04,0:06:49.59,Main,Souta,0,0,0,,Wait! Wait!
 Dialogue: 10,0:06:54.10,0:06:56.47,Main,Koharu,0,0,0,,Wanpachi, don’t chase after it.
 Dialogue: 10,0:07:24.85,0:07:26.25,Main,Yoshino,0,0,0,,What’s going on?
 Dialogue: 10,0:07:26.25,0:07:29.46,Main,Sakuragi,0,0,0,,Looks like Mamepato \N likes Wanpachi’s back.
@@ -128,10 +128,10 @@ Dialogue: 10,0:07:41.28,0:07:44.18,Main,Sakuragi,0,0,0,,but they sometimes fail 
 Dialogue: 10,0:07:44.18,0:07:45.73,Main,Sakuragi,0,0,0,,It’s very forgetful,
 Dialogue: 10,0:07:45.73,0:07:49.14,Main,Sakuragi,0,0,0,,and sometimes forgets that \N it even {\i1}received{\i0} an order.{idk this COULD be lifted straight from BW2 but I didn’t think the game phrasing matched up quite perfectly enough. -Starfish}
 Dialogue: 10,0:07:49.14,0:07:50.92,Main,Yoshino,0,0,0,,Really? That’s so cute!
-Dialogue: 10,0:07:50.92,0:07:52.44,Main,Sota,0,0,0,,Super cute!
+Dialogue: 10,0:07:50.92,0:07:52.44,Main,Souta,0,0,0,,Super cute!
 Dialogue: 10,0:07:52.44,0:07:55.65,Main,Koharu,0,0,0,,Cute... Really?
 Dialogue: 10,0:07:58.05,0:07:59.64,Main,Koharu,0,0,0,,I guess it is!
-Dialogue: 10,0:08:00.41,0:08:02.25,Main,Sota,0,0,0,,It’s nice to meet you, \N Mamepato!
+Dialogue: 10,0:08:00.41,0:08:02.25,Main,Souta,0,0,0,,It’s nice to meet you, \N Mamepato!
 Dialogue: 10,0:08:02.25,0:08:05.19,Main,Yoshino,0,0,0,,Make yourself at home.
 Dialogue: 10,0:08:05.19,0:08:06.29,Main,Koharu,0,0,0,,Wanpachi?
 Dialogue: 10,0:08:25.81,0:08:27.64,Main,Koharu,0,0,0,,Welcome in, Mamepato.
@@ -140,22 +140,22 @@ Dialogue: 10,0:08:45.13,0:08:49.01,Main,Koharu,0,0,0,,Quite a few girls in my cl
 Dialogue: 10,0:08:49.77,0:08:51.70,Main,Koharu,0,0,0,,You like frizzy hair?
 Dialogue: 10,0:08:54.52,0:08:55.93,Main,Koharu,0,0,0,,I guess you do.
 Dialogue: 10,0:09:17.43,0:09:19.06,Main,Koharu,0,0,0,,Isn’t it beautiful?
-Dialogue: 10,0:09:45.22,0:09:47.10,Main,Sota,0,0,0,,Isn’t Mamepato cute?
+Dialogue: 10,0:09:45.22,0:09:47.10,Main,Souta,0,0,0,,Isn’t Mamepato cute?
 Dialogue: 10,0:09:47.56,0:09:49.29,Main,Yoshino,0,0,0,,Eat up.
 Dialogue: 10,0:09:51.13,0:09:54.74,Main,Koharu,0,0,0,,Mamepato seems to be \N doing better than yesterday.
 Dialogue: 10,0:09:58.76,0:10:01.14,Main,Koharu,0,0,0,,Hey, Wanpachi, stop that!
 Dialogue: 10,0:10:01.66,0:10:03.95,Main,Koharu,0,0,0,,You’ll tear my uniform!
 Dialogue: 10,0:10:03.95,0:10:05.41,Main,Yoshino,0,0,0,,Wanpachi?
-Dialogue: 10,0:10:05.41,0:10:07.11,Main,Sota,0,0,0,,What could be wrong?
+Dialogue: 10,0:10:05.41,0:10:07.11,Main,Souta,0,0,0,,What could be wrong?
 Dialogue: 10,0:10:09.46,0:10:11.25,Main,Sakuragi,0,0,0,,It must be jealousy.
-Dialogue: 10,0:10:11.70,0:10:12.88,Main,Sota,0,0,0,,Jealousy?{Okay so everyone getting confused by this word makes sense in Japanese since he’s using the English word, but in the translation it’s a bit weird... Should we find a more complicated-sounding synonym? -Starfish}{eh, I think it comes off just fine with a direct translation imo. —Puto}
+Dialogue: 10,0:10:11.70,0:10:12.88,Main,Souta,0,0,0,,Jealousy?{Okay so everyone getting confused by this word makes sense in Japanese since he’s using the English word, but in the translation it’s a bit weird... Should we find a more complicated-sounding synonym? -Starfish}{eh, I think it comes off just fine with a direct translation imo. —Puto}
 Dialogue: 10,0:10:12.88,0:10:16.44,Main,Sakuragi,0,0,0,,Wanpachi is like our youngest child.
 Dialogue: 10,0:10:16.44,0:10:18.93,Main,Sakuragi,0,0,0,,Everyone in the family loves him.
 Dialogue: 10,0:10:18.93,0:10:20.22,Main,Yoshino,0,0,0,,I suppose.
 Dialogue: 10,0:10:20.22,0:10:24.09,Main,Sakuragi,0,0,0,,But now Mamepato has \N taken that “youngest child” spot,
 Dialogue: 10,0:10:24.09,0:10:27.14,Main,Sakuragi,0,0,0,,and even his precious Koharu \N is fixated on Mamepato.
 Dialogue: 10,0:10:27.14,0:10:28.84,Main,Yoshino,0,0,0,,I see.
-Dialogue: 10,0:10:28.84,0:10:30.60,Main,Sota,0,0,0,,I don’t get it.
+Dialogue: 10,0:10:28.84,0:10:30.60,Main,Souta,0,0,0,,I don’t get it.
 Dialogue: 10,0:10:30.60,0:10:33.48,Main,Koharu,0,0,0,,Dad, it’s time for us to go!
 Dialogue: 10,0:10:33.48,0:10:35.10,Main,Sakuragi,0,0,0,,Oh, of course!
 Dialogue: 10,0:10:35.10,0:10:39.99,Main,Sakuragi,0,0,0,,I’ll look into whether there are any reports \N of a missing Mamepato.
@@ -206,7 +206,7 @@ Dialogue: 10,0:13:48.30,0:13:51.24,Main,Renji,0,0,0,,I remember what \N she was 
 Dialogue: 10,0:13:51.24,0:13:52.23,Main,Koharu,0,0,0,,What?
 Dialogue: 10,0:13:52.23,0:13:55.80,Main,Renji,0,0,0,,Back when I was still a student \N at the Director’s laboratory...
 Dialogue: 10,0:13:55.80,0:13:59.70,Main,Sakuragi,0,0,0,,A friend from the Galar Region \N sent me Wanpachi.
-Dialogue: 10,0:13:59.70,0:14:03.17,Main,Sakuragi,0,0,0,,This was before Sota was born, \N back when you were still an only child.
+Dialogue: 10,0:13:59.70,0:14:03.17,Main,Sakuragi,0,0,0,,This was before Souta was born, \N back when you were still an only child.
 Dialogue: 10,0:14:03.17,0:14:05.67,Main,Sakuragi,0,0,0,,You got really jealous of Wanpachi.
 Dialogue: 10,0:14:05.67,0:14:06.82,Main,Koharu,0,0,0,,I did?
 Dialogue: 10,0:14:06.82,0:14:10.23,Main,Renji,0,0,0,,Back then, it seemed like \N you were thinking,
@@ -282,15 +282,15 @@ Dialogue: 10,0:19:56.35,0:19:57.68,Main,Human being,0,0,0,,It’s super quick,
 Dialogue: 10,0:19:57.68,0:20:01.19,Main,Human being,0,0,0,,and cares more than anyone \N for its teammates.
 Dialogue: 10,0:20:01.19,0:20:03.84,Main,Human being,0,0,0,,Its leadership skills \N are unmatched.
 Dialogue: 10,0:20:04.23,0:20:06.00,Main,Sakuragi,0,0,0,,I see.
-Dialogue: 10,0:20:06.00,0:20:08.38,Main,Sota,0,0,0,,Mamepato’s leaving?
-Dialogue: 10,0:20:08.38,0:20:12.23,Main,Yoshino,0,0,0,,That’s right, Sota.\N Mamepato’s going back to its real home.
+Dialogue: 10,0:20:06.00,0:20:08.38,Main,Souta,0,0,0,,Mamepato’s leaving?
+Dialogue: 10,0:20:08.38,0:20:12.23,Main,Yoshino,0,0,0,,That’s right, Souta.\N Mamepato’s going back to its real home.
 Dialogue: 10,0:20:13.02,0:20:15.36,Main,Human being,0,0,0,,Thank you for looking after it!
-Dialogue: 10,0:20:15.79,0:20:18.86,Main,Sota,0,0,0,,But we just became friends...
-Dialogue: 10,0:20:18.86,0:20:20.01,Main,Koharu,0,0,0,,Sota.
+Dialogue: 10,0:20:15.79,0:20:18.86,Main,Souta,0,0,0,,But we just became friends...
+Dialogue: 10,0:20:18.86,0:20:20.01,Main,Koharu,0,0,0,,Souta.
 Dialogue: 10,0:20:20.01,0:20:21.86,Main,Koharu,0,0,0,,Look at Mamepato.
 Dialogue: 10,0:20:22.72,0:20:26.87,Main,Koharu,0,0,0,,It loves its real trainer a lot.
-Dialogue: 10,0:20:28.78,0:20:29.98,Main,Sota,0,0,0,,I guess you’re right.
-Dialogue: 10,0:20:37.23,0:20:39.87,Main,Sota,0,0,0,,Mamepato! \N Come visit again sometime!
+Dialogue: 10,0:20:28.78,0:20:29.98,Main,Souta,0,0,0,,I guess you’re right.
+Dialogue: 10,0:20:37.23,0:20:39.87,Main,Souta,0,0,0,,Mamepato! \N Come visit again sometime!
 Dialogue: 10,0:20:39.87,0:20:41.63,Main,Koharu,0,0,0,,We’re waiting for you!
 Dialogue: 10,0:20:49.51,0:20:52.98,Main,Yoshino,0,0,0,,It sure is quiet here \N without Mamepato.
 Dialogue: 10,0:20:52.98,0:20:54.57,Main,Koharu,0,0,0,,Even though it was only here...

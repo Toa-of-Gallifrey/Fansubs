@@ -75,12 +75,12 @@ Dialogue: 10,0:01:36.91,0:01:39.95,Main,Koharu,0,0,0,,...and couldn’t seem to 
 Dialogue: 10,0:01:39.95,0:01:41.37,Main,Matsubara,0,0,0,,I see...
 Comment: 10,0:01:45.63,0:01:45.63,Main,,0,0,0,,{Opening}
 Comment: 10,0:03:13.71,0:03:13.71,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:50.42,0:03:51.88,Main,Sota,0,0,0,,Sis!
-Dialogue: 10,0:03:52.80,0:03:54.46,Main,Sota,0,0,0,,Dinner’s ready!
+Dialogue: 10,0:03:50.42,0:03:51.88,Main,Souta,0,0,0,,Sis!
+Dialogue: 10,0:03:52.80,0:03:54.46,Main,Souta,0,0,0,,Dinner’s ready!
 Dialogue: 10,0:04:01.85,0:04:05.39,Main,Koharu,0,0,0,,Dad... Why is it \N that Pokémon evolve?
 Dialogue: 10,0:04:09.10,0:04:14.98,Main,Koharu,0,0,0,,Humans evolve by growing older year after year \N and growing up slowly little by little, right?
 Dialogue: 10,0:04:14.98,0:04:18.15,Main,Koharu,0,0,0,,But Pokémon evolution \N is completely different...
-Dialogue: 10,0:04:18.15,0:04:19.91,Main,Sota,0,0,0,,Don’t they just wanna \N get stronger?
+Dialogue: 10,0:04:18.15,0:04:19.91,Main,Souta,0,0,0,,Don’t they just wanna \N get stronger?
 Dialogue: 10,0:04:20.41,0:04:21.74,Main,Yoshino,0,0,0,,That could be the case.
 Dialogue: 10,0:04:21.74,0:04:25.66,Main,Yoshino,0,0,0,,Some Pokémon might evolve \N to become stronger.
 Dialogue: 10,0:04:26.29,0:04:29.96,Main,Koharu,0,0,0,,The more I think about evolution,
@@ -101,16 +101,16 @@ Dialogue: 10,0:05:13.42,0:05:16.55,Main,Koharu,0,0,0,,Now I’m even less sure..
 Dialogue: 10,0:05:17.42,0:05:20.17,Main,Sakuragi,0,0,0,,Oh, I know!
 Dialogue: 10,0:05:20.17,0:05:23.30,Main,Sakuragi,0,0,0,,Koharu! Why don’t we \N go camping this weekend? {NEP with different delivery}
 Dialogue: 10,0:05:23.30,0:05:24.18,Main,Koharu,0,0,0,,Huh? {NEP}
-Dialogue: 10,0:05:24.18,0:05:25.89,Main,Sota,0,0,0,,Camping! Yay! {Shadow Girls: We’re camping! We’re camping! We’re having so much fun!}
+Dialogue: 10,0:05:24.18,0:05:25.89,Main,Souta,0,0,0,,Camping! Yay!
 Dialogue: 10,0:05:25.89,0:05:29.77,Main,Yoshino,0,0,0,,I’d love to go! It’s been a while since \N we last went out for a relaxing nature walk.
-Dialogue: 10,0:05:31.10,0:05:33.02,Main,Sota,0,0,0,,Come on, Big Sis, let’s go!
+Dialogue: 10,0:05:31.10,0:05:33.02,Main,Souta,0,0,0,,Come on, Big Sis, let’s go!
 Dialogue: 10,0:05:34.11,0:05:35.23,Main,Koharu,0,0,0,,Sure!
 Dialogue: 10,0:05:37.90,0:05:39.28,Main,Koharu,0,0,0,,We’re off.
 Dialogue: 10,0:05:41.70,0:05:44.74,Main,Yoshino,0,0,0,,We’ll head there as soon as \N soccer club’s over.
-Dialogue: 10,0:05:46.49,0:05:50.08,Main,Sota,0,0,0,,No! Wanpachi, \N you’re going with me!
+Dialogue: 10,0:05:46.49,0:05:50.08,Main,Souta,0,0,0,,No! Wanpachi, \N you’re going with me!
 Dialogue: 10,0:05:51.37,0:05:53.67,Main,Sakuragi,0,0,0,,Take care of them, Wanpachi.
 Dialogue: 10,0:05:53.67,0:05:55.13,Main,Koharu,0,0,0,,Okay, we’ll see you later.
-Dialogue: 10,0:05:55.13,0:05:57.00,Main,Yoshino & Sota,0,0,0,,See you later!
+Dialogue: 10,0:05:55.13,0:05:57.00,Main,Yoshino & Souta,0,0,0,,See you later!
 Dialogue: 10,0:06:17.19,0:06:19.40,Main,Sakuragi,0,0,0,,Koharu? Are you awake?
 Dialogue: 10,0:06:19.40,0:06:20.74,Main,Koharu,0,0,0,,Are we there?
 Dialogue: 10,0:06:20.74,0:06:21.53,Main,Sakuragi,0,0,0,,No...
@@ -172,7 +172,7 @@ Dialogue: 10,0:10:53.26,0:10:54.76,Main,Enoki,0,0,0,,Yeah!
 Dialogue: 10,0:10:54.76,0:10:57.34,Main,Enoki,0,0,0,,Just being alive’s amazing, \N all on its own!
 Dialogue: 10,0:10:57.34,0:11:00.06,Main,Sakuragi,0,0,0,,{\t(1485,2486,\c&HFFFFFF&\3c&HFFFFFF)}It is?!
 Dialogue: 10,0:11:00.06,0:11:03.56,Main,Koharu,0,0,0,,So you went through \N experiences like that, too!
-Dialogue: 10,0:11:03.56,0:11:06.77,Main,Sakuragi,0,0,0,,That was back when I was \N about as small as Sota is now.
+Dialogue: 10,0:11:03.56,0:11:06.77,Main,Sakuragi,0,0,0,,That was back when I was \N about as small as Souta is now.
 Dialogue: 10,0:11:07.31,0:11:11.11,Main,Enoki,0,0,0,,And now, \N that boy is a Pokémon Professor.
 Dialogue: 10,0:11:11.11,0:11:13.86,Main,Enoki,0,0,0,,How time flies...
 Dialogue: 10,0:11:14.57,0:11:15.20,Main,Enoki,0,0,0,,Oh!
@@ -220,16 +220,16 @@ Dialogue: 10,0:14:44.86,0:14:47.49,Main,Sakuragi,0,0,0,,Who knows...? \N But I h
 Dialogue: 10,0:14:47.49,0:14:49.54,Main,Koharu,0,0,0,,It has to be!
 Dialogue: 10,0:14:49.54,0:14:51.12,Main,Sakuragi,0,0,0,,I think you’re right.
 Dialogue: 10,0:14:53.54,0:14:57.25,Main,Sakuragi,0,0,0,,Now, then... \N We should head to the campsite.
-Dialogue: 10,0:15:03.34,0:15:05.43,Main,Sota,0,0,0,,Sorry, sorry!
+Dialogue: 10,0:15:03.34,0:15:05.43,Main,Souta,0,0,0,,Sorry, sorry!
 Dialogue: 10,0:15:07.59,0:15:09.60,Main,Them,0,0,0,,{\i1}Delicious!{\i0}{Delicious egao kamishimetara oishiku naru Delicious Party Pokémon~}
 Dialogue: 10,0:15:14.81,0:15:16.60,Main,Koharu,0,0,0,,How pretty!
-Dialogue: 10,0:15:16.60,0:15:19.61,Main,Sota,0,0,0,,The moon’s full and round.
+Dialogue: 10,0:15:16.60,0:15:19.61,Main,Souta,0,0,0,,The moon’s full and round.
 Dialogue: 10,0:15:22.82,0:15:23.86,Main,Koharu,0,0,0,,Eevee?
-Dialogue: 10,0:15:23.86,0:15:24.86,Main,Sota,0,0,0,,Wanpachi?
+Dialogue: 10,0:15:23.86,0:15:24.86,Main,Souta,0,0,0,,Wanpachi?
 Dialogue: 10,0:15:25.24,0:15:26.70,Main,Yoshino,0,0,0,,What could it be?
 Dialogue: 10,0:15:26.70,0:15:27.41,Main,Sakuragi,0,0,0,,Shh!
 Dialogue: 10,0:15:29.37,0:15:30.74,Main,Sakuragi,0,0,0,,I can hear it...
-Dialogue: 10,0:15:30.74,0:15:32.24,Main,Sota,0,0,0,,Hear what?
+Dialogue: 10,0:15:30.74,0:15:32.24,Main,Souta,0,0,0,,Hear what?
 Dialogue: 10,0:15:33.16,0:15:38.00,Main,Sakuragi,0,0,0,,We might be incredibly \N lucky tonight!
 Dialogue: 10,0:15:46.93,0:15:48.05,Main,Koharu,0,0,0,,Those voices...
 Dialogue: 10,0:15:48.05,0:15:49.47,Main,Koharu,0,0,0,,Pippi?
@@ -248,13 +248,13 @@ Dialogue: 10,0:16:49.78,0:16:50.70,Main,Koharu,0,0,0,,Huh?
 Dialogue: 10,0:17:00.37,0:17:01.33,Main,Koharu,0,0,0,,Oh, no!
 Dialogue: 10,0:17:01.33,0:17:02.33,Main,Sakuragi,0,0,0,,Golbat!
 Dialogue: 10,0:17:02.71,0:17:05.13,Main,Yoshino,0,0,0,,In the middle of their ritual...
-Dialogue: 10,0:17:05.13,0:17:06.84,Main,Sota,0,0,0,,How could they?!
-Dialogue: 10,0:17:14.39,0:17:15.26,Main,Sota,0,0,0,,They’re coming back!
+Dialogue: 10,0:17:05.13,0:17:06.84,Main,Souta,0,0,0,,How could they?!
+Dialogue: 10,0:17:14.39,0:17:15.26,Main,Souta,0,0,0,,They’re coming back!
 Dialogue: 10,0:17:16.01,0:17:17.18,Main,Koharu,0,0,0,,Eevee!
 Dialogue: 10,0:17:29.74,0:17:31.24,Main,Koharu,0,0,0,,Eevee...
 Dialogue: 10,0:17:32.70,0:17:33.87,Main,Koharu,0,0,0,,Got it.
 Dialogue: 10,0:17:33.87,0:17:35.99,Main,Koharu,0,0,0,,Eevee, use Psychokinesis!
-Dialogue: 10,0:17:54.14,0:17:56.14,Main,Sota,0,0,0,,Look! The Pippi!
+Dialogue: 10,0:17:54.14,0:17:56.14,Main,Souta,0,0,0,,Look! The Pippi!
 Dialogue: 10,0:18:17.12,0:18:19.83,Main,Sakuragi,0,0,0,,Thank you for showing us the ritual!
 Dialogue: 10,0:18:44.23,0:18:46.48,Main,Sakuragi,0,0,0,,Huh?! R-Right...
 Dialogue: 10,0:19:06.54,0:19:09.63,Main,Koharu,0,0,0,,Dad! Could that Pixie have been...?

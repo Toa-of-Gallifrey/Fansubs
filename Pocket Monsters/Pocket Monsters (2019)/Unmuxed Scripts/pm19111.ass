@@ -313,7 +313,7 @@ Dialogue: 10,0:24:13.31,0:24:15.23,Main,Go,0,0,0,,“Awesome”? Awesome how?{no
 Dialogue: 10,0:24:15.23,0:24:16.31,Main,Satoshi,0,0,0,,They have this ring,{not in the episode}
 Dialogue: 10,0:24:16.31,0:24:24.57,Main,Satoshi,0,0,0,,and they go “wham, boom, bam-bam-bam-bam-bam,” \N and then “grrrr, fwoosh, mrraaaaggh, hiy—”{not in the episode}{idk, I did my best. First set seem to be about hitting, second set are more bizarre and some seem even like he's doing animal growls.}
 Dialogue: 10,0:24:24.57,0:24:26.65,Main,Go,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:24:26.65,0:24:29.16,Main,Koharu,0,0,0,,A Triumphant Return! \N The Champion of Alola!!
+Dialogue: 10,0:24:26.65,0:24:29.16,Main,Koharu,0,0,0,,Homecoming! \N The Champion of Alola!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:46.96,0:03:50.96,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(340,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Crown Snowfield, Galar Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -364,8 +364,8 @@ Dialogue: 12,0:03:35.95,0:03:37.95,OPp2,,0,0,0,,{\1a&HFF&}I choose you!
 Comment: 0,0:00:57.00,0:00:57.00,Main,,0,0,0,,
 Dialogue: 1,0:03:41.53,0:03:46.96,Episode titles,,0,0,0,,{\fad(180, 0)\pos(595.81,124.33)}Mohn and Lilie,
 Dialogue: 0,0:03:41.53,0:03:46.96,Episode titles 2,,0,0,0,,{\fad(180, 0)\pos(595.81,124.33)}Mohn and Lilie,
-Dialogue: 1,0:03:41.53,0:03:46.96,Episode titles,,0,0,0,,{\fad(180, 0)\pos(820.44,434.11)}A Reunion in the Snow!!
-Dialogue: 0,0:03:41.53,0:03:46.96,Episode titles 2,,0,0,0,,{\fad(180, 0)\pos(820.44,434.11)}A Reunion in the Snow!!
+Dialogue: 1,0:03:41.53,0:03:46.96,Episode titles,,0,0,0,,{\fad(180, 0)\pos(820.44,434.11)}A Reunion in the Snow
+Dialogue: 0,0:03:41.53,0:03:46.96,Episode titles 2,,0,0,0,,{\fad(180, 0)\pos(820.44,434.11)}A Reunion in the Snow
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:12:47.41,0:12:51.50,Logo - Glow,,0,0,0,,{\fad(460,0)\fsp-40\bord3.5\blur1.75\fscx42\fscy42\pos(883.2,569.06)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:12:47.41,0:12:51.50,Logo - Fill,,0,0,0,,{\fad(460,0)\fsp-40\blur0.75\fscx42\fscy42\pos(883.2,569.06)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

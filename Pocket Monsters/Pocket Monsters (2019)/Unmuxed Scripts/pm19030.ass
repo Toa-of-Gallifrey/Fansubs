@@ -106,7 +106,7 @@ Dialogue: 10,0:05:37.53,0:05:40.65,Main,Hanako,0,0,0,,I thought I might drop by 
 Dialogue: 10,0:05:43.12,0:05:45.44,Main,Satoshi,0,0,0,,I haven’t had Mom’s cooking \N in a while!
 Dialogue: 10,0:05:47.91,0:05:50.87,Main,Hanako,0,0,0,,Go, Koharu, you eat up, too!
 Dialogue: 10,0:05:50.87,0:05:51.88,Main,Go,0,0,0,,Sure!
-Dialogue: 10,0:05:51.88,0:05:55.25,Main,Koharu,0,0,0,,Perfect timing! \N Mom’s out with Sota today.
+Dialogue: 10,0:05:51.88,0:05:55.25,Main,Koharu,0,0,0,,Perfect timing! \N Mom’s out with Souta today.
 Dialogue: 10,0:05:55.25,0:05:58.60,Main,Sakuragi,0,0,0,,I feel bad for having you \N make so much.
 Dialogue: 10,0:05:58.60,0:06:02.49,Main,Hanako,0,0,0,,Oh, it was nothing. You’ve been taking \N such good care of Satoshi for me!
 Dialogue: 10,0:06:02.49,0:06:06.97,Main,Sakuragi,0,0,0,,We’re happy to have him here! \N Would you like to stay the night with us?
@@ -222,7 +222,7 @@ Comment: 10,0:21:44.49,0:21:44.49,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.20,0:23:09.64,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.64,0:23:10.86,Main,Go,0,0,0,,Go!
-Dialogue: 10,0:23:11.76,0:23:15.05,Main,Go,0,0,0,,Koharu says one of Sota’s friends \N is having some trouble.{not in ep. seems to reflect the information conveyed by Koharu at 0:01:19.54 and 0:01:22.21 , but little of the actual phrasing agrees. Both use 困ってる "Komatteru" (trouble/problem).}
+Dialogue: 10,0:23:11.76,0:23:15.05,Main,Go,0,0,0,,Koharu says one of Souta’s friends \N is having some trouble.{not in ep. seems to reflect the information conveyed by Koharu at 0:01:19.54 and 0:01:22.21 , but little of the actual phrasing agrees. Both use 困ってる "Komatteru" (trouble/problem).}
 Dialogue: 10,0:23:15.05,0:23:16.31,Main,Satoshi,0,0,0,,Oh, it’s a Hinbass!{not really in ep, I think this is reflective of Satoshi's shorter exclamation at 0:02:18.21}
 Dialogue: 10,0:23:16.31,0:23:19.08,Main,Go,0,0,0,,Yeah. She’s having trouble \N with that Hinbass.{not in ep}
 Dialogue: 10,0:23:19.08,0:23:21.52,Main,Satoshi,0,0,0,,Battling trouble? \N Is it gonna battle?!{not in ep}

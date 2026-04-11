@@ -67,7 +67,7 @@ Dialogue: 10,0:01:30.70,0:01:32.65,Main,Musashi,0,0,0,,It goes back to the wild.
 Dialogue: 10,0:01:32.65,0:01:33.90,Main,Kojiro,0,0,0,,Huh?
 Comment: 10,0:01:35.78,0:01:35.78,Main,,0,0,0,,{Opening}
 Comment: 10,0:03:03.87,0:03:03.87,Main,Team Rocket,0,0,0,,PLEASE! UNDER NO CIRCUMSTANCES CATCH MORPEKO!!
-Dialogue: 10,0:03:14.27,0:03:17.83,Main,Narrator,0,0,0,,Kojiro has headed to the mountains\N with Morpeko.
+Dialogue: 10,0:03:14.27,0:03:17.83,Main,Narrator,0,0,0,,Kojirou has headed to the mountains\N with Morpeko.
 Dialogue: 10,0:03:17.83,0:03:20.41,Main,Narrator,0,0,0,,How will he return it to the wild?
 Dialogue: 10,0:03:21.69,0:03:23.75,Main,Kojiro,0,0,0,,Why do I have to...? {Added question mark. - Toa}
 Dialogue: 10,0:03:25.19,0:03:27.59,Main,Kojiro,0,0,0,,Oh, it’s nothing.
@@ -89,7 +89,7 @@ Dialogue: 10,0:04:55.56,0:04:57.98,Main,Kojiro,0,0,0,,You can take your time\N a
 Dialogue: 10,0:05:15.48,0:05:17.53,Main,Kojiro,0,0,0,,Stay strong out there...!
 Dialogue: 10,0:05:17.53,0:05:18.50,Main,Kojiro,0,0,0,,Farewell, Morpeko...
 Dialogue: 10,0:05:32.98,0:05:35.10,Main,Musashi,0,0,0,,Now we can finally eat in peace!
-Dialogue: 10,0:05:36.85,0:05:40.15,Main,Nyarth,0,0,0,,Was it a good idea to let Kojiro\N handle it on his own though, meow?
+Dialogue: 10,0:05:36.85,0:05:40.15,Main,Nyarth,0,0,0,,Was it a good idea to let Kojirou\N handle it on his own though, meow?
 Dialogue: 10,0:05:40.15,0:05:41.22,Main,Kojiro,0,0,0,,I’m back!
 Dialogue: 10,0:05:41.22,0:05:42.75,Main,Musashi,0,0,0,,Oh, good to see you.
 Dialogue: 10,0:05:42.75,0:05:44.99,Main,Nyarth,0,0,0,,You made sure it went back\N to the wild, meow?
@@ -228,7 +228,7 @@ Dialogue: 10,0:16:04.22,0:16:07.19,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:16:07.56,0:16:10.47,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:16:10.47,0:16:13.19,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:16:13.87,0:16:14.71,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:16:14.71,0:16:15.87,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:16:14.71,0:16:15.87,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:16:15.87,0:16:19.47,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:16:19.47,0:16:22.62,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:16:22.62,0:16:24.72,Main,Nyarth,0,0,0,,Just kidding, meow!

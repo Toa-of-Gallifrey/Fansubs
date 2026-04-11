@@ -176,7 +176,7 @@ Dialogue: 10,0:10:32.90,0:10:35.95,Main,Erika,0,0,0,,Please, let me help \N howe
 Dialogue: 10,0:10:35.95,0:10:38.95,Main,Go,0,0,0,,Wh-What a relief...
 Dialogue: 10,0:10:38.95,0:10:45.12,Main,Erika,0,0,0,,Okay then, everyone, pick whatever flowers you like \N and decorate your partners however you wish!
 Dialogue: 10,0:10:45.12,0:10:46.38,Main,Satoshi and Koharu and Go,0,0,0,,{\i1}Okay!{\i0}
-Dialogue: 10,0:10:47.75,0:10:50.59,Main,Musashi,0,0,0,,When we came upon \N a Flower Arranging class,{this section of TR talk(Musashi/Kojiro/Sonansu) seems to have a sing-song rhyming pattern, 'a-b a-b, a-b-c!'... No idea if it's some established rhyming form or something, but tried to keep a similar feel. -TL}
+Dialogue: 10,0:10:47.75,0:10:50.59,Main,Musashi,0,0,0,,When we came upon \N a Flower Arranging class,{this section of TR talk(Musashi/Kojirou/Sohnansu) seems to have a sing-song rhyming pattern, 'a-b a-b, a-b-c!'... No idea if it's some established rhyming form or something, but tried to keep a similar feel. -TL}
 Dialogue: 10,0:10:50.59,0:10:53.55,Main,Musashi,0,0,0,,hoping to catch ourselves \N plenty of Pokémon...
 Dialogue: 10,0:10:53.55,0:10:56.55,Main,Kojiro,0,0,0,,Finding the brat boys \N are at the same place...
 Dialogue: 10,0:10:56.55,0:10:58.22,Main,Nyarth,0,0,0,,What a surprise, meow.
@@ -204,11 +204,11 @@ Dialogue: 10,0:12:13.59,0:12:14.80,Main,Go,0,0,0,,What?
 Dialogue: 10,0:12:14.80,0:12:17.55,Main,Go,0,0,0,,I think that’s going \N a bit too far...
 Dialogue: 10,0:12:18.93,0:12:21.55,Main,Musashi,0,0,0,,Ex-moose me, dearie.{gomen kusai - a comedian's pun from gomen kudasai (excuse me), dosu e = Kyoutoben for desu yo}
 Dialogue: 10,0:12:22.68,0:12:26.73,Main,Musashi,0,0,0,,Let us in on this Pokémon \N Flower Arranging too, dearie.
-Dialogue: 10,0:12:26.73,0:12:29.19,Main,Kojiro,0,0,0,,What she said! \N We’d appreciate it!{Disguised Kojiro uses random stereotype catchphrase things like Teyandee!...}
+Dialogue: 10,0:12:26.73,0:12:29.19,Main,Kojiro,0,0,0,,What she said! \N We’d appreciate it!{Disguised Kojirou uses random stereotype catchphrase things like Teyandee!...}
 Dialogue: 10,0:12:29.19,0:12:31.94,Main,Nyarth,0,0,0,,P-Purr, meow!
 Dialogue: 10,0:12:31.94,0:12:33.48,Main,Erika,0,0,0,,Come on over.
-Dialogue: 10,0:12:33.48,0:12:37.03,Main,Erika,0,0,0,,Your partners are Sonansu and Nyarth, \N is that right?
-Dialogue: 10,0:12:38.40,0:12:40.20,Main,Go,0,0,0,,Sonansu and Nyarth?{Excuse me WHAT IS THIS are you trying to tell me that this set off ALARM BELLS in Go's head or something, like he RECOGNIZED that specific combination of Pokémon?! Who are you and what have you done with my PM19. -TLC}
+Dialogue: 10,0:12:33.48,0:12:37.03,Main,Erika,0,0,0,,Your partners are Sohnansu and Nyarth, \N is that right?
+Dialogue: 10,0:12:38.40,0:12:40.20,Main,Go,0,0,0,,Sohnansu and Nyarth?{Excuse me WHAT IS THIS are you trying to tell me that this set off ALARM BELLS in Go's head or something, like he RECOGNIZED that specific combination of Pokémon?! Who are you and what have you done with my PM19. -TLC}
 Dialogue: 10,0:12:40.20,0:12:41.57,Main,Musashi and Kojiro,0,0,0,,Ack!
 Dialogue: 10,0:12:42.78,0:12:45.08,Main,Nyarth,0,0,0,,Purr, meow...
 Dialogue: 10,0:12:45.08,0:12:46.62,Main,Go,0,0,0,,It couldn’t be.
@@ -312,7 +312,7 @@ Dialogue: 10,0:17:49.67,0:17:52.68,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:17:52.68,0:17:55.89,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:17:55.89,0:17:58.64,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:17:59.35,0:18:00.18,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:18:00.18,0:18:01.35,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:18:00.18,0:18:01.35,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:18:01.77,0:18:04.94,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:18:04.94,0:18:08.15,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:18:08.15,0:18:10.49,Main,Nyarth,0,0,0,,Just kidding, meow!
@@ -1333,18 +1333,18 @@ Dialogue: 0,0:22:54.19,0:22:54.23,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c
 Dialogue: 0,0:22:54.23,0:22:54.27,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 325 508 l 480 508 l 500 541 l 325 541 {\p0}
 Dialogue: 0,0:22:54.27,0:22:54.31,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 432 495 l 490 505 l 497 536 l 433 524 {\p0}
 Dialogue: 0,0:22:54.31,0:22:54.35,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 518 504 l 595 494 l 595 526 l 506 539 {\p0}
-Dialogue: 0,0:22:51.60,0:22:53.89,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:53.89,0:22:53.94,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sonansu
-Dialogue: 0,0:22:53.94,0:22:53.98,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sonansu
-Dialogue: 0,0:22:53.98,0:22:54.02,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.02,0:22:54.06,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sonansu
-Dialogue: 0,0:22:54.06,0:22:54.10,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sonansu
-Dialogue: 0,0:22:54.10,0:22:54.14,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.14,0:22:54.19,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sonansu
-Dialogue: 0,0:22:54.19,0:22:54.23,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sonansu
-Dialogue: 0,0:22:54.23,0:22:54.27,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.27,0:22:54.31,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sonansu
-Dialogue: 0,0:22:54.31,0:22:54.35,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sonansu
+Dialogue: 0,0:22:51.60,0:22:53.89,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:53.89,0:22:53.94,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sohnansu
+Dialogue: 0,0:22:53.94,0:22:53.98,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sohnansu
+Dialogue: 0,0:22:53.98,0:22:54.02,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.02,0:22:54.06,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sohnansu
+Dialogue: 0,0:22:54.06,0:22:54.10,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sohnansu
+Dialogue: 0,0:22:54.10,0:22:54.14,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.14,0:22:54.19,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sohnansu
+Dialogue: 0,0:22:54.19,0:22:54.23,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sohnansu
+Dialogue: 0,0:22:54.23,0:22:54.27,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.27,0:22:54.31,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sohnansu
+Dialogue: 0,0:22:54.31,0:22:54.35,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sohnansu
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:55.56,0:22:55.60,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 150 l 200 150 l 200 190 l 136 190 {\p0}
 Dialogue: 0,0:22:55.60,0:22:55.65,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 150 l 221 150 l 221 190 l 136 190 {\p0}

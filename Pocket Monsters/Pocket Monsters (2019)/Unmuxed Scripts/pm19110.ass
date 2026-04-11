@@ -392,7 +392,7 @@ Dialogue: 10,0:23:24.09,0:23:25.34,Main,Go,0,0,0,,What’s wrong?{not in the epi
 Dialogue: 10,0:23:25.34,0:23:27.72,Main,Satoshi,0,0,0,,I can hear... something...{not in the episode}
 Dialogue: 10,0:23:27.72,0:23:29.43,Main,Koharu,0,0,0,,A piano?{not in the episode}
 Dialogue: 10,0:23:29.43,0:23:31.35,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:23:31.35,0:23:34.39,Main,Go,0,0,0,,Mohn and Lilie, \N A Reunion in the Snow!!
+Dialogue: 10,0:23:31.35,0:23:34.39,Main,Go,0,0,0,,Mohn and Lilie, \N A Reunion in the Snow
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:16.08,0:00:26.09,Main,Text,570,0,0,,{\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(315,600)\3c&H33312C&}Sea Kinsetsu, Hoenn Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -453,8 +453,8 @@ Dialogue: 2,0:11:43.43,0:11:45.52,Logo - Accent,,0,0,0,,{\fad(500,0)\fsp-40\blur
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.31,0:23:35.44,Episode titles,,0,0,0,,{\pos(595.81,124.33)}Mohn and Lilie,
 Dialogue: 0,0:23:30.31,0:23:35.44,Episode titles 2,,0,0,0,,{\pos(595.81,124.33)}Mohn and Lilie,
-Dialogue: 1,0:23:30.31,0:23:35.44,Episode titles,,0,0,0,,{\pos(820.44,434.11)}A Reunion in the Snow!!
-Dialogue: 0,0:23:30.31,0:23:35.44,Episode titles 2,,0,0,0,,{\pos(820.44,434.11)}A Reunion in the Snow!!
+Dialogue: 1,0:23:30.31,0:23:35.44,Episode titles,,0,0,0,,{\pos(820.44,434.11)}A Reunion in the Snow
+Dialogue: 0,0:23:30.31,0:23:35.44,Episode titles 2,,0,0,0,,{\pos(820.44,434.11)}A Reunion in the Snow
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 2,0:21:55.71,0:21:58.51,ED,,0,0,0,,{\fad(200,0)}Water is super effective on Ground!
 Dialogue: 1,0:21:55.71,0:21:58.51,EDp2,,0,0,0,,{\fad(200,0)}Water is super effective on Ground!

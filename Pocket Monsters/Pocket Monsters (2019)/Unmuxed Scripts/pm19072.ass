@@ -103,8 +103,8 @@ Dialogue: 10,0:04:32.67,0:04:33.41,Main,Kojiro,0,0,0,,Hold on!
 Dialogue: 10,0:04:33.78,0:04:36.72,Main,Kojiro,0,0,0,,Wouldn’t it be better \N to ambush them here?
 Dialogue: 10,0:04:36.72,0:04:37.83,Main,Musashi,0,0,0,,Huh?
 Dialogue: 10,0:04:39.17,0:04:40.42,Main,Musashi,0,0,0,,I’ve got it!
-Dialogue: 10,0:04:40.42,0:04:41.36,Main,Musashi,0,0,0,,{\an8}Sonansu—
-Dialogue: 10,0:04:40.42,0:04:43.11,Main,Nyarth,0,0,0,,Sonansu, you stay here \N and keep watch, meow.
+Dialogue: 10,0:04:40.42,0:04:41.36,Main,Musashi,0,0,0,,{\an8}Sohnansu—
+Dialogue: 10,0:04:40.42,0:04:43.11,Main,Nyarth,0,0,0,,Sohnansu, you stay here \N and keep watch, meow.
 Dialogue: 10,0:04:43.11,0:04:44.73,Main,Nyarth,0,0,0,,If Pikachu pops out, then—
 Dialogue: 10,0:04:44.73,0:04:46.29,Main,Musashi,0,0,0,,Catch it with that!
 Dialogue: 10,0:04:47.93,0:04:49.85,Main,Musashi,0,0,0,,We’ll hunt them down!
@@ -263,7 +263,7 @@ Dialogue: 10,0:13:52.15,0:13:54.57,Main,Nyarth,0,0,0,,She’s dazzling me, meow.
 Dialogue: 10,0:13:54.57,0:13:55.82,Main,Nyarth,0,0,0,,I’ve made up my mind, meow.
 Dialogue: 10,0:13:55.82,0:14:01.11,Main,Nyarth,0,0,0,,I’m leaving Team Rocket \N and letting her catch me, meow.
 Dialogue: 10,0:14:02.10,0:14:02.86,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:14:02.86,0:14:04.03,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:14:02.86,0:14:04.03,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:14:04.03,0:14:07.77,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:14:07.77,0:14:10.75,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:14:10.75,0:14:13.18,Main,Nyarth,0,0,0,,Just kidding, meow!
@@ -273,7 +273,7 @@ Dialogue: 10,0:14:18.38,0:14:22.13,Main,Kojiro,0,0,0,,The introduction scene is 
 Dialogue: 10,0:14:22.13,0:14:24.03,Main,Kojiro,0,0,0,,The timing is the key! {Maybe omit the second "the", or "The timing is crucial!" Not sure if I'm straying from the meaning, though. - Toa}
 Dialogue: 10,0:14:24.86,0:14:27.10,Main,Musashi,0,0,0,,Okay then, time for a rehearsal! {Slightly extended the line, cut by two frames if you wanna get it back to where it was. - Toa}
 Dialogue: 10,0:14:27.69,0:14:28.43,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:14:28.43,0:14:29.34,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:14:28.43,0:14:29.34,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:14:29.84,0:14:33.46,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:14:33.46,0:14:36.44,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:14:41.98,0:14:43.36,Main,Musashi,0,0,0,,That was great!
@@ -325,7 +325,7 @@ Dialogue: 10,0:18:34.57,0:18:35.89,Main,Satoshi,0,0,0,,Let’s go, Pikachu!
 Dialogue: 10,0:18:36.86,0:18:39.70,Main,Go,0,0,0,,Sarunori, where did you go...?
 Dialogue: 10,0:18:44.85,0:18:46.10,Main,Go,0,0,0,,Sarunori!
 Dialogue: 10,0:18:46.10,0:18:46.93,Main,Kojiro,0,0,0,,And...
-Dialogue: 10,0:18:46.93,0:18:48.10,Main,Musashi,0,0,0,,Sonansu?
+Dialogue: 10,0:18:46.93,0:18:48.10,Main,Musashi,0,0,0,,Sohnansu?
 Dialogue: 10,0:18:50.43,0:18:51.44,Main,Go,0,0,0,,What’s that?!
 Dialogue: 10,0:18:52.99,0:18:56.23,Main,Rotom Go Ver,0,0,0,,Kuitaran! Anteater Pokémon! \N Fire type!
 Dialogue: 10,0:18:56.23,0:18:59.81,Main,Rotom Go Ver,0,0,0,,Using their flaming tongues, \N they burn through Iront’s bodies and consume them!{Abbreviated White dex entry -blu}

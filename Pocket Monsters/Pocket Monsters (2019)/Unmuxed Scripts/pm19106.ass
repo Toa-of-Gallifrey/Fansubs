@@ -54,7 +54,7 @@ Dialogue: 10,0:00:22.34,0:00:23.67,Main,Narrator,0,0,0,,What...? But, I haven’
 Dialogue: 10,0:00:23.67,0:00:26.51,Main,Musashi,0,0,0,,Move it, move it, move it!
 Dialogue: 10,0:00:27.13,0:00:29.76,Main,Musashi,0,0,0,,Everyone, \N can you hear my voice?
 Dialogue: 10,0:00:29.76,0:00:32.93,Main,Musashi,0,0,0,,‘Kay then, \N let’s do the title call!
-Dialogue: 10,0:00:32.93,0:00:35.60,Main,Musashi,0,0,0,,C’mere, Kojiro, Nyarth! \N Follow my lead!
+Dialogue: 10,0:00:32.93,0:00:35.60,Main,Musashi,0,0,0,,C’mere, Kojirou, Nyarth! \N Follow my lead!
 Dialogue: 10,0:00:35.60,0:00:37.10,Main,Musashi,0,0,0,,Ready, and...
 Dialogue: 10,0:00:37.10,0:00:40.73,Main,Team Rocket,0,0,0,,{\i1}“Team Rocket’s \N Secret Kingdom Radio”!{\i0}
 Dialogue: 10,0:00:40.73,0:00:42.27,Main,Musashi,0,0,0,,...starts now!
@@ -68,7 +68,7 @@ Dialogue: 10,0:01:07.63,0:01:08.72,Main,Musashi,0,0,0,,And...
 Dialogue: 10,0:01:08.72,0:01:09.26,Main,Kojiro,0,0,0,,Huh?
 Dialogue: 10,0:01:09.26,0:01:11.01,Main,Kojiro,0,0,0,,Oh, my turn.
 Dialogue: 10,0:01:11.01,0:01:12.09,Main,Kojiro,0,0,0,,Um, I am...
-Dialogue: 10,0:01:12.09,0:01:15.35,Main,Musashi,0,0,0,,This is personality number two, \N Kojiro!
+Dialogue: 10,0:01:12.09,0:01:15.35,Main,Musashi,0,0,0,,This is personality number two, \N Kojirou!
 Dialogue: 10,0:01:15.35,0:01:16.39,Main,Musashi,0,0,0,,And...
 Dialogue: 10,0:01:16.39,0:01:19.27,Main,Nyarth,0,0,0,,The super personality, \N Nyarth, meow!
 Dialogue: 10,0:01:19.27,0:01:20.06,Main,Musashi,0,0,0,,Hold on a sec!
@@ -88,7 +88,7 @@ Dialogue: 10,0:01:53.55,0:01:58.39,Main,Kojiro,0,0,0,,That just now made it clea
 Dialogue: 10,0:01:58.39,0:01:59.56,Main,Nyarth,0,0,0,,Hey, you two!
 Dialogue: 10,0:01:59.56,0:02:03.31,Main,Nyarth,0,0,0,,Argue about that later. \N We gotta explain why we’re doing this show, meow!
 Dialogue: 10,0:02:03.31,0:02:04.31,Main,Musashi,0,0,0,,Oh, that’s right!
-Dialogue: 10,0:02:04.31,0:02:05.56,Main,Musashi,0,0,0,,‘Kay! Kojiro, take it away!
+Dialogue: 10,0:02:04.31,0:02:05.56,Main,Musashi,0,0,0,,‘Kay! Kojirou, take it away!
 Dialogue: 10,0:02:05.56,0:02:06.44,Main,Kojiro,0,0,0,,R-Right!
 Dialogue: 10,0:02:07.02,0:02:08.19,Main,Kojiro,0,0,0,,This “Team Rocket—”
 Dialogue: 10,0:02:08.19,0:02:10.82,Main,Musashi,0,0,0,,“Team Rocket’s \N Secret Kingdom Radio”...
@@ -207,7 +207,7 @@ Dialogue: 10,0:09:25.04,0:09:27.05,Main,Musashi,0,0,0,,‘Kay, that marks the st
 Dialogue: 10,0:09:27.05,0:09:33.05,Main,Musashi,0,0,0,,“Gather With a ‘Wha-Bam,’ Evildoers! For Here is \N a Perfect Evil, and Over There Blooms a Lovely Evil!
 Dialogue: 10,0:09:33.05,0:09:38.06,Main,Musashi,0,0,0,,“Yes! It’s Team Rocket’s \N Secret Kingdom Radio Alpha Returns... Z!”
 Dialogue: 10,0:09:38.06,0:09:40.81,Main,Musashi,0,0,0,,I’m the super personality, \N Musashi!
-Dialogue: 10,0:09:40.81,0:09:43.44,Main,Kojiro,0,0,0,,I’m the extreme personality, \N Kojiro!
+Dialogue: 10,0:09:40.81,0:09:43.44,Main,Kojiro,0,0,0,,I’m the extreme personality, \N Kojirou!
 Dialogue: 10,0:09:43.44,0:09:46.94,Main,Nyarth,0,0,0,,And I’m the SS-tier personality, \N Nyarth, meow!
 Dialogue: 10,0:09:46.94,0:09:54.70,Main,Musashi,0,0,0,,{\q2}This is a live web radio show aiming to recruit new agents \N to the evil organization Team Rocket!
 Dialogue: 10,0:09:54.70,0:09:57.91,Main,Kojiro,0,0,0,,Tonight, for our second show, \N we’ve already made some changes!
@@ -224,7 +224,7 @@ Comment: 10,0:10:25.52,0:10:25.52,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:10:28.86,0:10:31.03,Main,Musashi,0,0,0,,Sign-up applications, zero...
 Dialogue: 10,0:10:31.57,0:10:39.29,Main,Nyarth,0,0,0,,{\q2}Tonight, I think we failed because the new \N “Let’s! Nasty Plot Shiritori” segment didn’t take off...
 Dialogue: 10,0:10:39.29,0:10:42.16,Main,Musashi,0,0,0,,And you know \N who suggested that segment...
-Dialogue: 10,0:10:42.16,0:10:43.16,Main,Musashi,0,0,0,,It was Kojiro.
+Dialogue: 10,0:10:42.16,0:10:43.16,Main,Musashi,0,0,0,,It was Kojirou.
 Dialogue: 10,0:10:43.16,0:10:47.21,Main,Kojiro,0,0,0,,W-Well, whenever {\i1}we{\i} do it, \N it always gets us motivated!
 Dialogue: 10,0:10:47.21,0:10:48.04,Main,Kojiro,0,0,0,,So I thought it’d be grea—
 Dialogue: 10,0:10:48.04,0:10:49.38,Main,Musashi,0,0,0,,Or, actually...
@@ -234,7 +234,7 @@ Dialogue: 10,0:10:57.18,0:10:57.93,Main,Musashi,0,0,0,,Good suggestion.
 Dialogue: 10,0:10:57.93,0:11:02.18,Main,Nyarth,0,0,0,,I think we need some \N original greeting for the show, meow.
 Dialogue: 10,0:11:02.18,0:11:05.10,Main,Musashi,0,0,0,,Wouldn’t it be nice \N if we had some nicknames, too?
 Dialogue: 10,0:11:05.10,0:11:05.90,Main,Kojiro,0,0,0,,Ooh, me!
-Dialogue: 10,0:11:05.90,0:11:07.15,Main,Musashi,0,0,0,,Go on, Kojiro.
+Dialogue: 10,0:11:05.90,0:11:07.15,Main,Musashi,0,0,0,,Go on, Kojirou.
 Dialogue: 10,0:11:07.15,0:11:10.40,Main,Kojiro,0,0,0,,Actually, I made us \N some memorabilia!
 Dialogue: 10,0:11:10.40,0:11:12.19,Main,Musashi and Nyarth,0,0,0,,Memorabilia?!
 Dialogue: 10,0:11:12.19,0:11:13.40,Main,Musashi,0,0,0,,So what’s that?
@@ -250,7 +250,7 @@ Dialogue: 10,0:11:29.50,0:11:33.59,Main,Kojiro,0,0,0,,Th-Then I thought \N maybe
 Dialogue: 10,0:11:33.59,0:11:34.63,Main,Kojiro,0,0,0,,A Premier Ball!
 Dialogue: 10,0:11:34.63,0:11:37.26,Main,Musashi,0,0,0,,Isn’t that a precious \N part of your collection?!
 Dialogue: 10,0:11:37.76,0:11:40.14,Main,Kojiro,0,0,0,,If it’ll make our listeners happy...
-Dialogue: 10,0:11:40.14,0:11:41.72,Main,Musashi,0,0,0,,Kojiro!
+Dialogue: 10,0:11:40.14,0:11:41.72,Main,Musashi,0,0,0,,Kojirou!
 Dialogue: 10,0:11:41.72,0:11:43.52,Main,Nyarth,0,0,0,,You’re a true personality!
 Dialogue: 10,0:11:43.52,0:11:45.94,Main,Musashi,0,0,0,,All right! Now I’m motivated!
 Dialogue: 10,0:11:45.94,0:11:49.19,Main,Musashi,0,0,0,,Time for a fault-finding and{&} \N plans-for-the-next-episode meeting!
@@ -929,18 +929,18 @@ Dialogue: 0,0:22:54.23,0:22:54.27,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c
 Dialogue: 0,0:22:54.27,0:22:54.31,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 325 508 l 480 508 l 500 541 l 325 541 {\p0}
 Dialogue: 0,0:22:54.31,0:22:54.35,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 432 495 l 490 505 l 497 536 l 433 524 {\p0}
 Dialogue: 0,0:22:54.35,0:22:54.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 518 504 l 595 494 l 595 526 l 506 539 {\p0}
-Dialogue: 0,0:22:51.64,0:22:53.94,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:53.94,0:22:53.98,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sonansu
-Dialogue: 0,0:22:53.98,0:22:54.02,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sonansu
-Dialogue: 0,0:22:54.02,0:22:54.06,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.06,0:22:54.10,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sonansu
-Dialogue: 0,0:22:54.10,0:22:54.14,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sonansu
-Dialogue: 0,0:22:54.14,0:22:54.19,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.19,0:22:54.23,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sonansu
-Dialogue: 0,0:22:54.23,0:22:54.27,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sonansu
-Dialogue: 0,0:22:54.27,0:22:54.31,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sonansu
-Dialogue: 0,0:22:54.31,0:22:54.35,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sonansu
-Dialogue: 0,0:22:54.35,0:22:54.39,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sonansu
+Dialogue: 0,0:22:51.64,0:22:53.94,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:53.94,0:22:53.98,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sohnansu
+Dialogue: 0,0:22:53.98,0:22:54.02,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sohnansu
+Dialogue: 0,0:22:54.02,0:22:54.06,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.06,0:22:54.10,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sohnansu
+Dialogue: 0,0:22:54.10,0:22:54.14,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sohnansu
+Dialogue: 0,0:22:54.14,0:22:54.19,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(608.22,504.66)\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.19,0:22:54.23,Question,,0,0,0,,{\blur0.2\bord0\fscx40\fscy80\frx0\fry328\frz354.3\c&HB121BE&\pos(549.38,511.42)}Sohnansu
+Dialogue: 0,0:22:54.23,0:22:54.27,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx70\fscy110\frx2\fry202\frz353.7\c&HB121BE&\pos(437.78,512.1)}Sohnansu
+Dialogue: 0,0:22:54.27,0:22:54.31,Question,,0,0,0,,{\blur0.2\bord0\fs33\pos(396,504.66)\fry180\c&HB121BE&}Sohnansu
+Dialogue: 0,0:22:54.31,0:22:54.35,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx45\fscy105\frx6\fry146\frz5.438\c&HB121BE&\pos(458.6,496.4)}Sohnansu
+Dialogue: 0,0:22:54.35,0:22:54.39,Question,,0,0,0,,{\blur0.2\bord0\fs33\fscx57\fscy105\frz3.861\frx356\fry28\c&HB121BE&\pos(558.97,495.77)}Sohnansu
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 0,0:22:55.60,0:22:55.65,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 150 l 200 150 l 200 190 l 136 190 {\p0}
 Dialogue: 0,0:22:55.65,0:22:55.69,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 150 l 221 150 l 221 190 l 136 190 {\p0}

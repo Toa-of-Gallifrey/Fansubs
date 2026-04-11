@@ -61,7 +61,7 @@ Dialogue: 10,0:01:12.71,0:01:14.63,Main,Nyarth,0,0,0,,Never mind, meow.
 Dialogue: 10,0:01:14.63,0:01:18.58,Main,Musashi,0,0,0,,Kidding, kidding, \N just kidding with ya. A Rocket Joke. {Suggesting to render the last "kidding" as "kiddin’". - Toa}
 Dialogue: 10,0:01:18.58,0:01:21.56,Main,Kojiro,0,0,0,,If you’ve caught a cold, \N you better keep warm.
 Dialogue: 10,0:01:24.02,0:01:27.99,Main,Musashi,0,0,0,,Health must come first, \N or else evil can’t prosper.{sounds like it could be a mangled idiom... but I couldn’t find anything -blu}{If it's not a specific idiom, tentatively suggesting something like "Health comes first, can’t do your best at evil/give evil your all when you’re sick." - Toa}
-Dialogue: 10,0:01:28.76,0:01:31.23,Main,Nyarth,0,0,0,,Musashi... Kojiro...
+Dialogue: 10,0:01:28.76,0:01:31.23,Main,Nyarth,0,0,0,,Musashi... Kojirou...
 Dialogue: 10,0:01:31.23,0:01:34.64,Main,Musashi,0,0,0,,Hey, are you thirsty? \N Want anything to eat? {Suggesting to omit "are". - Toa}
 Dialogue: 10,0:01:34.64,0:01:37.61,Main,Musashi,0,0,0,,Some potato chips? \N Or some canned Momon Berries?
 Dialogue: 10,0:01:38.99,0:01:42.49,Main,Kojiro,0,0,0,,Some nice and cool \N ice cream’d be great... Oh!
@@ -107,7 +107,7 @@ Dialogue: 10,0:03:47.29,0:03:48.66,Main,Kojiro,0,0,0,,It has to be.
 Dialogue: 10,0:03:48.66,0:03:49.58,Main,Musashi,0,0,0,,It’s decided!
 Dialogue: 10,0:03:49.58,0:03:54.98,Main,Musashi,0,0,0,,Effective immediately, I’m calling an emergency meeting and \N study group for Operation “Get Pikachu For Sure”!
 Dialogue: 10,0:03:54.98,0:03:56.14,Main,Kojiro,0,0,0,,Yeah!
-Dialogue: 10,0:03:56.14,0:03:58.03,Main,Musashi,0,0,0,,We’ll study Sonansu’s footage,
+Dialogue: 10,0:03:56.14,0:03:58.03,Main,Musashi,0,0,0,,We’ll study Sohnansu’s footage,
 Dialogue: 10,0:03:58.03,0:04:02.79,Main,Musashi,0,0,0,,and thoroughly analyze Pikachu’s \N emotions and thought patterns!
 Dialogue: 10,0:04:02.79,0:04:10.86,Main,Kojiro,0,0,0,,Then, with full understanding of his mind, \N we’ll be able to catch him without fail or fuss!
 Dialogue: 10,0:04:11.97,0:04:14.65,Main,Musashi,0,0,0,,This is amazing, isn’t it? {Check the timings for all these lines. - Toa}
@@ -141,7 +141,7 @@ Dialogue: 10,0:05:34.35,0:05:37.20,Main,Musashi,0,0,0,,Ah... He fell asleep agai
 Dialogue: 10,0:05:37.20,0:05:40.14,Main,Kojiro,0,0,0,,He must’ve used up his energy \N by forcing himself to shout.{edited to avoid repeating "himself" twice --Puto}
 Dialogue: 10,0:05:40.14,0:05:43.44,Main,Musashi,0,0,0,,Then we’ll just have to \N study without him.
 Dialogue: 10,0:05:43.44,0:05:44.48,Main,Kojiro,0,0,0,,Yeah.
-Dialogue: 10,0:05:44.48,0:05:48.08,Main,Musashi,0,0,0,,All right! \N Sonansu, roll the footage!
+Dialogue: 10,0:05:44.48,0:05:48.08,Main,Musashi,0,0,0,,All right! \N Sohnansu, roll the footage!
 Dialogue: 10,0:05:48.08,0:05:50.39,Main,Musashi,0,0,0,,I’ll have the first go.
 Dialogue: 10,0:05:57.08,0:05:57.92,Main,Musashi,0,0,0,,Okay.
 Dialogue: 10,0:05:58.28,0:06:00.15,Main,Musashi failing to understand Pikachu,0,0,0,,Ha! Hahaha-ha! {Removed the ending Hs for consistency. - Toa}
@@ -162,10 +162,10 @@ Dialogue: 10,0:06:34.74,0:06:37.71,Main,Musashi,0,0,0,,Huh? Your inner Pikachu i
 Dialogue: 10,0:06:37.71,0:06:39.76,Main,Kojiro,0,0,0,,No, he isn’t!
 Dialogue: 10,0:06:39.76,0:06:42.94,Main,Kojiro,0,0,0,,He’s, well...
 Dialogue: 10,0:06:42.94,0:06:44.50,Main,Kojiro,0,0,0,,Definitely not pompous, at least!
-Dialogue: 10,0:06:45.33,0:06:50.72,Main,Musashi,0,0,0,,What’s your problem? \N If you’re so confident, Kojiro, then {\i1}you{\i0} try it!
+Dialogue: 10,0:06:45.33,0:06:50.72,Main,Musashi,0,0,0,,What’s your problem? \N If you’re so confident, Kojirou, then {\i1}you{\i0} try it!
 Dialogue: 10,0:06:50.72,0:06:52.92,Main,Kojiro,0,0,0,,Oh... Sure.
 Dialogue: 10,0:06:52.92,0:06:54.80,Main,Kojiro,0,0,0,,Then I’ll have a go.
-Dialogue: 10,0:06:54.80,0:06:56.34,Main,Musashi,0,0,0,,Sonansu, go ahead.
+Dialogue: 10,0:06:54.80,0:06:56.34,Main,Musashi,0,0,0,,Sohnansu, go ahead.
 Dialogue: 10,0:06:56.34,0:06:57.85,Main,Kojiro,0,0,0,,Ahh. Ahh.
 Dialogue: 10,0:06:59.13,0:06:59.73,Main,Kojiro,0,0,0,,Okay.
 Dialogue: 10,0:07:02.84,0:07:06.62,Main,Kojiro failing to understand Pikachu,0,0,0,,Hah... Pi finally have some time \N to piself, pi.
@@ -200,7 +200,7 @@ Dialogue: 10,0:08:27.40,0:08:28.90,Main,Kojiro,0,0,0,,Okay, got it.
 Dialogue: 10,0:08:28.90,0:08:33.15,Main,Kojiro,0,0,0,,Next time, let’s analyze \N the video carefully first.
 Dialogue: 10,0:08:33.15,0:08:34.16,Main,Musashi,0,0,0,,Analyze it?
 Dialogue: 10,0:08:34.16,0:08:35.25,Main,Kojiro,0,0,0,,Yeah.
-Dialogue: 10,0:08:35.25,0:08:39.89,Main,Kojiro,0,0,0,,Sonansu, do you have any footage \N with a close-up view of Pikachu’s face?
+Dialogue: 10,0:08:35.25,0:08:39.89,Main,Kojiro,0,0,0,,Sohnansu, do you have any footage \N with a close-up view of Pikachu’s face?
 Dialogue: 10,0:08:41.58,0:08:43.82,Main,Team Rocket,0,0,0,,{\i1}What an awful feeling!{\i0}
 Dialogue: 10,0:08:44.42,0:08:47.89,Main,Musashi,0,0,0,,That’s just us blasting off!
 Dialogue: 10,0:08:47.89,0:08:49.13,Main,Musashi,0,0,0,,Not that, some Pikachu— {Changed the ellipsis to an em dash due to cutoff for consistency. - Toa}
@@ -213,7 +213,7 @@ Dialogue: 10,0:09:06.64,0:09:07.89,Main,Kojiro,0,0,0,,He said something.
 Dialogue: 10,0:09:07.89,0:09:11.57,Main,Musashi,0,0,0,,Talking to us as we blast off?
 Dialogue: 10,0:09:11.57,0:09:13.00,Main,Kojiro,0,0,0,,I think so.
 Dialogue: 10,0:09:13.00,0:09:14.01,Main,Musashi,0,0,0,,Rewind.
-Dialogue: 10,0:09:15.77,0:09:19.28,Main,Kojiro,0,0,0,,Oh, stop there. \N Pause it, Sonansu.
+Dialogue: 10,0:09:15.77,0:09:19.28,Main,Kojiro,0,0,0,,Oh, stop there. \N Pause it, Sohnansu.
 Dialogue: 10,0:09:21.95,0:09:26.44,Main,Musashi,0,0,0,,Wh-What? That expression... \N It looks so kind.
 Dialogue: 10,0:09:26.44,0:09:28.07,Main,Kojiro,0,0,0,,Yeah. Yeah!
 Dialogue: 10,0:09:28.07,0:09:36.30,Main,Kojiro,0,0,0,,I never knew that after we blasted off, \N he watched us with such a pure gaze.{what the RANDOM! DISSONANT! PIANO! -blu}

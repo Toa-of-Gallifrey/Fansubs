@@ -42,19 +42,19 @@ Style: Logo - Accent,PMLogo,100,&H00D08900,&H000000FF,&H00000000,&H00000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 10,0:00:36.33,0:00:37.91,Main,Sota,0,0,0,,Again?
-Dialogue: 10,0:00:45.05,0:00:46.52,Main,Sota,0,0,0,,Hey, Big Sis!
-Dialogue: 10,0:00:46.96,0:00:49.98,Main,Sota,0,0,0,,You gotta wake up \N or you’ll be late for school!
+Dialogue: 10,0:00:36.33,0:00:37.91,Main,Souta,0,0,0,,Again?
+Dialogue: 10,0:00:45.05,0:00:46.52,Main,Souta,0,0,0,,Hey, Big Sis!
+Dialogue: 10,0:00:46.96,0:00:49.98,Main,Souta,0,0,0,,You gotta wake up \N or you’ll be late for school!
 Dialogue: 10,0:00:49.98,0:00:52.23,Main,Koharu,0,0,0,,I’m up...
-Dialogue: 10,0:00:52.86,0:00:55.37,Main,Sota,0,0,0,,You’re really not...
-Dialogue: 10,0:00:55.37,0:00:57.03,Main,Sota,0,0,0,,Mom!
+Dialogue: 10,0:00:52.86,0:00:55.37,Main,Souta,0,0,0,,You’re really not...
+Dialogue: 10,0:00:55.37,0:00:57.03,Main,Souta,0,0,0,,Mom!
 Dialogue: 10,0:00:57.03,0:00:59.18,Main,Yoshino,0,0,0,,Coming!
 Dialogue: 10,0:01:05.58,0:01:06.74,Main,Yoshino,0,0,0,,Koharu.
 Dialogue: 10,0:01:06.74,0:01:09.17,Main,Yoshino,0,0,0,,If you don’t wake up soon, \N you won’t have time...
 Dialogue: 10,0:01:09.77,0:01:11.17,Main,Yoshino,0,0,0,,...to braid your hair.
 Dialogue: 10,0:01:13.13,0:01:15.05,Main,Koharu,0,0,0,,Oh, no!
 Dialogue: 10,0:01:15.05,0:01:18.51,Main,Koharu,0,0,0,,No! No! That’d be awful!
-Dialogue: 10,0:01:19.61,0:01:20.79,Main,Sota & Yoshino,0,0,0,,Good morning.
+Dialogue: 10,0:01:19.61,0:01:20.79,Main,Souta & Yoshino,0,0,0,,Good morning.
 Dialogue: 10,0:01:21.45,0:01:22.56,Main,Koharu,0,0,0,,Good morning...
 Dialogue: 10,0:01:46.48,0:01:48.16,Main,Yoshino,0,0,0,,There we go. Very cute!
 Dialogue: 10,0:01:48.16,0:01:49.73,Main,Koharu,0,0,0,,Thank you, Mom.
@@ -62,9 +62,9 @@ Dialogue: 10,0:01:49.73,0:01:51.46,Main,Yoshino,0,0,0,,You’re quite welcome.
 Dialogue: 10,0:01:54.94,0:01:56.76,Main,Koharu,0,0,0,,Time to eat!
 Dialogue: 10,0:01:57.86,0:02:00.47,Main,Sakuragi,0,0,0,,Our little glutton is still waiting.
 Dialogue: 10,0:02:05.48,0:02:06.98,Main,Koharu,0,0,0,,Oh, sorry!
-Dialogue: 10,0:02:11.02,0:02:13.51,Main,Sota,0,0,0,,You finally got to eat, \N Wanpachi!
-Dialogue: 10,0:02:13.51,0:02:16.94,Main,Koharu,0,0,0,,Sota, if you have time to spare, \N you could help out.
-Dialogue: 10,0:02:16.94,0:02:22.49,Main,Sota,0,0,0,,I can’t! Wanpachi only eats \N the Pokémon food {\i1}you{\i0} put out.
+Dialogue: 10,0:02:11.02,0:02:13.51,Main,Souta,0,0,0,,You finally got to eat, \N Wanpachi!
+Dialogue: 10,0:02:13.51,0:02:16.94,Main,Koharu,0,0,0,,Souta, if you have time to spare, \N you could help out.
+Dialogue: 10,0:02:16.94,0:02:22.49,Main,Souta,0,0,0,,I can’t! Wanpachi only eats \N the Pokémon food {\i1}you{\i0} put out.
 Dialogue: 10,0:02:22.49,0:02:24.62,Main,Yoshino,0,0,0,,It really is strange...
 Dialogue: 10,0:02:24.62,0:02:30.26,Main,Yoshino,0,0,0,,Out of everyone in the family, \N Koharu acts the coldest towards Wanpachi, and yet...
 Dialogue: 10,0:02:30.26,0:02:31.54,Main,Koharu,0,0,0,,Coldest?
@@ -72,12 +72,12 @@ Dialogue: 10,0:02:31.54,0:02:38.55,Main,Sakuragi,0,0,0,,I suppose Koharu is the 
 Dialogue: 10,0:02:38.55,0:02:40.32,Main,Koharu,0,0,0,,Really?
 Dialogue: 10,0:02:42.16,0:02:43.69,Main,Yoshino,0,0,0,,Who’s second, then?
 Dialogue: 10,0:02:43.69,0:02:44.44,Main,Sakuragi,0,0,0,,That would be m—
-Dialogue: 10,0:02:44.44,0:02:45.31,Main,Koharu & Sota,0,0,0,,Mom!
+Dialogue: 10,0:02:44.44,0:02:45.31,Main,Koharu & Souta,0,0,0,,Mom!
 Dialogue: 10,0:02:46.52,0:02:48.44,Main,Yoshino,0,0,0,,Why, thank you, Wanpachi!
-Dialogue: 10,0:02:48.44,0:02:52.02,Main,Sota,0,0,0,,I’m his third favorite! \N Right, Wanpachi?
+Dialogue: 10,0:02:48.44,0:02:52.02,Main,Souta,0,0,0,,I’m his third favorite! \N Right, Wanpachi?
 Dialogue: 10,0:02:52.19,0:02:54.32,Main,Sakuragi,0,0,0,,So I’m dead last...
 Dialogue: 10,0:02:57.52,0:02:59.54,Main,Sakuragi & Koharu,0,0,0,,We’re off!
-Dialogue: 10,0:02:59.54,0:03:01.47,Main,Yoshino & Sota,0,0,0,,See you later!
+Dialogue: 10,0:02:59.54,0:03:01.47,Main,Yoshino & Souta,0,0,0,,See you later!
 Dialogue: 10,0:03:07.53,0:03:09.79,Main,Koharu,0,0,0,,Hey, Wanpachi, cut it out!
 Dialogue: 10,0:03:09.79,0:03:11.16,Main,Koharu,0,0,0,,That tickles!
 Dialogue: 10,0:03:11.84,0:03:13.78,Main,Koharu,0,0,0,,Sit down.

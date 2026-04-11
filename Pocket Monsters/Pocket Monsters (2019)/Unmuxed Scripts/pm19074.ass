@@ -108,10 +108,10 @@ Dialogue: 10,0:04:33.17,0:04:34.04,Main,Yoshino,0,0,0,,Sorry!
 Dialogue: 10,0:04:34.04,0:04:35.25,Main,Koharu,0,0,0,,Aww...
 Dialogue: 10,0:04:35.74,0:04:38.20,Main,Koharu,0,0,0,,But you promised we’d do this \N for so long!
 Dialogue: 10,0:04:38.20,0:04:41.31,Main,Koharu,0,0,0,,I was looking forward to our first \N family vacation in ages.
-Dialogue: 10,0:04:41.31,0:04:43.26,Main,Koharu,0,0,0,,You want to go too, \N right, Sota?
-Dialogue: 10,0:04:43.76,0:04:45.34,Main,Sota,0,0,0,,I don’t really care.
+Dialogue: 10,0:04:41.31,0:04:43.26,Main,Koharu,0,0,0,,You want to go too, \N right, Souta?
+Dialogue: 10,0:04:43.76,0:04:45.34,Main,Souta,0,0,0,,I don’t really care.
 Dialogue: 10,0:04:45.34,0:04:46.16,Main,Koharu,0,0,0,,Huh?!
-Dialogue: 10,0:04:46.16,0:04:49.81,Main,Sota,0,0,0,,My friends invited me to summer camp, \N so now I can go with them. {Changed from "I got invited to summer camp by my friends". - Toa}
+Dialogue: 10,0:04:46.16,0:04:49.81,Main,Souta,0,0,0,,My friends invited me to summer camp, \N so now I can go with them. {Changed from "I got invited to summer camp by my friends". - Toa}
 Dialogue: 10,0:04:49.81,0:04:51.92,Main,Koharu,0,0,0,,H-How could you...?
 Dialogue: 10,0:04:51.92,0:04:53.36,Main,Sakuragi,0,0,0,,Oh, I know!
 Dialogue: 10,0:04:53.36,0:04:57.19,Main,Sakuragi,0,0,0,,It just so happens that Satoshi and Go \N had to go to Sinnoh to do research.
@@ -123,7 +123,7 @@ Dialogue: 10,0:05:06.22,0:05:09.32,Main,Sakuragi,0,0,0,,And, of course, you can 
 Dialogue: 10,0:05:09.32,0:05:10.37,Main,Sakuragi,0,0,0,,It’ll be fun!
 Dialogue: 10,0:05:10.37,0:05:14.62,Main,Koharu,0,0,0,,Sometimes, you really seem to believe that \N Pokémon make everything better, huh?{Tagging to get back to this. - Toa of the Batch}
 Dialogue: 10,0:05:14.62,0:05:15.08,Main,Sakuragi,0,0,0,,Huh?
-Dialogue: 10,0:05:15.08,0:05:19.51,Main,Koharu,0,0,0,,I wanted to enjoy a vacation with \N you, Mom, and Sota!
+Dialogue: 10,0:05:15.08,0:05:19.51,Main,Koharu,0,0,0,,I wanted to enjoy a vacation with \N you, Mom, and Souta!
 Dialogue: 10,0:05:19.51,0:05:21.23,Main,Sakuragi,0,0,0,,Oh, well, uh...
 Dialogue: 10,0:05:21.23,0:05:22.27,Main,Koharu,0,0,0,,Forget it!
 Dialogue: 10,0:05:25.01,0:05:26.26,Main,Sakuragi,0,0,0,,Koharu...

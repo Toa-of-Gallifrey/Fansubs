@@ -221,7 +221,7 @@ Dialogue: 10,0:11:09.31,0:11:12.08,Main,Mulply,0,0,0,,He wants us to look after 
 Dialogue: 10,0:11:12.08,0:11:15.64,Main,Mulply,0,0,0,,The job’s in one hour,\N so let’s have lunch in the meantime!
 Dialogue: 10,0:11:15.64,0:11:16.31,Main,Go,0,0,0,,Okay!
 Dialogue: 10,0:11:16.31,0:11:18.40,Main,Satoshi,0,0,0,,Gotta have a good meal \N to keep us going!
-Dialogue: 10,0:11:18.40,0:11:19.99,Main,Musashi,0,0,0,,You hear that?{It occurs to me that this is a bit of a minor catchphrase for Musashi and Kojiro that I don’t believe we have been entirely consistent with... But I copied this from episode 38. -Starfish}
+Dialogue: 10,0:11:18.40,0:11:19.99,Main,Musashi,0,0,0,,You hear that?{It occurs to me that this is a bit of a minor catchphrase for Musashi and Kojirou that I don’t believe we have been entirely consistent with... But I copied this from episode 38. -Starfish}
 Dialogue: 10,0:11:19.99,0:11:21.11,Main,Kojiro,0,0,0,,Sure did.{See the note in the previous line. -Starfish}
 Dialogue: 10,0:11:21.11,0:11:21.92,Main,Mulply,0,0,0,,Excuse me!
 Dialogue: 10,0:11:21.92,0:11:23.53,Main,Musashi and Kojiro,0,0,0,,Ack!
@@ -274,7 +274,7 @@ Dialogue: 10,0:13:39.71,0:13:42.63,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:13:43.07,0:13:45.88,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:13:45.88,0:13:48.84,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:13:49.42,0:13:50.19,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:13:50.19,0:13:51.31,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:13:50.19,0:13:51.31,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:13:51.31,0:13:54.77,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:13:54.77,0:13:58.15,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:13:58.15,0:14:00.27,Main,Nyarth,0,0,0,,Just kidding, meow!

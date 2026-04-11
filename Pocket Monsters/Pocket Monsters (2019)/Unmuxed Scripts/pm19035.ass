@@ -158,7 +158,7 @@ Dialogue: 10,0:10:12.42,0:10:15.38,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:10:15.80,0:10:18.63,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:10:18.63,0:10:21.60,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:10:22.10,0:10:22.89,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:10:22.89,0:10:24.06,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:10:22.89,0:10:24.06,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:10:24.06,0:10:27.52,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:10:27.52,0:10:30.90,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:10:30.90,0:10:33.01,Main,Nyarth,0,0,0,,Just kidding, meow!
@@ -204,7 +204,7 @@ Dialogue: 10,0:13:34.37,0:13:36.24,Main,Why is it always YOU,0,0,0,,Pocket Monst
 Comment: 10,0:13:39.50,0:13:39.50,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:13:46.13,0:13:47.52,Main,Musashi,0,0,0,,Mimiroll! Lightning Speed!
 Dialogue: 10,0:13:47.52,0:13:48.89,Main,Satoshi,0,0,0,,We’ll use Lightning Speed, too!
-Dialogue: 10,0:13:53.40,0:13:55.52,Main,Kojiro,0,0,0,,Chillarmy! Round-Trip Slap! {This line snapped to the wrong keyframe (after Kojiro says “Chillarmy!” so I manually retimed the start and added 150 ms, but it was close enough to the keyframe (100 ms) that I figured I’d snap it. Also, used RULE BREAKER on the end of the line. - Toa}
+Dialogue: 10,0:13:53.40,0:13:55.52,Main,Kojiro,0,0,0,,Chillarmy! Round-Trip Slap! {This line snapped to the wrong keyframe (after Kojirou says “Chillarmy!” so I manually retimed the start and added 150 ms, but it was close enough to the keyframe (100 ms) that I figured I’d snap it. Also, used RULE BREAKER on the end of the line. - Toa}
 Dialogue: 10,0:13:56.89,0:13:58.34,Main,Go,0,0,0,,Dodge!
 Dialogue: 10,0:13:59.54,0:14:01.48,Main,Go,0,0,0,,Messon, are you okay?!
 Dialogue: 10,0:14:02.03,0:14:03.44,Main,Go,0,0,0,,Rabbifoot! Double Kick!

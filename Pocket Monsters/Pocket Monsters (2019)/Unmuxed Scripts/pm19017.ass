@@ -121,7 +121,7 @@ Dialogue: 10,0:08:33.49,0:08:35.94,Main,Nyarth,0,0,0,,I need a break...
 Dialogue: 10,0:08:35.94,0:08:38.02,Main,Musashi,0,0,0,,I got heartburn...
 Dialogue: 10,0:08:40.66,0:08:42.71,Main,Nyarth,0,0,0,,That’s a great idea, meow!
 Dialogue: 10,0:08:42.71,0:08:43.99,Main,Musashi & Kojiro,0,0,0,,What?
-Dialogue: 10,0:08:43.99,0:08:47.29,Main,Nyarth,0,0,0,,Sonansu suggested we play \N Nasty Plot Shiritori!{Note: The Japanese phrasing does indeed match the move Nasty Plot. So I figure we might as well call it that. -Starfish}
+Dialogue: 10,0:08:43.99,0:08:47.29,Main,Nyarth,0,0,0,,Sohnansu suggested we play \N Nasty Plot Shiritori!{Note: The Japanese phrasing does indeed match the move Nasty Plot. So I figure we might as well call it that. -Starfish}
 Dialogue: 10,0:08:47.29,0:08:49.34,Main,Musashi,0,0,0,,Oh, great idea.
 Dialogue: 10,0:08:49.34,0:08:51.30,Main,Kojiro,0,0,0,,Doing {\i1}nothing{\i0} \N won’t do us any good!
 Dialogue: 10,0:08:51.68,0:08:53.15,Main,Nyarth,0,0,0,,Allow me to explain, meow.
@@ -147,7 +147,7 @@ Dialogue: 10,0:09:20.97,0:09:22.25,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fs
 Dialogue: 10,0:09:22.25,0:09:24.02,Main,Musashi,0,0,0,,U... U... U...
 Dialogue: 10,0:09:24.02,0:09:25.34,Main,Musashi,0,0,0,,Time out for a sec!
 Dialogue: 10,0:09:25.34,0:09:27.77,Main,Musashi,0,0,0,,It just occurred to me, \N Nyarth...
-Dialogue: 10,0:09:27.77,0:09:30.64,Main,Musashi,0,0,0,,Are you really following up \N on what Sonansu’s saying?
+Dialogue: 10,0:09:27.77,0:09:30.64,Main,Musashi,0,0,0,,Are you really following up \N on what Sohnansu’s saying?
 Dialogue: 10,0:09:30.64,0:09:32.82,Main,Kojiro,0,0,0,,You’re asking that {\i1}now?{\i0}
 Dialogue: 10,0:09:32.82,0:09:34.42,Main,Kojiro,0,0,0,,You are, right, Nyarth?
 Dialogue: 10,0:09:34.42,0:09:35.72,Main,Nyarth,0,0,0,,Of course, meow!
@@ -194,7 +194,7 @@ Dialogue: 10,0:11:39.78,0:11:41.37,Main,Kojiro,0,0,0,,I told you, didn’t I?
 Dialogue: 10,0:11:41.37,0:11:44.43,Main,Kojiro,0,0,0,,This is {\i1}way{\i0} too conspicuous \N an entrance to our base.{Blargh. Phrasing. -Starfish}{Tagging to come back to this later. - Toa of the Batch}
 Dialogue: 10,0:11:44.43,0:11:47.02,Main,Go,0,0,0,,What?! You’ve got \N a base under here?!
 Dialogue: 10,0:11:47.02,0:11:48.89,Main,Kojiro,0,0,0,,Why, where ever did you \N get {\i1}that{\i0} from?!
-Dialogue: 10,0:11:49.26,0:11:52.20,Main,Musashi,0,0,0,,It’s too late now, Kojiro...
+Dialogue: 10,0:11:49.26,0:11:52.20,Main,Musashi,0,0,0,,It’s too late now, Kojirou...
 Dialogue: 10,0:11:52.20,0:11:53.15,Main,Musashi,0,0,0,,Let’s get him!
 Dialogue: 10,0:11:53.15,0:11:54.65,Main,Kojiro,0,0,0,,Yeah!
 Dialogue: 10,0:11:54.65,0:11:57.12,Main,Musashi & Kojiro,0,0,0,,Capsules, c’mon!

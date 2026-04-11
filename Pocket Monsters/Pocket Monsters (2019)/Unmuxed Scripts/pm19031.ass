@@ -46,8 +46,8 @@ Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.40,0:00:04.98,Main,Narrator,0,0,0,,Satoshi, who aims to battle \N the Supreme Monarch, Dande... {Copy-paste from episode 14 START}
 Dialogue: 10,0:00:05.35,0:00:10.11,Main,Narrator,0,0,0,,And Go, who dreams of catching every Pokémon \N to work his way up to Mew...
 Dialogue: 10,0:00:10.11,0:00:15.35,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
-Dialogue: 10,0:00:27.93,0:00:29.77,Main,Koharu,0,0,0,,Hello? Sota?
-Dialogue: 10,0:00:29.77,0:00:32.77,Main,Sota,0,0,0,,Listen, Big Sis...
+Dialogue: 10,0:00:27.93,0:00:29.77,Main,Koharu,0,0,0,,Hello? Souta?
+Dialogue: 10,0:00:29.77,0:00:32.77,Main,Souta,0,0,0,,Listen, Big Sis...
 Dialogue: 10,0:00:34.04,0:00:37.49,Main,Koharu,0,0,0,,Yes... I see...
 Dialogue: 10,0:00:40.22,0:00:42.32,Main,Narrator,0,0,0,,Here in Sakuragi Park,
 Dialogue: 10,0:00:42.32,0:00:47.44,Main,Narrator,0,0,0,,the Pokémon caught by Satoshi and Go \N are enjoying another relaxed day.
@@ -60,10 +60,10 @@ Dialogue: 10,0:01:10.49,0:01:11.73,Main,Go,0,0,0,,And I’m not done!
 Dialogue: 10,0:01:11.73,0:01:14.88,Main,Go,0,0,0,,There’s still so many more \N Pokémon out there in the world!
 Dialogue: 10,0:01:14.88,0:01:16.31,Main,Koharu,0,0,0,,Oh.
 Dialogue: 10,0:01:17.38,0:01:18.51,Main,Koharu,0,0,0,,Listen, Go...
-Dialogue: 10,0:01:19.54,0:01:22.21,Main,Koharu,0,0,0,,Sota just called me.
+Dialogue: 10,0:01:19.54,0:01:22.21,Main,Koharu,0,0,0,,Souta just called me.
 Dialogue: 10,0:01:22.21,0:01:24.39,Main,Koharu,0,0,0,,It seems his friend has a problem.
 Dialogue: 10,0:01:25.27,0:01:27.12,Main,Koharu,0,0,0,,Could you come with me?
-Dialogue: 10,0:01:27.12,0:01:28.40,Main,Go,0,0,0,,Sota?
+Dialogue: 10,0:01:27.12,0:01:28.40,Main,Go,0,0,0,,Souta?
 Dialogue: 10,0:01:31.18,0:01:35.15,Main,Koharu,0,0,0,,He said his friend \N brought her favorite Pokémon,
 Dialogue: 10,0:01:35.15,0:01:37.99,Main,Koharu,0,0,0,,and now the kids \N got into a fight over it.
 Dialogue: 10,0:01:37.99,0:01:39.11,Main,Satoshi,0,0,0,,A fight?
@@ -80,11 +80,11 @@ Dialogue: 10,0:01:57.62,0:01:59.40,Main,Nami,0,0,0,,Hi-chan is cute!
 Dialogue: 10,0:01:59.40,0:02:01.51,Main,Human being,0,0,0,,Huh? No, it’s not cute at all!
 Dialogue: 10,0:02:01.51,0:02:02.60,Main,Human being,0,0,0,,Yeah!
 Dialogue: 10,0:02:02.60,0:02:04.71,Main,Nami,0,0,0,,Yes, it{\i1} is {\i0}cute!
-Dialogue: 10,0:02:04.71,0:02:05.70,Main,Koharu,0,0,0,,Sota.
-Dialogue: 10,0:02:06.35,0:02:07.76,Main,Sota,0,0,0,,Big Sis!
-Dialogue: 10,0:02:07.76,0:02:09.82,Main,Sota,0,0,0,,Go, Satoshi, you’re here too?
+Dialogue: 10,0:02:04.71,0:02:05.70,Main,Koharu,0,0,0,,Souta.
+Dialogue: 10,0:02:06.35,0:02:07.76,Main,Souta,0,0,0,,Big Sis!
+Dialogue: 10,0:02:07.76,0:02:09.82,Main,Souta,0,0,0,,Go, Satoshi, you’re here too?
 Dialogue: 10,0:02:09.82,0:02:13.14,Main,Koharu,0,0,0,,Is that the friend you \N mentioned on the phone?
-Dialogue: 10,0:02:13.14,0:02:15.91,Main,Sota,0,0,0,,Yeah. Her name’s Nami...
+Dialogue: 10,0:02:13.14,0:02:15.91,Main,Souta,0,0,0,,Yeah. Her name’s Nami...
 Dialogue: 10,0:02:18.21,0:02:19.15,Main,Go,0,0,0,,That’s a...
 Dialogue: 10,0:02:19.15,0:02:20.87,Main,Satoshi,0,0,0,,...Hinbass!
 Comment: 10,0:02:20.87,0:02:20.87,Main,,0,0,0,,{Opening}
@@ -93,9 +93,9 @@ Dialogue: 10,0:03:59.67,0:04:02.76,Main,Rotom Go Ver,0,0,0,,Hinbass! Fish Pokém
 Dialogue: 10,0:04:02.76,0:04:06.47,Main,Rotom Go Ver,0,0,0,,It is the shabbiest \N Pokémon of all!
 Dialogue: 10,0:04:06.47,0:04:11.30,Main,Rotom Go Ver,0,0,0,,It forms schools and lives at \N the bottom of plant-filled rivers!{Modified HGSS entry -Starfish}
 Dialogue: 10,0:04:11.30,0:04:12.77,Main,Go,0,0,0,,I see.
-Dialogue: 10,0:04:13.23,0:04:17.67,Main,Human being,0,0,0,,Hey, Sota, you think this Pokémon \N is weird too, don’t you?
-Dialogue: 10,0:04:17.67,0:04:18.78,Main,Nami,0,0,0,,Sota...
-Dialogue: 10,0:04:20.26,0:04:21.40,Main,Sota,0,0,0,,I, uh...
+Dialogue: 10,0:04:13.23,0:04:17.67,Main,Human being,0,0,0,,Hey, Souta, you think this Pokémon \N is weird too, don’t you?
+Dialogue: 10,0:04:17.67,0:04:18.78,Main,Nami,0,0,0,,Souta...
+Dialogue: 10,0:04:20.26,0:04:21.40,Main,Souta,0,0,0,,I, uh...
 Dialogue: 10,0:04:24.80,0:04:27.44,Main,Satoshi,0,0,0,,Huh? I think Hinbass is great.
 Dialogue: 10,0:04:27.44,0:04:31.29,Main,Go,0,0,0,,Not to mention, it evolves\N into an amazing Pokémon!
 Dialogue: 10,0:04:32.04,0:04:33.89,Main,Human being,0,0,0,,Huh? You’re lying!
@@ -107,7 +107,7 @@ Dialogue: 10,0:04:38.57,0:04:40.16,Main,Human being,0,0,0,,So cute!
 Dialogue: 10,0:04:40.16,0:04:41.32,Main,Human being,0,0,0,,Yeah!
 Dialogue: 10,0:04:42.05,0:04:43.81,Main,Human being,0,0,0,,Pet, pet...
 Dialogue: 10,0:04:45.05,0:04:46.91,Main,Human being,0,0,0,,Poke, poke...
-Dialogue: 10,0:04:57.87,0:04:58.99,Main,Sota,0,0,0,,Nami...
+Dialogue: 10,0:04:57.87,0:04:58.99,Main,Souta,0,0,0,,Nami...
 Dialogue: 10,0:05:00.86,0:05:04.13,Main,Satoshi,0,0,0,,It’s a real shame they can’t see \N how great Hinbass is.
 Dialogue: 10,0:05:04.13,0:05:07.28,Main,Go,0,0,0,,Wanna come to \N Sakuragi Park with us?
 Dialogue: 10,0:05:07.84,0:05:09.78,Main,Go,0,0,0,,There’s loads of Pokémon there.
@@ -127,19 +127,19 @@ Dialogue: 10,0:05:54.76,0:05:57.96,Main,Nami,0,0,0,,But everyone says it isn’t
 Dialogue: 10,0:06:00.35,0:06:04.48,Main,Nami,0,0,0,,You said Hi-chan evolves into \N an amazing Pokémon... Was that true?
 Dialogue: 10,0:06:04.48,0:06:05.21,Main,Go,0,0,0,,Yeah!
 Dialogue: 10,0:06:08.05,0:06:11.97,Main,Sakuragi,0,0,0,,That’s right. \N Hinbass evolves into Milokallos.
-Dialogue: 10,0:06:11.97,0:06:15.72,Main,Sota,0,0,0,,Isn’t that amazing, Nami?\N It’ll take everyone by surprise!
+Dialogue: 10,0:06:11.97,0:06:15.72,Main,Souta,0,0,0,,Isn’t that amazing, Nami?\N It’ll take everyone by surprise!
 Dialogue: 10,0:06:15.72,0:06:16.59,Main,Nami,0,0,0,,Yeah!
 Dialogue: 10,0:06:16.59,0:06:18.10,Main,Renji,0,0,0,,But you know,
 Dialogue: 10,0:06:18.10,0:06:21.75,Main,Renji,0,0,0,,raising Hinbass to Milokallos\N is hardly a walk in the park.
 Dialogue: 10,0:06:21.75,0:06:23.36,Main,Renji,0,0,0,,It won’t be evolving any time soon.
-Dialogue: 10,0:06:23.36,0:06:25.23,Main,Sota,0,0,0,,Aw, really?
+Dialogue: 10,0:06:23.36,0:06:25.23,Main,Souta,0,0,0,,Aw, really?
 Dialogue: 10,0:06:25.23,0:06:27.86,Main,Renji,0,0,0,,Yeah, it’s real tough!
 Dialogue: 10,0:06:27.86,0:06:30.11,Main,Kikuna,0,0,0,,It might take a while,
 Dialogue: 10,0:06:30.11,0:06:31.90,Main,Kikuna,0,0,0,,but I’m sure it’ll evolve!
 Dialogue: 10,0:06:31.90,0:06:36.27,Main,Sakuragi,0,0,0,,That’s right! Just try to bond with Hinbass \N and raise it with care.
 Dialogue: 10,0:06:36.27,0:06:38.25,Main,Sakuragi,0,0,0,,It will evolve someday!
 Dialogue: 10,0:06:38.25,0:06:40.41,Main,Nami,0,0,0,,Yeah, I’ll treat it with care!
-Dialogue: 10,0:06:40.41,0:06:45.38,Main,Sota,0,0,0,,But as it is now, nobody in kindergarten \N will see how cool Hi-chan is.
+Dialogue: 10,0:06:40.41,0:06:45.38,Main,Souta,0,0,0,,But as it is now, nobody in kindergarten \N will see how cool Hi-chan is.
 Dialogue: 10,0:06:45.79,0:06:47.91,Main,Satoshi,0,0,0,,Hinbass is cool, though!
 Dialogue: 10,0:06:47.91,0:06:49.63,Main,Go,0,0,0,,Okay, we heard you \N the first time.
 Dialogue: 10,0:06:50.05,0:06:52.65,Main,Kikuna,0,0,0,,Oh, I know! You could try this!
@@ -158,7 +158,7 @@ Dialogue: 10,0:07:28.01,0:07:30.75,Main,Koharu,0,0,0,,But winning won’t be eas
 Dialogue: 10,0:07:30.75,0:07:31.86,Main,Nami,0,0,0,,I’ll do it!
 Dialogue: 10,0:07:31.86,0:07:32.62,Main,Satoshi,0,0,0,,All right!
 Dialogue: 10,0:07:32.62,0:07:35.83,Main,Satoshi,0,0,0,,We’ll cheer you on \N so you can win!
-Dialogue: 10,0:07:35.83,0:07:37.40,Main,Sota,0,0,0,,I’ll support you \N as good as I can!
+Dialogue: 10,0:07:35.83,0:07:37.40,Main,Souta,0,0,0,,I’ll support you \N as good as I can!
 Dialogue: 10,0:07:37.40,0:07:41.14,Main,Go,0,0,0,,First we’d better research the contest \N and make a plan!
 Dialogue: 10,0:07:38.78,0:07:40.01,Main,Koharu,0,0,0,,{\an8}Geez...
 Dialogue: 10,0:07:42.02,0:07:44.15,Main,Sakuragi,0,0,0,,If you don’t try, \N you’ll never succeed.
@@ -212,8 +212,8 @@ Dialogue: 10,0:10:19.56,0:10:20.66,Main,Satoshi,0,0,0,,Got it!
 Dialogue: 10,0:10:23.18,0:10:26.83,Main,Koharu,0,0,0,,All right... Let’s start by\N having you get used to the water.
 Dialogue: 10,0:10:26.83,0:10:27.72,Main,Nami,0,0,0,,Okay.
 Dialogue: 10,0:10:32.16,0:10:33.07,Main,Koharu,0,0,0,,Almost had it!
-Dialogue: 10,0:10:33.07,0:10:34.37,Main,Sota,0,0,0,,Yeah, that’s the spirit!
-Dialogue: 10,0:10:34.37,0:10:36.31,Main,Sota,0,0,0,,Now I’ll try... Hah!
+Dialogue: 10,0:10:33.07,0:10:34.37,Main,Souta,0,0,0,,Yeah, that’s the spirit!
+Dialogue: 10,0:10:34.37,0:10:36.31,Main,Souta,0,0,0,,Now I’ll try... Hah!
 Dialogue: 10,0:10:42.56,0:10:44.20,Main,Satoshi,0,0,0,,Are you sure this’ll work? {This sure is one abrupt keyframe change. - Toa}
 Dialogue: 10,0:10:44.20,0:10:45.64,Main,Go,0,0,0,,Absolutely.
 Dialogue: 10,0:10:45.64,0:10:48.50,Main,Go,0,0,0,,All right, Tosakinto... Go!
@@ -226,7 +226,7 @@ Dialogue: 10,0:11:45.79,0:11:48.04,Main,Go,0,0,0,,And you’ve gotten \N better 
 Dialogue: 10,0:11:48.04,0:11:49.60,Main,Go,0,0,0,,How are you guys, Koharu?
 Dialogue: 10,0:11:49.60,0:11:52.23,Main,Koharu,0,0,0,,Looking good.
 Dialogue: 10,0:11:56.76,0:11:58.95,Main,Nami,0,0,0,,Look, Big Sis! I swam!
-Dialogue: 10,0:11:58.95,0:12:00.64,Main,Sota,0,0,0,,Good job, Nami!
+Dialogue: 10,0:11:58.95,0:12:00.64,Main,Souta,0,0,0,,Good job, Nami!
 Dialogue: 10,0:12:00.64,0:12:01.99,Main,Koharu,0,0,0,,Yes, that was perfect!
 Dialogue: 10,0:12:02.81,0:12:04.06,Main,Satoshi,0,0,0,,So I guess it’s almost time...
 Dialogue: 10,0:12:04.06,0:12:06.12,Main,Go,0,0,0,,...to swim with Hi-chan!
@@ -255,7 +255,7 @@ Dialogue: 10,0:13:12.52,0:13:13.41,Main,Koharu,0,0,0,,Yeah.
 Dialogue: 10,0:13:19.81,0:13:22.57,Main,Satoshi,500,0,0,,We’re here! \N The day has come!
 Dialogue: 10,0:13:25.03,0:13:29.75,Main,Koharu,0,0,0,,It’ll be fine! \N Just do what we practiced!
 Dialogue: 10,0:13:29.75,0:13:32.55,Main,Nami,0,0,0,,Got it! \N Let’s give it our all, Hi-chan!
-Dialogue: 10,0:13:33.27,0:13:34.75,Main,Sota,0,0,0,,We’ll be rooting for you!
+Dialogue: 10,0:13:33.27,0:13:34.75,Main,Souta,0,0,0,,We’ll be rooting for you!
 Dialogue: 10,0:13:34.75,0:13:36.21,Main,Koharu,0,0,0,,Let’s see, the contest’s at—
 Dialogue: 10,0:13:35.51,0:13:36.20,Main,Go,0,0,0,,{\an8}There!
 Dialogue: 10,0:13:45.35,0:13:46.22,Main,Go,0,0,0,,All right!
@@ -279,7 +279,7 @@ Dialogue: 10,0:14:38.95,0:14:42.53,Main,Announcer,0,0,0,,Next up are Marin{Sandy
 Dialogue: 10,0:14:43.11,0:14:44.25,Main,Marin,0,0,0,,Yeah!
 Dialogue: 10,0:14:46.21,0:14:49.24,Main,Go,0,0,0,,Winning this might be tough.
 Dialogue: 10,0:14:49.24,0:14:51.12,Main,Koharu,0,0,0,,That’s not true!
-Dialogue: 10,0:14:51.12,0:14:53.76,Main,Sota,0,0,0,,Nami and Hi-chan are \N in perfect sync, too!
+Dialogue: 10,0:14:51.12,0:14:53.76,Main,Souta,0,0,0,,Nami and Hi-chan are \N in perfect sync, too!
 Dialogue: 10,0:14:53.76,0:14:54.78,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 10,0:14:54.78,0:14:56.56,Main,Satoshi,0,0,0,,They practiced like crazy!
 Dialogue: 10,0:15:00.04,0:15:03.96,Main,Go,0,0,0,,Oh, come to think of it, wasn’t this contest \N getting streamed online, too?
@@ -289,7 +289,7 @@ Dialogue: 10,0:15:15.99,0:15:20.59,Main,Announcer,0,0,0,,Next up are Nami and \N
 Dialogue: 10,0:15:23.07,0:15:24.70,Main,Announcer,0,0,0,,Go ahead!
 Dialogue: 10,0:15:27.53,0:15:29.56,Main,Stereotypical dumb brunette,0,0,0,,Hinbass? Like, for reals?
 Dialogue: 10,0:15:29.56,0:15:31.48,Main,Stereotypical dumb blonde,0,0,0,,That’s, like, {\i1}so{\i0} ugly!
-Dialogue: 10,0:15:34.26,0:15:36.16,Main,Sota,0,0,0,,Stop, Big Sis!
+Dialogue: 10,0:15:34.26,0:15:36.16,Main,Souta,0,0,0,,Stop, Big Sis!
 Dialogue: 10,0:15:36.80,0:15:38.58,Main,Nami,0,0,0,,Here we go, Hi-chan!
 Dialogue: 10,0:15:47.59,0:15:49.80,Main,Go,0,0,0,,All right! \N They’re off to a good start!
 Dialogue: 10,0:15:49.80,0:15:51.84,Main,Satoshi,0,0,0,,The training with Koiking \N paid off!
@@ -297,7 +297,7 @@ Dialogue: 10,0:15:58.10,0:15:59.35,Main,Human being,0,0,0,,I wanna try that, too
 Dialogue: 10,0:15:59.35,0:16:00.35,Main,Human being,0,0,0,,Looks fun!
 Dialogue: 10,0:16:07.00,0:16:08.61,Main,Stereotypical dumb brunette,0,0,0,,Whoa, it’s, like, actually good!
 Dialogue: 10,0:16:08.61,0:16:10.74,Main,Go,0,0,0,,They just might make it! {Added punctuation. - Toa}
-Dialogue: 10,0:16:10.74,0:16:12.49,Main,Sota,0,0,0,,That’s awesome, Nami!
+Dialogue: 10,0:16:10.74,0:16:12.49,Main,Souta,0,0,0,,That’s awesome, Nami!
 Dialogue: 10,0:16:12.90,0:16:14.84,Main,Nami,0,0,0,,Hi-chan, time for the finish!
 Dialogue: 10,0:16:15.46,0:16:16.95,Main,Nami,0,0,0,,Ready, and...
 Dialogue: 10,0:16:19.87,0:16:20.70,Main,Go,0,0,0,,What’s this?!
@@ -308,7 +308,7 @@ Dialogue: 10,0:16:32.01,0:16:34.38,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:16:35.01,0:16:38.43,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:16:38.43,0:16:40.81,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:16:41.61,0:16:42.43,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:16:42.43,0:16:43.69,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:16:42.43,0:16:43.69,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:16:43.69,0:16:47.15,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:16:47.15,0:16:50.49,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:16:50.49,0:16:52.74,Main,Nyarth,0,0,0,,Just kidding, meow!
@@ -363,7 +363,7 @@ Dialogue: 10,0:20:29.75,0:20:31.17,Main,Satoshi,0,0,0,,Pikachu! Iron Tail!
 Dialogue: 10,0:20:39.56,0:20:40.58,Main,Go,0,0,0,,Nami!
 Dialogue: 10,0:20:40.58,0:20:42.76,Main,Nami,0,0,0,,Hi-chan, I believe in you!
 Dialogue: 10,0:20:50.39,0:20:53.18,Main,Team Rocket,0,0,0,,{\i1}What an awful feeling!{\i0}
-Dialogue: 10,0:20:58.46,0:20:59.69,Main,Sota,0,0,0,,Amazing!
+Dialogue: 10,0:20:58.46,0:20:59.69,Main,Souta,0,0,0,,Amazing!
 Dialogue: 10,0:20:59.69,0:21:01.40,Main,Nami,0,0,0,,Hi-chan!
 Dialogue: 10,0:21:02.84,0:21:04.75,Main,Announcer,0,0,0,,We may have gone through \N both this and that...{I rather doubt his use of “nanda kanda to” was accidental so I worded it like the Team Rocket motto. -Starfish}
 Dialogue: 10,0:21:04.75,0:21:10.74,Main,Announcer,0,0,0,,But Nami and Hi-chan showed us a marvelous \N performance, a strong bond, and even an evolution,

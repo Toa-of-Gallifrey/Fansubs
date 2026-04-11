@@ -178,9 +178,9 @@ Dialogue: 10,0:08:32.70,0:08:34.16,Main,Musashi,0,0,0,,Attention, please!
 Dialogue: 10,0:08:35.95,0:08:40.49,Main,Kojiro,0,0,0,,Do we have any guests today \N in need of a little extra Poké-Blue?
 Dialogue: 10,0:08:40.49,0:08:41.75,Main,Abel and Brutus,0,0,0,,Poké-Blue?!
 Dialogue: 10,0:08:45.00,0:08:46.75,Main,Abel,0,0,0,,What an amazing glossy luster!
-Dialogue: 10,0:08:46.75,0:08:48.75,Main,Abel,0,0,0,,I’ve never seen \N a Sonansu like this before!
+Dialogue: 10,0:08:46.75,0:08:48.75,Main,Abel,0,0,0,,I’ve never seen \N a Sohnansu like this before!
 Dialogue: 10,0:08:48.75,0:08:52.76,Main,Brutus,0,0,0,,This beauty is one in a hundred— \N no, a thousand!
-Dialogue: 10,0:08:52.76,0:08:56.59,Main,Musashi,0,0,0,,Why not take a commemorative \N photo with our Sonansu?
+Dialogue: 10,0:08:52.76,0:08:56.59,Main,Musashi,0,0,0,,Why not take a commemorative \N photo with our Sohnansu?
 Dialogue: 10,0:08:57.60,0:08:58.68,Main,Abel,0,0,0,,Can you send the file?!
 Dialogue: 10,0:08:58.68,0:08:59.68,Main,Abel,0,0,0,,I’ll make it my new wallpaper!
 Dialogue: 10,0:08:59.68,0:09:01.85,Main,Brutus,0,0,0,,I’ll put it under my pillow \N and have wonderful dreams!
@@ -298,7 +298,7 @@ Dialogue: 10,0:14:25.34,0:14:29.22,Main,Abel,0,0,0,,but is there a single other 
 Dialogue: 10,0:14:32.18,0:14:35.56,Main,Satoshi,0,0,0,,Hmm... Is Vanipetit blue, \N or is it white...?
 Dialogue: 10,0:14:35.56,0:14:37.56,Main,Go,0,0,0,,A hard question for sure.
 Dialogue: 10,0:14:38.35,0:14:41.19,Main,Musashi,0,0,0,,Oh, we finally found you, guests!
-Dialogue: 10,0:14:42.44,0:14:44.44,Main,Abel and Brutus,0,0,0,,The Sonansu from earlier!
+Dialogue: 10,0:14:42.44,0:14:44.44,Main,Abel and Brutus,0,0,0,,The Sohnansu from earlier!
 Dialogue: 10,0:14:46.82,0:14:49.95,Main,Nyarth,0,0,0,,...is what it looks like, \N but it’s actually me inside, meow!
 Dialogue: 10,0:14:51.82,0:14:53.53,Main,Abel,0,0,0,,It doesn’t thrill me.
 Dialogue: 10,0:14:53.53,0:14:55.08,Main,Brutus,0,0,0,,My soul is utterly unmoved.
@@ -306,7 +306,7 @@ Dialogue: 10,0:14:55.08,0:14:56.95,Main,Musashi and Kojiro,0,0,0,,They’re susp
 Dialogue: 10,0:14:57.54,0:15:00.21,Main,Nyarth,0,0,0,,I’ll just have to appeal \N to them with {\i1}that,{\i} meow.
 Dialogue: 10,0:15:00.21,0:15:02.71,Main,Nyarth,0,0,0,,Sonyansu!
 Dialogue: 10,0:15:06.09,0:15:06.67,Main,Musashi,0,0,0,,Oh, dear me!
-Dialogue: 10,0:15:06.67,0:15:09.51,Main,Musashi,0,0,0,,My dear Sonansu, \N are you not feeling well?
+Dialogue: 10,0:15:06.67,0:15:09.51,Main,Musashi,0,0,0,,My dear Sohnansu, \N are you not feeling well?
 Dialogue: 10,0:15:09.51,0:15:11.68,Main,Musashi and Kojiro,0,0,0,,Excuse us!
 Dialogue: 10,0:15:12.93,0:15:14.97,Main,Abel,0,0,0,,I’ve had enough!
 Dialogue: 10,0:15:14.97,0:15:17.81,Main,Abel,0,0,0,,Why do you always interfere \N with my Aokatsu!
@@ -385,12 +385,12 @@ Dialogue: 10,0:18:36.30,0:18:39.26,Main,Kojiro,0,0,0,,To preserve world peace.
 Dialogue: 10,0:18:39.26,0:18:42.68,Main,Musashi,0,0,0,,Championing the evils \N of truth and love.
 Dialogue: 10,0:18:42.68,0:18:45.47,Main,Kojiro,0,0,0,,We’re the lovely, charming villains.
 Dialogue: 10,0:18:45.93,0:18:46.68,Main,Musashi,0,0,0,,Musashi!
-Dialogue: 10,0:18:46.68,0:18:47.93,Main,Kojiro,0,0,0,,Kojiro!
+Dialogue: 10,0:18:46.68,0:18:47.93,Main,Kojiro,0,0,0,,Kojirou!
 Dialogue: 10,0:18:47.93,0:18:51.56,Main,Musashi,0,0,0,,The Team Rocket duo \N soars through the galaxy!
 Dialogue: 10,0:18:51.56,0:18:54.69,Main,Kojiro,0,0,0,,Like a white hole, \N a white tomorrow awaits us!
 Dialogue: 10,0:18:54.69,0:18:57.19,Main,Nyarth,0,0,0,,Just kidding, meow!
-Dialogue: 10,0:19:01.37,0:19:03.83,Main,Team Rocket,0,0,0,,Sonansu!
-Dialogue: 10,0:19:04.37,0:19:06.66,Main,Kojiro,0,0,0,,Without Sonansu...
+Dialogue: 10,0:19:01.37,0:19:03.83,Main,Team Rocket,0,0,0,,Sohnansu!
+Dialogue: 10,0:19:04.37,0:19:06.66,Main,Kojiro,0,0,0,,Without Sohnansu...
 Dialogue: 10,0:19:06.66,0:19:08.25,Main,Nyarth,0,0,0,,...the motto just fizzles out, meow...
 Dialogue: 10,0:19:08.25,0:19:09.83,Main,Musashi,0,0,0,,This is all your fault!
 Dialogue: 10,0:19:09.83,0:19:11.17,Main,Brutus,0,0,0,,What?!
@@ -421,7 +421,7 @@ Dialogue: 10,0:20:31.71,0:20:33.79,Main,Brutus,0,0,0,,Come on down!
 Dialogue: 10,0:20:39.17,0:20:41.55,Main,Team Rocket,0,0,0,,You’re running away?!
 Dialogue: 10,0:20:42.42,0:20:45.59,Main,Satoshi,0,0,0,,Now, Pikachu! \N 100,000 Volts!
 Dialogue: 10,0:20:51.35,0:20:53.94,Main,Team Rocket,0,0,0,,{\i1}What an awful feeling!{\i0}
-Dialogue: 10,0:20:53.94,0:20:56.40,Main,Team Rocket,0,0,0,,{\i1}Sonansu!{\i0}
+Dialogue: 10,0:20:53.94,0:20:56.40,Main,Team Rocket,0,0,0,,{\i1}Sohnansu!{\i0}
 Dialogue: 10,0:20:56.40,0:20:57.98,Main,Satoshi,0,0,0,,All right!
 Dialogue: 10,0:20:59.90,0:21:01.03,Main,Koharu,0,0,0,,Huh? Again?
 Dialogue: 10,0:21:01.03,0:21:01.99,Main,Brutus,0,0,0,,Oh, no!
