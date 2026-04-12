@@ -69,7 +69,7 @@ Dialogue: 10,0:04:40.34,0:04:41.39,Main,Liko,0,0,0,,Pagogo...
 Dialogue: 10,0:04:41.39,0:04:45.64,Main,Dot,0,0,0,,Those colors... \N They’re the Six Heroes’ Terastal Colors.
 Dialogue: 10,0:04:45.64,0:04:48.35,Main,Roy,0,0,0,,It’s sending a signal \N to Rekkuuza and the others.{Dread Pagogo}
 Dialogue: 10,0:04:54.11,0:04:56.57,Main,Liko,0,0,0,,He’s saying “Leave this to me.”
-Dialogue: 10,0:04:56.57,0:04:58.44,Main,Friede,0,0,0,,He’s one faithful{trusty} captain!
+Dialogue: 10,0:04:56.57,0:04:58.44,Main,Friede,0,0,0,,He’s one dependable captain!
 Dialogue: 10,0:05:03.74,0:05:06.79,Main,Spinel,0,0,0,,Calling all Explorers agents.
 Dialogue: 10,0:05:06.79,0:05:10.16,Main,Spinel,0,0,0,,We will now move \N to intercept the Rising Voltteccers.
 Dialogue: 10,0:05:10.16,0:05:12.38,Main,Spinel,0,0,0,,Mobilize as planned.
@@ -162,7 +162,7 @@ Dialogue: 10,0:11:44.60,0:11:45.52,Main,Nemo,0,0,0,,Dot...
 Dialogue: 10,0:11:45.52,0:11:47.44,Main,Botan,0,0,0,,You planned this.
 Dialogue: 10,0:11:47.44,0:11:52.15,Main,Dot,0,0,0,,By defeating them all at once, \N only one Pokémon would get Dragged Along.
 Dialogue: 10,0:11:53.32,0:11:56.07,Main,Dot,0,0,0,,Surfugo pulled through for us, \N knowing the cost{consequences}.
-Dialogue: 10,0:11:57.70,0:12:02.45,Main,Dot,0,0,0,,Together, we made it somewhere \N we never could’ve reached alone!
+Dialogue: 10,0:11:57.70,0:12:02.45,Main,Dot,0,0,0,,Together, we’ll reach places \N none of us could on our own!
 Dialogue: 10,0:12:05.20,0:12:07.21,Main,Dot,0,0,0,,Now, Explorers!
 Dialogue: 10,0:12:08.04,0:12:09.58,Main,Dot,0,0,0,,Out of the way!
 Comment: 0,0:12:31.48,0:12:31.48,Main,,0,0,0,,{Part C}
@@ -210,8 +210,8 @@ Dialogue: 10,0:15:47.63,0:15:49.22,Main,Hamber,0,0,0,,Good luck.
 Dialogue: 10,0:15:50.26,0:15:51.39,Main,Hamber,0,0,0,,Now, then...
 Dialogue: 10,0:15:52.31,0:15:56.10,Main,Hamber,0,0,0,,I suppose it’s time I let loose, \N in spite of my age.
 Dialogue: 10,0:15:57.39,0:16:00.36,Main,Sango,0,0,0,,Hah! Don’t know when to \N quit running, do ya?!
-Dialogue: 10,0:16:00.36,0:16:03.03,Main,Onyx,0,0,0,,An attempt to lure us away, \N I presume.
-Dialogue: 10,0:16:03.03,0:16:04.69,Main,Sango,0,0,0,,Huh?! For real?!
+Dialogue: 10,0:16:00.36,0:16:02.94,Main,Onyx,0,0,0,,An attempt to lure us away, \N I presume.
+Dialogue: 10,0:16:02.94,0:16:04.69,Main,Sango,0,0,0,,Huh?! For real?!
 Dialogue: 10,0:16:06.65,0:16:11.53,Main,Agate,0,0,0,,If we defeat you, \N even Terapagos cannot harm the Rakurium.
 Dialogue: 10,0:16:11.53,0:16:14.33,Main,Friede,0,0,0,,So you’ve worked out our plan, then.
 Dialogue: 10,0:16:14.33,0:16:17.21,Main,Ult,0,0,0,,Fine by me! \N Master, let’s take ‘em on!
