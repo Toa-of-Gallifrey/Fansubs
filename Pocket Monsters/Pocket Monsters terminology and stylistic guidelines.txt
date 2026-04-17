@@ -553,7 +553,7 @@ ohakamairi おはかまいり (Last Respects) - # TBD #
 oikaze おいかぜ (Tailwind) - Tailwind
 oiuchi おいうち (Pursuit) - # TBD #
 oiwai おいわい (Celebrate) - # TBD #
-okatadzuke おかたづけ (Tidy Up) - # TBD #
+okatadzuke おかたづけ (Tidy Up) - Tidy Up
 okimiyage おきみやげ (Memento) - Parting Gift
 okutank hou オクタンほう (Octazooka) - # TBD #
 omajinai おまじない (Lucky Chant) - # TBD #
@@ -707,7 +707,7 @@ sumoggu スモッグ (Smog) - # TBD #
 suna arashi すなあらし (Sandstorm) - Sandstorm
 suna jigoku すなじごく (Sand Tomb) - Sand Hell
 sunaatsume すなあつめ (Shore Up) - # TBD #
-sunakake すなかけ (Sand Attack) - Sand Attack
+sunakake すなかけ (Sand Attack) - Sand Spray
 supaaku スパーク (Spark) - Spark
 supiido sutaa スピードスター (Swift) - Speed Star
 supiido suwappu スピードスワップ (Speed Swap) - Speed Swap
@@ -1238,8 +1238,8 @@ wazawai no utsawa わざわいのうつわ (Vessel of Ruin) - # TBD #
 yaruki やるき (Vital Spirit) - # TBD #
 yobimizu よびみず (Storm Drain) - # TBD #
 yochimu よちむ (Forewarn) - # TBD #
-yoga pawaa ヨガパワー (Pure Power) - # TBD #
-youryokuso ようりょくそ (Chlorophyll) - # TBD #
+yoga pawaa ヨガパワー (Pure Power) - Yoga Power
+youryokuso ようりょくそ (Chlorophyll) - Chlorophyll
 yowaki よわき (Defeatist) - # TBD #
 yuki furashi ゆきふらし (Snow Warning) - # TBD #
 yuki kaki ゆきかき (Slush Rush) - # TBD #
@@ -1260,7 +1260,7 @@ POKÉMON NAMES
 0006 リザードン Lizardon - かえんポケモン Flame Pokémon
 0007 ゼニガメ Zenigame - かめのこポケモン 
 0008 カメール Kameil - かめポケモン Turtle Pokémon
-0009 カメックス Kamex - こうらポケモン 
+0009 カメックス Kamex - こうらポケモン Shell Pokémon
 0010 キャタピー Caterpie - いもむしポケモン Caterpillar Pokémon
 0011 トランセル Trancell - さなぎポケモン Chrysalis Pokémon
 0012 バタフリー Butterfree - ちょうちょポケモン Butterfly Pokémon
@@ -1322,7 +1322,7 @@ POKÉMON NAMES
 0068 カイリキー Kairiky - かいりきポケモン Superstrength Pokémon
 0069 マダツボミ Madatsubomi - フラワーポケモン Flower Pokémon
 0070 ウツドン 
-0071 ウツボット Utsubot - ハエとりポケモン 
+0071 ウツボット Utsubot - ハエとりポケモン Flycatcher Pokémon
 0072 メノクラゲ Menokurage - くらげポケモン 
 0073 ドククラゲ Dokukurage - くらげポケモン 
 0074 イシツブテ Ishitsubute - がんせきポケモン Rock Pokémon
@@ -1401,7 +1401,7 @@ POKÉMON NAMES
 0147 ミニリュウ Miniryu - ドラゴンポケモン Dragon Pokémon
 0148 ハクリュー Hakuryu - ドラゴンポケモン Dragon Pokémon
 0149 カイリュー Kairyu - ドラゴンポケモン Dragon Pokémon
-0150 ミュウツー Mewtwo - いでんしポケモン 
+0150 ミュウツー Mewtwo - いでんしポケモン Genetic Pokémon
 0151 ミュウ Mew - しんしゅポケモン 
 0152 チコリータ Chicorita - はっぱポケモン Leaf Pokémon
 0153 ベイリーフ Bayleaf - はっぱポケモン Leaf Pokémon
@@ -1503,9 +1503,9 @@ POKÉMON NAMES
 0249 ルギア Lugia - せんすいポケモン 
 0250 ホウオウ Houou - にじいろポケモン 
 0251 セレビィ Celebi - ときわたりポケモン Time Travel Pokémon
-0252 キモリ Kimori - もりトカゲポケモン 
-0253 ジュプトル Juptile - もりトカゲポケモン 
-0254 ジュカイン Jukain - みつりんポケモン 
+0252 キモリ Kimori - もりトカゲポケモン Forest Lizard Pokémon
+0253 ジュプトル Juptile - もりトカゲポケモン Forest Lizard Pokémon
+0254 ジュカイン Jukain - みつりんポケモン Jungle Pokémon
 0255 アチャモ Achamo - ひよこポケモン 
 0256 ワカシャモ Wakashamo - わかどりポケモン 
 0257 バシャーモ Burshamo - もうかポケモン Blaze Pokémon
@@ -1558,8 +1558,8 @@ POKÉMON NAMES
 0304 ココドラ Kokodra - てつヨロイポケモン Iron Armor Pokémon
 0305 コドラ Kodra - てつヨロイポケモン Iron Armor Pokémon
 0306 ボスゴドラ Bossgodra - てつヨロイポケモン Iron Armor Pokémon
-0307 アサナン Asanan - めいそうポケモン 
-0308 チャーレム Charem - めいそうポケモン 
+0307 アサナン Asanan - めいそうポケモン Meditation Pokémon
+0308 チャーレム Charem - めいそうポケモン Meditation Pokémon
 0309 ラクライ 
 0310 ライボルト 
 0311 プラスル Plusle - おうえんポケモン Cheering Pokémon
@@ -1954,7 +1954,7 @@ POKÉMON NAMES
 0700 アマルルガ Nymphia - むすびつきポケモン Intertwining Pokémon
 0701 ルチャブル Luchabull - レスリングポケモン Wrestling Pokémon
 0702 デデンネ Dedenne - アンテナポケモン Antenna Pokémon
-0703 メレシー Melecie - ほうせきポケモン 
+0703 メレシー Melecie - ほうせきポケモン Jewel Pokémon
 0704 ヌメラ Numera - なんたいポケモン 
 0705 ヌメイル 
 0706 ヌメルゴン Numelgon - ドラゴンポケモン Dragon Pokémon
@@ -1970,7 +1970,7 @@ POKÉMON NAMES
 0716 ゼルネアス Xerneas - せいめいポケモン 
 0717 イベルタル Yveltal - はかいポケモン 
 0718 ジガルデ Zygarde - ちつじょポケモン - Order Pokémon
-0719 ディアンシー Diancie - ほうせきポケモン 
+0719 ディアンシー Diancie - ほうせきポケモン Jewel Pokémon
 0720 フーパ 
 0721 ボルケニオン 
 0722 モクロー Mokuroh - くさばねポケモン Grass Feather Pokémon
