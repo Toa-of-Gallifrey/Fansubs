@@ -174,7 +174,7 @@ Dialogue: 10,0:14:27.01,0:14:27.81,Main,Roy,0,0,0,,Liko!
 Dialogue: 10,0:14:27.81,0:14:29.22,Main,Dot,0,0,0,,You really did it!
 Dialogue: 10,0:14:29.22,0:14:31.39,Main,Liko,0,0,0,,Yeah, thanks to all of you!
 Dialogue: 10,0:14:32.27,0:14:35.40,Main,Friede,0,0,0,,All of the Rakurium in Rakua \N is now gone.
-Dialogue: 10,0:14:35.94,0:14:39.15,Main,Amethio,0,0,0,,Yes. Spinel’s ambitions \N have collapsed.
+Dialogue: 10,0:14:35.94,0:14:39.15,Main,Amethio,0,0,0,,Yes. Spinel’s ambitions \N have crumbled.
 Dialogue: 10,0:14:56.63,0:14:58.04,Main,Spinel,0,0,0,,Good job...
 Dialogue: 10,0:15:03.59,0:15:04.51,Main,Spinel,0,0,0,,Blacky...?
 Dialogue: 10,0:15:09.39,0:15:11.64,Main,Spinel,0,0,0,,Please, wait... Wait...
@@ -242,7 +242,7 @@ Dialogue: 10,0:21:47.33,0:21:50.29,Main,Crave,0,0,0,,I, myself, feel greatly res
 Dialogue: 10,0:21:50.29,0:21:53.71,Main,Crave,0,0,0,,...for my own inability \N to stop his offenses.
 Dialogue: 10,0:21:58.09,0:22:01.22,Main,Reporter 2,0,0,0,,Crave-san... Now that you have been \N reinstated as Director,
 Dialogue: 9,0:21:58.09,0:22:01.22,Main,Outlined line,0,0,0,,{\blur3\bord9\3c&HF6FBF6&\alpha&H00&}Cra{\alpha&HFF&}ve-san... Now that you have been \N reinstated as Director,
-Dialogue: 10,0:22:01.22,0:22:03.93,Main,Reporter 2,0,0,0,,what are you intentions \N for Exceed’s future?
+Dialogue: 10,0:22:01.22,0:22:03.93,Main,Reporter 2,0,0,0,,where do you intend on \N taking Exceed from here?
 Dialogue: 10,0:22:04.68,0:22:08.81,Main,Crave,0,0,0,,We will be recovering \N and destroying every Strong Sphere.
 Dialogue: 10,0:22:08.81,0:22:13.81,Main,Crave,0,0,0,,In addition, we will have a specialist team \N reinvestigate the dangers of Rakurium...{trails off unfinished}
 Dialogue: 10,0:22:16.48,0:22:17.82,Main,Amethio,0,0,0,,Good work.
