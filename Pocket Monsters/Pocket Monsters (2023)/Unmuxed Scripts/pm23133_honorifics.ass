@@ -281,7 +281,7 @@ Dialogue: 10,0:21:45.99,0:21:47.20,Main,Gurumin,0,0,0,,Yo-ssu!
 Dialogue: 10,0:21:47.20,0:21:50.87,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
 Dialogue: 10,0:21:52.37,0:21:54.21,Main,Gurumin,0,0,0,,Mega Evolving today is...
 Dialogue: 10,0:21:54.21,0:21:56.92,Main,Gurumin,0,0,0,,The Jewel Pokémon, Diancie!
-Dialogue: 10,0:21:58.09,0:22:00.38,Main,Gurumin,0,0,0,,What’s she gonna look like \N when she Mega Evolves?!{Using female pronouns because of "Princess"}
+Dialogue: 10,0:21:58.09,0:22:00.38,Main,Gurumin,0,0,0,,What’s she gonna look like when she Mega Evolves?!{Using female pronouns because of "Princess"}
 Dialogue: 10,0:22:00.38,0:22:02.43,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
 Dialogue: 10,0:22:03.59,0:22:05.18,Main,Gurumin,0,0,0,,Her true form is...
 Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
@@ -7478,7 +7478,7 @@ Dialogue: 0,0:23:16.88,0:23:19.50,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3
 Dialogue: 0,0:23:19.50,0:23:20.42,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}The best kind of things
 Dialogue: 0,0:23:20.42,0:23:22.55,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}I bet aren't listed in the Index
 Dialogue: 0,0:23:22.55,0:23:24.67,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}I wanna see them with you, yeah, time and time again
-Dialogue: 0,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}break 'em down and remake 'em
+Dialogue: 0,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}Break it and I'll fix it
 Dialogue: 0,0:23:26.55,0:23:27.72,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}OK!
 Dialogue: 0,0:23:27.72,0:23:30.60,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}Welcome back future, come on back soon
 Dialogue: 0,0:23:30.60,0:23:32.81,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}Let's do a super cool Encore
@@ -7511,7 +7511,7 @@ Dialogue: 1,0:23:16.88,0:23:19.50,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}squeeze of 
 Dialogue: 1,0:23:19.50,0:23:20.42,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}The best kind of things
 Dialogue: 1,0:23:20.42,0:23:22.55,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}I bet aren't listed in the Index
 Dialogue: 1,0:23:22.55,0:23:24.67,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}I wanna see them with you, yeah, time and time again
-Dialogue: 1,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}break 'em down and remake 'em
+Dialogue: 1,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}Break it and I'll fix it
 Dialogue: 1,0:23:26.55,0:23:27.72,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}OK!
 Dialogue: 1,0:23:27.72,0:23:30.60,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}Welcome back future, come on back soon
 Dialogue: 1,0:23:30.60,0:23:32.81,ED,,0,0,0,,{\q2\blur0.6\c&H312B2F&}Let's do a super cool Encore
@@ -7544,7 +7544,7 @@ Dialogue: 2,0:23:16.88,0:23:19.50,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}sq
 Dialogue: 2,0:23:19.50,0:23:20.42,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}The best kind of things
 Dialogue: 2,0:23:20.42,0:23:22.55,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}I bet aren't listed in the Index
 Dialogue: 2,0:23:22.55,0:23:24.67,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}I wanna see them with you, yeah, time and time again
-Dialogue: 2,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}break 'em down and remake 'em
+Dialogue: 2,0:23:24.67,0:23:26.55,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}Break it and I'll fix it
 Dialogue: 2,0:23:26.55,0:23:27.72,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}OK!
 Dialogue: 2,0:23:27.72,0:23:30.60,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}Welcome back future, come on back soon
 Dialogue: 2,0:23:30.60,0:23:32.81,ED,,0,0,0,,{\q2\bord0\blur0.3\shad2\4a&HFF&}Let's do a super cool Encore
