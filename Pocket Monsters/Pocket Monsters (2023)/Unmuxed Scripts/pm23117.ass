@@ -356,22 +356,23 @@ Dialogue: 10,0:21:35.82,0:21:40.07,Main,Ult,0,0,0,,Well, I guess your trainin’
 Dialogue: 10,0:21:40.07,0:21:41.24,Main,Taro,0,0,0,,Goodness...
 Dialogue: 10,0:21:41.24,0:21:43.11,Main,Taro,0,0,0,,{\i1}That’s{\i0} not terribly \N cute of you.
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution A}
-Dialogue: 10,0:21:45.99,0:21:47.20,Main,Gurumin,0,0,0,,Yo-ssu!
-Dialogue: 10,0:21:47.20,0:21:50.87,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
-Dialogue: 10,0:21:52.37,0:21:56.80,Main,Gurumin,0,0,0,,Mega Evolving today is \N the Jungle Pokémon, Jukain!
-Dialogue: 10,0:21:58.09,0:22:00.38,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
-Dialogue: 10,0:22:00.38,0:22:02.38,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
-Dialogue: 10,0:22:03.59,0:22:05.18,Main,Gurumin,0,0,0,,Its true form is...
-Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
+Dialogue: 10,0:21:45.99,0:21:47.20,Main,Mega Gurumin,0,0,0,,Yo-ssu!
+Dialogue: 10,0:21:47.20,0:21:50.87,Main,Mega Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
+Dialogue: 10,0:21:52.37,0:21:53.96,Main,Mega Gurumin,0,0,0,,Mega Evolving today is...
+Dialogue: 10,0:21:53.96,0:21:56.80,Main,Mega Gurumin,0,0,0,,The Jungle Pokémon, Jukain!
+Dialogue: 10,0:21:58.09,0:22:00.38,Main,Mega Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
+Dialogue: 10,0:22:00.38,0:22:02.38,Main,Mega Gurumin,0,0,0,,Don’t you wanna know, everyone?
+Dialogue: 10,0:22:03.59,0:22:05.18,Main,Mega Gurumin,0,0,0,,Its true form is...
+Dialogue: 10,0:22:05.18,0:22:07.47,Main,Mega Gurumin,0,0,0,,...coming after these commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution B}
-Dialogue: 10,0:23:37.98,0:23:40.82,Main,Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
-Dialogue: 10,0:23:42.65,0:23:45.78,Main,Gurumin,0,0,0,,It uses its strong legs \N to rapidly approach foes,
-Dialogue: 10,0:23:45.78,0:23:49.87,Main,Gurumin,0,0,0,,and can even fire \N its own tail like a missile!
-Dialogue: 10,0:23:49.87,0:23:50.87,Main,Gurumin,0,0,0,,Ready, and...
-Dialogue: 10,0:23:50.87,0:23:53.45,Main,Gurumin,0,0,0,,Hiyah!
-Dialogue: 10,0:23:53.45,0:23:56.00,Main,Gurumin,0,0,0,,By the way, its tail...
-Dialogue: 10,0:23:56.00,0:24:00.50,Main,Gurumin,0,0,0,,...keeps on regrowing \N until its Mega Evolution energy runs out!
+Dialogue: 10,0:23:37.98,0:23:40.82,Main,Mega Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
+Dialogue: 10,0:23:42.65,0:23:45.78,Main,Mega Gurumin,0,0,0,,It uses its strong legs \N to rapidly approach foes,
+Dialogue: 10,0:23:45.78,0:23:49.87,Main,Mega Gurumin,0,0,0,,and can even fire \N its own tail like a missile!
+Dialogue: 10,0:23:49.87,0:23:50.87,Main,Mega Gurumin,0,0,0,,Ready, and...
+Dialogue: 10,0:23:50.87,0:23:53.45,Main,Mega Gurumin,0,0,0,,Hiyah!
+Dialogue: 10,0:23:53.45,0:23:56.00,Main,Mega Gurumin,0,0,0,,By the way, its tail...
+Dialogue: 10,0:23:56.00,0:24:00.50,Main,Mega Gurumin,0,0,0,,...keeps on regrowing \N until its Mega Evolution energy runs out!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.25,0:24:04.17,Main,Anne,0,0,0,,‘Kay, it’s time to announce \N the “Stuff-I-Wanna-Do-With-Liko Ranking”!
 Dialogue: 10,0:24:04.17,0:24:05.80,Main,Liko,0,0,0,,What’s this all of a sudden?!

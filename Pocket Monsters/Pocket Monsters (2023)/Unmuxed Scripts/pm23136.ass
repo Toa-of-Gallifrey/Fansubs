@@ -161,7 +161,7 @@ Dialogue: 10,0:12:16.38,0:12:17.34,Main,Spinel,0,0,0,,Huh?
 Dialogue: 10,0:12:17.34,0:12:20.47,Main,Liko,0,0,0,,You must love your Blacky!
 Dialogue: 10,0:12:20.47,0:12:22.85,Main,Liko,0,0,0,,And even Blacky... Blacky must...
 Dialogue: 10,0:12:21.43,0:12:22.85,Main,Spinel,0,0,0,,{\an8}Shut up! Stop!
-Dialogue: 10,0:12:22.85,0:12:26.35,Main,Liko,0,0,0,,It loves you too, \N which is why it’s gone {\i1}this{\i0} far...!{Dread Blacky}
+Dialogue: 10,0:12:22.85,0:12:26.35,Main,Liko,0,0,0,,It loves you too, \N which is why it’s gone {\i1}this{\i0} far...!{Intentional Dread Blacky - Blacky is female (Eevee in the flashback has the female tail pattern), but there's no real way for Liko to know that}
 Dialogue: 10,0:12:30.98,0:12:33.36,Main,Spinel,0,0,0,,You’re wrong! This is...
 Dialogue: 10,0:12:34.11,0:12:35.86,Main,Spinel,0,0,0,,I’m nothing like any of you...!
 Dialogue: 10,0:13:17.48,0:13:19.28,Main,Spinel,0,0,0,,You truly are...
@@ -226,7 +226,7 @@ Dialogue: 10,0:20:29.75,0:20:33.42,Main,Bowtzel trainer,0,0,0,,Oh... Bowtzel! \N
 Dialogue: 10,0:20:34.50,0:20:36.13,Main,Bowtzel trainer,0,0,0,,I’m sorry.
 Dialogue: 10,0:20:36.13,0:20:39.01,Main,Bowtzel trainer,0,0,0,,I really do wanna \N stay together with you!
 Dialogue: 10,0:20:48.06,0:20:53.48,Main,Caster,0,0,0,,{\q2}The Pokémon on Mt. Kumuri were rescued by \N the team of adventurers known as the Rising Voltteccers.
-Dialogue: 10,0:20:53.48,0:20:56.49,Main,Caster,0,0,0,,Plus, someone you will all know.
+Dialogue: 10,0:20:53.48,0:20:56.49,Main,Caster,0,0,0,,Plus, someone you will all know...
 Dialogue: 10,0:20:56.49,0:20:59.99,Main,Mighty G,0,0,0,,Mighty G!
 Dialogue: 10,0:20:59.99,0:21:01.74,Main,Kids,0,0,0,,It’s Mighty G!
 Dialogue: 10,0:21:10.12,0:21:11.75,Main,Magyorou,0,0,0,,Magyomagyo!

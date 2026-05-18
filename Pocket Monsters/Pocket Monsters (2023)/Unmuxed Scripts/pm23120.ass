@@ -30,7 +30,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.44,0:00:04.48,Main,Dot,0,0,0,,I’m Dot of the Rising Voltteccers.
 Dialogue: 10,0:00:04.48,0:00:07.74,Main,Dot,0,0,0,,To obtain Exceed’s data on Rakurium,
 Dialogue: 10,0:00:07.74,0:00:11.07,Main,Dot,0,0,0,,I contacted their \N former director, Mr. Crave{Honorifics note: Crave-san},
-Dialogue: 10,0:00:11.07,0:00:16.66,Main,Dot,0,0,0,,{\q2}and learned of the existence of the museum \N that houses their data, known as the Exceed Museum.
+Dialogue: 10,0:00:11.07,0:00:16.66,Main,Dot,0,0,0,,{\q2}and learned of the existence of a museum \N that houses their data, known as the Exceed Museum.
 Dialogue: 10,0:00:20.79,0:00:22.25,Main,Dot,0,0,0,,Okay, I’ll be off.
 Dialogue: 10,0:00:22.25,0:00:26.21,Main,Liko,0,0,0,,Are you sure you’ll be okay? \N Wouldn’t it be better if we came with{ you}...?{lit: Can we really leave this to you? Having us come with you would be...}
 Dialogue: 10,0:00:26.59,0:00:28.63,Main,Dot,0,0,0,,Well, y’know, \N I don’t wanna stand out.
@@ -274,20 +274,21 @@ Dialogue: 10,0:21:35.48,0:21:38.28,Main,Dot,0,0,0,,Huh? Heading back? From where
 Dialogue: 10,0:21:38.28,0:21:40.70,Main,Friede,0,0,0,,Huh? Did I forget to mention?
 Dialogue: 10,0:21:42.66,0:21:43.99,Main,Friede,0,0,0,,From space!
 Comment: 0,0:21:45.58,0:21:45.58,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution A}
-Dialogue: 10,0:21:45.91,0:21:47.16,Main,Gurumin,0,0,0,,Yo-ssu!
-Dialogue: 10,0:21:47.16,0:21:50.83,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
-Dialogue: 10,0:21:52.46,0:21:56.92,Main,Gurumin,0,0,0,,Mega Evolving today is \N the Dragon Pokémon, Bohmander!
-Dialogue: 10,0:21:58.05,0:22:00.34,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
-Dialogue: 10,0:22:00.34,0:22:02.34,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
-Dialogue: 10,0:22:03.64,0:22:05.26,Main,Gurumin,0,0,0,,Its true form is...
-Dialogue: 10,0:22:05.26,0:22:07.56,Main,Gurumin,0,0,0,,...coming after these commercials!
+Dialogue: 10,0:21:45.91,0:21:47.16,Main,Mega Gurumin,0,0,0,,Yo-ssu!
+Dialogue: 10,0:21:47.16,0:21:50.83,Main,Mega Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
+Dialogue: 10,0:21:52.46,0:21:54.17,Main,Mega Gurumin,0,0,0,,Mega Evolving today is...
+Dialogue: 10,0:21:54.17,0:21:56.92,Main,Mega Gurumin,0,0,0,,The Dragon Pokémon, Bohmander!
+Dialogue: 10,0:21:58.05,0:22:00.34,Main,Mega Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
+Dialogue: 10,0:22:00.34,0:22:02.34,Main,Mega Gurumin,0,0,0,,Don’t you wanna know, everyone?
+Dialogue: 10,0:22:03.64,0:22:05.26,Main,Mega Gurumin,0,0,0,,Its true form is...
+Dialogue: 10,0:22:05.26,0:22:07.56,Main,Mega Gurumin,0,0,0,,...coming after these commercials!
 Comment: 0,0:22:07.56,0:22:07.56,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.56,0:23:37.56,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution B}
-Dialogue: 10,0:23:38.06,0:23:40.94,Main,Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
-Dialogue: 10,0:23:42.94,0:23:45.99,Main,Gurumin,0,0,0,,Its Mega Evolution energy \N has concentrated in its wings!
-Dialogue: 10,0:23:45.99,0:23:49.82,Main,Gurumin,0,0,0,,They’ve turned into a singular, enormous, \N crescent-moon-shaped wing!
-Dialogue: 10,0:23:49.82,0:23:53.58,Main,Gurumin,0,0,0,,It soars the skies at high speed! \N Using its wing, which is now an enormous blade...
-Dialogue: 10,0:23:57.46,0:24:00.59,Main,Gurumin,0,0,0,,...it cuts through anything \N that stands in its way!
+Dialogue: 10,0:23:38.06,0:23:40.94,Main,Mega Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
+Dialogue: 10,0:23:42.94,0:23:45.99,Main,Mega Gurumin,0,0,0,,Its Mega Evolution energy \N has concentrated in its wings!
+Dialogue: 10,0:23:45.99,0:23:49.82,Main,Mega Gurumin,0,0,0,,They’ve turned into a singular, enormous, \N crescent-moon-shaped wing!
+Dialogue: 10,0:23:49.82,0:23:53.58,Main,Mega Gurumin,0,0,0,,It soars the skies at high speed! \N Using its wing, which is now an enormous blade...
+Dialogue: 10,0:23:57.46,0:24:00.59,Main,Mega Gurumin,0,0,0,,...it cuts through anything \N that stands in its way!
 Comment: 0,0:24:00.59,0:24:00.59,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:00.96,0:24:02.67,Main,Liko,0,0,0,,Friede is coming back!
 Dialogue: 10,0:24:02.67,0:24:04.42,Main,Roy,0,0,0,,Coming back from space!

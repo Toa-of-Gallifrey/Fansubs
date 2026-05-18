@@ -331,22 +331,22 @@ Dialogue: 10,0:21:31.52,0:21:35.73,Main,Ult,0,0,0,,Well, you heard her plain as 
 Dialogue: 10,0:21:35.73,0:21:37.19,Main,Liko,0,0,0,,Dot...
 Dialogue: 10,0:21:42.36,0:21:44.16,Main,Nanjamo,0,0,0,,Hrm...
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution A}
-Dialogue: 10,0:21:45.99,0:21:47.20,Main,Gurumin,0,0,0,,Yo-ssu!
-Dialogue: 10,0:21:47.20,0:21:50.87,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
-Dialogue: 10,0:21:52.37,0:21:54.00,Main,Gurumin,0,0,0,,Mega Evolving today is...
-Dialogue: 10,0:21:54.00,0:21:57.05,Main,Gurumin,0,0,0,,The Single Horn Pokémon, Heracross!
-Dialogue: 10,0:21:58.13,0:22:00.34,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
-Dialogue: 10,0:22:00.34,0:22:02.38,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
-Dialogue: 10,0:22:03.30,0:22:05.18,Main,Gurumin,0,0,0,,Its true form is...
-Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
+Dialogue: 10,0:21:45.99,0:21:47.20,Main,Mega Gurumin,0,0,0,,Yo-ssu!
+Dialogue: 10,0:21:47.20,0:21:50.87,Main,Mega Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
+Dialogue: 10,0:21:52.37,0:21:54.00,Main,Mega Gurumin,0,0,0,,Mega Evolving today is...
+Dialogue: 10,0:21:54.00,0:21:57.05,Main,Mega Gurumin,0,0,0,,The Single Horn Pokémon, Heracross!
+Dialogue: 10,0:21:58.13,0:22:00.34,Main,Mega Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
+Dialogue: 10,0:22:00.34,0:22:02.38,Main,Mega Gurumin,0,0,0,,Don’t you wanna know, everyone?
+Dialogue: 10,0:22:03.30,0:22:05.18,Main,Mega Gurumin,0,0,0,,Its true form is...
+Dialogue: 10,0:22:05.18,0:22:07.47,Main,Mega Gurumin,0,0,0,,...coming after these commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution B}
-Dialogue: 10,0:23:37.98,0:23:40.82,Main,Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
-Dialogue: 10,0:23:43.11,0:23:44.90,Main,Gurumin,0,0,0,,It can grip things with its two horns,
-Dialogue: 10,0:23:44.90,0:23:49.87,Main,Gurumin,0,0,0,,and lift five hundred times \N its own body weight!
-Dialogue: 10,0:23:49.87,0:23:53.87,Main,Gurumin,0,0,0,,Its body temperature rises rapidly \N when it uses its maximum power,
-Dialogue: 10,0:23:53.87,0:23:56.71,Main,Gurumin,0,0,0,,so it opens its shell on its arms \N and torso to vent the heat—
-Dialogue: 10,0:23:56.71,0:23:57.87,Main,Gurumin,0,0,0,,That’s {\i1}hot!{\i0}
+Dialogue: 10,0:23:37.98,0:23:40.82,Main,Mega Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
+Dialogue: 10,0:23:43.11,0:23:44.90,Main,Mega Gurumin,0,0,0,,It can grip things with its two horns,
+Dialogue: 10,0:23:44.90,0:23:49.87,Main,Mega Gurumin,0,0,0,,and lift five hundred times \N its own body weight!
+Dialogue: 10,0:23:49.87,0:23:53.87,Main,Mega Gurumin,0,0,0,,Its body temperature rises rapidly \N when it uses its maximum power,
+Dialogue: 10,0:23:53.87,0:23:56.71,Main,Mega Gurumin,0,0,0,,so it opens its shell on its arms \N and torso to vent the heat—
+Dialogue: 10,0:23:56.71,0:23:57.87,Main,Mega Gurumin,0,0,0,,That’s {\i1}hot!{\i0}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.54,0:24:03.63,Main,Ult,0,0,0,,That was some awesome training.
 Dialogue: 10,0:24:03.63,0:24:05.42,Main,Ult,0,0,0,,I’m gonna get way stronger!

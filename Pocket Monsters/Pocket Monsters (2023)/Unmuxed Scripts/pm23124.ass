@@ -283,21 +283,22 @@ Dialogue: 10,0:20:38.18,0:20:40.34,Main,Liko,0,0,0,,We came to rescue you!
 Dialogue: 10,0:20:40.34,0:20:42.47,Main,Liko,0,0,0,,We’ll get you out of this somehow!
 Dialogue: 10,0:21:02.49,0:21:04.87,Main,Liko,0,0,0,,Everybody! \N Where are you?!
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution A}
-Dialogue: 10,0:21:45.99,0:21:47.24,Main,Gurumin,0,0,0,,Yo-ssu!
-Dialogue: 10,0:21:47.24,0:21:50.87,Main,Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
-Dialogue: 10,0:21:52.37,0:21:57.05,Main,Gurumin,0,0,0,,Mega Evolving today is \N the Brutal Pokémon, Samehada!
-Dialogue: 10,0:21:58.13,0:22:00.38,Main,Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
-Dialogue: 10,0:22:00.38,0:22:02.38,Main,Gurumin,0,0,0,,Don’t you wanna know, everyone?
-Dialogue: 10,0:22:03.55,0:22:05.18,Main,Gurumin,0,0,0,,Its true form is...
-Dialogue: 10,0:22:05.18,0:22:07.47,Main,Gurumin,0,0,0,,...coming after these commercials!
+Dialogue: 10,0:21:45.99,0:21:47.24,Main,Mega Gurumin,0,0,0,,Yo-ssu!
+Dialogue: 10,0:21:47.24,0:21:50.87,Main,Mega Gurumin,0,0,0,,It’s time for Mega Gurumin’s \N Mega Mega! Mega Evolution!
+Dialogue: 10,0:21:52.37,0:21:54.00,Main,Mega Gurumin,0,0,0,,Mega Evolving today is...
+Dialogue: 10,0:21:54.00,0:21:57.05,Main,Mega Gurumin,0,0,0,,The Brutal Pokémon, Samehada!
+Dialogue: 10,0:21:58.13,0:22:00.38,Main,Mega Gurumin,0,0,0,,What’s it gonna look like when it Mega Evolves?!
+Dialogue: 10,0:22:00.38,0:22:02.38,Main,Mega Gurumin,0,0,0,,Don’t you wanna know, everyone?
+Dialogue: 10,0:22:03.55,0:22:05.18,Main,Mega Gurumin,0,0,0,,Its true form is...
+Dialogue: 10,0:22:05.18,0:22:07.47,Main,Mega Gurumin,0,0,0,,...coming after these commercials!
 Comment: 0,0:22:07.47,0:22:07.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Mega Gurumin's Mega Mega! Mega Evolution B}
-Dialogue: 10,0:23:37.98,0:23:40.82,Main,Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
-Dialogue: 10,0:23:42.98,0:23:45.99,Main,Gurumin,0,0,0,,The spikes sprouting from its head \N are transformed fangs!
-Dialogue: 10,0:23:45.99,0:23:49.49,Main,Gurumin,0,0,0,,Even if they’re injured or broken off, \N they’ll grow back again and again!{Sun Pokedex entry | ENgame: The spines sprouting from its head are transformed fangs. If they're injured or broken off, the spines will regenerate countless times.}{also ORAS website: ENsite: The fangs in Mega Sharpedo's mouth have transformed, and the horns that have sprouted from its nose can be regrown countless times.}
-Dialogue: 10,0:23:49.49,0:23:53.75,Main,Gurumin,0,0,0,,The yellow pattern on its body \N shows all the scars it’s received in battle!{paraphrasing Moon/Ultra Sun Pokedex entry}
-Dialogue: 10,0:23:53.75,0:23:57.75,Main,Gurumin,0,0,0,,It’sh got exploshive propulsion power \N that letsh it momentarily exceed 200 km/h—{It's got explosive propulsion power that lets it momentarily [exceed] 200 km/h}{ORAS website}{Struggling to talk, I guess through G-forces / costume getting in her mouth from the speed?}
-Dialogue: 10,0:23:57.75,0:24:00.50,Main,Gurumin,0,0,0,,Waah!
+Dialogue: 10,0:23:37.98,0:23:40.82,Main,Mega Gurumin,0,0,0,,Time for the Mega Evolution \N you’ve been waiting for!
+Dialogue: 10,0:23:42.98,0:23:45.99,Main,Mega Gurumin,0,0,0,,The spikes sprouting from its head \N are transformed fangs!
+Dialogue: 10,0:23:45.99,0:23:49.49,Main,Mega Gurumin,0,0,0,,Even if they’re injured or broken off, \N they’ll grow back again and again!{Sun Pokedex entry | ENgame: The spines sprouting from its head are transformed fangs. If they're injured or broken off, the spines will regenerate countless times.}{also ORAS website: ENsite: The fangs in Mega Sharpedo's mouth have transformed, and the horns that have sprouted from its nose can be regrown countless times.}
+Dialogue: 10,0:23:49.49,0:23:53.75,Main,Mega Gurumin,0,0,0,,The yellow pattern on its body \N shows all the scars it’s received in battle!{paraphrasing Moon/Ultra Sun Pokedex entry}
+Dialogue: 10,0:23:53.75,0:23:57.75,Main,Mega Gurumin,0,0,0,,It’sh got exploshive propulsion power \N that letsh it momentarily exceed 200 km/h—{It's got explosive propulsion power that lets it momentarily [exceed] 200 km/h}{ORAS website}{Struggling to talk, I guess through G-forces / costume getting in her mouth from the speed?}
+Dialogue: 10,0:23:57.75,0:24:00.50,Main,Mega Gurumin,0,0,0,,Waah!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:00.92,0:24:02.84,Main,Roy,0,0,0,,What do we do? \N We’ve all been separated...
 Dialogue: 10,0:24:02.84,0:24:04.97,Main,Ult,0,0,0,,All of those guys were waitin’ for us!
