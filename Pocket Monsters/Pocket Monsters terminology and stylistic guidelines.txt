@@ -63,7 +63,7 @@ bodi paaji ボディパージ (Autotomize) - Body Purge
 bodi puresu ボディプレス (Body Press) - Body Press
 boon rasshu ボーンラッシュ (Bone Rush) - Bone Rush
 borutekkaa ボルテッカー (Volt Tackle) - Voltteccer
-boruto chenji ボルトチェンジ (Volt Switch) - # TBD #
+boruto chenji ボルトチェンジ (Volt Switch) - Volt Change
 boufuu ぼうふう (Hurricane) - Hurricane
 bougyo shirei ぼうぎょしれい (Defend Order) - Defend Order
 buchikamashi ぶちかまし (Headlong Rush) - # TBD #
@@ -201,7 +201,7 @@ garyou tensei ガリョウテンセイ (Dragon Ascent) - Draconic Masterstroke
 gekirin げきりん (Outrage) - Reversed Scale
 genshi no chikara げんしのちから (Ancient Power) - Primal Power
 geppu ゲップ (Belch) - Belch
-gia chenji ギアチェンジ (Shift Gear) - # TBD #
+gia chenji ギアチェンジ (Shift Gear) - Gear Change
 gia soosaa ギアソーサー (Gear Grind) - # TBD #
 gifuto pasu ギフトパス (Bestow) - # TBD #
 giga dorein ギガドレイン (Giga Drain) - Giga Drain
@@ -312,7 +312,7 @@ iya na oto いやなおと (Screech) - # TBD #
 iyashi no hadou いやしのはどう (Heal Pulse) - Healing Pulse
 iyashi no negai いやしのねがい (Healing Wish) - Healing Wish
 iyashi no suzu いやしのすず (Heal Bell) - Healing Bell
-jadoku no kusari じゃどくのくさり (Malignant Chain) - # TBD #
+jadoku no kusari じゃどくのくさり (Malignant Chain) - Noxious Chain
 jairo booru ジャイロボール (Gyro Ball) - Gyro Ball
 janguru hiiru ジャングルヒール (Jungle Healing) - # TBD #
 jaretsuku じゃれつく (Play Rough) - Play Rough
@@ -525,7 +525,7 @@ nebaneba netto ねばねばネット (Sticky Web) - Sticky Net
 negaigoto ねがいごと (Wish) - Wish
 negoto ねごと (Sleep Talk) - Sleep Talk
 neko ni koban ネコにこばん (Pay Day) - # TBD #
-neko no te ねこのて (Assist) - # TBD #
+neko no te ねこのて (Assist) - Cat's Assistance
 nekodamashi ねこだまし (Fake Out) - # TBD #
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nemuru ねむる (Rest) - Sleep
@@ -1360,7 +1360,7 @@ POKÉMON NAMES
 0106 サワムラー Sawamurar - キックポケモン 
 0107 エビワラー Ebiwarar - パンチポケモン 
 0108 ベロリンガ Berolinga - なめまわしポケモン Licking Pokémon
-0109 ドガース Dogas - どくガスポケモン Poison Gas Pokémon
+0109 ドガース Dogars - どくガスポケモン Poison Gas Pokémon
 0110 マタドガス Matadogas - どくガスポケモン Poison Gas Pokémon
 0111 サイホーン Saihorn - とげとげポケモン
 0112 サイドン Saidon - ドリルポケモン Drill Pokémon
