@@ -926,20 +926,20 @@ Dialogue: 1,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\p
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&HBDEFEE&\clip(1146.4,84.8,1911.2,124.8)}Professor Friede's Pokémon Seminar
 Dialogue: 2,0:23:37.48,0:24:00.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord0\blur0.6\4a&HFF&\c&H44FBF9&\clip(1150.4,124.8,1911.2,169.8)}Professor Friede's Pokémon Seminar
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Charem\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Meditation Pokémon\NType: {\c&H009FF4&}Fighting{\c&H1F1F1F&}/{\c&H8569EB&}Psychic
-Dialogue: 0,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Charem\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Meditation Pokémon\NType: Fighting/Psychic
+Dialogue: 1,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\fad(400,0)\an7\fscx70\fscy70\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&H1F1F1F&\alpha&H00&}Charem\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Meditation Pokémon\NType: {\c&H009FF4&}Fighting{\c&H1F1F1F&}/{\c&H8569EB&}Esper
+Dialogue: 0,0:21:54.79,0:22:07.47,Main,,0,0,0,,{\fad(400,0)\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Charem\N{\fscx50\fscy50\alpha&HFF&\t(200,800,\alpha&H00&)}Meditation Pokémon\NType: Fighting/Esper
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N1.3m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N31.5kg
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What does it do to train its psychic powers?
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What does it do to train its psychic powers?
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What does it do to train its psycho-power?
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What does it do to train its psycho-power?
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Work out
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Work out
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Yoga
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Yoga
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Battle
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Battle
-Dialogue: 0,0:23:41.48,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it do to train \N its psychic powers?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: Yoga
-Dialogue: 1,0:23:41.48,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it do to train \N its psychic powers?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: Yoga
+Dialogue: 0,0:23:41.48,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it do to train \N its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: Yoga
+Dialogue: 1,0:23:41.48,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What does it do to train \N its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: Yoga
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:08.50,0:03:16.51,Episode titles,,0,0,0,,{=1033}{\fad(480,0)\bord5\shad3\blur6\pos(960,700)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Plan to Capture Rekkuuza
 Dialogue: 1,0:03:08.50,0:03:16.51,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,700)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Plan to Capture Rekkuuza
