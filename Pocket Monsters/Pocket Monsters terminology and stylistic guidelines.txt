@@ -238,7 +238,7 @@ hametsu no hikari はめつのひかり (Light of Ruin) - # TBD #
 hametsu no negai はめつのねがい (Doom Desire) - # TBD #
 hana fubuki はなふぶき (Petal Blizzard) - Petal Blizzard
 hanabira no mai はなびらのまい (Petal Dance) - # TBD #
-hane yasume はねやすめ (Roost) - Roost
+hane yasume はねやすめ (Roost) - Wing Rest
 haneru はねる (Splash) - Flop
 happa kattaa はっぱカッター (Razor Leaf) - Leaf Cutter
 happii taimu ハッピータイム (Happy Hour) - # TBD #
@@ -984,7 +984,7 @@ doku no kusari どくのくさり (Toxic Chain) - # TBD #
 doku no toge どくのトゲ (Poison Point) - # TBD #
 dokugeshou どくげしょう (Toxic Debris) - Poison Coating
 dokushu どくしゅ (Poison Touch) - # TBD #
-donkan どんかん (Oblivious) - # TBD #
+donkan どんかん (Oblivious) - Thickheaded
 doshoku どしょく (Earth Eater) - # TBD #
 ea rokku エアロック (Air Lock) - Air Lock
 enkaku えんかく (Long Reach) - # TBD #
@@ -1054,7 +1054,7 @@ ishi atama いしあたま (Rock Head) - Rock Head
 itazura gokoro いたずらごころ (Prankster) - # TBD #
 iwahakobi いわはこび (Rocky Payload) - # TBD #
 iyashi no kokoro いやしのこころ (Healer) - Healing Heart
-jikyuuryoku じきゅうりょく (Stamina) - Stamina
+jikyuuryoku じきゅうりょく (Stamina) - Endurance
 jinba ittai じんばいったい (As One) - # TBD #
 jiryoku じりょく (Magnet Pull) - # TBD #
 jishin kajou じしんかじょう (Moxie) - # TBD #
@@ -1071,7 +1071,7 @@ kairiki basami かいりきバサミ (Hyper Cutter) - Superstrong Pincers
 kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
 kansou hada かんそうはだ (Dry Skin) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
-karuwaza かるわざ (Unburden) - # TBD #
+karuwaza かるわざ (Unburden) - Acrobatic
 kasoku かそく (Speed Boost) - Speed Boost
 katai tsume かたいツメ (Tough Claws) - Tough Claws
 katayaburi かたやぶり (Mold Breaker) - Mold Breaker
@@ -1336,7 +1336,7 @@ POKÉMON NAMES
 0082 レアコイル Rarecoil - じしゃくポケモン Magnet Pokémon
 0083 カモネギ Kamonegi - かるがもポケモン Spot-Billed Duck Pokémon
 0084 ドードー Dodo - ふたごどりポケモン 
-0085 ドードリオ Dodorio - みつごどりポケモン 
+0085 ドードリオ Dodrio - みつごどりポケモン 
 0086 パウワウ Pawou - あしかポケモン Sea Lion Pokémon
 0087 ジュゴン Dugong - あしかポケモン Sea Lion Pokémon
 0088 ベトベター Betobeta - ヘドロポケモン 
@@ -1667,7 +1667,7 @@ POKÉMON NAMES
 0413 ミノマダム 
 0414 ガーメイル Gamale - ミノガポケモン 
 0415 ミツハニー Mitsuhoney - はちのこポケモン 
-0416 ビークイン 
+0416 ビークイン Beequeen - はちのすポケモン 
 0417 パチリス Pachirisu - でんきリスポケモン 
 0418 ブイゼル Buoysel - うみイタチポケモン 
 0419 フローゼル Floazel - うみイタチポケモン 
