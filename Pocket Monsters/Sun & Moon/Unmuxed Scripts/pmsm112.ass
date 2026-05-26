@@ -36,7 +36,7 @@ Dialogue: 10,0:00:04.90,0:00:07.61,Main,Burnet,0,0,0,,I will be presenting today
 Dialogue: 10,0:00:07.61,0:00:10.66,Main,Burnet,0,0,0,,What type is the newly discovered \N Pokémon species seen today?
 Dialogue: 10,0:00:10.66,0:00:11.37,Main,Burnet,0,0,0,,Blue: Flying?
 Dialogue: 10,0:00:11.37,0:00:12.08,Main,Burnet,0,0,0,,Red: Ground?
-Dialogue: 10,0:00:12.08,0:00:12.91,Main,Burnet,0,0,0,,Green: Psychic?
+Dialogue: 10,0:00:12.08,0:00:12.91,Main,Burnet,0,0,0,,Green: Esper?
 Dialogue: 10,0:00:12.91,0:00:13.83,Main,Burnet,0,0,0,,Or Yellow: Steel?
 Dialogue: 10,0:00:13.83,0:00:15.50,Main,Burnet,0,0,0,,Get the answer at the end!
 Comment: 10,0:00:15.50,0:00:15.50,Main,,0,0,0,,{Part A}
@@ -245,7 +245,7 @@ Dialogue: 10,0:24:24.36,0:24:26.57,Main,Satoshi,0,0,0,,What even {\i1}is{\i0} th
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=2}TYPESETTING
 Dialogue: 0,0:00:07.61,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(535.5,120)}Flying
 Dialogue: 0,0:00:07.61,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(1209,120)}Ground
-Dialogue: 0,0:00:07.61,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(535.5,532.5)}Psychic
+Dialogue: 0,0:00:07.61,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(535.5,532.5)}Esper
 Dialogue: 1,0:00:07.61,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(1209,532.5)}Steel
 Comment: 10,0:03:38.49,0:03:38.49,Main,,0,0,0,,
 Dialogue: 0,0:03:38.49,0:03:43.49,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,330)}New Species Discovered!

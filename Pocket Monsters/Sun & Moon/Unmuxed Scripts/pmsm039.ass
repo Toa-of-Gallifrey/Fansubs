@@ -56,7 +56,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:53.52,0:02:58.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,310)}The Runaway Mao
 Dialogue: 0,0:02:53.52,0:02:58.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,490)}and Yareyutan!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:09:32.51,0:09:35.47,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\pos(132,468)\blur3}Name: Yareyutan\NType:   Normal/Psychic
+Dialogue: 0,0:09:32.51,0:09:35.47,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\pos(132,468)\blur3}Name: Yareyutan\NType:   Normal/Esper
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:03.13,0:22:07.05,OPED,,0,0,0,,{\fad(400,0)}Yo! Champ in the making! Now, let’s keep up the enthusiasm today!
 Dialogue: 0,0:22:07.05,0:22:10.76,OPED,,0,0,0,,Get them, get them! (Get them, get them!) Now, let’s keep making friends!
@@ -65,12 +65,12 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.94,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.86,0:22:29.49,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.49,0:22:33.49,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.49,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.25,0:22:41.00,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.00,0:22:44.75,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.00,0:22:44.75,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.75,0:22:48.68,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.68,0:22:55.85,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.85,0:23:03.27,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets
@@ -292,7 +292,7 @@ Dialogue: 10,0:15:33.26,0:15:34.24,Main,Musashi,0,0,0,,What? What?!
 Dialogue: 10,0:15:35.45,0:15:37.03,Main,Kojiro,0,0,0,,What a creepy thing.
 Dialogue: 10,0:15:37.03,0:15:38.48,Main,Mao,0,0,0,,Yareyutan!
 Dialogue: 10,0:15:39.79,0:15:42.01,Main,Kojiro,0,0,0,,Yareyutan? Oh, here it is.
-Dialogue: 10,0:15:42.01,0:15:45.05,Main,Kojiro,0,0,0,,Sage Pokémon. \N Normal/Psychic type.
+Dialogue: 10,0:15:42.01,0:15:45.05,Main,Kojiro,0,0,0,,Sage Pokémon. \N Normal/Esper type.
 Dialogue: 10,0:15:45.05,0:15:49.38,Main,Kojiro,0,0,0,,Known for its extreme intelligence, \N this Pokémon will look down on inexperienced trainers...?{Sun Pokédex entry.}
 Dialogue: 10,0:15:51.26,0:15:53.89,Main,Nyarth,0,0,0,,W-We’re being looked down on, meow.
 Dialogue: 10,0:15:54.28,0:15:57.00,Main,Mao,0,0,0,,Yareyutan, you’ll fight for me?
@@ -385,7 +385,7 @@ Comment: 10,0:23:20.46,0:23:20.46,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.04,0:23:24.76,Main,Joy,0,0,0,,Thank you for waiting!
 Dialogue: 10,0:23:24.76,0:23:27.03,Main,Joy,0,0,0,,The answer to the PokéProblem...
 Dialogue: 10,0:23:27.03,0:23:28.55,Main,Joy,0,0,0,,...was Yareyutan!
-Dialogue: 10,0:23:29.36,0:23:33.08,Main,Joy,0,0,0,,The Sage Pokémon Yareyutan \N is a Normal/Psychic type.
+Dialogue: 10,0:23:29.36,0:23:33.08,Main,Joy,0,0,0,,The Sage Pokémon Yareyutan \N is a Normal/Esper type.
 Dialogue: 10,0:23:33.08,0:23:37.85,Main,Joy,0,0,0,,It’s a very intelligent Pokémon \N who can even use human tools adeptly.
 Dialogue: 10,0:23:37.85,0:23:43.73,Main,Joy,0,0,0,,The fan-like object it holds in its hand \N is made by weaving leaves together using its own fur.
 Dialogue: 10,0:23:43.73,0:23:45.48,Main,Joy,0,0,0,,Thanks for the drink!

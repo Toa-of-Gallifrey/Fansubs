@@ -70,7 +70,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
 Dialogue: 0,0:02:56.53,0:03:01.52,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,299)}Won't You Give Us a
 Dialogue: 0,0:02:56.53,0:03:01.52,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,490)}Dance Dance Evolution?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:10:26.56,0:10:29.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Odoridori\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}         (Hula-Hula Style)\N{\fs40}Type:   Psychic/Flying
+Dialogue: 0,0:10:26.56,0:10:29.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Odoridori\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}         (Hula-Hula Style)\N{\fs40}Type:   Esper/Flying
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:19:14.46,0:19:17.88,Insert,Mirai Connection,0,0,0,,Oh oh! Let’s go!!
 Dialogue: 0,0:19:28.06,0:19:34.40,Insert,Mirai Connection,0,0,0,,A light peeking in was the signal to set off
@@ -201,7 +201,7 @@ Dialogue: 10,0:05:11.13,0:05:13.87,Main,Nyarth,0,0,0,,Makes me wanna dance too \
 Dialogue: 10,0:05:14.49,0:05:15.46,Main,Musashi,0,0,0,,I want it.
 Dialogue: 10,0:05:16.77,0:05:19.88,Main,Musashi,0,0,0,,I want that Pokémon!
 Dialogue: 10,0:05:19.88,0:05:21.01,Main,Musashi,0,0,0,,Point!
-Dialogue: 10,0:05:22.88,0:05:28.83,Main,Kojiro,0,0,0,,“Odoridori, Hula-Hula Style. \N Dancing Pokémon. Psychic/Flying type.
+Dialogue: 10,0:05:22.88,0:05:28.83,Main,Kojiro,0,0,0,,“Odoridori, Hula-Hula Style. \N Dancing Pokémon. Esper/Flying type.
 Dialogue: 10,0:05:28.83,0:05:31.43,Main,Kojiro,0,0,0,,“One of the Odoridori types \N found in Alola.
 Dialogue: 10,0:05:31.43,0:05:36.64,Main,Kojiro,0,0,0,,“It increases its psycho-power \N through dancing at its own pace,” apparently.
 Dialogue: 10,0:05:36.64,0:05:38.74,Main,Musashi,0,0,0,,I want it!

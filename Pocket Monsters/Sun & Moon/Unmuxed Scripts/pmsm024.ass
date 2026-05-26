@@ -79,19 +79,19 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.24,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.24,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.91,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.91,0:22:29.54,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.54,0:22:33.54,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.54,0:22:37.30,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.30,0:22:41.05,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.05,0:22:44.80,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.05,0:22:44.80,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.80,0:22:48.72,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.72,0:22:55.90,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.90,0:23:03.32,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets
 Dialogue: 0,0:23:03.32,0:23:10.87,OPED,,0,0,0,,Let’s walk while holding hands, and stay together even through painful times
 Dialogue: 0,0:23:10.87,0:23:20.51,OPED,,0,0,0,,So that we can meet here again once we’ve grown up
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:11:46.56,0:11:49.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,478)}Name: Barrierd\N{\fs40}Type:   Psychic/Fairy
+Dialogue: 0,0:11:46.56,0:11:49.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,478)}Name: Barrierd\N{\fs40}Type:   Esper/Fairy
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,GREEN NEP TITLE
 Dialogue: 0,0:24:00.46,0:24:25.40,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
@@ -496,7 +496,7 @@ Comment: 10,0:21:59.46,0:21:59.46,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.26,0:23:24.93,Main,Alolan Oak,0,0,0,,Thank you for your patienCelebi!
 Dialogue: 10,0:23:24.93,0:23:29.33,Main,Alolan Oak,0,0,0,,The answer was Satoshi’s mother! \N Did you get it righTattsu?{Strictly speaking this pun works even without the last word, but “iTattsu” kinda looks like just a typo to me. -Starfish}{looks like the Apple version of Horsea to me. —Puto}
-Dialogue: 10,0:23:29.33,0:23:35.20,Main,Alolan Oak,0,0,0,,Barrierd, the Barrier Pokémon which \N Satoshi’s mother brought with her, is a Psychic/Fairy type.
+Dialogue: 10,0:23:29.33,0:23:35.20,Main,Alolan Oak,0,0,0,,Barrierd, the Barrier Pokémon which \N Satoshi’s mother brought with her, is an Esper/Fairy type.
 Dialogue: 10,0:23:35.20,0:23:40.06,Main,Alolan Oak,0,0,0,,It’s a master of pantomime. \N It can solidify the air into invisible walls.{Slightly edited combination of multiple game dex entries. -Starfish}
 Dialogue: 10,0:23:42.57,0:23:44.53,Main,Moani,0,0,0,,Oh, are you going home?
 Dialogue: 10,0:23:44.53,0:23:47.95,Main,Hanako,0,0,0,,Yes. I got to see that \N Satoshi was doing well.

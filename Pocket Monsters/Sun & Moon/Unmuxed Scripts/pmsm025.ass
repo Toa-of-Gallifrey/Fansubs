@@ -86,12 +86,12 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.94,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:23.94,0:22:25.86,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.86,0:22:29.49,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.49,0:22:33.49,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.49,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.25,0:22:41.00,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.00,0:22:44.76,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.00,0:22:44.76,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.76,0:22:48.68,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.68,0:22:55.85,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.85,0:23:03.27,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets
@@ -167,7 +167,7 @@ Dialogue: 10,0:04:42.34,0:04:45.11,Main,Kukui,0,0,0,,But seeing them all lined u
 Dialogue: 10,0:04:45.11,0:04:47.18,Main,Kukui,0,0,0,,Can anyone tell which \N Crystal is which?
 Dialogue: 10,0:04:51.85,0:04:55.67,Main,Rotom,0,0,0,,Normal, Fighting, Poison, Ground, \N Flying, Bug, Rock, Ghost,{Pondering whether or not we should just leave all these lines that are clearly quoting the ending song without any punctuation at the end. -Starfish}{even if it's quoting the song, it's not a song so having music formatting is awkward —Puto}{Yeah, definitely keep punctuation. - Toa}
 Dialogue: 10,0:04:55.67,0:04:57.59,Main,Rotom,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice,
-Dialogue: 10,0:04:57.59,0:04:59.73,Main,Rotom,0,0,0,,Psychic, Dragon, Evil, Fairy.
+Dialogue: 10,0:04:57.59,0:04:59.73,Main,Rotom,0,0,0,,Esper, Dragon, Evil, Fairy.
 Dialogue: 10,0:04:59.73,0:05:01.31,Main,Rotom,0,0,0,,There you have it-roto!
 Dialogue: 10,0:05:01.31,0:05:03.11,Main,Kukui,0,0,0,,Absolutely correct!
 Dialogue: 10,0:05:03.11,0:05:05.31,Main,Satoshi,0,0,0,,Knew {\i1}you’d{\i0} get it, Rotom!{SASUGA. -Starfish}

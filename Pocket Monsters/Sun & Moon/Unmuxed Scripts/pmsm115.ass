@@ -434,7 +434,7 @@ Dialogue: 1,0:00:06.11,0:00:15.50,On-screen stuff,,0,0,0,,{\blur3\pos(1332,855)}
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:04:04.52,0:04:09.52,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(960,435)}Guzma, Emperor of Destruction!
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:13:16.53,0:13:19.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs60\blur4.5\pos(202,717)}Name: Sohnansu\N{\fs60}Type:   Psychic
+Dialogue: 0,0:13:16.53,0:13:19.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs60\blur4.5\pos(202,717)}Name: Sohnansu\N{\fs60}Type:   Esper
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:26.74,Main,,0,0,0,,{\fs52.5\pos(1680,225)}Next episode
 Dialogue: 0,0:24:26.74,0:24:30.45,Episode titles,,0,0,0,,{\c&00a800&\pos(960,150)}Next time

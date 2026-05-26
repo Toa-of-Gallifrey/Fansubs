@@ -116,8 +116,8 @@ Dialogue: 10,0:06:13.84,0:06:17.77,Main,Alolan Oak,0,0,0,,This humid region wher
 Dialogue: 10,0:06:17.77,0:06:22.22,Main,Alolan Oak,0,0,0,,...was the ideal environment \N for Tamatama and Nasshi.
 Dialogue: 10,0:06:22.22,0:06:28.95,Main,Alolan Oak,0,0,0,,Because of this, it’s been suggested that \N Alolan Nasshi might just be Nasshi’s native state.
 Dialogue: 10,0:06:30.15,0:06:37.07,Main,Alolan Oak,0,0,0,,These Pokémon forms which have been altered \N by their surroundings are known as Regional Forms.
-Dialogue: 10,0:06:37.07,0:06:40.76,Main,Alolan Oak,0,0,0,,Incidentally, this Nasshi’s typing \N is Grass/Psychic...
-Dialogue: 10,0:06:41.12,0:06:42.00,Main,Lilie,0,0,0,,Psychic?
+Dialogue: 10,0:06:37.07,0:06:40.76,Main,Alolan Oak,0,0,0,,Incidentally, this Nasshi’s typing \N is Grass/Esper...
+Dialogue: 10,0:06:41.12,0:06:42.00,Main,Lilie,0,0,0,,Esper?
 Dialogue: 10,0:06:42.00,0:06:46.21,Main,Alolan Oak,0,0,0,,But does anyone know what type \N Alolan Nasshi is, if I may asKairiky?
 Dialogue: 10,0:06:46.62,0:06:48.67,Main,Lilie,0,0,0,,I do! It’s Grass/Dragon!
 Dialogue: 10,0:06:48.67,0:06:50.64,Main,Satoshi,0,0,0,,Grass/Dragon?
@@ -435,7 +435,7 @@ Dialogue: 0,0:22:52.35,0:22:54.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:54.56,0:22:58.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:58.23,0:23:02.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:23:02.11,0:23:03.98,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:23:03.98,0:23:05.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:23:03.98,0:23:05.90,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:23:05.90,0:23:09.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:23:09.53,0:23:13.28,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:23:13.28,0:23:17.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up

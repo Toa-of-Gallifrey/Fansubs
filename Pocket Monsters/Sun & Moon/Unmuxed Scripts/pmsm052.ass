@@ -121,8 +121,8 @@ Dialogue: 10,0:09:34.43,0:09:36.85,Main,Mamane,0,0,0,,Not “maybe,” it’s {\
 Dialogue: 10,0:09:37.89,0:09:41.69,Main,Rotom,0,0,0,,I 100% agree with \N Mao and Māmane’s evaluation-roto!
 Dialogue: 10,0:09:42.19,0:09:43.36,Main,Nyarth,0,0,0,,What?!
 Dialogue: 10,0:09:43.36,0:09:47.49,Main,Nyarth,0,0,0,,Big news, meow! It seems that tiny one \N is Petitdogas, meow!
-Dialogue: 10,0:09:47.49,0:09:52.24,Main,Musashi,0,0,0,,Huh?! Hey, didn’t you say that when Petitdogas evolved, \N it would become a Dogas?
-Dialogue: 10,0:09:52.24,0:10:00.00,Main,Kojiro,0,0,0,,That must mean... that in Alola, it has another stage \N before evolving into Dogas, I guess?
+Dialogue: 10,0:09:47.49,0:09:52.24,Main,Musashi,0,0,0,,Huh?! Hey, didn’t you say that when Petitdogas evolved, \N it would become a Dogars?
+Dialogue: 10,0:09:52.24,0:10:00.00,Main,Kojiro,0,0,0,,That must mean... that in Alola, it has another stage \N before evolving into Dogars, I guess?
 Dialogue: 10,0:10:01.00,0:10:03.21,Main,Kojiro,0,0,0,,That’s a Semidogas!
 Dialogue: 10,0:10:03.21,0:10:04.38,Main,Musashi,0,0,0,,Semidogas?
 Dialogue: 10,0:10:04.38,0:10:07.88,Main,Nyarth,0,0,0,,Let’s get that Petitdogas, \N or as it’s now known, Semidogas, meow! {Moved “as it’s now known” further up. - Toa}
@@ -166,10 +166,10 @@ Dialogue: 10,0:14:26.68,0:14:28.81,Main,Rotom,0,0,0,,Updated-roto!
 Dialogue: 10,0:14:29.69,0:14:31.73,Main,Musashi,0,0,0,,It evolved into some really cool thing.
 Dialogue: 10,0:14:32.56,0:14:35.32,Main,Kojiro,0,0,0,,I-I’m pretty sure that’s...
 Dialogue: 10,0:14:37.07,0:14:40.61,Main,Kojiro,0,0,0,,Solgaleo, a Legendary Pokémon \N who’s famous in Alola...
-Dialogue: 10,0:14:40.61,0:14:44.49,Main,Nyarth,0,0,0,,What? Then what happened to \N Dogas’s Alolan form?
+Dialogue: 10,0:14:40.61,0:14:44.49,Main,Nyarth,0,0,0,,What? Then what happened to \N Dogars’s Alolan form?
 Dialogue: 10,0:14:44.49,0:14:47.16,Main,Musashi,0,0,0,,Yeah, yeah! Where’d it go?
 Dialogue: 10,0:14:47.16,0:14:48.83,Main,Kojiro,0,0,0,,W-Well...
-Dialogue: 10,0:14:48.83,0:14:53.04,Main,Musashi,0,0,0,,Where is the Dogas \N we were supposed to get?{WHY are you upset at this? You were literally aiming to get a junk common ‘mon and ended up finding that it was a FREAKING LEGENDARY. How is this not the greatest moment of your lives? (Well I mean, aside from the fact that there’s a roughly -5% chance of you getting it, that is.) -Starfish}{Would “nab” be an acceptable substitute for “get”? - Toa}
+Dialogue: 10,0:14:48.83,0:14:53.04,Main,Musashi,0,0,0,,Where is the Dogars \N we were supposed to get?{WHY are you upset at this? You were literally aiming to get a junk common ‘mon and ended up finding that it was a FREAKING LEGENDARY. How is this not the greatest moment of your lives? (Well I mean, aside from the fact that there’s a roughly -5% chance of you getting it, that is.) -Starfish}
 Dialogue: 10,0:14:53.04,0:14:54.50,Main,Kojiro,0,0,0,,W-Well...
 Dialogue: 10,0:14:54.50,0:14:56.34,Main,Nyarth,0,0,0,,Was it all a mistake, meow?
 Dialogue: 10,0:14:56.34,0:15:00.34,Main,Nyarth,0,0,0,,Were you completely wrong \N about Petitdogas and Semidogas, meow?
@@ -261,12 +261,12 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{=4}TYPESETTING
 Dialogue: 0,0:00:05.48,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(300,225)}Matadogas
 Dialogue: 0,0:00:05.48,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(740,225)}Solgaleo
 Dialogue: 0,0:00:05.48,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(295,498)}Lunala
-Dialogue: 0,0:00:05.48,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(730,498)}Dogas
+Dialogue: 0,0:00:05.48,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(730,498)}Dogars
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:28.50,0:02:33.50,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,220)}The Altar of the Sunne!
 Dialogue: 0,0:02:28.50,0:02:33.50,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,560)}Solgaleo Descends!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:10:25.56,0:10:28.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Cosmovum \N {\fs40}Type:   Psychic
+Dialogue: 0,0:10:25.56,0:10:28.52,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Cosmovum \N {\fs40}Type:   Esper
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.50,0:24:27.07,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:27.07,0:24:30.44,Episode titles,,0,0,0,,{\c&H07C40A&\pos(640,100)}Next time
@@ -319,12 +319,12 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.33,0:22:41.08,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.08,0:22:44.84,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.08,0:22:44.84,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.84,0:22:48.76,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.76,0:22:55.93,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.93,0:23:03.36,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets

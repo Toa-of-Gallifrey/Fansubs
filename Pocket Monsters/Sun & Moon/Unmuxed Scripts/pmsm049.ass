@@ -331,7 +331,7 @@ Comment: 10,0:21:59.42,0:21:59.42,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.46,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.17,0:23:24.59,Main,Kojiro,0,0,0,,Thanks for waiting!
 Dialogue: 10,0:23:24.59,0:23:28.55,Main,Kojiro,0,0,0,,That old geezer Sauboh’s Pokémon \N was Sleeper!
-Dialogue: 10,0:23:29.22,0:23:32.10,Main,Kojiro,0,0,0,,The Hypnosis Pokémon Sleeper \N is a Psychic type.
+Dialogue: 10,0:23:29.22,0:23:32.10,Main,Kojiro,0,0,0,,The Hypnosis Pokémon Sleeper \N is an Esper type.
 Dialogue: 10,0:23:32.10,0:23:35.69,Main,Kojiro,0,0,0,,It’s an extremely dangerous Pokémon \N who puts those it meets to sleep.
 Dialogue: 10,0:23:35.69,0:23:37.85,Main,Kojiro,0,0,0,,It’s truly perfect for \N that wretched Sauboh.
 Dialogue: 10,0:23:38.23,0:23:41.32,Main,Kojiro,0,0,0,,What a villain, \N wanting to erase people’s memories!
@@ -359,7 +359,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:32.51,0:02:37.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(470,250)}Lilie and Silvuddy,
 Dialogue: 0,0:02:32.51,0:02:37.51,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(757,540)}Awakening Memories
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:09:44.52,0:09:47.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Sleeper \N {\fs40}Type:   Psychic
+Dialogue: 0,0:09:44.52,0:09:47.48,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Sleeper \N {\fs40}Type:   Esper
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:00.42,0:24:25.61,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:25.61,0:24:30.37,Episode titles,,0,0,0,,{\c&HFFFFFF&\pos(640,100)\3c&H2215F2&\fs50}Next time
@@ -411,12 +411,12 @@ Dialogue: 0,0:22:12.31,0:22:14.52,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.52,0:22:18.19,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.19,0:22:22.07,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.07,0:22:23.95,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.95,0:22:25.87,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:23.95,0:22:25.87,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.87,0:22:29.49,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.49,0:22:33.50,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.50,0:22:37.25,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.25,0:22:41.01,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.01,0:22:44.76,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.01,0:22:44.76,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.76,0:22:48.68,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.68,0:22:55.85,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.85,0:23:03.28,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets

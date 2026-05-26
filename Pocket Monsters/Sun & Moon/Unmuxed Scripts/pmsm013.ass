@@ -83,7 +83,7 @@ Dialogue: 0,0:22:12.35,0:22:14.56,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.56,0:22:18.23,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.23,0:22:22.11,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.11,0:22:23.99,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:23.99,0:22:25.90,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.90,0:22:29.53,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.53,0:22:33.29,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.29,0:22:37.12,OPED,,0,0,0,,Blazing, crackling Fire fires you up
@@ -95,7 +95,7 @@ Dialogue: 0,0:22:55.89,0:23:03.32,OPED,,0,0,0,,Once we’ve stuffed plenty of me
 Dialogue: 0,0:23:03.32,0:23:10.87,OPED,,0,0,0,,Let’s walk while holding hands, and stay together even through painful times
 Dialogue: 0,0:23:10.87,0:23:20.50,OPED,,0,0,0,,So that we can meet here again once we’ve grown up
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
-Dialogue: 0,0:11:19.53,0:11:22.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Raichu\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}        (Alolan Form)\N{\fs40}Type:   Electric/Psychic
+Dialogue: 0,0:11:19.53,0:11:22.49,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(425,435)}Name: Raichu\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}        (Alolan Form)\N{\fs40}Type:   Electric/Esper
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Comment: 0,0:00:00.52,0:00:00.52,Main,,0,0,0,,GREEN NEP TITLE
 Comment: 0,0:24:00.46,0:24:25.52,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
@@ -161,10 +161,10 @@ Dialogue: 10,0:04:23.40,0:04:25.34,Main,Satoshi,0,0,0,,Awesome!
 Dialogue: 10,0:04:25.34,0:04:27.83,Main,Satoshi,0,0,0,,This one looks \N completely different!
 Dialogue: 10,0:04:27.83,0:04:31.75,Main,Satoshi,0,0,0,,It’s floating in the air... \N That’s so cool!{Anime Alolan Raichu looks adorable —Puto}
 Dialogue: 10,0:04:32.71,0:04:35.17,Main,Rotom,0,0,0,,Raichu: Alolan Form.
-Dialogue: 10,0:04:35.17,0:04:37.84,Main,Rotom,0,0,0,,Mouse Pokémon. \N Electric/Psychic type.
+Dialogue: 10,0:04:35.17,0:04:37.84,Main,Rotom,0,0,0,,Mouse Pokémon. \N Electric/Esper type.
 Dialogue: 10,0:04:37.84,0:04:39.92,Main,Rotom,0,0,0,,It uses psychokinesis to \N control electricity.
 Dialogue: 10,0:04:39.92,0:04:44.80,Main,Rotom,0,0,0,,It hops aboard its own tail, using psycho-power \N to lift the tail and move about while riding it. {Moon Pokédex entry -Starfish}
-Dialogue: 10,0:04:45.93,0:04:49.18,Main,Satoshi,0,0,0,,It’s not just Electric, \N but a Psychic type, too?
+Dialogue: 10,0:04:45.93,0:04:49.18,Main,Satoshi,0,0,0,,It’s not just Electric, \N but an Esper type, too?
 Dialogue: 10,0:04:54.77,0:04:56.48,Main,Noa,0,0,0,,Here you are!
 Dialogue: 10,0:04:56.48,0:04:59.57,Main,Noa,0,0,0,,Our store’s special \N Alola Pancakes!
 Dialogue: 10,0:05:01.32,0:05:03.24,Main,Kukui,0,0,0,,They look as delicious as ever!
@@ -390,7 +390,7 @@ Dialogue: 10,0:23:23.46,0:23:25.13,Main,Alolan Oak,0,0,0,,Thank you for your pat
 Dialogue: 10,0:23:25.13,0:23:28.80,Main,Alolan Oak,0,0,0,,The answer to the PokéProblem was Nekkoala! \N Did you get it righTamanta?
 Dialogue: 10,0:23:28.80,0:23:30.59,Main,Alolan Oak,0,0,0,,Well done, Nekkoala!
 Dialogue: 10,0:23:31.18,0:23:34.35,Main,Alolan Oak,0,0,0,,Last year’s winner of \N the Pokémon Pancake Race was Raichu!
-Dialogue: 10,0:23:34.35,0:23:36.47,Main,Alolan Oak,0,0,0,,It’s an Electric/Psychic type.
+Dialogue: 10,0:23:34.35,0:23:36.47,Main,Alolan Oak,0,0,0,,It’s an Electric/Esper type.
 Dialogue: 10,0:23:36.47,0:23:41.98,Main,Alolan Oak,0,0,0,,It focuses psycho-power into its tail and \N rides it like it’s surfing. {This is actually its Ultra Sun dex entry which would not yet have been written when this episode was released probably, but... it’s close enough to work. -Starfish}It was quite the formidable foe!
 Dialogue: 10,0:23:41.98,0:23:46.44,Main,Alolan Oak,0,0,0,,I didn’t think Nekkoala stood a chance, \N to be honesTabunne!
 Dialogue: 10,0:23:48.99,0:23:51.36,Main,Alolan Oak,0,0,0,,I got a one-year gift card!

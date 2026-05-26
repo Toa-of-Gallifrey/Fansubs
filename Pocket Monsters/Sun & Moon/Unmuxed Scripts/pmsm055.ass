@@ -79,7 +79,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:27.50,0:02:32.50,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,220)}Thank You, Solgaleo!
 Dialogue: 0,0:02:27.50,0:02:32.50,Episode titles,,0,0,0,,{\fad(400,0)\c&HF61729&\pos(640,560)}Our Nebby!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:10:07.54,0:10:10.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Solgaleo \N {\fs40}Type:   Steel/Psychic
+Dialogue: 0,0:10:07.54,0:10:10.50,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(134.667,478)}Name: Solgaleo \N {\fs40}Type:   Steel/Esper
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:03.21,0:22:07.13,OPED,,0,0,0,,{\fad(400,0)}Yo! Champ in the making! Now, let’s keep up the enthusiasm today!
 Dialogue: 0,0:22:07.13,0:22:10.85,OPED,,0,0,0,,Get them, get them! (Get them, get them!) Now, let’s keep making friends!
@@ -88,12 +88,12 @@ Dialogue: 0,0:22:12.39,0:22:14.60,OPED,,0,0,0,,can capture your heart
 Dialogue: 0,0:22:14.60,0:22:18.27,OPED,,0,0,0,,But if we dance together, things’ll keep getting more lively!
 Dialogue: 0,0:22:18.27,0:22:22.15,OPED,,0,0,0,,Normal, Fighting, Poison, Ground, Flying, Bug, Rock, Ghost
 Dialogue: 0,0:22:22.15,0:22:24.03,OPED,,0,0,0,,Steel, Fire, Water, Electric, Grass, Ice
-Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Psychic, Dragon, Evil, Fairy
+Dialogue: 0,0:22:24.03,0:22:25.94,OPED,,0,0,0,,Esper, Dragon, Evil, Fairy
 Dialogue: 0,0:22:25.94,0:22:29.57,OPED,,0,0,0,,Whether they’re evolved or not, get them all together
 Dialogue: 0,0:22:29.57,0:22:33.58,OPED,,0,0,0,,and strike a full power pose!
 Dialogue: 0,0:22:33.58,0:22:37.33,OPED,,0,0,0,,Freezing Ice will make you shiver with cold
 Dialogue: 0,0:22:37.33,0:22:41.08,OPED,,0,0,0,,Toxic Poison will eat away at your body
-Dialogue: 0,0:22:41.08,0:22:44.84,OPED,,0,0,0,,A Psychic will leave you dizzy and confused
+Dialogue: 0,0:22:41.08,0:22:44.84,OPED,,0,0,0,,An Esper will leave you dizzy and confused
 Dialogue: 0,0:22:44.84,0:22:48.76,OPED,,0,0,0,,Do things the Normal way, because simplicity is best!
 Dialogue: 0,0:22:48.76,0:22:55.93,OPED,,0,0,0,,I’m glad I met you, I’m really glad I chose you
 Dialogue: 0,0:22:55.93,0:23:03.36,OPED,,0,0,0,,Once we’ve stuffed plenty of memories into our pockets
