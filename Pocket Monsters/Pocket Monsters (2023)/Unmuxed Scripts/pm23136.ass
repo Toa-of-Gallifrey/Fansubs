@@ -161,7 +161,7 @@ Dialogue: 10,0:12:16.38,0:12:17.34,Main,Spinel,0,0,0,,Huh?
 Dialogue: 10,0:12:17.34,0:12:20.47,Main,Liko,0,0,0,,You must love your Blacky!
 Dialogue: 10,0:12:20.47,0:12:22.85,Main,Liko,0,0,0,,And even Blacky... Blacky must...
 Dialogue: 10,0:12:21.43,0:12:22.85,Main,Spinel,0,0,0,,{\an8}Shut up! Stop!
-Dialogue: 10,0:12:22.85,0:12:26.35,Main,Liko,0,0,0,,It loves you too, \N which is why it’s gone {\i1}this{\i0} far...!{Intentional Dread Blacky - Blacky is female (Eevee in the flashback has the female tail pattern), but there's no real way for Liko to know that}
+Dialogue: 10,0:12:22.85,0:12:26.35,Main,Liko,0,0,0,,Blacky loves you too! \N That’s why she’s {\i1}so{\i0} willing to...
 Dialogue: 10,0:12:30.98,0:12:33.36,Main,Spinel,0,0,0,,You’re wrong! This is...
 Dialogue: 10,0:12:34.11,0:12:35.86,Main,Spinel,0,0,0,,I’m nothing like any of you...!
 Dialogue: 10,0:13:17.48,0:13:19.28,Main,Spinel,0,0,0,,You truly are...
@@ -257,17 +257,29 @@ Dialogue: 10,0:22:42.01,0:22:44.05,Main,Amethio,0,0,0,,I want to be with you, Fa
 Dialogue: 10,0:22:45.84,0:22:47.60,Main,Crave,0,0,0,,Amethio...
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Special Preview}
 Dialogue: 10,0:24:01.92,0:24:03.42,Main,Announcer,0,0,0,,Entering a new chapter!
-Dialogue: 10,0:24:06.01,0:24:08.59,Main,Liko,0,0,0,,I didn’t know what I wanted to do \N from now on...
-Dialogue: 10,0:24:08.59,0:24:10.22,Main,Roy,0,0,0,,I wanna sing with Loudbone!
-Dialogue: 10,0:24:10.22,0:24:11.10,Main,Liko,0,0,0,,...but I’ve figured it out.
-Dialogue: 10,0:24:11.10,0:24:13.22,Main,Dot,0,0,0,,I still wanna learn \N even more about Pokémon!
-Dialogue: 10,0:24:13.22,0:24:14.85,Main,Ult,0,0,0,,Pokémon’re {\i1}deep!{\i}
+Dialogue: 10,0:24:06.01,0:24:08.59,Main,Liko,0,0,0,,I wasn’t sure \N what I wanted to do next.{137}
+Dialogue: 10,0:24:08.59,0:24:10.22,Main,Roy,0,0,0,,I wanna sing with Loudbone!{137}
+Dialogue: 10,0:24:10.22,0:24:11.10,Main,Liko,0,0,0,,But I’ve got it figured out now.{137}
+Dialogue: 10,0:24:11.10,0:24:13.22,Main,Dot,0,0,0,,I wanna learn so much more about Pokémon!{137}
+Dialogue: 10,0:24:13.22,0:24:14.85,Main,Ult,0,0,0,,Pokémon’re so {\i1}deep!{\i}{137}
 Dialogue: 10,0:24:15.43,0:24:19.81,Main,Announcer,0,0,0,,New meetings await them, \N as well as more adventures!
-Dialogue: 10,0:24:19.81,0:24:21.69,Main,Liko,0,0,0,,Rising Voltteccers...
-Dialogue: 10,0:24:21.69,0:24:22.77,Main,Roy,0,0,0,,Reboot!
-Dialogue: 10,0:24:22.77,0:24:24.65,Main,Everyone,0,0,0,,{\i1}Yeah!{\i0}
-Dialogue: 10,0:24:24.65,0:24:27.49,Main,Announcer,0,0,0,,{\an8}Pocket Monsters: Wonder Voyage!
-Dialogue: 10,0:24:27.49,0:24:30.41,Main,Announcer,0,0,0,,{\an8}Entering a new chapter! Don’t miss it!{089}
+Dialogue: 10,0:24:19.81,0:24:21.69,Main,Liko,0,0,0,,Rising Voltteccers...{137}
+Dialogue: 10,0:24:21.69,0:24:22.77,Main,Roy,0,0,0,,Reboot!{137}
+Dialogue: 10,0:24:22.77,0:24:24.65,Main,Everyone,0,0,0,,{\i1}Yeah!{\i0}{137}
+Dialogue: 10,0:24:24.65,0:24:27.49,Main,Announcer,0,0,150,,Pocket Monsters: Wonder Voyage!
+Dialogue: 10,0:24:27.49,0:24:30.41,Main,Announcer,0,0,150,,Entering a new chapter! Don’t miss it!{089}
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 10,0:24:03.42,0:24:04.63,Insert,Connect the World,0,0,0,,Ready, set, and...
+Dialogue: 10,0:24:04.63,0:24:06.63,Insert,Connect the World,0,0,0,,GO! READY! GO!
+Dialogue: 10,0:24:06.63,0:24:09.43,Insert,Connect the World,0,0,0,,We’re in top-notch mode
+Dialogue: 10,0:24:09.43,0:24:11.85,Insert,Connect the World,0,0,0,,You’re not alone, you know?
+Dialogue: 10,0:24:11.85,0:24:14.64,Insert,Connect the World,0,0,0,,Let’s fly, higher and higher!
+Dialogue: 10,0:24:14.64,0:24:17.31,Insert,Connect the World,0,0,0,,It’s fine to make mistakes
+Dialogue: 10,0:24:17.31,0:24:19.81,Insert,Connect the World,0,0,0,,just rest your wings
+Dialogue: 10,0:24:19.81,0:24:22.77,Insert,Connect the World,0,0,0,,When you’ve caught your breath
+Dialogue: 10,0:24:22.77,0:24:25.32,Insert,Connect the World,0,0,0,,you can fly off once more!
+Dialogue: 10,0:24:25.32,0:24:27.86,Insert,Connect the World,0,0,0,,Come along with us, oh-oh
+Dialogue: 10,0:24:27.86,0:24:30.41,Insert,Connect the World,0,0,0,,Voltteccers
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 8,0:20:44.97,0:20:49.02,ED,,0,0,0,,{=1653}{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}Guess the dessert doughnuts will have to wait?
 Dialogue: 8,0:20:49.69,0:20:52.90,ED,,0,0,0,,{\q2\blur5\bord6\shad0\c&HFFFFFF&\3c&HFFFFFF&}This is the big 1, gotta make up our minds
@@ -439,47 +451,77 @@ Dialogue: 0,0:24:03.42,0:24:06.01,Main,,0,0,0,,{\b0\blur0.6\fsp3\an7\bord4\shad0
 Dialogue: 1,0:24:03.42,0:24:06.01,Main,,0,0,0,,{\b0\blur0.6\fsp3\an7\bord0\fscx60\fscy60\fnRo GSan Serif Std U\c&HFFFFFF&\4c&HFE8100&\4a&H00&\shad5\4a&HFF&\pos(136.67,732)}Opening Theme: Connect the World
 Dialogue: 0,0:24:03.42,0:24:06.01,Main,,0,0,0,,{\b0\blur0.6\fsp3\an7\bord4\shad0\fscx60\fscy60\fnRo GSan Serif Std U\3c&HA3B42E&\c&HA3B42E&\pos(136.67,794)}Song by: Liko & Roy (VA: Suzuki Minori & Terasaki Yuka)
 Dialogue: 1,0:24:03.42,0:24:06.01,Main,,0,0,0,,{\b0\blur0.6\fsp3\an7\bord0\fscx60\fscy60\fnRo GSan Serif Std U\c&HFFFFFF&\4c&HFE8100&\4a&H00&\shad5\4a&HFF&\pos(136.67,794)}Song by: Liko & Roy (VA: Suzuki Minori & Terasaki Yuka)
-Dialogue: 0,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur3\fscx150\fscy150\bord8\fad(300,0)\fnRo GSan Serif Std U\pos(960,170)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6\1a&HFF&\t(255,300,\1a&H00&)}Reboot
-Dialogue: 1,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur0.6\fscx150\fscy150\bord3\fad(300,0)\fnRo GSan Serif Std U\pos(960,170)\4c&H19AEF9&\4a&H00&\shad4\c&H0038F0&\1a&HFF&\t(255,300,\1a&H00&)\3c&H0038F0&}Reboot
-Dialogue: 2,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur0.6\fscx150\fscy150\bord0\fad(300,0)\fnRo GSan Serif Std U\pos(960,170)\c&H00F3FC&\4c&H19AEF9&\4a&H00&\shad4\4a&HFF&}Reboot
-Dialogue: 0,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1642}{\b0\blur3\fscx150\fscy150\bord8\fnRo GSan Serif Std U\pos(960,170)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6}Reboot
-Dialogue: 0,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1642}{\b0\blur3\fscx150.98\fscy150.98\bord8.05\fnRo GSan Serif Std U\pos(960.01,168.23)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.04}Reboot
-Dialogue: 0,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1642}{\b0\blur3\fscx151.96\fscy151.96\bord8.1\fnRo GSan Serif Std U\pos(960.02,166.46)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.08}Reboot
-Dialogue: 0,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1642}{\b0\blur3\fscx152.96\fscy152.96\bord8.16\fnRo GSan Serif Std U\pos(960,164.66)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.12}Reboot
-Dialogue: 0,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1642}{\b0\blur3\fscx154.08\fscy154.08\bord8.22\fnRo GSan Serif Std U\pos(960.01,162.65)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.16}Reboot
-Dialogue: 0,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1642}{\b0\blur3\fscx155.41\fscy155.41\bord8.29\fnRo GSan Serif Std U\pos(960,160.25)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.22}Reboot
-Dialogue: 0,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1642}{\b0\blur3\fscx157.09\fscy157.09\bord8.38\fnRo GSan Serif Std U\pos(959.99,157.23)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.28}Reboot
-Dialogue: 0,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1642}{\b0\blur3\fscx159.33\fscy159.33\bord8.5\fnRo GSan Serif Std U\pos(959.98,153.19)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.37}Reboot
-Dialogue: 0,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1642}{\b0\blur3\fscx162.51\fscy162.51\bord8.67\fnRo GSan Serif Std U\pos(959.99,147.47)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.5}Reboot
-Dialogue: 0,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1642}{\b0\blur3\fscx167.25\fscy167.25\bord8.92\fnRo GSan Serif Std U\pos(959.98,138.93)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.69}Reboot
-Dialogue: 0,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1642}{\b0\blur3\fscx174.29\fscy174.29\bord9.3\fnRo GSan Serif Std U\pos(960,126.25)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.97}Reboot
-Dialogue: 0,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1642}{\b0\blur3\fscx184.29\fscy184.29\bord9.83\fnRo GSan Serif Std U\pos(959.97,108.24)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad7.37}Reboot
-Dialogue: 1,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx150\fscy150\bord3\fnRo GSan Serif Std U\pos(960,170)\4c&H19AEF9&\4a&H00&\shad4\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx150.98\fscy150.98\bord3.02\fnRo GSan Serif Std U\pos(960.01,168.23)\4c&H19AEF9&\4a&H00&\shad4.03\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx151.96\fscy151.96\bord3.04\fnRo GSan Serif Std U\pos(960.02,166.46)\4c&H19AEF9&\4a&H00&\shad4.05\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx152.96\fscy152.96\bord3.06\fnRo GSan Serif Std U\pos(960,164.66)\4c&H19AEF9&\4a&H00&\shad4.08\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx154.08\fscy154.08\bord3.08\fnRo GSan Serif Std U\pos(960.01,162.65)\4c&H19AEF9&\4a&H00&\shad4.11\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx155.41\fscy155.41\bord3.11\fnRo GSan Serif Std U\pos(960,160.25)\4c&H19AEF9&\4a&H00&\shad4.14\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx157.09\fscy157.09\bord3.14\fnRo GSan Serif Std U\pos(959.99,157.23)\4c&H19AEF9&\4a&H00&\shad4.19\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx159.33\fscy159.33\bord3.19\fnRo GSan Serif Std U\pos(959.98,153.19)\4c&H19AEF9&\4a&H00&\shad4.25\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx162.51\fscy162.51\bord3.25\fnRo GSan Serif Std U\pos(959.99,147.47)\4c&H19AEF9&\4a&H00&\shad4.33\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx167.25\fscy167.25\bord3.34\fnRo GSan Serif Std U\pos(959.98,138.93)\4c&H19AEF9&\4a&H00&\shad4.46\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx174.29\fscy174.29\bord3.49\fnRo GSan Serif Std U\pos(960,126.25)\4c&H19AEF9&\4a&H00&\shad4.65\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 1,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx184.29\fscy184.29\bord3.69\fnRo GSan Serif Std U\pos(959.97,108.24)\4c&H19AEF9&\4a&H00&\shad4.91\c&H0038F0&\3c&H0038F0&}Reboot
-Dialogue: 2,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx150\fscy150\bord0\fnRo GSan Serif Std U\pos(960,170)\c&H00F3FC&\4c&H19AEF9&\shad4\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx150.98\fscy150.98\bord0\fnRo GSan Serif Std U\pos(960.01,168.23)\c&H00F3FC&\4c&H19AEF9&\shad4.03\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx151.96\fscy151.96\bord0\fnRo GSan Serif Std U\pos(960.02,166.46)\c&H00F3FC&\4c&H19AEF9&\shad4.05\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx152.96\fscy152.96\bord0\fnRo GSan Serif Std U\pos(960,164.66)\c&H00F3FC&\4c&H19AEF9&\shad4.08\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx154.08\fscy154.08\bord0\fnRo GSan Serif Std U\pos(960.01,162.65)\c&H00F3FC&\4c&H19AEF9&\shad4.11\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx155.41\fscy155.41\bord0\fnRo GSan Serif Std U\pos(960,160.25)\c&H00F3FC&\4c&H19AEF9&\shad4.14\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx157.09\fscy157.09\bord0\fnRo GSan Serif Std U\pos(959.99,157.23)\c&H00F3FC&\4c&H19AEF9&\shad4.19\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx159.33\fscy159.33\bord0\fnRo GSan Serif Std U\pos(959.98,153.19)\c&H00F3FC&\4c&H19AEF9&\shad4.25\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx162.51\fscy162.51\bord0\fnRo GSan Serif Std U\pos(959.99,147.47)\c&H00F3FC&\4c&H19AEF9&\shad4.33\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx167.25\fscy167.25\bord0\fnRo GSan Serif Std U\pos(959.98,138.93)\c&H00F3FC&\4c&H19AEF9&\shad4.46\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx174.29\fscy174.29\bord0\fnRo GSan Serif Std U\pos(960,126.25)\c&H00F3FC&\4c&H19AEF9&\shad4.65\4a&HFF&}Reboot
-Dialogue: 2,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx184.29\fscy184.29\bord0\fnRo GSan Serif Std U\pos(959.97,108.24)\c&H00F3FC&\4c&H19AEF9&\shad4.91\4a&HFF&}Reboot
+Dialogue: 0,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur3\fscx150\fscy150\bord8\fad(300,0)\fnRo GSan Serif Std U\pos(960,320)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6\1a&HFF&\t(255,300,\1a&H00&)}Reboot
+Dialogue: 1,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur0.6\fscx150\fscy150\bord3\fad(300,0)\fnRo GSan Serif Std U\pos(960,320)\4c&H19AEF9&\4a&H00&\shad4\c&H0038F0&\1a&HFF&\t(255,300,\1a&H00&)\3c&H0038F0&}Reboot
+Dialogue: 2,0:24:21.82,0:24:22.27,Main,,0,0,0,,{\b0\blur0.6\fscx150\fscy150\bord0\fad(300,0)\fnRo GSan Serif Std U\pos(960,320)\c&H00F3FC&\4c&H19AEF9&\4a&H00&\shad4\4a&HFF&}Reboot
+Dialogue: 0,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1642}{\b0\blur3\fscx150\fscy150\bord8\fnRo GSan Serif Std U\pos(960,320)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6}Reboot
+Dialogue: 0,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1642}{\b0\blur3\fscx150.98\fscy150.98\bord8.05\fnRo GSan Serif Std U\pos(960.01,318.23)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.04}Reboot
+Dialogue: 0,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1642}{\b0\blur3\fscx151.96\fscy151.96\bord8.1\fnRo GSan Serif Std U\pos(960.02,316.46)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.08}Reboot
+Dialogue: 0,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1642}{\b0\blur3\fscx152.96\fscy152.96\bord8.16\fnRo GSan Serif Std U\pos(960,314.66)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.12}Reboot
+Dialogue: 0,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1642}{\b0\blur3\fscx154.08\fscy154.08\bord8.22\fnRo GSan Serif Std U\pos(960.01,312.65)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.16}Reboot
+Dialogue: 0,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1642}{\b0\blur3\fscx155.41\fscy155.41\bord8.29\fnRo GSan Serif Std U\pos(960,310.25)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.22}Reboot
+Dialogue: 0,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1642}{\b0\blur3\fscx157.09\fscy157.09\bord8.38\fnRo GSan Serif Std U\pos(959.99,307.23)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.28}Reboot
+Dialogue: 0,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1642}{\b0\blur3\fscx159.33\fscy159.33\bord8.5\fnRo GSan Serif Std U\pos(959.98,303.19)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.37}Reboot
+Dialogue: 0,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1642}{\b0\blur3\fscx162.51\fscy162.51\bord8.67\fnRo GSan Serif Std U\pos(959.99,297.47)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.5}Reboot
+Dialogue: 0,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1642}{\b0\blur3\fscx167.25\fscy167.25\bord8.92\fnRo GSan Serif Std U\pos(959.98,288.93)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.69}Reboot
+Dialogue: 0,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1642}{\b0\blur3\fscx174.29\fscy174.29\bord9.3\fnRo GSan Serif Std U\pos(960,276.25)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad6.97}Reboot
+Dialogue: 0,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1642}{\b0\blur3\fscx184.29\fscy184.29\bord9.83\fnRo GSan Serif Std U\pos(959.97,258.24)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad7.37}Reboot
+Dialogue: 0,0:24:22.77,0:24:22.82,Main,,0,0,0,,{=1642}{\b0\blur4\fscx219.29\fscy219.29\bord11.70\fnRo GSan Serif Std U\pos(959.97,208.24)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&\shad8.77}Reboot
+Dialogue: 1,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx150\fscy150\bord3\fnRo GSan Serif Std U\pos(960,320)\4c&H19AEF9&\4a&H00&\shad4\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx150.98\fscy150.98\bord3.02\fnRo GSan Serif Std U\pos(960.01,318.23)\4c&H19AEF9&\4a&H00&\shad4.03\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx151.96\fscy151.96\bord3.04\fnRo GSan Serif Std U\pos(960.02,316.46)\4c&H19AEF9&\4a&H00&\shad4.05\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx152.96\fscy152.96\bord3.06\fnRo GSan Serif Std U\pos(960,314.66)\4c&H19AEF9&\4a&H00&\shad4.08\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx154.08\fscy154.08\bord3.08\fnRo GSan Serif Std U\pos(960.01,312.65)\4c&H19AEF9&\4a&H00&\shad4.11\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx155.41\fscy155.41\bord3.11\fnRo GSan Serif Std U\pos(960,310.25)\4c&H19AEF9&\4a&H00&\shad4.14\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx157.09\fscy157.09\bord3.14\fnRo GSan Serif Std U\pos(959.99,307.23)\4c&H19AEF9&\4a&H00&\shad4.19\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx159.33\fscy159.33\bord3.19\fnRo GSan Serif Std U\pos(959.98,303.19)\4c&H19AEF9&\4a&H00&\shad4.25\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx162.51\fscy162.51\bord3.25\fnRo GSan Serif Std U\pos(959.99,297.47)\4c&H19AEF9&\4a&H00&\shad4.33\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx167.25\fscy167.25\bord3.34\fnRo GSan Serif Std U\pos(959.98,288.93)\4c&H19AEF9&\4a&H00&\shad4.46\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx174.29\fscy174.29\bord3.49\fnRo GSan Serif Std U\pos(960,276.25)\4c&H19AEF9&\4a&H00&\shad4.65\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1641}{\b0\blur0.6\fscx184.29\fscy184.29\bord3.69\fnRo GSan Serif Std U\pos(959.97,258.24)\4c&H19AEF9&\4a&H00&\shad4.91\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 1,0:24:22.77,0:24:22.82,Main,,0,0,0,,{=1641}{\b0\blur1.5\fscx219.29\fscy219.29\bord4.39\fnRo GSan Serif Std U\pos(959.97,208.24)\4c&H19AEF9&\4a&H00&\shad5.84\c&H0038F0&\3c&H0038F0&}Reboot
+Dialogue: 2,0:24:22.27,0:24:22.31,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx150\fscy150\bord0\fnRo GSan Serif Std U\pos(960,320)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.31,0:24:22.35,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx150.98\fscy150.98\bord0\fnRo GSan Serif Std U\pos(960.01,318.23)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.35,0:24:22.39,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx151.96\fscy151.96\bord0\fnRo GSan Serif Std U\pos(960.02,316.46)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.39,0:24:22.44,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx152.96\fscy152.96\bord0\fnRo GSan Serif Std U\pos(960,314.66)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.44,0:24:22.48,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx154.08\fscy154.08\bord0\fnRo GSan Serif Std U\pos(960.01,312.65)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.48,0:24:22.52,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx155.41\fscy155.41\bord0\fnRo GSan Serif Std U\pos(960,310.25)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.52,0:24:22.56,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx157.09\fscy157.09\bord0\fnRo GSan Serif Std U\pos(959.99,307.23)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.56,0:24:22.60,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx159.33\fscy159.33\bord0\fnRo GSan Serif Std U\pos(959.98,303.19)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.60,0:24:22.64,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx162.51\fscy162.51\bord0\fnRo GSan Serif Std U\pos(959.99,297.47)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.64,0:24:22.69,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx167.25\fscy167.25\bord0\fnRo GSan Serif Std U\pos(959.98,288.93)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.69,0:24:22.73,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx174.29\fscy174.29\bord0\fnRo GSan Serif Std U\pos(960,276.25)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.73,0:24:22.77,Main,,0,0,0,,{=1640}{\b0\blur0.6\fscx184.29\fscy184.29\bord0\fnRo GSan Serif Std U\pos(959.97,258.24)\c&H00F3FC&}Reboot
+Dialogue: 2,0:24:22.77,0:24:22.82,Main,,0,0,0,,{=1640}{\b0\blur1.5\fscx219.29\fscy219.29\bord0\fnRo GSan Serif Std U\pos(959.97,208.24)\c&H00F3FC&}Reboot
 Dialogue: 1,0:24:25.53,0:24:30.41,Main,,0,0,0,,{\b0\fad(810,0)\fsp1\blur0.6\fscx70\fscy70\fnRo GSan Serif Std U\pos(1344,1048.33)\bord0\c&HD8EC00&\4c&HA53207&\shad4\4a&H00&}Entering a new chapte{\b0\fsp4}r{\b0\fsp1}!\NDon't miss i{\b0\fsp4}t!!
 Dialogue: 0,0:24:25.53,0:24:30.41,Main,,0,0,0,,{\b0\fad(810,0)\fsp1\blur3\fscx70\fscy70\fnRo GSan Serif Std U\pos(1344,1048.33)\bord4\shad5\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H00&}Entering a new chapte{\b0\fsp4}r{\b0\fsp1}!\NDon't miss i{\b0\fsp4}t!!
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 1,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{=1503=1655}{\fad(100,0)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\clip(27,73.97,1911.9,204)\pos(1338.68,206.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 1,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\clip(27,222,1904.17,797.48)\pos(1338.68,206.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 0,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\bord6\blur2.5\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HFFFFFF&\pos(1338.68,206.71)\1a&HFF&\t(55,100,\1a&H00&)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Comment: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\pos(970.68,371.71)\c&HE9A801&\clip(27,204.59,1903.28,222.59)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Comment: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\pos(970.68,371.71)\c&HAB6882&\clip(27,204.59,1903.28,222.59)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Comment: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\pos(970.68,371.71)\c&H3D38E2&\clip(27,204.59,1903.28,222.59)}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,204,1903,205)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,205,1903,206)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HE1A011&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,206,1903,207)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HD99821&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,207,1903,208)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HD19031&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,208,1903,209)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HCA8841&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,209,1903,210)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HC28051&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,210,1903,211)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HBA7861&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,211,1903,212)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HB27071&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,212,1903,213)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HAB6882&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,213,1903,214)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&HAB6882&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,214,1903,215)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H9D628E&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,215,1903,216)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H8F5C9A&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,216,1903,217)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H8156A6&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,217,1903,218)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H7450B2&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,218,1903,219)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H664ABE&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,219,1903,220)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H5844CA&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,220,1903,221)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H4A3ED6&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{=1656}{\fad(100,0)\clip(27,221,1903,222)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&}p{\fsp-13}O{\fsp-9}Cket Monsters
+Dialogue: 0,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fad(731,0)\fscx90.72\fscy72.68\bord5.5\blur2.5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\t(686,731,\1a&H00&)\pos(1343,499.64)}Wonder Voyage
+Dialogue: 1,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fad(731,0)\fscx90.72\fscy72.68\bord0\blur0.6\c&H9BAF10&\pos(1343,499.64)}Wonder Voyage
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:42.69,0:00:47.32,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:00:47.69,0:00:55.99,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message
@@ -7803,3 +7845,5 @@ Data: 1641,a-mo,e{"uuid"#00"ebd6d2de-e794-4d9a-bc14-cbc87d318eaf"#00"originalTex
 Data: 1642,a-mo,e{"uuid"#00"13a553c3-9287-4779-b6c4-9aa792df2fee"#00"originalText"#00"{\\blur3\\fscx150\\fscy150\\bord8\\fnRo GSan Serif Std U\\pos(960#00270)\\c&HFFFFFF&\\3c&HFFFFFF&\\4c&HFFFFFF&\\4a&H00&\\shad6}Reboot"}
 Data: 1653,_aegi_folddata,e0;1;36
 Data: 1654,_aegi_folddata,e1;1;36
+Data: 1655,_aegi_folddata,e0;1;37
+Data: 1656,_aegi_folddata,e1;1;37
