@@ -31,8 +31,8 @@ Dialogue: 10,0:00:01.06,0:00:02.40,Main,Friede,0,0,0,,Can you hear me?{120 start
 Dialogue: 10,0:00:02.40,0:00:03.73,Main,Friede,0,0,0,,It’s me, Friede.
 Dialogue: 10,0:00:03.73,0:00:06.65,Main,Dot,0,0,0,,Huh?! F-Friede?!
 Dialogue: 10,0:00:07.03,0:00:08.78,Main,Friede,0,0,0,,I’m heading back your way now.
-Dialogue: 10,0:00:08.78,0:00:11.16,Main,Friede,0,0,0,,Huh? Heading back? From where?!
-Dialogue: 10,0:00:11.16,0:00:13.54,Main,Friede,0,0,0,,Huh? Did I forget to mention?
+Dialogue: 10,0:00:08.78,0:00:11.16,Main,Dot,0,0,0,,Huh? Heading back? From where?!
+Dialogue: 10,0:00:11.16,0:00:13.54,Main,Friede,0,0,0,,Huh? Didn’t I mention?
 Dialogue: 10,0:00:14.95,0:00:16.16,Main,Friede,0,0,0,,From space!{120 end}
 Dialogue: 10,0:00:21.79,0:00:23.17,Main,Liko Roy,0,0,0,,Space?
 Dialogue: 10,0:00:24.46,0:00:26.01,Main,Friede,0,0,0,,Sorry for the wait, everyone.{PV}

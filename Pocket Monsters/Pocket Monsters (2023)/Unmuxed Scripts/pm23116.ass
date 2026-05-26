@@ -112,8 +112,8 @@ Dialogue: 10,0:06:19.03,0:06:23.40,Main,Taro,0,0,0,,I’ll go look for Mr. Ult{H
 Dialogue: 10,0:06:23.40,0:06:24.66,Main,Taro,0,0,0,,Do your best!
 Dialogue: 10,0:06:28.41,0:06:30.87,Main,Liko,0,0,0,,This is the Savanna Area, everyone.
 Dialogue: 10,0:06:37.29,0:06:39.63,Main,Liko,0,0,0,,Look, over by that big rock!
-Dialogue: 10,0:06:41.80,0:06:47.01,Main,Rotom,0,0,0,,Kaenjishi: Male Form. Monarch Pokémon. \N Fire/Normal type.
-Dialogue: 10,0:06:47.01,0:06:51.68,Main,Rotom,0,0,0,,{ENgame, converted:}The mane of the male heats up to \N two thousand degrees Celsius during battle.{Violet dex entry}
+Dialogue: 10,0:06:41.80,0:06:47.01,Main,Smartphone Rotom,0,0,0,,Kaenjishi: Male Form. Monarch Pokémon. \N Fire/Normal type.
+Dialogue: 10,0:06:47.01,0:06:51.68,Main,Smartphone Rotom,0,0,0,,{ENgame, converted:}The mane of the male heats up to \N two thousand degrees Celsius during battle.{Violet dex entry}
 Dialogue: 10,0:06:51.68,0:06:57.19,Main,Liko,0,0,0,,That’s the Pokémon Ms. Taro{Honorifics note: Taro-san} told us \N would be a perfect fit for the Fire-type Carbou!
 Dialogue: 10,0:07:05.99,0:07:08.20,Main,Liko,0,0,0,,That was great, Carbou! Masquernya!
 Dialogue: 10,0:07:12.83,0:07:14.46,Main,Liko,0,0,0,,It’s too dangerous, Tebrim!
@@ -122,8 +122,8 @@ Dialogue: 10,0:07:18.96,0:07:21.09,Main,Anne,0,0,0,,Hey! Liko!
 Dialogue: 10,0:07:21.46,0:07:23.09,Main,Anne,0,0,0,,So this’s where you were!
 Dialogue: 10,0:07:24.26,0:07:27.72,Main,Dot,0,0,0,,The Coast Area... \N It’s like I’m on a southern island somewhere...
 Dialogue: 10,0:07:27.72,0:07:30.05,Main,Dot,0,0,0,,You’d never {\i1}think{\i0} \N this was underwater!
-Dialogue: 10,0:07:38.15,0:07:41.65,Main,Rotom,0,0,0,,Makenkani. Boxing Pokémon. \N Fighting type.
-Dialogue: 10,0:07:41.65,0:07:44.74,Main,Rotom,0,0,0,,{It punches trees to knock down berries and eat them.}It punches trees \N and eats the berries that drop down.{Scarlet dex entry}
+Dialogue: 10,0:07:38.15,0:07:41.65,Main,Smartphone Rotom,0,0,0,,Makenkani. Boxing Pokémon. \N Fighting type.
+Dialogue: 10,0:07:41.65,0:07:44.74,Main,Smartphone Rotom,0,0,0,,{It punches trees to knock down berries and eat them.}It punches trees \N and eats the berries that drop down.{Scarlet dex entry}
 Dialogue: 10,0:07:47.24,0:07:49.49,Main,Dot,0,0,0,,You ready, Dekanuchan?
 Dialogue: 10,0:07:51.20,0:07:53.49,Main,Ult,0,0,0,,So this’s the Polar Area?
 Dialogue: 10,0:07:53.49,0:07:57.96,Main,Ult,0,0,0,,If we head as deep into this place as we can, \N we’re bound to find some mega-strong guys.
@@ -269,12 +269,12 @@ Dialogue: 10,0:16:32.64,0:16:35.56,Main,Roy,0,0,0,,Yes! A Double Battle, please!
 Dialogue: 10,0:16:35.56,0:16:38.27,Main,Kakitsubata,0,0,0,,You’re pretty uptight, brother.
 Dialogue: 10,0:16:38.81,0:16:41.10,Main,Kakitsubata,0,0,0,,Well, let’s just keep it chill.
 Dialogue: 10,0:16:45.32,0:16:48.07,Main,Kakitsubata,0,0,0,,I’ll use these guys!
-Dialogue: 10,0:16:52.20,0:16:56.29,Main,Rotom,0,0,0,,Bridgeurus. Alloy Pokémon. \N Steel/Dragon type.
-Dialogue: 10,0:16:56.29,0:16:58.54,Main,Rotom,0,0,0,,It gathers static electricity \N from its surroundings.
-Dialogue: 10,0:16:58.54,0:17:02.54,Main,Rotom,0,0,0,,The beams it launches when down on all fours \N are tremendously powerful.{Scarlet dex entry}
-Dialogue: 10,0:17:03.21,0:17:06.96,Main,Rotom,0,0,0,,Kingdra. Dragon Pokémon. \N Water/Dragon type.
-Dialogue: 10,0:17:06.96,0:17:09.01,Main,Rotom,0,0,0,,It lives in caves on the seafloor.
-Dialogue: 10,0:17:09.55,0:17:13.85,Main,Rotom,0,0,0,,Whenever Kingdra moves, \N it creates giant whirlpools.{ENgame: It lives in caves on the seafloor and creates giant whirlpools every time it moves.}{BW dex entry}
+Dialogue: 10,0:16:52.20,0:16:56.29,Main,Smartphone Rotom,0,0,0,,Bridgeurus. Alloy Pokémon. \N Steel/Dragon type.
+Dialogue: 10,0:16:56.29,0:16:58.54,Main,Smartphone Rotom,0,0,0,,It gathers static electricity \N from its surroundings.
+Dialogue: 10,0:16:58.54,0:17:02.54,Main,Smartphone Rotom,0,0,0,,The beams it launches when down on all fours \N are tremendously powerful.{Scarlet dex entry}
+Dialogue: 10,0:17:03.21,0:17:06.96,Main,Smartphone Rotom,0,0,0,,Kingdra. Dragon Pokémon. \N Water/Dragon type.
+Dialogue: 10,0:17:06.96,0:17:09.01,Main,Smartphone Rotom,0,0,0,,It lives in caves on the seafloor.
+Dialogue: 10,0:17:09.55,0:17:13.85,Main,Smartphone Rotom,0,0,0,,Whenever Kingdra moves, \N it creates giant whirlpools.{ENgame: It lives in caves on the seafloor and creates giant whirlpools every time it moves.}{BW dex entry}
 Dialogue: 10,0:17:13.85,0:17:16.01,Main,Roy,0,0,0,,They’re both Dragon types.
 Dialogue: 10,0:17:16.01,0:17:19.10,Main,Roy,0,0,0,,But it sounds like \N their battle styles are nothing alike.
 Dialogue: 10,0:17:19.10,0:17:22.56,Main,Roy,0,0,0,,In that case, \N I’ll use Achigator and Taikaiden!

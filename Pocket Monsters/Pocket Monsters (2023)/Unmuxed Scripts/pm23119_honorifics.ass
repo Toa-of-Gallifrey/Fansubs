@@ -149,7 +149,7 @@ Dialogue: 10,0:09:15.20,0:09:16.20,Main,Roy,0,0,0,,We did it!
 Dialogue: 10,0:09:16.20,0:09:19.16,Main,Kakitsubata,0,0,0,,Wouldn’t be any fun \N if I let myself slack off at this point... {ENgame: I’m not just gonna roll over and miss out on the fun.}
 Dialogue: 10,0:09:19.16,0:09:21.96,Main,Kakitsubata,0,0,0,,Guess I’ve gotta work up \N a li’l bit of motivation, then!{ENgame:  So watch out.}{116}
 Dialogue: 10,0:09:24.96,0:09:26.50,Main,Ult,0,0,0,,What’s that?
-Dialogue: 10,0:09:26.50,0:09:29.67,Main,Dot,0,0,0,,His{game gender} defense rose \N due to his ability, Stamina.
+Dialogue: 10,0:09:26.50,0:09:29.67,Main,Dot,0,0,0,,His{game gender} defense rose \N due to his ability, Endurance.
 Dialogue: 10,0:09:32.13,0:09:34.51,Main,Kakitsubata,0,0,0,,Metal Burst!
 Dialogue: 10,0:09:43.35,0:09:49.40,Main,Taro,0,0,0,,{\q2}Whenever he’s attacked, his defense rises, and he uses \N Metal Burst to return even {\i1}more{\i0} damage than he took!
 Dialogue: 10,0:09:49.40,0:09:51.40,Main,Taro,0,0,0,,How cruel!
@@ -221,8 +221,8 @@ Dialogue: 10,0:15:44.97,0:15:45.97,Main,Dot,0,0,0,,Or should I say...
 Dialogue: 10,0:15:45.97,0:15:47.22,Main,Roy,0,0,0,,...Loudbone!
 Dialogue: 10,0:15:52.97,0:15:55.02,Main,Roy,0,0,0,,You’re happy too, \N aren’t you, Loudbone?
 Dialogue: 10,0:15:59.06,0:16:01.19,Main,Taro,0,0,0,,What is that? It’s so cute!
-Dialogue: 10,0:16:02.40,0:16:05.94,Main,Rotom,0,0,0,,Loudbone. Singer Pokémon. \N Fire/Ghost type.
-Dialogue: 10,0:16:06.32,0:16:10.87,Main,Rotom,0,0,0,,Rumor has it that the fiery bird is \N the fireball on its head, now inhabited by a soul.{Partial Scarlet dex entry, tweaked}
+Dialogue: 10,0:16:02.40,0:16:05.94,Main,Smartphone Rotom,0,0,0,,Loudbone. Singer Pokémon. \N Fire/Ghost type.
+Dialogue: 10,0:16:06.32,0:16:10.87,Main,Smartphone Rotom,0,0,0,,Rumor has it that the fiery bird is \N the fireball on its head, now inhabited by a soul.{Partial Scarlet dex entry, tweaked}
 Dialogue: 10,0:16:10.87,0:16:15.08,Main,Kakitsubata,0,0,0,,Whew! Of all the times to evolve! \N Beautiful stuff! {ENgame: Whew! [...] That was beautiful.}
 Dialogue: 10,0:16:15.08,0:16:16.58,Main,Kakitsubata,0,0,0,,In that case...
 Dialogue: 10,0:16:16.58,0:16:19.08,Main,Roy,0,0,0,,I’ll meet your Terastal head-on!

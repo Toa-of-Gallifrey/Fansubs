@@ -53,9 +53,9 @@ Dialogue: 10,0:03:17.55,0:03:18.18,Main,Dot,0,0,0,,Hey, this...!
 Dialogue: 10,0:03:18.18,0:03:19.60,Main,Nanjamo,0,0,0,,Right, right?
 Dialogue: 10,0:03:19.60,0:03:21.97,Main,Nanjamo,0,0,0,,But I know what’s behind it!
 Dialogue: 10,0:03:28.48,0:03:30.11,Main,Dot,0,0,0,,A Maggyo?
-Dialogue: 10,0:03:32.73,0:03:36.20,Main,Rotom,0,0,0,,Maggyo. Trap Pokémon. \N Ground/Electric type.
-Dialogue: 10,0:03:36.20,0:03:39.12,Main,Rotom,0,0,0,,It buries itself in the mud \N of the seashore to await its prey.{White dex entry, ENgame with edits to bring it closer to JP}
-Dialogue: 10,0:03:39.12,0:03:43.20,Main,Rotom,0,0,0,,When prey makes contact, \N it delivers a paralyzing jolt of electricity.
+Dialogue: 10,0:03:32.73,0:03:36.20,Main,Smartphone Rotom,0,0,0,,Maggyo. Trap Pokémon. \N Ground/Electric type.
+Dialogue: 10,0:03:36.20,0:03:39.12,Main,Smartphone Rotom,0,0,0,,It buries itself in the mud \N of the seashore to await its prey.{White dex entry, ENgame with edits to bring it closer to JP}
+Dialogue: 10,0:03:39.12,0:03:43.20,Main,Smartphone Rotom,0,0,0,,When prey makes contact, \N it delivers a paralyzing jolt of electricity.
 Dialogue: 10,0:03:44.00,0:03:47.12,Main,Dot,0,0,0,,I see... So they’re Maggyo traps.
 Dialogue: 10,0:03:49.54,0:03:50.50,Main,Dot,0,0,0,,What is it?
 Dialogue: 10,0:03:54.38,0:03:56.80,Main,Dot,0,0,0,,That’s ridiculously fast \N for a Maggyo!

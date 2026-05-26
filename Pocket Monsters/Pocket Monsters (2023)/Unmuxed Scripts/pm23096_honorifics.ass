@@ -117,7 +117,7 @@ Dialogue: 10,0:07:34.35,0:07:36.14,Main,Roy,0,0,0,,Let’s ask that man!
 Dialogue: 10,0:07:36.14,0:07:37.69,Main,Roy,0,0,0,,Excuse me!
 Dialogue: 10,0:07:40.06,0:07:41.77,Main,Ult,0,0,0,,Where’s the black Rekkuuza?!
 Dialogue: 10,0:07:41.77,0:07:42.94,Main,Man,0,0,0,,Huh?!
-Dialogue: 10,0:07:42.94,0:07:47.32,Main,Roy,0,0,0,,It was sighted in this area. \N Would you know anything about that?
+Dialogue: 10,0:07:42.94,0:07:47.32,Main,Roy,0,0,0,,He was sighted in this area. \N Would you know anything about that?
 Dialogue: 10,0:07:47.32,0:07:49.74,Main,Man,0,0,0,,No, doesn’t ring a bell.
 Dialogue: 10,0:07:49.74,0:07:54.58,Main,Man,0,0,0,,{\q2}More importantly, the Dragon Biker Gang \N hangs around this area, so be careful.{dragon bakusoudan}
 Dialogue: 10,0:07:54.95,0:07:56.58,Main,Liko,0,0,0,,The Dragon Biker Gang...?{dragon bakusoudan}
@@ -151,7 +151,7 @@ Dialogue: 10,0:09:19.33,0:09:22.58,Main,Dorara,0,0,0,,We don’t know nothin’ 
 Dialogue: 10,0:09:22.58,0:09:25.09,Main,Roy,0,0,0,,Huh? Did you say “black” Rekkuuza?
 Dialogue: 10,0:09:25.09,0:09:25.92,Main,Neki,0,0,0,,You fool!
 Dialogue: 10,0:09:25.92,0:09:26.84,Main,Dorara,0,0,0,,Whoops!
-Dialogue: 10,0:09:26.84,0:09:28.51,Main,Liko,0,0,0,,Do you know something about it?
+Dialogue: 10,0:09:26.84,0:09:28.51,Main,Liko,0,0,0,,Do you know something about him?
 Dialogue: 10,0:09:28.51,0:09:31.09,Main,Liko,0,0,0,,We’re searching for \N the black Rekkuuza!
 Dialogue: 10,0:09:31.09,0:09:33.09,Main,Dora,0,0,0,,We {\i1}said{\i0} we don’t know nothin’!
 Dialogue: 10,0:09:33.09,0:09:35.97,Main,Roy,0,0,0,,We’re the black Rekkuuza’s friends!
@@ -178,10 +178,10 @@ Dialogue: 10,0:10:28.86,0:10:29.90,Main,Neki,0,0,0,,Ride on!
 Dialogue: 10,0:10:29.90,0:10:30.90,Main,Dorarara,0,0,0,,Ride on!
 Dialogue: 10,0:10:33.99,0:10:35.11,Main,Roy,0,0,0,,Lucario, dodge it!
 Dialogue: 10,0:10:36.70,0:10:39.62,Main,Liko,0,0,0,,We just want to see \N the black Rekkuuza!
-Dialogue: 10,0:10:39.62,0:10:41.79,Main,Liko,0,0,0,,If you know something about it, \N please tell us!
-Dialogue: 10,0:10:41.79,0:10:43.25,Main,Neki,0,0,0,,See it to do what?
-Dialogue: 10,0:10:43.25,0:10:45.62,Main,Ult,0,0,0,,What else? I’m gonna obtain it!{obtain line}
-Dialogue: 10,0:10:45.62,0:10:47.25,Main,Neki,0,0,0,,Obtain it to do what?!{obtain line}
+Dialogue: 10,0:10:39.62,0:10:41.79,Main,Liko,0,0,0,,If you know something about him, \N please tell us!
+Dialogue: 10,0:10:41.79,0:10:43.25,Main,Neki,0,0,0,,See him to do what?
+Dialogue: 10,0:10:43.25,0:10:45.62,Main,Ult,0,0,0,,What else? I’m gonna obtain him!{obtain line}
+Dialogue: 10,0:10:45.62,0:10:47.25,Main,Neki,0,0,0,,Obtain him to do what?!{obtain line}
 Dialogue: 10,0:10:47.25,0:10:49.67,Main,Ult,0,0,0,,I’m gonna become the mega-strongest!
 Dialogue: 10,0:10:49.67,0:10:51.67,Main,Ult,0,0,0,,Yamirami! Hell Thrust!
 Dialogue: 10,0:10:54.30,0:10:58.26,Main,Ult,0,0,0,,Hmph!{090} I can handle \N {\i1}these{\i0} three all on my own! {Leaving a note here to be sure not to change this to "these guys". I initially did that, but then it seemed too close to the girl reveal and felt like a bit of an unintended joke -ed}
@@ -265,7 +265,7 @@ Dialogue: 10,0:16:53.58,0:16:54.95,Main,Dorarara,0,0,0,,Thanks.{repetition}
 Dialogue: 10,0:16:56.87,0:16:57.70,Main,Liko,0,0,0,,Wait!
 Dialogue: 10,0:16:58.96,0:17:01.21,Main,Liko,0,0,0,,If you know something, \N please tell us!
 Dialogue: 10,0:17:01.21,0:17:05.55,Main,Liko,0,0,0,,The black Rekkuuza \N saved us one year ago!
-Dialogue: 10,0:17:05.55,0:17:07.01,Main,Liko,0,0,0,,And we haven’t seen it since!
+Dialogue: 10,0:17:05.55,0:17:07.01,Main,Liko,0,0,0,,And we haven’t seen him since!
 Dialogue: 10,0:17:07.01,0:17:08.26,Main,Neki,0,0,0,,One year ago...
 Dialogue: 10,0:17:09.59,0:17:12.97,Main,Liko,0,0,0,,Please tell us anything you know, \N no matter how small!
 Dialogue: 10,0:17:16.77,0:17:18.27,Main,Dorarara,0,0,0,,Dazzling!
@@ -281,10 +281,10 @@ Dialogue: 10,0:17:40.75,0:17:43.04,Main,Ult,0,0,0,,Hold— Wait!
 Dialogue: 10,0:18:02.39,0:18:03.69,Main,Liko,0,0,0,,Rekkuuza!
 Dialogue: 10,0:18:09.61,0:18:10.99,Main,Dora,0,0,0,,Is this for real...?
 Dialogue: 10,0:18:10.99,0:18:13.11,Main,Dorara,0,0,0,,Rekkuuza woke up...
-Dialogue: 10,0:18:16.24,0:18:17.99,Main,Roy,0,0,0,,Looks like it’s okay!
+Dialogue: 10,0:18:16.24,0:18:17.99,Main,Roy,0,0,0,,Looks like he’s okay!
 Dialogue: 10,0:18:17.99,0:18:21.25,Main,Liko,0,0,0,,I’m relieved... Just so relieved!
-Dialogue: 10,0:18:21.25,0:18:24.79,Main,Neki,0,0,0,,It arrived at this shrine one year ago.
-Dialogue: 10,0:18:25.13,0:18:28.17,Main,Neki,0,0,0,,It’s been sleeping here ever since.
+Dialogue: 10,0:18:21.25,0:18:24.79,Main,Neki,0,0,0,,He arrived at this shrine one year ago.
+Dialogue: 10,0:18:25.13,0:18:28.17,Main,Neki,0,0,0,,He’s been sleeping here ever since.
 Dialogue: 10,0:18:28.17,0:18:29.38,Main,Liko,0,0,0,,What is this?
 Dialogue: 10,0:18:29.38,0:18:33.97,Main,Dora,0,0,0,,A shrine for Dragon-type Pokémon \N to refresh their energy at.
 Dialogue: 10,0:18:33.97,0:18:38.81,Main,Dorara,0,0,0,,{\q2}We spread rumors about how anyone \N who comes near this place will have a bad time...
@@ -316,12 +316,12 @@ Dialogue: 10,0:19:57.55,0:20:02.26,Main,Ult,0,0,0,,Got it? If you wanna be {\i1}
 Dialogue: 10,0:20:02.26,0:20:05.81,Main,Ult,0,0,0,,I’m gonna get way, {\i1}way{\i0} stronger, too!
 Dialogue: 10,0:20:11.19,0:20:13.90,Main,Liko,0,0,0,,Please take good care of Rekkuuza.{yoroshiku}
 Dialogue: 10,0:20:13.90,0:20:15.40,Main,Neki,0,0,0,,Leave it to us!
-Dialogue: 10,0:20:15.40,0:20:18.66,Main,Neki,0,0,0,,We swear on our capes \N that we’ll keep it safe!
+Dialogue: 10,0:20:15.40,0:20:18.66,Main,Neki,0,0,0,,We swear on our capes \N that we’ll keep him safe!
 Dialogue: 10,0:20:18.66,0:20:19.78,Main,Neki,0,0,0,,Ride on!
 Dialogue: 10,0:20:19.78,0:20:21.16,Main,Dorarara,0,0,0,,Ride on!
 Dialogue: 10,0:20:23.16,0:20:26.71,Main,Dragons,0,0,0,,Honk-honk! Honk-honk! \N Honk-honk! Honk-honk!
 Dialogue: 10,0:20:27.46,0:20:29.17,Main,Dot,0,0,0,,Really...?!
-Dialogue: 10,0:20:29.17,0:20:31.84,Main,Roy,0,0,0,,But I’m sure it’ll get better.
+Dialogue: 10,0:20:29.17,0:20:31.84,Main,Roy,0,0,0,,But I’m sure he’ll get better.
 Dialogue: 10,0:20:31.84,0:20:33.46,Main,Liko,0,0,0,,What should we do now?
 Dialogue: 10,0:20:33.46,0:20:34.80,Main,Dot,0,0,0,,How about going to Paldea?
 Dialogue: 10,0:20:35.30,0:20:36.34,Main,Roy,0,0,0,,Paldea?

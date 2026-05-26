@@ -308,8 +308,8 @@ Dialogue: 10,0:19:06.50,0:19:08.21,Main,Dot,0,0,0,,“If only it was still aroun
 Dialogue: 10,0:19:08.21,0:19:10.67,Main,Dot,0,0,0,,So you mean the Brave Asagi \N {\i1}isn’t{\i0} around anymore?!
 Dialogue: 10,0:19:10.67,0:19:12.84,Main,Murdock,0,0,0,,Y-Yeah...
 Dialogue: 10,0:19:12.84,0:19:14.09,Main,Liko,0,0,0,,What do you mean?
-Dialogue: 10,0:19:14.80,0:19:16.09,Main,Murdock,0,0,0,,Did I neglect to mention?
-Dialogue: 10,0:19:16.09,0:19:17.59,Main,Kids,0,0,0,,Mention what exactly?!
+Dialogue: 10,0:19:14.80,0:19:16.09,Main,Murdock,0,0,0,,Didn’t I mention?{Friede catchphrase}
+Dialogue: 10,0:19:16.09,0:19:17.59,Main,Kids,0,0,0,,{\i1}Seriously, mention what?!{\i1}
 Dialogue: 10,0:19:17.59,0:19:19.81,Main,Murdock,0,0,0,,Oh, when we split up...
 Dialogue: 10,0:19:19.81,0:19:23.35,Main,Murdock,0,0,0,,Orio said she was going to \N dismantle the Brave Asagi.
 Dialogue: 10,0:19:23.35,0:19:24.98,Main,Kids,0,0,0,,{\i1}Huh?!{\i0}

@@ -178,7 +178,7 @@ Dialogue: 10,0:13:44.97,0:13:46.64,Main,Roy,0,0,0,,Lucario! Metal Claw!
 Dialogue: 10,0:13:54.31,0:13:55.86,Main,Roy,0,0,0,,Finish it off with Infight!
 Dialogue: 10,0:14:03.32,0:14:07.66,Main,Dot,0,0,0,,Thanks to Mega Evolution, \N their attack and speed have gone up dramatically...
 Dialogue: 10,0:14:07.66,0:14:09.50,Main,Dot,0,0,0,,...and now their moves \N can pierce through!
-Dialogue: 10,0:14:09.87,0:14:11.87,Main,Liko,0,0,0,,So that’s... Mega Evolution...!{need some TLC feedback as to whether this should sound like "Oh, so that's... Mega Evolution... [which I've heard about but not seen]!" and "Woah, so that crazy thing I just witnessed and didn't know about previously... is called Mega Evolution...!"}
+Dialogue: 10,0:14:09.87,0:14:11.87,Main,Liko,0,0,0,,So that’s... Mega Evolution...!
 Dialogue: 10,0:14:14.71,0:14:16.25,Main,Ult,0,0,0,,Good going! Now, Eerie Light!
 Dialogue: 10,0:14:28.93,0:14:29.93,Main,Ult,0,0,0,,Power Gem!
 Dialogue: 10,0:14:36.11,0:14:37.44,Main,Liko,0,0,0,,Amazing...
@@ -229,8 +229,8 @@ Dialogue: 10,0:18:50.17,0:18:54.09,Main,Gurumin,0,0,0,,Comin’ in for a min? \N
 Dialogue: 10,0:18:54.09,0:18:56.41,Main,Gurumin,0,0,0,,Hey, have you heard of \N Mega Evolution?
 Dialogue: 10,0:18:56.41,0:18:59.49,Main,Gurumin,0,0,0,,A phenomenon only observed \N in certain Pokémon...
 Dialogue: 10,0:18:59.95,0:19:03.66,Main,Gurumin,0,0,0,,I’m talking about evolution \N that transcends evolution: Mega Evolution!
-Dialogue: 10,0:19:03.66,0:19:07.51,Main,Gurumin,0,0,0,,By temporarily releasing \N a Pokémon’s latent power,
-Dialogue: 10,0:19:07.51,0:19:10.62,Main,Gurumin,0,0,0,,it can unleash power \N beyond the limits of evolution!
+Dialogue: 10,0:19:03.66,0:19:07.51,Main,Gurumin,0,0,0,,By temporarily unleashing \N a Pokémon’s latent power,
+Dialogue: 10,0:19:07.51,0:19:10.62,Main,Gurumin,0,0,0,,it can exert power \N beyond the limits of evolution!
 Dialogue: 10,0:19:10.62,0:19:15.59,Main,Gurumin,0,0,0,,Necessary for Mega Evolution \N are items bestowed only upon the chosen...
 Dialogue: 10,0:19:15.59,0:19:17.97,Main,Gurumin,0,0,0,,A Key Stone and a Mega Stone!
 Dialogue: 10,0:19:17.97,0:19:22.06,Main,Gurumin,0,0,0,,And most important of all is the bond \N between Pokémon and trainer!
@@ -247,7 +247,7 @@ Dialogue: 10,0:19:50.84,0:19:51.84,Main,Roy,0,0,0,,“But”...?
 Dialogue: 10,0:19:52.50,0:19:55.02,Main,Ult,0,0,0,,The black Rekkuuza... \N belongs to {\i1}me!{\i0}{090}
 Dialogue: 10,0:19:56.22,0:19:58.34,Main,Liko,0,0,0,,Huh? The black Rekkuuza?
 Dialogue: 10,0:19:58.70,0:20:01.22,Main,Ult,0,0,0,,Well now! \N I am ever so glad you asked!{abnormally polite/dramatic wording}
-Dialogue: 10,0:20:01.01,0:20:06.33,Main,Ult,0,0,0,,{\an8}Indeed... To me, \N it’s the mega-strongest of the strongest,
+Dialogue: 10,0:20:01.01,0:20:06.33,Main,Ult,0,0,0,,{\an8}Indeed... To me, \N he’s the mega-strongest of the strongest,
 Dialogue: 10,0:20:06.33,0:20:08.05,Main,Ult,0,0,0,,{\an8}a super-mega-mega-mega-...{bg line}
 Dialogue: 10,0:20:03.97,0:20:05.08,Main,Liko,0,0,0,,Huh? Should we really...?
 Dialogue: 10,0:20:05.08,0:20:07.26,Main,Roy,0,0,0,,He gets annoying \N when he’s all fired up.

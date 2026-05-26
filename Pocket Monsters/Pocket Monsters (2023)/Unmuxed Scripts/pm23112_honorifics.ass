@@ -51,7 +51,7 @@ Dialogue: 10,0:02:00.60,0:02:03.39,Main,Dot,0,0,10,,You’d never guess \N they 
 Dialogue: 9,0:02:00.60,0:02:01.02,Main,Outlined line,0,0,10,,{\fad(0,316)\blur3\bord9\3c&HF6FBF6&}Yo{\alpha&HFF&}u’d never guess \N {\alpha&H00&}they trained with e{\alpha&HFF&}ach other...
 Dialogue: 10,0:02:06.11,0:02:09.36,Main,Liko,0,0,0,,How did you end up \N meeting Lucario, Roy?
 Dialogue: 10,0:02:09.36,0:02:11.32,Main,Dot,0,0,0,,I guess we never asked, \N come to think of it.
-Dialogue: 10,0:02:11.32,0:02:14.16,Main,Roy,0,0,0,,Huh? Did I forget to mention?{Friede catchphrase}
+Dialogue: 10,0:02:11.32,0:02:14.16,Main,Roy,0,0,0,,Huh? Didn’t I ever mention?{Variation of Friede's catchphrase}
 Dialogue: 10,0:02:14.16,0:02:17.91,Main,Roy,0,0,0,,One year ago, \N the Rising Voltteccers disbanded...
 Dialogue: 9,0:02:15.53,0:02:17.91,Main,Outlined line,0,0,0,,{\fad(314,0)\blur3\bord9\3c&HF6FBF6&\alpha&HFF&}One year ago, \N the Rising Vol{\alpha&H00&}tteccers disbanded...
 Dialogue: 10,0:02:17.91,0:02:21.58,Main,Roy,0,0,0,,...and I set out on a journey \N with Achigator, Taikaiden, and Cap.
@@ -345,9 +345,9 @@ Dialogue: 10,0:20:22.78,0:20:25.25,Main,Roy,0,0,0,,But why does this place \N ha
 Comment: 10,0:20:30.75,0:20:31.67,Main,Roy Ult,0,0,0,,Ah!
 Dialogue: 10,0:20:35.67,0:20:36.63,Main,Ult,0,0,0,,Who’s that?
 Dialogue: 10,0:20:36.63,0:20:38.30,Main,Roy,0,0,0,,Is that a Lucario?{Dread Lucario}
-Dialogue: 10,0:20:40.68,0:20:44.39,Main,Rotom,0,0,0,,Lucario. Guiding Waves Pokémon. \N Fighting/Steel type.
-Dialogue: 10,0:20:44.39,0:20:48.19,Main,Rotom,0,0,0,,{\q2}It can use Guiding Waves to see the forms of others \N in places that are out of sight,
-Dialogue: 10,0:20:48.19,0:20:51.06,Main,Rotom,0,0,0,,as well as to detect \N what its foes are feeling.{Not a game dex entry, though vaguely resembles a mishmash of Scarlet + Violet + more words}
+Dialogue: 10,0:20:40.68,0:20:44.39,Main,Smartphone Rotom,0,0,0,,Lucario. Guiding Waves Pokémon. \N Fighting/Steel type.
+Dialogue: 10,0:20:44.39,0:20:48.19,Main,Smartphone Rotom,0,0,0,,{\q2}It can use Guiding Waves to see the forms of others \N in places that are out of sight,
+Dialogue: 10,0:20:48.19,0:20:51.06,Main,Smartphone Rotom,0,0,0,,as well as to detect \N what its foes are feeling.{Not a game dex entry, though vaguely resembles a mishmash of Scarlet + Violet + more words}
 Dialogue: 10,0:20:51.06,0:20:53.48,Main,Roy,0,0,0,,An alternate-color \N yellow Lucario...
 Comment: 10,0:21:03.12,0:21:04.20,Main,Roy,0,0,0,,Ahh...
 Dialogue: 10,0:21:07.70,0:21:08.33,Main,Ult,0,0,0,,It’s fast!{Dread Lucario}

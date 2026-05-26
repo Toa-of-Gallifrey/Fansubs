@@ -89,7 +89,7 @@ Dialogue: 10,0:05:00.61,0:05:02.16,Main,Liko,0,0,0,,Oh, “staff” isn’t quit
 Dialogue: 10,0:05:02.16,0:05:03.83,Main,Nyabby,0,0,0,,I knew it the moment I saw you!
 Dialogue: 10,0:05:03.83,0:05:07.12,Main,Nyabby,0,0,0,,We don’t get many tourists \N ‘round here, after all.
 Dialogue: 10,0:05:07.50,0:05:10.50,Main,Roy,0,0,0,,Nyabbyfan-san. \N You saw the black Rekkuuza, didn’t you?
-Dialogue: 10,0:05:11.50,0:05:15.21,Main,Roy,0,0,0,,You said it was flying through the sky. \N Please tell us more!
+Dialogue: 10,0:05:11.50,0:05:15.21,Main,Roy,0,0,0,,You said it was flying through the sky. \N Please tell us more!{Intentional "it" because it's something Nyabbyfan said.}
 Dialogue: 10,0:05:15.21,0:05:16.21,Main,Nyabby,0,0,0,,Wait!
 Dialogue: 10,0:05:16.21,0:05:17.92,Main,Nyabby,0,0,0,,Before all that, \N what about Gurumin?
 Dialogue: 10,0:05:17.92,0:05:19.38,Main,Nyabby,0,0,0,,Where’s Gurumin?!
@@ -127,7 +127,7 @@ Dialogue: 10,0:06:37.42,0:06:39.17,Main,Nyabby,0,0,0,,That’s...!
 Dialogue: 10,0:06:39.17,0:06:40.05,Main,Nyabby,0,0,0,,...s-some... some...
 Dialogue: 10,0:06:40.05,0:06:41.42,Main,Gurumin,0,0,0,,Huh?
 Dialogue: 10,0:06:42.01,0:06:45.18,Main,Nyabby,0,0,0,,...something I’d gladly do \N for Gurumin!
-Dialogue: 10,0:06:50.85,0:06:53.18,Main,Roy,0,0,0,,Dodorio, huh?
+Dialogue: 10,0:06:50.85,0:06:53.18,Main,Roy,0,0,0,,Dodrio, huh?
 Dialogue: 10,0:06:53.18,0:06:55.48,Main,Roy,0,0,0,,This feels pretty nice.
 Dialogue: 10,0:06:56.52,0:06:57.56,Main,Roy,0,0,0,,And what’s that...?
 Dialogue: 10,0:06:59.36,0:07:00.90,Main,Roy,0,0,0,,An Onidrill!
@@ -150,16 +150,16 @@ Dialogue: 10,0:08:05.59,0:08:06.05,Main,Nyabby,0,0,0,,Wha—?!
 Dialogue: 10,0:08:06.05,0:08:08.63,Main,Nyabby,0,0,0,,U-Uh... Right...
 Dialogue: 10,0:08:08.63,0:08:10.34,Main,Nyabby,0,0,0,,Now just where was it...?
 Dialogue: 10,0:08:10.34,0:08:13.43,Main,Nyabby,0,0,0,,There aren’t exactly any landmarks \N out here, so it’s hard to say...
-Dialogue: 10,0:08:13.43,0:08:16.14,Main,Roy,0,0,0,,I hope it’s still nearby.
+Dialogue: 10,0:08:13.43,0:08:16.14,Main,Roy,0,0,0,,I hope he’s still nearby.
 Dialogue: 10,0:08:16.52,0:08:19.81,Main,Roy,0,0,0,,Nyabbyfan-san, what were you doing \N when you saw the black Rekkuuza?
 Dialogue: 10,0:08:19.81,0:08:23.23,Main,Nyabby,0,0,0,,What was I doing? \N Uh, nothing particularly special...
 Dialogue: 10,0:08:24.32,0:08:27.90,Main,Nyabby,0,0,0,,And besides, why do ya wanna \N find the black Rekkuuza so badly?
-Dialogue: 10,0:08:27.90,0:08:29.41,Main,Roy,0,0,0,,I wanna catch it.
-Dialogue: 10,0:08:29.41,0:08:30.11,Main,Nyabby,0,0,0,,Catch it?!
+Dialogue: 10,0:08:27.90,0:08:29.41,Main,Roy,0,0,0,,I wanna catch him.
+Dialogue: 10,0:08:29.41,0:08:30.11,Main,Nyabby,0,0,0,,Catch him?!
 Dialogue: 10,0:08:30.57,0:08:33.20,Main,Roy,0,0,0,,The black Rekkuuza is my dream.
-Dialogue: 10,0:08:33.20,0:08:36.62,Main,Roy,0,0,0,,I’ve been pursuing it ever since \N I joined the Rising Voltteccers...
-Dialogue: 10,0:08:36.62,0:08:41.13,Main,Roy,0,0,0,,...and I even earned its approval at one point, \N but then we got separated...
-Dialogue: 10,0:08:41.13,0:08:42.21,Main,Roy,0,0,0,,So I wanna find it again—
+Dialogue: 10,0:08:33.20,0:08:36.62,Main,Roy,0,0,0,,I’ve been pursuing him ever since \N I joined the Rising Voltteccers...
+Dialogue: 10,0:08:36.62,0:08:41.13,Main,Roy,0,0,0,,...and I even earned his approval at one point, \N but then we got separated...
+Dialogue: 10,0:08:41.13,0:08:42.21,Main,Roy,0,0,0,,So I wanna find him again—
 Dialogue: 10,0:08:42.21,0:08:44.63,Main,Nyabby,0,0,0,,The Rising Voltteccers?
 Dialogue: 10,0:08:45.05,0:08:46.63,Main,Nyabby,0,0,0,,You’re with {\i1}them?{\i0}
 Dialogue: 10,0:08:51.39,0:08:54.22,Main,Nyabby,0,0,0,,I’ve got nothing to say to bad guys!
@@ -240,9 +240,9 @@ Dialogue: 10,0:14:58.04,0:14:59.67,Main,Roy,0,0,0,,I was gonna get ahead of you.
 Dialogue: 10,0:15:00.17,0:15:03.17,Main,Roy,0,0,0,,...and catch \N the black Rekkuuza first...
 Dialogue: 10,0:15:03.72,0:15:05.88,Main,Roy,0,0,0,,Were you following us again?
 Dialogue: 10,0:15:05.88,0:15:09.10,Main,Ult,0,0,0,,Never mind that! \N This is mega-not good!
-Dialogue: 10,0:15:13.06,0:15:14.18,Main,Liko,0,0,0,,Dodorio?!
+Dialogue: 10,0:15:13.06,0:15:14.18,Main,Liko,0,0,0,,Dodrio?!
 Dialogue: 10,0:15:23.90,0:15:26.07,Main,Ult,0,0,0,,I... guess I just \N made ‘em mad somehow.
-Dialogue: 10,0:15:26.74,0:15:29.32,Main,Nyabby,0,0,0,,Over that way \N is Dodorio territory.
+Dialogue: 10,0:15:26.74,0:15:29.32,Main,Nyabby,0,0,0,,Over that way \N is Dodrio territory.
 Dialogue: 10,0:15:29.32,0:15:31.03,Main,Roy,0,0,0,,Meaning that...
 Dialogue: 10,0:15:31.03,0:15:32.87,Main,Ult,0,0,0,,I didn’t know!
 Dialogue: 10,0:15:32.87,0:15:33.83,Main,Ult,0,0,0,,Oh, and...
