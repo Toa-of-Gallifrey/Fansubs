@@ -262,7 +262,7 @@ Dialogue: 10,0:20:56.52,0:21:00.15,Main,Narrator,0,0,0,,Satoshi and Lucario’s 
 Dialogue: 10,0:21:01.19,0:21:07.28,Main,Narrator,0,0,0,,...is sure to have a great impact on their upcoming \N Pokémon World Championships Hyper Class battles.
 Dialogue: 10,0:21:10.87,0:21:13.00,Main,Satoshi,0,0,0,,Let’s get stronger, Lucario!
 Dialogue: 10,0:21:24.01,0:21:27.68,Main,Satoshi,0,0,0,,My next opponent in \N the Hyper Class’s been decided!
-Dialogue: 10,0:21:29.06,0:21:31.06,Main,Go,0,0,0,,Ms. Saito{Honorifics note: Saito-san}?!
+Dialogue: 10,0:21:29.06,0:21:31.06,Main,Go,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san}?!
 Dialogue: 10,0:21:32.06,0:21:34.31,Main,Go,0,0,0,,A third battle, huh...?
 Dialogue: 10,0:21:34.31,0:21:35.98,Main,Satoshi,0,0,0,,I’ll beat her this time!
 Dialogue: 10,0:21:35.98,0:21:39.27,Main,Satoshi,0,0,0,,Let’s settle the score, Lucario!
@@ -270,7 +270,7 @@ Comment: 10,0:21:44.53,0:21:44.53,Main,,0,0,0,,{Bend the spoons to reveal Uri...
 Comment: 10,0:23:05.53,0:23:05.53,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.20,0:23:09.61,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.61,0:23:10.91,Main,Go,0,0,0,,Go!
-Dialogue: 10,0:23:11.45,0:23:15.87,Main,Satoshi,0,0,0,,My next Hyper Class opponent \N is Saito, once again!{none of these lines are in the episode except for the last one}
+Dialogue: 10,0:23:11.45,0:23:15.87,Main,Satoshi,0,0,0,,My next Hyper Class opponent \N is Saitou, once again!{none of these lines are in the episode except for the last one}
 Dialogue: 10,0:23:16.62,0:23:18.21,Main,Go,0,0,0,,This is your third battle.
 Dialogue: 10,0:23:18.21,0:23:20.96,Main,Go,0,0,0,,And the battlefield is in Galar.
 Dialogue: 10,0:23:20.96,0:23:23.21,Main,Go,0,0,0,,She might even use Kyodaimax!
@@ -278,7 +278,7 @@ Dialogue: 10,0:23:23.21,0:23:24.00,Main,Satoshi,0,0,0,,Yeah.
 Dialogue: 10,0:23:24.00,0:23:26.59,Main,Satoshi,0,0,0,,But we’ve got \N Mega Evolution on our side!
 Dialogue: 10,0:23:26.59,0:23:28.80,Main,Satoshi,0,0,0,,Lucario, let’s go!{18:51}
 Dialogue: 10,0:23:28.80,0:23:30.34,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:23:30.72,0:23:33.93,Main,Go,0,0,0,,The Rival Showdown! \N Satoshi VS Saito!!
+Dialogue: 10,0:23:30.72,0:23:33.93,Main,Go,0,0,0,,The Rival Showdown! \N Satoshi VS Saitou!!
 Comment: 0,0:00:29.88,0:00:29.88,Main,,0,0,0,,
 Dialogue: 0,0:03:15.43,0:03:19.43,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(275,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Shala City, Kalos Region
 Dialogue: 0,0:07:19.46,0:07:24.97,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(240,600)\fad(438,0)\3c&H33312C&\c&HFFFFFF&\blur0.5}Mega Island, Kalos Region
@@ -855,8 +855,8 @@ Dialogue: 0,0:10:10.59,0:10:15.51,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.35,0:23:35.48,Episode titles,,0,0,0,,{\pos(423.81,104.33)}The Rival Showdown!
 Dialogue: 0,0:23:30.35,0:23:35.48,Episode titles 2,,0,0,0,,{\pos(423.81,104.33)}The Rival Showdown!
-Dialogue: 1,0:23:30.35,0:23:35.48,Episode titles,,0,0,0,,{\pos(772.44,434.11)}Satoshi VS Saito!!
-Dialogue: 0,0:23:30.35,0:23:35.48,Episode titles 2,,0,0,0,,{\pos(772.44,434.11)}Satoshi VS Saito!!
+Dialogue: 1,0:23:30.35,0:23:35.48,Episode titles,,0,0,0,,{\pos(772.44,434.11)}Satoshi VS Saitou!!
+Dialogue: 0,0:23:30.35,0:23:35.48,Episode titles 2,,0,0,0,,{\pos(772.44,434.11)}Satoshi VS Saitou!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 2,0:21:55.75,0:21:58.55,ED,,0,0,0,,{\fad(200,0)}Water is super effective on Ground!
 Dialogue: 1,0:21:55.75,0:21:58.55,EDp2,,0,0,0,,{\fad(200,0)}Water is super effective on Ground!
@@ -1038,13 +1038,13 @@ Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 0,0:22:35.92,0:22:37.88,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HCEA401&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Dragon
 Dialogue: 0,0:22:38.92,0:22:40.55,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&HC0C15B&\fscx20\fscy20\t(0, 290, \fscx62.5\fscy62.5)\t(1351, 1630, \fscx0\fscy0)}Ice
 Dialogue: 0,0:22:41.38,0:22:42.93,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&H888684&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1231,1540,\fscx0\fscy0)}Steel
-Dialogue: 0,0:22:44.09,0:22:44.72,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Psychic
-Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.84,0:22:44.89,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.89,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Psychic
-Comment: 0,0:22:44.93,0:22:44.97,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Psychic
+Dialogue: 0,0:22:44.09,0:22:44.72,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Esper
+Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.84,0:22:44.89,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.89,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Esper
+Comment: 0,0:22:44.93,0:22:44.97,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Esper
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 0,0:22:45.30,0:22:45.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 72 l 279 72 l 279 114 l 136 114 {\p0}
 Dialogue: 0,0:22:45.39,0:22:45.43,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 69 l 357 69 l 357 117 l 136 117 {\p0}

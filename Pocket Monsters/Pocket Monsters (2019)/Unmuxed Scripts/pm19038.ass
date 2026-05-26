@@ -332,14 +332,14 @@ Dialogue: 10,0:23:07.30,0:23:09.72,Main,Satoshi,0,0,0,,Now, off to the next adve
 Dialogue: 10,0:23:09.72,0:23:10.97,Main,Go,0,0,0,,Go!
 Dialogue: 10,0:23:11.86,0:23:13.95,Main,Satoshi,0,0,0,,Our next adventure \N is in the Johto Region!{none of these lines seem to be in the episode}
 Dialogue: 10,0:23:13.95,0:23:15.41,Main,Go,0,0,0,,The stage is Tamba Gym!
-Dialogue: 10,0:23:15.41,0:23:17.96,Main,Satoshi,0,0,0,,It’s our rematch with Ms. Saito{Honorifics note: Saito-san}!
+Dialogue: 10,0:23:15.41,0:23:17.96,Main,Satoshi,0,0,0,,It’s our rematch with Ms. Saitou{Honorifics note: Saitou-san}!
 Dialogue: 10,0:23:17.96,0:23:20.79,Main,Satoshi,0,0,0,,I got back into the Super Class!
 Dialogue: 10,0:23:20.79,0:23:22.30,Main,Satoshi,0,0,0,,Please battle me!
 Dialogue: 10,0:23:22.30,0:23:23.75,Main,Saito,0,0,0,,I accept your challenge.
 Dialogue: 10,0:23:23.75,0:23:26.42,Main,Go,0,0,0,,How will you deal \N with that powerful Octolock?
 Dialogue: 10,0:23:26.42,0:23:28.31,Main,Satoshi,0,0,0,,Just wait and see!
 Dialogue: 10,0:23:28.97,0:23:30.63,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:23:30.96,0:23:34.27,Main,Go,0,0,0,,Satoshi Versus Saito! \N Overcome Octolock!!
+Dialogue: 10,0:23:30.96,0:23:34.27,Main,Go,0,0,0,,Satoshi Versus Saitou! \N Overcome Octolock!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:15.63,0:01:15.68,Logo - Fill,,0,0,0,,{\pos(430,214)\fscx82\fscy82\fsp-40\blur0.75\bord3\3c&H5A5856&\c&HC98000&\1a&HFF&\clip(155,147.5,946,466)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:01:15.68,0:01:15.97,Logo - Fill,,0,0,0,,{\pos(430,214)\fscx82\fscy82\fsp-40\blur0.75\bord3\3c&H5A5856&\c&HC98000&\1a&HFF&}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -916,8 +916,8 @@ Dialogue: 1,0:10:52.63,0:10:57.55,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}
 Dialogue: 0,0:10:52.63,0:10:57.55,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&H0B4266&}m 0 0 m 860 640 l 1020 640 l 1020 683 l 860 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:23:30.63,0:23:35.51,Episode titles,,0,0,0,,{\pos(510,105)}Satoshi Versus Saito!
-Dialogue: 0,0:23:30.63,0:23:35.51,Episode titles 2,,0,0,0,,{\pos(510,105)}Satoshi Versus Saito!
+Dialogue: 1,0:23:30.63,0:23:35.51,Episode titles,,0,0,0,,{\pos(510,105)}Satoshi Versus Saitou!
+Dialogue: 0,0:23:30.63,0:23:35.51,Episode titles 2,,0,0,0,,{\pos(510,105)}Satoshi Versus Saitou!
 Dialogue: 1,0:23:30.63,0:23:35.51,Episode titles,,0,0,0,,{\pos(780,443)}Overcome Octolock!!
 Dialogue: 0,0:23:30.63,0:23:35.51,Episode titles 2,,0,0,0,,{\pos(780,443)}Overcome Octolock!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -950,7 +950,7 @@ Dialogue: 0,0:22:27.78,0:22:28.43,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.43,0:22:29.20,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.20,0:22:30.02,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:30.02,0:22:30.74,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.74,0:22:31.52,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.74,0:22:31.52,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.52,0:22:32.24,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.24,0:22:33.06,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:33.06,0:22:33.81,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

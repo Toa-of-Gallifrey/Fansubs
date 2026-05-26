@@ -559,13 +559,13 @@ Comment: 0,0:00:00.56,0:00:00.56,Main,,0,0,0,,
 Dialogue: 0,0:22:35.92,0:22:37.88,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HCEA401&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Dragon
 Dialogue: 0,0:22:38.92,0:22:40.55,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&HC0C15B&\fscx20\fscy20\t(0, 290, \fscx62.5\fscy62.5)\t(1351, 1630, \fscx0\fscy0)}Ice
 Dialogue: 0,0:22:41.38,0:22:42.92,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&H888684&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1231,1540,\fscx0\fscy0)}Steel
-Dialogue: 0,0:22:44.09,0:22:44.72,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Psychic
-Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.84,0:22:44.88,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.88,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Psychic
-Comment: 0,0:22:44.93,0:22:44.97,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Psychic
+Dialogue: 0,0:22:44.09,0:22:44.72,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Esper
+Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.84,0:22:44.88,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.88,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Esper
+Comment: 0,0:22:44.93,0:22:44.97,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Esper
 Comment: 0,0:00:00.56,0:00:00.56,Main,,0,0,0,,
 Dialogue: 0,0:22:45.30,0:22:45.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 72 l 279 72 l 279 114 l 136 114 {\p0}
 Dialogue: 0,0:22:45.39,0:22:45.43,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 69 l 357 69 l 357 117 l 136 117 {\p0}

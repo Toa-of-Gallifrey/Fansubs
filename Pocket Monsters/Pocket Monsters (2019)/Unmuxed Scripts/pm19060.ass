@@ -875,7 +875,7 @@ Comment: 0,0:00:18.99,0:00:18.99,Main,,0,0,0,,
 Dialogue: 0,0:11:47.60,0:11:52.52,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1130,561}Ellade
 Dialogue: 1,0:11:47.60,0:11:52.52,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Fighting
 Dialogue: 0,0:11:47.60,0:11:52.52,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&H2A78D8&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
-Dialogue: 1,0:11:47.60,0:11:52.52,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Psychic
+Dialogue: 1,0:11:47.60,0:11:52.52,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Esper
 Dialogue: 0,0:11:47.60,0:11:52.52,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HB362AE&}m 0 0 m 860 640 l 1020 640 l 1020 683 l 860 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.30,0:23:35.43,Episode titles,,0,0,0,,{\pos(384.773,128.747)}There’s Zero Problems We Can’t Solve!

@@ -51,7 +51,7 @@ Dialogue: 10,0:00:40.42,0:00:41.72,Main,Satoshi,0,0,0,,That sounds great!
 Dialogue: 10,0:00:42.85,0:00:43.98,Main,Go,0,0,0,,All right...
 Dialogue: 10,0:00:50.73,0:00:52.91,Main,Go,0,0,0,,Yeah!
 Dialogue: 10,0:00:52.91,0:00:56.36,Main,Rotom Go Ver,0,0,0,,Nasshi’s data will be \N added to the Index!
-Dialogue: 10,0:00:56.36,0:01:00.59,Main,Rotom Go Ver,0,0,0,,Nasshi! Coconut Pokémon! \N Grass/Psychic type!
+Dialogue: 10,0:00:56.36,0:01:00.59,Main,Rotom Go Ver,0,0,0,,Nasshi! Coconut Pokémon! \N Grass/Esper type!
 Dialogue: 10,0:01:00.59,0:01:02.86,Main,Rotom Go Ver,0,0,0,,It is called “The Walking \N Tropical Rainforest”!{Fire Red dex entry}
 Dialogue: 10,0:01:02.86,0:01:06.03,Main,Rotom Go Ver,0,0,0,,Its three heads think independently!{Gold dex entry}
 Dialogue: 10,0:01:06.03,0:01:09.63,Main,Rotom Go Ver,0,0,0,,However, they are friendly \N and never appear to squabble! {Gold dex entry}
@@ -992,7 +992,7 @@ Dialogue: 0,0:22:27.69,0:22:28.34,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.34,0:22:29.11,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.11,0:22:29.93,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.93,0:22:30.65,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.43,0:22:32.15,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.15,0:22:32.97,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:32.97,0:22:33.72,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

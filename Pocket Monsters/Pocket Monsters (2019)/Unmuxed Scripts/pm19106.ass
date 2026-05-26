@@ -907,15 +907,15 @@ Dialogue: 0,0:22:53.02,0:22:54.10,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c
 Dialogue: 0,0:22:54.10,0:22:54.14,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 152 157 l 253 157 l 253 186 l 152 186 {\p0}
 Dialogue: 0,0:22:54.14,0:22:54.19,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 160 165 l 216 165 l 216 179 l 160 179 {\p0}
 Dialogue: 0,0:22:54.19,0:22:54.23,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 169.5 170 l 187 170 l 187 175 l 169.5 175 {\p0}
-Dialogue: 0,0:22:52.85,0:22:52.89,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}P{\fs38}s{\fs34}y
-Dialogue: 0,0:22:52.89,0:22:52.93,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Ps{\fs38}y{\fs32}c{\fs28}h
-Dialogue: 0,0:22:52.93,0:22:52.98,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs36}i{\fs32}c
-Dialogue: 0,0:22:52.98,0:22:53.02,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs40}i{\fs38}c
-Dialogue: 0,0:22:53.02,0:22:54.06,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psychic
-Dialogue: 0,0:22:54.06,0:22:54.10,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Psychic
-Dialogue: 0,0:22:54.10,0:22:54.14,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Psychic
-Dialogue: 0,0:22:54.14,0:22:54.19,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Psychic
-Dialogue: 0,0:22:54.19,0:22:54.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Psychic
+Dialogue: 0,0:22:52.85,0:22:52.89,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}E{\fs36}s
+Dialogue: 0,0:22:52.89,0:22:52.93,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Es{\fs28}p{\fs16}e
+Dialogue: 0,0:22:52.93,0:22:52.98,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esp{\fs36}e{\fs30}r
+Dialogue: 0,0:22:52.98,0:22:53.02,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Espe{\fs38}r
+Dialogue: 0,0:22:53.02,0:22:54.06,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esper
+Dialogue: 0,0:22:54.06,0:22:54.10,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Esper
+Dialogue: 0,0:22:54.10,0:22:54.14,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Esper
+Dialogue: 0,0:22:54.14,0:22:54.19,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Esper
+Dialogue: 0,0:22:54.19,0:22:54.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Esper
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 0,0:22:51.64,0:22:53.94,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 525 508 l 678 508 l 678 541 l 505 541 {\p0}
 Dialogue: 0,0:22:53.94,0:22:53.98,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HF8C4FF&}m 0 0 m 515 509 l 585 520 l 585 555 l 504 540 {\p0}

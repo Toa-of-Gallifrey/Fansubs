@@ -213,7 +213,7 @@ Dialogue: 10,0:10:50.78,0:10:52.50,Main,Satoshi,0,0,0,,You figured it out, Go?
 Dialogue: 10,0:10:53.62,0:10:56.04,Main,Go,0,0,0,,A Pokémon that’s small, \N with a big eyeball,
 Dialogue: 10,0:10:56.04,0:10:58.26,Main,Go,0,0,0,,black, and shaped like a stick!
 Dialogue: 10,0:10:58.63,0:10:59.76,Main,Go,0,0,0,,It’s Unknown!
-Dialogue: 10,0:11:01.89,0:11:05.55,Main,You,0,0,0,,Unknown! Symbol Pokémon! \N Psychic type!
+Dialogue: 10,0:11:01.89,0:11:05.55,Main,You,0,0,0,,Unknown! Symbol Pokémon! \N Esper type!
 Dialogue: 10,0:11:05.55,0:11:07.76,Main,You,0,0,0,,When alone, nothing happens!
 Dialogue: 10,0:11:07.76,0:11:11.90,Main,You,0,0,0,,However, if there are two or more, \N an odd power emerges!{Platinum dex entry -blu}
 Dialogue: 10,0:11:11.90,0:11:15.28,Main,Shirona,0,0,0,,Unknown are Pokémon \N shaped like ancient letters.
@@ -933,7 +933,7 @@ Dialogue: 1,0:12:05.46,0:12:11.46,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\f
 Dialogue: 2,0:12:05.46,0:12:11.46,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:03:07.92,0:03:07.92,Main,,0,0,0,,
 Dialogue: 0,0:12:06.54,0:12:11.46,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1115,561}Unknown
-Dialogue: 1,0:12:06.54,0:12:11.46,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Psychic
+Dialogue: 1,0:12:06.54,0:12:11.46,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Esper
 Dialogue: 0,0:12:06.54,0:12:11.46,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HB362AE&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.31,0:23:35.44,Episode titles,,0,0,0,,{\pos(499.81,124.33)}Lucarionite!

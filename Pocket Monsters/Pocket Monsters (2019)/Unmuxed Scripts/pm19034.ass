@@ -84,7 +84,7 @@ Dialogue: 10,0:04:30.48,0:04:32.54,Main,Karate Master,0,0,0,,I did not anticipat
 Dialogue: 10,0:04:33.27,0:04:35.00,Main,Saito,0,0,0,,Referee, call it.
 Dialogue: 10,0:04:35.00,0:04:36.25,Main,Referee,0,0,0,,O-Of course!
 Dialogue: 10,0:04:37.52,0:04:39.14,Main,Referee,0,0,0,,Otosupus wins!
-Dialogue: 10,0:04:39.14,0:04:41.01,Main,Referee,0,0,0,,As such, the winner is Saito!
+Dialogue: 10,0:04:39.14,0:04:41.01,Main,Referee,0,0,0,,As such, the winner is Saitou!
 Dialogue: 10,0:04:46.75,0:04:48.63,Main,Satoshi,0,0,0,,Are you okay, Ebiwarar?
 Dialogue: 10,0:04:51.67,0:04:52.80,Main,Karate Master,0,0,0,,Ebiwarar!
 Dialogue: 10,0:04:54.13,0:04:56.69,Main,Karate Master,0,0,0,,You fought well, Ebiwarar.
@@ -104,7 +104,7 @@ Dialogue: 10,0:05:42.88,0:05:47.07,Main,Satoshi,0,0,0,,I’m fighting in the Cha
 Dialogue: 10,0:05:47.07,0:05:48.57,Main,Saito,0,0,0,,I accept your challenge.
 Dialogue: 10,0:05:48.57,0:05:50.07,Main,Satoshi,0,0,0,,Really? All right!
 Dialogue: 10,0:05:52.66,0:05:55.20,Main,Rotom x2,0,0,0,,Official battle appointment made!{Copy-paste from ep 18 -Starfish}
-Dialogue: 10,0:05:57.42,0:06:00.21,Main,Saito,0,0,0,,My name is Saito. \N I hail from Galar.
+Dialogue: 10,0:05:57.42,0:06:00.21,Main,Saito,0,0,0,,My name is Saitou. \N I hail from Galar.
 Dialogue: 10,0:06:00.21,0:06:01.21,Main,Satoshi,0,0,0,,Galar?
 Dialogue: 10,0:06:02.82,0:06:04.67,Main,Saito,0,0,0,,May we use this arena?
 Dialogue: 10,0:06:04.67,0:06:07.24,Main,Karate Master,0,0,0,,By all means.
@@ -117,10 +117,10 @@ Dialogue: 10,0:06:21.61,0:06:27.22,Main,Go,0,0,0,,Oh, no, I heard I could get \N
 Dialogue: 10,0:06:27.22,0:06:29.23,Main,Karate Master,0,0,0,,Indeed you can.
 Dialogue: 10,0:06:29.23,0:06:33.03,Main,Karate Master,0,0,0,,That is, if you can defeat me in battle.
 Dialogue: 10,0:06:33.03,0:06:34.74,Main,Go,0,0,0,,I have to battle?!
-Dialogue: 10,0:06:34.74,0:06:39.29,Main,Karate Master,0,0,0,,Well, first let us observe \N Lady Saito’s battle. {Added a period. - Toa}
+Dialogue: 10,0:06:34.74,0:06:39.29,Main,Karate Master,0,0,0,,Well, first let us observe \N Lady Saitou{Honorifics note: Saitou-dono}’s battle.
 Dialogue: 10,0:06:39.29,0:06:43.19,Main,Karate Master,0,0,0,,Live alongside Pokémon...\N Battle alongside Pokémon...
 Dialogue: 10,0:06:43.80,0:06:46.73,Main,Karate Master,0,0,0,,One way to do that lies here.
-Dialogue: 10,0:06:49.00,0:06:52.39,Main,Karate Master,0,0,0,,Lady Saito is a Gym Leader\N in the Galar Region, you see.
+Dialogue: 10,0:06:49.00,0:06:52.39,Main,Karate Master,0,0,0,,Lady Saitou{Honorifics note: Saitou-dono} is a Gym Leader\N in the Galar Region, you see.
 Dialogue: 10,0:06:53.14,0:06:54.51,Main,Satoshi,0,0,0,,A Gym Leader?!
 Dialogue: 10,0:06:55.75,0:06:59.02,Main,Karate Master,0,0,0,,She is known as both \N the Fighting-type Gym Leader...
 Dialogue: 10,0:07:00.52,0:07:05.52,Main,Karate Master,0,0,0,,...and as a master of \N the century-old art{Really? Just a century? Because if I ain’t misunderstanding this I do believe he says it has a history going back a hundred years specifically. -Starfish} of Galar Karate.
@@ -128,7 +128,7 @@ Dialogue: 10,0:07:05.92,0:07:09.71,Main,Karate Master,0,0,0,,Furthermore, she tr
 Dialogue: 10,0:07:09.71,0:07:12.96,Main,Karate Master,0,0,0,,battling, refining both herself \N and her Pokémon,
 Dialogue: 10,0:07:12.96,0:07:15.32,Main,Karate Master,0,0,0,,in pursuit of even greater strength.
 Dialogue: 10,0:07:15.91,0:07:18.44,Main,Go,0,0,0,,Her rank is higher than yours.
-Dialogue: 10,0:07:19.69,0:07:22.09,Main,Satoshi,0,0,0,,751st, huh? {Changed to "751st". - Toa}
+Dialogue: 10,0:07:19.69,0:07:22.09,Main,Satoshi,0,0,0,,751st, huh?
 Dialogue: 10,0:07:26.06,0:07:29.79,Main,Satoshi,0,0,0,,I’m in the Super Class, too. \N I’m 890th.
 Dialogue: 10,0:07:29.79,0:07:32.38,Main,Satoshi,0,0,0,,We’ve won every match \N we’ve had so far!
 Dialogue: 10,0:07:32.38,0:07:34.55,Main,Satoshi,0,0,0,,Riolu here has worked \N particularly hard!
@@ -157,7 +157,7 @@ Dialogue: 10,0:08:50.30,0:08:54.63,Main,Go,0,0,0,,Don’t panic, Satoshi! Just d
 Dialogue: 10,0:08:54.63,0:08:56.68,Main,Satoshi,0,0,0,,Yeah, I got this!
 Dialogue: 10,0:08:56.68,0:08:59.42,Main,Satoshi,0,0,0,,Pikachu! Riolu! \N Let’s do this!
 Dialogue: 10,0:09:07.34,0:09:12.57,Main,Drone Rotom,0,0,0,,The Pokémon World Championships \N has approved this Super Class battle!{Copy-paste from episode 33 -Starfish}
-Dialogue: 10,0:09:12.57,0:09:17.28,Main,Drone Rotom,0,0,0,,The match-up is Competitor Saito \N VS Competitor Satoshi.
+Dialogue: 10,0:09:12.57,0:09:17.28,Main,Drone Rotom,0,0,0,,The match-up is Competitor Saitou \N VS Competitor Satoshi.
 Dialogue: 10,0:09:17.28,0:09:20.33,Main,Drone Rotom,0,0,0,,This battle will be a 2v2. {Copy-paste from episode 18. -Starfish}{Is there, like, any logic to how many Pokémon they may use in any given battle? Because it feels like it’s decided totally arbitrarily. -Starfish}
 Dialogue: 10,0:09:20.33,0:09:24.35,Main,Drone Rotom,0,0,0,,All right, both sides send out \N your Pokémon at the same time.{Copy-paste from episode 18 -Starfish}
 Dialogue: 10,0:09:24.35,0:09:27.52,Main,Drone Rotom,0,0,0,,3! 2! 1! Go!{Normally I would split this up but because of how fast Saito cuts in with her battle command after Rotom says “Go”, that one line would stay on screen for an unacceptably short time. -Starfish}
@@ -254,12 +254,12 @@ Dialogue: 10,0:19:02.07,0:19:04.45,Main,Saito,0,0,0,,You leave me no choice.
 Dialogue: 10,0:19:04.45,0:19:05.66,Main,Saito,0,0,0,,Aqua Break!
 Dialogue: 10,0:19:18.21,0:19:19.72,Main,Satoshi,0,0,0,,Riolu!
 Dialogue: 10,0:19:26.14,0:19:27.72,Main,Drone Rotom,0,0,0,,Riolu is unable to battle!
-Dialogue: 10,0:19:29.05,0:19:32.60,Main,Drone Rotom,0,0,0,,As such, the winner is \N Competitor Saito!
+Dialogue: 10,0:19:29.05,0:19:32.60,Main,Drone Rotom,0,0,0,,As such, the winner is \N Competitor Saitou!
 Dialogue: 10,0:19:34.22,0:19:35.70,Main,Saito,0,0,0,,I thank you.
 Dialogue: 10,0:19:36.82,0:19:38.04,Main,Satoshi,0,0,0,,Are you okay?!
 Dialogue: 10,0:19:41.26,0:19:42.86,Main,Drone Rotom,0,0,0,,Based on the results of this battle,{Copy-paste from episode 18 -Starfish}
 Dialogue: 10,0:19:42.86,0:19:47.32,Main,Drone Rotom,0,0,0,,the Pokémon World Championships \N rankings will be updated!{Copy-paste from episode 18 -Starfish}
-Dialogue: 10,0:19:49.77,0:19:52.28,Main,Go,0,0,0,,Ms. Saito{Honorifics note: Saito-san} won with ease.
+Dialogue: 10,0:19:49.77,0:19:52.28,Main,Go,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san} won with ease.
 Dialogue: 10,0:19:52.28,0:19:57.66,Main,Go,0,0,0,,Neither Satoshi’s special crazy antics \N nor his attempts to out-speed her did him any good.
 Dialogue: 10,0:19:57.66,0:20:00.76,Main,Karate Master,0,0,0,,Luchabull and Otosupus \N are both practically unharmed.
 Dialogue: 10,0:20:01.84,0:20:04.90,Main,Satoshi,0,0,0,,I lost... \N completely and utterly.
@@ -277,8 +277,8 @@ Dialogue: 10,0:21:12.41,0:21:14.48,Main,Satoshi,0,0,0,,Riolu. Kamonegi.
 Dialogue: 10,0:21:14.48,0:21:18.13,Main,Satoshi,0,0,0,,Sorry. You guys worked so hard, \N but I blew it.
 Dialogue: 10,0:21:23.10,0:21:25.26,Main,Satoshi,0,0,0,,I’ve never had a battle \N like that before.
 Dialogue: 10,0:21:25.80,0:21:28.27,Main,Satoshi,0,0,0,,But that won’t happen again!
-Dialogue: 10,0:21:28.27,0:21:30.93,Main,Satoshi,0,0,0,,I’ll get my revenge on Ms. Saito{Honorifics note: Saito-san}, \N sooner or later!
-Dialogue: 10,0:21:32.07,0:21:34.00,Main,Narrator,0,0,0,,The Gym Leader Saito...
+Dialogue: 10,0:21:28.27,0:21:30.93,Main,Satoshi,0,0,0,,I’ll get my revenge on Ms. Saitou{Honorifics note: Saitou-san}, \N sooner or later!
+Dialogue: 10,0:21:32.07,0:21:34.00,Main,Narrator,0,0,0,,The Gym Leader Saitou...
 Dialogue: 10,0:21:34.00,0:21:37.62,Main,Narrator,0,0,0,,...has given Satoshi his first taste of defeat \N in the Championships.
 Dialogue: 10,0:21:37.62,0:21:41.77,Main,Narrator,400,0,0,,He still has a long way to go \N to reach the Monarch, Dande!{Maybe Monarch Dande - Toa of the Batch}
 Comment: 10,0:21:44.53,0:21:44.53,Main,,0,0,0,,{Ending}
@@ -419,9 +419,9 @@ Dialogue: 0,0:03:46.49,0:03:50.75,OPp2,,0,0,0,,Let's go! You pick yourself up by
 Dialogue: 1,0:03:50.75,0:03:52.42,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:50.75,0:03:52.42,OPp2,,0,0,0,,I choose you!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:03:56.00,0:04:01.42,Episode titles,,0,0,0,,{\fad(180,0)\pos(530,105)}Saito, the Lone Warrior!
+Dialogue: 1,0:03:56.00,0:04:01.42,Episode titles,,0,0,0,,{\fad(180,0)\pos(530,105)}Saitou, the Lone Warrior!
 Dialogue: 1,0:03:56.00,0:04:01.42,Episode titles,,0,0,0,,{\fad(180,0)\pos(765,443)}The Terror of Otosupus!!
-Dialogue: 0,0:03:56.00,0:04:01.42,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(530,105)}Saito, the Lone Warrior!
+Dialogue: 0,0:03:56.00,0:04:01.42,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(530,105)}Saitou, the Lone Warrior!
 Dialogue: 0,0:03:56.00,0:04:01.42,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(765,443)}The Terror of Otosupus!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:10:16.80,0:10:16.84,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\fscx42\fscy42\pos(220,72)\iclip(m 220 105 b 226 78 257 32 276 9 l 569 12 598 43 598 103)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -901,7 +901,7 @@ Dialogue: 0,0:22:27.73,0:22:28.38,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.38,0:22:29.15,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.15,0:22:29.97,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.97,0:22:30.69,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.69,0:22:31.47,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.69,0:22:31.47,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.47,0:22:32.19,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.19,0:22:33.01,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:33.01,0:22:33.76,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

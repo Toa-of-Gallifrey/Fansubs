@@ -82,7 +82,7 @@ Dialogue: 10,0:03:43.80,0:03:46.70,Main,Narrator,0,0,0,,Will they be able to fin
 Dialogue: 10,0:03:46.70,0:03:51.83,Main,Go,0,0,0,,Pokémon eggs are found in tall grass \N and other places like these, yeah?
 Dialogue: 10,0:03:53.53,0:03:54.94,Main,Go,0,0,0,,There!
 Dialogue: 10,0:03:59.26,0:04:00.66,Main,Go,0,0,0,,Tamatama?!
-Dialogue: 10,0:04:04.29,0:04:08.18,Main,Rotom Go Ver,0,0,0,,Tamatama! Egg Pokémon! \N Grass/Psychic type!
+Dialogue: 10,0:04:04.29,0:04:08.18,Main,Rotom Go Ver,0,0,0,,Tamatama! Egg Pokémon! \N Grass/Esper type!
 Dialogue: 10,0:04:08.18,0:04:13.73,Main,Rotom Go Ver,0,0,0,,Six of them together form a full-fledged Pokémon! \N They converse using telepathy!{Moon dex entry combined with DPPt -Starfish}
 Dialogue: 10,0:04:13.73,0:04:17.68,Main,Go,0,0,0,,All right... Go, Monster Ball!
 Dialogue: 10,0:04:17.68,0:04:19.57,Main,Rotom Go Ver,0,0,0,,Nice!
@@ -953,7 +953,7 @@ Dialogue: 0,0:22:27.69,0:22:28.34,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.34,0:22:29.11,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.11,0:22:29.93,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.93,0:22:30.65,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.43,0:22:32.15,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.15,0:22:32.97,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:32.97,0:22:33.72,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

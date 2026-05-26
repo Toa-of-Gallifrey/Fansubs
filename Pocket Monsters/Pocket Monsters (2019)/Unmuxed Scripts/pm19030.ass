@@ -849,7 +849,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:11:16.57,0:11:21.49,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1125,561}Barrierd
 Dialogue: 1,0:11:16.57,0:11:21.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Fairy
 Dialogue: 0,0:11:16.57,0:11:21.49,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HC772E5&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
-Dialogue: 1,0:11:16.57,0:11:21.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Psychic
+Dialogue: 1,0:11:16.57,0:11:21.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Esper
 Dialogue: 0,0:11:16.57,0:11:21.49,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HB362AE&}m 0 0 m 860 640 l 1020 640 l 1020 683 l 860 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.34,0:23:35.43,Episode titles,,0,0,0,,{\pos(638.8,191.133)}Hinbass's Pretty Scale
@@ -884,7 +884,7 @@ Dialogue: 0,0:22:27.69,0:22:28.34,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.34,0:22:29.11,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.11,0:22:29.93,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.93,0:22:30.65,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.65,0:22:31.43,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.43,0:22:32.15,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.15,0:22:32.97,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:32.97,0:22:33.72,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

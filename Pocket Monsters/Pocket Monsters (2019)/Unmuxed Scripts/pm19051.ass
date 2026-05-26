@@ -214,7 +214,7 @@ Dialogue: 10,0:17:40.94,0:17:42.95,Main,Satoshi,0,0,0,,But it’s gotten closer 
 Dialogue: 10,0:17:43.88,0:17:45.68,Main,Satoshi,0,0,0,,It sliced a steel beam!
 Dialogue: 10,0:17:51.68,0:17:53.47,Main,Satoshi,0,0,0,,Ellade?!
 Dialogue: 10,0:17:53.47,0:17:54.73,Main,Go,0,0,0,,A wild one?!
-Dialogue: 10,0:17:56.80,0:18:01.18,Main,Rotom Go Ver,0,0,0,,Ellade! Blade Pokémon! \N Psychic/Fighting type!
+Dialogue: 10,0:17:56.80,0:18:01.18,Main,Rotom Go Ver,0,0,0,,Ellade! Blade Pokémon! \N Esper/Fighting type!
 Dialogue: 10,0:18:01.18,0:18:03.18,Main,Rotom Go Ver,0,0,0,,When trying to protect someone,
 Dialogue: 10,0:18:03.18,0:18:07.65,Main,Rotom Go Ver,0,0,0,,it extends its elbows \N as if they were swords and fights savagely!{BW2 dex entry -Starfish}
 Dialogue: 10,0:18:09.43,0:18:11.50,Main,Go,0,0,0,,All right! I’ll catch it!
@@ -879,7 +879,7 @@ Dialogue: 0,0:22:27.70,0:22:28.35,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.35,0:22:29.12,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.12,0:22:29.94,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.94,0:22:30.66,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.66,0:22:31.44,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.66,0:22:31.44,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.44,0:22:32.16,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.16,0:22:32.98,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:32.98,0:22:33.73,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

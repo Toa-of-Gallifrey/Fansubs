@@ -44,12 +44,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:02.15,0:00:05.81,Main,Narrator,0,0,0,,The Pokémon World Championships \N Hyper Class...
 Dialogue: 10,0:00:07.36,0:00:09.86,Main,Narrator,0,0,0,,Satoshi is currently ranked 64th.
-Dialogue: 10,0:00:09.86,0:00:12.99,Main,Narrator,0,0,0,,For his second battle, \N he faces Galar Gym Leader Saito,
+Dialogue: 10,0:00:09.86,0:00:12.99,Main,Narrator,0,0,0,,For his second battle, \N he faces Galar Gym Leader Saitou,
 Dialogue: 10,0:00:12.99,0:00:19.37,Main,Narrator,0,0,0,,who he previously battled twice in the Super Class; \N first to a loss, then to a draw.
 Dialogue: 10,0:00:22.42,0:00:24.75,Main,Narrator,0,0,0,,In the middle \N of their intense match,
 Dialogue: 10,0:00:24.75,0:00:29.55,Main,Narrator,0,0,0,,the stadium received a visit from \N none other than Champion Dande,
-Dialogue: 10,0:00:29.55,0:00:31.96,Main,Narrator,0,0,0,,the ultimate goal \N Satoshi and Saito wish to reach.
-Dialogue: 10,0:00:34.76,0:00:38.96,Main,Narrator,0,0,0,,The match between Satoshi and Saito rages on \N without a clear winner in sight.
+Dialogue: 10,0:00:29.55,0:00:31.96,Main,Narrator,0,0,0,,the ultimate goal \N Satoshi and Saitou wish to reach.
+Dialogue: 10,0:00:34.76,0:00:38.96,Main,Narrator,0,0,0,,The match between Satoshi and Saitou rages on \N without a clear winner in sight.
 Dialogue: 10,0:00:38.96,0:00:42.31,Main,Narrator,0,0,0,,Who will be the victor?
 Comment: 10,0:00:48.57,0:00:48.57,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:16.66,0:02:16.66,Main,,0,0,0,,{Part B}
@@ -63,7 +63,7 @@ Dialogue: 10,0:03:01.86,0:03:04.96,Main,Mic,0,0,0,,Competitor Satoshi’s third 
 Dialogue: 10,0:03:04.96,0:03:08.25,Main,Mic,0,0,0,,It takes a stance that combines \N both attack and defense!
 Dialogue: 10,0:03:09.30,0:03:11.05,Main,Corni,0,0,0,,That Lucario’s incredible.{SASUGA. line}
 Dialogue: 10,0:03:11.05,0:03:14.87,Main,Go,0,0,0,,And he went with Negigaknight... \N I thought he’d pick Kairyu...
-Dialogue: 10,0:03:14.87,0:03:19.26,Main,Corni,0,0,0,,He’s facing her head-on. \N He wants to beat Saitokins{Honorifics note: Saito-chan} with his own Fighting types!
+Dialogue: 10,0:03:14.87,0:03:19.26,Main,Corni,0,0,0,,He’s facing her head-on. \N He wants to beat Saitoukins{Honorifics note: Saitou-chan} with his own Fighting types!
 Dialogue: 10,0:03:19.26,0:03:21.83,Main,Mic,0,0,0,,Man, what a heated battle.
 Dialogue: 10,0:03:21.83,0:03:25.73,Main,Mic,0,0,0,,Kyodaimax and Mega Evolution... \N When do you think they’ll use them, Mr. Dande{Honorifics note: Dande-san}?
 Dialogue: 10,0:03:25.73,0:03:27.08,Main,Dande,0,0,0,,Shh.
@@ -86,7 +86,7 @@ Dialogue: 10,0:04:44.18,0:04:48.77,Main,Mic,0,0,0,,Now, Luchabull has started \N
 Dialogue: 10,0:04:48.77,0:04:50.27,Main,Satoshi,0,0,0,,Now! Crossroad Kill!
 Dialogue: 10,0:05:09.03,0:05:09.96,Main,Satoshi,0,0,0,,Negigaknight!
 Dialogue: 10,0:05:14.35,0:05:16.59,Main,Rotom,0,0,0,,Negigaknight is unable to battle.{Without my leek I cannot battle! -Not what is being said but phonetically it could be}
-Dialogue: 10,0:05:17.50,0:05:20.13,Main,Mic,0,0,0,,Competitor Saito \N takes the first point!
+Dialogue: 10,0:05:17.50,0:05:20.13,Main,Mic,0,0,0,,Competitor Saitou \N takes the first point!
 Dialogue: 10,0:05:20.13,0:05:24.18,Main,Mic,0,0,0,,A knockout blow \N from Luchabull’s God Bird clinched it!
 Dialogue: 10,0:05:27.10,0:05:28.33,Main,Satoshi,0,0,0,,Return!
 Dialogue: 10,0:05:29.48,0:05:32.48,Main,Satoshi,0,0,0,,You did your best. \N Now rest up.
@@ -169,7 +169,7 @@ Dialogue: 10,0:11:41.89,0:11:43.39,Main,Satoshi,0,0,0,,You did it, Lucario!
 Dialogue: 10,0:11:44.77,0:11:47.77,Main,Mic,0,0,0,,What a piercing fighting spirit! {http://blog.livedoor.jp/mugai_de_iai/archives/51737905.html apparently also called reppaku no sakebi, a cry of '「えぃッ！」'(ei!) made while attacking with a sword, seemingly with movies and stuff seems the idea crosses over to martial arts, found on random (English) Aikido site glossaries as "Reppaku no kiai ("EI" ) - The shout that cuts away barriers or impurities, thereby uniting opposites" | Kiai in this phrase seems like it would more accurately translate to roar or yell, but Lucario doesn't really do more than grunt.}
 Dialogue: 10,0:11:47.77,0:11:51.60,Main,Mic,0,0,0,,Lucario wins \N the breathtaking exchange!
 Dialogue: 10,0:11:53.61,0:11:57.78,Main,Go,0,0,0,,He won! \N He actually beat that Otosupus, Sarunori!
-Dialogue: 10,0:12:00.33,0:12:03.04,Main,Corni,0,0,0,,This’ll be the last match-up, \N Saitokins{Honorifics note: Saito-chan}...
+Dialogue: 10,0:12:00.33,0:12:03.04,Main,Corni,0,0,0,,This’ll be the last match-up, \N Saitoukins{Honorifics note: Saitou-chan}...
 Dialogue: 10,0:12:04.39,0:12:06.87,Main,Saito,0,0,0,,I give you my thanks, \N Otosupus.
 Dialogue: 10,0:12:07.58,0:12:10.94,Main,Saito,0,0,0,,It’s time to dig in our heels! \N I’ll give this everything I’ve got!{EN game: It’s time to dig in our heels! I’m not giving up, so neither should you!}{...yeah that doesn't work when addressed to Kairiky. -blu}
 Dialogue: 10,0:12:10.94,0:12:13.25,Main,Saito,0,0,0,,I ask for your aid, Kairiky!
@@ -193,7 +193,7 @@ Dialogue: 10,0:13:59.53,0:14:02.03,Main,Satoshi,0,0,0,,Let’s go, Lucario!
 Dialogue: 10,0:14:05.58,0:14:07.38,Main,Satoshi,0,0,0,,The bond between us...{085 NEP}
 Dialogue: 10,0:14:08.74,0:14:10.45,Main,Satoshi,0,0,0,,Mega Evolve!{085 NEP}
 Dialogue: 10,0:14:32.30,0:14:35.40,Main,Mic,0,0,0,,This Hyper Class battle \N has been intense!
-Dialogue: 10,0:14:35.40,0:14:37.57,Main,Mic,0,0,0,,Competitor Saito \N versus Competitor Satoshi!
+Dialogue: 10,0:14:35.40,0:14:37.57,Main,Mic,0,0,0,,Competitor Saitou \N versus Competitor Satoshi!
 Dialogue: 10,0:14:37.57,0:14:41.24,Main,Mic,0,0,0,,No... Kyodaimax \N versus Mega Evolution!
 Dialogue: 10,0:14:41.86,0:14:43.50,Main,Satoshi,0,0,0,,Guiding Wave Sphere!
 Dialogue: 10,0:14:48.70,0:14:49.66,Main,Saito,0,0,0,,Dai Steel!
@@ -210,7 +210,7 @@ Dialogue: 10,0:15:51.01,0:15:54.61,Main,Mic,0,0,0,,Power is gathering in Kairiky
 Dialogue: 10,0:15:56.85,0:15:58.48,Main,Satoshi,0,0,0,,Here it comes, Lucario!
 Dialogue: 10,0:15:59.27,0:16:02.41,Main,Saito,0,0,0,,I’ll use karate along with \N my partner’s move, acting as one! {EN game: I’ll use karate along with my Pokémon’s move!}
 Dialogue: 10,0:16:02.41,0:16:03.94,Main,Saito,0,0,0,,Kyodai Focus Blow!{Bulba uses 'Charge', taking shingeki as 進撃(the attacking titan), but Chinese has 會心一擊('kaishin ichigeki'... aka critical hit / 'spectacular blow') and indeed, it does have enhanced crit rate. English name of "Chi Strike", and Euro names including fokus also suggests they took it as something similar. -blu}{Um excuse me Shingeki no Kyojin really should be translated as the ADVANCING Titan, not the ATTACKING Titan, thank you very much -A pedantic douche who thinks the official name for that manga got ENTIRELY the wrong implication of 進撃}
-Dialogue: 10,0:16:13.37,0:16:17.29,Main,Corni,0,0,0,,That move’s the reason \N Saitokins{Honorifics note: Saito-chan} and Kairiky have been on a roll.
+Dialogue: 10,0:16:13.37,0:16:17.29,Main,Corni,0,0,0,,That move’s the reason \N Saitoukins{Honorifics note: Saitou-chan} and Kairiky have been on a roll.
 Dialogue: 10,0:16:22.42,0:16:24.25,Main,Satoshi,0,0,0,,Lucario! Hold on!
 Dialogue: 10,0:16:38.94,0:16:40.45,Main,Saito,0,0,0,,It withstood the attack...
 Dialogue: 10,0:16:42.89,0:16:44.27,Main,Satoshi,0,0,0,,Lucario, jump!
@@ -242,10 +242,10 @@ Dialogue: 10,0:19:29.21,0:19:30.36,Main,Satoshi,0,0,0,,You okay?
 Dialogue: 10,0:19:34.55,0:19:36.36,Main,Satoshi,0,0,0,,You did great.
 Dialogue: 10,0:19:38.91,0:19:40.54,Main,Rotom,0,0,0,,Based on the results of this battle,{Copy-paste from episode 18}
 Dialogue: 10,0:19:40.54,0:19:45.36,Main,Rotom,0,0,0,,the Pokémon World Championships \N rankings will be updated!{Copy-paste from episode 18}
-Dialogue: 10,0:19:45.36,0:19:51.96,Main,Mic,0,0,0,,Competitor Satoshi emerges victorious over \N Competitor Saito, and rises to 36th in the Hyper Class!
+Dialogue: 10,0:19:45.36,0:19:51.96,Main,Mic,0,0,0,,Competitor Satoshi emerges victorious over \N Competitor Saitou, and rises to 36th in the Hyper Class!
 Dialogue: 10,0:19:51.96,0:19:53.66,Main,Go,0,0,0,,36th!
 Dialogue: 10,0:19:53.66,0:19:57.47,Main,Go,0,0,0,,Satoshi, Lucario, Pikachu, Negigaknight... \N You’re incredible!
-Dialogue: 10,0:19:58.49,0:20:01.21,Main,Corni,0,0,0,,You actually beat Saitokins{Honorifics note: Saito-chan}...
+Dialogue: 10,0:19:58.49,0:20:01.21,Main,Corni,0,0,0,,You actually beat Saitoukins{Honorifics note: Saitou-chan}...
 Dialogue: 10,0:20:01.21,0:20:03.89,Main,Corni,0,0,0,,How strong are you gonna get, \N Satoshi?
 Dialogue: 10,0:20:05.15,0:20:07.98,Main,Saito,0,0,0,,Kairiky. \N That was a good battle.
 Dialogue: 10,0:20:07.98,0:20:09.10,Main,Saito,0,0,0,,You have my gratitude.
@@ -261,12 +261,12 @@ Dialogue: 10,0:20:56.41,0:20:58.95,Main,Saito,0,0,0,,We should only meet him \N 
 Dialogue: 10,0:21:00.57,0:21:06.58,Main,Saito,0,0,0,,During our bout today, \N I realized my heart was dancing.{EN game (non-exact match): Battling against you and your team... I hadn’t expected it, but it made my heart dance.}
 Dialogue: 10,0:21:11.21,0:21:13.26,Main,Saito,0,0,0,,I won’t be throwing in the towel.
 Dialogue: 10,0:21:14.08,0:21:16.84,Main,Saito,0,0,0,,Someday, let us battle again... \N Satoshi.
-Dialogue: 10,0:21:19.83,0:21:22.54,Main,Satoshi,0,0,0,,Looking forward to it, \N Ms. Saito{Honorifics note: Saito-san}!
-Dialogue: 10,0:21:22.54,0:21:23.97,Main,Saito,0,0,0,,Just Saito is fine!
-Dialogue: 10,0:21:23.97,0:21:25.72,Main,Satoshi,0,0,0,,Okay, Saito!
-Dialogue: 10,0:21:25.72,0:21:27.15,Main,Go,0,0,0,,That means Ms. Saito{Honorifics note: Saito-san}...
+Dialogue: 10,0:21:19.83,0:21:22.54,Main,Satoshi,0,0,0,,Looking forward to it, \N Ms. Saitou{Honorifics note: Saitou-san}!
+Dialogue: 10,0:21:22.54,0:21:23.97,Main,Saito,0,0,0,,Just Saitou is fine!
+Dialogue: 10,0:21:23.97,0:21:25.72,Main,Satoshi,0,0,0,,Okay, Saitou!
+Dialogue: 10,0:21:25.72,0:21:27.15,Main,Go,0,0,0,,That means Ms. Saitou{Honorifics note: Saitou-san}...
 Dialogue: 10,0:21:27.15,0:21:29.89,Main,Corni,0,0,0,,...acknowledged Satoshi!
-Dialogue: 10,0:21:30.30,0:21:35.88,Main,Narrator,0,0,0,,Satoshi and Saito’s Hyper Class battle \N came to a close with Satoshi’s victory.
+Dialogue: 10,0:21:30.30,0:21:35.88,Main,Narrator,0,0,0,,Satoshi and Saitou’s Hyper Class battle \N came to a close with Satoshi’s victory.
 Dialogue: 10,0:21:36.65,0:21:39.76,Main,Narrator,0,0,0,,But the path to Monarch Dande \N remains a long one.
 Dialogue: 10,0:21:40.42,0:21:43.18,Main,Narrator,0,450,0,,Who will be his next opponent?
 Comment: 10,0:21:44.57,0:21:44.57,Main,Narrator,0,0,0,,{pink lines}

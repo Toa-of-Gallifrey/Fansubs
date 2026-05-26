@@ -85,7 +85,7 @@ Dialogue: 10,0:04:23.70,0:04:25.37,Main,Go,0,0,0,,Hey!
 Dialogue: 10,0:04:25.37,0:04:28.37,Main,Go,0,0,0,,Wake up, Satoshi!
 Dialogue: 10,0:04:37.88,0:04:40.72,Main,Satoshi,0,0,0,,Whoa! \N Those Yadon have yellow heads!{096 NEP}
 Dialogue: 10,0:04:40.72,0:04:42.14,Main,Go,0,0,0,,You’re right.{096 NEP}
-Dialogue: 10,0:04:45.06,0:04:49.44,Main,YOU,0,0,0,,Yadon! Galarian Form! Dopey Pokémon! \N Psychic type!
+Dialogue: 10,0:04:45.06,0:04:49.44,Main,YOU,0,0,0,,Yadon! Galarian Form! Dopey Pokémon! \N Esper type!
 Dialogue: 10,0:04:49.44,0:04:51.77,Main,YOU,0,0,0,,Only found in Galar!{not a dex entry}
 Dialogue: 10,0:04:51.77,0:04:53.52,Main,YOU,0,0,0,,Although it is normally zoned out,
 Dialogue: 10,0:04:53.52,0:04:56.57,Main,YOU,0,0,0,,its expression abruptly sharpens \N on occasion!{partial Sword dex entry}
@@ -113,7 +113,7 @@ Dialogue: 10,0:07:14.04,0:07:15.79,Main,Satoshi,0,0,0,,You want those nuts?
 Dialogue: 10,0:07:23.42,0:07:25.05,Main,Go,0,0,0,,Another Yadoran?
 Dialogue: 10,0:07:25.05,0:07:27.64,Main,Satoshi,0,0,0,,That one’s gotta be \N a Galarian Yadoran.
 Dialogue: 10,0:07:27.64,0:07:29.05,Main,Satoshi,0,0,0,,It looks a little different.
-Dialogue: 10,0:07:33.64,0:07:38.77,Main,YOU,0,0,0,,Yadoran! Galarian Form! Hermit Crab Pokémon! \N Poison/Psychic type!
+Dialogue: 10,0:07:33.64,0:07:38.77,Main,YOU,0,0,0,,Yadoran! Galarian Form! Hermit Crab Pokémon! \N Poison/Esper type!
 Dialogue: 10,0:07:38.77,0:07:41.61,Main,YOU,0,0,0,,If it squeezes the tongue \N of the Shellder biting it,
 Dialogue: 10,0:07:41.61,0:07:45.95,Main,YOU,0,0,0,,the Shellder will launch a toxic liquid \N from the tip of its shell!{Shield dex entry}
 Dialogue: 10,0:07:53.37,0:07:55.33,Main,Go,0,0,0,,They’re not moving at all...
@@ -124,7 +124,7 @@ Dialogue: 10,0:08:35.87,0:08:38.08,Main,Satoshi,0,0,0,,Are you sure?
 Dialogue: 10,0:08:44.55,0:08:45.84,Main,Satoshi,0,0,0,,Where’s it going?
 Dialogue: 10,0:08:52.64,0:08:53.89,Main,Satoshi,0,0,0,,What’s that?{096 NEP (line by Go in NEP)}
 Comment: 10,0:09:11.45,0:09:11.45,Main,,0,0,0,,{Magnifying glass!}
-Dialogue: 10,0:09:20.25,0:09:25.71,Main,YOU,0,0,0,,Yadoking! Galarian Form! Hexing Pokémon! \N Poison/Psychic type!
+Dialogue: 10,0:09:20.25,0:09:25.71,Main,YOU,0,0,0,,Yadoking! Galarian Form! Hexing Pokémon! \N Poison/Esper type!
 Dialogue: 10,0:09:25.71,0:09:30.47,Main,YOU,0,0,0,,A combination of toxins and the shock of evolving \N has increased Shellder’s intelligence...
 Dialogue: 10,0:09:30.47,0:09:33.26,Main,YOU,0,0,0,,...to the point that Shellder \N now controls Yadoking!{Sword dex entry}
 Dialogue: 10,0:09:33.64,0:09:35.89,Main,Go,0,0,0,,That thing looks pretty scary...
@@ -842,7 +842,7 @@ Dialogue: 1,0:09:11.45,0:09:17.45,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\f
 Dialogue: 2,0:09:11.45,0:09:17.45,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:09:12.53,0:09:17.45,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1114,561}Yadoking
-Dialogue: 1,0:09:12.53,0:09:17.45,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Psychic
+Dialogue: 1,0:09:12.53,0:09:17.45,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Esper
 Dialogue: 0,0:09:12.53,0:09:17.45,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HB362AE&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
 Dialogue: 1,0:09:12.53,0:09:17.45,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Poison
 Dialogue: 0,0:09:12.53,0:09:17.45,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&H80264A&}m 0 0 m 860 640 l 1020 640 l 1020 683 l 860 683 {\p0}
@@ -1023,7 +1023,7 @@ Dialogue: 0,0:22:32.71,0:22:32.75,Question,,0,0,0,,{\blur0.2\fscx48\fscy48\bord0
 Dialogue: 0,0:22:32.75,0:22:32.79,Question,,0,0,0,,{\blur0.2\fscx47.3\fscy47.3\bord0\c&H274874&\pos(959.85,373.14)}Usokki
 Dialogue: 0,0:22:32.79,0:22:33.63,Question,,0,0,0,,{\blur0.2\fscx47\fscy47\bord0\c&H274874&\pos(959.09,372.38)}Usokki
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:22:35.84,0:22:37.80,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HAA20BB&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Psychic
+Dialogue: 0,0:22:35.84,0:22:37.80,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HAA20BB&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Esper
 Dialogue: 0,0:22:38.84,0:22:40.47,Question,,0,0,0,,{\blur0.2\pos(738.33,346.44)\c&HB75658&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1351,1630,\fscx0\fscy0)}Ghost
 Dialogue: 0,0:22:41.30,0:22:42.84,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HCCA500&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1231,1540,\fscx0\fscy0)}Dragon
 Dialogue: 0,0:22:44.01,0:22:44.64,Question,,0,0,0,,{\blur0.2\pos(739.33,346.44)\c&H0562D3&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Fighting
@@ -1165,15 +1165,15 @@ Dialogue: 0,0:22:50.31,0:22:51.27,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c
 Dialogue: 0,0:22:51.27,0:22:51.31,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 152 157 l 253 157 l 253 186 l 152 186 {\p0}
 Dialogue: 0,0:22:51.31,0:22:51.35,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 160 165 l 216 165 l 216 179 l 160 179 {\p0}
 Dialogue: 0,0:22:51.35,0:22:51.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 169.5 170 l 187 170 l 187 175 l 169.5 175 {\p0}
-Dialogue: 0,0:22:50.14,0:22:50.18,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}P{\fs38}s{\fs34}y
-Dialogue: 0,0:22:50.18,0:22:50.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Ps{\fs38}y{\fs32}c{\fs28}h
-Dialogue: 0,0:22:50.23,0:22:50.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs36}i{\fs32}c
-Dialogue: 0,0:22:50.27,0:22:50.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs40}i{\fs38}c
-Dialogue: 0,0:22:50.31,0:22:51.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psychic
-Dialogue: 0,0:22:51.23,0:22:51.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Psychic
-Dialogue: 0,0:22:51.27,0:22:51.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Psychic
-Dialogue: 0,0:22:51.31,0:22:51.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Psychic
-Dialogue: 0,0:22:51.35,0:22:51.39,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Psychic
+Dialogue: 0,0:22:50.14,0:22:50.18,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}E{\fs36}s
+Dialogue: 0,0:22:50.18,0:22:50.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Es{\fs28}p{\fs16}e
+Dialogue: 0,0:22:50.23,0:22:50.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esp{\fs36}e{\fs30}r
+Dialogue: 0,0:22:50.27,0:22:50.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Espe{\fs38}r
+Dialogue: 0,0:22:50.31,0:22:51.23,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esper
+Dialogue: 0,0:22:51.23,0:22:51.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Esper
+Dialogue: 0,0:22:51.27,0:22:51.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Esper
+Dialogue: 0,0:22:51.31,0:22:51.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Esper
+Dialogue: 0,0:22:51.35,0:22:51.39,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Esper
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:22:48.51,0:22:51.14,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFAC3FF&}m 0 0 m 398 508 l 678 508 l 678 541 l 378 541 {\p0}
 Dialogue: 0,0:22:51.14,0:22:51.18,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFAC3FF&}m 0 0 m 458 498 l 585 520 l 585 555 l 451 530 {\p0}

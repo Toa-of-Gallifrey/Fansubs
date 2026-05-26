@@ -51,7 +51,7 @@ Dialogue: 10,0:00:33.76,0:00:36.68,Main,Satoshi,0,0,0,,Psycho Field on top of \N
 Dialogue: 10,0:00:37.18,0:00:41.06,Main,Dande,0,0,0,,Come on, Satoshi! \N What Pokémon will you use next?
 Dialogue: 10,0:00:42.94,0:00:44.98,Main,Satoshi,0,0,0,,Negigaknight! I choose you!
 Dialogue: 10,0:00:53.53,0:00:55.03,Main,Dande,0,0,0,,A Fighting type?
-Dialogue: 10,0:00:55.58,0:01:00.92,Main,Shirona,0,0,0,,{\q2}Barrikohru is part Psychic type, \N so the Fighting-type Negigaknight is at a disadvantage.{Original: Barrikohru has the Psychic type,}
+Dialogue: 10,0:00:55.58,0:01:00.92,Main,Shirona,0,0,0,,{\q2}Barrikohru is part Esper type, \N so the Fighting-type Negigaknight is at a disadvantage.{Original: Barrikohru has the Esper type,}
 Dialogue: 10,0:01:03.92,0:01:07.92,Main,Hikari,0,0,0,,Satoshi! Negigaknight! \N Go for it!
 Dialogue: 10,0:01:07.92,0:01:11.80,Main,Satoshi,0,0,0,,Negigaknight! \N There’s something only you can do!
 Dialogue: 10,0:01:11.80,0:01:13.26,Main,Satoshi,0,0,0,,I’m counting on you!
@@ -62,7 +62,7 @@ Dialogue: 10,0:03:04.87,0:03:10.21,Main,Mic,0,0,0,,A ferocious assault from Negi
 Dialogue: 10,0:03:10.21,0:03:11.84,Main,Musashi,0,0,0,,Go, go, go!
 Dialogue: 10,0:03:11.84,0:03:13.55,Main,Kojiro,0,0,0,,Send it flying with that big leek!
 Dialogue: 10,0:03:13.55,0:03:16.30,Main,Nyarth,0,0,0,,Avenge Gänger, meow!
-Dialogue: 10,0:03:27.94,0:03:32.57,Main,Mic,0,0,0,,Consecutive Cut hits! \N It’s super effective against Psychic types!
+Dialogue: 10,0:03:27.94,0:03:32.57,Main,Mic,0,0,0,,Consecutive Cut hits! \N It’s super effective against Esper types!
 Dialogue: 10,0:03:32.94,0:03:34.15,Main,Satoshi,0,0,0,,Brutal Swing!
 Dialogue: 10,0:03:38.45,0:03:39.87,Main,Dande,0,0,0,,Barrikohru! Catch it!
 Dialogue: 10,0:03:47.00,0:03:48.25,Main,Dande,0,0,0,,Wide Force!
@@ -89,7 +89,7 @@ Dialogue: 10,0:05:34.15,0:05:36.94,Main,Mic,0,0,0,,The Psycho Field energy...
 Dialogue: 10,0:05:37.40,0:05:39.44,Main,Mic,0,0,0,,...has vanished!
 Dialogue: 10,0:05:39.86,0:05:41.70,Main,Satoshi,0,0,0,,Great job, Negigaknight!
 Dialogue: 10,0:05:44.16,0:05:45.87,Main,Dande,0,0,0,,So that was your goal!
-Dialogue: 10,0:05:45.87,0:05:50.71,Main,Carne,0,0,0,,Because it was a Bug-type move, \N it could destroy the Psychic-type move?
+Dialogue: 10,0:05:45.87,0:05:50.71,Main,Carne,0,0,0,,Because it was a Bug-type move, \N it could destroy the Esper-type move?
 Dialogue: 10,0:05:50.71,0:05:54.17,Main,Koharu,0,0,0,,So moves aren’t {\i1}just{\i0} \N for attacking Pokémon...
 Dialogue: 10,0:05:54.17,0:05:56.71,Main,Hikari,0,0,0,,Right! This is how Satoshi battles.
 Dialogue: 10,0:05:57.09,0:05:58.71,Main,Satoshi,0,0,0,,Negigaknight, return!
@@ -500,13 +500,13 @@ Comment: 0,0:00:00.52,0:00:00.52,Main,,0,0,0,,
 Dialogue: 0,0:22:35.88,0:22:37.84,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HCEA401&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Dragon
 Dialogue: 0,0:22:38.88,0:22:40.51,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&HC0C15B&\fscx20\fscy20\t(0, 290, \fscx62.5\fscy62.5)\t(1351, 1630, \fscx0\fscy0)}Ice
 Dialogue: 0,0:22:41.34,0:22:42.88,Question,,0,0,0,,{\blur0.2\pos(725.33,346.44)\c&H888684&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1231,1540,\fscx0\fscy0)}Steel
-Dialogue: 0,0:22:44.05,0:22:44.68,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Psychic
-Dialogue: 0,0:22:44.68,0:22:44.72,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Psychic
-Dialogue: 0,0:22:44.84,0:22:44.89,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Psychic
-Comment: 0,0:22:44.89,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Psychic
+Dialogue: 0,0:22:44.05,0:22:44.68,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HB222BD&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Esper
+Dialogue: 0,0:22:44.68,0:22:44.72,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,350.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.72,0:22:44.76,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,364.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.76,0:22:44.80,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,392.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.80,0:22:44.84,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,437.94)\c&HB222BD&}Esper
+Dialogue: 0,0:22:44.84,0:22:44.89,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,510.44)\c&HB222BD&}Esper
+Comment: 0,0:22:44.89,0:22:44.93,Question,,0,0,0,,{\blur0.2\fscx62.5\fscy62.5\pos(741.33,625.44)\c&HB222BD&}Esper
 Comment: 0,0:00:00.52,0:00:00.52,Main,,0,0,0,,
 Dialogue: 0,0:22:45.26,0:22:45.34,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 72 l 279 72 l 279 114 l 136 114 {\p0}
 Dialogue: 0,0:22:45.34,0:22:45.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 136 69 l 357 69 l 357 117 l 136 117 {\p0}

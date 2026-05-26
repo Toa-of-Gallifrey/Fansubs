@@ -184,8 +184,8 @@ Dialogue: 0,0:07:43.48,0:07:51.58,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\
 Dialogue: 0,0:07:43.48,0:07:51.58,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}Competitor Shirona also has an archaeologist side
 Dialogue: 0,0:07:51.58,0:07:59.58,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}She visited Galar's Lateral Town to investigate the ruins
 Dialogue: 0,0:07:51.58,0:07:59.58,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}She visited Galar's Lateral Town to investigate the ruins
-Dialogue: 0,0:07:59.58,0:08:08.09,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}She got to bond with Competitor Saito over a mutual love of ice cream
-Dialogue: 0,0:07:59.58,0:08:08.09,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}She got to bond with Competitor Saito over a mutual love of ice cream
+Dialogue: 0,0:07:59.58,0:08:08.09,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}She got to bond with Competitor Saitou over a mutual love of ice cream
+Dialogue: 0,0:07:59.58,0:08:08.09,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}She got to bond with Competitor Saitou over a mutual love of ice cream
 Dialogue: 0,0:07:43.48,0:07:48.91,Strictly text,,0,0,0,,{\an4\fad(500,0)\fs35\fnDejaVu Serif\i1\b1\pos(70.55,181.33)\c&HE5E5E5&\blur1\bord2\3c&H172AB2&}“Dande the Warrior{\fsp-5} ”
 Dialogue: 0,0:07:44.44,0:07:48.91,Strictly text,,0,0,0,,{\an6\fad(1000,0)\fs35\fnDejaVu Serif\i1\b1\pos(750.55,541.33)\c&HE5E5E5&\blur1\bord2\3c&H0B94A1&}“Shirona the Wise”
 Dialogue: 0,0:07:55.62,0:08:08.09,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\bord2\blur1.5\c&H372A32&\3c&HFEFFFE&\pos(1045.34,488.89)}Gaburias \N {\c&H333333&}Mach Pokémon
@@ -220,7 +220,7 @@ Dialogue: 0,0:08:43.92,0:08:51.14,Strictly text,,0,0,0,,{\fad(150, 0)\fnRo GSan 
 Dialogue: 0,0:08:51.14,0:13:18.49,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\c&H1518E5&\bord2\3c&HFAFAFB&\pos(1043.74,105.45)}Shocking {\c&H353431&}battle rankings!
 Dialogue: 0,0:08:54.22,0:09:01.19,Strictly text,,30,0,30,,{\fad(250, 0)\an7\fsp-2\fnRo GSan Serif Std U\c&H1518E7&\bord3\blur1\3c&HFCFEFE&}A brand-new form of defense?!
 Dialogue: 0,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&HABB8BD&}m 5.33 640 l 37.33 697.33 265.33 697.33 234.67 638.67{\p0}
-Dialogue: 1,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs25\pos(137.11,668.45)}Competitor Saito
+Dialogue: 1,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs25\pos(137.11,668.45)}Competitor Saitou
 Dialogue: 0,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&HFC6001&}m 1042.66 641.33 l 1012 696 1241.33 695.55 1269.78 639.11{\p0}
 Dialogue: 1,0:09:01.19,0:09:13.16,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs25\pos(1141.11,668.45)}Competitor Satoshi
 Dialogue: 0,0:09:55.24,0:10:05.25,Strictly text,,0,0,0,,{\fsp-2\fnRo GSan Serif Std U\c&H1518E7&\bord3\blur1\3c&HFCFEFE&\pos(640, 525}Turning an offensive move\Ninto a defensive move!

@@ -60,7 +60,7 @@ Dialogue: 10,0:00:57.37,0:01:03.54,Main,Sakuragi,0,0,0,,Why don’t you try visi
 Dialogue: 10,0:01:05.63,0:01:07.42,Main,Satoshi,0,0,0,,Onion at the Ghost Gym!
 Dialogue: 10,0:01:07.42,0:01:10.59,Main,Satoshi,0,0,0,,We’re gonna have him \N teach us Kyodaimax!
 Dialogue: 10,0:01:10.97,0:01:16.18,Main,Go,0,0,0,,Still, I never knew Lateral Town \N had two Gyms in it. {Loose suggestion: "I was surprised. I had no idea Lateral Town had two Gyms.". Anything I can think for the "demo" is kinda awkward. Worth giving some more thought. - Toa}
-Dialogue: 10,0:01:16.18,0:01:21.85,Main,Go,0,0,0,,Ms. Saito{Honorifics note: Saito-san}’s Gym is one of them, and then \N there’s the one just around the corner... Huh?
+Dialogue: 10,0:01:16.18,0:01:21.85,Main,Go,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san}’s Gym is one of them, and then \N there’s the one just around the corner... Huh?
 Dialogue: 10,0:01:22.90,0:01:25.44,Main,Go,0,0,0,,{\i1}That’s{\i0} the Ghost Gym?!
 Dialogue: 10,0:01:38.12,0:01:41.79,Main,Go,0,0,0,,This... is the right place...
 Dialogue: 10,0:01:43.00,0:01:45.75,Main,Go,0,0,0,,But I don’t see a door anywhere...
@@ -94,7 +94,7 @@ Dialogue: 10,0:04:39.63,0:04:40.64,Main,Onion,0,0,0,,I see...
 Dialogue: 10,0:04:43.64,0:04:45.89,Main,Go,0,0,0,,Where are you going?
 Dialogue: 10,0:04:47.85,0:04:49.56,Main,Onion,0,0,0,,It’s too cramped here, so...
 Dialogue: 10,0:04:51.52,0:04:52.73,Main,Onion,0,0,0,,The stadium.
-Dialogue: 10,0:05:02.87,0:05:03.78,Main,Satoshi,0,0,0,,Saito!
+Dialogue: 10,0:05:02.87,0:05:03.78,Main,Satoshi,0,0,0,,Saitou!
 Dialogue: 10,0:05:03.78,0:05:05.24,Main,Saito,0,0,0,,Satoshi.
 Dialogue: 10,0:05:07.37,0:05:09.04,Main,Saito,0,0,0,,Here for another battle?
 Dialogue: 10,0:05:09.04,0:05:13.17,Main,Satoshi,0,0,0,,No, today I’m here for \N Kyodaimax training with Gänger.

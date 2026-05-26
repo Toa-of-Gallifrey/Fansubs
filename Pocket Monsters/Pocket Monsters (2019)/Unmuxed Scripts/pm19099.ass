@@ -46,7 +46,7 @@ Dialogue: 10,0:00:02.32,0:00:04.86,Main,Narrator,0,0,0,,The Pokémon World Champ
 Dialogue: 10,0:00:04.86,0:00:08.20,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon Battler.
 Dialogue: 10,0:00:09.20,0:00:14.74,Main,Narrator,0,0,0,,In the hopes of battling Dande, \N the current Supreme Monarch,
 Dialogue: 10,0:00:14.74,0:00:17.66,Main,Narrator,0,0,0,,Satoshi is participating \N in the Championships.{Copy-paste from episode 51 END}
-Dialogue: 10,0:00:18.54,0:00:22.96,Main,Narrator,0,0,0,,Satoshi has defeated the formidable Saito, \N and risen up to 36th place.
+Dialogue: 10,0:00:18.54,0:00:22.96,Main,Narrator,0,0,0,,Satoshi has defeated the formidable Saitou, \N and risen up to 36th place.
 Dialogue: 10,0:00:23.42,0:00:26.84,Main,Narrator,0,0,0,,Now, \N who will he be facing today?
 Dialogue: 10,0:00:28.80,0:00:31.05,Main,Mary,0,0,0,,Everyone’s yellin’ for me.
 Dialogue: 10,0:00:31.05,0:00:32.68,Main,Mary,0,0,0,,I’ve gotta win this!
@@ -190,7 +190,7 @@ Dialogue: 10,0:10:17.47,0:10:21.23,Main,Yell,0,0,0,,{\i1}Our girl! \N You’re g
 Dialogue: 10,0:10:21.60,0:10:23.14,Main,Go,0,0,0,,Her fan club?!
 Dialogue: 10,0:10:23.14,0:10:25.44,Main,Nezu,0,0,0,,Well, something like that.
 Dialogue: 10,0:10:25.98,0:10:30.07,Main,Mic,0,0,0,,Currently ranked 36th, \N hailing from Kanto’s Masara Town,
-Dialogue: 10,0:10:30.07,0:10:34.70,Main,Mic,0,0,0,,and on a winning streak after recently defeating \N Competitor Saito: Competitor Satoshi!
+Dialogue: 10,0:10:30.07,0:10:34.70,Main,Mic,0,0,0,,and on a winning streak after recently defeating \N Competitor Saitou: Competitor Satoshi!
 Dialogue: 10,0:10:34.70,0:10:38.03,Main,Go,0,0,0,,Satoshi! Go for it!
 Dialogue: 10,0:10:38.58,0:10:42.00,Main,Yell,0,0,0,,We can see it! \N He’s gonna fall!
 Dialogue: 10,0:10:42.00,0:10:45.33,Main,Yell,0,0,0,,We can hear it! \N He’s gonna bawl!{JP game: みえーる　おまえの　敗北が！ きこえーる　おまえの　泣き声が！ / EN game: I can already hear my victory comin’! The only sound you’ll make is a whimper of defeat!}{I guess they hear with their eyes... -TL}{Note that the game line is in second-person while the anime line is in third. So "he's", not "you're." -TLC}

@@ -283,7 +283,7 @@ Dialogue: 10,0:17:13.47,0:17:16.39,Main,Mic,0,0,0,,Oh, Competitor Alain \N is sw
 Dialogue: 10,0:17:16.39,0:17:18.77,Main,Alain,0,0,0,,Come out, Calamanero!
 Dialogue: 10,0:17:21.65,0:17:23.94,Main,Alain,0,0,0,,Your powers will turn \N the tide of the battle!
 Dialogue: 10,0:17:23.94,0:17:26.94,Main,Mic,0,0,0,,Competitor Alain’s third Pokémon \N is Calamanero.
-Dialogue: 10,0:17:28.61,0:17:32.57,Main,YOU,0,0,0,,Calamanero! Turnaround Pokémon! \N Evil/Psychic type!
+Dialogue: 10,0:17:28.61,0:17:32.57,Main,YOU,0,0,0,,Calamanero! Turnaround Pokémon! \N Evil/Esper type!
 Dialogue: 10,0:17:32.57,0:17:36.99,Main,YOU,0,0,0,,Gazing at its luminescent spots \N will quickly induce a hypnotic state,
 Dialogue: 10,0:17:36.99,0:17:39.96,Main,YOU,0,0,0,,putting the observer \N under Calamanero’s control!{Sword dex entry}
 Dialogue: 10,0:17:40.58,0:17:41.79,Main,Alain,0,0,0,,Psycho Cutter!
@@ -589,7 +589,7 @@ Dialogue: 0,0:22:32.75,0:22:32.79,Question,,0,0,0,,{\blur0.2\fscx48\fscy48\bord0
 Dialogue: 0,0:22:32.79,0:22:32.83,Question,,0,0,0,,{\blur0.2\fscx47.3\fscy47.3\bord0\c&H274874&\pos(959.85,373.14)}Usokki
 Dialogue: 0,0:22:32.83,0:22:33.67,Question,,0,0,0,,{\blur0.2\fscx47\fscy47\bord0\c&H274874&\pos(959.09,372.38)}Usokki
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
-Dialogue: 0,0:22:35.88,0:22:37.84,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HAA20BB&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Psychic
+Dialogue: 0,0:22:35.88,0:22:37.84,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HAA20BB&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1645,1960,\fscx0\fscy0)}Esper
 Dialogue: 0,0:22:38.88,0:22:40.51,Question,,0,0,0,,{\blur0.2\pos(738.33,346.44)\c&HB75658&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1351,1630,\fscx0\fscy0)}Ghost
 Dialogue: 0,0:22:41.34,0:22:42.88,Question,,0,0,0,,{\blur0.2\pos(741.33,346.44)\c&HCCA500&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)\t(1231,1540,\fscx0\fscy0)}Dragon
 Dialogue: 0,0:22:44.05,0:22:44.68,Question,,0,0,0,,{\blur0.2\pos(739.33,346.44)\c&H0562D3&\fscx20\fscy20\t(0,290,\fscx62.5\fscy62.5)}Fighting
@@ -731,15 +731,15 @@ Dialogue: 0,0:22:50.35,0:22:51.31,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c
 Dialogue: 0,0:22:51.31,0:22:51.35,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 152 157 l 253 157 l 253 186 l 152 186 {\p0}
 Dialogue: 0,0:22:51.35,0:22:51.39,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 160 165 l 216 165 l 216 179 l 160 179 {\p0}
 Dialogue: 0,0:22:51.39,0:22:51.43,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFFFFFF&}m 0 0 m 169.5 170 l 187 170 l 187 175 l 169.5 175 {\p0}
-Dialogue: 0,0:22:50.18,0:22:50.22,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}P{\fs38}s{\fs34}y
-Dialogue: 0,0:22:50.22,0:22:50.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Ps{\fs38}y{\fs32}c{\fs28}h
-Dialogue: 0,0:22:50.27,0:22:50.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs36}i{\fs32}c
-Dialogue: 0,0:22:50.31,0:22:50.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psych{\fs40}i{\fs38}c
-Dialogue: 0,0:22:50.35,0:22:51.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Psychic
-Dialogue: 0,0:22:51.27,0:22:51.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Psychic
-Dialogue: 0,0:22:51.31,0:22:51.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Psychic
-Dialogue: 0,0:22:51.35,0:22:51.39,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Psychic
-Dialogue: 0,0:22:51.39,0:22:51.43,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Psychic
+Dialogue: 0,0:22:50.18,0:22:50.22,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}E{\fs36}s
+Dialogue: 0,0:22:50.22,0:22:50.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Es{\fs28}p{\fs16}e
+Dialogue: 0,0:22:50.27,0:22:50.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esp{\fs36}e{\fs30}r
+Dialogue: 0,0:22:50.31,0:22:50.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Espe{\fs38}r
+Dialogue: 0,0:22:50.35,0:22:51.27,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\pos(141.48,148.02)\fs42}Esper
+Dialogue: 0,0:22:51.27,0:22:51.31,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs38\pos(144.53,150.19)}Esper
+Dialogue: 0,0:22:51.31,0:22:51.35,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs28\pos(152.14,156.74)}Esper
+Dialogue: 0,0:22:51.35,0:22:51.39,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs15\pos(161.94,164.34)}Esper
+Dialogue: 0,0:22:51.39,0:22:51.43,Answer,,0,0,0,,{\blur0.3\an7\bord0\c&H4E4E4E&\fs4\pos(170.36,170.71)}Esper
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 0,0:22:48.56,0:22:51.18,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFAC3FF&}m 0 0 m 398 508 l 678 508 l 678 541 l 378 541 {\p0}
 Dialogue: 0,0:22:51.18,0:22:51.22,Kanohi,,0,0,0,,{\an7\bord0\blur1\pos(0,0)\p1\c&HFAC3FF&}m 0 0 m 458 498 l 585 520 l 585 555 l 451 530 {\p0}

@@ -64,10 +64,10 @@ Dialogue: 10,0:03:10.13,0:03:14.29,Main,Sakuragi,0,0,0,,Oh, that’s the Galaria
 Dialogue: 10,0:03:14.29,0:03:17.71,Main,Koharu,0,0,0,,Huh?! They’re nothing like \N the ones I’ve seen!{resembles NEP line, but with Ponyta removed. -blu}
 Dialogue: 10,0:03:17.71,0:03:21.20,Main,Renji,0,0,0,,In the Kanto Region... \N they look like this, right?
 Dialogue: 10,0:03:21.20,0:03:24.93,Main,Go,0,0,0,,Huh? \N So they’re different in Galar?!
-Dialogue: 10,0:03:24.93,0:03:30.14,Main,Rotom Go Ver,0,0,0,,Ponyta! Galarian Form! \N One-Horned Pokémon!{not sure what’d be best, something like ‘unicorn’ or the literal ‘one-horned’. EN games: ‘Unique Horn’...} Psychic type!
+Dialogue: 10,0:03:24.93,0:03:30.14,Main,Rotom Go Ver,0,0,0,,Ponyta! Galarian Form! \N One-Horned Pokémon!{not sure what’d be best, something like ‘unicorn’ or the literal ‘one-horned’. EN games: ‘Unique Horn’...} Esper type!
 Dialogue: 10,0:03:30.14,0:03:33.54,Main,Rotom Go Ver,0,0,0,,Its small horn hides a healing power!
 Dialogue: 10,0:03:33.54,0:03:37.43,Main,Rotom Go Ver,0,0,0,,With its Healing Pulse{iyashi no hadou}, \N any slight wound you have will be healed!{Sword dex entry, with half a sentence replaced with Healing Pulse -blu}
-Dialogue: 10,0:03:38.82,0:03:44.73,Main,Rotom Go Ver,0,0,0,,Gallop! Galarian Form! One-Horned Pokémon! \N Fairy/Psychic type!
+Dialogue: 10,0:03:38.82,0:03:44.73,Main,Rotom Go Ver,0,0,0,,Gallop! Galarian Form! One-Horned Pokémon! \N Fairy/Esper type!
 Dialogue: 10,0:03:44.73,0:03:46.65,Main,Rotom Go Ver,0,0,0,,The evolved form of Ponyta!{not a dex entry. -blu}
 Dialogue: 10,0:03:46.65,0:03:48.99,Main,Rotom Go Ver,0,0,0,,Brave and prideful!
 Dialogue: 10,0:03:48.99,0:03:53.96,Main,Rotom Go Ver,0,0,0,,This Pokémon dashes airily through the forest, its steps aided \N by the psycho-power stored in the fur on its fetlocks!{Shield dex entry -blu}
@@ -833,7 +833,7 @@ Dialogue: 1,0:13:45.51,0:13:51.51,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\f
 Dialogue: 2,0:13:45.51,0:13:51.51,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:13:46.59,0:13:51.51,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1143,561}Ponyta
-Dialogue: 1,0:13:46.59,0:13:51.51,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Psychic
+Dialogue: 1,0:13:46.59,0:13:51.51,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Esper
 Dialogue: 0,0:13:46.59,0:13:51.51,OP,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&HB362AE&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.30,0:23:35.43,Episode titles,,0,0,0,,{\pos(530,104.333)}Gampi of the Elite Four!
@@ -870,7 +870,7 @@ Dialogue: 0,0:22:27.70,0:22:28.35,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.35,0:22:29.12,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.12,0:22:29.94,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.94,0:22:30.66,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.66,0:22:31.44,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.66,0:22:31.44,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.44,0:22:32.16,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.16,0:22:32.98,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:32.98,0:22:33.73,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!

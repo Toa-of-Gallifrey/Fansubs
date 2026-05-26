@@ -953,7 +953,7 @@ Dialogue: 0,0:12:36.56,0:12:41.49,Eyecatch,,0,0,0,,{\blur0.6\fad(170,0)\pos(1735
 Dialogue: 1,0:12:36.56,0:12:41.49,Eyecatch,,0,0,0,,{\bord0\blur0.6\fad(170,0)\pos(1735.5,841.5)\4a&HFF&}Lugia
 Dialogue: 1,0:12:36.56,0:12:41.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1699.5,1023)}Flying
 Dialogue: 0,0:12:36.56,0:12:41.49,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur4.5\pos(0,0)\p1\c&HA65610&}m 0 0 m 1575 960 l 1830 960 l 1830 1024.5 l 1575 1024.5{\p0}
-Dialogue: 1,0:12:36.56,0:12:41.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1414.5,1023)}Psychic
+Dialogue: 1,0:12:36.56,0:12:41.49,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1414.5,1023)}Esper
 Dialogue: 0,0:12:36.56,0:12:41.49,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur4.5\pos(0,0)\p1\c&HB362AE&}m 0 0 m 1290 960 l 1530 960 l 1530 1024.5 l 1290 1024.5{\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:04:19.07,0:04:24.49,Episode titles,,0,0,0,,{\fad(180,0)\blur0.6\pos(728,195)\c&HFFFFFF&}Satoshi and Go,

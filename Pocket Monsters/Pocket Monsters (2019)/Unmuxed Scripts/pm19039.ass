@@ -49,9 +49,9 @@ Dialogue: 10,0:00:57.08,0:00:58.32,Main,Go,0,0,0,,Satoshi!
 Dialogue: 10,0:00:59.24,0:01:00.20,Main,Satoshi,0,0,0,,Go?
 Dialogue: 10,0:01:01.58,0:01:02.84,Main,Go,0,0,0,,Let’s go to Johto!
 Dialogue: 10,0:01:02.84,0:01:03.96,Main,Satoshi,0,0,0,,Johto?
-Dialogue: 10,0:01:12.43,0:01:15.19,Main,Satoshi,0,0,0,,So Ms. Saito{Honorifics note: Saito-san} is \N training in Johto?
+Dialogue: 10,0:01:12.43,0:01:15.19,Main,Satoshi,0,0,0,,So Ms. Saitou{Honorifics note: Saitou-san} is \N training in Johto?
 Dialogue: 10,0:01:17.68,0:01:23.31,Main,Narrator,0,0,0,,{\q2}Satoshi is currently participating in a battle festival \N known as the Pokémon World Championships.
-Dialogue: 10,0:01:23.90,0:01:27.98,Main,Narrator,0,0,0,,Saito is a competitor who \N previously defeated him.
+Dialogue: 10,0:01:23.90,0:01:27.98,Main,Narrator,0,0,0,,Saitou is a competitor who \N previously defeated him.
 Dialogue: 10,0:01:27.98,0:01:31.78,Main,Narrator,0,0,0,,Learning that she’s in \N the Johto Region’s Tamba City,
 Dialogue: 10,0:01:31.78,0:01:34.14,Main,Narrator,0,0,0,,he’s heading there \N hoping for a rematch.
 Dialogue: 10,0:01:35.09,0:01:38.89,Main,Go,0,0,0,,This is great. I’d just been thinking of \N catching some Johto Pokémon, myself.
@@ -64,13 +64,13 @@ Dialogue: 10,0:01:55.69,0:01:58.77,Main,Go,0,0,0,,I was so close...
 Dialogue: 10,0:02:00.94,0:02:01.89,Main,Shijima,0,0,0,,Begin!
 Dialogue: 10,0:02:18.58,0:02:23.05,Main,Shijima,0,0,0,,Remarkable!{SASUGA. -Starfish} You took every last one \N of my Nyorobon’s Poison Jabs!
 Dialogue: 10,0:02:25.96,0:02:28.29,Main,Shijima,0,0,0,,A Championships notification!
-Dialogue: 10,0:02:29.22,0:02:30.17,Main,Satoshi,0,0,0,,Ms. Saito{Honorifics note: Saito-san}!
+Dialogue: 10,0:02:29.22,0:02:30.17,Main,Satoshi,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san}!
 Comment: 10,0:02:32.63,0:02:32.63,Main,,0,0,0,,{Opening}
 Comment: 10,0:04:00.88,0:04:00.88,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:04:23.40,0:04:27.47,Main,Shijima,0,0,0,,That young man looks familiar... {you fought him nineteen years ago IRL time -Puto}
 Dialogue: 10,0:04:27.47,0:04:29.62,Main,Rotom x2,0,0,0,,This is an official \N battle announcement.{Copy-paste from ep 18 -Starfish}
 Dialogue: 10,0:04:29.62,0:04:31.91,Main,Rotom x2,0,0,0,,Would you like to battle? Or not?{Copy-paste from ep 18 -Starfish}
-Dialogue: 10,0:04:31.91,0:04:34.59,Main,Satoshi,0,0,0,,Battle me, Ms. Saito{Honorifics note: Saito-san}!
+Dialogue: 10,0:04:31.91,0:04:34.59,Main,Satoshi,0,0,0,,Battle me, Ms. Saitou{Honorifics note: Saitou-san}!
 Dialogue: 10,0:04:36.82,0:04:40.30,Main,Satoshi,0,0,0,,Huh? Um... \N Do you recognize me?
 Dialogue: 10,0:04:40.85,0:04:42.30,Main,Saito,0,0,0,,The Riolu trainer.
 Dialogue: 10,0:04:45.00,0:04:47.47,Main,Go,0,0,0,,Looks like she \N doesn’t remember your name.
@@ -91,20 +91,20 @@ Dialogue: 10,0:05:30.51,0:05:32.25,Main,Saito,0,0,0,,You know him?
 Dialogue: 10,0:05:32.25,0:05:33.99,Main,Shijima,0,0,0,,I am a Gym Leader.
 Dialogue: 10,0:05:33.99,0:05:37.23,Main,Shijima,0,0,0,,They say I let my roaring fists \N do the talking!{Referencing his description from the games. -Starfish}
 Dialogue: 10,0:05:37.23,0:05:42.61,Main,Shijima,0,0,0,,I never forget any trainer with whom \N I have exchanged roaring fists!{flashback is from episode 209 of the original series... for the record -Puto}
-Dialogue: 10,0:05:43.12,0:05:46.86,Main,Satoshi,0,0,0,,Ms. Saito{Honorifics note: Saito-san}, I made it \N back into the Super Class!
+Dialogue: 10,0:05:43.12,0:05:46.86,Main,Satoshi,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san}, I made it \N back into the Super Class!
 Dialogue: 10,0:05:46.86,0:05:50.08,Main,Shijima,0,0,0,,You had dropped \N into the Normal Class?
 Dialogue: 10,0:05:50.08,0:05:54.91,Main,Shijima,0,0,0,,I see. You can only battle trainers \N in the same class as you, after all.
 Dialogue: 10,0:05:54.91,0:05:58.82,Main,Go,0,0,0,,Yeah! This’ll be \N Satoshi’s revenge match!
 Dialogue: 10,0:06:04.63,0:06:06.88,Main,Satoshi,0,0,0,,I’ll win my way up the ranks again!
 Dialogue: 10,0:06:11.40,0:06:16.54,Main,Drone Rotom,0,0,0,,The Pokémon World Championships \N has approved this Super Class battle!{Copy-paste from episode 33 -Starfish}
-Dialogue: 10,0:06:17.05,0:06:21.40,Main,Drone Rotom,0,0,0,,The match-up is Competitor Saito \N VS Competitor Satoshi.
+Dialogue: 10,0:06:17.05,0:06:21.40,Main,Drone Rotom,0,0,0,,The match-up is Competitor Saitou \N VS Competitor Satoshi.
 Dialogue: 10,0:06:21.40,0:06:24.15,Main,Drone Rotom,0,0,0,,This battle will be a 2v2. {Copy-paste from episode 18. -Starfish}
 Dialogue: 10,0:06:24.15,0:06:26.32,Main,Satoshi,0,0,0,,Pikachu, Riolu! Stay sharp!
 Dialogue: 10,0:06:28.65,0:06:32.62,Main,Drone Rotom,0,0,0,,All right, both sides send out \N your Pokémon at the same time.{Copy-paste from episode 18 -Starfish}
 Dialogue: 10,0:06:32.62,0:06:33.75,Main,Drone Rotom,0,0,0,,3!
 Dialogue: 10,0:06:33.75,0:06:34.73,Main,Drone Rotom,0,0,0,,2!
 Dialogue: 10,0:06:34.73,0:06:35.45,Main,Drone Rotom,0,0,0,,1!
-Dialogue: 10,0:06:35.83,0:06:36.91,Main,Saito & Drone Rotom,0,0,0,,{\an8}Go!
+Dialogue: 10,0:06:35.83,0:06:36.91,Main,Saitou & Drone Rotom,0,0,0,,{\an8}Go!
 Dialogue: 10,0:06:35.83,0:06:37.90,Main,Satoshi,0,0,0,,Go, Pikachu!
 Dialogue: 10,0:06:37.90,0:06:39.29,Main,Saito,0,0,0,,Capoeirer!
 Dialogue: 10,0:06:45.18,0:06:46.71,Main,Go,0,0,0,,Capoeirer, huh?
@@ -142,7 +142,7 @@ Dialogue: 10,0:09:35.68,0:09:37.55,Main,Satoshi,0,0,0,,All right! We win the fir
 Dialogue: 10,0:09:39.26,0:09:40.73,Main,Satoshi,0,0,0,,Good job, Pikachu!
 Dialogue: 10,0:09:45.10,0:09:49.16,Main,Go,0,0,0,,They won! \N You did it, Satoshi, Pikachu!
 Dialogue: 10,0:09:50.51,0:09:52.56,Main,Shijima,0,0,0,,Really excited, I see!
-Dialogue: 10,0:09:52.56,0:09:57.20,Main,Go,0,0,0,,Satoshi couldn’t defeat even one of \N Ms. Saito{Honorifics note: Saito-san}’s Pokémon last time.
+Dialogue: 10,0:09:52.56,0:09:57.20,Main,Go,0,0,0,,Satoshi couldn’t defeat even one of \N Ms. Saitou{Honorifics note: Saitou-san}’s Pokémon last time.
 Dialogue: 10,0:09:57.20,0:09:59.24,Main,Go,0,0,0,,Now if he can keep up the momentum \N and beat the next... {Suggesting "up the momentum" in place of "the momentum going". - Toa}
 Dialogue: 10,0:09:59.24,0:10:03.73,Main,Shijima,0,0,0,,But how do you think \N {\i1}she{\i0} feels about this loss?
 Dialogue: 10,0:10:06.16,0:10:07.92,Main,Saito,0,0,0,,Come back, Capoeirer.
@@ -192,7 +192,7 @@ Dialogue: 10,0:15:16.93,0:15:20.56,Main,Satoshi,0,0,0,,That’s it, Riolu! \N Ma
 Dialogue: 10,0:15:20.56,0:15:22.74,Main,Satoshi,0,0,0,,Start breaking through \N the Octolock!
 Dialogue: 10,0:15:23.56,0:15:25.98,Main,Saito,0,0,0,,Most intriguing.
 Dialogue: 10,0:15:25.98,0:15:27.69,Main,Saito,0,0,0,,Let me see what you have!
-Dialogue: 10,0:15:27.69,0:15:30.03,Main,Go,0,0,0,,Ms. Saito{Honorifics note: Saito-san}’s letting him do it!
+Dialogue: 10,0:15:27.69,0:15:30.03,Main,Go,0,0,0,,Ms. Saitou{Honorifics note: Saitou-san}’s letting him do it!
 Dialogue: 10,0:15:30.95,0:15:33.95,Main,Satoshi,0,0,0,,Riolu, store up your power!
 Dialogue: 10,0:15:47.24,0:15:47.96,Main,Satoshi,0,0,0,,Force Palm!
 Dialogue: 10,0:15:54.09,0:15:54.97,Main,Satoshi,0,0,0,,We did it!
@@ -205,7 +205,7 @@ Dialogue: 10,0:16:14.74,0:16:17.86,Main,Saito,0,0,0,,Your Force Palm has \N gott
 Dialogue: 10,0:16:18.46,0:16:21.47,Main,Saito,0,0,0,,Well, then, we shall answer\N in turn with our full power!{Bull sheet she does not even HAVE a Z-Ring! -Starfish}{she does however strike a fancy pose. -Puto}
 Dialogue: 10,0:16:22.87,0:16:23.83,Main,Saito,0,0,0,,Infight!
 Dialogue: 10,0:16:25.50,0:16:28.38,Main,Satoshi,0,0,0,,Let’s finish this! \N Another Force Palm!
-Dialogue: 10,0:16:32.72,0:16:33.97,Main,Satoshi & Saito,0,0,0,,Go!
+Dialogue: 10,0:16:32.72,0:16:33.97,Main,Satoshi & Saitou,0,0,0,,Go!
 Dialogue: 10,0:17:10.79,0:17:14.01,Main,Drone Rotom,0,0,0,,Otosupus and Riolu \N are both unable to battle!
 Dialogue: 10,0:17:14.49,0:17:18.85,Main,Drone Rotom,0,0,0,,As such, this battle is a draw! \N No change to the rankings!
 Dialogue: 10,0:17:19.45,0:17:20.83,Main,Go,0,0,0,,A draw...
@@ -269,7 +269,7 @@ Dialogue: 10,0:21:20.32,0:21:22.59,Main,Satoshi,0,0,0,,Still not done?
 Dialogue: 10,0:21:22.59,0:21:23.88,Main,Go,0,0,0,,Nope!
 Dialogue: 10,0:21:23.88,0:21:27.59,Main,Go,0,0,0,,I won’t go home until I’ve caught \N {\i1}at least{\i0} one Johto Pokémon!
 Dialogue: 10,0:21:29.95,0:21:33.48,Main,Go,0,0,0,,I got it in the end, so it’s fine!
-Dialogue: 10,0:21:33.48,0:21:37.44,Main,Narrator,0,0,0,,Satoshi has faced another challenge \N in his second battle with Saito.
+Dialogue: 10,0:21:33.48,0:21:37.44,Main,Narrator,0,0,0,,Satoshi has faced another challenge \N in his second battle with Saitou.
 Dialogue: 10,0:21:37.44,0:21:42.42,Main,Narrator,300,0,0,,His challenge to reach the mightiest Champion,{Note: The word used here actually IS “Champion”, not his usual “saikyou no ouja” title. -Starfish}\N Dande, will continue.
 Comment: 10,0:21:44.53,0:21:44.53,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:05.53,0:23:05.53,Main,,0,0,0,,{Preview}
@@ -409,8 +409,8 @@ Dialogue: 0,0:03:54.96,0:03:59.21,OPp2,,0,0,0,,Let's go! You pick yourself up by
 Dialogue: 1,0:03:59.21,0:04:00.88,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:59.21,0:04:00.88,OPp2,,0,0,0,,I choose you!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:04:04.47,0:04:09.89,Episode titles,,0,0,0,,{\fad(180,0)\pos(510,105)}Satoshi Versus Saito!
-Dialogue: 0,0:04:04.47,0:04:09.89,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(510,105)}Satoshi Versus Saito!
+Dialogue: 1,0:04:04.47,0:04:09.89,Episode titles,,0,0,0,,{\fad(180,0)\pos(510,105)}Satoshi Versus Saitou!
+Dialogue: 0,0:04:04.47,0:04:09.89,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(510,105)}Satoshi Versus Saitou!
 Dialogue: 1,0:04:04.47,0:04:09.89,Episode titles,,0,0,0,,{\fad(180,0)\pos(780,443)}Overcome Octolock!!
 Dialogue: 0,0:04:04.47,0:04:09.89,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(780,443)}Overcome Octolock!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -894,7 +894,7 @@ Dialogue: 0,0:22:27.74,0:22:28.39,Main,Pokémon Shiritori,0,0,0,,Burshamo!
 Dialogue: 0,0:22:28.39,0:22:29.16,Main,Pokémon Shiritori,0,0,0,,Mokuroh!
 Dialogue: 0,0:22:29.16,0:22:29.98,Main,Pokémon Shiritori,0,0,0,,Rotom!
 Dialogue: 0,0:22:29.98,0:22:30.70,Main,Pokémon Shiritori,0,0,0,,Mooland!
-Dialogue: 0,0:22:30.70,0:22:31.48,Main,Pokémon Shiritori,0,0,0,,Dodorio!
+Dialogue: 0,0:22:30.70,0:22:31.48,Main,Pokémon Shiritori,0,0,0,,Dodrio!
 Dialogue: 0,0:22:31.48,0:22:32.20,Main,Pokémon Shiritori,0,0,0,,Otosupus!
 Dialogue: 0,0:22:32.20,0:22:33.02,Main,Pokémon Shiritori,0,0,0,,Swanna!
 Dialogue: 0,0:22:33.02,0:22:33.77,Main,Pokémon Shiritori,0,0,0,,Nazonokusa!
