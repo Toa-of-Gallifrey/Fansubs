@@ -60,7 +60,7 @@ Dialogue: 10,0:01:15.39,0:01:18.52,Main,Liko,0,0,0,,When we come back, \N we’l
 Dialogue: 10,0:01:18.89,0:01:22.35,Main,Friede,0,0,0,,Once you’re done eating, \N I’ll head over to Orange Academy with you.
 Dialogue: 10,0:01:22.73,0:01:23.61,Main,Liko & Roy,0,0,0,,Huh?
 Dialogue: 10,0:01:23.61,0:01:26.32,Main,Dot,0,0,0,,But the implementation tests \N don’t start ‘til tomorrow.
-Dialogue: 10,0:01:26.82,0:01:28.57,Main,Friede,0,0,0,,Didn’t I tell you?
+Dialogue: 10,0:01:26.82,0:01:28.57,Main,Friede,0,0,0,,Didn’t I mention?
 Dialogue: 10,0:01:28.57,0:01:32.20,Main,Friede,0,0,0,,I made an appointment for us to see \N Principal Clavel and Board Chair Omodaka.
 Dialogue: 10,0:01:32.70,0:01:35.07,Main,Them,0,0,0,,{\i1}Huh?!{\i0}
 Dialogue: 10,0:01:46.96,0:01:52.47,Main,Landau,0,0,0,,Every human bears a history. \N Every object bears imbued emotion.
@@ -153,9 +153,9 @@ Dialogue: 10,0:08:09.18,0:08:11.26,Main,Liko,0,0,0,,Wh-Why do you have a Terapag
 Dialogue: 10,0:08:12.43,0:08:16.06,Main,Raifort,0,0,0,,Whoops... \N Putting on an Illusion again, are we?
 Dialogue: 10,0:08:19.85,0:08:23.90,Main,Raifort,0,0,0,,Excuse her{using game gender again}. \N My Zoroark is a bit of a prankster.
 Dialogue: 10,0:08:25.11,0:08:26.86,Main,Liko,0,0,0,,Zoroark?
-Dialogue: 10,0:08:28.86,0:08:32.24,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Zoroark. Transforming Fox Pokémon. \N Evil type.
-Dialogue: 10,0:08:32.24,0:08:35.45,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It has the ability to fool \N large groups of people simultaneously.{edited to a more default encyclopedic tone, official had an odd departure from norm for some reason. revert "It" to "Each" if this turns out to be actually reflective of something instead of random I guess -ed}
-Dialogue: 10,0:08:35.45,0:08:38.54,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It protects its lair with illusions.{Violet dex entry with keshiki removed}
+Dialogue: 10,0:08:28.86,0:08:32.24,Main,Smartphone Rotom,0,0,0,,Zoroark. Transforming Fox Pokémon. \N Evil type.
+Dialogue: 10,0:08:32.24,0:08:35.45,Main,Smartphone Rotom,0,0,0,,It has the ability to fool \N large groups of people simultaneously.{edited to a more default encyclopedic tone, official had an odd departure from norm for some reason. revert "It" to "Each" if this turns out to be actually reflective of something instead of random I guess -ed}
+Dialogue: 10,0:08:35.45,0:08:38.54,Main,Smartphone Rotom,0,0,0,,It protects its lair with illusions.{Violet dex entry with keshiki removed}
 Dialogue: 10,0:08:38.54,0:08:41.21,Main,Liko,0,0,0,,That’s an impressive power...
 Dialogue: 10,0:08:41.21,0:08:42.00,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:08:52.47,0:08:53.89,Main,Friede,0,0,0,,She looks just like him!
@@ -190,9 +190,9 @@ Dialogue: 10,0:10:52.55,0:10:55.34,Main,Roy,0,0,0,,Is the treasure a Pokémon?!
 Dialogue: 10,0:10:55.34,0:10:57.47,Main,Dot,0,0,0,,I don’t see anything, though...
 Dialogue: 10,0:10:58.68,0:10:59.93,Main,Roy,0,0,0,,Over there!
 Dialogue: 10,0:11:06.90,0:11:08.90,Main,Roy,0,0,0,,I’ve never seen that Pokémon before!
-Dialogue: 10,0:11:10.23,0:11:15.24,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Collecurei. Walking Forme. \N Treasure Hunter Pokémon. Ghost type.
-Dialogue: 10,0:11:15.24,0:11:18.41,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It was born from human emotion \N that seeped into a coin.{Partial Scarlet dex entry, with word choice dumbed down}
-Dialogue: 10,0:11:18.41,0:11:20.53,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It wanders around, \N carrying an old coin on its back.{Partial Violet dex entry}{(Born from people's emotion that seeped into a coin. Wanders, carrying an old coin on its back.)}
+Dialogue: 10,0:11:10.23,0:11:15.24,Main,Smartphone Rotom,0,0,0,,Collecurei. Walking Forme. \N Treasure Hunter Pokémon. Ghost type.
+Dialogue: 10,0:11:15.24,0:11:18.41,Main,Smartphone Rotom,0,0,0,,It was born from human emotion \N that seeped into a coin.{Partial Scarlet dex entry, with word choice dumbed down}
+Dialogue: 10,0:11:18.41,0:11:20.53,Main,Smartphone Rotom,0,0,0,,It wanders around, \N carrying an old coin on its back.{Partial Violet dex entry}{(Born from people's emotion that seeped into a coin. Wanders, carrying an old coin on its back.)}
 Dialogue: 10,0:11:20.53,0:11:22.91,Main,Roy,0,0,0,,It was born from human emotion?!
 Dialogue: 10,0:11:22.91,0:11:24.79,Main,Friede,0,0,0,,They’re rare.
 Dialogue: 10,0:11:24.79,0:11:29.25,Main,Friede,0,0,0,,Nobody’s ever managed to catch that Forme \N in the Paldea Region before.

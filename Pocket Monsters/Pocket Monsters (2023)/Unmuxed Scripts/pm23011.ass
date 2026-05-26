@@ -61,12 +61,12 @@ Dialogue: 10,0:01:55.43,0:01:58.22,Main,Molly,0,0,0,,Yeah... Same as always.
 Dialogue: 10,0:01:58.22,0:02:01.98,Main,Molly,0,0,0,,My mom’s worrying about me \N for the wrong reasons.
 Dialogue: 10,0:02:01.98,0:02:03.44,Main,Orio,0,0,0,,You must be tired.
 Dialogue: 10,0:02:06.02,0:02:08.90,Main,Molly,0,0,0,,Weren’t those kids going to \N this forest tomorrow?
-Dialogue: 10,0:02:08.90,0:02:12.20,Main,Orio,0,0,0,,To follow up on the info \N from Mr. Colza{honorific note:Colza-san}, yeah.
+Dialogue: 10,0:02:08.90,0:02:12.20,Main,Orio,0,0,0,,To follow up on the info \N from Mr. Colza{Honorifics note: Colza-san}, yeah.
 Dialogue: 10,0:02:13.32,0:02:15.03,Main,Molly,0,0,0,,Maybe I should go, too.
 Comment: 0,0:02:16.20,0:02:16.20,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:46.29,0:03:46.29,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:57.88,0:03:59.80,Main,Roy,0,0,0,,Huh? No way!
-Dialogue: 10,0:04:02.05,0:04:05.52,Main,Roy,0,0,0,,This is the forest Mr. Colza{honorific note:Colza-san} mentioned?
+Dialogue: 10,0:04:02.05,0:04:05.52,Main,Roy,0,0,0,,This is the forest Mr. Colza{Honorifics note: Colza-san} mentioned?
 Dialogue: 10,0:04:07.56,0:04:09.81,Main,Liko,0,0,0,,That’s no forest...
 Dialogue: 10,0:04:09.81,0:04:11.44,Main,Roy,0,0,0,,It’s just a bare hill!
 Dialogue: 10,0:04:11.94,0:04:14.44,Main,Nemo,0,0,0,,There was a wildfire here recently.
@@ -187,7 +187,7 @@ Dialogue: 10,0:10:39.62,0:10:40.87,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:10:41.33,0:10:44.71,Main,Liko,0,0,0,,Which way... \N did we come from?
 Dialogue: 10,0:10:48.13,0:10:49.63,Main,Liko,0,0,0,,Am I lost?!
 Dialogue: 10,0:10:49.63,0:10:53.13,Main,Liko,0,0,0,,T-T-Times like these, \N I need to stay calm...
-Dialogue: 10,0:10:53.59,0:10:54.88,Main,Go - PokéDex Forme (Not YOU),0,0,0,,No reception.
+Dialogue: 10,0:10:53.59,0:10:54.88,Main,Smartphone Rotom,0,0,0,,No reception.
 Dialogue: 10,0:10:55.30,0:10:56.76,Main,Liko,0,0,0,,No way!
 Dialogue: 10,0:10:56.76,0:11:01.14,Main,Liko,0,0,0,,Um... If I get lost... \N That tree landmark...
 Dialogue: 10,0:11:02.31,0:11:03.60,Main,Liko,0,0,0,,That’s it!
@@ -211,9 +211,9 @@ Dialogue: 10,0:12:43.37,0:12:44.66,Main,Liko,0,0,0,,Is that...?
 Dialogue: 10,0:12:47.04,0:12:48.25,Main,Liko,0,0,0,,Oh, no!
 Dialogue: 10,0:12:53.29,0:12:55.75,Main,Liko,0,0,0,,Wh-What do I do?
 Dialogue: 10,0:12:55.75,0:12:57.42,Main,Liko,0,0,0,,Um...
-Dialogue: 10,0:12:58.38,0:13:03.18,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Wooper: Paldean Form. \N Poison Fish Pokémon. Poison/Ground type.
-Dialogue: 10,0:13:03.76,0:13:08.68,Main,Go - PokéDex Forme (Not YOU),0,0,0,,After losing a territorial struggle, \N it began living in marshes.
-Dialogue: 10,0:13:08.68,0:13:13.11,Main,Go - PokéDex Forme (Not YOU),0,0,0,,To prevent dehydration, \N its body is covered in a poisonous film.{Scarlet dex entry reworded}
+Dialogue: 10,0:12:58.38,0:13:03.18,Main,Smartphone Rotom,0,0,0,,Wooper: Paldean Form. \N Poison Fish Pokémon. Poison/Ground type.
+Dialogue: 10,0:13:03.76,0:13:08.68,Main,Smartphone Rotom,0,0,0,,After losing a territorial struggle, \N it began living in marshes.
+Dialogue: 10,0:13:08.68,0:13:13.11,Main,Smartphone Rotom,0,0,0,,To prevent dehydration, \N its body is covered in a poisonous film.{Scarlet dex entry reworded}
 Dialogue: 10,0:13:14.15,0:13:16.19,Main,Liko,0,0,0,,Its skin is bone dry...
 Dialogue: 10,0:13:16.69,0:13:18.57,Main,Liko,0,0,0,,That’s why it has no energy...
 Dialogue: 10,0:13:30.21,0:13:32.25,Main,Liko,0,0,0,,My hand’s stinging...
@@ -260,7 +260,7 @@ Dialogue: 10,0:16:19.25,0:16:20.50,Main,Liko,0,0,0,,Roy!
 Dialogue: 10,0:16:20.50,0:16:22.75,Main,Liko,0,0,0,,That’s a Pokémon, isn’t it?!
 Dialogue: 10,0:16:22.75,0:16:24.00,Main,Liko,0,0,0,,But it’s so big...
 Dialogue: 10,0:16:24.00,0:16:28.05,Main,Roy,0,0,0,,Look! Another Ancient Monster Ball!
-Dialogue: 10,0:16:28.59,0:16:31.89,Main,Liko,0,0,0,,What if the Oliva that \N Mr. Colza{honorific note:Colza-san} mentioned...
+Dialogue: 10,0:16:28.59,0:16:31.89,Main,Liko,0,0,0,,What if the Oliva that \N Mr. Colza{Honorifics note: Colza-san} mentioned...
 Dialogue: 10,0:16:31.89,0:16:33.51,Main,Roy,0,0,0,,...is this one?!
 Dialogue: 10,0:16:47.07,0:16:49.15,Main,Roy,0,0,0,,It stopped attacking?
 Dialogue: 10,0:16:49.86,0:16:51.99,Main,Liko,0,0,0,,Because these little ones are here.
@@ -289,7 +289,7 @@ Dialogue: 10,0:17:45.00,0:17:47.21,Main,Liko,0,0,0,,Nyahoja! \N Draw Oliva’s a
 Dialogue: 10,0:17:47.21,0:17:48.96,Main,Liko,0,0,0,,Lightning Speed!
 Dialogue: 10,0:17:58.43,0:18:02.31,Main,Liko,0,0,0,,Nyahoja can’t keep this up... \N We have to do something!
 Dialogue: 10,0:18:02.31,0:18:04.98,Main,Roy,0,0,0,,Yeah, but what?
-Dialogue: 10,0:18:06.65,0:18:11.11,Main,Roy,0,0,0,,Mr. Colza{honorific note:Colza-san} said... \N I should watch my own Pokémon...
+Dialogue: 10,0:18:06.65,0:18:11.11,Main,Roy,0,0,0,,Mr. Colza{Honorifics note: Colza-san} said... \N I should watch my own Pokémon...
 Dialogue: 10,0:18:11.65,0:18:13.95,Main,Liko,0,0,0,,Nyahoja! \N One more Lightning Speed!
 Dialogue: 10,0:18:21.79,0:18:24.46,Main,Roy,0,0,0,,I know! \N Hogator, use Stomping Tantrum!
 Dialogue: 10,0:18:35.51,0:18:36.76,Main,Roy,0,0,0,,Liko, now!

@@ -95,9 +95,9 @@ Dialogue: 10,0:05:20.09,0:05:23.09,Main,Yuno,0,0,0,,And this’s my Pokémon, Tw
 Dialogue: 10,0:05:23.09,0:05:24.30,Main,Liko,0,0,0,,Twirls{Honorifics note: Twirly-chan}?
 Dialogue: 10,0:05:25.72,0:05:28.93,Main,Yuno,0,0,0,,Her tail’s all twirly, \N so I call her Twirls{Honorifics note: Twirly-chan}!
 Dialogue: 10,0:05:28.93,0:05:29.98,Main,Yuno,0,0,0,,Cute, ain’t she?
-Dialogue: 10,0:05:31.06,0:05:35.23,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Perfuton: Female Form. \N Pig Pokémon. Normal type.
-Dialogue: 10,0:05:35.61,0:05:37.48,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Meticulous and likes to \N keep things tidy.
-Dialogue: 10,0:05:37.48,0:05:41.49,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It shrouds itself in a floral aroma \N that soothes the Pokémon around it.{Violet dex entry - I edited down the first half}
+Dialogue: 10,0:05:31.06,0:05:35.23,Main,Smartphone Rotom,0,0,0,,Perfuton: Female Form. \N Pig Pokémon. Normal type.
+Dialogue: 10,0:05:35.61,0:05:37.48,Main,Smartphone Rotom,0,0,0,,Meticulous and likes to \N keep things tidy.
+Dialogue: 10,0:05:37.48,0:05:41.49,Main,Smartphone Rotom,0,0,0,,It shrouds itself in a floral aroma \N that soothes the Pokémon around it.{Violet dex entry - I edited down the first half}
 Dialogue: 10,0:05:44.20,0:05:47.70,Main,Gurumin,0,0,0,,My, my... She sure ain’t groovin’. {alt if that's too much: She’s definitely not groovin’.}
 Dialogue: 10,0:05:47.70,0:05:50.08,Main,Yuno,0,0,0,,Wh-Wh-Whoa! It’s Gurumin!
 Dialogue: 10,0:05:52.42,0:05:55.29,Main,Yuno,0,0,0,,Huh?! Liko, {\i1}you’re{\i0} NyahojaSuperfan?!
@@ -161,9 +161,9 @@ Dialogue: 10,0:09:06.40,0:09:10.40,Main,Renta,0,0,0,,Besides, Prince could have 
 Dialogue: 10,0:09:10.82,0:09:12.45,Main,Renta,0,0,0,,Right, Prince?
 Dialogue: 10,0:09:21.62,0:09:22.88,Main,Human being,0,0,0,,What is it?
 Dialogue: 10,0:09:34.68,0:09:36.22,Main,Liko,0,0,0,,What’s going on?
-Dialogue: 10,0:09:36.22,0:09:40.94,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Perfuton: Male Form. \N Pig Pokémon. Normal type.
-Dialogue: 10,0:09:40.94,0:09:44.10,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It emits a sweet, alluring scent \N from all over its body...
-Dialogue: 10,0:09:44.10,0:09:47.02,Main,Go - PokéDex Forme (Not YOU),0,0,0,,...which makes female Pokémon \N {honenuki=smitten}go weak at the knees.{Violet dex entry, retranslated to try and keep pun}
+Dialogue: 10,0:09:36.22,0:09:40.94,Main,Smartphone Rotom,0,0,0,,Perfuton: Male Form. \N Pig Pokémon. Normal type.
+Dialogue: 10,0:09:40.94,0:09:44.10,Main,Smartphone Rotom,0,0,0,,It emits a sweet, alluring scent \N from all over its body...
+Dialogue: 10,0:09:44.10,0:09:47.02,Main,Smartphone Rotom,0,0,0,,...which makes female Pokémon \N {honenuki=smitten}go weak at the knees.{Violet dex entry, retranslated to try and keep pun}
 Dialogue: 10,0:09:47.02,0:09:48.44,Main,Roy,0,0,0,,{honenuki=bone removal}He weakens their knees?!
 Dialogue: 10,0:09:53.11,0:09:54.87,Main,Liko,0,0,0,,Not Nyahoja too!
 Dialogue: 10,0:09:54.87,0:09:57.24,Main,Liko,0,0,0,,Get a hold of yourself!

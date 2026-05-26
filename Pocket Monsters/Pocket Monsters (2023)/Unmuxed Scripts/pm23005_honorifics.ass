@@ -325,7 +325,7 @@ Dialogue: 10,0:18:23.79,0:18:24.71,Main,Orio,0,0,0,,Caterpie!
 Dialogue: 10,0:18:24.71,0:18:25.92,Main,Murdock & Orio,0,0,0,,String Shot!
 Dialogue: 10,0:18:36.60,0:18:39.97,Main,Roy,0,0,0,,Whoa! They did great!
 Dialogue: 10,0:18:40.97,0:18:42.68,Main,Molly,0,0,0,,Lucky, use Pound!
-Dialogue: 10,0:18:46.81,0:18:48.44,Main,Molly,0,0,0,,It’s pretty quick.{DREADED “IT” PRONOUN: Saidon}
+Dialogue: 10,0:18:46.81,0:18:48.44,Main,Molly,0,0,0,,It’s pretty quick.{Dread Saidon}
 Dialogue: 10,0:18:48.44,0:18:50.57,Main,Roy,0,0,0,,Lucky, go for it!
 Dialogue: 10,0:18:50.57,0:18:52.61,Main,Zir,0,0,0,,You’re one of them? {NAKAMA LINE}
 Dialogue: 10,0:18:52.61,0:18:54.78,Main,Zir,0,0,0,,Then take this! Rock Blast!

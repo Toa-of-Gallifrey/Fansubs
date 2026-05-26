@@ -98,15 +98,15 @@ Dialogue: 10,0:05:02.74,0:05:05.79,Main,Dot,0,0,0,,Plus... There’ll be \N a to
 Dialogue: 10,0:05:05.79,0:05:08.00,Main,Dot,0,0,0,,You might hear something \N about Rekkuuza.
 Dialogue: 10,0:05:08.00,0:05:09.29,Main,Roy,0,0,0,,You’re right!
 Dialogue: 10,0:05:11.04,0:05:12.83,Main,Roy,0,0,0,,Murdock, where’s Iwanko?
-Dialogue: 10,0:05:12.83,0:05:18.46,Main,Murdock,0,0,0,,Oh, it’s enjoying Molly’s \N “Special Brushing Time!”{DREADED “IT” PRONOUN: Iwanko}
-Dialogue: 10,0:05:19.72,0:05:22.01,Main,Liko,0,0,0,,It’ll be all silky and shiny after that.{DREADED “IT” PRONOUN: Iwanko}
+Dialogue: 10,0:05:12.83,0:05:18.46,Main,Murdock,0,0,0,,Oh, it’s enjoying Molly’s \N “Special Brushing Time!”{Dread Iwanko}
+Dialogue: 10,0:05:19.72,0:05:22.01,Main,Liko,0,0,0,,It’ll be all silky and shiny after that.{Dread Iwanko}
 Dialogue: 10,0:05:22.01,0:05:23.26,Main,Murdock,0,0,0,,You bet!
 Dialogue: 10,0:05:25.39,0:05:27.14,Main,Roy,0,0,0,,What’s that?!
 Dialogue: 10,0:05:27.14,0:05:29.73,Main,Murdock,0,0,0,,An elevator. \N Let’s get on.
 Dialogue: 10,0:05:33.31,0:05:35.31,Main,Murdock,0,0,0,,Now ascending!{Posher than usual Murdock}
 Dialogue: 10,0:06:05.05,0:06:07.89,Main,Liko,0,0,0,,Roy, did you find anything \N on the black Rekkuuza?
 Dialogue: 10,0:06:07.89,0:06:09.72,Main,Murdock,0,0,0,,Struck out again, huh?
-Dialogue: 10,0:06:09.72,0:06:12.89,Main,Roy,0,0,0,,Yeah. Nobody’s seen it.
+Dialogue: 10,0:06:09.72,0:06:12.89,Main,Roy,0,0,0,,Yeah. Nobody’s seen him.
 Dialogue: 10,0:06:12.89,0:06:17.57,Main,Roy,0,0,0,,But they said the Gym Leader, Mr. Kabu{Honorifics note: Kabu-san}, \N might know something!
 Dialogue: 10,0:06:17.57,0:06:20.86,Main,Roy,0,0,0,,Rekkuuza appears in \N Hoenn’s folklore, right?
 Dialogue: 10,0:06:20.86,0:06:24.03,Main,Roy,0,0,0,,That guy is from the Hoenn Region!

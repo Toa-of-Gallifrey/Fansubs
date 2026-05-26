@@ -114,9 +114,9 @@ Dialogue: 10,0:06:25.62,0:06:27.33,Main,Liko,0,0,0,,Are you okay, Mibrim?
 Dialogue: 10,0:06:34.46,0:06:35.96,Main,Roy,0,0,0,,What was that shout?!
 Dialogue: 10,0:06:46.72,0:06:48.60,Main,Dot,0,0,0,,Is that it?
 Dialogue: 10,0:06:48.72,0:06:50.51,Main,Roy,0,0,0,,The One Not Of This World?!
-Dialogue: 10,0:07:02.74,0:07:06.66,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Konoyozaru. Rage Monkey Pokémon. \N Fighting/Ghost type.
-Dialogue: 10,0:07:06.66,0:07:10.03,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When the force of its rage \N exceeded its critical point,{Rhyme from 052 was (inexactly) quoting this}
-Dialogue: 10,0:07:10.03,0:07:13.58,Main,Go - PokéDex Forme (Not YOU),0,0,0,,it gained power unconstrained \N by the limits of flesh.{Scarlet dex entry (re-edited)}{When the voltage(wasei: excitement/enthusiasm) of its rage exceeded the critical point ( https://en.wikipedia.org/wiki/Critical_point_%28thermodynamics%29 ), it gained power unconstrained by the limits of flesh.}
+Dialogue: 10,0:07:02.74,0:07:06.66,Main,Smartphone Rotom,0,0,0,,Konoyozaru. Rage Monkey Pokémon. \N Fighting/Ghost type.
+Dialogue: 10,0:07:06.66,0:07:10.03,Main,Smartphone Rotom,0,0,0,,When the force of its rage \N exceeded its critical point,{Rhyme from 052 was (inexactly) quoting this}
+Dialogue: 10,0:07:10.03,0:07:13.58,Main,Smartphone Rotom,0,0,0,,it gained power unconstrained \N by the limits of flesh.{Scarlet dex entry (re-edited)}{When the voltage(wasei: excitement/enthusiasm) of its rage exceeded the critical point ( https://en.wikipedia.org/wiki/Critical_point_%28thermodynamics%29 ), it gained power unconstrained by the limits of flesh.}
 Dialogue: 10,0:07:13.58,0:07:15.46,Main,Liko,0,0,0,,Konoyozaru...
 Dialogue: 10,0:07:15.46,0:07:18.21,Main,Roy,0,0,0,,Power unconstrained by flesh...
 Dialogue: 10,0:07:18.21,0:07:21.17,Main,Roy,0,0,0,,I get it! So {\i1}that’s{\i0} why it’s \N “Not Of This World”!
@@ -228,8 +228,8 @@ Dialogue: 10,0:19:05.87,0:19:08.29,Main,Roy,0,0,0,,She’s trying to stop the ba
 Dialogue: 10,0:19:08.29,0:19:09.38,Main,Liko,0,0,0,,Mibrim!
 Dialogue: 10,0:19:22.77,0:19:23.81,Main,Liko,0,0,0,,Mibrim...
 Dialogue: 10,0:19:23.81,0:19:25.23,Main,Roy,0,0,0,,...evolved?!
-Dialogue: 10,0:19:26.65,0:19:30.07,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Tebrim. Silencing Pokémon. \N Esper type.{ENgame: Serene. Tebrim is seishuku and Brimuon is seijaku... both of which are words for silence. Seijaku is apparently for natural silence, as silence in solitude. Seishuku is ordered silence of a group of people, like a librarian/judge/leader commanding "Silence!" Given the dex entries, I thought 'silencing' would fit that.}
-Dialogue: 10,0:19:30.07,0:19:33.90,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It will silence anyone with strong emotions, \N no matter who they may be.{partial Sword dex entry (re-edited)}
+Dialogue: 10,0:19:26.65,0:19:30.07,Main,Smartphone Rotom,0,0,0,,Tebrim. Silencing Pokémon. \N Esper type.{ENgame: Serene. Tebrim is seishuku and Brimuon is seijaku... both of which are words for silence. Seijaku is apparently for natural silence, as silence in solitude. Seishuku is ordered silence of a group of people, like a librarian/judge/leader commanding "Silence!" Given the dex entries, I thought 'silencing' would fit that.}
+Dialogue: 10,0:19:30.07,0:19:33.90,Main,Smartphone Rotom,0,0,0,,It will silence anyone with strong emotions, \N no matter who they may be.{partial Sword dex entry (re-edited)}
 Dialogue: 10,0:19:34.40,0:19:35.78,Main,Liko,0,0,0,,Tebrim...
 Dialogue: 10,0:19:35.78,0:19:37.16,Main,Roy,0,0,0,,It “silences” them?
 Dialogue: 10,0:20:11.40,0:20:12.94,Main,Roy,0,0,0,,Whoa...

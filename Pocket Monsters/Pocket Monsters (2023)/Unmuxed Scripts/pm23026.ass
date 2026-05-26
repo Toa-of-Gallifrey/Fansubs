@@ -79,32 +79,32 @@ Dialogue: 10,0:04:31.75,0:04:35.88,Main,Liko,0,0,0,,I hope Terapagos will get al
 Dialogue: 10,0:04:37.63,0:04:38.72,Main,Liko,0,0,0,,Huh?!
 Dialogue: 10,0:04:38.72,0:04:39.30,Main,Roy,0,0,0,,Liko?
 Dialogue: 10,0:04:39.30,0:04:40.13,Main,Friede,0,0,0,,What’s up?
-Dialogue: 10,0:04:40.13,0:04:42.14,Main,Liko,0,0,0,,It-It-It— {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:04:42.68,0:04:44.43,Main,Liko,0,0,0,,It’s {\i1}gone!{\i0}{DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:04:40.13,0:04:42.14,Main,Liko,0,0,0,,It-It-It— {Dread Terapagos}
+Dialogue: 10,0:04:42.68,0:04:44.43,Main,Liko,0,0,0,,It’s {\i1}gone!{\i0}{Dread Terapagos}
 Dialogue: 10,0:05:18.30,0:05:19.22,Main,Liko,0,0,0,,Not here!
 Dialogue: 10,0:05:20.09,0:05:21.43,Main,Liko,0,0,0,,Not here!
 Dialogue: 10,0:05:22.09,0:05:23.68,Main,Liko,0,0,0,,Not here!
 Dialogue: 10,0:05:24.72,0:05:25.72,Main,Liko,0,0,0,,Not here!
 Dialogue: 10,0:05:26.35,0:05:29.10,Main,Liko,0,0,0,,Not here...!
-Dialogue: 10,0:05:29.10,0:05:31.35,Main,Roy,0,0,0,,Where’d it go? {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:05:32.48,0:05:34.98,Main,Liko,0,0,0,,It can’t have gone outside, can it? {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:05:29.10,0:05:31.35,Main,Roy,0,0,0,,Where’d it go? {Dread Terapagos}
+Dialogue: 10,0:05:32.48,0:05:34.98,Main,Liko,0,0,0,,It can’t have gone outside, can it? {Dread Terapagos}
 Dialogue: 10,0:05:34.98,0:05:38.44,Main,Roy,0,0,0,,Don’t worry about that, \N the ship’s in the air.{On one hand I guess he is right in that surely Terapagos won't wander off somewhere else entirely if there's nowhere else to go. On the other hand, he is extremely wrong in that it could FALL OFF AND DIE.}
 Dialogue: 10,0:05:38.44,0:05:41.15,Main,Liko,0,0,0,,Perhaps, but I’m still worried...
 Dialogue: 10,0:05:47.66,0:05:48.83,Main,Liko,0,0,0,,Oh, no!
-Dialogue: 10,0:05:48.83,0:05:50.37,Main,Roy,0,0,0,,It can’t get back on its feet! {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:05:59.55,0:06:02.01,Main,Roy,0,0,0,,It wanted to eat berries? {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:05:48.83,0:05:50.37,Main,Roy,0,0,0,,It can’t get back on its feet! {Dread Terapagos}
+Dialogue: 10,0:05:59.55,0:06:02.01,Main,Roy,0,0,0,,It wanted to eat berries? {Dread Terapagos}
 Dialogue: 10,0:06:02.01,0:06:03.68,Main,Liko,0,0,0,,Come to think of it...
-Dialogue: 10,0:06:03.68,0:06:06.60,Main,Liko,0,0,0,,It didn’t eat any Pokémon food, did it?{DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:06:07.14,0:06:09.06,Main,Roy,0,0,0,,Maybe it’s got its own preferences.{Maybe it's a living creature and feeding literally every Pokémon the exact same food is dumb anyway and maybe this is a thing that the anime itself pointed out once upon a time like srsly pretty sure there was an early episode where Takeshi was talking about how one should take EVERY Pokémon's personal preferences into account.}{DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:06:03.68,0:06:06.60,Main,Liko,0,0,0,,It didn’t eat any Pokémon food, did it?{Dread Terapagos}
+Dialogue: 10,0:06:07.14,0:06:09.06,Main,Roy,0,0,0,,Maybe it’s got its own preferences.{Maybe it's a living creature and feeding literally every Pokémon the exact same food is dumb anyway and maybe this is a thing that the anime itself pointed out once upon a time like srsly pretty sure there was an early episode where Takeshi was talking about how one should take EVERY Pokémon's personal preferences into account.}{Dread Terapagos}
 Dialogue: 10,0:06:09.06,0:06:10.43,Main,Liko,0,0,0,,I see.
 Dialogue: 10,0:06:10.43,0:06:13.19,Main,Liko,0,0,0,,I really don’t know anything \N about this Pokémon.
-Dialogue: 10,0:06:13.73,0:06:15.48,Main,Liko,0,0,0,,I’ll need to observe it some more. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:06:34.54,0:06:36.38,Main,Liko,0,0,0,,It doesn’t flinch when yelled at. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:06:36.38,0:06:38.42,Main,Liko,0,0,0,,It retains its composure! {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:06:13.73,0:06:15.48,Main,Liko,0,0,0,,I’ll need to observe it some more. {Dread Terapagos}
+Dialogue: 10,0:06:34.54,0:06:36.38,Main,Liko,0,0,0,,It doesn’t flinch when yelled at. {Dread Terapagos}
+Dialogue: 10,0:06:36.38,0:06:38.42,Main,Liko,0,0,0,,It retains its composure! {Dread Terapagos}
 Dialogue: 10,0:06:51.85,0:06:52.81,Main,Murdock,0,0,0,,Is it good?
-Dialogue: 10,0:06:56.44,0:06:58.90,Main,Liko,0,0,0,,It’s surprisingly fond of sweets! {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:06:59.44,0:07:03.44,Main,Liko,0,0,0,,Terapagos never seems to get bored, \N no matter where it goes on the ship. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:07:03.44,0:07:06.57,Main,Liko,0,0,0,,Its sparkling eyes are so cute! {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:06:56.44,0:06:58.90,Main,Liko,0,0,0,,It’s surprisingly fond of sweets! {Dread Terapagos}
+Dialogue: 10,0:06:59.44,0:07:03.44,Main,Liko,0,0,0,,Terapagos never seems to get bored, \N no matter where it goes on the ship. {Dread Terapagos}
+Dialogue: 10,0:07:03.44,0:07:06.57,Main,Liko,0,0,0,,Its sparkling eyes are so cute! {Dread Terapagos}
 Dialogue: 10,0:07:09.83,0:07:12.08,Main,Orio,0,0,0,,Must be rough, \N running all over like that.
 Dialogue: 10,0:07:12.08,0:07:12.95,Main,Liko,0,0,0,,A little.
 Dialogue: 10,0:07:12.95,0:07:18.17,Main,Liko,0,0,0,,But seeing Terapagos having \N so much fun makes me excited, too!
@@ -124,25 +124,25 @@ Dialogue: 10,0:07:50.57,0:07:51.45,Main,Liko,0,0,0,,Gurumin?!
 Dialogue: 10,0:08:00.38,0:08:02.13,Main,Liko,0,0,0,,Sorry about earlier...
 Dialogue: 10,0:08:02.13,0:08:04.26,Main,Liko,0,0,0,,We interrupted your filming.
 Dialogue: 10,0:08:04.26,0:08:07.30,Main,Liko,0,0,0,,Terapagos just seems curious \N about so many things.
-Dialogue: 10,0:08:07.30,0:08:10.34,Main,Dot,0,0,0,,It’s been asleep for decades, right? {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:07.30,0:08:10.34,Main,Dot,0,0,0,,It’s been asleep for decades, right? {Dread Terapagos}
 Dialogue: 10,0:08:10.34,0:08:11.22,Main,Liko,0,0,0,,Yeah.
-Dialogue: 10,0:08:11.22,0:08:15.22,Main,Dot,0,0,0,,The ship must be full of stuff \N it’s never seen before. {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:11.22,0:08:15.22,Main,Dot,0,0,0,,The ship must be full of stuff \N it’s never seen before. {Dread Terapagos}
 Dialogue: 10,0:08:15.22,0:08:16.89,Main,Liko,0,0,0,,I see...
 Dialogue: 10,0:08:16.89,0:08:18.52,Main,Liko,0,0,0,,Of course.
-Dialogue: 10,0:08:18.52,0:08:20.35,Main,Liko,0,0,0,,It’s only just woken up. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:08:20.35,0:08:26.40,Main,Liko,0,0,0,,The reason it wouldn’t eat the Pokémon food \N was that it didn’t {\i1}know{\i0} it was delicious food...{OR TASTES MIGHT BE A THING jeez how is this show unaware that tastes are a thing.}{DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:08:26.99,0:08:29.57,Main,Dot,0,0,0,,Everything is new to it. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:08:29.57,0:08:32.49,Main,Dot,0,0,0,,It might have trouble \N adjusting to life in our day. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:08:33.58,0:08:37.50,Main,Liko,0,0,0,,If so... then I need to teach it. {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:18.52,0:08:20.35,Main,Liko,0,0,0,,It’s only just woken up. {Dread Terapagos}
+Dialogue: 10,0:08:20.35,0:08:26.40,Main,Liko,0,0,0,,The reason it wouldn’t eat the Pokémon food \N was that it didn’t {\i1}know{\i0} it was delicious food...{OR TASTES MIGHT BE A THING jeez how is this show unaware that tastes are a thing.}{Dread Terapagos}
+Dialogue: 10,0:08:26.99,0:08:29.57,Main,Dot,0,0,0,,Everything is new to it. {Dread Terapagos}
+Dialogue: 10,0:08:29.57,0:08:32.49,Main,Dot,0,0,0,,It might have trouble \N adjusting to life in our day. {Dread Terapagos}
+Dialogue: 10,0:08:33.58,0:08:37.50,Main,Liko,0,0,0,,If so... then I need to teach it. {Dread Terapagos}
 Dialogue: 10,0:08:38.12,0:08:39.00,Main,Dot,0,0,0,,Liko?
-Dialogue: 10,0:08:40.42,0:08:43.63,Main,Liko,0,0,0,,I was just thinking I wanted to \N get to know it a little... better...? {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:40.42,0:08:43.63,Main,Liko,0,0,0,,I was just thinking I wanted to \N get to know it a little... better...? {Dread Terapagos}
 Dialogue: 10,0:08:43.63,0:08:45.38,Main,Liko,0,0,0,,Again?!
-Dialogue: 10,0:08:45.38,0:08:47.84,Main,Liko,0,0,0,,Geez! It keeps wandering off! {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:45.38,0:08:47.84,Main,Liko,0,0,0,,Geez! It keeps wandering off! {Dread Terapagos}
 Dialogue: 10,0:08:49.55,0:08:50.84,Main,Liko,0,0,0,,Nyahoja!
 Dialogue: 10,0:08:50.84,0:08:51.93,Main,Liko,0,0,0,,Bad news!
 Dialogue: 10,0:08:51.93,0:08:54.31,Main,Liko,0,0,0,,Terapagos disappeared again!
 Dialogue: 10,0:08:55.77,0:08:58.81,Main,Liko,0,0,0,,Do you know where Terapagos went?
-Dialogue: 10,0:08:58.81,0:09:01.31,Main,Liko,0,0,0,,Can you help me find it? {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:08:58.81,0:09:01.31,Main,Liko,0,0,0,,Can you help me find it? {Dread Terapagos}
 Dialogue: 10,0:09:05.19,0:09:06.44,Main,Liko,0,0,0,,Nyahoja...
 Dialogue: 10,0:09:09.65,0:09:11.36,Main,Liko,0,0,0,,She’s in a bad mood...
 Dialogue: 10,0:09:11.95,0:09:14.95,Main,Liko,0,0,0,,But right now, \N I need to find Terapagos.
@@ -155,7 +155,7 @@ Dialogue: 10,0:10:10.63,0:10:11.38,Main,Liko,0,0,0,,Mibrim!
 Dialogue: 10,0:10:12.13,0:10:13.72,Main,Liko,0,0,0,,Go back inside your Monster Ball!
 Dialogue: 10,0:10:15.76,0:10:16.64,Main,Liko,0,0,0,,Mibrim...
 Dialogue: 10,0:10:16.64,0:10:20.39,Main,Liko,0,0,0,,...could sense \N Terapagos’s strong emotions...
-Dialogue: 10,0:10:23.77,0:10:25.65,Main,Liko,0,0,0,,It seems to be calling for somebody. {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:10:23.77,0:10:25.65,Main,Liko,0,0,0,,It seems to be calling for somebody. {Dread Terapagos}
 Dialogue: 10,0:10:30.03,0:10:31.15,Main,Liko,0,0,0,,Terapagos!
 Dialogue: 10,0:10:32.40,0:10:33.95,Main,Liko,0,0,0,,I have to tell Friede right away...
 Comment: 0,0:10:45.54,0:10:45.54,Main,,0,0,0,,{Part C}
@@ -194,7 +194,7 @@ Dialogue: 10,0:13:17.90,0:13:19.40,Main,Diana,0,0,0,,Terapagos.
 Dialogue: 10,0:13:19.40,0:13:22.53,Main,Diana,0,0,0,,The Pokémon Lucius bonded with.
 Dialogue: 10,0:13:25.87,0:13:26.58,Main,Liko,0,0,0,,But...
 Dialogue: 10,0:13:26.58,0:13:27.54,Main,Diana,0,0,0,,Yeah.
-Dialogue: 10,0:13:28.04,0:13:31.67,Main,Diana,0,0,0,,Perhaps it doesn’t have \N enough energy yet. {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:13:28.04,0:13:31.67,Main,Diana,0,0,0,,Perhaps it doesn’t have \N enough energy yet. {Dread Terapagos}
 Dialogue: 10,0:13:32.17,0:13:33.50,Main,Liko,0,0,0,,Come to think of it...
 Dialogue: 10,0:13:33.50,0:13:36.00,Main,Liko,0,0,0,,When we met Oliva and Galarian Fire,
 Dialogue: 10,0:13:36.00,0:13:39.30,Main,Liko,0,0,0,,we were engulfed in a strange light, \N and saw a man within it...
@@ -204,28 +204,28 @@ Dialogue: 10,0:13:44.05,0:13:45.51,Main,Diana,0,0,0,,Was it him?
 Dialogue: 10,0:13:46.64,0:13:48.93,Main,Liko,0,0,0,,Yes, that’s him!
 Dialogue: 10,0:13:48.93,0:13:50.64,Main,Diana,0,0,0,,I see...
 Dialogue: 10,0:13:51.69,0:13:54.23,Main,Diana,0,0,0,,Resonating with Oliva and the others...
-Dialogue: 10,0:13:54.23,0:13:58.53,Main,Diana,0,0,0,,...awakened Terapagos’s memories, \N and caused it to return to Pokémon form. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:13:59.07,0:14:03.41,Main,Diana,0,0,0,,If you meet the remaining Six Heroes, \N I’m certain it will regain its original power. {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:14:04.74,0:14:06.28,Main,Liko,0,0,0,,Its original power... {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:13:54.23,0:13:58.53,Main,Diana,0,0,0,,...awakened Terapagos’s memories, \N and caused it to return to Pokémon form. {Dread Terapagos}
+Dialogue: 10,0:13:59.07,0:14:03.41,Main,Diana,0,0,0,,If you meet the remaining Six Heroes, \N I’m certain it will regain its original power. {Dread Terapagos}
+Dialogue: 10,0:14:04.74,0:14:06.28,Main,Liko,0,0,0,,Its original power... {Dread Terapagos}
 Dialogue: 10,0:14:06.28,0:14:09.83,Main,Diana,0,0,0,,That is when the path \N to Rakua will open.
 Dialogue: 10,0:14:12.00,0:14:15.08,Main,Diana,0,0,0,,Much like how Lucius \N was once led there!
 Dialogue: 10,0:14:16.17,0:14:17.42,Main,Liko,0,0,0,,Terapagos?
 Dialogue: 10,0:14:17.42,0:14:18.80,Main,Diana,0,0,0,,What’s the matter?
-Dialogue: 10,0:14:19.21,0:14:22.80,Main,Liko,0,0,0,,It looks like it reacted to \N the mention of Lucius and Rakua... {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:14:19.21,0:14:22.80,Main,Liko,0,0,0,,It looks like it reacted to \N the mention of Lucius and Rakua... {Dread Terapagos}
 Dialogue: 10,0:14:25.59,0:14:26.85,Main,Liko,0,0,0,,Grandma...
 Dialogue: 10,0:14:26.85,0:14:30.18,Main,Liko,0,0,0,,{\t(2560,3350,\3c&HFFFFFF&\c&HFFFFFF&)}Don’t you think Terapagos \N wants to see Lucius?
-Dialogue: 10,0:14:31.02,0:14:33.31,Main,Diana,0,0,0,,And that’s why it’s crying? {DREADED “IT” PRONOUN: Terapagos}
-Dialogue: 10,0:14:33.31,0:14:37.52,Main,Liko,0,0,0,,Maybe it thinks we’ll meet him \N if we go to this Rakua place. {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:14:31.02,0:14:33.31,Main,Diana,0,0,0,,And that’s why it’s crying? {Dread Terapagos}
+Dialogue: 10,0:14:33.31,0:14:37.52,Main,Liko,0,0,0,,Maybe it thinks we’ll meet him \N if we go to this Rakua place. {Dread Terapagos}
 Dialogue: 10,0:14:39.07,0:14:43.32,Main,Diana,0,0,0,,Unfortunately, his memoirs don’t say \N anything about {\i1}where{\i0} Rakua is located.
 Dialogue: 10,0:14:43.95,0:14:47.32,Main,Diana,0,0,0,,Not to mention, Lucius is a trainer \N from a hundred years ago.
-Dialogue: 10,0:14:47.95,0:14:49.95,Main,Diana,0,0,0,,So, even {\i1}if{\i0} it wants to see him... {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:14:47.95,0:14:49.95,Main,Diana,0,0,0,,So, even {\i1}if{\i0} it wants to see him... {Dread Terapagos}
 Dialogue: 10,0:14:51.37,0:14:52.33,Main,Liko,0,0,0,,Even so...
 Dialogue: 10,0:14:53.33,0:14:56.33,Main,Liko,0,0,0,,I want to grant this little one’s wish.
 Dialogue: 10,0:14:57.58,0:14:58.88,Main,Diana,0,0,0,,Liko...
-Dialogue: 10,0:14:58.88,0:15:01.26,Main,Liko,0,0,0,,Even if it can’t meet Lucius, {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:14:58.88,0:15:01.26,Main,Liko,0,0,0,,Even if it can’t meet Lucius, {Dread Terapagos}
 Dialogue: 10,0:15:01.26,0:15:03.59,Main,Liko,0,0,0,,there might still be {\i1}something{\i0} there...
 Dialogue: 10,0:15:04.38,0:15:08.35,Main,Liko,0,0,0,,At the place where it made those \N treasured memories with Lucius... Rakua!{Slightly tweaked copy-paste from the PV}
-Dialogue: 10,0:15:08.97,0:15:11.10,Main,Liko,0,0,0,,I’ll take it there! {DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:15:08.97,0:15:11.10,Main,Liko,0,0,0,,I’ll take it there! {Dread Terapagos}
 Dialogue: 10,0:15:15.60,0:15:17.31,Main,Diana,0,0,0,,The road may be harsh, but...
 Dialogue: 10,0:15:17.31,0:15:18.61,Main,Diana,0,0,0,,Oh, right!
 Dialogue: 10,0:15:18.61,0:15:21.36,Main,Liko,0,0,0,,With Pokémon by my side, \N I’ll do just fine!
@@ -270,7 +270,7 @@ Dialogue: 10,0:18:18.20,0:18:19.45,Main,Diana,0,0,0,,Be safe.
 Dialogue: 10,0:18:19.45,0:18:20.75,Main,Liko,0,0,0,,Of course!
 Dialogue: 10,0:18:20.75,0:18:22.21,Main,Liko,0,0,0,,Nyahoja!
 Dialogue: 10,0:18:27.21,0:18:28.71,Main,Friede,0,0,0,,I see.
-Dialogue: 10,0:18:28.71,0:18:32.51,Main,Friede,0,0,0,,Never would’ve guessed \N it wanted to go to Rakua.
+Dialogue: 10,0:18:28.71,0:18:32.51,Main,Friede,0,0,0,,Never would’ve guessed \N it wanted to go to Rakua.{Dread Terapagos}
 Dialogue: 10,0:18:33.88,0:18:35.80,Main,Orio,0,0,0,,What kind of place is it?
 Dialogue: 10,0:18:35.80,0:18:39.18,Main,Murdock,0,0,0,,An amazing place unlike anything \N anyone’s ever seen, I’m sure.
 Dialogue: 10,0:18:39.18,0:18:40.85,Main,Molly,0,0,0,,An idyllic paradise?
@@ -315,7 +315,7 @@ Dialogue: 10,0:20:26.96,0:20:29.54,Main,Friede,0,0,0,,We need a solid plan and a
 Dialogue: 10,0:20:30.00,0:20:31.50,Main,Dot,0,0,0,,Good news, Roy.
 Dialogue: 10,0:20:31.50,0:20:32.84,Main,Roy,0,0,0,,Dot!
 Dialogue: 10,0:20:32.84,0:20:37.92,Main,Dot,0,0,0,,There have been sightings of \N the black Rekkuuza all over the Galar Region.
-Dialogue: 10,0:20:37.92,0:20:40.47,Main,Dot,0,0,0,,There’s a good chance it’s still in Galar.
+Dialogue: 10,0:20:37.92,0:20:40.47,Main,Dot,0,0,0,,There’s a good chance he’s still in Galar.
 Dialogue: 10,0:20:41.80,0:20:44.64,Main,Roy,0,0,0,,Then we can catch up to Rekkuuza!
 Dialogue: 10,0:20:44.64,0:20:46.60,Main,Roy,0,0,0,,Things are heating up now, \N huh, Hogator?
 Dialogue: 10,0:20:47.81,0:20:50.60,Main,Friede,0,0,0,,Guess sitting around thinking \N won’t get us anywhere.

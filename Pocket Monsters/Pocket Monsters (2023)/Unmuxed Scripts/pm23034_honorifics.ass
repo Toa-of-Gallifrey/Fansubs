@@ -350,7 +350,7 @@ Dialogue: 10,0:21:00.57,0:21:04.45,Main,Orio,0,0,0,,The Pokémon who traveled wi
 Dialogue: 10,0:21:04.83,0:21:07.45,Main,Molly,0,0,0,,You were there with Lucius too, \N weren’t you?
 Dialogue: 10,0:21:09.21,0:21:11.54,Main,Landau,0,0,0,,Let us walk this path together.
 Dialogue: 10,0:21:12.08,0:21:14.80,Main,Murdock,0,0,0,,When we meet all Six Heroes...
-Dialogue: 10,0:21:14.80,0:21:17.71,Main,Molly,0,0,0,,Terapagos will reclaim its true power...
+Dialogue: 10,0:21:14.80,0:21:17.71,Main,Molly,0,0,0,,Terapagos will reclaim its true power...{Dread Terapagos}
 Dialogue: 10,0:21:17.71,0:21:20.09,Main,Orio,0,0,0,,And the path to Rakua will open!
 Dialogue: 10,0:21:21.97,0:21:24.85,Main,Liko,0,0,0,,I {\i1}will{\i0} take you to Rakua!
 Dialogue: 10,0:21:24.85,0:21:28.31,Main,Dot,0,0,0,,So mysterious! \N This really gets my heart racing!

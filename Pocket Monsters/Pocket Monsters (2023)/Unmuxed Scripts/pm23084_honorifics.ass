@@ -38,8 +38,8 @@ Dialogue: 10,0:00:32.55,0:00:36.06,Main,Friede,0,0,0,,Not a whole lot of people 
 Dialogue: 10,0:00:36.06,0:00:38.60,Main,Molly,0,0,0,,I sure hope we can find \N some clues to Rakua...
 Dialogue: 10,0:00:38.60,0:00:43.31,Main,Friede,0,0,0,,And that’s exactly what we’ll be \N asking around for in Kumuri Town over there.
 Dialogue: 10,0:00:45.69,0:00:47.53,Main,Dot,0,0,0,,The black Rekkuuza...
-Dialogue: 10,0:00:47.53,0:00:50.07,Main,Dot,0,0,0,,Do you really think \N it’s leading us to Rakua?
-Dialogue: 10,0:00:50.07,0:00:51.99,Main,Roy,0,0,0,,It’s just gotta be!
+Dialogue: 10,0:00:47.53,0:00:50.07,Main,Dot,0,0,0,,Do you really think \N he’s leading us to Rakua?
+Dialogue: 10,0:00:50.07,0:00:51.99,Main,Roy,0,0,0,,He’s just gotta be!
 Dialogue: 10,0:00:53.70,0:00:54.58,Main,Liko,0,0,0,,Yeah!
 Dialogue: 10,0:00:54.58,0:00:56.45,Main,Liko,0,0,0,,Pagogo can feel something, too!
 Comment: 0,0:01:02.88,0:01:02.88,Main,,0,0,0,,{Opening}
@@ -70,7 +70,7 @@ Dialogue: 10,0:03:43.54,0:03:46.41,Main,Liko,0,0,0,,Have you heard of \N a place
 Dialogue: 10,0:03:46.41,0:03:49.96,Main,Yuhapapa,0,0,0,,Rakua...? \N No, never heard of it.
 Dialogue: 10,0:03:49.96,0:03:51.29,Main,Yuha,0,0,0,,Get out of our town!
 Dialogue: 10,0:03:52.34,0:03:55.59,Main,Yuha,0,0,0,,Disasters occur when \N the black Rekkuuza appears!
-Dialogue: 10,0:03:55.59,0:03:57.09,Main,Yuha,0,0,0,,And {\i1}you{\i0} brought it here?!{omae-tachi}
+Dialogue: 10,0:03:55.59,0:03:57.09,Main,Yuha,0,0,0,,And {\i1}you{\i0} brought it here?!{omae-tachi}{Intentional "it"}
 Dialogue: 10,0:03:57.09,0:04:00.01,Main,Roy,0,0,0,,The black Rekkuuza \N doesn’t cause disasters!
 Dialogue: 10,0:04:00.01,0:04:01.39,Main,Yuha,0,0,0,,Like you’d know!
 Dialogue: 10,0:04:01.39,0:04:04.18,Main,Yuha,0,0,0,,My Onbat has already \N vanished because of it!
@@ -113,7 +113,7 @@ Dialogue: 10,0:06:10.81,0:06:12.06,Main,Kids,0,0,0,,{\i1}Huh?!{\i0}
 Dialogue: 10,0:06:29.04,0:06:33.00,Main,Yuhapapa,0,0,0,,“Young man, what did you \N wish to hear about?”, she says.
 Dialogue: 10,0:06:33.54,0:06:35.71,Main,Friede,0,0,0,,I apologize for my sudden intrusion.
 Dialogue: 10,0:06:35.71,0:06:39.00,Main,Friede,0,0,0,,In truth, I hoped to inquire \N about the black Rekkuuza.
-Dialogue: 10,0:06:39.67,0:06:42.13,Main,Friede,0,0,0,,I hear that you’ve \N seen it before, yes...?
+Dialogue: 10,0:06:39.67,0:06:42.13,Main,Friede,0,0,0,,I hear that you’ve \N seen it before, yes...?{Intentional "it"}
 Dialogue: 10,0:06:42.97,0:06:46.51,Main,Yuhapapa,0,0,0,,He says that he wants to hear \N about the black Rekkuuza!
 Dialogue: 10,0:06:56.23,0:07:00.82,Main,Yuhapapa,0,0,0,,“I saw it fly out from the mountain \N when I was about three,” she says.
 Dialogue: 10,0:07:03.32,0:07:06.49,Main,Friede,0,0,0,,Please, tell me more \N about what happened back then!
@@ -135,16 +135,16 @@ Dialogue: 10,0:07:35.94,0:07:37.14,Main,Roy,0,0,0,,I’m Roy.
 Dialogue: 10,0:07:37.14,0:07:38.10,Main,Dot,0,0,0,,Dot.
 Dialogue: 10,0:07:38.60,0:07:40.69,Main,Dot,0,0,0,,How did you wind up here, anyway?
 Dialogue: 10,0:07:41.61,0:07:43.15,Main,Yuha,0,0,0,,Well...
-Dialogue: 10,0:07:50.74,0:07:55.37,Main,Rotom,0,0,0,,Vibrava. Vibration Pokemon. \N Ground/Dragon type.
-Dialogue: 10,0:07:55.37,0:07:59.42,Main,Rotom,0,0,0,,Rather than using its underdeveloped wings \N for flight, it rubs them together,
-Dialogue: 10,0:07:59.42,0:08:01.50,Main,Rotom,0,0,0,,producing ultrasonic waves \N to attack its foes.{Sun dex entry, with tiny vocab replacement}
+Dialogue: 10,0:07:50.74,0:07:55.37,Main,Smartphone Rotom,0,0,0,,Vibrava. Vibration Pokemon. \N Ground/Dragon type.
+Dialogue: 10,0:07:55.37,0:07:59.42,Main,Smartphone Rotom,0,0,0,,Rather than using its underdeveloped wings \N for flight, it rubs them together,
+Dialogue: 10,0:07:59.42,0:08:01.50,Main,Smartphone Rotom,0,0,0,,producing ultrasonic waves \N to attack its foes.{Sun dex entry, with tiny vocab replacement}
 Dialogue: 10,0:08:01.50,0:08:03.75,Main,Roy,0,0,0,,They sure look mad...
 Dialogue: 10,0:08:05.01,0:08:09.39,Main,Yuha,0,0,0,,I was looking for my missing Onbat, \N and finally found it deep down in this cave.
 Dialogue: 10,0:08:09.39,0:08:12.89,Main,Yuha,0,0,0,,And then, those Vibrava \N suddenly attacked us...
 Dialogue: 10,0:08:14.31,0:08:16.48,Main,Yuha,0,0,0,,The black Rekkuuza \N was behind this, too!
-Dialogue: 10,0:08:16.48,0:08:18.48,Main,Roy,0,0,0,,Like I keep saying, \N no it wasn’t!
-Dialogue: 10,0:08:18.48,0:08:19.23,Main,Yuha,0,0,0,,Yes it was!
-Dialogue: 10,0:08:19.23,0:08:20.40,Main,Roy,0,0,0,,No it wasn’t!
+Dialogue: 10,0:08:16.48,0:08:18.48,Main,Roy,0,0,0,,Like I keep saying, \N no he wasn’t!
+Dialogue: 10,0:08:18.48,0:08:19.23,Main,Yuha,0,0,0,,Yes it was!{Intentional "it"}
+Dialogue: 10,0:08:19.23,0:08:20.40,Main,Roy,0,0,0,,No he wasn’t!
 Dialogue: 10,0:08:21.52,0:08:22.73,Main,Dot,0,0,0,,Knock it off, guys!
 Dialogue: 10,0:08:22.73,0:08:24.98,Main,Dot,0,0,0,,Right now, we need to think \N about what to do next!
 Dialogue: 10,0:08:26.03,0:08:27.90,Main,Liko,0,0,0,,Is that the only exit?{There are no other exits?}

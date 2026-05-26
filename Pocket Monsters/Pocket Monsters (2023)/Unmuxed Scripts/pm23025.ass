@@ -132,7 +132,7 @@ Dialogue: 10,0:07:18.17,0:07:19.21,Main,Friede,0,0,0,,Whoops!
 Dialogue: 10,0:07:20.63,0:07:24.22,Main,Friede,0,0,0,,If his Breaking Armor activates, \N it’ll be trouble...
 Dialogue: 10,0:07:24.22,0:07:26.13,Main,Friede,0,0,0,,Lizardon, use Air Slash!
 Dialogue: 10,0:07:27.93,0:07:30.35,Main,Amethio,0,0,0,,Soublades, jump through!
-Dialogue: 10,0:07:30.68,0:07:33.27,Main,Friede,0,0,0,,Lizardon, don’t let it close in!{DREADED “IT” PRONOUN: Soublades}
+Dialogue: 10,0:07:30.68,0:07:33.27,Main,Friede,0,0,0,,Lizardon, don’t let it close in!{Dread Soublades}
 Dialogue: 10,0:07:33.27,0:07:34.77,Main,Friede,0,0,0,,Flamethrower!
 Dialogue: 10,0:07:42.94,0:07:45.61,Main,Amethio,0,0,0,,Where’s your usual spirit?!
 Dialogue: 10,0:07:45.61,0:07:47.07,Main,Amethio,0,0,0,,This isn’t like you!
@@ -230,7 +230,7 @@ Dialogue: 10,0:14:24.18,0:14:27.47,Main,Diana,0,0,0,,Weren’t they Lucius’s f
 Dialogue: 10,0:14:27.47,0:14:31.43,Main,Hamber,0,0,0,,If you understand that much already, \N my task is simpler.
 Dialogue: 10,0:14:33.77,0:14:34.56,Main,Diana,0,0,0,,Windie!
 Dialogue: 10,0:14:43.90,0:14:48.58,Main,Hamber,0,0,0,,I told them to stand by, \N but they never were ones to listen.{shikatanai line}
-Dialogue: 10,0:14:51.54,0:14:52.87,Main,Hamber,0,0,0,,Master Gibeon{Honorific note: Gibeon-sama}?
+Dialogue: 10,0:14:51.54,0:14:52.87,Main,Hamber,0,0,0,,Master Gibeon{Honorifics note: Gibeon-sama}?
 Dialogue: 10,0:14:53.58,0:14:55.62,Main,Diana,0,0,0,,Windie, let’s go!
 Dialogue: 10,0:15:02.05,0:15:04.51,Main,Onyx,0,0,0,,Take them all down, Kyojiohn.
 Dialogue: 10,0:15:09.85,0:15:12.60,Main,Sango,0,0,0,,Time to play, Onigohri!

@@ -71,9 +71,9 @@ Dialogue: 10,0:04:21.99,0:04:24.04,Main,Roy,0,0,0,,What that guy was riding...
 Dialogue: 10,0:04:24.04,0:04:24.70,Main,Friede,0,0,0,,Yeah.
 Dialogue: 10,0:04:24.70,0:04:26.54,Main,Friede,0,0,0,,It’s a Paldean Pokémon.
 Dialogue: 10,0:04:26.54,0:04:28.25,Main,Roy,0,0,0,,I knew it!
-Dialogue: 10,0:04:29.04,0:04:33.25,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Mototokage. Ride Pokémon. \N Dragon/Normal type.
-Dialogue: 10,0:04:33.25,0:04:35.80,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It can sprint while carrying a human.
-Dialogue: 10,0:04:35.80,0:04:39.26,Main,Go - PokéDex Forme (Not YOU),0,0,0,,The rider’s body heat \N warms its back and lifts its spirit.{Violet dex entry with precise speed removed}
+Dialogue: 10,0:04:29.04,0:04:33.25,Main,Smartphone Rotom,0,0,0,,Mototokage. Ride Pokémon. \N Dragon/Normal type.
+Dialogue: 10,0:04:33.25,0:04:35.80,Main,Smartphone Rotom,0,0,0,,It can sprint while carrying a human.
+Dialogue: 10,0:04:35.80,0:04:39.26,Main,Smartphone Rotom,0,0,0,,The rider’s body heat \N warms its back and lifts its spirit.{Violet dex entry with precise speed removed}
 Dialogue: 10,0:04:39.26,0:04:42.14,Main,Liko,0,0,0,,There’s lots of shops over there.{They sell small articles of clothing, sandwich ingredients and literally nothing else!}
 Dialogue: 10,0:04:42.14,0:04:43.14,Main,Roy,0,0,0,,I wanna see!
 Dialogue: 10,0:04:49.14,0:04:49.98,Main,Roy,0,0,0,,How are these?
@@ -115,10 +115,10 @@ Dialogue: 10,0:07:01.48,0:07:02.69,Main,Friede,0,0,0,,Something wrong?
 Dialogue: 10,0:07:02.69,0:07:05.03,Main,Liko,0,0,0,,Huh? No, nothing.
 Dialogue: 10,0:07:13.54,0:07:16.54,Main,Liko,0,0,0,,Puppymocchi! I’m home!
 Dialogue: 10,0:07:16.54,0:07:19.29,Main,Roy,0,0,0,,Another Pokémon\N I’ve never seen before!
-Dialogue: 10,0:07:19.71,0:07:23.42,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Puppymocchi. Puppy Pokémon. \N Fairy type.
-Dialogue: 10,0:07:23.42,0:07:26.18,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It is smooth and moist to the touch.
-Dialogue: 10,0:07:26.18,0:07:30.30,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Yeast in its breath induces \N fermentation in its vicinity.{Scarlet dex entry}
-Dialogue: 10,0:07:30.68,0:07:32.97,Main,Liko,0,0,0,,It’s my father’s Pokémon.{DREADED “IT” PRONOUN: Puppymocchi}
+Dialogue: 10,0:07:19.71,0:07:23.42,Main,Smartphone Rotom,0,0,0,,Puppymocchi. Puppy Pokémon. \N Fairy type.
+Dialogue: 10,0:07:23.42,0:07:26.18,Main,Smartphone Rotom,0,0,0,,It is smooth and moist to the touch.
+Dialogue: 10,0:07:26.18,0:07:30.30,Main,Smartphone Rotom,0,0,0,,Yeast in its breath induces \N fermentation in its vicinity.{Scarlet dex entry}
+Dialogue: 10,0:07:30.68,0:07:32.97,Main,Liko,0,0,0,,It’s my father’s Pokémon.{Dread Puppymocchi}
 Dialogue: 10,0:07:32.97,0:07:34.60,Main,Liko,0,0,0,,That tickles!
 Dialogue: 10,0:07:38.31,0:07:39.48,Main,Roy,0,0,0,,Hogator?!
 Dialogue: 10,0:07:40.73,0:07:42.86,Main,Roy,0,0,0,,U-Uh... What’s wrong?

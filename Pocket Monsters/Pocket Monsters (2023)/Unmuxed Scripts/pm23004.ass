@@ -78,9 +78,9 @@ Dialogue: 10,0:05:42.11,0:05:43.74,Main,Liko,0,0,0,,Trying to sneak food...
 Dialogue: 10,0:05:43.74,0:05:46.12,Main,Orio,0,0,0,,Murdock! Come help me!
 Dialogue: 10,0:05:48.16,0:05:50.58,Main,Orio,0,0,0,,I’m {\i1}terrible{\i0} at this!
 Dialogue: 10,0:05:52.75,0:05:55.29,Main,Liko,0,0,0,,Rotom, tell me about Hogator.
-Dialogue: 10,0:05:55.29,0:05:58.13,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Hogator. Fire Croc Pokémon. \N Fire type.
-Dialogue: 10,0:05:58.75,0:06:03.22,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Fire energy that leaks out \N from inside its body flickers atop its head.
-Dialogue: 10,0:06:03.22,0:06:06.64,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When it gets excited, \N its head spouts larger flames.{Scar/Viol website description, reworded}
+Dialogue: 10,0:05:55.29,0:05:58.13,Main,Smartphone Rotom,0,0,0,,Hogator. Fire Croc Pokémon. \N Fire type.
+Dialogue: 10,0:05:58.75,0:06:03.22,Main,Smartphone Rotom,0,0,0,,Fire energy that leaks out \N from inside its body flickers atop its head.
+Dialogue: 10,0:06:03.22,0:06:06.64,Main,Smartphone Rotom,0,0,0,,When it gets excited, \N its head spouts larger flames.{Scar/Viol website description, reworded}
 Dialogue: 10,0:06:06.64,0:06:08.89,Main,Liko,0,0,0,,No clues, huh...?
 Dialogue: 10,0:06:09.47,0:06:12.06,Main,Liko,0,0,0,,He was making that weird noise \N all morning...
 Dialogue: 10,0:06:12.06,0:06:13.23,Main,Liko,0,0,0,,What was that?
@@ -93,7 +93,7 @@ Dialogue: 10,0:06:30.45,0:06:34.08,Main,Liko,0,0,0,,Of course! That explains \N 
 Dialogue: 10,0:06:36.67,0:06:40.13,Main,Molly,0,0,0,,Hogator... \N Did you check the observation deck?
 Dialogue: 10,0:06:40.13,0:06:43.76,Main,Molly,0,0,0,,Normally, he’d be up there \N waiting for Lizardon to come back.
 Dialogue: 10,0:06:43.76,0:06:44.97,Main,Liko,0,0,0,,Lizardon?
-Dialogue: 10,0:06:44.97,0:06:47.43,Main,Molly,0,0,0,,Yeah. He looks up to it.{DREADED “IT” PRONOUN: Lizardon}
+Dialogue: 10,0:06:44.97,0:06:47.43,Main,Molly,0,0,0,,Yeah. He looks up to it.{Dread Lizardon}
 Dialogue: 10,0:06:47.43,0:06:49.22,Main,Molly,0,0,0,,Okay, you’ve got \N a clean bill of health.
 Dialogue: 10,0:06:50.22,0:06:51.81,Main,Liko,0,0,0,,Oh, that’s right...
 Dialogue: 10,0:06:53.85,0:06:58.86,Main,Molly,0,0,0,,He might’ve even settled down here \N just to be with Lizardon.
@@ -109,7 +109,7 @@ Dialogue: 10,0:08:05.34,0:08:07.05,Main,Roy,0,0,0,,Here seems good!
 Dialogue: 10,0:08:10.39,0:08:11.55,Main,Roy,0,0,0,,All set!
 Dialogue: 10,0:08:18.23,0:08:20.98,Main,Hoennian?,0,0,0,,I caught a Subame yesterday!
 Dialogue: 10,0:08:20.98,0:08:23.48,Main,Sinnohian?,0,0,0,,My dad gave me a Nyarmar!
-Dialogue: 10,0:08:23.48,0:08:25.94,Main,Alolan?,0,0,0,,I’ve got a Nuikoguma! It’s a cutie!{DREADED “IT” PRONOUN: Nuikoguma}
+Dialogue: 10,0:08:23.48,0:08:25.94,Main,Alolan?,0,0,0,,I’ve got a Nuikoguma! It’s a cutie!{Dread Nuikoguma}
 Dialogue: 10,0:08:25.94,0:08:28.90,Main,Roy,0,0,0,,You’re already Pokémon Trainers...{Callback to Liko’s line about herself in 003}
 Dialogue: 10,0:08:28.90,0:08:31.78,Main,Roy,0,0,0,,I’m jealous! \N I hope I get to be a trainer soon!
 Dialogue: 10,0:08:31.78,0:08:33.53,Main,Sinnohian?,0,0,0,,Roy, you’re in Kanto, right?
@@ -261,7 +261,7 @@ Dialogue: 10,0:17:53.59,0:17:55.18,Main,Roy,0,0,0,,No wonder they’re angry!
 Dialogue: 10,0:17:56.93,0:18:00.06,Main,Liko,0,0,0,,I’m sorry! I’m sorry! I’m sorry!
 Dialogue: 10,0:18:01.89,0:18:03.40,Main,Roy,0,0,0,,A Lizardon?!
 Dialogue: 10,0:18:03.40,0:18:06.02,Main,Friede,0,0,0,,Liko! What are you doing out...?
-Dialogue: 10,0:18:07.40,0:18:08.90,Main,Liko,0,0,0,,Mr. Friede!{Honorific: Friede-san!}
+Dialogue: 10,0:18:07.40,0:18:08.90,Main,Liko,0,0,0,,Mr. Friede{Honorifics note: Friede-san}!
 Dialogue: 10,0:18:09.90,0:18:12.45,Main,Friede,0,0,0,,They look pretty agitated.
 Dialogue: 10,0:18:14.70,0:18:17.95,Main,Friede,0,0,0,,No, your fire’d only \N make things worse.{Sasuga. line}
 Dialogue: 10,0:18:19.24,0:18:20.87,Main,Friede,0,0,0,,We’ll figure something out.
@@ -292,17 +292,17 @@ Dialogue: 10,0:20:21.41,0:20:23.54,Main,Liko,0,0,0,,Huh? That voice...
 Dialogue: 10,0:20:43.89,0:20:45.60,Main,Liko,0,0,0,,My search for Hogator...
 Dialogue: 10,0:20:45.60,0:20:50.65,Main,Liko,0,0,0,,...ended in success, thanks to that boy \N with the unusual Monster Ball.
 Dialogue: 10,0:20:51.69,0:20:56.65,Main,Liko,0,0,0,,But why did my pendant shine again?
-Dialogue: 10,0:20:57.69,0:21:01.53,Main,Hamber,0,0,0,,So that is the pendant \N Master Gibeon seeks...{Honorific: Gibeon-sama}
+Dialogue: 10,0:20:57.69,0:21:01.53,Main,Hamber,0,0,0,,So that is the pendant \N Master Gibeon{Honorifics note: Gibeon-sama} seeks...
 Dialogue: 10,0:21:01.53,0:21:03.45,Main,Hamber,0,0,0,,But, that shine...
 Dialogue: 10,0:21:03.45,0:21:07.54,Main,Amethio,0,0,0,,Indeed. It seems to hold \N tremendous energy.
-Dialogue: 10,0:21:07.54,0:21:10.17,Main,Hamber,0,0,0,,Have you reported this \N to Master Gibeon?{Honorific: Gibeon-sama}
+Dialogue: 10,0:21:07.54,0:21:10.17,Main,Hamber,0,0,0,,Have you reported this \N to Master Gibeon{Honorifics note: Gibeon-sama}?
 Dialogue: 10,0:21:10.54,0:21:14.50,Main,Amethio,0,0,0,,No. I have my next move in mind. \N Don’t report anything yet.
 Dialogue: 10,0:21:15.09,0:21:18.38,Main,Hamber,0,0,0,,Understood. \N Please, do not strain yourself.
 Dialogue: 10,0:21:18.38,0:21:23.18,Main,Hamber,0,0,0,,We face Friede of the Rising Voltteccers. \N He is said to be highly capable.
 Dialogue: 10,0:21:24.10,0:21:26.14,Main,Amethio,0,0,0,,He’s a worthy opponent.
 Dialogue: 10,0:21:26.14,0:21:28.18,Main,Hamber,0,0,0,,I await good news from you.
 Dialogue: 10,0:21:28.18,0:21:29.73,Main,Hamber,0,0,0,,Take care.
-Dialogue: 10,0:21:30.73,0:21:34.98,Main,Conia,0,0,0,,Master Amethio... \N What secret does that pendant hold?{Honorific: Amethio-sama}
+Dialogue: 10,0:21:30.73,0:21:34.98,Main,Conia,0,0,0,,Master Amethio{Honorifics note: Amethio-sama}... \N What secret does that pendant hold?
 Dialogue: 10,0:21:35.77,0:21:38.24,Main,Amethio,0,0,0,,That’s just what we’re going to find out.
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:15.46,0:23:15.46,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar}

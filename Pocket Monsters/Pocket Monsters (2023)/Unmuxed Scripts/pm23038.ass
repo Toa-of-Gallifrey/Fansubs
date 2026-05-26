@@ -83,11 +83,11 @@ Dialogue: 10,0:06:00.38,0:06:01.51,Main,Molly,0,0,0,,I’ll give you a check-up.
 Dialogue: 10,0:06:04.34,0:06:05.51,Main,Liko,0,0,0,,Are you okay?
 Dialogue: 10,0:06:06.39,0:06:09.18,Main,Molly,0,0,0,,Lucky, please see to Lizardon.
 Dialogue: 10,0:06:26.49,0:06:27.45,Main,Liko,0,0,0,,Amazing!
-Dialogue: 10,0:06:27.45,0:06:29.54,Main,Liko,0,0,0,,It perked back up in an instant!{DREADED “IT” PRONOUN: Lizardon}
+Dialogue: 10,0:06:27.45,0:06:29.54,Main,Liko,0,0,0,,It perked back up in an instant!{Dread Lizardon}
 Dialogue: 10,0:06:39.55,0:06:41.63,Main,Liko,0,0,0,,Next up is Tsubotsubo.
 Dialogue: 10,0:06:55.94,0:06:57.56,Main,Liko,0,0,0,,Mibrim?
 Dialogue: 10,0:06:58.11,0:06:58.98,Main,Molly,0,0,0,,Lucky.
-Dialogue: 10,0:07:03.82,0:07:05.53,Main,Molly,0,0,0,,There’s a thorn stuck in it.{DREADED “IT” PRONOUN: Tsubotsubo}
+Dialogue: 10,0:07:03.82,0:07:05.53,Main,Molly,0,0,0,,There’s a thorn stuck in it.{Dread Tsubotsubo}
 Dialogue: 10,0:07:07.20,0:07:09.37,Main,Molly,0,0,0,,Don’t worry. I’ll have it right out.
 Dialogue: 10,0:07:11.58,0:07:12.41,Main,Molly,0,0,0,,See?
 Dialogue: 10,0:07:12.41,0:07:15.33,Main,Liko,0,0,0,,You were right! It’s so tiny.
@@ -103,9 +103,9 @@ Dialogue: 10,0:08:20.52,0:08:21.44,Main,Molly,0,0,0,,Lucky!
 Dialogue: 10,0:08:36.50,0:08:38.12,Main,Molly,0,0,0,,A Wakkanezumi.
 Dialogue: 10,0:08:39.29,0:08:40.67,Main,Molly,0,0,0,,It’s hurt.
 Dialogue: 10,0:08:43.63,0:08:46.05,Main,Liko,0,0,0,,Tell me about Wakkanezumi.
-Dialogue: 10,0:08:47.38,0:08:51.26,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Wakkanezumi. Couple Pokémon. \N Normal type.
-Dialogue: 10,0:08:51.26,0:08:55.31,Main,Go - PokéDex Forme (Not YOU),0,0,0,,They use their incisors to cut up bits of \N useful nesting material, then make off with them.{Partial Scarlet dex entry, edited down}
-Dialogue: 10,0:08:55.68,0:08:58.27,Main,Go - PokéDex Forme (Not YOU),0,0,0,,The pair sticks together \N no matter what.{Partial Violet dex entry}
+Dialogue: 10,0:08:47.38,0:08:51.26,Main,Smartphone Rotom,0,0,0,,Wakkanezumi. Couple Pokémon. \N Normal type.
+Dialogue: 10,0:08:51.26,0:08:55.31,Main,Smartphone Rotom,0,0,0,,They use their incisors to cut up bits of \N useful nesting material, then make off with them.{Partial Scarlet dex entry, edited down}
+Dialogue: 10,0:08:55.68,0:08:58.27,Main,Smartphone Rotom,0,0,0,,The pair sticks together \N no matter what.{Partial Violet dex entry}
 Dialogue: 10,0:08:58.27,0:09:02.65,Main,Liko,0,0,0,,“The pair”? \N So there should be another one?
 Dialogue: 10,0:09:04.82,0:09:07.78,Main,Molly,0,0,0,,But... It’s nowhere nearby.
 Dialogue: 10,0:09:13.12,0:09:15.20,Main,Molly,0,0,0,,This could be an emergency.
@@ -234,8 +234,8 @@ Dialogue: 10,0:20:40.76,0:20:42.64,Main,Molly,0,0,0,,Thank you, Mibrim.
 Dialogue: 10,0:20:49.14,0:20:50.40,Main,Liko,0,0,0,,Are you okay?!
 Dialogue: 10,0:20:55.44,0:20:57.49,Main,Molly,0,0,0,,Hey! Sit still for a sec!
 Dialogue: 10,0:20:58.40,0:21:01.16,Main,Molly,0,0,0,,I’m not done with your check-up!
-Dialogue: 10,0:21:10.04,0:21:13.92,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Ikkanezumi. Family Pokémon. \N Normal type.
-Dialogue: 10,0:21:13.92,0:21:17.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,The larger pair protects \N the little ones as they live together.{Partial Violet dex entry, but 'battle' replaced with 'live'}
+Dialogue: 10,0:21:10.04,0:21:13.92,Main,Smartphone Rotom,0,0,0,,Ikkanezumi. Family Pokémon. \N Normal type.
+Dialogue: 10,0:21:13.92,0:21:17.38,Main,Smartphone Rotom,0,0,0,,The larger pair protects \N the little ones as they live together.{Partial Violet dex entry, but 'battle' replaced with 'live'}
 Dialogue: 10,0:21:17.88,0:21:21.30,Main,Liko,0,0,0,,So they weren’t Wakkanezumi, \N they were Ikkanezumi.
 Dialogue: 10,0:21:22.34,0:21:26.35,Main,Molly,0,0,0,,Yeah. I was so focused on \N treating the patient I already had,
 Dialogue: 10,0:21:26.35,0:21:28.98,Main,Molly,0,0,0,,I didn’t even \N consider that possibility.

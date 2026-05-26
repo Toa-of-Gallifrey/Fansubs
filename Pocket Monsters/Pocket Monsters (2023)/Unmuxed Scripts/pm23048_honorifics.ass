@@ -116,9 +116,9 @@ Dialogue: 10,0:05:37.02,0:05:39.69,Main,Nemo,0,0,0,,I was passing by \N and hear
 Dialogue: 10,0:05:39.69,0:05:42.95,Main,Nemo,0,0,0,,We didn’t get to fight last time, \N but nothing will stop us today!
 Dialogue: 10,0:05:42.95,0:05:45.20,Main,Roy,0,0,0,,Yeah, let’s do it! I wanna battle!
 Dialogue: 10,0:05:45.95,0:05:49.33,Main,Nemo,0,0,0,,All right! \N Let’s have us a fruitful battle!
-Dialogue: 10,0:05:51.25,0:05:55.00,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Parmot. Hands-On Pokémon. \N Electric/Fighting type.
-Dialogue: 10,0:05:55.00,0:05:56.67,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It is normally slow to react,
-Dialogue: 10,0:05:56.67,0:06:00.34,Main,Go - PokéDex Forme (Not YOU),0,0,0,,but once it enters battle, it will strike down \N its enemies with lightning-fast movements.{Scarlet dex entry, lightly tweaked}
+Dialogue: 10,0:05:51.25,0:05:55.00,Main,Smartphone Rotom,0,0,0,,Parmot. Hands-On Pokémon. \N Electric/Fighting type.
+Dialogue: 10,0:05:55.00,0:05:56.67,Main,Smartphone Rotom,0,0,0,,It is normally slow to react,
+Dialogue: 10,0:05:56.67,0:06:00.34,Main,Smartphone Rotom,0,0,0,,but once it enters battle, it will strike down \N its enemies with lightning-fast movements.{Scarlet dex entry, lightly tweaked}
 Dialogue: 10,0:06:00.72,0:06:02.47,Main,Roy,0,0,0,,Electric/Fighting type, huh?
 Dialogue: 10,0:06:02.47,0:06:06.10,Main,Nemo,0,0,0,,You’re banned from Terastallizing \N outside of course battles, right?
 Dialogue: 10,0:06:06.10,0:06:08.22,Main,Nemo,0,0,0,,Then I won’t Terastallize either.

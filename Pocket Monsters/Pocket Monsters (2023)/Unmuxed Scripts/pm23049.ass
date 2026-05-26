@@ -150,8 +150,7 @@ Dialogue: 10,0:08:36.20,0:08:38.41,Main,Liko,0,0,0,,Glitz it up? By Terastallizi
 Dialogue: 10,0:08:38.41,0:08:39.21,Main,Roy,0,0,0,,How come?
 Dialogue: 10,0:08:39.21,0:08:41.50,Main,Nanjamo,0,0,0,,You gotta Terastallize gorgeously,
 Dialogue: 10,0:08:41.50,0:08:44.21,Main,Nanjamo,0,0,0,,and put on a good show \N for everyone watching!
-Dialogue: 10,0:08:44.59,0:08:46.34,Main,Nanjamo,0,0,0,,Glitz! Glitz!
-Dialogue: 10,0:08:46.34,0:08:48.47,Main,Nanjamo,0,0,0,,If you Electric Net their eyes,
+Dialogue: 10,0:08:44.59,0:08:48.47,Main,Nanjamo,0,0,0,,Glitz! Glitz! If you grab their eyeballs \N in your Electric Net,
 Dialogue: 10,0:08:48.47,0:08:52.39,Main,Nanjamo,0,0,0,,you’ll be on your way to \N battlin’ it up and {\i1}hypin’{\i0} it up! {TL: and you'll be battlin' it up and hypin' it up!}
 Dialogue: 10,0:08:52.39,0:08:53.51,Main,Molly,0,0,0,,That so?
 Dialogue: 10,0:08:53.51,0:08:55.60,Main,Friede,0,0,0,,You know, \N she might have something there.
@@ -236,8 +235,8 @@ Dialogue: 10,0:14:05.87,0:14:10.54,Main,Dot,0,0,0,,I made up my mind. \N I’m t
 Dialogue: 10,0:14:10.54,0:14:12.54,Main,Dot,0,0,0,,What’s the big issue?!
 Dialogue: 10,0:14:17.54,0:14:19.38,Main,Dot,0,0,0,,Such a pain...
 Dialogue: 10,0:14:22.67,0:14:23.80,Main,Dot,0,0,0,,Kanuchan?!
-Dialogue: 10,0:14:27.68,0:14:32.06,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Burorom. Single-Cylinder Pokémon. \N Steel/Poison type.
-Dialogue: 10,0:14:32.06,0:14:38.77,Main,Go - PokéDex Forme (Not YOU),0,0,0,,{\q2}It is said to have been born when an unknown \N Poison Pokémon entered an engine dumped at a scrapyard.{Scarlet dex entry}{heavily tweaked this dex entry because what the hell man -ed}{Would've preferred leaving it split into two lines, but the CPS was too unwieldy on the either line unless we used an awkward split point, so we'll just have to render it as one long q2'd line. Also yeah what the fuck was that official TL? - Toa}
+Dialogue: 10,0:14:27.68,0:14:32.06,Main,Smartphone Rotom,0,0,0,,Burorom. Single-Cylinder Pokémon. \N Steel/Poison type.
+Dialogue: 10,0:14:32.06,0:14:38.77,Main,Smartphone Rotom,0,0,0,,{\q2}It is said to have been born when an unknown \N Poison Pokémon entered an engine dumped at a scrapyard.{Scarlet dex entry}{heavily tweaked this dex entry because what the hell man -ed}{Would've preferred leaving it split into two lines, but the CPS was too unwieldy on the either line unless we used an awkward split point, so we'll just have to render it as one long q2'd line. Also yeah what the fuck was that official TL? - Toa}
 Dialogue: 10,0:14:38.77,0:14:39.82,Main,Roy,0,0,0,,Burorom...
 Dialogue: 10,0:14:47.07,0:14:49.41,Main,Liko,0,0,0,,It seems sort of angry.
 Dialogue: 10,0:14:49.41,0:14:50.49,Main,Roy,0,0,0,,We’ve gotta save her!
@@ -302,7 +301,7 @@ Dialogue: 10,0:20:02.60,0:20:03.77,Main,Blatant Disrespecters of Privacy,0,0,0,,
 Dialogue: 10,0:20:03.77,0:20:08.85,Main,Nanjamo,0,0,0,,Her basics test will be livestreamed \N exclusively on Whozat TV at a later date!
 Dialogue: 10,0:20:08.85,0:20:11.65,Main,Nanjamo,0,0,0,,I got high hopes, Madam Dot{Honorifics note: Dot-shi}!
 Dialogue: 10,0:20:13.78,0:20:15.03,Main,Dot,0,0,0,,“Madam Dot{Honorifics note: Dot-shi}”?
-Dialogue: 10,0:20:15.03,0:20:17.82,Main,Nanjamo,0,0,0,,Electric Netting your eyes!{015}
+Dialogue: 10,0:20:15.03,0:20:17.82,Main,Nanjamo,0,0,0,,Grabbing your eyeballs \N in my Electric Net!{015}
 Dialogue: 10,0:20:17.82,0:20:22.20,Main,Nanjamo,0,0,0,,The Electrical Streamer! \N Whozat? This was Nanjamo!{015}
 Dialogue: 10,0:20:22.20,0:20:23.54,Main,Nanjamo,0,0,0,,See ya!
 Dialogue: 10,0:20:27.33,0:20:29.12,Main,Dot,0,0,0,,Oh right, Gurumin!

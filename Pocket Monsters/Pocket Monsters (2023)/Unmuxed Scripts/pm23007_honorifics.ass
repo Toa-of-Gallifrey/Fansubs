@@ -90,7 +90,7 @@ Dialogue: 10,0:05:14.75,0:05:15.25,Main,Friede,0,0,0,,Huh?
 Dialogue: 10,0:05:15.63,0:05:17.00,Main,Friede,0,0,0,,They’re not listening...
 Dialogue: 10,0:05:17.00,0:05:19.34,Main,Roy,0,0,0,,My own Pokémon Index...
 Dialogue: 10,0:05:19.34,0:05:22.76,Main,Roy,0,0,0,,I’m 100% gonna register \N Rekkuuza in this!
-Dialogue: 10,0:05:24.30,0:05:27.06,Main,Roy,0,0,0,,Although... \N I don’t know where it went.
+Dialogue: 10,0:05:24.30,0:05:27.06,Main,Roy,0,0,0,,Although... \N I don’t know where he went.
 Dialogue: 10,0:05:27.06,0:05:27.97,Main,Liko,0,0,0,,That’s right.
 Dialogue: 10,0:05:27.97,0:05:30.31,Main,Liko,0,0,0,,We don’t have anything \N to go off of.
 Dialogue: 10,0:05:30.31,0:05:32.60,Main,Roy,0,0,0,,If only we had some sort of clue...
@@ -120,12 +120,12 @@ Dialogue: 10,0:06:34.04,0:06:36.54,Main,Roy,0,0,0,,Excuse me! My name’s Roy!
 Dialogue: 10,0:06:35.46,0:06:36.54,Main,Liko,0,0,0,,{\an8}Hold on, Roy...
 Dialogue: 10,0:06:36.54,0:06:39.05,Main,Roy,0,0,0,,I’m a new member \N of the Rising Voltteccers!
 Dialogue: 10,0:06:39.05,0:06:41.34,Main,Roy,0,0,0,,Do you know anything \N about the black Rekkuuza?
-Dialogue: 10,0:06:41.67,0:06:43.84,Main,Roy,0,0,0,,I really wanna meet it again!
+Dialogue: 10,0:06:41.67,0:06:43.84,Main,Roy,0,0,0,,I really wanna meet him again!
 Dialogue: 10,0:06:50.51,0:06:53.39,Main,Liko,0,0,0,,Oh, it’s Kuwassu. You scared me.
 Dialogue: 10,0:06:53.39,0:06:55.85,Main,Roy,0,0,0,,Okay, time to try this Index out!
-Dialogue: 10,0:06:56.69,0:07:00.02,Main,Rotom,0,0,0,,Kuwassu. Duckling Pokémon. \N Water type.
-Dialogue: 10,0:07:00.02,0:07:03.90,Main,Rotom,0,0,0,,With its strong legs, \N it can even swim through river rapids with ease. {re-edit of Violet dex entry -ed}
-Dialogue: 10,0:07:03.90,0:07:06.53,Main,Rotom,0,0,0,,It likes cleanliness \N and is prone to overthinking.{Violet dex entry rephrased for CPS}
+Dialogue: 10,0:06:56.69,0:07:00.02,Main,Smartphone Rotom,0,0,0,,Kuwassu. Duckling Pokémon. \N Water type.
+Dialogue: 10,0:07:00.02,0:07:03.90,Main,Smartphone Rotom,0,0,0,,With its strong legs, \N it can even swim through river rapids with ease. {re-edit of Violet dex entry -ed}
+Dialogue: 10,0:07:03.90,0:07:06.53,Main,Smartphone Rotom,0,0,0,,It likes cleanliness \N and is prone to overthinking.{Violet dex entry rephrased for CPS}
 Dialogue: 10,0:07:06.53,0:07:07.95,Main,Roy,0,0,0,,Ooh!
 Dialogue: 10,0:07:07.95,0:07:10.62,Main,Liko,0,0,0,,So you like to keep clean. \N Nyahoja’s the same way.
 Dialogue: 10,0:07:11.04,0:07:13.04,Main,Roy,0,0,0,,You sure are cute!
@@ -187,7 +187,7 @@ Dialogue: 10,0:10:04.08,0:10:05.42,Main,Landau,0,0,0,,And in the end...
 Dialogue: 10,0:10:08.63,0:10:10.38,Main,Molly,0,0,0,,Deploy the barrier!
 Dialogue: 10,0:10:24.52,0:10:27.19,Main,Friede,0,0,0,,So then, ready for some training?
 Dialogue: 10,0:10:30.48,0:10:35.24,Main,Roy,0,0,0,,You made it, Hogator! \N You’re getting to battle your idol, Lizardon!
-Dialogue: 10,0:10:36.12,0:10:38.20,Main,Roy,0,0,0,,Let’s show it what you can do!{DREADED “IT” PRONOUN: Lizardon}
+Dialogue: 10,0:10:36.12,0:10:38.20,Main,Roy,0,0,0,,Let’s show it what you can do!{Dread Lizardon}
 Dialogue: 10,0:10:44.62,0:10:45.96,Main,Liko,0,0,0,,Wh-What?!
 Dialogue: 10,0:10:53.26,0:10:55.47,Main,Friede,0,0,0,,Great news, you two.
 Dialogue: 10,0:10:55.47,0:10:58.01,Main,Friede,0,0,0,,Cap’s decided to take you on!

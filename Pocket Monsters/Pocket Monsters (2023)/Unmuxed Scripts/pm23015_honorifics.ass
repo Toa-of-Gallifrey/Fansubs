@@ -103,7 +103,7 @@ Dialogue: 10,0:06:09.60,0:06:13.02,Main,Orio,0,0,0,,Would Liko really head off \
 Dialogue: 10,0:06:13.02,0:06:15.27,Main,Friede,0,0,0,,Could she have been kidnapped?
 Dialogue: 10,0:06:15.69,0:06:16.77,Main,Dot,0,0,0,,Kidnapped?!
 Dialogue: 10,0:06:17.44,0:06:21.53,Main,Dot,0,0,0,,If so, why were there \N so many sightings in Bowl Town...?
-Dialogue: 10,0:06:21.99,0:06:23.90,Main,Dot,0,0,0,,Don’t tell me... \N Is this info bogus?!
+Dialogue: 10,0:06:21.99,0:06:23.90,Main,Dot,0,0,0,,Don’t tell me... \N Is this misinfo?!
 Dialogue: 10,0:06:24.45,0:06:26.28,Main,Molly,0,0,0,,The Explorers?!
 Dialogue: 10,0:06:26.74,0:06:30.04,Main,Friede,0,0,0,,Amethio and his goons \N would’ve faced us head-on.
 Dialogue: 10,0:06:30.04,0:06:32.16,Main,Murdock,0,0,0,,Do you have any other ideas?
@@ -159,7 +159,7 @@ Dialogue: 10,0:09:13.03,0:09:14.83,Main,Liko,0,0,0,,Is something happening?
 Dialogue: 10,0:09:16.83,0:09:19.71,Main,Liko,0,0,0,,What a crowd... \N The big city is amazing...{Sasuga. line}
 Dialogue: 10,0:09:28.05,0:09:31.72,Main,Nanjamo,0,0,0,,Everybody, are you ready?!{game line (edited for accuracy)}
 Dialogue: 10,0:09:37.14,0:09:38.22,Main,Liko,0,0,0,,That’s...
-Dialogue: 10,0:09:38.22,0:09:41.23,Main,Nanjamo,0,0,0,,Electric Netting your eyes!{game line (edited for accuracy)}
+Dialogue: 10,0:09:38.22,0:09:41.23,Main,Nanjamo,0,0,0,,Grabbing your eyeballs \N in my Electric Net!{game line (edited for accuracy)}
 Dialogue: 10,0:09:41.23,0:09:43.77,Main,Nanjamo,0,0,0,,Whozat? It’s Nanjamo!
 Dialogue: 10,0:09:43.77,0:09:45.48,Main,Nanjamo,0,0,0,,Oha-kon-hello-ciao!
 Dialogue: 10,0:09:45.48,0:09:47.86,Main,Them,0,0,0,,{\i1}Oha-kon-hello-ciao!{\i0}
@@ -214,7 +214,7 @@ Dialogue: 10,0:12:03.83,0:12:06.87,Main,Dot,0,0,0,,At least now I know for sure.
 Dialogue: 10,0:12:08.58,0:12:09.88,Main,Friede,0,0,0,,Find anything out?
 Dialogue: 10,0:12:09.88,0:12:11.92,Main,Dot,0,0,0,,Liko is in Hakkou City.
 Dialogue: 10,0:12:12.29,0:12:13.13,Main,Friede,0,0,0,,What?!
-Dialogue: 10,0:12:13.13,0:12:19.13,Main,Dot,0,0,0,,Our enemy put out bogus info about \N Liko being in Bowl Town to slow us down.
+Dialogue: 10,0:12:13.13,0:12:19.13,Main,Dot,0,0,0,,Our enemy put out misinfo about \N Liko being in Bowl Town to slow us down.
 Dialogue: 10,0:12:19.13,0:12:21.80,Main,Friede,0,0,0,,They’re craftier than I expected.
 Dialogue: 10,0:12:21.80,0:12:23.64,Main,Roy,0,0,0,,I’m in Hakkou City!
 Dialogue: 10,0:12:23.64,0:12:24.60,Main,Orio,0,0,0,,Roy!

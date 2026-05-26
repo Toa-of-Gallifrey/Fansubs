@@ -82,9 +82,9 @@ Dialogue: 10,0:05:11.29,0:05:13.63,Main,Liko,0,0,0,,Huh? I feel...
 Dialogue: 10,0:05:13.63,0:05:16.25,Main,Roy,0,0,0,,...kinda exhausted.
 Dialogue: 10,0:05:16.25,0:05:18.09,Main,Dot,0,0,0,,This is weird.
 Dialogue: 10,0:05:18.09,0:05:19.72,Main,Dot,0,0,0,,What’s going on?
-Dialogue: 10,0:05:21.34,0:05:24.64,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Bochi. Ghost Dog Pokémon. \N Ghost type.
-Dialogue: 10,0:05:24.64,0:05:30.48,Main,Go - PokéDex Forme (Not YOU),0,0,0,,{\q2}This Pokémon is said to be the reincarnation of \N wild dog Pokémon that die without ever meeting a human.{ENgame: It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.}{It is said to be the reincarnation of wild dog Pokemon that died without ever interacting with humans. (no explicit plural/singular, but singular feels weird to me)}{Scarlet dex entry (edited)}
-Dialogue: 10,0:05:30.48,0:05:34.44,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It slowly saps the life essence \N of those nearby it.{It slowly sucks the life essence out of others nearby.}
+Dialogue: 10,0:05:21.34,0:05:24.64,Main,Smartphone Rotom,0,0,0,,Bochi. Ghost Dog Pokémon. \N Ghost type.
+Dialogue: 10,0:05:24.64,0:05:30.48,Main,Smartphone Rotom,0,0,0,,{\q2}This Pokémon is said to be the reincarnation of \N wild dog Pokémon that die without ever meeting a human.{ENgame: It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.}{It is said to be the reincarnation of wild dog Pokemon that died without ever interacting with humans. (no explicit plural/singular, but singular feels weird to me)}{Scarlet dex entry (edited)}
+Dialogue: 10,0:05:30.48,0:05:34.44,Main,Smartphone Rotom,0,0,0,,It slowly saps the life essence \N of those nearby it.{It slowly sucks the life essence out of others nearby.}
 Dialogue: 10,0:05:34.44,0:05:36.44,Main,Them,0,0,0,,Huh?!
 Dialogue: 10,0:05:36.44,0:05:38.73,Main,Liko,0,0,0,,It’s sapping our life essence?
 Dialogue: 10,0:05:38.73,0:05:40.44,Main,Dot,0,0,0,,Wait, does that mean...?
@@ -333,8 +333,8 @@ Dialogue: 10,0:17:13.47,0:17:15.18,Main,Roy,0,0,0,,It helps us win!
 Dialogue: 10,0:17:15.18,0:17:18.35,Main,Rhyme,0,0,0,,Okay. I hear you.
 Dialogue: 10,0:17:18.35,0:17:21.10,Main,Rhyme,0,0,0,,Come on out, Strinder!
 Dialogue: 10,0:17:25.82,0:17:28.07,Main,Dot,0,0,0,,Strinder?!
-Dialogue: 10,0:17:29.70,0:17:34.32,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Strinder: Low Form. Punk Pokémon. \N Electric/Poison type.
-Dialogue: 10,0:17:34.32,0:17:40.54,Main,Go - PokéDex Forme (Not YOU),0,0,0,,{\q2}It plucks at the organ on its chest to generate electricity, \N which also produces sound akin to that of a bass guitar.{Shield dex entry (edited)}{ENgame: It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.}
+Dialogue: 10,0:17:29.70,0:17:34.32,Main,Smartphone Rotom,0,0,0,,Strinder: Low Form. Punk Pokémon. \N Electric/Poison type.
+Dialogue: 10,0:17:34.32,0:17:40.54,Main,Smartphone Rotom,0,0,0,,{\q2}It plucks at the organ on its chest to generate electricity, \N which also produces sound akin to that of a bass guitar.{Shield dex entry (edited)}{ENgame: It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.}
 Dialogue: 10,0:17:40.54,0:17:42.67,Main,Liko,0,0,0,,It’s not a Ghost type...
 Dialogue: 10,0:17:44.67,0:17:48.09,Main,Rhyme,0,0,0,,Your song, plus Strinder’s sound...
 Dialogue: 10,0:17:48.09,0:17:50.67,Main,Rhyme,0,0,0,,Let’s see how this jam session turns out.

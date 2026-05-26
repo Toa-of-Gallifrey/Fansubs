@@ -37,9 +37,9 @@ Dialogue: 10,0:02:48.90,0:02:50.57,Main,Anne,0,0,0,,I see.
 Dialogue: 10,0:02:50.57,0:02:53.65,Main,Anne,0,0,0,,I wrote that I’m gonna \N win lots of battles with Mijumaru!
 Dialogue: 10,0:02:54.61,0:02:55.78,Main,Liko,0,0,0,,You’re so dedicated, Anne.{Anne, you never waver [from your set goal], do you.}
 Dialogue: 10,0:02:57.74,0:03:01.29,Main,Anne,0,0,0,,Whoa, sorry! This is my Sand.
-Dialogue: 10,0:03:01.29,0:03:02.70,Main,Liko,0,0,0,,You caught it?{DREADED “IT” PRONOUN: Sand}
+Dialogue: 10,0:03:01.29,0:03:02.70,Main,Liko,0,0,0,,You caught it?{Dread Sand}
 Dialogue: 10,0:03:02.70,0:03:03.62,Main,Anne,0,0,0,,Yeah!
-Dialogue: 10,0:03:04.62,0:03:06.58,Main,Anne,0,0,0,,Mijumaru got pretty attached to it.{DREADED “IT” PRONOUN: Sand}
+Dialogue: 10,0:03:04.62,0:03:06.58,Main,Anne,0,0,0,,Mijumaru got pretty attached to it.{Dread Sand}
 Dialogue: 10,0:03:07.58,0:03:10.25,Main,Anne,0,0,0,,Aren’t you gonna catch \N any new Pokémon?
 Dialogue: 10,0:03:10.25,0:03:13.88,Main,Liko,0,0,0,,I think I’ll hold off for now.
 Dialogue: 10,0:03:13.88,0:03:16.68,Main,Liko,0,0,0,,I want to focus on \N looking after Nyahoja.
@@ -56,8 +56,8 @@ Dialogue: 10,0:03:45.41,0:03:48.50,Main,Friede,0,0,0,,It’s gonna be mountain t
 Dialogue: 10,0:03:48.50,0:03:49.29,Main,Friede,0,0,0,,Can you handle it?
 Dialogue: 10,0:03:49.29,0:03:52.30,Main,Roy,0,0,0,,Yeah! Rekkuuza awaits!
 Dialogue: 10,0:03:53.55,0:03:55.59,Main,Liko,0,0,0,,You’re so dedicated, Roy.
-Dialogue: 10,0:03:55.59,0:03:57.80,Main,Friede,0,0,0,,It’ll be a tough opponent.
-Dialogue: 10,0:03:57.80,0:04:02.31,Main,Roy,0,0,0,,It’s the reason I left on my adventure. \N I’ll just hit it with all I’ve got!
+Dialogue: 10,0:03:55.59,0:03:57.80,Main,Friede,0,0,0,,He’ll be a tough opponent.
+Dialogue: 10,0:03:57.80,0:04:02.31,Main,Roy,0,0,0,,He’s the reason I left on my adventure. \N I’ll just hit him with all I’ve got!
 Dialogue: 10,0:04:02.85,0:04:04.85,Main,Liko,0,0,0,,Being able to say that so confidently...
 Dialogue: 10,0:04:04.85,0:04:07.94,Main,Liko,0,0,0,,Roy kind of amazes me.{I feel like Roy is kinda incredible.}
 Dialogue: 10,0:04:12.32,0:04:15.57,Main,Liko,0,0,0,,I wonder if Nyahoja \N wants to get stronger...
@@ -97,9 +97,9 @@ Dialogue: 10,0:06:20.19,0:06:21.40,Main,Liko,0,0,0,,What is it?
 Dialogue: 10,0:06:25.62,0:06:26.91,Main,Friede,0,0,0,,A Mibrim.
 Dialogue: 10,0:06:27.28,0:06:30.12,Main,Friede,0,0,0,,It’s rare to see those around here.
 Dialogue: 10,0:06:30.12,0:06:31.66,Main,Liko,0,0,0,,Is it asleep?
-Dialogue: 10,0:06:34.04,0:06:37.88,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Mibrim. Calm Pokémon. \N Esper type.
-Dialogue: 10,0:06:37.88,0:06:40.42,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It senses the feelings of other living creatures.
-Dialogue: 10,0:06:40.42,0:06:44.68,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Be careful not to expose it to strong emotions \N for too long, or it will end up exhausted.{Violet dex entry}
+Dialogue: 10,0:06:34.04,0:06:37.88,Main,Smartphone Rotom,0,0,0,,Mibrim. Calm Pokémon. \N Esper type.
+Dialogue: 10,0:06:37.88,0:06:40.42,Main,Smartphone Rotom,0,0,0,,It senses the feelings of other living creatures.
+Dialogue: 10,0:06:40.42,0:06:44.68,Main,Smartphone Rotom,0,0,0,,Be careful not to expose it to strong emotions \N for too long, or it will end up exhausted.{Violet dex entry}
 Dialogue: 10,0:06:45.22,0:06:47.55,Main,Roy,0,0,0,,What’s it mean by “strong emotions”?
 Dialogue: 10,0:06:47.55,0:06:49.35,Main,Roy,0,0,0,,Like crying and getting mad and stuff?
 Dialogue: 10,0:06:49.35,0:06:53.52,Main,Liko,0,0,0,,Like when someone is crying near you \N and it makes you feel sad, too?

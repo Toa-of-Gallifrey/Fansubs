@@ -226,9 +226,9 @@ Dialogue: 10,0:13:03.30,0:13:05.81,Main,Murdock,0,0,0,,Don’t let Kaede-san’s
 Dialogue: 10,0:13:05.81,0:13:08.85,Main,Murdock,0,0,0,,There’s a hint of bitterness \N beneath her sweetness.
 Dialogue: 10,0:13:08.85,0:13:12.40,Main,Dot,0,0,0,,If she uses Bug types, \N Nyarote’s at a disadvantage!
 Dialogue: 10,0:13:13.48,0:13:15.69,Main,Kaede,0,0,0,,Off you go, Beary.{クマちゃん (katakana in captions, implying it's a nickname)}{ENgame: My sweet little bear}
-Dialogue: 10,0:13:19.82,0:13:23.57,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Himeguma. Little Bear Pokémon. \N Normal type.
-Dialogue: 10,0:13:23.57,0:13:26.45,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Its paws are soaked \N with lots of honey.
-Dialogue: 10,0:13:26.95,0:13:30.25,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When nervous, \N it will lick its paws in order to soothe itself.{Violet dex entry, though ENgame ver seems unusual register for dex...}{re-edited in the style of more neutral dex entries because TL noted the ENgame ver was unusual -ed}
+Dialogue: 10,0:13:19.82,0:13:23.57,Main,Smartphone Rotom,0,0,0,,Himeguma. Little Bear Pokémon. \N Normal type.
+Dialogue: 10,0:13:23.57,0:13:26.45,Main,Smartphone Rotom,0,0,0,,Its paws are soaked \N with lots of honey.
+Dialogue: 10,0:13:26.95,0:13:30.25,Main,Smartphone Rotom,0,0,0,,When nervous, \N it will lick its paws in order to soothe itself.{Violet dex entry, though ENgame ver seems unusual register for dex...}{re-edited in the style of more neutral dex entries because TL noted the ENgame ver was unusual -ed}
 Dialogue: 10,0:13:30.96,0:13:32.71,Main,Dot,0,0,0,,Normal type?
 Dialogue: 10,0:13:33.17,0:13:36.21,Main,Roy,0,0,0,,Liko can handle \N a cute little Pokémon like that!
 Dialogue: 10,0:13:36.63,0:13:39.84,Main,Kaede,0,0,0,,Terastallizing is like \N emerging from a cocoon.
@@ -260,9 +260,9 @@ Dialogue: 10,0:15:08.30,0:15:11.18,Main,Kaede,0,0,0,,Does it not fill you \N wit
 Dialogue: 10,0:15:11.18,0:15:12.89,Main,Liko,0,0,0,,Nyarote, watch out!
 Dialogue: 10,0:15:13.60,0:15:16.02,Main,Kaede,0,0,0,,Beary! Slash!
 Dialogue: 10,0:15:21.11,0:15:25.11,Main,Murdock,0,0,0,,That Himeguma won’t go down easy.
-Dialogue: 10,0:15:25.53,0:15:28.62,Main,Murdock,0,0,0,,Get close and its sweet fawning \N makes you pull your punches,
-Dialogue: 10,0:15:29.03,0:15:32.87,Main,Murdock,0,0,0,,but keep your distance \N and its Sweet Scent clouds your focus...
-Dialogue: 10,0:15:33.87,0:15:36.96,Main,Murdock,0,0,0,,Then it takes you out with a Slash...
+Dialogue: 10,0:15:25.53,0:15:28.62,Main,Murdock,0,0,0,,Get close and her sweet fawning \N makes you pull your punches,
+Dialogue: 10,0:15:29.03,0:15:32.87,Main,Murdock,0,0,0,,but keep your distance \N and her Sweet Scent clouds your focus...
+Dialogue: 10,0:15:33.87,0:15:36.96,Main,Murdock,0,0,0,,Then she takes you out with a Slash...
 Dialogue: 10,0:15:36.96,0:15:38.13,Main,Murdock,0,0,0,,That’s...
 Dialogue: 10,0:15:38.13,0:15:40.34,Main,Liko,0,0,0,,Kaede-san’s “sweet” battle...
 Dialogue: 10,0:15:40.96,0:15:42.71,Main,Liko,0,0,0,,What should I do?

@@ -28,14 +28,14 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:06.74,0:00:07.74,Main,Roy,0,0,0,,Rekkuuza...
-Dialogue: 10,0:00:07.74,0:00:08.99,Main,Liko,0,0,0,,Why is it here?
-Dialogue: 10,0:00:22.63,0:00:26.51,Main,Friede,0,0,0,,Now that the Six Heroes are assembled, \N it decided to find us, huh?
+Dialogue: 10,0:00:07.74,0:00:08.99,Main,Liko,0,0,0,,Why is he here?
+Dialogue: 10,0:00:22.63,0:00:26.51,Main,Friede,0,0,0,,Now that the Six Heroes are assembled, \N he decided to find us, huh?
 Dialogue: 10,0:00:28.80,0:00:32.22,Main,Friede,0,0,0,,But Liko and the others \N {\i1}just{\i0} fought Gouging Inferno...
 Dialogue: 10,0:00:32.97,0:00:35.85,Main,Briar,0,0,0,,They’ve already used \N their Terastal Orbs.
 Dialogue: 10,0:00:36.43,0:00:37.60,Main,Briar,0,0,0,,What will they do now?
 Dialogue: 10,0:00:39.98,0:00:41.44,Main,Roy,0,0,0,,Rematch time!
 Dialogue: 10,0:00:41.44,0:00:43.52,Main,Roy,0,0,0,,I’m fired up! \N How ‘bout you, Achigator?!
-Dialogue: 10,0:00:44.52,0:00:46.40,Main,Dot,0,0,0,,We’re more prepared \N to fight it now!
+Dialogue: 10,0:00:44.52,0:00:46.40,Main,Dot,0,0,0,,We’re more prepared \N to fight him now!
 Dialogue: 10,0:00:46.40,0:00:47.74,Main,Dot,0,0,0,,Let’s go for it, Welcamo!
 Dialogue: 10,0:00:49.28,0:00:51.53,Main,Liko,0,0,0,,Pagogo’s desire... Everyone’s desires...
 Dialogue: 10,0:00:51.53,0:00:53.37,Main,Liko,0,0,0,,Let’s pass them on together, \N Nyarote!
@@ -43,7 +43,7 @@ Dialogue: 10,0:00:59.12,0:01:01.25,Main,Friede,0,0,0,,Liko, Roy, Dot.
 Dialogue: 10,0:01:01.25,0:01:03.54,Main,Friede,0,0,0,,I’ll back you up with all I’ve got.
 Dialogue: 10,0:01:03.54,0:01:04.67,Main,Friede,0,0,0,,Lizardon!
 Dialogue: 10,0:01:11.01,0:01:13.01,Main,Briar,0,0,0,,You can leave Terapagos to me.
-Dialogue: 10,0:01:13.01,0:01:15.14,Main,Friede,0,0,0,,Now, let’s give it a wallop!
+Dialogue: 10,0:01:13.01,0:01:15.14,Main,Friede,0,0,0,,Now, let’s give him a wallop!
 Dialogue: 10,0:01:17.06,0:01:18.64,Main,Kids,0,0,0,,{\i1}Yeah!{\i0}
 Comment: 0,0:01:23.40,0:01:23.40,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:53.49,0:02:53.49,Main,,0,0,0,,{Part B}
@@ -73,11 +73,11 @@ Dialogue: 10,0:05:14.04,0:05:16.17,Main,Liko,0,0,0,,Even when we do hit, \N we b
 Dialogue: 10,0:05:30.18,0:05:31.56,Main,Friede,0,0,0,,Incoming! Watch out!
 Dialogue: 10,0:05:44.07,0:05:45.49,Main,Friede,0,0,0,,Dodge it, Lizardon!
 Dialogue: 10,0:05:50.00,0:05:52.50,Main,Friede,0,0,0,,Not gonna fall for \N the same trick twice, I guess.
-Dialogue: 10,0:05:54.17,0:05:56.84,Main,Roy,0,0,0,,We can’t hit it all the way up there!{TL: Argh... We can’t hit it from that far away!}
+Dialogue: 10,0:05:54.17,0:05:56.84,Main,Roy,0,0,0,,We can’t hit him all the way up there!{TL: Argh... We can’t hit it from that far away!}
 Dialogue: 10,0:05:57.84,0:05:59.92,Main,Dot,0,0,0,,Roy! Change of plans!
 Dialogue: 10,0:05:59.92,0:06:03.43,Main,Dot,0,0,0,,Let’s try the soaking-wet strat \N that worked in the Gouging Inferno fight!
 Dialogue: 10,0:06:03.43,0:06:04.55,Main,Liko,0,0,0,,The soaking-wet strat...
-Dialogue: 10,0:06:04.55,0:06:07.60,Main,Friede,0,0,0,,But do you think it’ll let us \N soak it just like that?
+Dialogue: 10,0:06:04.55,0:06:07.60,Main,Friede,0,0,0,,But do you think he’ll let us \N soak him just like that?
 Dialogue: 10,0:06:08.10,0:06:09.31,Main,Dot,0,0,0,,We’ll use this waterfall.
 Dialogue: 10,0:06:09.68,0:06:12.69,Main,Dot,0,0,0,,If we break these rocks, \N plenty of water should pour down!
 Dialogue: 10,0:06:12.69,0:06:13.56,Main,Roy,0,0,0,,That...
@@ -118,7 +118,7 @@ Dialogue: 10,0:09:04.90,0:09:06.40,Main,Liko,0,0,0,,Dot! He’s not done yet!
 Dialogue: 10,0:09:09.53,0:09:11.20,Main,Dot,0,0,0,,Achigator?!
 Dialogue: 10,0:09:11.78,0:09:12.91,Main,Friede,0,0,0,,Did he...?
 Dialogue: 10,0:09:16.33,0:09:18.12,Main,Roy,0,0,0,,Good work, Achigator!
-Dialogue: 10,0:09:18.12,0:09:19.87,Main,Roy,0,0,0,,Make sure it hears your {\i1}soul!{\i0}
+Dialogue: 10,0:09:18.12,0:09:19.87,Main,Roy,0,0,0,,Make sure he hears your {\i1}soul!{\i0}
 Dialogue: 10,0:09:19.87,0:09:20.83,Main,Roy,0,0,0,,Charm Voice!
 Dialogue: 10,0:09:34.26,0:09:36.14,Main,Roy,0,0,0,,It was super effective!
 Dialogue: 10,0:09:37.56,0:09:38.64,Main,Liko,0,0,0,,Nice one, Roy!
@@ -175,7 +175,7 @@ Dialogue: 10,0:14:10.62,0:14:13.04,Main,Liko,0,0,0,,Pagogo! Tera Cluster!
 Dialogue: 10,0:15:03.55,0:15:04.80,Main,Liko,0,0,0,,Achigator...
 Dialogue: 10,0:15:04.80,0:15:06.26,Main,Roy,0,0,0,,...Terastallized!
 Dialogue: 10,0:15:06.26,0:15:07.85,Main,Friede,0,0,0,,What the...?
-Dialogue: 10,0:15:08.68,0:15:12.85,Main,Briar,0,0,0,,It shared its own Terastal energy \N with Achigator?
+Dialogue: 10,0:15:08.68,0:15:12.85,Main,Briar,0,0,0,,It shared its own Terastal energy \N with Achigator?{Dread Terapagos}
 Dialogue: 10,0:15:14.56,0:15:16.90,Main,Briar,0,0,0,,This phenomenon is entirely new to me!
 Dialogue: 10,0:15:16.90,0:15:19.36,Main,Briar,0,0,0,,Terapagos is {\i1}truly{\i0} intriguing!
 Dialogue: 10,0:15:23.65,0:15:25.11,Main,Roy,0,0,0,,Let’s end this, Achigator!
@@ -202,10 +202,10 @@ Dialogue: 10,0:17:37.41,0:17:41.29,Main,Liko,0,0,0,,Rystal{Honorifics note: Ryst
 Dialogue: 10,0:17:41.29,0:17:44.00,Main,Roy,0,0,0,,They all looked so happy together.
 Dialogue: 10,0:17:47.05,0:17:50.76,Main,Liko,0,0,0,,Rekkuuza wanted to be \N reunited with all of them, too...
 Dialogue: 10,0:17:51.17,0:17:53.09,Main,Liko,0,0,0,,In that memory with Rekkuuza...
-Dialogue: 10,0:17:53.09,0:17:55.89,Main,Liko,0,0,0,,It was with Lucius \N and all his companions.
-Dialogue: 10,0:17:55.89,0:17:58.77,Main,Liko,0,0,0,,I could really tell \N how much it trusted them!
-Dialogue: 10,0:17:59.27,0:18:03.69,Main,Liko,0,0,0,,It’s been hoping to go to Rakua \N with Pagogo and the Six Heroes...
-Dialogue: 10,0:18:03.69,0:18:06.19,Main,Liko,0,0,0,,It’s been hoping to fulfill \N its promise with Lucius...
+Dialogue: 10,0:17:53.09,0:17:55.89,Main,Liko,0,0,0,,He was with Lucius \N and all his companions.
+Dialogue: 10,0:17:55.89,0:17:58.77,Main,Liko,0,0,0,,I could really tell \N how much he trusted them!
+Dialogue: 10,0:17:59.27,0:18:03.69,Main,Liko,0,0,0,,He’s been hoping to go to Rakua \N with Pagogo and the Six Heroes...
+Dialogue: 10,0:18:03.69,0:18:06.19,Main,Liko,0,0,0,,He’s been hoping to fulfill \N his promise with Lucius...
 Dialogue: 10,0:18:07.19,0:18:09.03,Main,Friede,0,0,0,,The Six Heroes have assembled.
 Dialogue: 10,0:18:09.03,0:18:11.36,Main,Friede,0,0,0,,Now, we just need to get to Rakua.
 Dialogue: 10,0:18:11.36,0:18:13.32,Main,Friede,0,0,0,,Let’s get back to the ship \N and talk strategy!
@@ -213,16 +213,16 @@ Dialogue: 10,0:18:13.32,0:18:14.28,Main,Kids,0,0,0,,{\i1}Yeah!{\i0}
 Dialogue: 10,0:18:14.28,0:18:16.20,Main,Roy,0,0,0,,Okay...
 Dialogue: 10,0:18:16.20,0:18:17.91,Main,Roy,0,0,0,,Return, Rekkuuza!
 Dialogue: 10,0:18:19.33,0:18:20.33,Main,Roy,0,0,0,,Huh?
-Dialogue: 10,0:18:20.33,0:18:22.58,Main,Roy,0,0,0,,It’s not listening to me...{Should've got more than 2 badges :P -TL}
+Dialogue: 10,0:18:20.33,0:18:22.58,Main,Roy,0,0,0,,He’s not listening to me...{Should've got more than 2 badges :P -TL}
 Dialogue: 10,0:18:23.46,0:18:26.54,Main,Friede,0,0,0,,The black Rekkuuza belongs to Lucius.
-Dialogue: 10,0:18:26.54,0:18:29.67,Main,Friede,0,0,0,,It might not feel ready to \N approve of you as its partner just yet.
+Dialogue: 10,0:18:26.54,0:18:29.67,Main,Friede,0,0,0,,He might not feel ready to \N approve of you as his partner just yet.
 Dialogue: 10,0:18:29.67,0:18:32.38,Main,Roy,0,0,0,,Huh?! You gotta be kidding...
 Dialogue: 10,0:18:32.38,0:18:32.92,Main,Liko,0,0,0,,Roy...
-Dialogue: 10,0:18:32.92,0:18:38.06,Main,Liko,0,0,0,,But still! It {\i1}did{\i0} go in the ball, \N so I know it approves of me at least a bit!
+Dialogue: 10,0:18:32.92,0:18:38.06,Main,Liko,0,0,0,,But still! He {\i1}did{\i0} go in the ball, \N so I know he approves of me at least a bit!
 Dialogue: 10,0:18:38.43,0:18:42.93,Main,Liko,0,0,0,,I’m gonna really push myself, so that I can be \N your {\i1}real{\i0} partner someday, Rekkuuza!
 Dialogue: 10,0:18:59.66,0:19:00.95,Main,Liko,0,0,0,,What happened?
-Dialogue: 10,0:19:00.95,0:19:02.95,Main,Dot,0,0,0,,Is it saying “Follow me” or something?
-Dialogue: 10,0:19:02.95,0:19:06.21,Main,Liko,0,0,0,,Maybe it’s going to guide us to Rakua?
+Dialogue: 10,0:19:00.95,0:19:02.95,Main,Dot,0,0,0,,Is he saying “Follow me” or something?
+Dialogue: 10,0:19:02.95,0:19:06.21,Main,Liko,0,0,0,,Maybe he’s going to guide us to Rakua?
 Dialogue: 10,0:19:06.21,0:19:10.55,Main,Friede,0,0,0,,There’s only one place Rekkuuza \N would want to take us!
 Dialogue: 10,0:19:10.55,0:19:11.96,Main,Friede,0,0,0,,Let’s hurry and set sail, guys!
 Dialogue: 10,0:19:12.59,0:19:15.09,Main,Briar,0,0,0,,Don’t worry about me. \N Go on ahead.
@@ -242,7 +242,7 @@ Dialogue: 10,0:20:04.18,0:20:07.60,Main,Liko,0,0,0,,I simply can’t wait to see
 Dialogue: 10,0:20:08.56,0:20:09.73,Main,Alex,0,0,0,,Liko...
 Dialogue: 10,0:20:29.88,0:20:33.21,Main,Liko,0,0,0,,Mother... Father... \N I’m heading out!{OP1}
 Dialogue: 10,0:20:33.21,0:20:37.01,Main,Liko,0,0,0,,There’s so, {\i1}so{\i0} much I want \N to tell you about when I get back!
-Dialogue: 10,0:20:41.76,0:20:47.14,Main,Roy,0,0,0,,I finally battled the black Rekkuuza, \N and got it to approve of me just a bit!
+Dialogue: 10,0:20:41.76,0:20:47.14,Main,Roy,0,0,0,,I finally battled the black Rekkuuza, \N and got him to approve of me just a bit!
 Dialogue: 10,0:20:47.14,0:20:51.56,Main,Roy,0,0,0,,I’m gonna get even stronger, \N and become a trainer worthy of Rekkuuza!
 Dialogue: 10,0:20:53.19,0:20:58.78,Main,Dot,0,0,0,,{\q2}By going out, I’ve run into so many new ideas \N and exciting things by being with everyone.{This message is scattered/messy in Japanese}
 Dialogue: 10,0:20:58.78,0:21:00.78,Main,Dot,0,0,0,,I dunno how to put it \N into words, Mom, but...

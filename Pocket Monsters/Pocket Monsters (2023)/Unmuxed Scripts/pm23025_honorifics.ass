@@ -132,7 +132,7 @@ Dialogue: 10,0:07:18.17,0:07:19.21,Main,Friede,0,0,0,,Whoops!
 Dialogue: 10,0:07:20.63,0:07:24.22,Main,Friede,0,0,0,,If his Breaking Armor activates, \N it’ll be trouble...
 Dialogue: 10,0:07:24.22,0:07:26.13,Main,Friede,0,0,0,,Lizardon, use Air Slash!
 Dialogue: 10,0:07:27.93,0:07:30.35,Main,Amethio,0,0,0,,Soublades, jump through!
-Dialogue: 10,0:07:30.68,0:07:33.27,Main,Friede,0,0,0,,Lizardon, don’t let it close in!{DREADED “IT” PRONOUN: Soublades}
+Dialogue: 10,0:07:30.68,0:07:33.27,Main,Friede,0,0,0,,Lizardon, don’t let it close in!{Dread Soublades}
 Dialogue: 10,0:07:33.27,0:07:34.77,Main,Friede,0,0,0,,Flamethrower!
 Dialogue: 10,0:07:42.94,0:07:45.61,Main,Amethio,0,0,0,,Where’s your usual spirit?!
 Dialogue: 10,0:07:45.61,0:07:47.07,Main,Amethio,0,0,0,,This isn’t like you!

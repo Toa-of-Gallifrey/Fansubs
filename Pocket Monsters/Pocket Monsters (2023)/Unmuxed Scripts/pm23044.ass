@@ -49,7 +49,7 @@ Dialogue: 10,0:03:35.74,0:03:37.95,Main,Liko,0,0,0,,He stole my pendant in Hakko
 Dialogue: 10,0:03:39.78,0:03:42.24,Main,Friede,0,0,0,,So it’s the Explorers...
 Dialogue: 10,0:03:42.24,0:03:44.41,Main,Murdock,0,0,0,,What’re they trying to do?
 Dialogue: 10,0:03:44.83,0:03:47.71,Main,Liko,0,0,0,,Sango said they were going to \N “summon Rekkuuza”...
-Dialogue: 10,0:03:47.71,0:03:51.59,Main,Friede,0,0,0,,They must be planning to \N lure it in somehow and catch it.
+Dialogue: 10,0:03:47.71,0:03:51.59,Main,Friede,0,0,0,,They must be planning to \N lure him in somehow and catch him.
 Dialogue: 10,0:03:52.00,0:03:55.34,Main,Roy,0,0,0,,I’m not letting them have \N the black Rekkuuza!
 Dialogue: 10,0:03:56.84,0:04:00.22,Main,Friede,0,0,0,,If they’re using a machine, \N Cap’s electric attacks can destroy it.
 Dialogue: 10,0:04:00.22,0:04:02.43,Main,Friede,0,0,0,,Rushing in there is the quickest solution.
@@ -167,7 +167,7 @@ Dialogue: 10,0:12:11.17,0:12:14.25,Main,Liko,0,0,0,,Is there something... \N at 
 Dialogue: 10,0:12:20.18,0:12:21.39,Main,Roy,0,0,0,,Liko!
 Dialogue: 10,0:12:21.39,0:12:23.81,Main,Liko,0,0,0,,Yeah. This feeling...
 Comment: 0,0:13:01.47,0:13:01.47,Main,,0,0,0,,{Part C}
-Dialogue: 10,0:13:08.31,0:13:10.77,Main,Nanjamo,0,0,0,,Electric Netting your eyes!
+Dialogue: 10,0:13:08.31,0:13:10.77,Main,Nanjamo,0,0,0,,Grabbing your eyeballs \N in my Electric Net!
 Dialogue: 10,0:13:10.77,0:13:13.65,Main,Nanjamo,0,0,0,,Whozat? It’s Nanjamo!
 Dialogue: 10,0:13:13.65,0:13:15.48,Main,Nanjamo,0,0,0,,Oha-kon-hello-ciao!
 Dialogue: 10,0:13:17.74,0:13:21.78,Main,Nanjamo,0,0,0,,It’s time for “Whatchagot TV”!
@@ -254,7 +254,7 @@ Dialogue: 10,0:18:47.61,0:18:49.15,Main,Liko & Roy,0,0,0,,Friede!
 Dialogue: 10,0:18:49.15,0:18:50.98,Main,Friede,0,0,0,,Sorry for the wait, you guys!
 Dialogue: 10,0:18:57.28,0:18:59.24,Main,Murdock,0,0,0,,We’re here!
 Dialogue: 10,0:19:09.88,0:19:10.96,Main,Agate,0,0,0,,Wh-What?
-Dialogue: 10,0:19:10.96,0:19:12.46,Main,Dot,0,0,0,,Ow...
+Dialogue: 10,0:19:10.96,0:19:12.46,Main,Dot,0,0,0,,Ow, ow...
 Dialogue: 10,0:19:12.46,0:19:14.09,Main,Dot,0,0,0,,Kuwassu, use Water Gun!
 Dialogue: 10,0:19:14.09,0:19:16.22,Main,Dot,0,0,0,,Kanuchan, use Slam!
 Dialogue: 10,0:19:16.47,0:19:17.76,Main,Agate,0,0,0,,Charem, dodge it.

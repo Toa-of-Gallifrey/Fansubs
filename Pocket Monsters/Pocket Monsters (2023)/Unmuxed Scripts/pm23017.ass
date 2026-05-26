@@ -95,7 +95,7 @@ Dialogue: 10,0:06:35.54,0:06:38.92,Main,Friede,0,0,0,,What’s wrong? \N He’s 
 Dialogue: 10,0:06:39.55,0:06:40.30,Main,Roy,0,0,0,,Huh?
 Dialogue: 10,0:06:40.80,0:06:43.17,Main,Roy,0,0,0,,Cap and Lizardon are battling?
 Dialogue: 10,0:06:46.93,0:06:49.43,Main,Roy,0,0,0,,Ooh! Flamethrower!
-Dialogue: 10,0:06:49.43,0:06:52.64,Main,Roy,0,0,0,,There’s your idol, Lizardon! \N Isn’t it cool, Hogator?!{DREADED “IT” PRONOUN: Lizardon}
+Dialogue: 10,0:06:49.43,0:06:52.64,Main,Roy,0,0,0,,There’s your idol, Lizardon! \N Isn’t it cool, Hogator?!{Dread Lizardon}
 Dialogue: 10,0:06:59.44,0:07:01.78,Main,Roy,0,0,0,,Whoa! Thunder Punch!
 Dialogue: 10,0:07:04.82,0:07:05.99,Main,Roy,0,0,0,,Kaiden?
 Dialogue: 10,0:07:10.66,0:07:11.87,Main,Roy,0,0,0,,I get it.
@@ -112,12 +112,12 @@ Dialogue: 10,0:07:44.74,0:07:46.11,Main,Roy,0,0,0,,Kaiden!
 Dialogue: 10,0:07:52.37,0:07:53.62,Main,Roy,0,0,0,,Let’s give it our all!
 Dialogue: 10,0:07:53.62,0:07:56.37,Main,Roy,0,0,0,,Cap’s crazy strong, you know!
 Dialogue: 10,0:08:01.09,0:08:02.63,Main,Roy,0,0,0,,Huh? Kaiden?
-Dialogue: 10,0:08:10.18,0:08:12.05,Main,Roy,0,0,0,,It’s really provoking him...{DREADED “IT” PRONOUN: Kaiden}{I wanna reword this to avoid at least Kaiden's pronoun if possible. - Toa}
+Dialogue: 10,0:08:10.18,0:08:12.05,Main,Roy,0,0,0,,It’s really provoking him...{Dread Kaiden}{I wanna reword this to avoid at least Kaiden's pronoun if possible. - Toa}
 Dialogue: 10,0:08:12.68,0:08:13.93,Main,Friede,0,0,0,,Oh?
 Dialogue: 10,0:08:13.93,0:08:16.31,Main,Roy,0,0,0,,All right! \N Hogator, use Ember!
 Dialogue: 10,0:08:21.27,0:08:22.77,Main,Roy,0,0,0,,Kaiden, use Uproar!
 Dialogue: 10,0:08:36.16,0:08:38.54,Main,Roy,0,0,0,,That move... \N Rotom, tell me about it.
-Dialogue: 10,0:08:39.54,0:08:41.00,Main,Go - PokéDex Forme (Not YOU),0,0,0,,That’s Spark.
+Dialogue: 10,0:08:39.54,0:08:41.00,Main,Smartphone Rotom,0,0,0,,That’s Spark.
 Dialogue: 10,0:08:41.50,0:08:44.67,Main,Roy,0,0,0,,All right! \N Kaiden, use Spark again!
 Dialogue: 10,0:08:44.67,0:08:46.17,Main,Roy,0,0,0,,Hogator, you use Tackle!
 Dialogue: 10,0:08:50.68,0:08:52.43,Main,Murdock,0,0,0,,Ooh, they’re going at it!
@@ -191,7 +191,7 @@ Dialogue: 10,0:13:34.00,0:13:38.96,Main,Roy,0,0,0,,With that kinda power, \N may
 Dialogue: 10,0:13:38.96,0:13:40.30,Main,Roy,0,0,0,,Right, Kaiden?
 Dialogue: 10,0:13:43.76,0:13:47.14,Main,Roy,0,0,0,,But how come that didn’t happen \N when we battled?
 Dialogue: 10,0:13:47.56,0:13:51.56,Main,Liko,0,0,0,,Kaiden produce electricity \N when their wings catch the wind, right?
-Dialogue: 10,0:13:51.56,0:13:56.57,Main,Liko,0,0,0,,Just now... It caught those \N strong turbulent winds, didn’t it?{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:13:51.56,0:13:56.57,Main,Liko,0,0,0,,Just now... It caught those \N strong turbulent winds, didn’t it?{Dread Kaiden}
 Dialogue: 10,0:13:56.57,0:14:01.49,Main,Roy,0,0,0,,You’re right... So if I can kick up \N some strong winds for it in battle...
 Dialogue: 10,0:14:01.49,0:14:05.24,Main,Roy,0,0,0,,Wait, how exactly do I do that?
 Dialogue: 10,0:14:07.08,0:14:11.75,Main,Liko,0,0,0,,Umm... You wanted Hogator and Kaiden \N to get along better, right?
@@ -217,13 +217,13 @@ Dialogue: 10,0:15:01.13,0:15:06.26,Main,Liko,0,0,0,,I’m in Gurumin’s room...
 Dialogue: 10,0:15:03.13,0:15:06.26,Main,Dot,0,0,0,,{\an8}Hmm, that’s a tough one.{no captions for this line}
 Dialogue: 10,0:15:07.59,0:15:13.02,Main,Dot,0,0,0,,Normally, Kaiden generate electricity \N by catching the wind on their wings in flight.
 Dialogue: 10,0:15:13.02,0:15:15.85,Main,Dot,0,0,0,,But that one’s so small.
-Dialogue: 10,0:15:15.85,0:15:18.11,Main,Dot,0,0,0,,And it has a hard time flying, right?{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:15:18.11,0:15:21.28,Main,Dot,0,0,0,,There’s only so much wind power \N it can get by running...{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:15:15.85,0:15:18.11,Main,Dot,0,0,0,,And it has a hard time flying, right?{Dread Kaiden}
+Dialogue: 10,0:15:18.11,0:15:21.28,Main,Dot,0,0,0,,There’s only so much wind power \N it can get by running...{Dread Kaiden}
 Dialogue: 10,0:15:21.28,0:15:22.86,Main,Roy,0,0,0,,No way...
-Dialogue: 10,0:15:22.86,0:15:26.78,Main,Roy,0,0,0,,Its Spark is powerful enough \N to win the battle!{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:15:22.86,0:15:26.78,Main,Roy,0,0,0,,Its Spark is powerful enough \N to win the battle!{Dread Kaiden}
 Dialogue: 10,0:15:27.61,0:15:28.87,Main,Roy,0,0,0,,I’m sure of it!
 Dialogue: 10,0:15:29.53,0:15:31.12,Main,Liko,0,0,0,,Roy...
-Dialogue: 10,0:15:31.12,0:15:33.66,Main,Dot,0,0,0,,If it leapt from somewhere high up,{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:15:31.12,0:15:33.66,Main,Dot,0,0,0,,If it leapt from somewhere high up,{Dread Kaiden}
 Dialogue: 10,0:15:33.66,0:15:36.29,Main,Dot,0,0,0,,it might be able to catch \N strong winds for a moment.
 Dialogue: 10,0:15:36.75,0:15:38.50,Main,Roy,0,0,0,,Somewhere high up...
 Dialogue: 10,0:15:40.67,0:15:43.05,Main,Roy,0,0,0,,Yeah, that’ll work!

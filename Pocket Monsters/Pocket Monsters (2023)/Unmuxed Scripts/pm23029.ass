@@ -240,10 +240,10 @@ Dialogue: 10,0:13:47.01,0:13:48.64,Main,Liko,0,0,0,,No, um...
 Dialogue: 10,0:13:49.52,0:13:51.69,Main,Orio,0,0,0,,I need a quick break, too.
 Dialogue: 10,0:13:55.02,0:13:57.73,Main,Liko,0,0,0,,Orio... Is every day fun for you?
 Dialogue: 10,0:13:57.73,0:14:00.36,Main,Orio,0,0,0,,Huh? Sure is.
-Dialogue: 10,0:14:00.36,0:14:02.82,Main,Orio,0,0,0,,Even if it can get pretty hard to deal with at times.
-Dialogue: 10,0:14:04.24,0:14:07.87,Main,Liko,0,0,0,,Why did you start traveling with Friede?
-Dialogue: 10,0:14:07.87,0:14:10.37,Main,Orio,0,0,0,,What? Did I never tell you?
-Dialogue: 10,0:14:10.37,0:14:12.62,Main,Liko,0,0,0,,I never asked...
+Dialogue: 10,0:14:00.36,0:14:02.82,Main,Orio,0,0,0,,Even if it can get \N pretty hard to deal with at times.
+Dialogue: 10,0:14:04.24,0:14:07.87,Main,Liko,0,0,0,,Why did you start \N traveling with Friede?
+Dialogue: 10,0:14:07.87,0:14:10.37,Main,Orio,0,0,0,,Huh? Didn’t I ever mention?{Variation of Friede's catchphrase}
+Dialogue: 10,0:14:10.37,0:14:12.62,Main,Liko,0,0,0,,You didn’t, no...
 Dialogue: 10,0:14:12.62,0:14:17.38,Main,Orio,0,0,0,,I used to work at a shipyard \N in the Hoenn Region.
 Dialogue: 10,0:14:18.00,0:14:21.38,Main,Orio,0,0,0,,It was fun, and the work was rewarding.
 Dialogue: 10,0:14:21.38,0:14:25.14,Main,Orio,0,0,0,,My coworkers were nice, too. \N I felt fulfilled.
@@ -311,9 +311,9 @@ Dialogue: 10,0:18:44.27,0:18:48.32,Main,Orio,0,0,0,,This is Friede we’re talki
 Dialogue: 10,0:19:02.20,0:19:03.96,Main,Friede,0,0,0,,{\i1}That’s{\i0} what I was waiting for!
 Dialogue: 10,0:19:12.34,0:19:13.47,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:19:17.22,0:19:19.22,Main,Roy,0,0,0,,What’s going on?
-Dialogue: 10,0:19:20.14,0:19:25.98,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Matadogas: Galarian Form. \N Poison Gas Pokémon. Poison/Fairy type.
-Dialogue: 10,0:19:25.98,0:19:28.69,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Consumes particles \N that contaminate the air.{Sword dex entry but the game TL added a "This Pokémon" at the start that wasn't there in the JP}
-Dialogue: 10,0:19:28.69,0:19:31.98,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Instead of leaving droppings, \N it expels clean air. {Straight-up Sword dex entry}
+Dialogue: 10,0:19:20.14,0:19:25.98,Main,Smartphone Rotom,0,0,0,,Matadogas: Galarian Form. \N Poison Gas Pokémon. Poison/Fairy type.
+Dialogue: 10,0:19:25.98,0:19:28.69,Main,Smartphone Rotom,0,0,0,,Consumes particles \N that contaminate the air.{Sword dex entry but the game TL added a "This Pokémon" at the start that wasn't there in the JP}
+Dialogue: 10,0:19:28.69,0:19:31.98,Main,Smartphone Rotom,0,0,0,,Instead of leaving droppings, \N it expels clean air. {Straight-up Sword dex entry}
 Dialogue: 10,0:19:35.74,0:19:36.74,Main,Liko,0,0,0,,I see...
 Dialogue: 10,0:19:37.20,0:19:40.91,Main,Liko,0,0,0,,The smoke from the chimneys \N is a delicious meal to them!
 Dialogue: 10,0:19:40.91,0:19:46.12,Main,Orio,0,0,0,,I swear... That guy’s always up to something wild, \N or asking for something totally crazy...

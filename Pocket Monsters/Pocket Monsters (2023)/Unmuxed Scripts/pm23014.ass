@@ -57,8 +57,8 @@ Dialogue: 10,0:01:32.61,0:01:35.87,Main,Roy,0,0,0,,It’s not here... \N I’m s
 Dialogue: 10,0:01:39.45,0:01:40.96,Main,Roy,0,0,0,,Found it!
 Comment: 0,0:01:42.58,0:01:42.58,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:12.67,0:03:12.67,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:34.32,0:03:36.74,Main,Roy,0,0,0,,I was right... \N It’s not with the flock.{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:03:36.74,0:03:38.32,Main,Roy,0,0,0,,What’s it doing?{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:03:34.32,0:03:36.74,Main,Roy,0,0,0,,I was right... \N It’s not with the flock.{Dread Kaiden}
+Dialogue: 10,0:03:36.74,0:03:38.32,Main,Roy,0,0,0,,What’s it doing?{Dread Kaiden}
 Dialogue: 10,0:04:09.65,0:04:14.11,Main,Roy,0,0,0,,The Index says their flocks \N act as a unit{Matches no Pokedex entries}, so how come...?
 Dialogue: 10,0:04:15.44,0:04:16.57,Main,Roy,0,0,0,,Quiet—
 Dialogue: 10,0:04:16.57,0:04:17.15,Main,Roy,0,0,0,,Eek!
@@ -138,10 +138,10 @@ Dialogue: 10,0:09:03.48,0:09:04.61,Main,Liko,0,0,0,,Training?
 Dialogue: 10,0:09:05.11,0:09:06.11,Main,Liko,0,0,0,,Does that mean...
 Dialogue: 10,0:09:06.48,0:09:08.36,Main,Liko,0,0,0,,That’s the Pokémon you mentioned?
 Dialogue: 10,0:09:08.36,0:09:10.03,Main,Roy,0,0,0,,Yeah, Kaiden.
-Dialogue: 10,0:09:11.11,0:09:13.95,Main,Murdock,0,0,0,,You’re training it \N with jumping drills?{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:09:13.95,0:09:16.29,Main,Roy,0,0,0,,It’s having trouble flying,{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:09:16.29,0:09:18.83,Main,Roy,0,0,0,,and I thought it might be \N a good starting point.{DREADED “IT” PRONOUN: Kaiden}{lit. So I thought that if it was just this rough amount, maybe it could do it}
-Dialogue: 10,0:09:24.59,0:09:27.17,Main,Murdock,0,0,0,,It really does seem to be \N having trouble.{DREADED “IT” PRONOUN: Kaiden}{repetition from Roy's line -ed}
+Dialogue: 10,0:09:11.11,0:09:13.95,Main,Murdock,0,0,0,,You’re training it \N with jumping drills?{Dread Kaiden}
+Dialogue: 10,0:09:13.95,0:09:16.29,Main,Roy,0,0,0,,It’s having trouble flying,{Dread Kaiden}
+Dialogue: 10,0:09:16.29,0:09:18.83,Main,Roy,0,0,0,,and I thought it might be \N a good starting point.{Dread Kaiden}{lit. So I thought that if it was just this rough amount, maybe it could do it}
+Dialogue: 10,0:09:24.59,0:09:27.17,Main,Murdock,0,0,0,,It really does seem to be \N having trouble.{Dread Kaiden}{repetition from Roy's line -ed}
 Dialogue: 10,0:09:27.17,0:09:29.22,Main,Roy,0,0,0,,And that’s why we’re training!
 Dialogue: 10,0:09:29.22,0:09:30.30,Main,Liko,0,0,0,,I see.
 Dialogue: 10,0:09:31.51,0:09:37.01,Main,Roy,0,0,0,,I feel like Kaiden’s gotta \N want to fly with its friends, too.
@@ -171,7 +171,7 @@ Dialogue: 10,0:11:35.80,0:11:38.89,Main,Spinel,0,0,0,,Pulverize them. Meteor Bea
 Dialogue: 10,0:11:46.56,0:11:48.44,Main,Friede,0,0,0,,Guess I have no choice...
 Dialogue: 10,0:11:48.44,0:11:51.82,Main,Friede,0,0,0,,Lizardon! \N Surpass your potential!
 Dialogue: 10,0:12:16.13,0:12:18.26,Main,Spinel,0,0,0,,Lizardon Terastallized...
-Dialogue: 10,0:12:19.43,0:12:24.43,Main,Spinel,0,0,0,,It turned into an Evil type{DREADED “IT” PRONOUN: Lizardon} and nullified \N the Esper-type Psychokinesis.
+Dialogue: 10,0:12:19.43,0:12:24.43,Main,Spinel,0,0,0,,It turned into an Evil type{Dread Lizardon} and nullified \N the Esper-type Psychokinesis.
 Dialogue: 10,0:12:26.89,0:12:29.02,Main,Friede,0,0,0,,Let’s go, Lizardon!
 Dialogue: 10,0:12:29.02,0:12:30.73,Main,Friede,0,0,0,,Tera Burst!
 Dialogue: 10,0:12:51.00,0:12:53.34,Main,Friede,0,0,0,,It’s over!
@@ -196,7 +196,7 @@ Dialogue: 10,0:13:59.69,0:14:01.53,Main,Dot,0,0,0,,so I’m checking everything 
 Dialogue: 10,0:14:01.90,0:14:02.99,Main,Friede,0,0,0,,Got it.
 Dialogue: 10,0:14:03.74,0:14:07.03,Main,Friede,0,0,0,,We’ll set off tomorrow, \N as soon as Dot’s done checking everything. {Tomorrow, as soon as Dot’s checks are done, we set off.}
 Dialogue: 10,0:14:07.66,0:14:09.70,Main,Liko,0,0,0,,We’ll finally set off!
-Dialogue: 10,0:14:15.54,0:14:17.96,Main,Roy,0,0,0,,What can I do to give it courage?{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:14:15.54,0:14:17.96,Main,Roy,0,0,0,,What can I do to give it courage?{Dread Kaiden}
 Dialogue: 10,0:14:26.35,0:14:29.39,Main,Roy,0,0,0,,Mister, I’ve got a favor to ask!
 Comment: 0,0:14:42.49,0:14:42.49,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:14:52.50,0:14:54.25,Main,Liko,0,0,0,,Another tasty meal today!
@@ -216,13 +216,13 @@ Dialogue: 10,0:15:29.83,0:15:31.03,Main,Roy,0,0,0,,Kaiden!
 Dialogue: 10,0:15:33.04,0:15:34.25,Main,Roy,0,0,0,,Morning!
 Dialogue: 10,0:15:37.92,0:15:40.42,Main,Roy,0,0,0,,Got it? Watch this!
 Dialogue: 10,0:15:40.42,0:15:43.84,Main,Roy,0,0,0,,If I slowly lower you, like this...
-Dialogue: 10,0:15:46.01,0:15:47.80,Main,Liko,0,0,0,,Looks like it’s interested.{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:15:46.01,0:15:47.80,Main,Liko,0,0,0,,Looks like it’s interested.{Dread Kaiden}
 Dialogue: 10,0:15:49.43,0:15:51.43,Main,Roy,0,0,0,,All set!
 Dialogue: 10,0:15:51.43,0:15:54.56,Main,Liko,0,0,0,,I get it. It’s a safety harness.
 Dialogue: 10,0:15:54.56,0:15:55.81,Main,Roy,0,0,0,,Yeah!
-Dialogue: 10,0:15:55.81,0:15:59.48,Main,Roy,0,0,0,,If it can get used to this bit by bit,{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:15:59.48,0:16:01.52,Main,Roy,0,0,0,,then someday when it \N works up the courage...{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:16:01.52,0:16:05.11,Main,Roy,0,0,0,,...it can fly to its friends!{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:15:55.81,0:15:59.48,Main,Roy,0,0,0,,If it can get used to this bit by bit,{Dread Kaiden}
+Dialogue: 10,0:15:59.48,0:16:01.52,Main,Roy,0,0,0,,then someday when it \N works up the courage...{Dread Kaiden}
+Dialogue: 10,0:16:01.52,0:16:05.11,Main,Roy,0,0,0,,...it can fly to its friends!{Dread Kaiden}
 Dialogue: 10,0:16:05.11,0:16:06.36,Main,Liko,0,0,0,,That’s right.
 Dialogue: 10,0:16:07.74,0:16:09.11,Main,Roy,0,0,0,,So, here we go!
 Dialogue: 10,0:16:15.70,0:16:17.83,Main,Roy,0,0,0,,Okay, that’s the first step!
@@ -245,9 +245,9 @@ Dialogue: 10,0:17:04.34,0:17:05.92,Main,Roy,0,0,0,,{\i1}Kaiden!{\i0}
 Dialogue: 10,0:17:16.97,0:17:18.68,Main,Roy,0,0,0,,You did it!
 Dialogue: 10,0:17:45.63,0:17:47.96,Main,Murdock,0,0,0,,Hey! Roy!
 Dialogue: 10,0:17:47.96,0:17:49.26,Main,Roy,0,0,0,,Murdock!
-Dialogue: 10,0:17:50.34,0:17:54.39,Main,Murdock,0,0,0,,I could see it from over there! \N That was amazing!{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:17:54.39,0:17:58.31,Main,Roy,0,0,0,,That’s right! Its wings sparkled...{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:17:58.31,0:18:00.64,Main,Roy,0,0,0,,...and it flew all the way up there!{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:17:50.34,0:17:54.39,Main,Murdock,0,0,0,,I could see it from over there! \N That was amazing!{Dread Kaiden}
+Dialogue: 10,0:17:54.39,0:17:58.31,Main,Roy,0,0,0,,That’s right! Its wings sparkled...{Dread Kaiden}
+Dialogue: 10,0:17:58.31,0:18:00.64,Main,Roy,0,0,0,,...and it flew all the way up there!{Dread Kaiden}
 Dialogue: 10,0:18:00.64,0:18:04.02,Main,Murdock,0,0,0,,I see. \N Your training paid off!
 Dialogue: 10,0:18:05.23,0:18:08.61,Main,Murdock,0,0,0,,Well then, we’re leaving soon. \N Let’s get back to the ship.
 Dialogue: 10,0:18:08.61,0:18:10.11,Main,Roy,0,0,0,,Oh... Right!
@@ -259,8 +259,8 @@ Dialogue: 10,0:19:08.13,0:19:09.54,Main,Roy,0,0,0,,Kaiden?
 Dialogue: 10,0:19:12.05,0:19:14.93,Main,Roy,0,0,0,,Kaiden... But why?
 Dialogue: 10,0:19:17.14,0:19:19.43,Main,Murdock,0,0,0,,Roy. Time to use this.
 Dialogue: 10,0:19:19.43,0:19:21.43,Main,Roy,0,0,0,,Huh? But...
-Dialogue: 10,0:19:21.43,0:19:24.77,Main,Roy,0,0,0,,It worked so hard \N to fly with its friends...{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:19:24.77,0:19:28.69,Main,Murdock,0,0,0,,And now it wants to be {\i1}your{\i0} friend, \N don’t you think?{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:19:21.43,0:19:24.77,Main,Roy,0,0,0,,It worked so hard \N to fly with its friends...{Dread Kaiden}
+Dialogue: 10,0:19:24.77,0:19:28.69,Main,Murdock,0,0,0,,And now it wants to be {\i1}your{\i0} friend, \N don’t you think?{Dread Kaiden}
 Dialogue: 10,0:19:32.90,0:19:34.44,Main,Roy,0,0,0,,Kaiden!
 Dialogue: 10,0:19:39.37,0:19:40.03,Main,Murdock,0,0,0,,It’s falling!
 Dialogue: 10,0:19:40.03,0:19:40.66,Main,Roy,0,0,0,,Look out!

@@ -66,11 +66,11 @@ Dialogue: 10,0:03:51.46,0:03:53.00,Main,Liko,0,0,0,,I see!
 Dialogue: 10,0:03:55.05,0:03:56.88,Main,Liko,0,0,0,,Maybe I should also—
 Dialogue: 10,0:03:56.88,0:03:57.80,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:03:58.68,0:04:00.22,Main,Liko,0,0,0,,What is it, Nyarote?
-Dialogue: 10,0:04:03.89,0:04:05.85,Main,Liko,0,0,0,,I’ve never seen that Pokémon before...
-Dialogue: 10,0:04:07.56,0:04:10.98,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kunugidama. Bagworm Pokémon. \N Bug type.
-Dialogue: 10,0:04:10.98,0:04:14.94,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It likes to make its shell thicker \N by adding layers of tree bark.
-Dialogue: 10,0:04:15.40,0:04:16.82,Main,Go - PokéDex Forme (Not YOU),0,0,0,,The extra weight doesn’t bother it.{Scarlet dex entry}{"additional"->"extra" for 23cps to 19cps. open to further tweaking as it feels a little odd to me from a wording perspective, but not critical -ed}{18cps alt: It carries the extra bulk easily.}
-Dialogue: 10,0:04:16.82,0:04:17.61,Main,Roy,0,0,0,,What’s that?
+Dialogue: 10,0:04:03.89,0:04:05.85,Main,Liko,0,0,0,,I’ve never seen that Pokémon before.
+Dialogue: 10,0:04:07.56,0:04:10.98,Main,Smartphone Rotom,0,0,0,,Kunugidama. Bagworm Pokémon. \N Bug type.
+Dialogue: 10,0:04:10.98,0:04:14.94,Main,Smartphone Rotom,0,0,0,,It likes to make its shell thicker \N by adding layers of tree bark.
+Dialogue: 10,0:04:15.40,0:04:16.82,Main,Smartphone Rotom,0,0,0,,The extra weight is not a burden.{Scarlet dex entry, partially edited}
+Dialogue: 10,0:04:16.82,0:04:17.61,Main,Roy,0,0,0,,Hey, what’s that?
 Dialogue: 10,0:04:21.66,0:04:22.95,Main,Roy,0,0,0,,Ow!
 Dialogue: 10,0:04:42.89,0:04:45.18,Main,Liko,0,0,0,,I’ve almost got you all nice and clean.
 Dialogue: 10,0:04:47.14,0:04:48.18,Main,Liko,0,0,0,,Just a sec.
@@ -179,9 +179,9 @@ Dialogue: 10,0:14:52.66,0:14:55.42,Main,Liko,0,0,0,,What do I do? I can’t clim
 Dialogue: 10,0:14:55.42,0:14:58.42,Main,Liko,0,0,0,,Not to mention... it’s so hot...
 Dialogue: 10,0:15:01.42,0:15:02.38,Main,Liko,0,0,0,,Wh-What?!
 Dialogue: 10,0:15:11.93,0:15:13.35,Main,Liko,0,0,0,,Pokémon...
-Dialogue: 10,0:15:17.19,0:15:20.86,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Nonokurage. Wood Ear Pokémon. \N Ground/Grass type.
-Dialogue: 10,0:15:20.86,0:15:23.11,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It lives in muggy forests.{Partial Scarlet dex entry}
-Dialogue: 10,0:15:23.11,0:15:26.20,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Its legs may be thin, but when it gets going, \N it can run at a speed of 50 km/h.{Partial Violet dex entry, partially edited}
+Dialogue: 10,0:15:17.19,0:15:20.86,Main,Smartphone Rotom,0,0,0,,Nonokurage. Wood Ear Pokémon. \N Ground/Grass type.
+Dialogue: 10,0:15:20.86,0:15:23.11,Main,Smartphone Rotom,0,0,0,,It lives in muggy forests.{Partial Scarlet dex entry}
+Dialogue: 10,0:15:23.11,0:15:26.99,Main,Smartphone Rotom,0,0,0,,Its legs may be thin, but when it gets going, \N it can run at a speed of fifty kilometers per hour.{Partial Violet dex entry, partially edited}{intentional scenebleed}
 Dialogue: 10,0:15:26.99,0:15:28.45,Main,Liko,0,0,0,,Nonokurage?
 Dialogue: 10,0:15:37.04,0:15:38.71,Main,Liko,0,0,0,,What are they doing?
 Dialogue: 10,0:15:42.71,0:15:44.97,Main,Liko,0,0,0,,There’s so many vines...
@@ -240,7 +240,7 @@ Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede's Pokémon Semin
 Dialogue: 10,0:23:38.23,0:23:40.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
 Dialogue: 10,0:23:41.40,0:23:44.49,Main,Friede,0,0,220,,The answer is A: Running away!
 Dialogue: 10,0:23:44.49,0:23:48.28,Main,Friede,0,0,220,,It’s cowardly, and will run away \N immediately if enemies draw near.
-Dialogue: 10,0:23:48.28,0:23:52.49,Main,Friede,0,0,220,,It’s said to be able to flee \N at 50 kilometers per hour!
+Dialogue: 10,0:23:48.28,0:23:52.49,Main,Friede,0,0,220,,It’s said to be able to flee \N at fifty kilometers per hour!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.50,0:24:02.50,Main,Roy,0,0,0,,Question!
 Dialogue: 10,0:24:02.50,0:24:06.55,Main,Roy,0,0,0,,What is the Habanero Pokémon \N of the Paldea Region?

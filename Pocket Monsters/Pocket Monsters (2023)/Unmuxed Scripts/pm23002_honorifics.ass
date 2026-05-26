@@ -113,7 +113,7 @@ Dialogue: 10,0:06:30.91,0:06:33.08,Main,Liko,0,0,0,,But... Why do you know my...
 Dialogue: 10,0:06:33.54,0:06:35.92,Main,Liko,0,0,0,,Or rather, who {\i1}are{\i0} all of you?
 Dialogue: 10,0:06:36.88,0:06:38.84,Main,Molly,0,0,0,,Don’t tell me...
 Dialogue: 10,0:06:38.84,0:06:41.67,Main,Molly,0,0,0,,Hey! Did you leave her \N totally in the dark?
-Dialogue: 10,0:06:42.17,0:06:44.22,Main,Friede,0,0,0,,Huh? Did I? {changed this and the previous line because I presume Liko nodding is supposed to be like "Yeah you told me nothing at all" which to me is more natural as a response to "Did I?" than "Didn't I?"}
+Dialogue: 10,0:06:42.17,0:06:44.22,Main,Friede,0,0,0,,Huh? Did I not mention?{the start of the catchphrase, with a slightly different take to accomodate Liko's nod in response}
 Dialogue: 10,0:06:45.01,0:06:47.35,Main,Murdock,0,0,0,,Man, how’d you get her \N to come along, then?!
 Dialogue: 10,0:06:47.35,0:06:48.05,Main,Molly,0,0,0,,Friede!
 Dialogue: 10,0:06:48.47,0:06:50.60,Main,Friede,0,0,0,,Oh, um, well...
@@ -133,7 +133,7 @@ Dialogue: 10,0:07:31.60,0:07:33.72,Main,Molly,0,0,0,,I still haven’t introduce
 Dialogue: 10,0:07:33.72,0:07:35.31,Main,Molly,0,0,0,,I’m Molly.
 Dialogue: 10,0:07:35.31,0:07:37.02,Main,Murdock,0,0,0,,I’m Murdock.
 Dialogue: 10,0:07:37.02,0:07:39.81,Main,Murdock,0,0,0,,And that’s my partner, Iwanko.
-Dialogue: 10,0:07:43.73,0:07:46.86,Main,Liko,0,0,0,,Huh? Nyahoja’s already \N made friends with it...{DREADED “IT” PRONOUN: Iwanko}
+Dialogue: 10,0:07:43.73,0:07:46.86,Main,Liko,0,0,0,,Huh? Nyahoja’s already \N made friends with it...{Dread Iwanko}
 Dialogue: 10,0:07:50.87,0:07:53.54,Main,Liko,0,0,0,,They’re all so cute!
 Dialogue: 10,0:07:54.12,0:07:57.25,Main,Liko,0,0,0,,No, no, no! Focus!
 Dialogue: 10,0:07:57.25,0:07:58.75,Main,Liko,0,0,0,,I’ve got to ask them...

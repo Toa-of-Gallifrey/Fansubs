@@ -41,9 +41,9 @@ Dialogue: 10,0:01:49.13,0:01:53.80,Main,Roy,0,0,0,,{\q2}But as for the moment...
 Dialogue: 10,0:01:53.80,0:01:57.60,Main,Roy,0,0,0,,and I’m investigating a sighting \N of a Pokémon acting abnormally.
 Dialogue: 10,0:02:00.93,0:02:02.27,Main,Roy,0,0,0,,What is it, Cap?
 Dialogue: 10,0:02:05.19,0:02:06.19,Main,Roy,0,0,0,,That’s...
-Dialogue: 10,0:02:06.90,0:02:10.69,Main,Rotom,0,0,0,,Kekking. Lazy Pokémon. \N Normal type.
-Dialogue: 10,0:02:10.69,0:02:13.07,Main,Rotom,0,0,0,,The world’s laziest Pokémon.{partial X dex entry}
-Dialogue: 10,0:02:13.07,0:02:17.58,Main,Rotom,0,0,0,,It only rolls over and moves \N when there is no more grass to eat.{partial Violet dex entry}
+Dialogue: 10,0:02:06.90,0:02:10.69,Main,Smartphone Rotom,0,0,0,,Kekking. Lazy Pokémon. \N Normal type.
+Dialogue: 10,0:02:10.69,0:02:13.07,Main,Smartphone Rotom,0,0,0,,The world’s laziest Pokémon.{partial X dex entry}
+Dialogue: 10,0:02:13.07,0:02:17.58,Main,Smartphone Rotom,0,0,0,,It only rolls over and moves \N when there is no more grass to eat.{partial Violet dex entry}
 Dialogue: 10,0:02:17.58,0:02:20.58,Main,Roy,0,0,0,,The “world’s laziest Pokémon” \N is doing {\i1}this?{\i0}
 Dialogue: 10,0:02:21.25,0:02:23.37,Main,Roy,0,0,0,,No, it’s just like Dot’s source said.
 Dialogue: 10,0:02:23.37,0:02:26.58,Main,Roy,0,0,0,,That stuff... \N It could be evidence of Rakurium.

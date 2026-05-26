@@ -36,9 +36,9 @@ Dialogue: 10,0:00:21.08,0:00:24.00,Main,Roy,0,0,0,,So this is Bowl Town!
 Dialogue: 10,0:00:30.80,0:00:32.10,Main,Roy,0,0,0,,I see Pokémon!
 Dialogue: 10,0:00:33.01,0:00:37.27,Main,Liko,0,0,0,,Fitting for the Town of Flowers and Art, \N they’re all Grass Pokémon!{Sasuga. line}{EN game doesn’t keep a consistant slogan, a town of nature/flowers and art/artwork}
 Dialogue: 10,0:00:39.14,0:00:41.15,Main,Liko,0,0,0,,Look, look! Some Minive!
-Dialogue: 10,0:00:43.02,0:00:47.40,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Minive. Olive Pokémon. \N Grass/Normal type.
-Dialogue: 10,0:00:47.40,0:00:50.91,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It converts nutrients into oil, \N which it stores in the fruit on its head.
-Dialogue: 10,0:00:50.91,0:00:54.03,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It can easily go a whole week \N without eating or drinking.{Violet dex entry}
+Dialogue: 10,0:00:43.02,0:00:47.40,Main,Smartphone Rotom,0,0,0,,Minive. Olive Pokémon. \N Grass/Normal type.
+Dialogue: 10,0:00:47.40,0:00:50.91,Main,Smartphone Rotom,0,0,0,,It converts nutrients into oil, \N which it stores in the fruit on its head.
+Dialogue: 10,0:00:50.91,0:00:54.03,Main,Smartphone Rotom,0,0,0,,It can easily go a whole week \N without eating or drinking.{Violet dex entry}
 Dialogue: 10,0:00:54.03,0:00:57.16,Main,Roy,0,0,0,,It’s tiny, but tough!
 Dialogue: 10,0:00:59.08,0:01:01.50,Main,Roy,0,0,0,,Who are those cheerful fellas?
 Dialogue: 10,0:01:01.50,0:01:05.50,Main,Liko,0,0,0,,They’re Kimawari. \N And that’s a sculpture behind them.
@@ -134,10 +134,10 @@ Dialogue: 10,0:06:51.85,0:06:54.98,Main,Colza,0,0,0,,With passion, they can be \
 Dialogue: 10,0:06:57.61,0:06:58.56,Main,Nemo,0,0,0,,Oh, dear.
 Dialogue: 10,0:06:58.56,0:06:59.90,Main,Colza,0,0,0,,I apologize.
 Dialogue: 10,0:06:59.90,0:07:03.07,Main,Colza,0,0,0,,This little one spits out oil \N when surprised.
-Dialogue: 10,0:07:04.49,0:07:08.74,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Oliño. Olive Pokémon. \N Grass/Normal type.
-Dialogue: 10,0:07:08.74,0:07:11.45,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It holds fresh-scented oil.{Part of Scarlet dex entry}
-Dialogue: 10,0:07:11.45,0:07:15.16,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It sunbathes to its heart’s content \N until the fruits on its head ripen,
-Dialogue: 10,0:07:15.16,0:07:17.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,then journeys beyond human civilization.{Violet dex entry}{Edited for CPS. - Toa}
+Dialogue: 10,0:07:04.49,0:07:08.74,Main,Smartphone Rotom,0,0,0,,Oliño. Olive Pokémon. \N Grass/Normal type.
+Dialogue: 10,0:07:08.74,0:07:11.45,Main,Smartphone Rotom,0,0,0,,It holds fresh-scented oil.{Part of Scarlet dex entry}
+Dialogue: 10,0:07:11.45,0:07:15.16,Main,Smartphone Rotom,0,0,0,,It sunbathes to its heart’s content \N until the fruits on its head ripen,
+Dialogue: 10,0:07:15.16,0:07:17.38,Main,Smartphone Rotom,0,0,0,,then journeys beyond human civilization.{Violet dex entry}{Edited for CPS. - Toa}
 Dialogue: 10,0:07:17.38,0:07:19.79,Main,Liko,0,0,0,,It’s the evolved from of Minive.
 Dialogue: 10,0:07:19.79,0:07:21.09,Main,Roy,0,0,0,,Huh!
 Dialogue: 10,0:07:30.47,0:07:33.10,Main,Nemo,0,0,0,,Ooh! What a great scent!
@@ -151,7 +151,7 @@ Dialogue: 10,0:07:59.75,0:08:01.67,Main,Roy,0,0,0,,Wait, we’re forgetting \N w
 Dialogue: 10,0:08:01.67,0:08:03.80,Main,Colza,0,0,0,,Oh, of course!
 Dialogue: 10,0:08:03.80,0:08:07.17,Main,Roy,0,0,0,,I came to ask you about \N a black Rekkuuza.
 Dialogue: 10,0:08:07.17,0:08:09.43,Main,Colza,0,0,0,,A black Rekkuuza?!
-Dialogue: 10,0:08:10.09,0:08:14.18,Main,Roy,0,0,0,,It came out of this Monster Ball \N and flew off somewhere.
+Dialogue: 10,0:08:10.09,0:08:14.18,Main,Roy,0,0,0,,He came out of this Monster Ball \N and flew off somewhere.
 Dialogue: 10,0:08:14.18,0:08:17.06,Main,Roy,0,0,0,,We were wondering \N if you knew anything.
 Dialogue: 10,0:08:18.94,0:08:21.06,Main,Colza,0,0,0,,Not avant-garde!
 Dialogue: 10,0:08:21.06,0:08:23.65,Main,Colza,0,0,0,,Absolutely not avant-garde!
@@ -204,7 +204,7 @@ Dialogue: 10,0:11:21.16,0:11:23.54,Main,Nemo,0,0,0,,I worked hard, too!
 Dialogue: 10,0:11:24.00,0:11:26.29,Main,Liko,0,0,0,,There are so many smiles!
 Dialogue: 10,0:11:26.29,0:11:29.04,Main,Roy,0,0,0,,This’ll put a smile on \N Colza-san’s face for sure!
 Dialogue: 10,0:11:31.67,0:11:33.76,Main,Roy,0,0,0,,Okay, I’ll go call Colza-san.
-Dialogue: 10,0:11:34.80,0:11:37.05,Main,Liko,0,0,0,,Oliño? What’s it doing here?{DREADED “IT” PRONOUN: Oliño}
+Dialogue: 10,0:11:34.80,0:11:37.05,Main,Liko,0,0,0,,Oliño? What’s it doing here?{Dread Oliño}
 Dialogue: 10,0:11:40.26,0:11:41.43,Main,Roy,0,0,0,,Colza-san!
 Dialogue: 10,0:11:43.72,0:11:44.93,Main,Roy,0,0,0,,Wait!
 Dialogue: 10,0:11:45.31,0:11:48.48,Main,Roy,0,0,0,,We gathered all these \N because we wanted you to smile!
@@ -225,13 +225,13 @@ Dialogue: 10,0:12:31.19,0:12:35.99,Main,Colza,0,0,0,,This is my work: \N Kimawar
 Dialogue: 10,0:12:36.99,0:12:41.37,Main,Colza,0,0,0,,I drew inspiration from \N Alex-san’s work for its creation.
 Dialogue: 10,0:12:41.74,0:12:43.53,Main,Liko,0,0,0,,I see...
 Dialogue: 10,0:12:43.53,0:12:51.13,Main,Colza,0,0,0,,I sculpted these two to portray the intensity of \N the black Rekkuuza through the eyes of a Kimawari...
-Dialogue: 10,0:12:51.71,0:12:54.75,Main,Colza,0,0,0,,And then the other day, I saw it.
+Dialogue: 10,0:12:51.71,0:12:54.75,Main,Colza,0,0,0,,And then the other day, I saw him.
 Dialogue: 10,0:12:54.75,0:12:57.63,Main,Colza,0,0,0,,The {\i1}real{\i0} black Rekkuuza!
 Dialogue: 10,0:12:57.63,0:12:59.47,Main,Roy,0,0,0,,Huh? The real one?!
 Dialogue: 10,0:12:59.47,0:13:01.26,Main,Colza,0,0,0,,It was night.
 Dialogue: 10,0:13:01.26,0:13:03.89,Main,Colza,0,0,0,,I was strolling through \N the forest on the edge of town...
 Dialogue: 10,0:13:03.89,0:13:08.02,Main,Colza,0,0,0,,...when the black Rekkuuza appeared,\N moving with incredible speed.
-Dialogue: 10,0:13:08.02,0:13:12.98,Main,Colza,0,0,0,,The moment I saw it, I was the {\i1}true{\i0} \N Kimawari in the Black Dragon’s Gaze!
+Dialogue: 10,0:13:08.02,0:13:12.98,Main,Colza,0,0,0,,The moment I saw him, I was the {\i1}true{\i0} \N Kimawari in the Black Dragon’s Gaze!
 Dialogue: 10,0:13:13.48,0:13:18.86,Main,Colza,0,0,0,,I was overwhelmed. \N Completely overcome.
 Dialogue: 10,0:13:18.86,0:13:20.86,Main,Nemo,0,0,0,,And that was \N the start of your slump...
 Dialogue: 10,0:13:20.86,0:13:25.20,Main,Colza,0,0,0,,Since then, I’ve been unsatisfied \N with everything I’ve tried to create,
@@ -240,7 +240,7 @@ Dialogue: 10,0:13:30.62,0:13:36.38,Main,Colza,0,0,0,,Rekkuuza, the ultimate \N w
 Dialogue: 10,0:13:38.88,0:13:42.93,Main,Liko,0,0,0,,Colza-san looks like he’s really suffering...
 Dialogue: 10,0:13:42.93,0:13:44.22,Main,Roy,0,0,0,,Amazing!
 Dialogue: 10,0:13:45.26,0:13:47.77,Main,Roy,0,0,0,,Rekkuuza really is amazing!
-Dialogue: 10,0:13:48.39,0:13:51.14,Main,Roy,0,0,0,,Now I wanna find it even more!
+Dialogue: 10,0:13:48.39,0:13:51.14,Main,Roy,0,0,0,,Now I wanna find him even more!
 Dialogue: 10,0:13:51.14,0:13:54.52,Main,Colza,0,0,0,,Did you hear a word I said?!
 Dialogue: 10,0:13:54.52,0:13:56.15,Main,Roy,0,0,0,,Oh, and Colza-san!
 Dialogue: 10,0:13:56.15,0:13:56.77,Main,Colza,0,0,0,,What?
@@ -353,7 +353,7 @@ Dialogue: 10,0:21:07.00,0:21:09.71,Main,Roy,0,0,0,,The sculpture looked sad?
 Dialogue: 10,0:21:09.71,0:21:10.37,Main,Liko,0,0,0,,Yeah.
 Dialogue: 10,0:21:10.37,0:21:11.96,Main,Liko,0,0,0,,The moment I saw that sculpture...
 Dialogue: 10,0:21:13.25,0:21:16.80,Main,Liko,0,0,0,,What is... this painful feeling?
-Dialogue: 10,0:21:17.46,0:21:20.38,Main,Liko,0,0,0,,This sadness I sense from it...{DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:21:17.46,0:21:20.38,Main,Liko,0,0,0,,This sadness I sense from it...{Dread Oliva}
 Dialogue: 10,0:21:22.59,0:21:26.39,Main,Roy,0,0,0,,Why would Colza-san \N make something like that?
 Dialogue: 10,0:21:26.39,0:21:27.97,Main,Liko,0,0,0,,I don’t know.
 Dialogue: 10,0:21:27.97,0:21:31.10,Main,Liko,0,0,0,,But I think there’s \N some kind of secret to it.

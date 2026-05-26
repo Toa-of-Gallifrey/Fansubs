@@ -79,14 +79,14 @@ Dialogue: 10,0:04:49.73,0:04:52.23,Main,Liko,0,0,0,,Ah, right... You don’t lik
 Dialogue: 10,0:04:52.23,0:04:53.15,Main,Liko,0,0,0,,Wanna get in?
 Dialogue: 10,0:04:54.57,0:04:55.94,Main,Liko,0,0,0,,Wait!
 Dialogue: 10,0:05:01.32,0:05:02.45,Main,Liko,0,0,0,,Nyarote?
-Dialogue: 10,0:05:12.63,0:05:16.17,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kachikooru. Ice Chunk Pokémon. \N Ice type.
-Dialogue: 10,0:05:16.17,0:05:20.68,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It protects itself by coating its body \N with ice made out of frigid -100 degree air.{It covers and protects its body with ice made from minus-100-degree cold air.}
-Dialogue: 10,0:05:20.68,0:05:22.97,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It fights with Sebie \N whenever it meets one.{Violet dex entry (edited)}{If it encounters Sebie, a fight occurs.}
+Dialogue: 10,0:05:12.63,0:05:16.17,Main,Smartphone Rotom,0,0,0,,Kachikooru. Ice Chunk Pokémon. \N Ice type.
+Dialogue: 10,0:05:16.17,0:05:20.68,Main,Smartphone Rotom,0,0,0,,It protects itself by coating its body \N with ice made out of frigid -100 degree air.{It covers and protects its body with ice made from minus-100-degree cold air.}
+Dialogue: 10,0:05:20.68,0:05:22.97,Main,Smartphone Rotom,0,0,0,,It fights with Sebie \N whenever it meets one.{Violet dex entry (edited)}{If it encounters Sebie, a fight occurs.}
 Dialogue: 10,0:05:23.43,0:05:25.05,Main,Liko,0,0,0,,Sebie?
 Dialogue: 10,0:05:25.05,0:05:26.85,Main,Liko,0,0,0,,I wonder what those are like...
-Dialogue: 10,0:05:26.85,0:05:31.02,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Sebie. Ice Fin Pokémon. \N Dragon/Ice type.
-Dialogue: 10,0:05:31.02,0:05:33.35,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It lives in forests and craggy areas.{It lives in rocky areas and forests.}
-Dialogue: 10,0:05:33.35,0:05:38.19,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It uses its dorsal fin to cool the inside of \N its nest like a refrigerator.{Violet dex entry (edited)}
+Dialogue: 10,0:05:26.85,0:05:31.02,Main,Smartphone Rotom,0,0,0,,Sebie. Ice Fin Pokémon. \N Dragon/Ice type.
+Dialogue: 10,0:05:31.02,0:05:33.35,Main,Smartphone Rotom,0,0,0,,It lives in forests and craggy areas.{It lives in rocky areas and forests.}
+Dialogue: 10,0:05:33.35,0:05:38.19,Main,Smartphone Rotom,0,0,0,,It uses its dorsal fin to cool the inside of \N its nest like a refrigerator.{Violet dex entry (edited)}
 Dialogue: 10,0:05:38.19,0:05:39.69,Main,Liko,0,0,0,,Wow...
 Dialogue: 10,0:05:45.83,0:05:47.33,Main,Roy,0,0,0,,More Pokémon!{Intentional scenebleed}
 Dialogue: 10,0:05:47.33,0:05:51.12,Main,Dot,0,0,0,,There aren’t a lot of places to find berries, \N so they’re natural gathering spots.
@@ -121,8 +121,8 @@ Dialogue: 10,0:09:17.62,0:09:19.25,Main,Roy,0,0,0,,Looking good!
 Dialogue: 10,0:09:19.66,0:09:20.75,Main,Roy,0,0,0,,Here goes!
 Dialogue: 10,0:09:24.75,0:09:31.13,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Ho! Ho! Ho! Hoga!
 Dialogue: 10,0:09:43.10,0:09:44.98,Main,Roy,0,0,0,,So cute!
-Dialogue: 10,0:09:47.02,0:09:50.53,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kumashun. Freezing Pokémon. \N Ice type.
-Dialogue: 10,0:09:50.53,0:09:53.99,Main,Go - PokéDex Forme (Not YOU),0,0,0,,If it spatters you with its frosty snot, \N you’ll get frostbite.{Partial Violet dex entry}{(Watch out if it starts sneezing.) If you get soaked in its snot covered in cold air, you'll get frostbite.}
+Dialogue: 10,0:09:47.02,0:09:50.53,Main,Smartphone Rotom,0,0,0,,Kumashun. Freezing Pokémon. \N Ice type.
+Dialogue: 10,0:09:50.53,0:09:53.99,Main,Smartphone Rotom,0,0,0,,If it spatters you with its frosty snot, \N you’ll get frostbite.{Partial Violet dex entry}{(Watch out if it starts sneezing.) If you get soaked in its snot covered in cold air, you'll get frostbite.}
 Dialogue: 10,0:09:53.99,0:09:55.49,Main,Roy,0,0,0,,Whoa...
 Dialogue: 10,0:09:55.87,0:09:59.37,Main,Roy,0,0,0,,Mt. Nappé is full of Pokémon \N I’ve never even seen before.
 Dialogue: 10,0:10:07.17,0:10:11.63,Main,Roy,0,0,0,,W-We’re not here to cause trouble!

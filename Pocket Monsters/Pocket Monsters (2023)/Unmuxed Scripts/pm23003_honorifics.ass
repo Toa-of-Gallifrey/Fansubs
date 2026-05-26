@@ -84,10 +84,10 @@ Dialogue: 10,0:04:32.17,0:04:36.96,Main,Friede,0,0,0,,We’re up against the Exp
 Dialogue: 10,0:04:36.96,0:04:38.97,Main,Orio,0,0,0,,You can rely on Friede.
 Dialogue: 10,0:04:38.97,0:04:42.80,Main,Friede,0,0,0,,And since your mom hired us \N to be your bodyguards,
 Dialogue: 10,0:04:42.80,0:04:45.72,Main,Friede,0,0,0,,we can’t exactly let you \N put yourself in danger.
-Dialogue: 10,0:04:45.72,0:04:47.85,Main,Liko,0,0,0,,Huh? You never mentioned...
+Dialogue: 10,0:04:45.72,0:04:47.85,Main,Liko,0,0,0,,Huh? This is news to me...
 Dialogue: 10,0:04:47.85,0:04:48.23,Main,Friede,0,0,0,,Huh?{Unnecessary? -Tim}
 Dialogue: 10,0:04:48.23,0:04:49.44,Main,Rising Voltteccers,0,0,0,,{\i1}Huh?!{\i0}{Unnecessary 2: The Sequel? -Tim}
-Dialogue: 10,0:04:49.44,0:04:50.94,Main,Friede,0,0,0,,Didn’t I?{repeat from 002, there rendered ’Did I?’}
+Dialogue: 10,0:04:49.44,0:04:50.94,Main,Friede,0,0,0,,Didn’t I mention?{002}
 Dialogue: 10,0:04:50.94,0:04:52.73,Main,Molly,0,0,0,,Hey... Still?!{reminiscent of 002}
 Dialogue: 10,0:04:53.77,0:04:55.32,Main,Friede,0,0,0,,Well, putting that aside...
 Dialogue: 10,0:04:55.32,0:04:56.57,Main,Liko,0,0,0,,I got put aside...
@@ -95,8 +95,8 @@ Dialogue: 10,0:04:56.57,0:04:59.28,Main,Friede,0,0,0,,First, let’s eat! It sme
 Dialogue: 10,0:04:59.28,0:05:01.03,Main,Murdock,0,0,0,,I’ll bring it right out!
 Dialogue: 10,0:05:06.37,0:05:08.54,Main,Murdock,0,0,0,,Come on out, my buddy!
 Dialogue: 10,0:05:11.96,0:05:14.71,Main,Murdock,0,0,0,,Ooooh! Pat, pat...
-Dialogue: 10,0:05:16.30,0:05:19.42,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Iwanko. Puppy Pokémon. \N Rock type.
-Dialogue: 10,0:05:19.42,0:05:24.05,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It has an excellent sense of smell. \N Once it has smelled an odor, it doesn’t forget it.{S&M prerelease website blurb}
+Dialogue: 10,0:05:16.30,0:05:19.42,Main,Smartphone Rotom,0,0,0,,Iwanko. Puppy Pokémon. \N Rock type.
+Dialogue: 10,0:05:19.42,0:05:24.05,Main,Smartphone Rotom,0,0,0,,It has an excellent sense of smell. \N Once it has smelled an odor, it doesn’t forget it.{S&M prerelease website blurb}
 Dialogue: 10,0:05:24.05,0:05:26.60,Main,Murdock,0,0,0,,You remember \N Nyahoja’s scent, right?
 Dialogue: 10,0:05:27.22,0:05:30.85,Main,Friede,0,0,0,,Me and Murdock \N will look for the Explorers.
 Dialogue: 10,0:05:31.73,0:05:33.48,Main,Orio,0,0,0,,I’ll do some repairs. {felt more natural to drop the word “ship”}
@@ -143,7 +143,7 @@ Dialogue: 10,0:08:06.13,0:08:07.88,Main,Conia,0,0,0,,So cute!
 Dialogue: 10,0:08:07.88,0:08:10.30,Main,Conia,0,0,0,,I’ll go buy you some \N Pokémon food right away!
 Dialogue: 10,0:08:11.55,0:08:13.72,Main,Conia,0,0,0,,T-Terribly sorry, sir!
 Dialogue: 10,0:08:13.72,0:08:17.06,Main,Conia,0,0,0,,This is our invaluable kidnapee— \N ahem, Poké-napee.{argh}{i agree “argh” - Ed}
-Dialogue: 10,0:08:17.06,0:08:19.98,Main,Amethio,0,0,0,,I don’t plan to use it \N as a bargaining chip.{DREADED “IT” PRONOUN: Nyahoja - Though this one is probably justified either way because how would Amethio know}
+Dialogue: 10,0:08:17.06,0:08:19.98,Main,Amethio,0,0,0,,I don’t plan to use it \N as a bargaining chip.{Dread Nyahoja - Though this one is probably justified either way because how would Amethio know}
 Dialogue: 10,0:08:19.98,0:08:21.06,Main,Conia,0,0,0,,Huh? But...
 Dialogue: 10,0:08:21.06,0:08:23.27,Main,Amethio,0,0,0,,I’ll handle this as I see fit.
 Dialogue: 10,0:08:24.53,0:08:27.32,Main,Amethio,0,0,0,,Our target is simply that pendant.
@@ -325,8 +325,8 @@ Dialogue: 10,0:19:04.46,0:19:08.25,Main,Friede,0,0,0,,Besides, I want to uncover
 Dialogue: 10,0:19:08.25,0:19:13.26,Main,Friede,0,0,0,,Our mission is to solve the mysteries of Pokémon... \N the mysteries of the {\i1}world.{\i0}
 Dialogue: 10,0:19:13.26,0:19:16.64,Main,Friede,0,0,0,,We are... the Rising Voltteccers!
 Dialogue: 10,0:19:18.26,0:19:21.14,Main,Liko,0,0,0,,So that’s what you’re all about?
-Dialogue: 10,0:19:21.14,0:19:23.35,Main,Friede,0,0,0,,Huh? Didn’t I tell you?{reminiscent of 002}
-Dialogue: 10,0:19:23.35,0:19:24.52,Main,Liko,0,0,0,,You didn’t.
+Dialogue: 10,0:19:21.14,0:19:23.35,Main,Friede,0,0,0,,Huh? Didn’t I mention?{002}
+Dialogue: 10,0:19:23.35,0:19:24.52,Main,Liko,0,0,0,,You didn’t, no.
 Dialogue: 10,0:19:24.52,0:19:25.81,Main,Murdock,0,0,0,,Man...{reminiscent of 002}
 Dialogue: 10,0:19:25.81,0:19:27.98,Main,Molly,0,0,0,,You really {\i1}did{\i0} leave her \N totally in the dark.{reminiscent of 002}
 Dialogue: 10,0:19:27.98,0:19:30.77,Main,Orio,0,0,0,,{\i1}‘Course{\i0} we seem like \N some shady gang!

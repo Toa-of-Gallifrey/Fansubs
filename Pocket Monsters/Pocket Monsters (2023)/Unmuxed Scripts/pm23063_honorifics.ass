@@ -54,9 +54,9 @@ Dialogue: 10,0:03:06.79,0:03:09.25,Main,Liko,0,0,0,,Got it. Thank you for having
 Dialogue: 10,0:03:13.21,0:03:17.55,Main,Liko,0,0,0,,{\q2}They said I’d have to wait a while \N before they were ready to do my implementation test.
 Dialogue: 10,0:03:17.55,0:03:20.10,Main,Roy,0,0,0,,Then let’s go give {\i1}that{\i0} a try!{alt that uses a flubbish take for the Then: In the meantime, let’s give *that* a try!}
 Dialogue: 10,0:03:21.22,0:03:23.18,Main,Human,0,0,0,,Yahoo!
-Dialogue: 10,0:03:27.52,0:03:31.11,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Arukujira. Land Whale Pokémon. \N Ice type.
-Dialogue: 10,0:03:31.48,0:03:35.99,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It left the ocean and began living on land \N a very long time ago.{Partial Scarlet dex entry}{ENgame was fine, lifted directly}
-Dialogue: 10,0:03:35.99,0:03:40.12,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It lives in frigid areas, \N in pods of five or so individuals.{Partial Violet dex entry}{ENgame: It lives in frigid regions in pods of five or so individuals.}
+Dialogue: 10,0:03:27.52,0:03:31.11,Main,Smartphone Rotom,0,0,0,,Arukujira. Land Whale Pokémon. \N Ice type.
+Dialogue: 10,0:03:31.48,0:03:35.99,Main,Smartphone Rotom,0,0,0,,It left the ocean and began living on land \N a very long time ago.{Partial Scarlet dex entry}{ENgame was fine, lifted directly}
+Dialogue: 10,0:03:35.99,0:03:40.12,Main,Smartphone Rotom,0,0,0,,It lives in frigid areas, \N in pods of five or so individuals.{Partial Violet dex entry}{ENgame: It lives in frigid regions in pods of five or so individuals.}
 Dialogue: 10,0:03:41.49,0:03:46.58,Main,Dot,0,0,0,,Looks like Arukujira-sledding \N is booming in this area lately.
 Dialogue: 10,0:03:46.58,0:03:48.92,Main,Dot,0,0,0,,People hop on \N the backs of trained Arukujira...
 Dialogue: 10,0:03:48.92,0:03:51.71,Main,Dot,0,0,0,,...and ride them like sleds \N down the slopes!
@@ -83,8 +83,8 @@ Dialogue: 10,0:05:18.34,0:05:20.01,Main,Liko,0,0,0,,Ah! Terapagos!
 Dialogue: 10,0:05:21.93,0:05:24.39,Main,Liko,0,0,0,,Th-Thank you.
 Dialogue: 10,0:05:24.39,0:05:26.01,Main,Liko,0,0,0,,It’ll be safer for you{to stay} in the bag.{It’s dangerous, so stay in the bag.}
 Dialogue: 10,0:05:32.94,0:05:34.19,Main,Liko,0,0,0,,What was that?
-Dialogue: 10,0:05:34.19,0:05:38.07,Main,Go - PokéDex Forme (Not YOU),0,0,0,,{\an8}Yukihami. Caterpillar Pokémon. \N Ice/Bug type.
-Dialogue: 10,0:05:38.07,0:05:39.44,Main,Go - PokéDex Forme (Not YOU),0,0,0,,{\an8}It eats snow that has accum—{Scarlet Dex entry, interrupted.}
+Dialogue: 10,0:05:34.19,0:05:38.07,Main,Smartphone Rotom,0,0,0,,{\an8}Yukihami. Caterpillar Pokémon. \N Ice/Bug type.
+Dialogue: 10,0:05:38.07,0:05:39.44,Main,Smartphone Rotom,0,0,0,,{\an8}It eats snow that has accum—{Scarlet Dex entry, interrupted.}
 Dialogue: 10,0:05:36.86,0:05:38.99,Main,Liko,0,0,0,,I wasn’t talking to you!
 Dialogue: 10,0:05:39.44,0:05:39.94,Main,Liko,0,0,0,,Huh?!
 Dialogue: 10,0:05:46.24,0:05:48.41,Main,Liko,0,0,0,,Nyarote, look up ahead!
@@ -107,11 +107,11 @@ Dialogue: 10,0:06:48.01,0:06:51.22,Main,Grusha,0,0,0,,If {\i1}that’s{\i0} enou
 Dialogue: 10,0:06:52.73,0:06:54.06,Main,Liko,0,0,0,,Grusha-san...
 Dialogue: 10,0:06:54.06,0:06:55.98,Main,Roy,0,0,0,,Wait... That’s Liko’s...
 Dialogue: 10,0:06:55.98,0:06:59.32,Main,Dot,0,0,0,,Yeah. The Gym Leader \N of Mt. Nappé Gym.
-Dialogue: 10,0:07:00.15,0:07:03.24,Main,Go - PokéDex Forme (Not YOU),0,0,0,,If you’re goofing off right before \N your implementation test,
-Dialogue: 10,0:07:03.24,0:07:04.57,Main,Go - PokéDex Forme (Not YOU),0,0,0,,you must feel confident.
+Dialogue: 10,0:07:00.15,0:07:03.24,Main,Smartphone Rotom,0,0,0,,If you’re goofing off right before \N your implementation test,
+Dialogue: 10,0:07:03.24,0:07:04.57,Main,Smartphone Rotom,0,0,0,,you must feel confident.
 Dialogue: 10,0:07:04.95,0:07:05.82,Main,Liko,0,0,0,,Huh?
-Dialogue: 10,0:07:06.24,0:07:09.24,Main,Go - PokéDex Forme (Not YOU),0,0,0,,You had better be prepared \N to heat me up.
-Dialogue: 10,0:07:10.62,0:07:12.37,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Arukujira. Let’s go.
+Dialogue: 10,0:07:06.24,0:07:09.24,Main,Smartphone Rotom,0,0,0,,You had better be prepared \N to heat me up.
+Dialogue: 10,0:07:10.62,0:07:12.37,Main,Smartphone Rotom,0,0,0,,Arukujira. Let’s go.
 Dialogue: 10,0:07:22.05,0:07:26.01,Main,Roy,0,0,0,,We’re back! \N That was so much fun, mister!
 Dialogue: 10,0:07:27.34,0:07:29.72,Main,Human,0,0,0,,Come back for more anytime!
 Dialogue: 10,0:07:31.43,0:07:35.39,Main,Dot,0,0,0,,Grusha-san was just as harsh \N as the rumors made him out to be...
@@ -145,7 +145,7 @@ Dialogue: 10,0:09:51.28,0:09:54.32,Main,Roy,0,0,0,,That’s right! \N You’ve g
 Dialogue: 10,0:09:54.32,0:09:56.16,Main,Dot,0,0,0,,Show him what you’re made of!
 Dialogue: 10,0:09:56.16,0:09:57.41,Main,Liko,0,0,0,,Right!
 Dialogue: 10,0:09:57.41,0:09:59.79,Main,Liko,0,0,0,,Nyarote, let’s do our best together!
-Dialogue: 10,0:10:03.04,0:10:05.58,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Your implementation test \N is ready to begin.
+Dialogue: 10,0:10:03.04,0:10:05.58,Main,Smartphone Rotom,0,0,0,,Your implementation test \N is ready to begin.
 Dialogue: 10,0:10:11.17,0:10:12.51,Main,Dot,0,0,0,,Liko!
 Dialogue: 10,0:10:12.51,0:10:14.22,Main,Roy,0,0,0,,Go for it!
 Dialogue: 10,0:10:19.77,0:10:20.56,Main,Liko,0,0,0,,Huh?
@@ -158,8 +158,8 @@ Dialogue: 10,0:10:56.43,0:10:58.97,Main,Liko,0,0,0,,Yes! Please, let’s!
 Dialogue: 10,0:10:58.97,0:11:00.64,Main,Liko,0,0,0,,Let’s go, Nyarote!
 Dialogue: 10,0:11:02.93,0:11:06.65,Main,Grusha,0,0,0,,Let me show you a reality \N as icy-cold as snow.
 Dialogue: 10,0:11:23.16,0:11:25.25,Main,Roy,0,0,0,,What is that?!
-Dialogue: 10,0:11:25.25,0:11:29.21,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Hulkujira. Land Whale Pokémon. \N Ice type.
-Dialogue: 10,0:11:29.21,0:11:33.26,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It protects its body with powerful muscles \N and a thick layer of fat under its skin.{Partial Scarlet dex entry.}{ENgame seems fine}
+Dialogue: 10,0:11:25.25,0:11:29.21,Main,Smartphone Rotom,0,0,0,,Hulkujira. Land Whale Pokémon. \N Ice type.
+Dialogue: 10,0:11:29.21,0:11:33.26,Main,Smartphone Rotom,0,0,0,,It protects its body with powerful muscles \N and a thick layer of fat under its skin.{Partial Scarlet dex entry.}{ENgame seems fine}
 Dialogue: 10,0:11:33.26,0:11:36.13,Main,Dot,0,0,0,,How’s she gonna deal with \N that difference in bulk?
 Dialogue: 10,0:11:36.13,0:11:40.72,Main,Dot,0,0,0,,Plus, Ice-type moves are super effective \N against Grass types. In other words...
 Dialogue: 10,0:11:41.35,0:11:43.85,Main,Liko,0,0,0,,I need to make sure \N its attacks don’t land.{Dread Hulkujira - game gender is male, but Liko doesn't really have a way of knowing.}
@@ -210,10 +210,10 @@ Dialogue: 10,0:15:04.55,0:15:06.30,Main,Grusha,0,0,0,,Hulkujira, return.
 Dialogue: 10,0:15:08.30,0:15:10.10,Main,Grusha,0,0,0,,Guess you’ve got {\i1}something{\i0} to offer...
 Dialogue: 10,0:15:10.10,0:15:11.60,Main,Grusha,0,0,0,,Then, next I’ll use...!
 Comment: 0,0:15:21.48,0:15:21.48,Main,,0,0,0,,{Part C}
-Dialogue: 10,0:15:30.37,0:15:34.62,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Tyltalis. Humming Pokémon. \N Dragon/Flying type.
-Dialogue: 10,0:15:35.00,0:15:37.42,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It sings in a beautiful soprano.{Partial Violet dex entry}{ENgame is correct}
-Dialogue: 10,0:15:37.42,0:15:41.96,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It has a kind disposition, but if it’s provoked, \N it will intimidate opponents with shrill cries...
-Dialogue: 10,0:15:41.96,0:15:44.63,Main,Go - PokéDex Forme (Not YOU),0,0,0,,...before attacking them \N without mercy.{Shield dex entry}{swapped in intimidate for ikaku. left opponent as-is cause not sure what a good but more generic substitute would be--seems generally serviceable to me this way -ed}
+Dialogue: 10,0:15:30.37,0:15:34.62,Main,Smartphone Rotom,0,0,0,,Tyltalis. Humming Pokémon. \N Dragon/Flying type.
+Dialogue: 10,0:15:35.00,0:15:37.42,Main,Smartphone Rotom,0,0,0,,It sings in a beautiful soprano.{Partial Violet dex entry}{ENgame is correct}
+Dialogue: 10,0:15:37.42,0:15:41.96,Main,Smartphone Rotom,0,0,0,,It has a kind disposition, but if it’s provoked, \N it will intimidate opponents with shrill cries...
+Dialogue: 10,0:15:41.96,0:15:44.63,Main,Smartphone Rotom,0,0,0,,...before attacking them \N without mercy.{Shield dex entry}{swapped in intimidate for ikaku. left opponent as-is cause not sure what a good but more generic substitute would be--seems generally serviceable to me this way -ed}
 Dialogue: 10,0:15:44.63,0:15:46.47,Main,Dot,0,0,0,,Not good...
 Dialogue: 10,0:15:46.47,0:15:50.68,Main,Dot,0,0,0,,Grass-type attacks barely deal any damage \N to Dragon/Flying types.
 Dialogue: 10,0:15:50.68,0:15:51.72,Main,Roy,0,0,0,,It’ll be fine.

@@ -68,7 +68,7 @@ Dialogue: 10,0:01:42.96,0:01:44.71,Main,Roy,0,0,0,,All right!
 Dialogue: 10,0:01:45.63,0:01:48.76,Main,Landau,0,0,0,,A long journey calls \N for rest now and again.
 Dialogue: 10,0:01:50.38,0:01:52.93,Main,Landau,0,0,0,,I volunteer to look after the ship.
 Dialogue: 10,0:01:52.93,0:01:54.84,Main,Friede,0,0,0,,Thanks, Gramps.
-Dialogue: 10,0:01:54.84,0:02:00.27,Main,Landau,0,0,0,,It’s a traveler’s respite. \N Roost to your heart’s content.{Move reference. More literally Rest Wings, but Roost seems usable. We can always reconsider if/when it gets used as a move. Something else to consider is that hane can also be feather, and the move animations for it always feature feathers iirc. - Toa}
+Dialogue: 10,0:01:54.84,0:02:00.27,Main,Landau,0,0,0,,It’s a traveler’s respite. \N Rest your wings to your heart’s content.{Move reference (ENgame Roost)}
 Comment: 0,0:02:00.27,0:02:00.27,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:30.36,0:03:30.36,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:42.62,0:03:44.45,Main,Roy,0,0,0,,What a great view!
@@ -143,7 +143,7 @@ Dialogue: 10,0:07:28.76,0:07:31.89,Main,Liko,0,0,0,,Staring at that \N Ancient M
 Dialogue: 10,0:07:31.89,0:07:33.64,Main,Liko,0,0,0,,You never get tired of that, huh?
 Dialogue: 10,0:07:33.64,0:07:35.77,Main,Roy,0,0,0,,‘Course not!
 Dialogue: 10,0:07:35.77,0:07:37.98,Main,Roy,0,0,0,,I get fired up looking at it!
-Dialogue: 10,0:07:38.73,0:07:41.90,Main,Roy,0,0,0,,I’m gonna find it again, \N and catch it!
+Dialogue: 10,0:07:38.73,0:07:41.90,Main,Roy,0,0,0,,I’m gonna find him again, \N and catch him!
 Dialogue: 10,0:07:41.90,0:07:44.24,Main,Roy,0,0,0,,That black Rekkuuza!
 Dialogue: 10,0:07:46.95,0:07:52.24,Main,Liko,0,0,0,,Resonating with my pendant, \N a Pokémon I’d never seen before appeared.
 Dialogue: 10,0:07:52.24,0:07:53.74,Main,Liko,0,0,0,,A black Rekkuuza.
@@ -213,13 +213,13 @@ Dialogue: 10,0:11:22.79,0:11:26.12,Main,Liko,0,0,0,,Murdock, there’s something
 Dialogue: 10,0:11:26.12,0:11:28.13,Main,Murdock,0,0,0,,Huh? Me?
 Comment: 0,0:11:35.51,0:11:35.51,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:11:43.47,0:11:44.48,Main,Roy,0,0,0,,Wait!
-Dialogue: 10,0:11:46.39,0:11:50.69,Main,Roy,0,0,0,,It’s so fast! \N Don’t give up, Hogator!{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:11:46.39,0:11:50.69,Main,Roy,0,0,0,,It’s so fast! \N Don’t give up, Hogator!{Dread Kaiden}
 Dialogue: 10,0:11:59.78,0:12:01.62,Main,Roy,0,0,0,,Not good! \N It’s gonna fly away!
 Dialogue: 10,0:12:05.50,0:12:08.08,Main,Roy,0,0,0,,Huh? It’s not fleeing...
-Dialogue: 10,0:12:08.54,0:12:09.33,Main,Roy,0,0,0,,What is it?{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:12:10.17,0:12:14.51,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kaiden. Storm Petrel Pokémon. \N Electric/Flying type.
-Dialogue: 10,0:12:14.51,0:12:18.01,Main,Go - PokéDex Forme (Not YOU),0,0,0,,When its wings catch the wind, \N the bones within produce electricity.
-Dialogue: 10,0:12:18.01,0:12:21.10,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It dives into the ocean, \N catching prey by electrocuting them. {Scarlet dex entry}
+Dialogue: 10,0:12:08.54,0:12:09.33,Main,Roy,0,0,0,,What is it?{Dread Kaiden}
+Dialogue: 10,0:12:10.17,0:12:14.51,Main,Smartphone Rotom,0,0,0,,Kaiden. Storm Petrel Pokémon. \N Electric/Flying type.
+Dialogue: 10,0:12:14.51,0:12:18.01,Main,Smartphone Rotom,0,0,0,,When its wings catch the wind, \N the bones within produce electricity.
+Dialogue: 10,0:12:18.01,0:12:21.10,Main,Smartphone Rotom,0,0,0,,It dives into the ocean, \N catching prey by electrocuting them. {Scarlet dex entry}
 Dialogue: 10,0:12:22.05,0:12:23.72,Main,Roy,0,0,0,,So you’re called Kaiden.
 Dialogue: 10,0:12:25.98,0:12:29.40,Main,Roy,0,0,0,,You wanna battle, right? \N I’ll take you on!
 Dialogue: 10,0:12:41.82,0:12:44.03,Main,Roy,0,0,0,,S-So loud!
@@ -233,11 +233,11 @@ Dialogue: 10,0:13:33.33,0:13:35.17,Main,Roy,0,0,0,,I knew you could do it, Hogat
 Dialogue: 10,0:13:43.01,0:13:44.89,Main,Roy,0,0,0,,Taste good, Kaiden?
 Dialogue: 10,0:13:51.98,0:13:53.40,Main,Roy,0,0,0,,What is it?
 Dialogue: 10,0:13:57.19,0:13:58.90,Main,Roy,0,0,0,,Wh—! How could you?!
-Dialogue: 10,0:14:04.03,0:14:06.37,Main,Roy,0,0,0,,And now it’s trying to show off...{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:14:04.03,0:14:06.37,Main,Roy,0,0,0,,And now it’s trying to show off...{Dread Kaiden}
 Dialogue: 10,0:14:09.41,0:14:13.92,Main,Roy,0,0,0,,Cheer up, Hogator. \N I’ll make you a new sandwich!
 Dialogue: 10,0:14:15.04,0:14:15.67,Main,Roy,0,0,0,,Huh?
 Dialogue: 10,0:14:19.46,0:14:21.17,Main,Roy,0,0,0,,A flock of Kaiden.
-Dialogue: 10,0:14:22.30,0:14:25.89,Main,Roy,0,0,0,,Isn’t it gonna go with them?{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:14:22.30,0:14:25.89,Main,Roy,0,0,0,,Isn’t it gonna go with them?{Dread Kaiden}
 Dialogue: 10,0:14:30.81,0:14:33.85,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
 Dialogue: 10,0:14:33.85,0:14:37.31,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s a vid from Gurumin!
 Dialogue: 10,0:14:37.31,0:14:40.28,Main,Gurumin,0,0,0,,When the weather’s nice, \N step outside and have a picnic!
@@ -341,9 +341,9 @@ Dialogue: 10,0:19:40.66,0:19:44.91,Main,Roy,0,0,0,,Yeah. Even though I tried \N 
 Dialogue: 10,0:19:44.91,0:19:47.92,Main,Liko,0,0,0,,That Kaiden must be a glutton.
 Dialogue: 10,0:19:47.92,0:19:49.54,Main,Liko,0,0,0,,Just like Hogator.
 Dialogue: 10,0:19:49.54,0:19:51.29,Main,Roy,0,0,0,,You think so?
-Dialogue: 10,0:19:51.29,0:19:56.84,Main,Roy,0,0,0,,It was kinda weird, \N teasing Hogator and glaring at him...{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:19:56.84,0:20:00.64,Main,Roy,0,0,0,,But it could run fast, \N its wings were all sparkly,{DREADED “IT” PRONOUN: Kaiden}
-Dialogue: 10,0:20:00.64,0:20:02.14,Main,Roy,0,0,0,,and it was {\i1}cool!{\i0}{DREADED “IT” PRONOUN: Kaiden}
+Dialogue: 10,0:19:51.29,0:19:56.84,Main,Roy,0,0,0,,It was kinda weird, \N teasing Hogator and glaring at him...{Dread Kaiden}
+Dialogue: 10,0:19:56.84,0:20:00.64,Main,Roy,0,0,0,,But it could run fast, \N its wings were all sparkly,{Dread Kaiden}
+Dialogue: 10,0:20:00.64,0:20:02.14,Main,Roy,0,0,0,,and it was {\i1}cool!{\i0}{Dread Kaiden}
 Dialogue: 10,0:20:02.14,0:20:03.31,Main,Liko,0,0,0,,Is that so?
 Dialogue: 10,0:20:06.73,0:20:08.02,Main,Liko,0,0,0,,Something up?
 Dialogue: 10,0:20:08.77,0:20:10.81,Main,Roy,0,0,0,,I can’t stop thinking about it.

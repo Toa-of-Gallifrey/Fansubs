@@ -59,7 +59,7 @@ Dialogue: 10,0:01:14.93,0:01:19.60,Main,Molly,0,0,0,,{\q2}If you’re so much as
 Dialogue: 10,0:01:19.60,0:01:21.06,Main,Friede,0,0,0,,I hear you...
 Dialogue: 10,0:01:21.06,0:01:23.23,Main,Friede,0,0,0,,I already arranged to meet him, though.
 Dialogue: 10,0:01:23.94,0:01:25.36,Main,Friede,0,0,0,,Didn’t I mention?
-Dialogue: 10,0:01:25.86,0:01:27.40,Main,Molly,0,0,0,,No, you freaking didn’t!
+Dialogue: 10,0:01:25.86,0:01:27.40,Main,Molly,0,0,0,,You did {\i1}not!{\i0}
 Comment: 0,0:01:27.40,0:01:27.40,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:57.49,0:02:57.49,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:09.21,0:03:11.50,Main,Murdock,0,0,0,,So, this is where Sohdayo’s headed?
@@ -80,9 +80,9 @@ Comment: 10,0:04:11.61,0:04:12.23,Main,Kids,0,0,0,,Hmm?
 Dialogue: 10,0:04:18.24,0:04:19.11,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:04:19.11,0:04:20.74,Main,Roy,0,0,0,,It looks kinda... mad?
 Dialogue: 10,0:04:20.74,0:04:22.99,Main,Kids,0,0,0,,{\i1}Whoa!{\i0}
-Dialogue: 10,0:04:25.08,0:04:28.75,Main,Rotom,0,0,0,,Rikikirin. Long Neck Pokémon. \N Normal/Esper type.
-Dialogue: 10,0:04:29.29,0:04:32.79,Main,Rotom,0,0,0,,While protecting its main head \N with its hardened tail-head,
-Dialogue: 10,0:04:32.79,0:04:35.96,Main,Rotom,0,0,0,,it swings its long neck around \N to Headbutt enemies.{Violet dex entry}{ENgame: The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.}
+Dialogue: 10,0:04:25.08,0:04:28.75,Main,Smartphone Rotom,0,0,0,,Rikikirin. Long Neck Pokémon. \N Normal/Esper type.
+Dialogue: 10,0:04:29.29,0:04:32.79,Main,Smartphone Rotom,0,0,0,,While protecting its main head \N with its hardened tail-head,
+Dialogue: 10,0:04:32.79,0:04:35.96,Main,Smartphone Rotom,0,0,0,,it swings its long neck around \N to Headbutt enemies.{Violet dex entry}{ENgame: The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.}
 Dialogue: 10,0:04:41.80,0:04:42.85,Main,Roy,0,0,0,,Achigator!
 Dialogue: 10,0:04:42.85,0:04:43.85,Main,Liko,0,0,0,,Nyarote!
 Dialogue: 10,0:04:43.85,0:04:45.77,Main,Dot,0,0,0,,Close-range attacks are too risky!
@@ -301,9 +301,9 @@ Dialogue: 10,0:14:29.64,0:14:31.02,Main,Friede,0,0,0,,Thunder Punch!
 Dialogue: 10,0:14:39.82,0:14:43.03,Main,Sohdayo,0,0,0,,Ooh! A fierce battle between \N Cap and the Rikikirin!
 Dialogue: 10,0:14:43.03,0:14:44.07,Main,Sohdayo,0,0,0,,Now {\i1}there’s{\i0} a scoop!
 Dialogue: 10,0:14:46.53,0:14:47.83,Main,Dot,0,0,0,,What’s that?
-Dialogue: 10,0:14:49.16,0:14:52.41,Main,Rotom,0,0,0,,Cuespatra. Ostrich Pokémon. \N Esper type.
-Dialogue: 10,0:14:52.41,0:14:56.79,Main,Rotom,0,0,0,,It emits psycho-power from the gaps \N between its multicolored frills...
-Dialogue: 10,0:14:56.79,0:14:58.92,Main,Rotom,0,0,0,,...and sprints at speeds \N reaching 200 km/h.{Violet dex entry}
+Dialogue: 10,0:14:49.16,0:14:52.41,Main,Smartphone Rotom,0,0,0,,Cuespatra. Ostrich Pokémon. \N Esper type.
+Dialogue: 10,0:14:52.41,0:14:56.79,Main,Smartphone Rotom,0,0,0,,It emits psycho-power from the gaps \N between its multicolored frills...
+Dialogue: 10,0:14:56.79,0:14:58.92,Main,Smartphone Rotom,0,0,0,,...and sprints at speeds \N reaching 200 km/h.{Violet dex entry}
 Dialogue: 10,0:15:07.09,0:15:10.18,Main,Dot,0,0,0,,They’re trying to keep the Cuespatra \N from coming any closer?
 Dialogue: 10,0:15:11.47,0:15:15.39,Main,Dot,0,0,0,,I get it! This oasis... \N It’s the Rikikirin’s turf.
 Dialogue: 10,0:15:15.39,0:15:19.48,Main,Friede,0,0,0,,Yeah. They must be fighting a turf war \N against Cuespatra over this spot.

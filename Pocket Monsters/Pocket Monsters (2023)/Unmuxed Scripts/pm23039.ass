@@ -113,9 +113,9 @@ Dialogue: 10,0:06:47.52,0:06:48.93,Main,Dot,0,0,0,,You okay?
 Dialogue: 10,0:06:52.64,0:06:53.93,Main,Dot,0,0,0,,Uh...
 Dialogue: 10,0:07:05.48,0:07:08.44,Main,Dot,0,0,0,,H-H-Hold on! \N I just bought that!
 Dialogue: 10,0:07:13.96,0:07:15.96,Main,Dot,0,0,0,,Who {\i1}are{\i0} you?
-Dialogue: 10,0:07:17.63,0:07:21.99,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kanuchan. Metalsmith Pokémon. \N Fairy/Steel type.
-Dialogue: 10,0:07:21.99,0:07:24.88,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It pounds scrap iron to make a hammer.
-Dialogue: 10,0:07:24.88,0:07:28.30,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It remakes the hammer again and again \N until it’s satisfied with the result.{Violet dex entry, lightly tweaked}
+Dialogue: 10,0:07:17.63,0:07:21.99,Main,Smartphone Rotom,0,0,0,,Kanuchan. Metalsmith Pokémon. \N Fairy/Steel type.
+Dialogue: 10,0:07:21.99,0:07:24.88,Main,Smartphone Rotom,0,0,0,,It pounds scrap iron to make a hammer.
+Dialogue: 10,0:07:24.88,0:07:28.30,Main,Smartphone Rotom,0,0,0,,It remakes the hammer again and again \N until it’s satisfied with the result.{Violet dex entry, lightly tweaked}
 Dialogue: 10,0:07:30.11,0:07:32.39,Main,Dot,0,0,0,,Turning a mic into a hammer...
 Dialogue: 10,0:07:38.31,0:07:39.39,Main,Dot,0,0,0,,Geez.
 Dialogue: 10,0:07:42.50,0:07:43.87,Main,Dot,0,0,0,,What a weirdo.
@@ -213,9 +213,9 @@ Dialogue: 10,0:14:52.26,0:14:55.25,Main,Dot,0,0,0,,It’s okay. \N Everyone unde
 Dialogue: 10,0:14:55.62,0:14:58.25,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 10,0:15:04.34,0:15:06.70,Main,Friede,0,0,0,,The answer is Mimizuzu!
 Dialogue: 10,0:15:06.70,0:15:08.22,Main,Roy,0,0,0,,{\i1}That’s{\i0} the culprit?!
-Dialogue: 10,0:15:12.17,0:15:15.27,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Mimizuzu. Earthworm Pokémon. \N Steel type.
-Dialogue: 10,0:15:15.76,0:15:18.15,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It lives in arid deserts.
-Dialogue: 10,0:15:18.15,0:15:22.56,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It maintains its metal body \N by consuming iron from the soil.{Violet dex entry}
+Dialogue: 10,0:15:12.17,0:15:15.27,Main,Smartphone Rotom,0,0,0,,Mimizuzu. Earthworm Pokémon. \N Steel type.
+Dialogue: 10,0:15:15.76,0:15:18.15,Main,Smartphone Rotom,0,0,0,,It lives in arid deserts.
+Dialogue: 10,0:15:18.15,0:15:22.56,Main,Smartphone Rotom,0,0,0,,It maintains its metal body \N by consuming iron from the soil.{Violet dex entry}
 Dialogue: 10,0:15:22.56,0:15:25.11,Main,Orio,0,0,0,,When did you set that trap?
 Dialogue: 10,0:15:25.11,0:15:27.49,Main,Friede,0,0,0,,It’s bigger than I expected.
 Dialogue: 10,0:15:29.94,0:15:31.00,Main,Friede,0,0,0,,Here it comes!

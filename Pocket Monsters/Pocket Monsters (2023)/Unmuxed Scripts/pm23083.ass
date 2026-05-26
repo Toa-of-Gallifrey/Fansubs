@@ -55,13 +55,13 @@ Dialogue: 10,0:01:22.94,0:01:25.32,Main,Amethio,0,0,0,,This is Spinel’s lab.{k
 Comment: 0,0:01:27.19,0:01:27.19,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:57.28,0:02:57.28,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:09.46,0:03:12.55,Main,Liko,0,0,0,,The black Rekkuuza appeared before us.
-Dialogue: 10,0:03:12.55,0:03:16.80,Main,Liko,0,0,0,,We all worked together, \N and fought it using everything we’ve learned...
+Dialogue: 10,0:03:12.55,0:03:16.80,Main,Liko,0,0,0,,We all worked together, \N and fought him using everything we’ve learned...
 Dialogue: 10,0:03:18.34,0:03:22.89,Main,Liko,0,0,0,,Until finally, Rekkuuza went into \N Roy’s Ancient Monster Ball...
 Dialogue: 10,0:03:22.89,0:03:27.31,Main,Liko,0,0,0,,Pagogo recovered its powers too, \N and Lucius’s Six Heroes have reunited at last!{Dread Terapagos}
 Dialogue: 10,0:03:28.73,0:03:33.15,Main,Liko,0,0,0,,It seems like Rekkuuza \N is going to take us to Rakua!
 Dialogue: 10,0:03:40.12,0:03:42.12,Main,Liko,0,0,0,,Pagogo looks so happy!
-Dialogue: 10,0:03:42.12,0:03:44.66,Main,Dot,0,0,0,,It did seem to be good pals \N with Rekkuuza, after all.
-Dialogue: 10,0:03:44.66,0:03:47.79,Main,Roy,0,0,0,,I’m so jealous! \N I wanna ride it too!
+Dialogue: 10,0:03:42.12,0:03:44.66,Main,Dot,0,0,0,,It did seem to be good pals \N with Rekkuuza, after all.{Dread Terapagos}
+Dialogue: 10,0:03:44.66,0:03:47.79,Main,Roy,0,0,0,,I’m so jealous! \N I wanna ride on him too!
 Dialogue: 10,0:03:47.79,0:03:51.09,Main,Friede,0,0,0,,Now we just have to let Rekkuuza \N show us the way...
 Dialogue: 10,0:03:51.09,0:03:54.71,Main,Friede,0,0,0,,But we’ve gotta be careful \N to make sure the Explorers don’t catch on.
 Dialogue: 10,0:03:55.47,0:03:59.93,Main,Friede,0,0,0,,Since they’re after the Rakurium, \N we can’t let them anywhere near Rakua.

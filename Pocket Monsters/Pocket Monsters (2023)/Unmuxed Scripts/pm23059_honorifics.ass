@@ -148,9 +148,9 @@ Dialogue: 10,0:09:48.90,0:09:52.15,Main,Aoki,0,0,0,,Now... Select your first Pok
 Dialogue: 10,0:09:52.70,0:09:54.91,Main,Dot,0,0,0,,Kanuchan has never battled before...
 Dialogue: 10,0:09:54.91,0:09:56.66,Main,Dot,0,0,0,,So I’ll start with Kuwassu!
 Dialogue: 10,0:09:57.91,0:09:59.83,Main,Aoki,0,0,0,,Nokokotchi. Let’s go.
-Dialogue: 10,0:10:08.05,0:10:11.47,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Nokokotchi. Land Snake Pokémon. \N Normal type.
-Dialogue: 10,0:10:11.47,0:10:15.18,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It uses its hard tail to make its nest \N by boring holes into bedrock deep underground.
-Dialogue: 10,0:10:15.64,0:10:18.60,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Their nests can reach \N ten kilometers in length.{Scarlet dex entry}
+Dialogue: 10,0:10:08.05,0:10:11.47,Main,Smartphone Rotom,0,0,0,,Nokokotchi. Land Snake Pokémon. \N Normal type.
+Dialogue: 10,0:10:11.47,0:10:15.18,Main,Smartphone Rotom,0,0,0,,It uses its hard tail to make its nest \N by boring holes into bedrock deep underground.
+Dialogue: 10,0:10:15.64,0:10:18.60,Main,Smartphone Rotom,0,0,0,,Their nests can reach \N ten kilometers in length.{Scarlet dex entry}
 Dialogue: 10,0:10:18.60,0:10:20.52,Main,Roy,0,0,0,,It’s a Normal type...
 Dialogue: 10,0:10:20.52,0:10:22.18,Main,Liko,0,0,0,,Dot... What’s your plan?
 Dialogue: 10,0:10:22.81,0:10:24.94,Main,Aoki,0,0,0,,Now, we shall start the test.
@@ -283,10 +283,10 @@ Dialogue: 10,0:19:50.34,0:19:51.59,Main,Aoki,0,0,0,,Just a coincidence.
 Dialogue: 10,0:19:57.47,0:19:59.14,Main,Liko,0,0,0,,Congrats, Dot!
 Dialogue: 10,0:19:59.14,0:20:00.30,Main,Roy,0,0,0,,Congrats!
 Dialogue: 10,0:20:01.89,0:20:02.89,Main,Dot,0,0,0,,Oh, right!
-Dialogue: 10,0:20:03.89,0:20:07.06,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Welcamo. Lesson Pokémon. \N Water type.
-Dialogue: 10,0:20:07.06,0:20:10.36,Main,Go - PokéDex Forme (Not YOU),0,0,0,,A hard worker that studies \N the movements of people and Pokémon...
-Dialogue: 10,0:20:10.36,0:20:13.48,Main,Go - PokéDex Forme (Not YOU),0,0,0,,...from various regions, \N incorporating them into its own dances.{Violet dex entry}{ENgame: The hardworking Quaxwell observes people and PokÃ©mon from various regions and incorporates their movements into its own dance routines.}
-Dialogue: 10,0:20:13.48,0:20:17.07,Main,Go - PokéDex Forme (Not YOU),0,0,0,,They compete with each other \N to see who has the most stylish footwork.{partial Scarlet dex entry}{ENgame: [These Pokémon] compete with each other to see which of them kicks most gracefully.}
+Dialogue: 10,0:20:03.89,0:20:07.06,Main,Smartphone Rotom,0,0,0,,Welcamo. Lesson Pokémon. \N Water type.
+Dialogue: 10,0:20:07.06,0:20:10.36,Main,Smartphone Rotom,0,0,0,,A hard worker that studies \N the movements of people and Pokémon...
+Dialogue: 10,0:20:10.36,0:20:13.48,Main,Smartphone Rotom,0,0,0,,...from various regions, \N incorporating them into its own dances.{Violet dex entry}{ENgame: The hardworking Quaxwell observes people and PokÃ©mon from various regions and incorporates their movements into its own dance routines.}
+Dialogue: 10,0:20:13.48,0:20:17.07,Main,Smartphone Rotom,0,0,0,,They compete with each other \N to see who has the most stylish footwork.{partial Scarlet dex entry}{ENgame: [These Pokémon] compete with each other to see which of them kicks most gracefully.}
 Dialogue: 10,0:20:17.07,0:20:20.95,Main,Liko,0,0,0,,I get it... Because Kuwassu was always \N practicing dance moves...{renshuu practice}
 Dialogue: 10,0:20:20.95,0:20:23.24,Main,Roy,0,0,0,,...he evolved into Welcamo!
 Dialogue: 10,0:20:24.91,0:20:27.91,Main,Dot,0,0,0,,I thought we were both \N growing together,

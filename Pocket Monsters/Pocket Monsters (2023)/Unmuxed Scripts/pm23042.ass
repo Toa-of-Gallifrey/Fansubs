@@ -63,8 +63,8 @@ Dialogue: 10,0:01:42.08,0:01:43.50,Main,Liko,0,0,0,,Oh... Nyahoja?
 Dialogue: 10,0:01:43.92,0:01:45.08,Main,Liko,0,0,0,,What is it?
 Dialogue: 10,0:01:50.09,0:01:51.76,Main,Roy,0,0,0,,A white Digda?
 Dialogue: 10,0:01:54.51,0:01:55.64,Main,Liko,0,0,0,,It’s so long!
-Dialogue: 10,0:01:56.60,0:01:59.52,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Umidigda. Garden Eel Pokémon. \N Water type.
-Dialogue: 10,0:01:59.89,0:02:03.27,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Though it looks like Digda, \N it is an entirely different species of Pokémon.
+Dialogue: 10,0:01:56.60,0:01:59.52,Main,Smartphone Rotom,0,0,0,,Umidigda. Garden Eel Pokémon. \N Water type.
+Dialogue: 10,0:01:59.89,0:02:03.27,Main,Smartphone Rotom,0,0,0,,Though it looks like Digda, \N it is an entirely different species of Pokémon.
 Dialogue: 10,0:02:03.27,0:02:04.65,Main,Roy,0,0,0,,Huh, really?
 Dialogue: 10,0:02:04.65,0:02:06.52,Main,Roy,0,0,0,,Neat!
 Dialogue: 10,0:02:11.40,0:02:12.45,Main,Roy,0,0,0,,Ooh!
@@ -89,9 +89,9 @@ Dialogue: 10,0:03:05.33,0:03:07.13,Main,Liko,0,0,0,,How cute!
 Dialogue: 10,0:03:11.34,0:03:14.17,Main,Landau,0,0,0,,Ooh, long time no see.
 Comment: 0,0:03:14.84,0:03:14.84,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:44.93,0:04:44.93,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:05:03.41,0:05:06.29,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Namiiruka. Dolphin Pokémon. \N Water type.
-Dialogue: 10,0:05:06.79,0:05:10.16,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It likes playing with others of its kind \N using the water ring on its tail.
-Dialogue: 10,0:05:10.71,0:05:14.59,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It uses ultrasonic waves to sense \N the emotions of other living creatures.{Scarlet dex entry}
+Dialogue: 10,0:05:03.41,0:05:06.29,Main,Smartphone Rotom,0,0,0,,Namiiruka. Dolphin Pokémon. \N Water type.
+Dialogue: 10,0:05:06.79,0:05:10.16,Main,Smartphone Rotom,0,0,0,,It likes playing with others of its kind \N using the water ring on its tail.
+Dialogue: 10,0:05:10.71,0:05:14.59,Main,Smartphone Rotom,0,0,0,,It uses ultrasonic waves to sense \N the emotions of other living creatures.{Scarlet dex entry}
 Dialogue: 10,0:05:20.97,0:05:22.47,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:05:27.89,0:05:30.81,Main,Liko,0,0,0,,One of them has different markings...
 Dialogue: 10,0:05:31.39,0:05:33.77,Main,Human being,0,0,0,,Somebody, help!

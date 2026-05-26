@@ -116,12 +116,12 @@ Dialogue: 10,0:06:12.60,0:06:13.90,Main,Roy,0,0,0,,I’ll go, too!
 Dialogue: 10,0:06:41.17,0:06:43.34,Main,Liko,0,0,0,,I’m glad we found her quickly.
 Dialogue: 10,0:06:43.34,0:06:44.30,Main,Dot,0,0,0,,Yeah.
 Dialogue: 10,0:06:48.47,0:06:50.89,Main,Liko,0,0,0,,Wh-What’s that Pokémon?
-Dialogue: 10,0:06:52.73,0:06:56.44,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Kajirigame. Bite Pokémon. \N Water/Rock type.
-Dialogue: 10,0:06:56.44,0:06:58.77,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It has an extremely vicious disposition.{Partial Scarlet entry}
-Dialogue: 10,0:06:58.77,0:07:03.36,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It lurks along the shoreline, and chomps down \N on prey when they come to drink water.{Partial Violet entry}
+Dialogue: 10,0:06:52.73,0:06:56.44,Main,Smartphone Rotom,0,0,0,,Kajirigame. Bite Pokémon. \N Water/Rock type.
+Dialogue: 10,0:06:56.44,0:06:58.77,Main,Smartphone Rotom,0,0,0,,It has an extremely vicious disposition.{Partial Scarlet entry}
+Dialogue: 10,0:06:58.77,0:07:03.36,Main,Smartphone Rotom,0,0,0,,It lurks along the shoreline, and chomps down \N on prey when they come to drink water.{Partial Violet entry}
 Dialogue: 10,0:07:03.36,0:07:05.20,Main,Dot,0,0,0,,Maybe we should keep our distance.
 Dialogue: 10,0:07:05.20,0:07:07.82,Main,Roy,0,0,0,,Huh? Where’s Terapagos?
-Dialogue: 10,0:07:07.82,0:07:10.08,Main,Liko,0,0,0,,It was here a second ago...{DREADED “IT” PRONOUN: Terapagos}
+Dialogue: 10,0:07:07.82,0:07:10.08,Main,Liko,0,0,0,,It was here a second ago...{Dread Terapagos}
 Dialogue: 10,0:07:10.49,0:07:11.37,Main,Roy,0,0,0,,Oh, no!
 Dialogue: 10,0:07:11.37,0:07:13.16,Main,Liko,0,0,0,,When did it get over there?!
 Dialogue: 10,0:07:17.88,0:07:19.46,Main,Roy,0,0,0,,Hogator, go help!

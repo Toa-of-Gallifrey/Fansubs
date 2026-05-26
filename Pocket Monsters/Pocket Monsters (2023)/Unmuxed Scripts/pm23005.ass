@@ -45,7 +45,7 @@ Dialogue: 10,0:02:48.23,0:02:49.57,Main,Liko,0,0,0,,Roy?
 Dialogue: 10,0:02:51.07,0:02:52.03,Main,Friede,0,0,0,,An intruder?!
 Dialogue: 10,0:02:52.82,0:02:54.99,Main,Friede,0,0,0,,Good work, Cap!
 Dialogue: 10,0:02:54.99,0:02:55.99,Main,Friede,0,0,0,,Wait...
-Dialogue: 10,0:02:55.99,0:02:57.62,Main,Roy,0,0,0,,Mr. Friede! {honorific note: Friede-san!}
+Dialogue: 10,0:02:55.99,0:02:57.62,Main,Roy,0,0,0,,Mr. Friede{Honorifics note: Friede-san}!
 Dialogue: 10,0:02:57.99,0:02:59.16,Main,Roy,0,0,0,,What a relief!
 Dialogue: 10,0:02:59.16,0:03:00.33,Main,Roy,0,0,0,,Oh, and Liko!
 Dialogue: 10,0:03:00.33,0:03:01.95,Main,Orio,0,0,0,,Hmm? Do you know him?
@@ -197,7 +197,7 @@ Dialogue: 10,0:11:23.83,0:11:25.71,Main,Liko,0,0,0,,Even Koduck’s clinging to 
 Dialogue: 10,0:11:23.83,0:11:25.71,Main,Roy,0,0,0,,{\an8}Stop it, that tickles!
 Dialogue: 10,0:11:28.71,0:11:32.96,Main,Roy,0,0,0,,Hey, your hairs are moving a lot today!
 Dialogue: 10,0:11:34.09,0:11:37.34,Main,Roy,0,0,0,,Did something nice happen?
-Dialogue: 10,0:11:41.06,0:11:43.85,Main,Zir,0,0,0,,Master Amethio! {honorific note: Amethio-sama!}\N I found them on the beach across from here!
+Dialogue: 10,0:11:41.06,0:11:43.85,Main,Zir,0,0,0,,Master Amethio{Honorifics note: Amethio-sama}! \N I found them on the beach across from here!
 Dialogue: 10,0:11:44.35,0:11:47.35,Main,Zir,0,0,0,,Looks like their airship broke down \N and they made an emergency landing.
 Dialogue: 10,0:11:47.35,0:11:49.86,Main,Conia,0,0,0,,Huh? Then isn’t this our chance?
 Dialogue: 10,0:11:49.86,0:11:52.90,Main,Zir,0,0,0,,But Friede and the target \N don’t seem to be aboard.
@@ -325,7 +325,7 @@ Dialogue: 10,0:18:23.79,0:18:24.71,Main,Orio,0,0,0,,Caterpie!
 Dialogue: 10,0:18:24.71,0:18:25.92,Main,Murdock & Orio,0,0,0,,String Shot!
 Dialogue: 10,0:18:36.60,0:18:39.97,Main,Roy,0,0,0,,Whoa! They did great!
 Dialogue: 10,0:18:40.97,0:18:42.68,Main,Molly,0,0,0,,Lucky, use Pound!
-Dialogue: 10,0:18:46.81,0:18:48.44,Main,Molly,0,0,0,,It’s pretty quick.{DREADED “IT” PRONOUN: Saidon}
+Dialogue: 10,0:18:46.81,0:18:48.44,Main,Molly,0,0,0,,It’s pretty quick.{Dread Saidon}
 Dialogue: 10,0:18:48.44,0:18:50.57,Main,Roy,0,0,0,,Lucky, go for it!
 Dialogue: 10,0:18:50.57,0:18:52.61,Main,Zir,0,0,0,,You’re one of them? {NAKAMA LINE}
 Dialogue: 10,0:18:52.61,0:18:54.78,Main,Zir,0,0,0,,Then take this! Rock Blast!

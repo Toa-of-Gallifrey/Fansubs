@@ -41,7 +41,7 @@ Dialogue: 10,0:00:39.56,0:00:41.36,Main,Liko,0,0,0,,No...
 Dialogue: 10,0:00:41.36,0:00:44.19,Main,Liko,0,0,0,,My grandma just said \N it was a good-luck charm.
 Dialogue: 10,0:00:44.19,0:00:47.17,Main,Dot,0,0,0,,From the looks of it, it seems like some sort of turtle Pokémon...
 Dialogue: 10,0:00:47.17,0:00:49.20,Main,Roy,0,0,0,,It’s not a Zenigame either.
-Dialogue: 10,0:00:50.02,0:00:51.19,Main,Go - PokéDex Forme (Not YOU),0,0,0,,No data.
+Dialogue: 10,0:00:50.02,0:00:51.19,Main,Smartphone Rotom,0,0,0,,No data.
 Dialogue: 10,0:00:51.19,0:00:54.08,Main,Roy,0,0,0,,Even the Index doesn’t know. \N That’s crazy!
 Dialogue: 10,0:00:55.05,0:00:58.08,Main,Liko,0,0,0,,I don’t know what I should do next.
 Dialogue: 10,0:01:04.18,0:01:06.84,Main,Liko,0,0,0,,But it sure is cute when it yawns.
@@ -112,8 +112,8 @@ Dialogue: 10,0:06:44.37,0:06:45.51,Main,Ikirinko,0,0,0,,Old castle!
 Dialogue: 10,0:06:45.51,0:06:46.33,Main,Friede,0,0,0,,Oh?
 Dialogue: 10,0:06:46.33,0:06:48.16,Main,Liko,0,0,0,,Grandma’s Ikirinko!
 Dialogue: 10,0:06:48.16,0:06:49.76,Main,Roy,0,0,0,,I’ve never seen that Pokémon!
-Dialogue: 10,0:06:50.30,0:06:54.02,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Ikirinko. Parrot Pokémon. \N Normal/Flying type.
-Dialogue: 10,0:06:54.49,0:06:58.02,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Yellow ones are hotheaded, \N and their fighting style is vicious.{partial Scarlet dex entry}
+Dialogue: 10,0:06:50.30,0:06:54.02,Main,Smartphone Rotom,0,0,0,,Ikirinko. Parrot Pokémon. \N Normal/Flying type.
+Dialogue: 10,0:06:54.49,0:06:58.02,Main,Smartphone Rotom,0,0,0,,Yellow ones are hotheaded, \N and their fighting style is vicious.{partial Scarlet dex entry}
 Dialogue: 10,0:06:58.02,0:06:59.99,Main,Ikirinko,0,0,0,,Liko! Old castle!
 Dialogue: 10,0:07:00.59,0:07:02.52,Main,Friede,0,0,0,,Looks like it’ll take us there.
 Dialogue: 10,0:07:02.52,0:07:03.74,Main,Roy,0,0,0,,Let’s follow it!

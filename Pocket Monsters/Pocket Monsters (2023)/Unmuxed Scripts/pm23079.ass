@@ -126,14 +126,14 @@ Dialogue: 10,0:07:04.03,0:07:08.53,Main,Omodaka,0,0,0,,But perhaps you three \N 
 Comment: 10,0:07:09.95,0:07:10.87,Main,Kids,0,0,0,,{\i1}Right!{\i0}
 Dialogue: 10,0:07:11.79,0:07:14.16,Main,Omodaka,0,0,0,,With that, are you all ready?
 Dialogue: 10,0:07:14.71,0:07:15.54,Main,Kids,0,0,0,,{\i1}Yes!{\i0}
-Dialogue: 10,0:07:25.72,0:07:29.35,Main,Rotom,0,0,0,,Kirame. Ore Pokémon. \N Rock/Poison type.
-Dialogue: 10,0:07:29.35,0:07:32.14,Main,Rotom,0,0,0,,It absorbs nutrients from cave walls.
-Dialogue: 10,0:07:32.14,0:07:34.81,Main,Rotom,0,0,0,,It wears petals \N made from crystallized poison.{ENgame: The petals it wears are made of crystallized poison.}{Scarlet dex entry}
+Dialogue: 10,0:07:25.72,0:07:29.35,Main,Smartphone Rotom,0,0,0,,Kirame. Ore Pokémon. \N Rock/Poison type.
+Dialogue: 10,0:07:29.35,0:07:32.14,Main,Smartphone Rotom,0,0,0,,It absorbs nutrients from cave walls.
+Dialogue: 10,0:07:32.14,0:07:34.81,Main,Smartphone Rotom,0,0,0,,It wears petals \N made from crystallized poison.{ENgame: The petals it wears are made of crystallized poison.}{Scarlet dex entry}
 Dialogue: 10,0:07:34.81,0:07:36.85,Main,Dot,0,0,0,,A Rock/Poison type, huh?
 Dialogue: 10,0:07:37.23,0:07:39.65,Main,Dot,0,0,0,,Water moves and \N Stomping Tantrum could work.
-Dialogue: 10,0:07:45.49,0:07:49.24,Main,Rotom,0,0,0,,Kiraflor. Ore Pokémon. \N Rock/Poison type.
-Dialogue: 10,0:07:49.24,0:07:52.74,Main,Rotom,0,0,0,,If it detects danger, \N it opens up its crystalline petals...
-Dialogue: 10,0:07:52.74,0:07:55.45,Main,Rotom,0,0,0,,...and fires a beam \N from its conical body.{ENgame: When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.}{Scarlet dex entry}
+Dialogue: 10,0:07:45.49,0:07:49.24,Main,Smartphone Rotom,0,0,0,,Kiraflor. Ore Pokémon. \N Rock/Poison type.
+Dialogue: 10,0:07:49.24,0:07:52.74,Main,Smartphone Rotom,0,0,0,,If it detects danger, \N it opens up its crystalline petals...
+Dialogue: 10,0:07:52.74,0:07:55.45,Main,Smartphone Rotom,0,0,0,,...and fires a beam \N from its conical body.{ENgame: When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.}{Scarlet dex entry}
 Dialogue: 10,0:07:55.45,0:07:58.46,Main,Liko,0,0,0,,Kirame evolves into Kiraflor.
 Dialogue: 10,0:07:58.46,0:08:00.71,Main,Roy,0,0,0,,I’ve never seen either of \N those Pokémon before.
 Dialogue: 10,0:08:00.71,0:08:05.72,Main,Omodaka,0,0,0,,These are Pokémon that inhabit Area Zero, \N where you seek to go.

@@ -62,9 +62,9 @@ Dialogue: 10,0:02:13.91,0:02:16.20,Main,All,0,0,0,,Whoa!
 Dialogue: 10,0:02:16.20,0:02:17.87,Main,Liko,0,0,0,,That made me jump...
 Dialogue: 10,0:02:17.87,0:02:18.83,Main,Dot,0,0,0,,What was that?!
 Dialogue: 10,0:02:18.83,0:02:21.08,Main,Roy,0,0,0,,Where did these washtubs come from?!
-Dialogue: 10,0:02:28.50,0:02:32.67,Main,Rotom,0,0,0,,Otoshidori. Item-Dropping Pokémon. \N Flying/Evil type.
-Dialogue: 10,0:02:32.67,0:02:36.05,Main,Rotom,0,0,0,,It wraps food in the pouch on its chest \N and carries it back to the nest.
-Dialogue: 10,0:02:36.05,0:02:39.22,Main,Rotom,0,0,0,,It enjoys dropping things \N that make loud noises.{Violet dex entry}{ENgame: Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.}
+Dialogue: 10,0:02:28.50,0:02:32.67,Main,Smartphone Rotom,0,0,0,,Otoshidori. Item-Dropping Pokémon. \N Flying/Evil type.
+Dialogue: 10,0:02:32.67,0:02:36.05,Main,Smartphone Rotom,0,0,0,,It wraps food in the pouch on its chest \N and carries it back to the nest.
+Dialogue: 10,0:02:36.05,0:02:39.22,Main,Smartphone Rotom,0,0,0,,It enjoys dropping things \N that make loud noises.{Violet dex entry}{ENgame: Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.}
 Dialogue: 10,0:02:40.18,0:02:45.65,Main,Friede,0,0,0,,Otoshidori tend to enjoy seeing \N people and Pokémon getting startled.
 Dialogue: 10,0:03:05.92,0:03:08.71,Main,Dot,0,0,0,,Aww...
 Dialogue: 10,0:03:12.00,0:03:12.84,Main,Dot,0,0,0,,Here.
@@ -173,9 +173,9 @@ Dialogue: 10,0:20:23.91,0:20:25.04,Main,Dot,0,0,0,,What a relief!
 Dialogue: 10,0:20:25.04,0:20:27.29,Main,Dot,0,0,0,,Thought I lost it...
 Dialogue: 10,0:20:36.05,0:20:37.80,Main,Dot,0,0,0,,You finally finished it.
 Dialogue: 10,0:20:39.26,0:20:41.80,Main,Dot,0,0,0,,You did great, Nakanuchan...
-Dialogue: 10,0:20:46.60,0:20:50.77,Main,Rotom,0,0,0,,Nakanuchan. Hammer Pokémon. \N Fairy/Steel type.
-Dialogue: 10,0:20:50.77,0:20:52.98,Main,Rotom,0,0,0,,They make their homes \N in piles of scrap metal.
-Dialogue: 10,0:20:53.36,0:20:57.99,Main,Rotom,0,0,0,,They fiercely trade blows \N to test the strength of their hammers.{Violet dex entry}{ENgame: These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together.}
+Dialogue: 10,0:20:46.60,0:20:50.77,Main,Smartphone Rotom,0,0,0,,Nakanuchan. Hammer Pokémon. \N Fairy/Steel type.
+Dialogue: 10,0:20:50.77,0:20:52.98,Main,Smartphone Rotom,0,0,0,,They make their homes \N in piles of scrap metal.
+Dialogue: 10,0:20:53.36,0:20:57.99,Main,Smartphone Rotom,0,0,0,,They fiercely trade blows \N to test the strength of their hammers.{Violet dex entry}{ENgame: These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together.}
 Dialogue: 10,0:20:58.45,0:21:00.24,Main,Liko,0,0,0,,Her hammer sure turned out well!
 Dialogue: 10,0:21:00.74,0:21:06.66,Main,Friede,0,0,0,,{\q2}I’ve never heard of wild Pokémon Terastallizing \N outside of the Paldea Region before.
 Dialogue: 10,0:21:06.66,0:21:08.21,Main,Dot,0,0,0,,It sure surprised me.

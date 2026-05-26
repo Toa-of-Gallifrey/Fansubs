@@ -187,7 +187,7 @@ Dialogue: 10,0:10:39.62,0:10:40.87,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:10:41.33,0:10:44.71,Main,Liko,0,0,0,,Which way... \N did we come from?
 Dialogue: 10,0:10:48.13,0:10:49.63,Main,Liko,0,0,0,,Am I lost?!
 Dialogue: 10,0:10:49.63,0:10:53.13,Main,Liko,0,0,0,,T-T-Times like these, \N I need to stay calm...
-Dialogue: 10,0:10:53.59,0:10:54.88,Main,Go - PokéDex Forme (Not YOU),0,0,0,,No reception.
+Dialogue: 10,0:10:53.59,0:10:54.88,Main,Smartphone Rotom,0,0,0,,No reception.
 Dialogue: 10,0:10:55.30,0:10:56.76,Main,Liko,0,0,0,,No way!
 Dialogue: 10,0:10:56.76,0:11:01.14,Main,Liko,0,0,0,,Um... If I get lost... \N That tree landmark...
 Dialogue: 10,0:11:02.31,0:11:03.60,Main,Liko,0,0,0,,That’s it!
@@ -211,9 +211,9 @@ Dialogue: 10,0:12:43.37,0:12:44.66,Main,Liko,0,0,0,,Is that...?
 Dialogue: 10,0:12:47.04,0:12:48.25,Main,Liko,0,0,0,,Oh, no!
 Dialogue: 10,0:12:53.29,0:12:55.75,Main,Liko,0,0,0,,Wh-What do I do?
 Dialogue: 10,0:12:55.75,0:12:57.42,Main,Liko,0,0,0,,Um...
-Dialogue: 10,0:12:58.38,0:13:03.18,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Wooper: Paldean Form. \N Poison Fish Pokémon. Poison/Ground type.
-Dialogue: 10,0:13:03.76,0:13:08.68,Main,Go - PokéDex Forme (Not YOU),0,0,0,,After losing a territorial struggle, \N it began living in marshes.
-Dialogue: 10,0:13:08.68,0:13:13.11,Main,Go - PokéDex Forme (Not YOU),0,0,0,,To prevent dehydration, \N its body is covered in a poisonous film.{Scarlet dex entry reworded}
+Dialogue: 10,0:12:58.38,0:13:03.18,Main,Smartphone Rotom,0,0,0,,Wooper: Paldean Form. \N Poison Fish Pokémon. Poison/Ground type.
+Dialogue: 10,0:13:03.76,0:13:08.68,Main,Smartphone Rotom,0,0,0,,After losing a territorial struggle, \N it began living in marshes.
+Dialogue: 10,0:13:08.68,0:13:13.11,Main,Smartphone Rotom,0,0,0,,To prevent dehydration, \N its body is covered in a poisonous film.{Scarlet dex entry reworded}
 Dialogue: 10,0:13:14.15,0:13:16.19,Main,Liko,0,0,0,,Its skin is bone dry...
 Dialogue: 10,0:13:16.69,0:13:18.57,Main,Liko,0,0,0,,That’s why it has no energy...
 Dialogue: 10,0:13:30.21,0:13:32.25,Main,Liko,0,0,0,,My hand’s stinging...

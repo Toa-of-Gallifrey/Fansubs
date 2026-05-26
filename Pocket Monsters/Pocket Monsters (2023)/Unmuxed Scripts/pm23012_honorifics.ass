@@ -42,11 +42,11 @@ Dialogue: 10,0:00:43.69,0:00:45.78,Main,Roy,0,0,0,,There’s more damage \N than
 Dialogue: 10,0:00:49.82,0:00:53.07,Main,Molly,0,0,0,,As long as the forest \N lacks its greenery,
 Dialogue: 10,0:00:53.07,0:00:58.25,Main,Molly,0,0,0,,there will be Pokémon like that Wooper, \N unable to survive on their own.
 Dialogue: 10,0:00:58.25,0:00:59.54,Main,Roy,0,0,0,,No way...
-Dialogue: 10,0:00:59.54,0:01:02.96,Main,Molly,0,0,0,,Oliva was sharing its nutrients \N with the weakened Pokémon... {DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:00:59.54,0:01:02.96,Main,Molly,0,0,0,,Oliva was sharing its nutrients \N with the weakened Pokémon... {Dread Oliva}
 Dialogue: 10,0:01:02.96,0:01:05.50,Main,Molly,0,0,0,,...and tending to them \N if they got hurt.
-Dialogue: 10,0:01:05.50,0:01:07.63,Main,Roy,0,0,0,,It’s like a forest doctor.{DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:01:05.50,0:01:07.63,Main,Roy,0,0,0,,It’s like a forest doctor.{Dread Oliva}
 Dialogue: 10,0:01:07.63,0:01:10.55,Main,Molly,0,0,0,,A doctor... That’s right.
-Dialogue: 10,0:01:10.55,0:01:15.72,Main,Molly,0,0,0,,But it can only do so much \N with the forest in this state...{DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:01:10.55,0:01:15.72,Main,Molly,0,0,0,,But it can only do so much \N with the forest in this state...{Dread Oliva}
 Dialogue: 10,0:01:17.22,0:01:21.19,Main,Liko,0,0,0,,I’d hate to leave Oliva \N and the forest Pokémon like this.
 Dialogue: 10,0:01:22.81,0:01:24.06,Main,Liko,0,0,0,,What should we do?
 Dialogue: 10,0:01:26.57,0:01:29.15,Main,Liko,0,0,0,,We should plant a forest!
@@ -58,7 +58,7 @@ Dialogue: 10,0:03:10.96,0:03:13.63,Main,Liko,0,0,0,,Nyahoja! \N Grab some berrie
 Dialogue: 10,0:03:21.89,0:03:26.31,Main,Liko,0,0,0,,Thank you, Nyahoja. \N I guess we’ll want to plant lots of different berries.
 Dialogue: 10,0:03:26.31,0:03:28.94,Main,Liko,0,0,0,,Nyahoja! This time, use Leafage!
 Dialogue: 10,0:03:34.74,0:03:37.28,Main,Roy,0,0,0,,I get it. \N So we’re gonna plant these.
-Dialogue: 10,0:03:37.28,0:03:38.41,Main,Go - PokéDex Forme (Not YOU),0,0,0,,No reception.
+Dialogue: 10,0:03:37.28,0:03:38.41,Main,Smartphone Rotom,0,0,0,,No reception.
 Dialogue: 10,0:03:38.41,0:03:40.66,Main,Molly,0,0,0,,Signal really doesn’t reach here, huh?
 Dialogue: 10,0:03:40.66,0:03:41.66,Main,Roy,0,0,0,,What’s wrong?
 Dialogue: 10,0:03:41.66,0:03:45.37,Main,Molly,0,0,0,,I wanted to ask Friede \N and the others for help.
@@ -138,16 +138,16 @@ Dialogue: 10,0:08:13.81,0:08:17.10,Main,Landau,0,0,0,,Grant us a great blessing,
 Dialogue: 10,0:08:17.10,0:08:18.39,Main,Landau,0,0,0,,Rain Prayer!
 Dialogue: 10,0:08:25.40,0:08:26.82,Main,Roy,0,0,0,,Rain!
 Dialogue: 10,0:08:32.53,0:08:35.33,Main,Liko,0,0,0,,The soil’s getting wetter and wetter!
-Dialogue: 10,0:08:36.54,0:08:40.04,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Nuoh. Water Fish Pokémon. \N Water/Ground type.
-Dialogue: 10,0:08:40.71,0:08:44.38,Main,Go - PokéDex Forme (Not YOU),0,0,0,,If it bumps its head on boats \N and boulders while swimming,
-Dialogue: 10,0:08:44.38,0:08:47.09,Main,Go - PokéDex Forme (Not YOU),0,0,0,,it doesn’t care. \N It has an easygoing nature.{Sword dex entry, with “Pokemon” replaced with “nature”... Though ENgame already used “nature”. Rearranged to avoid weird splits.}
+Dialogue: 10,0:08:36.54,0:08:40.04,Main,Smartphone Rotom,0,0,0,,Nuoh. Water Fish Pokémon. \N Water/Ground type.
+Dialogue: 10,0:08:40.71,0:08:44.38,Main,Smartphone Rotom,0,0,0,,If it bumps its head on boats \N and boulders while swimming,
+Dialogue: 10,0:08:44.38,0:08:47.09,Main,Smartphone Rotom,0,0,0,,it doesn’t care. \N It has an easygoing nature.{Sword dex entry, with “Pokemon” replaced with “nature”... Though ENgame already used “nature”. Rearranged to avoid weird splits.}
 Dialogue: 10,0:08:48.05,0:08:50.47,Main,Liko,0,0,0,,I never knew he had that Pokémon...
-Dialogue: 10,0:08:50.47,0:08:52.68,Main,Molly,0,0,0,,I hadn’t seen it before either.{DREADED “IT” PRONOUN: Nuoh}
+Dialogue: 10,0:08:50.47,0:08:52.68,Main,Molly,0,0,0,,I hadn’t seen it before either.{Dread Nuoh}
 Dialogue: 10,0:09:00.60,0:09:01.73,Main,Liko,0,0,0,,Oliva?
 Dialogue: 10,0:09:22.50,0:09:26.13,Main,Friede,0,0,0,,Falling Seeds. Oliva’s ability.
 Dialogue: 10,0:09:26.67,0:09:30.51,Main,Friede,0,0,0,,Looks like the rain \N brought back that power, too.
 Dialogue: 10,0:09:31.30,0:09:33.84,Main,Liko,0,0,0,,Everyone helped Oliva out,
-Dialogue: 10,0:09:33.84,0:09:36.76,Main,Liko,0,0,0,,so it must’ve wanted \N to do something in return!{DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:09:33.84,0:09:36.76,Main,Liko,0,0,0,,so it must’ve wanted \N to do something in return!{Dread Oliva}
 Dialogue: 10,0:09:36.76,0:09:39.52,Main,Roy,0,0,0,,Look! The Pokémon came back!
 Dialogue: 10,0:09:40.81,0:09:44.02,Main,Molly,0,0,0,,Now they can all thrive.
 Dialogue: 10,0:09:44.02,0:09:45.48,Main,Liko,0,0,0,,That’s great!
@@ -168,8 +168,8 @@ Dialogue: 10,0:11:01.89,0:11:02.89,Main,Liko,0,0,0,,Did you see that?
 Dialogue: 10,0:11:02.89,0:11:04.56,Main,Roy,0,0,0,,Yeah, I did.
 Dialogue: 10,0:11:04.56,0:11:07.98,Main,Liko,0,0,0,,What... was that?
 Dialogue: 10,0:11:13.40,0:11:15.40,Main,Roy,0,0,0,,The Ancient Monster Ball!
-Dialogue: 10,0:11:21.87,0:11:24.08,Main,Liko,0,0,0,,It went in on its own?{DREADED “IT” PRONOUN: Oliva}
-Dialogue: 10,0:11:25.54,0:11:29.42,Main,Liko,0,0,0,,Does that mean... \N it wants to come with us?{DREADED “IT” PRONOUN: Oliva}
+Dialogue: 10,0:11:21.87,0:11:24.08,Main,Liko,0,0,0,,It went in on its own?{Dread Oliva}
+Dialogue: 10,0:11:25.54,0:11:29.42,Main,Liko,0,0,0,,Does that mean... \N it wants to come with us?{Dread Oliva}
 Dialogue: 10,0:11:30.71,0:11:32.42,Main,Liko,0,0,0,,No good. It won’t open.
 Dialogue: 10,0:11:32.42,0:11:34.47,Main,Roy,0,0,0,,What’s with these things?!
 Dialogue: 10,0:11:34.47,0:11:36.76,Main,Friede,0,0,0,,There’s got to be some logic to them.

@@ -60,10 +60,10 @@ Dialogue: 10,0:01:48.84,0:01:50.47,Main,Mokichi,0,0,0,,Sorry ‘bout that.
 Dialogue: 10,0:01:50.47,0:01:53.63,Main,Mokichi,0,0,0,,It wouldn’t even hurt a Bachul, though!{Dread Dodogezan}{It ain't got a Bachul's fingernail of malice in it.}{~'There's not a trace of malice in him' kinda idiom, but 'it' + precise Pokeidiom leaves me without ideas}
 Comment: 0,0:01:55.30,0:01:55.30,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:25.39,0:03:25.39,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:38.99,0:03:43.54,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Dodogezan. Glaive Pokémon. \N Evil/Steel type.
-Dialogue: 10,0:03:43.54,0:03:45.87,Main,Go - PokéDex Forme (Not YOU),0,0,0,,Though it commands \N a massive army in battle,
-Dialogue: 10,0:03:45.87,0:03:48.12,Main,Go - PokéDex Forme (Not YOU),0,0,0,,it has no aptitude \N for complex strategy.
-Dialogue: 10,0:03:48.12,0:03:50.29,Main,Go - PokéDex Forme (Not YOU),0,0,0,,It just uses brute strength \N to push forward.{Violet dex entry}{Though it fights by commanding a large army, it's no good at difficult tactics, so it just keeps pushing forward with brute force.}{tweaked with some phrasing lifted from TL that seemed clearer -ed}
+Dialogue: 10,0:03:38.99,0:03:43.54,Main,Smartphone Rotom,0,0,0,,Dodogezan. Glaive Pokémon. \N Evil/Steel type.
+Dialogue: 10,0:03:43.54,0:03:45.87,Main,Smartphone Rotom,0,0,0,,Though it commands \N a massive army in battle,
+Dialogue: 10,0:03:45.87,0:03:48.12,Main,Smartphone Rotom,0,0,0,,it has no aptitude \N for complex strategy.
+Dialogue: 10,0:03:48.12,0:03:50.29,Main,Smartphone Rotom,0,0,0,,It just uses brute strength \N to push forward.{Violet dex entry}{Though it fights by commanding a large army, it's no good at difficult tactics, so it just keeps pushing forward with brute force.}{tweaked with some phrasing lifted from TL that seemed clearer -ed}
 Dialogue: 10,0:03:50.29,0:03:53.30,Main,Roy,0,0,0,,It pushes forward \N with brute strength?
 Dialogue: 10,0:03:53.30,0:03:56.55,Main,Dot,0,0,0,,Oh, so {\i1}that’s{\i0} why \N it flung the door open so hard...
 Dialogue: 10,0:03:57.18,0:03:59.14,Main,Liko,0,0,0,,Sorry to bother you on your break.

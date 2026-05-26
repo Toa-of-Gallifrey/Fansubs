@@ -237,7 +237,7 @@ Dialogue: 10,0:13:21.20,0:13:22.45,Main,Diana,0,0,0,,Is that so?
 Dialogue: 10,0:13:22.45,0:13:24.62,Main,Friede,0,0,0,,You never told us that, Liko!
 Dialogue: 10,0:13:24.62,0:13:25.33,Main,Roy and Dot,0,0,0,,Yeah!
 Dialogue: 10,0:13:25.33,0:13:27.83,Main,Liko,0,0,0,,U-Uh, erm...
-Dialogue: 10,0:13:27.83,0:13:29.54,Main,Liko,0,0,0,,D-Did I neglect to mention?
+Dialogue: 10,0:13:27.83,0:13:29.54,Main,Liko,0,0,0,,D-Didn’t I ever mention...?{Variation of Friede's catchphrase}
 Dialogue: 10,0:13:30.96,0:13:33.46,Main,Orio,0,0,0,,She’s picked up Friede’s bad habit!
 Dialogue: 10,0:13:33.46,0:13:34.38,Main,Molly,0,0,0,,Sure has.
 Dialogue: 10,0:13:34.38,0:13:35.54,Main,Friede,0,0,0,,Huh?
@@ -258,7 +258,7 @@ Dialogue: 10,0:14:22.72,0:14:24.80,Main,Dot,0,0,0,,Friede, do you know \N someth
 Dialogue: 10,0:14:24.80,0:14:29.43,Main,Friede,0,0,0,,I worked as a researcher \N for Exceed in the past.
 Dialogue: 10,0:14:29.43,0:14:30.64,Main,Roy or Dot,0,0,0,,Really?!
 Dialogue: 10,0:14:30.64,0:14:32.02,Main,Liko,0,0,0,,You never told us.
-Dialogue: 10,0:14:33.14,0:14:34.60,Main,Friede,0,0,0,,Guess I never mentioned...
+Dialogue: 10,0:14:33.14,0:14:34.60,Main,Friede,0,0,0,,Guess I didn’t mention...
 Dialogue: 10,0:14:34.60,0:14:36.23,Main,Orio,0,0,0,,And there he goes again...
 Dialogue: 10,0:14:36.77,0:14:39.61,Main,Friede,0,0,0,,I went there to investigate \N during the ship’s repairs.
 Dialogue: 10,0:14:39.61,0:14:45.24,Main,Friede,0,0,0,,{\q2}At one point, Exceed was secretly researching \N the Eternal Blessing—Rakurium.
