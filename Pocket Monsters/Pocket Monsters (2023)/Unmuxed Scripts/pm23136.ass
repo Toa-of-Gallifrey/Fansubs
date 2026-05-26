@@ -231,8 +231,8 @@ Dialogue: 10,0:20:56.49,0:20:59.99,Main,Mighty G,0,0,0,,Mighty G!
 Dialogue: 10,0:20:59.99,0:21:01.74,Main,Kids,0,0,0,,It’s Mighty G!
 Dialogue: 10,0:21:10.12,0:21:11.75,Main,Magyorou,0,0,0,,Magyomagyo!
 Dialogue: 10,0:21:12.08,0:21:17.30,Main,Magyorou,0,0,0,,{\q2}The Rising Voltteccers are the ones \N who showed me that Strong Spheres are dangerous!
-Dialogue: 10,0:21:18.84,0:21:20.80,Main,Nyabbyko,0,0,0,,The idea that they’re bad guys is {\i1}bogus!{\i0}
-Dialogue: 10,0:21:20.80,0:21:24.51,Main,Nyabbyko,0,0,0,,I’ve met ‘em, and they’ve got \N the Nyabbyfan guarantee!
+Dialogue: 10,0:21:18.84,0:21:20.80,Main,Nyabbyfan,0,0,0,,The idea that they’re bad guys is {\i1}bogus!{\i0}
+Dialogue: 10,0:21:20.80,0:21:24.51,Main,Nyabbyfan,0,0,0,,I’ve met ‘em, and they’ve got \N the Nyabbyfan guarantee!
 Dialogue: 10,0:21:30.89,0:21:34.65,Main,Reporter 1,0,0,0,,Exploiting Exceed for \N the development of Strong Spheres,
 Dialogue: 10,0:21:34.65,0:21:37.40,Main,Reporter 1,0,0,0,,misleading the public \N with excessive promotion efforts,
 Dialogue: 10,0:21:37.40,0:21:42.36,Main,Reporter 1,0,0,0,,{\q2}as well as using misinformation to frame his opponents, \N the Rising Voltteccers, as villains...
@@ -520,8 +520,8 @@ Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,218,1903,219
 Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,219,1903,220)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H5844CA&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{\fad(100,0)\clip(27,220,1903,221)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H4A3ED6&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 2,0:24:25.03,0:24:30.41,Logo,,0,0,0,,{=1656}{\fad(100,0)\clip(27,221,1903,222)\pos(1338.68,206.71)\blur0.6\fscx35\fscy35\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&}p{\fsp-13}O{\fsp-9}Cket Monsters
-Dialogue: 0,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fad(731,0)\fscx90.72\fscy72.68\bord5.5\blur2.5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\t(686,731,\1a&H00&)\pos(1343,499.64)}Wonder Voyage
-Dialogue: 1,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fad(731,0)\fscx90.72\fscy72.68\bord0\blur0.6\c&H9BAF10&\pos(1343,499.64)}Wonder Voyage
+Dialogue: 0,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fnFOT-RodinNTLG Pro UB\fad(731,0)\fscx90.72\fscy72.68\bord5.5\blur2.5\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\t(686,731,\1a&H00&)\pos(1343,499.64)}Wonder Voyage
+Dialogue: 1,0:24:25.15,0:24:30.41,Logo Sub-title,,0,0,0,,{\fnFOT-RodinNTLG Pro UB\fad(731,0)\fscx90.72\fscy72.68\bord0\blur0.6\c&H9BAF10&\pos(1343,499.64)}Wonder Voyage
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:42.69,0:00:47.32,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:00:47.69,0:00:55.99,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message

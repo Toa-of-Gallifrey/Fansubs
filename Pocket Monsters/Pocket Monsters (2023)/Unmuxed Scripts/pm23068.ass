@@ -768,56 +768,56 @@ Dialogue: 2,0:11:05.48,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\blur0.6
 Dialogue: 1,0:11:05.48,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord3\blur0.6\c&H393939&\3c&H393939&\pos(1458,1071.33)\3a&H20&}Rekkuuza Rising
 Dialogue: 0,0:11:05.48,0:11:10.48,Logo Sub-title,,0,0,0,,{\fscx45\fscy45\bord6\blur3\c&HFFFFFF&\3c&HFFFFFF&\pos(1458,1071.33)\3a&H20&}Rekkuuza Rising
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{=1070}{\q2\blur0.6\fad(0,350)}Rise Up, Pikkaan
-Dialogue: 1,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}Rise Up, Pikkaan
-Dialogue: 1,0:22:21.86,0:22:24.28,EDp2,,0,0,0,,{\q2\blur0.6}Time to shine, together
-Dialogue: 1,0:22:24.28,0:22:26.32,EDp2,,0,0,0,,{\q2\blur0.6}Ready 3, 2, 1, Ahhh
-Dialogue: 1,0:22:26.32,0:22:27.95,EDp2,,0,0,0,,{\q2\blur0.6}So where now? Frustrations? Delusions?
-Dialogue: 1,0:22:27.95,0:22:29.95,EDp2,,0,0,0,,{\q2\blur0.6}All In My Head, Let's Go!
-Dialogue: 1,0:22:29.95,0:22:33.46,EDp2,,0,0,0,,{\q2\blur0.6}Had enough? Too tough? Hey, there's just no way! Let's Go!
-Dialogue: 1,0:22:33.46,0:22:35.38,EDp2,,0,0,0,,{\q2\blur0.6}Just do it! (Big Up!) Just win it! (Big Up!)
-Dialogue: 1,0:22:35.38,0:22:37.21,EDp2,,0,0,0,,{\q2\blur0.6}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 1,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\blur0.6}You're no failure, you're no loser
-Dialogue: 1,0:22:39.00,0:22:41.51,EDp2,,0,0,0,,{\q2\blur0.6}Just keep on chasing until you catch up
-Dialogue: 1,0:22:41.51,0:22:48.01,EDp2,,0,0,0,,{\q2\blur0.6}The feelings entrusted to us (ah eh ah eh) make us stronger
-Dialogue: 1,0:22:48.01,0:22:51.73,EDp2,,0,0,0,,{\q2\blur0.6}Meeting, parting, all of those supporting us
-Dialogue: 1,0:22:51.73,0:22:54.23,EDp2,,0,0,0,,{\q2\blur0.6}Bring them along for the ri-i-ide!
-Dialogue: 1,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that super effective amazing wish
-Dialogue: 1,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that possible future we promised
-Dialogue: 1,0:23:02.32,0:23:04.20,EDp2,,0,0,0,,{\q2\blur0.6}Assemble, grant your wish
-Dialogue: 1,0:23:04.20,0:23:05.95,EDp2,,0,0,0,,{\q2\blur0.6}3, 2, Ready? Big Bang!
-Dialogue: 1,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\blur0.6\fad(0,140)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 1,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}It's a blazing journey, and when we make it...
-Dialogue: 1,0:23:15.83,0:23:17.13,EDp2,,0,0,0,,{\q2\blur0.6}Hop, Step, Get it!
-Dialogue: 1,0:23:17.13,0:23:18.04,EDp2,,0,0,0,,{\q2\blur0.6}Come On, Rise Up!!
-Dialogue: 1,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\blur0.6\fad(350,0)}Come On, Rise Up!! (ah ah ah ah)
-Dialogue: 1,0:23:23.34,0:23:25.30,EDp2,,0,0,0,,{\q2\blur0.6}Make a change, you can take it, you can do it, yeah!
-Dialogue: 1,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{\q2\blur0.6}Rise Up, Pikkaan
-Dialogue: 0,0:22:11.60,0:22:17.36,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,350)\t(5410,5455,\1a&HFF&)}Rise Up, Pikkaan
-Dialogue: 0,0:22:18.69,0:22:21.86,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Rise Up, Pikkaan
-Dialogue: 0,0:22:21.86,0:22:24.28,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Time to shine, together
-Dialogue: 0,0:22:24.28,0:22:26.32,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Ready 3, 2, 1, Ahhh
-Dialogue: 0,0:22:26.32,0:22:27.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}So where now? Frustrations? Delusions?
-Dialogue: 0,0:22:27.95,0:22:29.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}All In My Head, Let's Go!
-Dialogue: 0,0:22:29.95,0:22:33.46,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Had enough? Too tough? Hey, there's just no way! Let's Go!
-Dialogue: 0,0:22:33.46,0:22:35.38,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just do it! (Big Up!) Just win it! (Big Up!)
-Dialogue: 0,0:22:35.38,0:22:37.21,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Passion volley! (Pa Ra Ra Yeah)
-Dialogue: 0,0:22:37.21,0:22:39.00,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}You're no failure, you're no loser
-Dialogue: 0,0:22:39.00,0:22:41.51,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just keep on chasing until you catch up
-Dialogue: 0,0:22:41.51,0:22:48.01,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}The feelings entrusted to us (ah eh ah eh) make us stronger
-Dialogue: 0,0:22:48.01,0:22:51.73,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Meeting, parting, all of those supporting us
-Dialogue: 0,0:22:51.73,0:22:54.23,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Bring them along for the ri-i-ide!
-Dialogue: 0,0:22:55.48,0:22:58.82,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that super effective amazing wish
-Dialogue: 0,0:22:58.82,0:23:02.32,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that possible future we promised
-Dialogue: 0,0:23:02.32,0:23:04.20,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Assemble, grant your wish
-Dialogue: 0,0:23:04.20,0:23:05.95,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}3, 2, Ready? Big Bang!
-Dialogue: 0,0:23:05.95,0:23:10.87,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,140)\t(4780,4825,\1a&HFF&)}Rise up, this adventure is for us, Go Go (Let's go!)
-Dialogue: 0,0:23:13.00,0:23:15.83,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}It's a blazing journey, and when we make it...
-Dialogue: 0,0:23:15.83,0:23:17.13,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Hop, Step, Get it!
-Dialogue: 0,0:23:17.13,0:23:18.04,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Come On, Rise Up!!
-Dialogue: 0,0:23:20.21,0:23:23.34,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Come On, Rise Up!! (ah ah ah ah)
-Dialogue: 0,0:23:23.34,0:23:25.30,EDp2,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Make a change, you can take it, you can do it, yeah!
-Dialogue: 0,0:23:25.30,0:23:32.77,EDp2,,0,0,0,,{=1071}{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up, Pikkaan
+Dialogue: 1,0:22:11.60,0:22:17.36,ED,,0,0,0,,{=1070}{\q2\blur0.6\fad(0,350)}Rise Up, Pikkaan
+Dialogue: 1,0:22:18.69,0:22:21.86,ED,,0,0,0,,{\q2\blur0.6\fad(350,0)}Rise Up, Pikkaan
+Dialogue: 1,0:22:21.86,0:22:24.28,ED,,0,0,0,,{\q2\blur0.6}Time to shine, together
+Dialogue: 1,0:22:24.28,0:22:26.32,ED,,0,0,0,,{\q2\blur0.6}Ready 3, 2, 1, Ahhh
+Dialogue: 1,0:22:26.32,0:22:27.95,ED,,0,0,0,,{\q2\blur0.6}So where now? Frustrations? Delusions?
+Dialogue: 1,0:22:27.95,0:22:29.95,ED,,0,0,0,,{\q2\blur0.6}All In My Head, Let's Go!
+Dialogue: 1,0:22:29.95,0:22:33.46,ED,,0,0,0,,{\q2\blur0.6}Had enough? Too tough? Hey, there's just no way! Let's Go!
+Dialogue: 1,0:22:33.46,0:22:35.38,ED,,0,0,0,,{\q2\blur0.6}Just do it! (Big Up!) Just win it! (Big Up!)
+Dialogue: 1,0:22:35.38,0:22:37.21,ED,,0,0,0,,{\q2\blur0.6}Passion volley! (Pa Ra Ra Yeah)
+Dialogue: 1,0:22:37.21,0:22:39.00,ED,,0,0,0,,{\q2\blur0.6}You're no failure, you're no loser
+Dialogue: 1,0:22:39.00,0:22:41.51,ED,,0,0,0,,{\q2\blur0.6}Just keep on chasing until you catch up
+Dialogue: 1,0:22:41.51,0:22:48.01,ED,,0,0,0,,{\q2\blur0.6}The feelings entrusted to us (ah eh ah eh) make us stronger
+Dialogue: 1,0:22:48.01,0:22:51.73,ED,,0,0,0,,{\q2\blur0.6}Meeting, parting, all of those supporting us
+Dialogue: 1,0:22:51.73,0:22:54.23,ED,,0,0,0,,{\q2\blur0.6}Bring them along for the ri-i-ide!
+Dialogue: 1,0:22:55.48,0:22:58.82,ED,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that super effective amazing wish
+Dialogue: 1,0:22:58.82,0:23:02.32,ED,,0,0,0,,{\q2\blur0.6}Rise Up!! Make it to that possible future we promised
+Dialogue: 1,0:23:02.32,0:23:04.20,ED,,0,0,0,,{\q2\blur0.6}Assemble, grant your wish
+Dialogue: 1,0:23:04.20,0:23:05.95,ED,,0,0,0,,{\q2\blur0.6}3, 2, Ready? Big Bang!
+Dialogue: 1,0:23:05.95,0:23:10.87,ED,,0,0,0,,{\q2\blur0.6\fad(0,140)}Rise up, this adventure is for us, Go Go (Let's go!)
+Dialogue: 1,0:23:13.00,0:23:15.83,ED,,0,0,0,,{\q2\blur0.6\fad(350,0)}It's a blazing journey, and when we make it...
+Dialogue: 1,0:23:15.83,0:23:17.13,ED,,0,0,0,,{\q2\blur0.6}Hop, Step, Get it!
+Dialogue: 1,0:23:17.13,0:23:18.04,ED,,0,0,0,,{\q2\blur0.6}Come On, Rise Up!!
+Dialogue: 1,0:23:20.21,0:23:23.34,ED,,0,0,0,,{\q2\blur0.6\fad(350,0)}Come On, Rise Up!! (ah ah ah ah)
+Dialogue: 1,0:23:23.34,0:23:25.30,ED,,0,0,0,,{\q2\blur0.6}Make a change, you can take it, you can do it, yeah!
+Dialogue: 1,0:23:25.30,0:23:32.77,ED,,0,0,0,,{\q2\blur0.6}Rise Up, Pikkaan
+Dialogue: 0,0:22:11.60,0:22:17.36,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,350)\t(5410,5455,\1a&HFF&)}Rise Up, Pikkaan
+Dialogue: 0,0:22:18.69,0:22:21.86,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Rise Up, Pikkaan
+Dialogue: 0,0:22:21.86,0:22:24.28,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Time to shine, together
+Dialogue: 0,0:22:24.28,0:22:26.32,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Ready 3, 2, 1, Ahhh
+Dialogue: 0,0:22:26.32,0:22:27.95,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}So where now? Frustrations? Delusions?
+Dialogue: 0,0:22:27.95,0:22:29.95,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}All In My Head, Let's Go!
+Dialogue: 0,0:22:29.95,0:22:33.46,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Had enough? Too tough? Hey, there's just no way! Let's Go!
+Dialogue: 0,0:22:33.46,0:22:35.38,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just do it! (Big Up!) Just win it! (Big Up!)
+Dialogue: 0,0:22:35.38,0:22:37.21,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Passion volley! (Pa Ra Ra Yeah)
+Dialogue: 0,0:22:37.21,0:22:39.00,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}You're no failure, you're no loser
+Dialogue: 0,0:22:39.00,0:22:41.51,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Just keep on chasing until you catch up
+Dialogue: 0,0:22:41.51,0:22:48.01,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}The feelings entrusted to us (ah eh ah eh) make us stronger
+Dialogue: 0,0:22:48.01,0:22:51.73,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Meeting, parting, all of those supporting us
+Dialogue: 0,0:22:51.73,0:22:54.23,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Bring them along for the ri-i-ide!
+Dialogue: 0,0:22:55.48,0:22:58.82,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that super effective amazing wish
+Dialogue: 0,0:22:58.82,0:23:02.32,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up!! Make it to that possible future we promised
+Dialogue: 0,0:23:02.32,0:23:04.20,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Assemble, grant your wish
+Dialogue: 0,0:23:04.20,0:23:05.95,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}3, 2, Ready? Big Bang!
+Dialogue: 0,0:23:05.95,0:23:10.87,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(0,140)\t(4780,4825,\1a&HFF&)}Rise up, this adventure is for us, Go Go (Let's go!)
+Dialogue: 0,0:23:13.00,0:23:15.83,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}It's a blazing journey, and when we make it...
+Dialogue: 0,0:23:15.83,0:23:17.13,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Hop, Step, Get it!
+Dialogue: 0,0:23:17.13,0:23:18.04,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Come On, Rise Up!!
+Dialogue: 0,0:23:20.21,0:23:23.34,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&\fad(350,0)\1a&HFF&\t(305,350,\1a&H00&)}Come On, Rise Up!! (ah ah ah ah)
+Dialogue: 0,0:23:23.34,0:23:25.30,ED,,0,0,0,,{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Make a change, you can take it, you can do it, yeah!
+Dialogue: 0,0:23:25.30,0:23:32.77,ED,,0,0,0,,{=1071}{\q2\bord9\shad0\blur8\c&H5ED4E6&\3c&H5ED4E6&}Rise Up, Pikkaan
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:45.49,0:21:54.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord5\blur8\3a&H20&\c&H1D1E1E&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
 Dialogue: 1,0:21:45.49,0:21:54.50,Main,,0,0,0,,{\fnFOT-NewRodin Pro UB\b0\fs50\pos(1537.6,145.93)\bord3\blur0.6\c&H1FE9E7&\3c&H1D1E1E&}Professor Friede's Pokémon Seminar
