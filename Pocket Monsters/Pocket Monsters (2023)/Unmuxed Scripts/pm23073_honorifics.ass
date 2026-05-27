@@ -858,14 +858,86 @@ Dialogue: 1,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\an7\fscx70\fscy70\b
 Dialogue: 0,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Basagiri\N{\fscx50\fscy50}Battle-Axe Pokémon\NType: Bug/Rock
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N1.8m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N89.0kg
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What shows Basagiri's strength?
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What shows Basagiri's strength?
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Its axes
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Its axes
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Its eyes
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Its eyes
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Its wings
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Its wings
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1013.17)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,947.05)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,882.81)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,824.55)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,774.31)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,732.99)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,700.48)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,677.43)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,663.69)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,659)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,1013.17)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,947.05)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,882.81)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,824.55)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,774.31)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,732.99)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,700.48)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}What shows Basagiri's strength?
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What shows Basagiri's strength?
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Its axes
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Its axes
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Its axes
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Its axes
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Its axes
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Its axes
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Its axes
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Its axes
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Its axes
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Its axes
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Its axes
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1001.55)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,951.31)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,909.99)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,877.48)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Its eyes
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Its eyes
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Its eyes
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Its eyes
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Its eyes
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Its eyes
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Its eyes
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Its eyes
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Its eyes
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Its eyes
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Its eyes
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Its wings
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Its wings
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Its wings
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Its wings
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Its wings
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Its wings
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Its wings
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Its wings
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Its wings
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Its wings
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Its wings
 Dialogue: 0,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What shows Basagiri's strength?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&H918FED&\shad2}A: Its axes
 Dialogue: 1,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What shows Basagiri's strength?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H1B1CE7&}A: Its axes
 Dialogue: 0,0:23:46.49,0:23:52.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What shows Basagiri's strength?\N\N{\alpha&H00&\4c&H918FED&\shad2}A: Its axes
@@ -922,50 +994,140 @@ Dialogue: 2,0:03:06.62,0:03:12.30,Episode titles,,0,0,0,,{\clip(12,151,1904,152)
 Dialogue: 2,0:03:06.62,0:03:12.30,Episode titles,,0,0,0,,{\clip(12,152,1904,153)\pos(960,180)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}The Lone Warrior - Basagiri
 Dialogue: 2,0:03:06.62,0:03:12.30,Episode titles,,0,0,0,,{=1082}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,180)\c&H341DFF&\clip(14.88,153,1904.19,530.25)}The Lone Warrior - Basagiri
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1041}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
-Dialogue: 1,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=1042}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Dialogue: 0,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{=1041}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{=1042}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{=1087}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{=1088}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=1089}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=1090}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=1078}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}The Three Explorers
 Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}The Three Explorers
@@ -1036,3 +1198,7 @@ Data: 1083,_aegi_folddata,e0;1;150
 Data: 1084,_aegi_folddata,e1;1;150
 Data: 1085,_aegi_folddata,e0;1;151
 Data: 1086,_aegi_folddata,e1;1;151
+Data: 1087,_aegi_folddata,e0;1;152
+Data: 1088,_aegi_folddata,e1;1;152
+Data: 1089,_aegi_folddata,e0;1;153
+Data: 1090,_aegi_folddata,e1;1;153

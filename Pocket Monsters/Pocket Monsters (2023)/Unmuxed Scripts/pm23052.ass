@@ -86,17 +86,17 @@ Dialogue: 10,0:06:29.83,0:06:33.37,Main,Roy,0,0,0,,What a relief! \N I was worri
 Dialogue: 10,0:06:33.37,0:06:35.67,Main,Roy,0,0,0,,What were you doing \N all the way out...?
 Dialogue: 10,0:06:36.71,0:06:38.79,Main,Roy,0,0,0,,Hey, were you training?
 Dialogue: 10,0:06:40.88,0:06:42.34,Main,Roy,0,0,0,,Kaiden?
-Dialogue: 10,0:06:44.93,0:06:47.60,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:06:47.60,0:06:50.64,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:06:50.64,0:06:54.60,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:06:44.93,0:06:47.60,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:06:47.60,0:06:50.64,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:06:50.64,0:06:54.60,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:06:54.60,0:06:57.10,Main,Roy,0,0,0,,Kaiden, sing along with us!
 Dialogue: 10,0:06:57.86,0:07:02.74,Main,Roy,0,0,0,,Try to forget your worries \N and have some fun singing!
-Dialogue: 10,0:07:02.74,0:07:05.86,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:07:05.86,0:07:08.45,Main,Roy,0,0,0,,Get! Back! On your feet!
-Dialogue: 10,0:07:08.45,0:07:11.37,Main,Roy,0,0,0,,Don’t give up, Kaiden! Go for it!
-Dialogue: 10,0:07:11.37,0:07:14.37,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:07:14.37,0:07:17.42,Main,Roy,0,0,0,,Don’t give up, Kaiden! Go for it!
-Dialogue: 10,0:07:17.42,0:07:21.21,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:07:02.74,0:07:05.86,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:07:05.86,0:07:08.45,Main,Roy,0,0,0,,Get! Back! On your feet!{Roysong}
+Dialogue: 10,0:07:08.45,0:07:11.37,Main,Roy,0,0,0,,Don’t give up, Kaiden! Go for it!{Roysong}
+Dialogue: 10,0:07:11.37,0:07:14.37,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:07:14.37,0:07:17.42,Main,Roy,0,0,0,,Don’t give up, Kaiden! Go for it!{Roysong}
+Dialogue: 10,0:07:17.42,0:07:21.21,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:07:29.64,0:07:32.22,Main,Roy,0,0,0,,Wh-What was that?
 Dialogue: 10,0:07:37.65,0:07:40.23,Main,Roy,0,0,0,,I-I am {\i1}n-not{\i0} scared...!
 Dialogue: 10,0:07:40.23,0:07:42.40,Main,Roy,0,0,0,,Don’t give up, everyone...!
@@ -3493,14 +3493,86 @@ Dialogue: 1,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\an7\fscx70\fscy70\b
 Dialogue: 0,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Taikaiden\N{\fscx50\fscy50}Frigatebird Pokémon\NType: Electric/Flying
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,645.07)}Height\N1.4m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,645.07)}Weight\N38.6kg
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}Where does it store its electricity?
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}Where does it store its electricity?
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Its cheeks
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Its cheeks
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Its beak
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Its beak
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Its throat
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Its throat
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1013.17)}Where does it store its electricity?
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,947.05)}Where does it store its electricity?
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,882.81)}Where does it store its electricity?
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,824.55)}Where does it store its electricity?
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,774.31)}Where does it store its electricity?
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,732.99)}Where does it store its electricity?
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,700.48)}Where does it store its electricity?
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,677.43)}Where does it store its electricity?
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,663.69)}Where does it store its electricity?
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,659)}Where does it store its electricity?
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,1013.17)}Where does it store its electricity?
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,947.05)}Where does it store its electricity?
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,882.81)}Where does it store its electricity?
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,824.55)}Where does it store its electricity?
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,774.31)}Where does it store its electricity?
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,732.99)}Where does it store its electricity?
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,700.48)}Where does it store its electricity?
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}Where does it store its electricity?
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}Where does it store its electricity?
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}Where does it store its electricity?
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Its cheeks
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Its cheeks
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Its cheeks
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Its cheeks
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Its cheeks
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Its cheeks
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Its cheeks
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Its cheeks
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Its cheeks
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Its cheeks
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Its cheeks
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1001.55)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,951.31)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,909.99)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,877.48)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Its beak
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Its beak
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Its beak
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Its beak
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Its beak
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Its beak
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Its beak
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Its beak
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Its beak
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Its beak
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Its beak
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Its throat
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Its throat
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Its throat
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Its throat
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Its throat
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Its throat
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Its throat
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Its throat
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Its throat
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Its throat
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Its throat
 Dialogue: 0,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Where does it store its electricity?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HF1C08C&\shad2}C: Its throat
 Dialogue: 1,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}Where does it store its electricity?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&HEF8610&}C: Its throat
 Dialogue: 0,0:23:46.49,0:23:52.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Where does it store its electricity?\N\N{\alpha&H00&\4c&HF1C08C&\shad2}C: Its throat

@@ -332,8 +332,8 @@ Dialogue: 10,0:24:09.09,0:24:11.35,Main,Dot,0,0,0,,Next, it’s finally time for
 Dialogue: 10,0:24:11.35,0:24:14.31,Main,Liko,0,0,0,,To get to the Fridge Town Gym, \N we’ll have to pass through Mt. Nappé.
 Dialogue: 10,0:24:14.31,0:24:18.35,Main,Roy,0,0,0,,{\q2}It snows on Mt. Nappé, right?! \N You gotta be looking forward to that, right, Hogator?
 Dialogue: 10,0:24:18.90,0:24:21.65,Main,Liko,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
-Dialogue: 10,0:24:21.65,0:24:24.90,Main,Liko,0,0,0,,Our First Snow! Ho! Hoga!!
-Dialogue: 10,0:24:24.90,0:24:26.90,Main,Roy,0,0,0,,Ho! Hoga!
+Dialogue: 10,0:24:21.65,0:24:24.90,Main,Liko,0,0,0,,Our First Snow! Ho-Ho-Ga!!{Roysong}
+Dialogue: 10,0:24:24.90,0:24:26.90,Main,Roy,0,0,0,,Ho-ho-ga!{Roysong}
 Dialogue: 10,0:24:26.90,0:24:30.41,Main,Them,0,0,0,,{\i1}Don’t miss it!{\i0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 12,0:01:42.75,0:01:46.13,OP,,42,0,0,,{=1049}{\blur0.6\fad(350,0)\clip(15.35,46.51,1910.52,103.97)\c&H60ADF8&}Together, we challenge, chasing the future
@@ -3552,14 +3552,86 @@ Dialogue: 1,0:21:59.76,0:22:07.43,Main,,0,0,0,,{\bord0\shad0\an7\fscx70\fscy70\b
 Dialogue: 0,0:21:59.76,0:22:07.43,Main,,0,0,0,,{\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Welcamo\N{\fscx50\fscy50}Lesson Pokémon\NType: Water
 Dialogue: 0,0:21:55.42,0:21:58.76,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N1.2m
 Dialogue: 0,0:21:59.01,0:22:02.51,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N21.5kg
-Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What do they compete on?
-Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What do they compete on?
-Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Hairstyles
-Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Hairstyles
-Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Footwork
-Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Footwork
-Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Swimming
-Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Swimming
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1013.17)}What do they compete on?
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,947.05)}What do they compete on?
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,882.81)}What do they compete on?
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,824.55)}What do they compete on?
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,774.31)}What do they compete on?
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,732.99)}What do they compete on?
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,700.48)}What do they compete on?
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,677.43)}What do they compete on?
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,663.69)}What do they compete on?
+Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,659)}What do they compete on?
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,1013.17)}What do they compete on?
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,947.05)}What do they compete on?
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,882.81)}What do they compete on?
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,824.55)}What do they compete on?
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,774.31)}What do they compete on?
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,732.99)}What do they compete on?
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,700.48)}What do they compete on?
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}What do they compete on?
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}What do they compete on?
+Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What do they compete on?
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Hairstyles
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Hairstyles
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Hairstyles
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Hairstyles
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Hairstyles
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Hairstyles
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Hairstyles
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Hairstyles
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Hairstyles
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Hairstyles
+Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Hairstyles
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1001.55)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,951.31)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,909.99)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,877.48)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Footwork
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Footwork
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Footwork
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Footwork
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Footwork
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Footwork
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Footwork
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Footwork
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Footwork
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Footwork
+Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Footwork
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Swimming
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Swimming
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Swimming
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Swimming
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Swimming
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Swimming
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Swimming
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Swimming
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Swimming
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Swimming
+Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Swimming
 Dialogue: 0,0:23:40.44,0:23:46.45,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What do they compete on?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HA1DCA3&\shad2}B: Footwork
 Dialogue: 1,0:23:40.44,0:23:46.45,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What do they compete on?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H46C147&}B: Footwork
 Dialogue: 0,0:23:46.45,0:23:52.45,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What do they compete on?\N\N{\alpha&H00&\4c&HA1DCA3&\shad2}B: Footwork
@@ -3802,56 +3874,56 @@ Dialogue: 2,0:24:18.23,0:24:26.90,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:18.23,0:24:26.90,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:18.23,0:24:26.90,Episode titles,,0,0,0,,{=1074}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,390)\c&HFFFFFF&\4c&HFFFFFF&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 1,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\blur0.6\pos(960,390)\c&HFFFFFF&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,320.82,1904.19,363.58)}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,320.82,1904.19,363.58)\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,320.82,1904.19,363.58)\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,320.82,1904.19,363.58)}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,320,1904,321)\pos(960,390)\bord0\shad0\blur0.6\c&HFAFE1F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,321,1904,322)\pos(960,390)\bord0\shad0\blur0.6\c&HFAF81F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,322,1904,323)\pos(960,390)\bord0\shad0\blur0.6\c&HFAF31F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,323,1904,324)\pos(960,390)\bord0\shad0\blur0.6\c&HFBED1F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,324,1904,325)\pos(960,390)\bord0\shad0\blur0.6\c&HFBE81F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,325,1904,326)\pos(960,390)\bord0\shad0\blur0.6\c&HFBE220&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,326,1904,327)\pos(960,390)\bord0\shad0\blur0.6\c&HFCDD20&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,327,1904,328)\pos(960,390)\bord0\shad0\blur0.6\c&HFCD720&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,328,1904,329)\pos(960,390)\bord0\shad0\blur0.6\c&HFCD220&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,329,1904,330)\pos(960,390)\bord0\shad0\blur0.6\c&HFDCC20&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,390)\bord0\shad0\blur0.6\c&HFDC721&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,390)\bord0\shad0\blur0.6\c&HFDC121&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,390)\bord0\shad0\blur0.6\c&HFEBC21&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,390)\bord0\shad0\blur0.6\c&HFEB621&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,390)\bord0\shad0\blur0.6\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,390)\bord0\shad0\blur0.6\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,390)\bord0\shad0\blur0.6\c&HF8AB29&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,390)\bord0\shad0\blur0.6\c&HF2A530&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,390)\bord0\shad0\blur0.6\c&HEBA038&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,390)\bord0\shad0\blur0.6\c&HE59A3F&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,390)\bord0\shad0\blur0.6\c&HDE9446&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,390)\bord0\shad0\blur0.6\c&HD88F4E&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,390)\bord0\shad0\blur0.6\c&HD18955&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,390)\bord0\shad0\blur0.6\c&HCB845D&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,390)\bord0\shad0\blur0.6\c&HC47E64&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,390)\bord0\shad0\blur0.6\c&HBE786B&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,390)\bord0\shad0\blur0.6\c&HB77373&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,390)\bord0\shad0\blur0.6\c&HB16D7A&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,390)\bord0\shad0\blur0.6\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,390)\bord0\shad0\blur0.6\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,390)\bord0\shad0\blur0.6\c&HA1628B&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,390)\bord0\shad0\blur0.6\c&H985C95&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,390)\bord0\shad0\blur0.6\c&H8F569E&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,390)\bord0\shad0\blur0.6\c&H8650A8&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,390)\bord0\shad0\blur0.6\c&H7D4BB2&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,390)\bord0\shad0\blur0.6\c&H7445BB&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,390)\bord0\shad0\blur0.6\c&H6A3FC5&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,390)\bord0\shad0\blur0.6\c&H6139CE&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,390)\bord0\shad0\blur0.6\c&H5834D8&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,390)\bord0\shad0\blur0.6\c&H4F2EE2&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,390)\bord0\shad0\blur0.6\c&H4628EB&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,390)\bord0\shad0\blur0.6\c&H3D22F5&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,390)\bord0\shad0\blur0.6\c&H341DFF&}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
-Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,390)\c&H341DFF&\clip(14.88,363,1904.19,740.25)}Our First Sno{\fsp5}w{\fsp}! H{\fsp5}o{\fsp}! Hog{\fsp5}a!!{\fsp}
+Dialogue: 0,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1039}{\bord5\shad3\blur6\pos(960,390)\c&HFFFFFF&\4c&HFFFFFF&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 1,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\blur0.6\pos(960,390)\c&HFFFFFF&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,320.82,1904.19,363.58)}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,320.82,1904.19,363.58)\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,320.82,1904.19,363.58)\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Comment: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,320.82,1904.19,363.58)}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,320,1904,321)\pos(960,390)\bord0\shad0\blur0.6\c&HFAFE1F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,321,1904,322)\pos(960,390)\bord0\shad0\blur0.6\c&HFAF81F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,322,1904,323)\pos(960,390)\bord0\shad0\blur0.6\c&HFAF31F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,323,1904,324)\pos(960,390)\bord0\shad0\blur0.6\c&HFBED1F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,324,1904,325)\pos(960,390)\bord0\shad0\blur0.6\c&HFBE81F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,325,1904,326)\pos(960,390)\bord0\shad0\blur0.6\c&HFBE220&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,326,1904,327)\pos(960,390)\bord0\shad0\blur0.6\c&HFCDD20&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,327,1904,328)\pos(960,390)\bord0\shad0\blur0.6\c&HFCD720&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,328,1904,329)\pos(960,390)\bord0\shad0\blur0.6\c&HFCD220&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,329,1904,330)\pos(960,390)\bord0\shad0\blur0.6\c&HFDCC20&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,390)\bord0\shad0\blur0.6\c&HFDC721&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,390)\bord0\shad0\blur0.6\c&HFDC121&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,390)\bord0\shad0\blur0.6\c&HFEBC21&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,390)\bord0\shad0\blur0.6\c&HFEB621&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,390)\bord0\shad0\blur0.6\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,390)\bord0\shad0\blur0.6\c&HFFB122&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,390)\bord0\shad0\blur0.6\c&HF8AB29&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,390)\bord0\shad0\blur0.6\c&HF2A530&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,390)\bord0\shad0\blur0.6\c&HEBA038&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,390)\bord0\shad0\blur0.6\c&HE59A3F&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,390)\bord0\shad0\blur0.6\c&HDE9446&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,390)\bord0\shad0\blur0.6\c&HD88F4E&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,390)\bord0\shad0\blur0.6\c&HD18955&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,390)\bord0\shad0\blur0.6\c&HCB845D&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,390)\bord0\shad0\blur0.6\c&HC47E64&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,390)\bord0\shad0\blur0.6\c&HBE786B&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,390)\bord0\shad0\blur0.6\c&HB77373&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,390)\bord0\shad0\blur0.6\c&HB16D7A&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,390)\bord0\shad0\blur0.6\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,390)\bord0\shad0\blur0.6\c&HAB6882&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,390)\bord0\shad0\blur0.6\c&HA1628B&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,390)\bord0\shad0\blur0.6\c&H985C95&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,390)\bord0\shad0\blur0.6\c&H8F569E&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,390)\bord0\shad0\blur0.6\c&H8650A8&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,390)\bord0\shad0\blur0.6\c&H7D4BB2&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,390)\bord0\shad0\blur0.6\c&H7445BB&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,390)\bord0\shad0\blur0.6\c&H6A3FC5&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,390)\bord0\shad0\blur0.6\c&H6139CE&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,390)\bord0\shad0\blur0.6\c&H5834D8&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,390)\bord0\shad0\blur0.6\c&H4F2EE2&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,390)\bord0\shad0\blur0.6\c&H4628EB&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,390)\bord0\shad0\blur0.6\c&H3D22F5&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,390)\bord0\shad0\blur0.6\c&H341DFF&}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
+Dialogue: 2,0:24:26.90,0:24:30.41,Episode titles,,0,0,0,,{=1040}{\bord0\shad0\blur0.6\pos(960,390)\c&H341DFF&\clip(14.88,363,1904.19,740.25)}Our First Sno{\fsp5}w{\fsp}! Ho-Ho-G{\fsp5}a!!{\fsp}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]

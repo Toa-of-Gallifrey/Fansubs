@@ -211,8 +211,8 @@ Dialogue: 10,0:12:55.00,0:12:56.51,Main,Roy,0,0,0,,Achigator!
 Dialogue: 10,0:12:56.51,0:12:59.88,Main,Mayonnaise,0,0,0,,Did Yamirami Mega Evolving \N reinvigorate him?
 Dialogue: 10,0:13:04.76,0:13:07.02,Main,Roy,0,0,0,,You wanna beat Lucario, huh?
 Dialogue: 10,0:13:07.85,0:13:10.44,Main,Roy,0,0,0,,All right! \N Time to sing, Achigator!
-Dialogue: 10,0:13:10.44,0:13:13.56,Main,Roy,0,0,0,,A! Ga! A-ga-ga!
-Dialogue: 10,0:13:13.56,0:13:16.53,Main,Roy,0,0,0,,A! Ga! A-ga-ga!
+Dialogue: 10,0:13:10.44,0:13:13.56,Main,Roy,0,0,0,,A! Ga! A-ga-ga!{Roysong}
+Dialogue: 10,0:13:13.56,0:13:16.53,Main,Roy,0,0,0,,A! Ga! A-ga-ga!{Roysong}
 Dialogue: 10,0:13:16.53,0:13:19.24,Main,Roy,0,0,0,,Get! Back! On your feet!
 Dialogue: 10,0:13:19.24,0:13:20.65,Main,Ult,0,0,0,,Th-They’re singing?!
 Dialogue: 10,0:13:19.61,0:13:22.66,Main,Roy,0,0,0,,{\an8}Don’t give up! We’ve just gotta!{new part, lit 'we'} Go for it!{Don't be outdone(give in), us, keep at it/go for it/persevere)}

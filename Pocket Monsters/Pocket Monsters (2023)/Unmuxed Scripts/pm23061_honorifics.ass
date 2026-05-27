@@ -31,9 +31,9 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.77,0:00:05.78,Main,Liko,0,0,0,,Our Terastal Course \N implementation tests are underway.
 Dialogue: 10,0:00:07.15,0:00:10.49,Main,Liko,0,0,0,,After Dot, it’s Roy’s turn next.
 Dialogue: 10,0:00:10.49,0:00:12.91,Main,Liko,0,0,0,,Our next destination is Fridge Town!
-Dialogue: 10,0:00:20.50,0:00:23.63,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:00:23.63,0:00:26.63,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:00:26.63,0:00:30.59,Main,Roy,0,0,0,,Don’t give up, don’t give up! Go for it!
+Dialogue: 10,0:00:20.50,0:00:23.63,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!{Roysong}
+Dialogue: 10,0:00:23.63,0:00:26.63,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!{Roysong}
+Dialogue: 10,0:00:26.63,0:00:30.59,Main,Roy,0,0,0,,Don’t give up, don’t give up! Go for it!{Roysong}
 Dialogue: 10,0:00:31.09,0:00:33.97,Main,Liko,0,0,0,,Roy and Hogator \N sure are in a good mood!
 Dialogue: 10,0:00:33.97,0:00:37.73,Main,Dot,0,0,0,,I can’t believe they can \N sing like that when it’s this cold.
 Dialogue: 10,0:00:37.73,0:00:41.98,Main,Roy,0,0,0,,We were basically {\i1}born{\i0} \N to partner up together, huh?
@@ -3639,14 +3639,86 @@ Dialogue: 1,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\bord0\shad0\an7\fscx70\fscy70\b
 Dialogue: 0,0:21:59.80,0:22:07.47,Main,,0,0,0,,{\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Hakadog\N{\fscx50\fscy50}Ghost Dog Pokémon\NType: Ghost
 Dialogue: 0,0:21:55.46,0:21:58.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Height\N2.0m
 Dialogue: 0,0:21:59.05,0:22:02.55,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,595.07)}Weight\N15.0kg
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}Where on its body does it hate being touched?
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}Where on its body does it hate being touched?
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Its head
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Its head
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Its tail
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Its tail
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Its back
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Its back
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1013.17)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,947.05)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,882.81)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,824.55)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,774.31)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,732.99)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,700.48)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,677.43)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,663.69)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,659)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,1013.17)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,947.05)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,882.81)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,824.55)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,774.31)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,732.99)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,700.48)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}Where on its body does it hate being touched?
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}Where on its body does it hate being touched?
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Its head
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Its head
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Its head
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Its head
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Its head
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Its head
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Its head
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Its head
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Its head
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Its head
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Its head
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1001.55)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,951.31)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,909.99)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,877.48)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Its tail
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Its tail
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Its tail
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Its tail
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Its tail
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Its tail
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Its tail
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Its tail
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Its tail
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Its tail
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Its tail
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Its back
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Its back
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Its back
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Its back
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Its back
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Its back
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Its back
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Its back
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Its back
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Its back
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Its back
 Dialogue: 0,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Where on its body \N does it hate being touched?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&H918FED&\shad2}A: Its head
 Dialogue: 1,0:23:40.48,0:23:46.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}Where on its body \N does it hate being touched?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H1B1CE7&}A: Its head
 Dialogue: 0,0:23:46.49,0:23:52.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Where on its body \N does it hate being touched?\N\N{\alpha&H00&\4c&H918FED&\shad2}A: Its head

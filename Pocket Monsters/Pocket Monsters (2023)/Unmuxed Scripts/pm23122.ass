@@ -231,7 +231,7 @@ Dialogue: 10,0:15:44.47,0:15:45.47,Main,Roy,0,0,0,,Caught you!
 Dialogue: 10,0:15:45.47,0:15:46.47,Main,Friede,0,0,0,,What?!
 Dialogue: 10,0:15:54.47,0:15:55.73,Main,Roy,0,0,0,,Way to dig in your heels!
 Dialogue: 10,0:16:08.45,0:16:11.74,Main,Roy,0,0,0,,You’re having fun, aren’t you? \N I’m having loads of fun, too!
-Dialogue: 10,0:16:12.53,0:16:15.00,Main,Roy,0,0,0,,Bo! Bo! Bo-bo-bo!
+Dialogue: 10,0:16:12.53,0:16:15.00,Main,Roy,0,0,0,,Bo! Bo! Bo-bo-bo!{Roysong}
 Dialogue: 10,0:16:19.54,0:16:20.67,Main,Liko,0,0,0,,What’s that?
 Dialogue: 10,0:16:20.67,0:16:21.79,Main,Dot,0,0,0,,A mic?!
 Dialogue: 10,0:16:29.26,0:16:31.39,Main,Friede,0,0,0,,He learned Flare Song?!
