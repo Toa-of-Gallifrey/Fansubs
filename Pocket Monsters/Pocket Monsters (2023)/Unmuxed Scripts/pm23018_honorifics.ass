@@ -1082,51 +1082,141 @@ Dialogue: 2,0:01:04.25,0:01:12.89,Episode titles,,0,0,0,,{\clip(12,360,1904,361)
 Dialogue: 2,0:01:04.25,0:01:12.89,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,390)\bord0\shad0\fad(480,0)\blur0.6\c&H3D22F5&}Flying Pikachu, Fly Up Into Infinit{\fsp5}y!{\fsp}
 Dialogue: 2,0:01:04.25,0:01:12.89,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,390)\bord0\shad0\fad(480,0)\blur0.6\c&H341DFF&}Flying Pikachu, Fly Up Into Infinit{\fsp5}y!{\fsp}
 Dialogue: 2,0:01:04.25,0:01:12.89,Episode titles,,0,0,0,,{=17}{\bord0\shad0\fad(480,0)\blur0.6\pos(960,390)\c&H341DFF&\clip(14.88,363,1904.19,740.25)}Flying Pikachu, Fly Up Into Infinit{\fsp5}y!{\fsp}
-Comment: 0,0:01:04.25,0:01:12.89,Main,,0,0,0,,
-Dialogue: 0,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=18}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
-Dialogue: 1,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Comment: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
-Dialogue: 2,0:24:00.50,0:24:26.95,Episode titles,,0,0,0,,{=19}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{=18}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:00.50,0:24:09.09,Episode titles,,0,0,0,,{=19}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{=999}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:09.09,0:24:18.27,Episode titles,,0,0,0,,{=1000}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=1001}{\i0\fscx75\fscy75\fsp3\bord5\shad3\blur6\c&HFFFFFF&\4c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Dialogue: 1,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\blur0.6\c&HFFFFFF&\pos(249.66,240.61)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Comment: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(4.63,189.23,554.35,225.88)}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,189,554,190)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAFE1F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,190,554,191)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF71F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,191,554,192)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFAF11F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,192,554,193)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBEA1F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,193,554,194)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFBE420&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,194,554,195)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCDD20&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,195,554,196)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD720&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,196,554,197)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFCD120&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,197,554,198)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDCA21&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,198,554,199)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFDC421&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,199,554,200)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEBD21&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,200,554,201)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFEB721&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,201,554,202)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,202,554,203)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HFFB122&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,203,554,204)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HF7AA2A&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,204,554,205)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HEFA333&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,205,554,206)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE89D3C&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,206,554,207)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HE09644&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,207,554,208)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD88F4D&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,208,554,209)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HD18956&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,209,554,210)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC9825F&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,210,554,211)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HC17B67&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,211,554,212)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HBA7570&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,212,554,213)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HB26E79&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,213,554,214)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,214,554,215)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HAB6882&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,215,554,216)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&HA0618D&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,216,554,217)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H955A98&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,217,554,218)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H8A53A4&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,218,554,219)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7F4CAF&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,219,554,220)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H7445BA&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,220,554,221)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H6A3FC6&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,221,554,222)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5F38D1&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,222,554,223)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H5431DC&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,223,554,224)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H492AE8&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H3E23F3&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
+Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=1002}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=44}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}The Truth About Mawhip
 Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}The Truth About Mawhip
@@ -1265,3 +1355,7 @@ Data: 995,_aegi_folddata,e1;1;120
 Data: 996,_aegi_folddata,e0;1;170
 Data: 997,_aegi_folddata,e1;1;170
 Data: 998,_aegi_folddata,e1;0;171
+Data: 999,_aegi_folddata,e0;1;172
+Data: 1000,_aegi_folddata,e1;1;172
+Data: 1001,_aegi_folddata,e0;1;173
+Data: 1002,_aegi_folddata,e1;1;173

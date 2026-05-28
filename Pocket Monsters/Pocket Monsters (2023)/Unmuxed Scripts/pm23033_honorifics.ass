@@ -230,9 +230,9 @@ Dialogue: 10,0:18:15.49,0:18:17.74,Main,Murdock,0,0,0,,Time to go all in, you tw
 Dialogue: 10,0:18:18.12,0:18:21.37,Main,Liko,0,0,0,,Roy! Let’s do this {\i1}our{\i0} way!
 Dialogue: 10,0:18:21.37,0:18:23.33,Main,Roy,0,0,0,,Our way...
 Dialogue: 10,0:18:23.92,0:18:25.17,Main,Roy,0,0,0,,I gotcha!
-Dialogue: 10,0:18:25.17,0:18:27.88,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:18:27.88,0:18:30.88,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
-Dialogue: 10,0:18:30.88,0:18:33.88,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:18:25.17,0:18:27.88,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:18:27.88,0:18:30.88,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:18:30.88,0:18:33.88,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:18:33.88,0:18:36.60,Main,Roy,0,0,0,,We won’t give in! Go for it!{Uh I think he tweaked his usual song to say "bokutachi" rather than "hogator"...}
 Dialogue: 10,0:18:36.60,0:18:38.39,Main,Diana,0,0,0,,What’s up with you two?
 Dialogue: 10,0:18:38.39,0:18:39.97,Main,Liko,0,0,0,,Nyahoja! Leafage!
