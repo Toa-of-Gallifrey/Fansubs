@@ -28,7 +28,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 10,0:00:01.40,0:00:06.99,Main,Liko,0,0,0,,Our ship, the Brave Asagi, made an emergency \N landing on a certain island in Kanto.
+Dialogue: 10,0:00:01.40,0:00:06.99,Main,Liko,0,0,0,,{\q2}Our ship, the Brave Asagi, \N made an emergency landing on a certain island in Kanto.
 Dialogue: 10,0:00:07.36,0:00:09.20,Main,Liko,0,0,0,,Hogator? Huh?{004}
 Dialogue: 10,0:00:09.20,0:00:14.58,Main,Liko,0,0,0,,Then, Hogator ate the forest Pokémon’s food, \N which led to a lot of trouble!{Then, Hogator ate the food of the forest Pokémon, causing big trouble!}
 Dialogue: 10,0:00:16.66,0:00:18.71,Main,Roy,0,0,0,,Quick, now’s our chance!{004}
@@ -91,10 +91,10 @@ Dialogue: 10,0:04:44.51,0:04:45.52,Main,Liko,0,0,0,,No luck.
 Dialogue: 10,0:04:45.52,0:04:47.68,Main,Liko,0,0,0,,Hogator’s a glutton,
 Dialogue: 10,0:04:47.68,0:04:49.94,Main,Liko,0,0,0,,so I thought he’d be here...
 Dialogue: 10,0:04:49.94,0:04:51.81,Main,Roy,0,0,0,,Maybe he’s hiding somewhere!
-Dialogue: 10,0:04:53.48,0:04:56.86,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:04:53.48,0:04:56.86,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:04:56.86,0:04:58.65,Main,Liko,0,0,0,,Is that Hogator’s...?
 Dialogue: 10,0:05:00.53,0:05:03.24,Main,Roy,0,0,0,,I thought maybe he’d join in if he was here.
-Dialogue: 10,0:05:03.24,0:05:07.25,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:05:03.24,0:05:07.25,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:05:14.09,0:05:15.29,Main,Liko,0,0,0,,That just leaves here.
 Dialogue: 10,0:05:15.29,0:05:17.34,Main,Roy,0,0,0,,Hogator! \N I’ve been dying to see you!
 Dialogue: 10,0:05:18.97,0:05:22.84,Main,Roy,0,0,0,,Yo... Yorunozuku?!
@@ -107,11 +107,11 @@ Dialogue: 10,0:05:48.95,0:05:52.21,Main,Liko,0,0,0,,I didn’t know \N what Nyah
 Dialogue: 10,0:05:54.38,0:05:59.13,Main,Liko,0,0,0,,Then I realized we’re \N two of a kind in that way.
 Dialogue: 10,0:05:59.63,0:06:05.22,Main,Liko,0,0,0,,And once I said I wanted her \N to learn all about me, we just kinda...
 Dialogue: 10,0:06:05.64,0:06:08.76,Main,Roy,0,0,0,,I get it... \N So that’s how it works.
-Dialogue: 10,0:06:09.31,0:06:12.27,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:06:09.31,0:06:12.27,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:06:10.27,0:06:12.27,Main,Liko,0,0,0,,{\an8}You’re doing that now?
 Dialogue: 10,0:06:13.48,0:06:15.56,Main,Liko,0,0,0,,{\an8}You’re ruining the mood.
-Dialogue: 10,0:06:12.27,0:06:15.56,Main,Roy,0,0,0,,Hoga! Hoga! Hoga-ga!
-Dialogue: 10,0:06:15.56,0:06:21.82,Main,Roy,0,0,0,,{\t(2860,6280,\c&H000000&\3c&H000000&)}Ho! Ho! Hoga-ga! Hoga! Hoga! Hoga-ga!
+Dialogue: 10,0:06:12.27,0:06:15.56,Main,Roy,0,0,0,,Ho-ga! Ho-ga! Ho-ga-ga!{Roysong}
+Dialogue: 10,0:06:15.56,0:06:21.82,Main,Roy,0,0,0,,{\t(2860,6280,\c&H000000&\3c&H000000&)}Ho! Ho! Ho-ga-ga! Ho-ga! Ho-ga! Ho-ga-ga!{Roysong}
 Dialogue: 10,0:06:23.28,0:06:24.41,Main,Roy,0,0,0,,Morning, Liko!
 Dialogue: 10,0:06:24.41,0:06:26.16,Main,Liko,0,0,0,,Oh, good morning.
 Dialogue: 10,0:06:26.66,0:06:28.66,Main,Friede,0,0,0,,You sleep all right, Roy?
@@ -354,15 +354,17 @@ Dialogue: 10,0:20:03.93,0:20:07.52,Main,Liko,0,0,0,,Don’t worry! \N I know you
 Dialogue: 10,0:20:07.52,0:20:10.31,Main,Liko,0,0,0,,Tell Hogator how you feel!
 Dialogue: 10,0:20:10.31,0:20:11.94,Main,Roy,0,0,0,,How I feel...
 Dialogue: 10,0:20:12.44,0:20:14.61,Main,Roy,0,0,0,,Does she mean...?
-Dialogue: 10,0:20:15.40,0:20:24.79,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Ho! Ho! Ho! Hoga!
+Dialogue: 10,0:20:15.40,0:20:18.49,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:20:18.49,0:20:21.74,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
+Dialogue: 10,0:20:21.74,0:20:24.79,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga!{Roysong}
 Dialogue: 10,0:20:17.70,0:20:19.20,Main,Liko,0,0,0,,{\an8}Huh? You’re doing that now?
-Dialogue: 10,0:20:24.79,0:20:27.91,Main,Roy,0,0,0,,Hogator, Hogator, go for it!
-Dialogue: 10,0:20:27.91,0:20:34.17,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Don’t give up, Hogator! Go for it!
-Dialogue: 10,0:20:34.17,0:20:40.30,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Don’t give up, Hogator! Go for it!
-Dialogue: 10,0:20:40.30,0:20:43.56,Main,Roy,0,0,0,,Get! Back! On your feet!
-Dialogue: 10,0:20:43.56,0:20:46.60,Main,Roy,0,0,0,,Hogator, Hogator, go for it!
-Dialogue: 10,0:20:46.60,0:20:53.06,Main,Roy,0,0,0,,Don’t! You! Forget it! \N Hogator, Hogator, go for it!
-Dialogue: 10,0:20:53.06,0:20:58.24,Main,Roy,0,0,0,,Ho! Ho! Ho! Hoga! \N Don’t give up, Hogator!
+Dialogue: 10,0:20:24.79,0:20:27.91,Main,Roy,0,0,0,,Hogator, Hogator, go for it!{Roysong}
+Dialogue: 10,0:20:27.91,0:20:34.17,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga! \N Don’t give up, Hogator! Go for it!{Roysong}
+Dialogue: 10,0:20:34.17,0:20:40.30,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga! \N Don’t give up, Hogator! Go for it!{Roysong}
+Dialogue: 10,0:20:40.30,0:20:43.56,Main,Roy,0,0,0,,Get! Back! On your feet!{Roysong}
+Dialogue: 10,0:20:43.56,0:20:46.60,Main,Roy,0,0,0,,Hogator, Hogator, go for it!{Roysong}
+Dialogue: 10,0:20:46.60,0:20:53.06,Main,Roy,0,0,0,,Don’t! You! Forget it! \N Hogator, Hogator, go for it!{Roysong}
+Dialogue: 10,0:20:53.06,0:20:58.24,Main,Roy,0,0,0,,Ho! Ho! Ho-ho-ga! \N Don’t give up, Hogator!{Roysong}
 Dialogue: 10,0:20:58.24,0:20:59.32,Main,Roy,0,0,0,,Use Ember!
 Dialogue: 10,0:21:08.66,0:21:11.46,Main,Roy,0,0,0,,You did it, Hogator! You did it!
 Dialogue: 10,0:21:12.92,0:21:15.21,Main,Liko,0,0,0,,Understanding each other \N through song...?
@@ -3658,14 +3660,86 @@ Dialogue: 1,0:23:29.85,0:23:37.52,Main,,0,0,0,,{\bord0\shad0\an7\fscx70\fscy70\b
 Dialogue: 0,0:23:29.85,0:23:37.52,Main,,0,0,0,,{\an7\fscx70\fscy70\shad4\3c&HFFFFFF&\blur0.6\pos(185.67,500.9)\fnUDKakugo_LargePr6N-B-Str\b0\c&HFFFFFF&\4c&HB8B8B8&\alpha&H00&}Strike\N{\fscx50\fscy50}Mantis Pokémon\NType: Bug/Flying
 Dialogue: 0,0:23:25.51,0:23:28.80,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,445.07)}Height\N1.5m
 Dialogue: 0,0:23:29.05,0:23:32.56,Main,,0,0,0,,{\blur0.6\fnFOT-UDKakugo_Large Pr6N R\b0\bord0\fad(250,250)\c&H3B3B3B&\fscx60\fscy60\pos(1548,445.07)}Weight\N56.0kg
-Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,659)}What is Strike compared to?
-Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What is Strike compared to?
-Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(360.27,828)\4c&H918FED&\shad2}Thieves
-Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,828)}Thieves
-Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(960,828)\4c&HA1DCA3&\shad2}Pirates
-Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,828)}Pirates
-Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(205,250,\1a&H00&)\pos(1559.73,828)\4c&HF1C08C&\shad2}Ninjas
-Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fad(250,0)\fscx50\fscy50\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,828)}Ninjas
+Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1013.17)}What is Strike compared to?
+Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,947.05)}What is Strike compared to?
+Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,882.81)}What is Strike compared to?
+Dialogue: 0,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,824.55)}What is Strike compared to?
+Dialogue: 0,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,774.31)}What is Strike compared to?
+Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,732.99)}What is Strike compared to?
+Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,700.48)}What is Strike compared to?
+Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,677.43)}What is Strike compared to?
+Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,663.69)}What is Strike compared to?
+Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord4\3c&HFFFFFF&\c&HFFFFFF&\pos(960,659)}What is Strike compared to?
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,1013.17)}What is Strike compared to?
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,947.05)}What is Strike compared to?
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,882.81)}What is Strike compared to?
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,824.55)}What is Strike compared to?
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,774.31)}What is Strike compared to?
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,732.99)}What is Strike compared to?
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,700.48)}What is Strike compared to?
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}What is Strike compared to?
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}What is Strike compared to?
+Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What is Strike compared to?
+Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Thieves
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Thieves
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Thieves
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Thieves
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Thieves
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Thieves
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Thieves
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Thieves
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Thieves
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Thieves
+Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Thieves
+Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1001.55)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,951.31)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,909.99)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,877.48)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Pirates
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Pirates
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Pirates
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Pirates
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Pirates
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Pirates
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Pirates
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Pirates
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Pirates
+Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Pirates
+Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Ninjas
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Ninjas
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Ninjas
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Ninjas
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Ninjas
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Ninjas
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Ninjas
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Ninjas
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Ninjas
+Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Ninjas
 Dialogue: 0,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HF1C08C&\shad2}C: Ninjas
 Dialogue: 1,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&HEF8610&}C: Ninjas
 Dialogue: 0,0:23:47.53,0:23:54.54,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Strike compared to?\N\N{\alpha&H00&\4c&HF1C08C&\shad2}C: Ninjas
