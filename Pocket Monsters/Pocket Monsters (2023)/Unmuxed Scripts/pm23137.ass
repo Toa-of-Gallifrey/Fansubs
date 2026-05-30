@@ -20,7 +20,7 @@ Style: Main,Candara,83,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,
 Style: Insert,Candara,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,8,45,45,60,0
 Style: Episode titles,Waukegan LDO,80,&H00FAFE1F,&H00341DFF,&H00FFFFFF,&H00444445,-1,-1,0,0,100,100,0,0,1,4,3,2,45,45,45,0
 Style: OP,Kurokane-Std-EB-Mod,70,&H009365DF,&H00F3FFF4,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0.001,0,1,3,0,8,45,45,28,0
-Style: ED,FOT-UDMarugo_Large Pr6N H,85,&H00B8A3E7,&H00F3FFF4,&H004A3571,&H004D2048,0,0,0,0,100,100,0.001,0,1,5,0,8,45,45,22,0
+Style: ED,UDMarugo_LargePr6N-H-Str,85,&H00B8A3E7,&H00F3FFF4,&H004A3571,&H004D2048,0,0,0,0,100,100,0.001,0,1,5,0,8,45,45,22,0
 Style: Logo,PmLogo2023,100,&H00C98000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 Style: Logo Sub-title,FOT-RodinNTLG Pro UB,70,&H009EB01D,&H009EB01D,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,30,30,30,1
 
@@ -294,7 +294,7 @@ Dialogue: 10,0:24:20.86,0:24:24.53,Main,Liko,0,0,0,,And so, to be continued \N n
 Dialogue: 10,0:24:24.53,0:24:26.82,Main,Liko,0,0,0,,The Fake Rising Voltteccers Appear?!
 Dialogue: 10,0:24:26.82,0:24:30.53,Main,Ult,0,0,0,,Fakes, huh? \N If yer fixin’ to battle, I’ll take you on!{Intentional scenebleed for the start}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:01:30.45,0:01:33.57,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Ready, set, and... GO! READY! GO!
+Dialogue: 0,0:01:30.45,0:01:33.57,OP,,0,0,0,,{=62}{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Ready, set, and... GO! READY! GO!
 Dialogue: 0,0:01:33.57,0:01:36.28,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}We’re in top-notch mode
 Dialogue: 0,0:01:36.28,0:01:39.25,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}You’re not alone, you know?
 Dialogue: 0,0:01:39.25,0:01:43.25,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Put our palms together, raise them high, and let our lights unite
@@ -421,7 +421,7 @@ Dialogue: 3,0:02:48.44,0:02:51.61,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&H9
 Dialogue: 3,0:02:51.61,0:02:54.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&HFFD277&\clip(0,0,1920,66)}Pass the endlessly turning seasons,
 Dialogue: 3,0:02:51.61,0:02:54.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&H99B2FA&\clip(0,66,1920,1080)}Pass the endlessly turning seasons,
 Dialogue: 3,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&HFFD277&\clip(0,0,1920,66)\fad(0,520)}and venture into brand-new skies
-Dialogue: 3,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&H99B2FA&\clip(0,66,1920,1080)\fad(0,520)}and venture into brand-new skies
+Dialogue: 3,0:02:54.28,0:02:58.99,OP,,0,0,0,,{=63}{\q2\pos(960,28)\blur0.6\bord0\c&H99B2FA&\clip(0,66,1920,1080)\fad(0,520)}and venture into brand-new skies
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{=58}{\fad(858,0)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\clip(27,213.97,1911.9,344)\pos(970.68,346.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{\fad(858,0)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\clip(27,362,1904.17,937.48)\pos(970.68,346.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
@@ -643,7 +643,7 @@ Dialogue: 2,0:10:54.55,0:10:59.56,Logo,,0,0,0,,{=53}{\clip(27,801,1903,802)\pos(
 Dialogue: 0,0:10:54.55,0:10:59.56,Logo Sub-title,,0,0,0,,{\fscx68.75\fscy55\bord4\blur4\c&HFFFFFF&\3c&HFFFFFF&\pos(1461.55,1029.14)}Wonder Voyage
 Dialogue: 1,0:10:54.55,0:10:59.56,Logo Sub-title,,0,0,0,,{\fscx68.75\fscy55\bord0\blur0.6\c&H9BAF10&\pos(1461.55,1029.14)}Wonder Voyage
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:22:06.56,0:22:08.52,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}Oh! One toss makes a red-white-spinny-shaky
+Dialogue: 0,0:22:06.56,0:22:08.52,ED,,0,0,0,,{=60}{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 0,0:22:08.52,0:22:09.60,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}Cutesy Capsule
 Comment: 0,0:22:09.72,0:22:10.23,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}(Pick up!)
 Dialogue: 0,0:22:10.23,0:22:11.69,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}One click makes a rolly-wobbly-all-aflutter
@@ -892,7 +892,7 @@ Dialogue: 3,0:23:30.76,0:23:31.81,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&
 Comment: 3,0:23:31.93,0:23:32.43,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up!)
 Dialogue: 3,0:23:32.43,0:23:33.93,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}One click makes a rolly-wobbly-all-aflutter
 Dialogue: 3,0:23:33.93,0:23:35.23,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}onlooking Street
-Comment: 3,0:23:35.23,0:23:36.56,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up!)
+Comment: 3,0:23:35.23,0:23:36.56,ED,,0,0,0,,{=61}{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up!)
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:45.58,0:21:53.08,Main,,0,0,0,,{\blur0.3\fnFOT-Comet Std B\fscx80\fscy80\bord6\shad4\4a&H00&\pos(1430,190)\3c&H85504E&\c&HFFFFFF&\4c&H913C3A&}Mega-Study With Instructor Starmie
 Dialogue: 1,0:21:45.58,0:21:53.08,Main,,0,0,0,,{\blur0.3\fnFOT-Comet Std B\fscx80\fscy80\bord3.5\shad0\4a&H00&\pos(1430,190)\3c&HFFFFFF&\c&HFFFFFF&}Mega-Study With Instructor Starmie
@@ -1113,205 +1113,205 @@ Dialogue: 2,0:23:54.58,0:24:00.59,Main,,0,0,0,,{\blur0.3\fnFOT-Comet Std B\fscx8
 Dialogue: 2,0:23:54.58,0:24:00.59,Main,,0,0,0,,{=25}{\blur0.3\fnFOT-Comet Std B\fscx80\fscy80\bord0\4a&H00&\pos(1430,190)\c&HAB66B2&\4c&H913C3A&\shad6\clip(1017,190,1848,191)\4a&HFF&}Mega-Study {\c&H774AF2&}With Instructor Starmie
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:54.33,0:22:01.59,Main,,0,0,0,,{\an7\pos(0,0)\blur2\bord0\c&HFEFEFE&\p1}m 240.1 124.98 l 965.12 124.98 965.12 250.27 240.1 250.27
-Dialogue: 0,0:21:54.33,0:22:01.59,Main,,0,0,0,,{\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx150\fscy150\pos(545,247)}Hinbass
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,517)}Classification
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,600)}Type
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,705)}Height
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,785)}Weight
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,865)}Abilities
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx45\fscy45\pos(445.5,510)}Fish Pokémon
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\blur3\fnFOT-Cezanne ProN EB\b0\an8\shad4\4a&H40&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&HFF&\3a&HFF&\pos(486.5,622)}Water
-Dialogue: 1,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&HFF&\t(275,320,\1a&H00&)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC4594E&\fscx40\fscy40\clip(447,629,526,630)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC25C4F&\fscx40\fscy40\clip(447,630,526,632)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC45F51&\fscx40\fscy40\clip(447,632,526,634)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC66353&\fscx40\fscy40\clip(447,634,526,635)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC46552&\fscx40\fscy40\clip(447,635,526,636)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC46751&\fscx40\fscy40\clip(447,636,526,637)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC46A52&\fscx40\fscy40\clip(447,637,526,639)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC56D51&\fscx40\fscy40\clip(447,639,526,640)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC56F50&\fscx40\fscy40\clip(447,640,526,642)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC57251&\fscx40\fscy40\clip(447,642,526,643)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC67453&\fscx40\fscy40\clip(447,643,526,644)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC37751&\fscx40\fscy40\clip(447,644,526,646)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC37A51&\fscx40\fscy40\clip(447,646,526,648)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC57F52&\fscx40\fscy40\clip(447,648,526,649)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC2804F&\fscx40\fscy40\clip(447,649,526,650)\pos(486.5,622)}Water
-Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC58150&\fscx40\fscy40\clip(447,650,526,651)\pos(486.5,622)}Water
+Dialogue: 0,0:21:54.33,0:22:01.59,Main,,0,0,0,,{\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx150\fscy150\pos(545,247)}Hinbass
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,517)}Classification
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,600)}Type
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,705)}Height
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,785)}Weight
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,865)}Abilities
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx45\fscy45\pos(445.5,510)}Fish Pokémon
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\blur3\fnCezanneProN-EB-Str\b0\an8\shad4\alpha&HFF&\4a&H40&\ko0\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(-80,320,\4c&H000000&)\fscx40\fscy40\pos(486.5,622)}Water
+Dialogue: 1,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnCezanneProN-EB-Str\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC4594E&\fscx40\fscy40\clip(447,629,526,630)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC25C4F&\fscx40\fscy40\clip(447,630,526,632)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC45F51&\fscx40\fscy40\clip(447,632,526,634)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC66353&\fscx40\fscy40\clip(447,634,526,635)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC46552&\fscx40\fscy40\clip(447,635,526,636)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC46751&\fscx40\fscy40\clip(447,636,526,637)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC46A52&\fscx40\fscy40\clip(447,637,526,639)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC56D51&\fscx40\fscy40\clip(447,639,526,640)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC56F50&\fscx40\fscy40\clip(447,640,526,642)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC57251&\fscx40\fscy40\clip(447,642,526,643)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC67453&\fscx40\fscy40\clip(447,643,526,644)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC37751&\fscx40\fscy40\clip(447,644,526,646)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC37A51&\fscx40\fscy40\clip(447,646,526,648)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC57F52&\fscx40\fscy40\clip(447,648,526,649)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC2804F&\fscx40\fscy40\clip(447,649,526,650)\pos(486.5,622)}Water
+Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HC58150&\fscx40\fscy40\clip(447,650,526,651)\pos(486.5,622)}Water
 Dialogue: 0,0:21:54.33,0:21:58.21,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFEFEFE&\p1}m 431.26 800.48 l 631.33 802.18 b 644.39 837.49 723.84 897.18 750.43 908.08 l 702.91 953.72 432 950.61
 Dialogue: 0,0:21:58.21,0:21:58.26,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFFFEF7&\p1}m 431.26 800.48 l 631.33 802.18 b 644.39 837.49 723.84 897.18 750.43 908.08 l 702.91 953.72 432 950.61
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx70\fscy70\pos(441,872)}Swift Swim
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx70\fscy70\pos(441,940)}Thickheaded
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx70\fscy70\pos(441,872)}Swift Swim
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx70\fscy70\pos(441,940)}Thickheaded
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1104.63)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1075.58)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1046.76)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1018.11)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,989.8)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,961.84)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,934.55)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,908.08)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,882.99)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,859.92)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,840.48)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,826.78)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820.77)\fscx80\fscy80}Seas
-Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1104.63)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1075.58)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1046.76)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1018.11)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,989.8)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,961.84)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,934.55)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,908.08)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,882.99)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,859.92)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,840.48)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,826.78)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820.77)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1104.63)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1075.58)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1046.76)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1018.11)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,989.8)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,961.84)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,934.55)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,908.08)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,882.99)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,859.92)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,840.48)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,826.78)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820.77)\fscx80\fscy80}Lakes
-Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1104.63)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1075.58)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1046.76)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1018.11)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,989.8)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,961.84)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,934.55)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,908.08)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,882.99)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,859.92)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,840.48)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,826.78)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820.77)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx80\fscy80}Rivers
-Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1104.63)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1075.58)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1046.76)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1018.11)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,989.8)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,961.84)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,934.55)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,908.08)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,882.99)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,859.92)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,840.48)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,826.78)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820.77)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
-Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
-Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
-Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1104.63)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1075.58)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1046.76)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1018.11)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,989.8)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,961.84)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,934.55)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,908.08)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,882.99)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,859.92)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,840.48)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,826.78)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820.77)\fscx80\fscy80}Seas
+Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1104.63)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1075.58)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1046.76)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1018.11)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,989.8)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,961.84)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,934.55)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,908.08)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,882.99)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,859.92)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,840.48)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,826.78)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820.77)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1104.63)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1075.58)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1046.76)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1018.11)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,989.8)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,961.84)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,934.55)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,908.08)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,882.99)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,859.92)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,840.48)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,826.78)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820.77)\fscx80\fscy80}Lakes
+Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1104.63)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1075.58)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1046.76)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1018.11)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,989.8)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,961.84)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,934.55)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,908.08)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,882.99)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,859.92)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,840.48)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,826.78)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820.77)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx80\fscy80}Rivers
+Dialogue: 0,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1104.63)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1075.58)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.50,0:21:58.54,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1046.76)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.54,0:21:58.58,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1018.11)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.58,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,989.8)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,961.84)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,934.55)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.71,0:21:58.75,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,908.08)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.75,0:21:58.79,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,882.99)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.79,0:21:58.83,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,859.92)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.83,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,840.48)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.88,0:21:58.92,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,826.78)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.92,0:21:58.96,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820.77)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:21:58.96,0:22:01.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
+Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
+Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 0,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
+Dialogue: 1,0:22:01.59,0:22:06.56,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1109.71)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1074.95)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1040.49)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1006.27)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,972.62)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,939.65)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,907.88)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,877.9)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,851.4)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,831.3)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,821.32)\fscx80\fscy80}Seas
-Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
-Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1109.71)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1074.95)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1040.49)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1006.27)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,972.62)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,939.65)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,907.88)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,877.9)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,851.4)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,831.3)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,821.32)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1109.71)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1074.95)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1040.49)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1006.27)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,972.62)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,939.65)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,907.88)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,877.9)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,851.4)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,831.3)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,821.32)\fscx80\fscy80}Lakes
-Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
-Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1109.71)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1074.95)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1040.49)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1006.27)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,972.62)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,939.65)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,907.88)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,877.9)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,851.4)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,831.3)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,821.32)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx80\fscy80}Rivers
-Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
-Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1109.71)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1074.95)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1040.49)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1006.27)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,972.62)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,939.65)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,907.88)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,877.9)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,851.4)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,831.3)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,821.32)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
-Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnFOT-GMaruGo Pro DB\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(330,820)\fscx80\fscy80}Seas
-Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&HFDFEFE&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
-Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnFOT-GMaruGo Pro DB\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(960,820)\fscx80\fscy80}Lakes
-Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&HFDFEFE&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
-Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnFOT-GMaruGo Pro DB\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(1590,820)\fscx80\fscy80}Rivers
-Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&HFDFEFE&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1109.71)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1074.95)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1040.49)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1006.27)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,972.62)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,939.65)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,907.88)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,877.9)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,851.4)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,831.3)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,821.32)\fscx80\fscy80}Seas
+Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Seas
+Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1109.71)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1074.95)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1040.49)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1006.27)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,972.62)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,939.65)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,907.88)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,877.9)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,851.4)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,831.3)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,821.32)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1109.71)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1074.95)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1040.49)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1006.27)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,972.62)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,939.65)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,907.88)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,877.9)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,851.4)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,831.3)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,821.32)\fscx80\fscy80}Lakes
+Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Lakes
+Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1109.71)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1074.95)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1040.49)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1006.27)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,972.62)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,939.65)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,907.88)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,877.9)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,851.4)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,831.3)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,821.32)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 0,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx80\fscy80}Rivers
+Dialogue: 0,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Rivers
+Dialogue: 1,0:23:42.60,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1109.71)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1074.95)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1040.49)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.73,0:23:42.77,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1006.27)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.77,0:23:42.81,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,972.62)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.81,0:23:42.85,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,939.65)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.85,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,907.88)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,877.9)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,851.4)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:42.98,0:23:43.02,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,831.3)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:43.02,0:23:43.06,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,821.32)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 1,0:23:43.06,0:23:43.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
+Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnGMaruGoPro-DB-Str\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(330,820)\fscx80\fscy80}Seas
+Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&HFDFEFE&\pos(330,820)\fscx80\fscy80\4a&HFF&}Seas
+Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnGMaruGoPro-DB-Str\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(960,820)\fscx80\fscy80}Lakes
+Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&HFDFEFE&\pos(960,820)\fscx80\fscy80\4a&HFF&}Lakes
+Dialogue: 0,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur3\bord6\fnGMaruGoPro-DB-Str\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(1590,820)\fscx80\fscy80}Rivers
+Dialogue: 1,0:23:43.94,0:23:45.57,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&HFDFEFE&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Rivers
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:04.87,0:03:10.55,Episode titles,,0,0,0,,{=0}{\fad(480,0)\bord5\shad3\blur6\pos(960,160)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Reboo{\fsp5}t{\fsp}! To a World of Adventure{\fsp5}s!!
 Dialogue: 1,0:03:04.87,0:03:10.55,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,160)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Reboo{\fsp5}t{\fsp}! To a World of Adventure{\fsp5}s!!
@@ -1574,18 +1574,18 @@ Data: 22,_aegi_folddata,e0;1;10
 Data: 23,_aegi_folddata,e1;1;10
 Data: 24,_aegi_folddata,e0;1;11
 Data: 25,_aegi_folddata,e1;1;11
-Data: 32,a-mo,e{"uuid"#00"58eca104-4a32-4496-8b30-f8d2dfd54d35"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(1590#00820)\\fscx80\\fscy80\\4a&HFF&}Rivers"}
-Data: 33,a-mo,e{"uuid"#00"c145423a-a2b4-4115-bd5c-ff13b4a10f2f"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(1590#00820)\\fscx80\\fscy80}Rivers"}
-Data: 34,a-mo,e{"uuid"#00"81bb6355-79d1-4eae-af3a-5ab5f36c0c58"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(960#00820)\\fscx80\\fscy80\\4a&HFF&}Lakes"}
-Data: 35,a-mo,e{"uuid"#00"a8b9e203-9ef9-44b7-b1c8-e580af36304a"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(960#00820)\\fscx80\\fscy80}Lakes"}
-Data: 36,a-mo,e{"uuid"#00"895c8e06-0426-49a2-ad48-f043f1426308"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(330#00820)\\fscx80\\fscy80\\4a&HFF&}Seas"}
-Data: 37,a-mo,e{"uuid"#00"e7d628d6-687b-4603-80c5-9ffee5b58881"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(330#00820)\\fscx80\\fscy80}Seas"}
-Data: 44,a-mo,e{"uuid"#00"01458174-6938-4a9b-9fb2-0fd1f47202b9"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(1590#00820)\\fscx80\\fscy80\\4a&HFF&}Rivers"}
-Data: 45,a-mo,e{"uuid"#00"26a87b68-986e-4397-9657-62106eff7679"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(1590#00820)\\fscx80\\fscy80}Rivers"}
-Data: 46,a-mo,e{"uuid"#00"720aa31d-4917-4f99-8801-650af23c8d24"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(960#00820)\\fscx80\\fscy80\\4a&HFF&}Lakes"}
-Data: 47,a-mo,e{"uuid"#00"33214b3b-01fd-495d-b2ef-60a6a2b5b98a"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(960#00820)\\fscx80\\fscy80}Lakes"}
-Data: 48,a-mo,e{"uuid"#00"8cdd9950-802a-4623-b33c-74911200218d"#00"originalText"#00"{\\blur0.6\\bord0\\fnFOT-GMaruGo Pro DB\\b0\\c&H000000&\\pos(330#00820)\\fscx80\\fscy80\\4a&HFF&}Seas"}
-Data: 49,a-mo,e{"uuid"#00"9707e524-906c-4391-9b7f-2ffa2233f5ac"#00"originalText"#00"{\\blur1\\bord3\\fnFOT-GMaruGo Pro DB\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(330#00820)\\fscx80\\fscy80}Seas"}
+Data: 32,a-mo,e{"uuid"#00"58eca104-4a32-4496-8b30-f8d2dfd54d35"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(1590#00820)\\fscx80\\fscy80\\4a&HFF&}Rivers"}
+Data: 33,a-mo,e{"uuid"#00"c145423a-a2b4-4115-bd5c-ff13b4a10f2f"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(1590#00820)\\fscx80\\fscy80}Rivers"}
+Data: 34,a-mo,e{"uuid"#00"81bb6355-79d1-4eae-af3a-5ab5f36c0c58"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(960#00820)\\fscx80\\fscy80\\4a&HFF&}Lakes"}
+Data: 35,a-mo,e{"uuid"#00"a8b9e203-9ef9-44b7-b1c8-e580af36304a"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(960#00820)\\fscx80\\fscy80}Lakes"}
+Data: 36,a-mo,e{"uuid"#00"895c8e06-0426-49a2-ad48-f043f1426308"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(330#00820)\\fscx80\\fscy80\\4a&HFF&}Seas"}
+Data: 37,a-mo,e{"uuid"#00"e7d628d6-687b-4603-80c5-9ffee5b58881"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(330#00820)\\fscx80\\fscy80}Seas"}
+Data: 44,a-mo,e{"uuid"#00"01458174-6938-4a9b-9fb2-0fd1f47202b9"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(1590#00820)\\fscx80\\fscy80\\4a&HFF&}Rivers"}
+Data: 45,a-mo,e{"uuid"#00"26a87b68-986e-4397-9657-62106eff7679"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(1590#00820)\\fscx80\\fscy80}Rivers"}
+Data: 46,a-mo,e{"uuid"#00"720aa31d-4917-4f99-8801-650af23c8d24"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(960#00820)\\fscx80\\fscy80\\4a&HFF&}Lakes"}
+Data: 47,a-mo,e{"uuid"#00"33214b3b-01fd-495d-b2ef-60a6a2b5b98a"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(960#00820)\\fscx80\\fscy80}Lakes"}
+Data: 48,a-mo,e{"uuid"#00"8cdd9950-802a-4623-b33c-74911200218d"#00"originalText"#00"{\\blur0.6\\bord0\\fnGMaruGoPro-DB-Str\\b0\\c&H000000&\\pos(330#00820)\\fscx80\\fscy80\\4a&HFF&}Seas"}
+Data: 49,a-mo,e{"uuid"#00"9707e524-906c-4391-9b7f-2ffa2233f5ac"#00"originalText"#00"{\\blur1\\bord3\\fnGMaruGoPro-DB-Str\\b0\\3c&HFEFEFE&\\c&HFEFEFE&\\pos(330#00820)\\fscx80\\fscy80}Seas"}
 Data: 50,_aegi_folddata,e0;1;12
 Data: 51,_aegi_folddata,e1;1;12
 Data: 52,_aegi_folddata,e0;1;13
@@ -1595,3 +1595,7 @@ Data: 55,a-mo,e{"uuid"#00"7c1a2313-10b0-46af-b269-b780e8570a8c"#00"originalText"
 Data: 57,a-mo,e{"uuid"#00"9f4cf4fa-9025-43a6-b91a-099db1dc7422"#00"originalText"#00"{\\bord9\\blur4\\fscx58\\fscy58\\an5\\fs200\\fnPmLogo2023\\fsp-32\\c&HFFFFFF&\\pos(970.68#00351.71)\\iclip(m 765.14 448.21 l 263.83 446.14 273.13 216.34 1374.86 233.9 b 1407.24 271.52 1449.45 362.76 1463.89 434.53)}p{\\fsp-13}O{\\fsp-9}Cket Monsters"}
 Data: 58,_aegi_folddata,e0;1;14
 Data: 59,_aegi_folddata,e1;1;14
+Data: 60,_aegi_folddata,e0;1;15
+Data: 61,_aegi_folddata,e1;1;15
+Data: 62,_aegi_folddata,e0;1;16
+Data: 63,_aegi_folddata,e1;1;16
