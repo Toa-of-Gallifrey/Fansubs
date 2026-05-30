@@ -526,7 +526,7 @@ negaigoto ねがいごと (Wish) - Wish
 negoto ねごと (Sleep Talk) - Sleep Talk
 neko ni koban ネコにこばん (Pay Day) - # TBD #
 neko no te ねこのて (Assist) - Cat's Assistance
-nekodamashi ねこだまし (Fake Out) - # TBD #
+nekodamashi ねこだまし (Fake Out) - Cat Rattler
 nemuri gona ねむりごな (Sleep Powder) - Sleep Powder
 nemuru ねむる (Rest) - Sleep
 nenriki ねんりき (Confusion) - Mind Power
@@ -815,7 +815,7 @@ V jenereeto Ｖジェネレート (V-create) - # TBD #
 waido bureikaa ワイドブレイカー (Breaking Swipe) - Wide Breaker
 waido foosu ワイドフォース (Expanding Force) - Wide Force
 waido gaado ワイドガード (Wide Guard) - Wide Guard
-wairudo boruto ワイルドボルト (Wild Charge) - Wild Bolt
+wairudo boruto ワイルドボルト (Wild Charge) - Wild Volt
 wandaa ruumu ワンダールーム (Wonder Room) - Wonder Room
 wandaa suchiimu ワンダースチーム (Strange Steam) - Wonder Steam
 waru dakumi わるだくみ (Nasty Plot) - Nasty Plot
