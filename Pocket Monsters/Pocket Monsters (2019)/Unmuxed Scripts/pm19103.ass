@@ -80,7 +80,7 @@ Dialogue: 10,0:03:55.42,0:03:58.76,Main,Eureka,0,0,0,,Yeah! \N A talent only Ker
 Dialogue: 10,0:03:59.84,0:04:01.80,Main,Go,0,0,0,,Huh...
 Dialogue: 10,0:04:01.80,0:04:03.97,Main,Go,0,0,0,,All right! Keromatsu!
 Dialogue: 10,0:04:03.97,0:04:05.35,Main,Go,0,0,0,,Let’s battle!
-Dialogue: 10,0:04:13.32,0:04:15.11,Main,Citron,0,0,0,,Wild Bolt!
+Dialogue: 10,0:04:13.32,0:04:15.11,Main,Citron,0,0,0,,Wild Volt!
 Dialogue: 10,0:04:22.87,0:04:24.24,Main,Beroperson,0,0,0,,Ahh! {Deleted ellipsis. - Toa}
 Dialogue: 10,0:04:25.16,0:04:26.50,Main,Citroid,0,0,0,,Berobelt is unable to battle!
 Dialogue: 10,0:04:27.12,0:04:28.67,Main,Citroid,0,0,0,,Roentorar wins!
@@ -285,7 +285,7 @@ Dialogue: 10,0:16:58.21,0:16:59.46,Main,Citron,0,0,0,,Got it!
 Dialogue: 10,0:16:59.46,0:17:02.79,Main,Citron,0,0,0,,In that case... Roentorar! Horudo!
 Dialogue: 10,0:17:02.79,0:17:04.13,Main,Citron,0,0,0,,Please lend me a hand!
 Dialogue: 10,0:17:06.17,0:17:10.09,Main,Citroid,0,0,0,,Commencing practice battle \N between Satoshi and Citron!
-Dialogue: 10,0:17:14.89,0:17:18.02,Main,Citron,0,0,0,,Roentorar! \N Use Wild Bolt on Negigaknight!
+Dialogue: 10,0:17:14.89,0:17:18.02,Main,Citron,0,0,0,,Roentorar! \N Use Wild Volt on Negigaknight!
 Dialogue: 10,0:17:18.02,0:17:20.73,Main,Citron,0,0,0,,Horudo, \N Dig towards Uonoragon!
 Dialogue: 10,0:17:23.86,0:17:26.78,Main,Satoshi,0,0,0,,Negigaknight! \N Use Star Assault on Roentorar!
 Dialogue: 10,0:17:26.78,0:17:29.49,Main,Satoshi,0,0,0,,Uonoragon, \N you use Jaw Bite on Horudo!

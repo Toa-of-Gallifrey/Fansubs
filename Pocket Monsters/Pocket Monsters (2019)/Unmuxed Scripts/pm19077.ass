@@ -185,9 +185,9 @@ Dialogue: 10,0:11:59.86,0:12:02.15,Main,Satoshi,0,0,0,,Lucario! Go for it!
 Dialogue: 10,0:12:05.62,0:12:09.37,Main,Commentator,0,0,0,,Competitor Satoshi \N switches from Pikachu to Lucario!
 Dialogue: 10,0:12:09.37,0:12:11.54,Main,Satoshi,0,0,0,,Lucario! Guiding Wave Sphere!
 Dialogue: 10,0:12:15.19,0:12:16.34,Main,Denji,0,0,0,,Fire Punch!
-Dialogue: 10,0:12:32.96,0:12:34.36,Main,Denji,0,0,0,,Wild Bolt!
+Dialogue: 10,0:12:32.96,0:12:34.36,Main,Denji,0,0,0,,Wild Volt!
 Dialogue: 10,0:12:36.98,0:12:38.02,Main,Satoshi,0,0,0,,Shadow Clones!
-Dialogue: 10,0:12:44.65,0:12:46.82,Main,Commentator,0,0,0,,The Wild Bolt hits \N nothing but thin air!
+Dialogue: 10,0:12:44.65,0:12:46.82,Main,Commentator,0,0,0,,The Wild Volt hits \N nothing but thin air!
 Dialogue: 10,0:12:46.82,0:12:47.83,Main,Satoshi,0,0,0,,Guiding Wave Sphere!
 Dialogue: 10,0:12:48.99,0:12:50.04,Main,Denji,0,0,0,,Hit them back!
 Dialogue: 10,0:12:58.63,0:12:59.93,Main,Denji,0,0,0,,Thunder Punch!
@@ -239,9 +239,9 @@ Dialogue: 10,0:16:34.64,0:16:36.65,Main,Commentator,0,0,0,,Both are Electric-typ
 Dialogue: 10,0:16:36.65,0:16:38.57,Main,Commentator,0,0,0,,Electric attacks won’t do much.
 Dialogue: 10,0:16:38.57,0:16:43.52,Main,Commentator,0,0,0,,And Elecible’s ability, Electric Engine, \N means Pikachu is in for a bad time!
 Dialogue: 10,0:16:43.52,0:16:44.78,Main,Satoshi,0,0,0,,Iron Tail!
-Dialogue: 10,0:16:46.16,0:16:47.61,Main,Denji,0,0,0,,Wild Bolt!
+Dialogue: 10,0:16:46.16,0:16:47.61,Main,Denji,0,0,0,,Wild Volt!
 Dialogue: 10,0:16:58.70,0:17:01.66,Main,Go,0,0,0,,How can they be {\i1}that{\i0} strong?!
-Dialogue: 10,0:17:04.70,0:17:09.09,Main,Commentator,0,0,0,,Elecible is completely unfazed \N by Wild Bolt’s recoil damage!
+Dialogue: 10,0:17:04.70,0:17:09.09,Main,Commentator,0,0,0,,Elecible is completely unfazed \N by Wild Volt’s recoil damage!
 Dialogue: 10,0:17:10.72,0:17:12.56,Main,Satoshi,0,0,0,,Pikachu! You okay?
 Dialogue: 10,0:17:16.74,0:17:18.35,Main,Commentator,0,0,0,,Electric Field’s effect has faded!
 Dialogue: 10,0:17:18.71,0:17:21.30,Main,Go,0,0,0,,But it’s so huge compared to Pikachu...{lit. But with this size difference...}
