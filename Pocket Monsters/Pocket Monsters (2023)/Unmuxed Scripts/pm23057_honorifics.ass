@@ -78,7 +78,7 @@ Dialogue: 10,0:04:04.60,0:04:05.56,Main,Liko,0,0,0,,Yes...
 Dialogue: 10,0:04:06.77,0:04:09.85,Main,Omodaka,0,0,0,,This is my first time ever seeing one.
 Dialogue: 10,0:04:09.85,0:04:13.52,Main,Omodaka,0,0,0,,Their habitat is \N currently unknown, after all!
 Dialogue: 10,0:04:13.90,0:04:16.90,Main,Omodaka,0,0,0,,Where ever did you \N find that Terapagos?
-Dialogue: 10,0:04:17.40,0:04:21.03,Main,Liko,0,0,0,,A pendant I got from my grandmother \N turned into this little one.{the "little one" is embellished from TL, as "this" sounds even more impersonal to me than "it" for referring to a buddy. a dreaded alt: "It transformed from a pendant my grandmother gave me." which honestly might be better phrasing though it'd introduce a dread -ed}
+Dialogue: 10,0:04:17.40,0:04:21.03,Main,Liko,0,0,0,,A pendant I got from my grandma \N turned into this little one.{the "little one" is embellished from TL, as "this" sounds even more impersonal to me than "it" for referring to a buddy. a dreaded alt: "It transformed from a pendant my grandmother gave me." which honestly might be better phrasing though it'd introduce a dread -ed}
 Dialogue: 10,0:04:21.03,0:04:23.45,Main,Clavel,0,0,0,,How peculiar...
 Dialogue: 10,0:04:23.45,0:04:28.00,Main,Omodaka,0,0,0,,Liko-san... Are you saying \N you were responsible for reviving it?{Dread Terapagos}
 Dialogue: 10,0:04:28.00,0:04:28.79,Main,Liko,0,0,0,,Yes.

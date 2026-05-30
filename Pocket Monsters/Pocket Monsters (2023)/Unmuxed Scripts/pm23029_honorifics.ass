@@ -245,29 +245,29 @@ Dialogue: 10,0:14:04.24,0:14:07.87,Main,Liko,0,0,0,,Why did you start \N traveli
 Dialogue: 10,0:14:07.87,0:14:10.37,Main,Orio,0,0,0,,Huh? Didn’t I ever mention?{Variation of Friede's catchphrase}
 Dialogue: 10,0:14:10.37,0:14:12.62,Main,Liko,0,0,0,,You didn’t, no...
 Dialogue: 10,0:14:12.62,0:14:17.38,Main,Orio,0,0,0,,I used to work at a shipyard \N in the Hoenn Region.
-Dialogue: 10,0:14:18.00,0:14:21.38,Main,Orio,0,0,0,,It was fun, and the work was rewarding.
-Dialogue: 10,0:14:21.38,0:14:25.14,Main,Orio,0,0,0,,My coworkers were nice, too. \N I felt fulfilled.
-Dialogue: 10,0:14:25.72,0:14:28.51,Main,Orio,0,0,0,,I had a nice, stress-free job.
-Dialogue: 10,0:14:28.51,0:14:32.14,Main,Orio,0,0,0,,But sometimes I found myself thinking...
-Dialogue: 10,0:14:32.77,0:14:35.31,Main,Orio,0,0,0,,“Is this really what I want out of life?”
-Dialogue: 10,0:14:35.90,0:14:40.28,Main,Orio,0,0,0,,“Is this job I have right now \N really the most important thing to me?”
-Dialogue: 10,0:14:40.86,0:14:44.95,Main,Orio,0,0,0,,“What is it I {\i1}really{\i0} want to do?”
-Dialogue: 10,0:14:46.66,0:14:50.08,Main,Orio,0,0,0,,And that’s when Friede contacted me.
-Dialogue: 10,0:14:50.66,0:14:54.67,Main,Friede,0,0,0,,Orio. I’m here to ask you \N to lend me your expertise.{018}
-Dialogue: 10,0:14:55.17,0:14:59.71,Main,Friede,0,0,0,,Convert the Asagi into \N the best airship in the world!{018}
-Dialogue: 10,0:14:59.71,0:15:00.38,Main,Landau,0,0,0,,Mmm—{018}
-Dialogue: 10,0:15:00.38,0:15:01.05,Main,Landau,0,0,0,,Eh?!{018}
-Dialogue: 10,0:15:01.51,0:15:02.80,Main,Orio,0,0,0,,Are you an idiot?{018}
-Dialogue: 10,0:15:02.80,0:15:04.63,Main,Friede,0,0,0,,Can you do it?{018}
-Dialogue: 10,0:15:04.63,0:15:08.76,Main,Orio,0,0,0,,Those words lit a flame in my heart.
-Dialogue: 10,0:15:08.76,0:15:10.56,Main,Orio,0,0,0,,I’ll just have to try!{018}
-Dialogue: 10,0:15:10.56,0:15:13.81,Main,Orio,0,0,0,,I had no idea \N if I {\i1}could{\i0} pull it off...
-Dialogue: 10,0:15:13.81,0:15:17.94,Main,Orio,0,0,0,,But the only way \N to know for sure was to try.
-Dialogue: 10,0:15:17.94,0:15:21.44,Main,Orio,0,0,0,,It’s a simple fact that Friede’s words \N were the spark that started it all.
-Dialogue: 10,0:15:22.03,0:15:24.07,Main,Orio,0,0,0,,But, just maybe...
-Dialogue: 10,0:15:24.07,0:15:26.95,Main,Orio,0,0,0,,...I had {\i1}always{\i0} wanted \N to put my own skills to the test.
-Dialogue: 10,0:15:27.61,0:15:32.45,Main,Orio,0,0,0,,And so, I realized something \N the moment I finished converting the ship.
-Dialogue: 10,0:15:33.08,0:15:36.00,Main,Orio,0,0,0,,Namely, what I {\i1}really{\i0} wanted to do.
+Dialogue: 10,0:14:18.00,0:14:21.38,Main,Orio,0,0,165,,It was fun, \N and the work was rewarding.
+Dialogue: 10,0:14:21.38,0:14:25.14,Main,Orio,0,0,165,,My coworkers were nice, too. \N I felt fulfilled.
+Dialogue: 10,0:14:25.72,0:14:28.51,Main,Orio,0,0,165,,I had a nice, stress-free job.
+Dialogue: 10,0:14:28.51,0:14:32.14,Main,Orio,0,0,165,,But sometimes \N I found myself thinking...
+Dialogue: 10,0:14:32.77,0:14:35.31,Main,Orio,0,0,165,,“Is this really what I want \N out of life?”
+Dialogue: 10,0:14:35.90,0:14:40.28,Main,Orio,0,0,165,,“Is this job I have right now \N really the most important thing to me?”
+Dialogue: 10,0:14:40.86,0:14:44.95,Main,Orio,0,0,165,,“What is it I {\i1}really{\i0} want to do?”
+Dialogue: 10,0:14:46.66,0:14:50.08,Main,Orio,0,0,165,,And that’s when Friede contacted me.
+Dialogue: 10,0:14:50.66,0:14:54.67,Main,Friede,0,0,165,,Orio. I’m here to ask you \N to lend me your expertise.{018}
+Dialogue: 10,0:14:55.17,0:14:59.71,Main,Friede,0,0,165,,Convert the Asagi into \N the best airship in the world!{018}
+Dialogue: 10,0:14:59.71,0:15:00.38,Main,Landau,0,0,165,,Mmm—{018}
+Dialogue: 10,0:15:00.38,0:15:01.05,Main,Landau,0,0,165,,Eh?!{018}
+Dialogue: 10,0:15:01.51,0:15:02.80,Main,Orio,0,0,165,,Are you an idiot?{018}
+Dialogue: 10,0:15:02.80,0:15:04.63,Main,Friede,0,0,165,,Can you do it?{018}
+Dialogue: 10,0:15:04.63,0:15:08.76,Main,Orio,0,0,165,,Those words lit a flame in my heart.
+Dialogue: 10,0:15:08.76,0:15:10.56,Main,Orio,0,0,165,,I’ll just have to try!{018}
+Dialogue: 10,0:15:10.56,0:15:13.81,Main,Orio,0,0,165,,I had no idea \N if I {\i1}could{\i0} pull it off...
+Dialogue: 10,0:15:13.81,0:15:17.94,Main,Orio,0,0,165,,But the only way \N to know for sure was to try.
+Dialogue: 10,0:15:17.94,0:15:21.44,Main,Orio,0,0,165,,It’s a simple fact that Friede’s words \N were the spark that started it all.
+Dialogue: 10,0:15:22.03,0:15:24.07,Main,Orio,0,0,165,,But, just maybe...
+Dialogue: 10,0:15:24.07,0:15:26.95,Main,Orio,0,0,165,,...I had {\i1}always{\i0} wanted \N to put my own skills to the test.
+Dialogue: 10,0:15:27.61,0:15:32.45,Main,Orio,0,0,165,,And so, I realized something \N the moment I finished converting the ship.
+Dialogue: 10,0:15:33.08,0:15:36.00,Main,Orio,0,0,165,,Namely, what I {\i1}really{\i0} wanted to do.
 Dialogue: 10,0:15:39.75,0:15:42.13,Main,Liko,0,0,0,,What you wanted to do?
 Dialogue: 10,0:15:42.13,0:15:43.38,Main,Orio,0,0,0,,Yeah, it was...
 Dialogue: 10,0:15:46.76,0:15:48.26,Main,Liko,0,0,0,,Roy! Hogator!

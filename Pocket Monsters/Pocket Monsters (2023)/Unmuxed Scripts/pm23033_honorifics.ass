@@ -38,8 +38,8 @@ Dialogue: 10,0:00:32.26,0:00:33.22,Main,Amethio,0,0,0,,Let’s go!
 Comment: 0,0:00:39.56,0:00:39.56,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:09.65,0:02:09.65,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:20.91,0:02:26.88,Main,Liko,0,0,0,,{\q2}The Rising Voltteccers entered an ocean enveloped \N in fog, hoping to meet Laplace of the Six Heroes.
-Dialogue: 10,0:02:28.17,0:02:31.13,Main,Liko,0,0,0,,At long last, we were able to \N pinpoint its location. {Dread Laplace}
-Dialogue: 10,0:02:31.84,0:02:36.84,Main,Liko,0,0,0,,In the end, Laplace was moved \N by Terapagos’s feelings and came with us. {Dread Laplace}
+Dialogue: 10,0:02:28.17,0:02:31.13,Main,Liko,0,0,0,,At long last, we were able to \N pinpoint her location.
+Dialogue: 10,0:02:31.84,0:02:36.84,Main,Liko,0,0,0,,In the end, Laplace was moved \N by Terapagos’s feelings and came with us.
 Dialogue: 10,0:02:37.85,0:02:43.27,Main,Liko,0,0,0,,Just when it seemed all was said and done, \N we found ourselves face to face with...
 Dialogue: 10,0:02:44.60,0:02:46.06,Main,Roy,0,0,0,,Rekkuuza!{032}
 Dialogue: 10,0:02:46.06,0:02:47.36,Main,Liko,0,0,0,,Y-You’re kidding!{032}

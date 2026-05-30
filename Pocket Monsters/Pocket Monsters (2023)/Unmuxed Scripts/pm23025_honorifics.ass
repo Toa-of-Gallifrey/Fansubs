@@ -304,11 +304,11 @@ Dialogue: 10,0:19:57.43,0:19:59.93,Main,Sango,0,0,0,,So? When’s our ride get h
 Dialogue: 10,0:19:59.93,0:20:00.93,Main,Onyx,0,0,0,,Honestly...
 Dialogue: 10,0:20:16.24,0:20:20.07,Main,Liko,0,0,0,,This is what you were hoping \N to show me... Lucius’s memoirs.
 Dialogue: 10,0:20:23.83,0:20:26.04,Main,Liko,0,0,0,,I want you to find...{001}
-Dialogue: 10,0:20:27.12,0:20:29.25,Main,Liko,0,0,0,,...the beauty of this world.{001}
-Dialogue: 10,0:20:31.04,0:20:33.13,Main,Liko,0,0,0,,I want you to find...{001}
-Dialogue: 10,0:20:34.34,0:20:36.13,Main,Liko,0,0,0,,...adventures...{001}
-Dialogue: 10,0:20:36.13,0:20:40.34,Main,Liko,0,0,0,,...as you live alongside the Pokémon of this world.{001}
-Dialogue: 10,0:20:40.84,0:20:42.35,Main,Liko,0,0,0,,And...{001}
+Dialogue: 10,0:20:27.12,0:20:29.25,Main,Liko,0,0,165,,...the beauty of this world.{001}
+Dialogue: 10,0:20:31.04,0:20:33.13,Main,Liko,0,0,165,,I want you to find...{001}
+Dialogue: 10,0:20:34.34,0:20:36.13,Main,Liko,0,0,165,,...adventures...{001}
+Dialogue: 10,0:20:36.13,0:20:40.34,Main,Liko,0,0,165,,...as you live alongside the Pokémon of this world.{001}
+Dialogue: 10,0:20:40.84,0:20:42.35,Main,Liko,0,0,165,,And...{001}
 Dialogue: 10,0:20:42.80,0:20:43.97,Main,Liko,0,0,0,,...the future.{001}
 Dialogue: 10,0:20:46.68,0:20:50.10,Main,Diana,0,0,0,,Nowadays, it’s just legend or fairy tale...
 Dialogue: 10,0:20:51.19,0:20:54.82,Main,Diana,0,0,0,,But I believe it really happened.
