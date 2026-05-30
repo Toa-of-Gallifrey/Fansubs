@@ -318,11 +318,11 @@ Dialogue: 0,0:02:32.34,0:02:35.01,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7C
 Dialogue: 0,0:02:35.01,0:02:37.64,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}just rest your wings
 Dialogue: 0,0:02:37.64,0:02:40.10,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}When you’ve caught your breath
 Dialogue: 0,0:02:40.10,0:02:42.85,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}you can fly off once more!
-Dialogue: 0,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3\fad(146,0)\1a&HFF&\4a&HFF&\t(101,146,\1a&H00&\4a&H00&)}Come along with us, oh-oh
+Dialogue: 0,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(146,0)\t(-85,146,\3c&HB7CB39&\4c&HB7CB39&)\t(60,146,\c&HB7CB39&)}Come along with us, oh-oh
 Dialogue: 0,0:02:46.23,0:02:48.44,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Voltteccers
 Dialogue: 0,0:02:48.44,0:02:51.61,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Come along with us, oh-oh
 Dialogue: 0,0:02:51.61,0:02:54.28,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3}Pass the endlessly turning seasons,
-Dialogue: 0,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\xshad6\yshad3\fad(0,520)\t(4190,4235,\1a&HFF&\4a&HFF&)}and venture into brand-new skies
+Dialogue: 0,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur5\bord7\c&HB7CB39&\3c&HB7CB39&\4c&HB7CB39&\alpha&HFF&\3a&H00&\4a&H00&\ko0\xshad6\yshad3\fad(0,520)}and venture into brand-new skies
 Dialogue: 1,0:01:30.45,0:01:33.57,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}Ready, set, and... GO! READY! GO!
 Dialogue: 1,0:01:33.57,0:01:36.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}We’re in top-notch mode
 Dialogue: 1,0:01:36.28,0:01:39.25,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}You’re not alone, you know?
@@ -347,11 +347,11 @@ Dialogue: 1,0:02:32.34,0:02:35.01,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HF
 Dialogue: 1,0:02:35.01,0:02:37.64,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}just rest your wings
 Dialogue: 1,0:02:37.64,0:02:40.10,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}When you’ve caught your breath
 Dialogue: 1,0:02:40.10,0:02:42.85,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}you can fly off once more!
-Dialogue: 1,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(146,0)\1a&HFF&\4a&HFF&\t(101,146,\1a&H00&\4a&H00&)}Come along with us, oh-oh
+Dialogue: 1,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(146,0)}Come along with us, oh-oh
 Dialogue: 1,0:02:46.23,0:02:48.44,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}Voltteccers
 Dialogue: 1,0:02:48.44,0:02:51.61,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}Come along with us, oh-oh
 Dialogue: 1,0:02:51.61,0:02:54.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3}Pass the endlessly turning seasons,
-Dialogue: 1,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(0,520)\t(4190,4235,\1a&HFF&\4a&HFF&)}and venture into brand-new skies
+Dialogue: 1,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord8\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(0,520)}and venture into brand-new skies
 Dialogue: 2,0:01:30.45,0:01:33.57,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}Ready, set, and... GO! READY! GO!
 Dialogue: 2,0:01:33.57,0:01:36.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}We’re in top-notch mode
 Dialogue: 2,0:01:36.28,0:01:39.25,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}You’re not alone, you know?
@@ -376,11 +376,11 @@ Dialogue: 2,0:02:32.34,0:02:35.01,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c
 Dialogue: 2,0:02:35.01,0:02:37.64,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}just rest your wings
 Dialogue: 2,0:02:37.64,0:02:40.10,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}When you’ve caught your breath
 Dialogue: 2,0:02:40.10,0:02:42.85,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}you can fly off once more!
-Dialogue: 2,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3\fad(146,0)\1a&HFF&\4a&HFF&\t(101,146,\1a&H00&\4a&H00&)}Come along with us, oh-oh
+Dialogue: 2,0:02:43.10,0:02:46.23,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\xshad6\yshad3\fad(146,0)\t(-85,146,\3c&H202328&\4c&H000000&)\t(60,146,\c&H202328&)}Come along with us, oh-oh
 Dialogue: 2,0:02:46.23,0:02:48.44,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}Voltteccers
 Dialogue: 2,0:02:48.44,0:02:51.61,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}Come along with us, oh-oh
 Dialogue: 2,0:02:51.61,0:02:54.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3}Pass the endlessly turning seasons,
-Dialogue: 2,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\xshad6\yshad3\fad(0,520)\t(4190,4235,\1a&HFF&\4a&HFF&)}and venture into brand-new skies
+Dialogue: 2,0:02:54.28,0:02:58.99,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord3.5\3c&H202328&\c&H202328&\4c&H000000&\alpha&HFF&\3a&H00&\4a&H00&\ko0\xshad6\yshad3\fad(0,520)}and venture into brand-new skies
 Dialogue: 3,0:01:30.45,0:01:33.57,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&HFFD277&\clip(0,0,1920,66)}Ready, set, and... GO! READY! GO!
 Dialogue: 3,0:01:30.45,0:01:33.57,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&H99B2FA&\clip(0,66,1920,1080)}Ready, set, and... GO! READY! GO!
 Dialogue: 3,0:01:33.57,0:01:36.28,OP,,0,0,0,,{\q2\pos(960,28)\blur0.6\bord0\c&HFFD277&\clip(0,0,1920,66)}We’re in top-notch mode
@@ -447,8 +447,8 @@ Dialogue: 2,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{\fad(858,0)\clip(27,358,1903,359
 Dialogue: 2,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{\fad(858,0)\clip(27,359,1903,360)\pos(970.68,346.71)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&H5844CA&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 2,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{\fad(858,0)\clip(27,360,1903,361)\pos(970.68,346.71)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&H4A3ED6&}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 2,0:01:52.13,0:01:54.72,Logo,,0,0,0,,{\fad(858,0)\clip(27,361,1903,362)\pos(970.68,346.71)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&}p{\fsp-13}O{\fsp-9}Cket Monsters
-Dialogue: 0,0:01:52.13,0:01:54.72,Logo Sub-title,,0,0,0,,{\fad(858,0)\fscx150\fscy120\bord8.5\blur4\c&HFFFFFF&\3c&HFFFFFF&\pos(955,859.64)\t(813,858,\1a&H00&)}Wonder Voyage
-Dialogue: 1,0:01:52.13,0:01:54.72,Logo Sub-title,,0,0,0,,{\fad(858,0)\fscx150\fscy120\bord0\blur0.6\c&H9BAF10&\pos(955,859.64)}Wonder Voyage
+Dialogue: 0,0:01:52.13,0:01:54.72,Logo Sub-title,,0,0,0,,{\fad(865,0)\fscx150\fscy120\bord8.5\blur4\c&HFFFFFF&\3c&HFFFFFF&\pos(955,859.64)\1a&HFF&\t(820,865,\1a&H00&)}Wonder Voyage
+Dialogue: 1,0:01:52.13,0:01:54.72,Logo Sub-title,,0,0,0,,{\fad(865,0)\fscx150\fscy120\bord0\blur0.6\c&H9BAF10&\pos(955,859.64)}Wonder Voyage
 Dialogue: 1,0:01:54.72,0:01:54.76,Logo,,0,0,0,,{\iclip(m 1030.78 432.02 l 1237.46 227.93 1374.86 233.9 b 1407.24 271.52 1449.45 362.76 1463.89 434.53)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&HE9A801&\clip(27,213.97,1911.9,344)\pos(970.68,346.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 1,0:01:54.72,0:01:54.76,Logo,,0,0,0,,{\iclip(m 1030.78 432.02 l 1237.46 227.93 1374.86 233.9 b 1407.24 271.52 1449.45 362.76 1463.89 434.53)\blur0.6\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&H3D38E2&\clip(27,362,1904.17,937.48)\pos(970.68,346.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
 Dialogue: 0,0:01:54.72,0:01:54.76,Logo,,0,0,0,,{\bord9\iclip(m 1030.78 432.02 l 1237.46 227.93 1374.86 233.9 b 1407.24 271.52 1449.45 362.76 1463.89 434.53)\blur4\fscx58\fscy58\an5\fs200\fnPmLogo2023\fsp-32\c&HFFFFFF&\pos(970.68,346.71)}p{\fsp-13}O{\fsp-9}Cket Monsters
@@ -681,7 +681,7 @@ Dialogue: 0,0:23:09.45,0:23:10.95,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\
 Dialogue: 0,0:23:10.95,0:23:14.21,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}So let’s be friends!
 Dialogue: 0,0:23:14.21,0:23:17.58,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}Pick up you! I want you! Hit chu straight in the heart!
 Dialogue: 0,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&\fad(0,605)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
-Dialogue: 0,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&\fad(102,0)}Oh! One toss makes a red-white-spinny-shaky
+Dialogue: 0,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&\fad(100,0)}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 0,0:23:24.09,0:23:25.22,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}Cutesy Capsule
 Comment: 0,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}(Pick up?)
 Dialogue: 0,0:23:25.84,0:23:27.34,ED,,0,0,0,,{\q2\blur5\pos(960,22)\bord9\shad0\c&HFFFFFF&\3c&HFFFFFF&}One click makes a rolly-wobbly-all-aflutter
@@ -730,10 +730,10 @@ Dialogue: 1,0:23:07.70,0:23:09.45,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\sh
 Dialogue: 1,0:23:09.45,0:23:10.95,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}I know our future will shine!
 Dialogue: 1,0:23:10.95,0:23:14.21,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}So let’s be friends!
 Dialogue: 1,0:23:14.21,0:23:17.58,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}Pick up you! I want you! Hit chu straight in the heart!
-Dialogue: 1,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&\fad(0,605)\t(3445,3490,\1a&HFF&\4a&HFF&)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
-Dialogue: 1,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&\fad(102,0)\1a&HFF&\4a&HFF&\t(57,102,\1a&H00&\4a&H00&)}Oh! One toss makes a red-white-spinny-shaky
+Dialogue: 1,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&\fad(0,605)\t(3445,3490,\c&HFFFFFF&)\t(3445,4050,\3c&HFFFFFF&\4c&HFFFFFF&)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
+Dialogue: 1,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\fad(100,0)\t(-10,100,\3c&H4A3571&\4c&H4D2048&)\t(57,100,\c&H4A3571&)}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 1,0:23:24.09,0:23:25.22,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}Cutesy Capsule
-Comment: 1,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}(Pick up!)
+Comment: 1,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}(Pick up?)
 Dialogue: 1,0:23:25.84,0:23:27.34,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}One click makes a rolly-wobbly-all-aflutter
 Dialogue: 1,0:23:27.34,0:23:28.51,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}onlooking Street
 Comment: 1,0:23:28.64,0:23:29.14,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord8.5\shad4\c&H4A3571&\3c&H4A3571&}(Pick up!)
@@ -781,9 +781,9 @@ Dialogue: 2,0:23:09.45,0:23:10.95,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HF
 Dialogue: 2,0:23:10.95,0:23:14.21,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}So let’s be friends!
 Dialogue: 2,0:23:14.21,0:23:17.58,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}Pick up you! I want you! Hit chu straight in the heart!
 Dialogue: 2,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&\fad(0,605)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
-Dialogue: 2,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&\fad(102,0)}Oh! One toss makes a red-white-spinny-shaky
+Dialogue: 2,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&\fad(100,0)}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 2,0:23:24.09,0:23:25.22,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}Cutesy Capsule
-Comment: 2,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}(Pick up!)
+Comment: 2,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}(Pick up?)
 Dialogue: 2,0:23:25.84,0:23:27.34,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}One click makes a rolly-wobbly-all-aflutter
 Dialogue: 2,0:23:27.34,0:23:28.51,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}onlooking Street
 Comment: 2,0:23:28.64,0:23:29.14,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\bord5\c&HFFFFFF&\3c&HFFFFFF&}(Pick up!)
@@ -831,9 +831,9 @@ Dialogue: 3,0:23:09.45,0:23:10.95,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&
 Dialogue: 3,0:23:10.95,0:23:14.21,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}So let’s be friends!
 Dialogue: 3,0:23:14.21,0:23:17.58,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}Pick up you! I want you! Hit chu straight in the heart!
 Dialogue: 3,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)\fad(0,605)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
-Dialogue: 3,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)\fad(102,0)}Oh! One toss makes a red-white-spinny-shaky
+Dialogue: 3,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)\fad(100,0)}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 3,0:23:24.09,0:23:25.22,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}Cutesy Capsule
-Comment: 3,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}(Pick up!)
+Comment: 3,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}(Pick up?)
 Dialogue: 3,0:23:25.84,0:23:27.34,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}One click makes a rolly-wobbly-all-aflutter
 Dialogue: 3,0:23:27.34,0:23:28.51,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}onlooking Street
 Comment: 3,0:23:28.64,0:23:29.14,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HAE6F9A&\bord0\clip(0,0,1920,72)}(Pick up!)
@@ -883,7 +883,7 @@ Dialogue: 3,0:23:14.21,0:23:17.58,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&
 Dialogue: 3,0:23:17.58,0:23:21.63,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)\fad(0,605)}Pick up you! I want you! We’re right at the peak of our adven-chu!!
 Dialogue: 3,0:23:22.09,0:23:24.09,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)\fad(102,0)}Oh! One toss makes a red-white-spinny-shaky
 Dialogue: 3,0:23:24.09,0:23:25.22,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}Cutesy Capsule
-Comment: 3,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up!)
+Comment: 3,0:23:25.34,0:23:25.84,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up?)
 Dialogue: 3,0:23:25.84,0:23:27.34,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}One click makes a rolly-wobbly-all-aflutter
 Dialogue: 3,0:23:27.34,0:23:28.51,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}onlooking Street
 Comment: 3,0:23:28.64,0:23:29.14,ED,,0,0,0,,{\q2\blur0.6\pos(960,22)\c&HB8A2E5&\bord0\clip(0,72,1920,1080)}(Pick up!)
@@ -1138,8 +1138,10 @@ Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-
 Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC57F52&\fscx40\fscy40\clip(447,648,526,649)\pos(486.5,622)}Water
 Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC2804F&\fscx40\fscy40\clip(447,649,526,650)\pos(486.5,622)}Water
 Dialogue: 2,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&HC58150&\fscx40\fscy40\clip(447,650,526,651)\pos(486.5,622)}Water
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx40\fscy40\pos(440,833)}Swift Swim
-Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx40\fscy40\pos(440,900)}Thickheaded
+Dialogue: 0,0:21:54.33,0:21:58.21,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFEFEFE&\p1}m 431.26 800.48 l 631.33 802.18 b 644.39 837.49 723.84 897.18 750.43 908.08 l 702.91 953.72 432 950.61
+Dialogue: 0,0:21:58.21,0:21:58.26,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFFFEF7&\p1}m 431.26 800.48 l 631.33 802.18 b 644.39 837.49 723.84 897.18 750.43 908.08 l 702.91 953.72 432 950.61
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx70\fscy70\pos(441,872)}Swift Swim
+Dialogue: 0,0:21:54.33,0:21:58.26,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx70\fscy70\pos(441,940)}Thickheaded
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1104.63)\fscx80\fscy80}Seas
 Dialogue: 0,0:21:58.46,0:21:58.50,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1075.58)\fscx80\fscy80}Seas
