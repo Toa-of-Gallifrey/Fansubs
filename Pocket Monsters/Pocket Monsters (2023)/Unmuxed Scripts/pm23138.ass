@@ -20,7 +20,7 @@ Style: Main,Candara,83,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,-1,0,0,0,100,
 Style: Insert,Candara,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0.0001,0,1,4.5,0,8,45,45,60,0
 Style: Episode titles,Waukegan LDO,80,&H00FAFE1F,&H00341DFF,&H00FFFFFF,&H00444445,-1,-1,0,0,100,100,0,0,1,4,3,2,45,45,45,0
 Style: OP,Kurokane-Std-EB-Mod,70,&H009365DF,&H00F3FFF4,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0.001,0,1,3,0,8,45,45,28,0
-Style: ED,FOT-UDMarugo_Large Pr6N H,85,&H00B8A3E7,&H00F3FFF4,&H004A3571,&H004D2048,0,0,0,0,100,100,0.001,0,1,5,0,8,45,45,22,0
+Style: ED,UDMarugo_LargePr6N-H-Str,85,&H00B8A3E7,&H00F3FFF4,&H004A3571,&H004D2048,0,0,0,0,100,100,0.001,0,1,5,0,8,45,45,22,0
 Style: Logo,PmLogo2023,100,&H00C98000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 Style: Logo Sub-title,FOT-RodinNTLG Pro UB,70,&H009EB01D,&H009EB01D,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,2,30,30,30,1
 
@@ -91,7 +91,7 @@ Dialogue: 10,0:04:58.32,0:05:00.24,Main,Royfan,0,0,0,,We got loads!
 Dialogue: 10,0:05:01.74,0:05:02.74,Main,Royfan,0,0,0,,It’s Roy!
 Dialogue: 10,0:05:02.74,0:05:03.62,Main,Likofan,0,0,0,,Dearie Liko{Honorifics note: Liko-chan}!
 Dialogue: 10,0:05:03.62,0:05:04.74,Main,Dotfan,0,0,0,,Ms. Dot{Honorifics note: Dot-san}!
-Dialogue: 10,0:05:04.74,0:05:08.62,Main,Fans,0,0,0,,It’s the Rising Voltteccers! \N We’re your fans!
+Dialogue: 10,0:05:04.74,0:05:08.62,Main,Fans,0,0,0,,{\i1}It’s the Rising Voltteccers! \N We’re your fans!{\i0}
 Dialogue: 10,0:05:08.62,0:05:09.66,Main,Liko,0,0,0,,Huh?!
 Dialogue: 10,0:05:09.66,0:05:10.62,Main,Roy,0,0,0,,Fans?!
 Dialogue: 10,0:05:10.62,0:05:12.12,Main,Dotfan,0,0,0,,Please let me shake your hand!
@@ -163,7 +163,7 @@ Dialogue: 10,0:08:30.70,0:08:32.53,Main,Dotfan,0,0,0,,Rai-o! 100,000 Volts!
 Dialogue: 10,0:08:36.25,0:08:38.54,Main,Ult,0,0,0,,So bright! \N He got rid of the shadows...!
 Dialogue: 10,0:08:40.79,0:08:42.71,Main,Liko,0,0,0,,Those Raichu are strong!
 Dialogue: 10,0:08:42.71,0:08:44.80,Main,Roy,0,0,0,,Yeah, they’ve been trained well.
-Dialogue: 10,0:08:44.80,0:08:48.38,Main,Royfan,0,0,0,,Beanie! Next, Wild Bolt on Wanival!
+Dialogue: 10,0:08:44.80,0:08:48.38,Main,Royfan,0,0,0,,Beanie! Next, Wild Volt on Wanival!
 Dialogue: 10,0:08:49.76,0:08:52.01,Main,Dot,0,0,0,,Avoid it with dance steps, Wanival!
 Dialogue: 10,0:08:54.22,0:08:56.35,Main,Likofan,0,0,0,,Nice catch! Retry!
 Dialogue: 10,0:08:57.85,0:08:59.27,Main,Roy,0,0,0,,Dodge it, Loudbone!
@@ -1183,191 +1183,191 @@ Dialogue: 2,0:23:54.50,0:24:00.50,Main,,0,0,0,,{\blur0.3\fnFOT-Comet Std B\fscx8
 Dialogue: 2,0:23:54.50,0:24:00.50,Main,,0,0,0,,{=25}{\blur0.3\fnFOT-Comet Std B\fscx80\fscy80\bord0\4a&H00&\pos(1430,190)\c&HAB66B2&\4c&H913C3A&\shad6\clip(1017,190,1848,191)\4a&HFF&}Mega-Study {\c&H774AF2&}With Instructor Starmie
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:54.25,0:22:01.51,Main,,0,0,0,,{\an7\pos(0,0)\blur2\bord0\c&HFEFEFE&\p1}m 240.1 124.98 l 965.12 124.98 965.12 250.27 240.1 250.27
-Dialogue: 0,0:21:54.25,0:22:01.51,Main,,0,0,0,,{\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx150\fscy150\pos(545,247)}Raichu
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,553)}Classification
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,636)}Type
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,741)}Height
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,821)}Weight
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx50\fscy50\pos(84.5,901)}Ability
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx45\fscy45\pos(445.5,546)}Mouse Pokémon
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur3\fnFOT-Cezanne ProN EB\b0\an8\shad4\4a&H40&\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&HFF&\3a&HFF&\pos(486.5,658)}Electric
-Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\1a&HFF&\t(275,320,\1a&H00&)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H4DAAFA&\fscx40\fscy40\clip(437,665,537,668)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H50B0F6&\fscx40\fscy40\clip(437,668,537,674)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H54BDF6&\fscx40\fscy40\clip(437,674,537,679)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H50C7F4&\fscx40\fscy40\clip(437,679,537,681)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H51CBF7&\fscx40\fscy40\clip(437,681,537,684)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H54D2F6&\fscx40\fscy40\clip(437,684,537,686)\pos(486.5,658)}Electric
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnFOT-Cezanne ProN EB\b0\an8\c&H4CD4F6&\fscx40\fscy40\clip(437,686,537,687)\pos(486.5,658)}Electric
+Dialogue: 0,0:21:54.25,0:22:01.51,Main,,0,0,0,,{\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx150\fscy150\pos(545,247)}Raichu
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,553)}Classification
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,636)}Type
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,741)}Height
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,821)}Weight
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx50\fscy50\pos(84.5,901)}Ability
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx45\fscy45\pos(445.5,546)}Mouse Pokémon
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur3\fnCezanneProN-EB-Str\b0\an8\shad4\alpha&HFF&\4a&H40&\ko0\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(-80,320,\4c&H000000&)\fscx40\fscy40\pos(486.5,658)}Electric
+Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnCezanneProN-EB-Str\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H4DAAFA&\fscx40\fscy40\clip(437,665,537,668)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H50B0F6&\fscx40\fscy40\clip(437,668,537,674)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H54BDF6&\fscx40\fscy40\clip(437,674,537,679)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H50C7F4&\fscx40\fscy40\clip(437,679,537,681)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H51CBF7&\fscx40\fscy40\clip(437,681,537,684)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H54D2F6&\fscx40\fscy40\clip(437,684,537,686)\pos(486.5,658)}Electric
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&H4CD4F6&\fscx40\fscy40\clip(437,686,537,687)\pos(486.5,658)}Electric
 Dialogue: 0,0:21:54.25,0:21:58.13,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFEFEFE&\p1}m 431.26 836.48 l 667.05 839.18 b 687.13 865.19 724.15 888.6 756.32 903.08 l 702.91 953.72 432 950.61
 Dialogue: 0,0:21:58.13,0:21:58.17,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFFFEF7&\p1}m 431.26 836.48 l 667.05 839.18 b 687.13 865.19 724.15 888.6 756.32 903.08 l 702.91 953.72 432 950.61
-Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnFOT-NewCezanne ProN EB\b0\c&H00000&\fscx70\fscy70\pos(441,910)}Static
+Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx70\fscy70\pos(441,910)}Static
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1104.63)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1075.58)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1046.76)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1018.11)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,989.8)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,961.84)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,934.55)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,908.08)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,882.99)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,859.92)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,840.48)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,826.78)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820.77)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=37}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
-Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1104.63)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1075.58)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1046.76)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1018.11)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,989.8)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,961.84)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,934.55)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,908.08)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,882.99)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,859.92)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,840.48)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,826.78)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820.77)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1104.63)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1075.58)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1046.76)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1018.11)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,989.8)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,961.84)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,934.55)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,908.08)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,882.99)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,859.92)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,840.48)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,826.78)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820.77)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=35}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
-Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1104.63)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1075.58)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1046.76)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1018.11)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,989.8)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,961.84)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,934.55)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,908.08)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,882.99)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,859.92)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,840.48)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,826.78)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820.77)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1104.63)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1075.58)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1046.76)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1018.11)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,989.8)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,961.84)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,934.55)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,908.08)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,882.99)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,859.92)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,840.48)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,826.78)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820.77)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
-Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
-Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1104.63)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1075.58)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1046.76)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1018.11)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,989.8)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,961.84)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,934.55)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,908.08)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,882.99)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,859.92)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,840.48)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,826.78)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820.77)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=37}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
+Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1104.63)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1075.58)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1046.76)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1018.11)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,989.8)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,961.84)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,934.55)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,908.08)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,882.99)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,859.92)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,840.48)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,826.78)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820.77)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=36}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1104.63)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1075.58)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1046.76)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1018.11)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,989.8)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,961.84)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,934.55)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,908.08)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,882.99)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,859.92)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,840.48)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,826.78)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820.77)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=35}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
+Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1104.63)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1075.58)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1046.76)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1018.11)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,989.8)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,961.84)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,934.55)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,908.08)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,882.99)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,859.92)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,840.48)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,826.78)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820.77)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1104.63)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1075.58)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1046.76)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1018.11)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,989.8)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,961.84)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,934.55)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,908.08)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,882.99)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,859.92)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,840.48)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,826.78)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820.77)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
+Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
+Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1109.71)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1074.95)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1040.49)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1006.27)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,972.62)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,939.65)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,907.88)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,877.9)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,851.4)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,831.3)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,821.32)\fscx80\fscy80}Alolan Raichu
-Dialogue: 0,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=49}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
-Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1109.71)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1074.95)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1040.49)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,1006.27)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,972.62)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,939.65)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,907.88)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,877.9)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,851.4)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,831.3)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,821.32)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 1,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
-Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1109.71)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1074.95)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1040.49)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1006.27)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,972.62)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,939.65)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,907.88)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,877.9)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,851.4)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,831.3)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,821.32)\fscx80\fscy80}Mega Raichu X
-Dialogue: 0,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=47}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
-Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1109.71)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1074.95)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1040.49)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,1006.27)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,972.62)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,939.65)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,907.88)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,877.9)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,851.4)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,831.3)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,821.32)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 1,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
-Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 0,0:23:42.98,0:23:43.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnFOT-GMaruGo Pro DB\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1109.71)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1074.95)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1040.49)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,1006.27)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,972.62)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,939.65)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,907.88)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,877.9)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,851.4)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,831.3)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,821.32)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 1,0:23:42.98,0:23:43.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
-Dialogue: 0,0:23:43.86,0:23:46.49,Main,,0,0,0,,{\blur3\bord6\fnFOT-GMaruGo Pro DB\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
-Dialogue: 1,0:23:43.86,0:23:46.49,Main,,0,0,0,,{\blur0.6\bord0\fnFOT-GMaruGo Pro DB\b0\c&HFDFEFE&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1109.71)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1074.95)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1040.49)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1006.27)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,972.62)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,939.65)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,907.88)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,877.9)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,851.4)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,831.3)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,821.32)\fscx80\fscy80}Alolan Raichu
+Dialogue: 0,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Alolan Raichu
+Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1109.71)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1074.95)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1040.49)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,1006.27)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,972.62)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,939.65)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,907.88)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,877.9)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,851.4)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,831.3)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,821.32)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 1,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=48}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Alolan Raichu
+Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1109.71)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1074.95)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1040.49)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,1006.27)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,972.62)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,939.65)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,907.88)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,877.9)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,851.4)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,831.3)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,821.32)\fscx80\fscy80}Mega Raichu X
+Dialogue: 0,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=47}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Mega Raichu X
+Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1109.71)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1074.95)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1040.49)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,1006.27)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,972.62)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,939.65)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,907.88)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,877.9)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,851.4)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,831.3)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,821.32)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 1,0:23:42.98,0:23:46.49,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Mega Raichu X
+Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 0,0:23:42.98,0:23:43.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1109.71)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1074.95)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1040.49)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1006.27)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,972.62)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,939.65)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,907.88)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,877.9)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,851.4)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,831.3)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,821.32)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 1,0:23:42.98,0:23:43.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
+Dialogue: 0,0:23:43.86,0:23:46.49,Main,,0,0,0,,{\blur3\bord6\fnGMaruGoPro-DB-Str\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(1590,820)\fscx70\fscy80}Kyodaimax Raichu
+Dialogue: 1,0:23:43.86,0:23:46.49,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&HFDFEFE&\pos(1590,820)\fscx70\fscy80\4a&HFF&}Kyodaimax Raichu
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:47.48,0:02:53.40,Episode titles,,0,0,0,,{=0}{\fad(480,0)\bord5\shad3\blur6\pos(960,160)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Fake Rising Voltteccers Appea{\fsp5}r?!
 Dialogue: 1,0:02:47.48,0:02:53.40,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,160)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Fake Rising Voltteccers Appea{\fsp5}r?!
