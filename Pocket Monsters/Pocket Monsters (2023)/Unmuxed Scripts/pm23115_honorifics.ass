@@ -379,10 +379,10 @@ Dialogue: 10,0:24:01.50,0:24:05.47,Main,Dot,0,0,0,,Here, we can battle Pokémon 
 Dialogue: 10,0:24:06.17,0:24:09.93,Main,Roy,0,0,0,,I’m gonna get way, way stronger! \N No, I {\i1}have{\i0} to!
 Dialogue: 10,0:24:10.55,0:24:13.52,Main,Ult,0,0,0,,I’m gonna find some mega-strong foes \N and beat ‘em to a pulp!
 Dialogue: 10,0:24:14.64,0:24:18.48,Main,Liko,0,0,0,,You’ve all got such intense fighting spirit... \N We’ll have to try our best, too!
-Dialogue: 10,0:24:19.40,0:24:22.57,Main,Liko,0,0,0,,And so, to be continued \N next time on Pocket Monsters!
-Dialogue: 10,0:24:22.57,0:24:25.11,Main,Liko,0,0,0,,Begin the Training! The Terarium Dome
-Dialogue: 10,0:24:25.11,0:24:26.44,Main,Roy,0,0,0,,I’ll give it all I’ve got!
-Dialogue: 10,0:24:26.44,0:24:29.28,Main,Kakitsubata,0,0,0,,Let’s take it easy, brother.{PV}
+Dialogue: 10,0:24:19.23,0:24:22.65,Main,Liko,0,0,0,,And so, to be continued \N next time on Pocket Monsters!
+Dialogue: 10,0:24:22.65,0:24:25.11,Main,Liko,0,0,0,,Begin the Training! The Terarium Dome
+Dialogue: 10,0:24:25.11,0:24:26.65,Main,Roy,0,0,0,,I’ll give it all I’ve got!
+Dialogue: 10,0:24:26.65,0:24:29.28,Main,Kakitsubata,0,0,0,,Let’s take it easy, brother.{PV}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:07.50,0:03:12.13,OP,,0,0,0,,{=1600}{\q2\fad(0,320)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\t(4310,4355,\1a&HFF&)}I stepped out upon a question with no answer
 Dialogue: 0,0:03:12.51,0:03:20.81,OP,,0,0,0,,{\q2\fad(320,0)\pos(960,35)\blur0.6\c&HFFFFFF&\shad4\4a&H20&\1a&HFF&\t(275,320,\1a&H00&)}Starting a story from here, a place nobody knows, sends the message

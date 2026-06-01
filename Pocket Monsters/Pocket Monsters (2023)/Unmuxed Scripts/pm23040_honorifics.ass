@@ -196,35 +196,35 @@ Dialogue: 10,0:13:39.55,0:13:42.72,Main,Marnya,0,0,0,,She often made that same f
 Dialogue: 10,0:13:42.72,0:13:44.43,Main,Liko,0,0,0,,Huh? By “she,” you mean...
 Dialogue: 10,0:13:45.01,0:13:46.18,Main,Liko,0,0,0,,Nyahoja?
 Dialogue: 10,0:13:46.18,0:13:47.18,Main,Marnya,0,0,0,,Yes.
-Dialogue: 10,0:13:50.64,0:13:54.10,Main,Marnya,0,0,0,,She’d be sunbathing \N in her favorite spot on the roof, and...
-Dialogue: 10,0:13:54.69,0:14:00.15,Main,Marnya,0,0,0,,{\q2}...I could practically hear her saying \N “Oh... I’m so bored here. Take me somewhere more fun...”
-Dialogue: 10,0:14:01.49,0:14:03.74,Main,Marnya,0,0,0,,Even if the others were playing,
-Dialogue: 10,0:14:03.74,0:14:06.99,Main,Marnya,0,0,0,,she would go “Leave me out of it.”
+Dialogue: 10,0:13:50.64,0:13:54.10,Main,Marnya,0,0,165,,She’d be sunbathing \N in her favorite spot on the roof, and...
+Dialogue: 10,0:13:54.69,0:14:00.15,Main,Marnya,0,0,165,,{\q2}...I could practically hear her saying \N “Oh... I’m so bored here. Take me somewhere more fun...”
+Dialogue: 10,0:14:01.49,0:14:03.74,Main,Marnya,0,0,165,,Even if the others were playing,
+Dialogue: 10,0:14:03.74,0:14:06.99,Main,Marnya,0,0,165,,she would go “Leave me out of it.”
 Dialogue: 10,0:14:07.41,0:14:09.50,Main,Liko,0,0,0,,I can picture it...
-Dialogue: 10,0:14:09.50,0:14:15.04,Main,Marnya,0,0,0,,But then, one time \N when everyone was play-battling...
-Dialogue: 10,0:14:29.64,0:14:34.10,Main,Marnya,0,0,0,,I was quite surprised. \N It was an amazingly powerful Leafage.
+Dialogue: 10,0:14:09.50,0:14:15.04,Main,Marnya,0,0,165,,But then, one time \N when everyone was play-battling...
+Dialogue: 10,0:14:29.64,0:14:34.10,Main,Marnya,0,0,165,,I was quite surprised. \N It was an amazingly powerful Leafage.
 Dialogue: 10,0:14:34.69,0:14:39.15,Main,Marnya,0,0,0,,She must have a knack for battling.
-Dialogue: 10,0:14:39.15,0:14:43.24,Main,Liko,0,0,0,,So Nyahoja’s Leafage \N really is something special...
+Dialogue: 10,0:14:39.15,0:14:43.24,Main,Liko,0,0,0,,So Nyahoja’s Leafage \N really {\i1}is{\i0} something special...
 Dialogue: 10,0:14:43.24,0:14:45.95,Main,Liko,0,0,0,,And then what happened?
 Dialogue: 10,0:14:45.95,0:14:47.20,Main,Marnya,0,0,0,,After that...
-Dialogue: 10,0:14:47.20,0:14:51.20,Main,Marnya,0,0,0,,She came to be admired \N for her astounding Leafage...
-Dialogue: 10,0:14:51.20,0:14:56.38,Main,Marnya,0,0,0,,...and came down from the roof \N to have fun playing with her friends.
-Dialogue: 10,0:14:57.33,0:14:59.50,Main,Liko,0,0,0,,So she made friends.
+Dialogue: 10,0:14:47.20,0:14:51.20,Main,Marnya,0,0,165,,She came to be admired \N for her astounding Leafage...
+Dialogue: 10,0:14:51.20,0:14:56.38,Main,Marnya,0,0,165,,...and came down from the roof \N to have fun playing with her friends.
+Dialogue: 10,0:14:57.33,0:14:59.50,Main,Liko,0,0,0,,So she made friends!
 Dialogue: 10,0:14:59.50,0:15:03.51,Main,Liko,0,0,0,,I’m relieved to hear \N that she wasn’t alone.
 Dialogue: 10,0:15:03.51,0:15:05.13,Main,Marnya,0,0,0,,Well...
 Dialogue: 10,0:15:05.13,0:15:05.72,Main,Liko,0,0,0,,Huh?
-Dialogue: 10,0:15:23.03,0:15:26.82,Main,Marnya,0,0,0,,She was playing happily with \N the others like any other day, until...
-Dialogue: 10,0:15:36.00,0:15:36.71,Main,Marnya,0,0,0,,That’s...
-Dialogue: 10,0:15:39.13,0:15:41.71,Main,Marnya,0,0,0,,The Trap Pokémon, Wanaider.
-Dialogue: 10,0:15:41.71,0:15:44.17,Main,Marnya,0,0,0,,Now and then, \N one would sneak onto the grounds...
-Dialogue: 10,0:15:44.17,0:15:46.72,Main,Marnya,0,0,0,,...and use traps to cause trouble.
-Dialogue: 10,0:15:57.60,0:15:58.90,Main,Marnya,0,0,0,,Dear me!
-Dialogue: 10,0:16:01.19,0:16:03.86,Main,Marnya,0,0,0,,Don’t worry. You’ll be all better soon.
-Dialogue: 10,0:16:04.65,0:16:07.86,Main,Marnya,0,0,0,,She was only trying to save her friends.
-Dialogue: 10,0:16:07.86,0:16:12.12,Main,Marnya,0,0,0,,But her Leafage was a bit too strong.
-Dialogue: 10,0:16:13.37,0:16:15.83,Main,Marnya,0,0,0,,The others became afraid of her,
-Dialogue: 10,0:16:15.83,0:16:18.42,Main,Marnya,0,0,0,,and started avoiding her.
-Dialogue: 10,0:16:22.63,0:16:27.26,Main,Marnya,0,0,0,,Ever since that day, \N she never used Leafage again.
+Dialogue: 10,0:15:23.03,0:15:26.82,Main,Marnya,0,0,165,,She was playing happily with \N the others like any other day, until...
+Dialogue: 10,0:15:36.00,0:15:36.71,Main,Marnya,0,0,165,,That’s...
+Dialogue: 10,0:15:39.13,0:15:41.71,Main,Marnya,0,0,165,,The Trap Pokémon, Wanaider.
+Dialogue: 10,0:15:41.71,0:15:44.17,Main,Marnya,0,0,165,,Now and then, \N one would sneak onto the grounds...
+Dialogue: 10,0:15:44.17,0:15:46.72,Main,Marnya,0,0,165,,...and use traps to cause trouble.
+Dialogue: 10,0:15:57.60,0:15:58.90,Main,Marnya,0,0,165,,Dear me!
+Dialogue: 10,0:16:01.19,0:16:03.86,Main,Marnya,0,0,165,,Don’t worry. You’ll be all better soon.
+Dialogue: 10,0:16:04.65,0:16:07.86,Main,Marnya,0,0,165,,She was only trying to save her friends.
+Dialogue: 10,0:16:07.86,0:16:12.12,Main,Marnya,0,0,165,,But her Leafage was a bit too strong.
+Dialogue: 10,0:16:13.37,0:16:15.83,Main,Marnya,0,0,165,,The others became afraid of her,
+Dialogue: 10,0:16:15.83,0:16:18.42,Main,Marnya,0,0,165,,and started avoiding her.
+Dialogue: 10,0:16:22.63,0:16:27.26,Main,Marnya,0,0,165,,Ever since that day, \N she never used Leafage again.
 Dialogue: 10,0:16:29.26,0:16:31.14,Main,Liko,0,0,0,,I never knew...
 Dialogue: 10,0:16:31.14,0:16:35.52,Main,Marnya,0,0,0,,Before long, her friends found partners \N for themselves and headed off,
 Dialogue: 10,0:16:35.52,0:16:38.64,Main,Marnya,0,0,0,,but she just kept \N sitting up on that roof...
@@ -235,15 +235,15 @@ Dialogue: 10,0:16:55.95,0:17:00.04,Main,Liko,0,0,0,,maybe she thought I’d aban
 Dialogue: 10,0:17:02.08,0:17:04.67,Main,Liko,0,0,0,,Is that why she came here?
 Dialogue: 10,0:17:04.67,0:17:07.34,Main,Liko,0,0,0,,I told her that I was fine...
 Dialogue: 10,0:17:07.34,0:17:10.47,Main,Marnya,0,0,0,,That’s why it was such a relief...
-Dialogue: 10,0:17:10.47,0:17:15.22,Main,Marnya,0,0,0,,...when you two met at the Sekiei Academy interview.
+Dialogue: 10,0:17:10.47,0:17:15.22,Main,Marnya,0,0,0,,...when you two met \N at the Sekiei Academy interview.
 Dialogue: 10,0:17:15.22,0:17:16.31,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:17:16.31,0:17:17.22,Main,Liko,0,0,0,,Interview?
-Dialogue: 10,0:17:18.10,0:17:22.02,Main,Marnya,0,0,0,,You were introduced to some Pokémon \N before starting school, right?
-Dialogue: 10,0:17:23.19,0:17:25.65,Main,Marnya,0,0,0,,I was only spectating,
-Dialogue: 10,0:17:26.28,0:17:28.49,Main,Marnya,0,0,0,,but I was sure of it.
-Dialogue: 10,0:17:28.49,0:17:32.91,Main,Marnya,0,0,0,,I knew that you would be \N the perfect partner for her.
-Dialogue: 10,0:17:33.74,0:17:35.91,Main,Marnya,0,0,0,,I saw the look in her eyes.
-Dialogue: 10,0:17:37.66,0:17:40.79,Main,Marnya,0,0,0,,She couldn’t stop gazing at you \N through the screen...
+Dialogue: 10,0:17:18.10,0:17:22.02,Main,Marnya,0,0,165,,You were introduced to some Pokémon \N before starting school, right?
+Dialogue: 10,0:17:23.19,0:17:25.65,Main,Marnya,0,0,165,,I was only spectating,
+Dialogue: 10,0:17:26.28,0:17:28.49,Main,Marnya,0,0,165,,but I was sure of it.
+Dialogue: 10,0:17:28.49,0:17:32.91,Main,Marnya,0,0,165,,I knew that you would be \N the perfect partner for her.
+Dialogue: 10,0:17:33.74,0:17:35.91,Main,Marnya,0,0,165,,I saw the look in her eyes.
+Dialogue: 10,0:17:37.66,0:17:40.79,Main,Marnya,0,0,165,,She couldn’t stop gazing at you \N through the screen...
 Dialogue: 10,0:17:40.79,0:17:45.04,Main,Marnya,0,0,0,,She must have been thinking \N “We’re meant for one another.”
 Dialogue: 10,0:17:46.92,0:17:50.72,Main,Marnya,0,0,0,,So, if she made her way back here...
 Dialogue: 10,0:17:50.72,0:17:52.01,Main,Liko,0,0,0,,Nyahoja!
@@ -1062,26 +1062,26 @@ Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy
 Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}What does it use when catching prey in its traps?
 Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}What does it use when catching prey in its traps?
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What does it use when catching prey in its traps?
-Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Saliva
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Saliva
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Saliva
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Saliva
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Saliva
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Saliva
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Saliva
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Saliva
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Saliva
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Saliva
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Saliva
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1190.17)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1124.05)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1059.81)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1001.55)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,951.31)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,909.99)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,877.48)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,854.43)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,840.69)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,836)\4a&H00&\4c&H918FED&\shad2}Saliva
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1190.17)}Saliva
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1124.05)}Saliva
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1059.81)}Saliva
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1001.55)}Saliva
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,951.31)}Saliva
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,909.99)}Saliva
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,877.48)}Saliva
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,854.43)}Saliva
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,840.69)}Saliva
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,836)}Saliva
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Threads
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Threads
 Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Threads
@@ -1102,26 +1102,26 @@ Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Threads
 Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Threads
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Threads
-Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Stench
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Stench
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Stench
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Stench
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Stench
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Stench
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Stench
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Stench
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Stench
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Stench
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Stench
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,951.31)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,909.99)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,877.48)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,854.43)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,840.69)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,836)\4a&H00&\4c&HF1C08C&\shad2}Stench
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1190.17)}Stench
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1124.05)}Stench
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1059.81)}Stench
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1001.55)}Stench
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,951.31)}Stench
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,909.99)}Stench
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,877.48)}Stench
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,854.43)}Stench
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Stench
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Stench
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it use when \N catching prey in its traps?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HA1DCA3&\shad2}B: Threads
 Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it use when \N catching prey in its traps?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H46C147&}B: Threads
 Dialogue: 0,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it use when \N catching prey in its traps?\N\N{\alpha&H00&\4c&HA1DCA3&\shad2}B: Threads

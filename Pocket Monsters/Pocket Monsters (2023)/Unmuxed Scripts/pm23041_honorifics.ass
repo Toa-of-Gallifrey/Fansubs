@@ -166,99 +166,99 @@ Dialogue: 10,0:09:03.61,0:09:06.40,Main,Dot,0,0,0,,I was always in my room at ho
 Dialogue: 10,0:09:06.40,0:09:08.86,Main,Dot,0,0,0,,but I didn’t feel like \N I was missing anything.
 Dialogue: 10,0:09:08.86,0:09:13.37,Main,Dot,0,0,0,,I could stream as Gurumin, \N with the net as my connection to the whole world.
 Dialogue: 10,0:09:14.08,0:09:18.33,Main,Dot,0,0,0,,But I kept bumping into things \N I just couldn’t {\i1}get{\i0} from inside my room.
-Dialogue: 10,0:09:19.37,0:09:21.79,Main,Dot,0,0,0,,I was totally stuck.
-Dialogue: 10,0:09:23.96,0:09:26.17,Main,Dot,0,0,0,,Something just doesn’t add up...
-Dialogue: 10,0:09:26.92,0:09:30.42,Main,Dot,0,0,0,,Can’t I find anything \N more interesting...?
-Dialogue: 10,0:09:31.47,0:09:34.60,Main,Dot,0,0,0,,Oh, there’s a new thesis.
-Dialogue: 10,0:09:37.39,0:09:40.43,Main,Dot,0,0,0,,This professor’s so amazing...
-Dialogue: 10,0:09:40.98,0:09:45.44,Main,Dot,0,0,0,,He goes all over the world, \N meets all sorts of Pokémon...
-Comment: 10,0:09:44.98,0:09:45.44,Main,Dot,0,0,0,,Oh!
-Dialogue: 10,0:09:47.40,0:09:49.82,Main,Dot,0,0,0,,He even made a distribution map!
-Dialogue: 10,0:09:50.15,0:09:53.41,Main,Dot,0,0,0,,All right, this’ll be the topic of my next vid!
-Dialogue: 10,0:09:53.41,0:09:56.66,Main,Dot,0,0,0,,The net’s full to the brim \N with interesting info.
-Dialogue: 10,0:09:56.66,0:10:01.58,Main,Dot,0,0,0,,But... the {\i1}reason{\i0} it’s interesting is that it comes \N from people speaking from actual experience.
-Dialogue: 10,0:10:02.33,0:10:04.63,Main,Dot,0,0,0,,At first, before I’d realized that...
-Dialogue: 10,0:10:04.63,0:10:09.30,Main,Dot,0,0,0,,I tried to research stuff and \N gather lots of info to share as Gurumin,
-Dialogue: 10,0:10:09.30,0:10:11.88,Main,Dot,0,0,0,,trying not to be overshadowed.
-Dialogue: 10,0:10:12.51,0:10:15.72,Main,Dot,0,0,0,,But it just didn’t {\i1}feel{\i0} right,
-Dialogue: 10,0:10:16.72,0:10:18.64,Main,Dot,0,0,0,,and I couldn’t keep it up.
-Dialogue: 10,0:10:20.64,0:10:23.10,Main,Dot,0,0,0,,Nanjamo’s got a livestream today!
-Dialogue: 10,0:10:23.10,0:10:25.52,Main,Dot,0,0,0,,I’ll grab something to eat \N before it starts.
-Dialogue: 10,0:10:35.20,0:10:36.91,Main,Dot,0,0,0,,Wh-Wh-Who are you?!
-Dialogue: 10,0:10:38.62,0:10:40.12,Main,Friede,0,0,0,,I’m Friede.
-Dialogue: 10,0:10:40.12,0:10:42.66,Main,Friede,0,0,0,,I’m friends with your uncle Murdock.
-Dialogue: 10,0:10:43.37,0:10:45.83,Main,Friede,0,0,0,,This is my partner, Captain Pikachu.
-Dialogue: 10,0:10:47.79,0:10:49.25,Main,Dot,0,0,0,,Friede?
-Dialogue: 10,0:10:49.25,0:10:51.42,Main,Friede,0,0,0,,I was passing through, \N so I thought I’d say hi.
-Dialogue: 10,0:10:51.42,0:10:53.97,Main,Friede,0,0,0,,Nice to finally meet you, Dot.
-Dialogue: 10,0:10:53.97,0:10:57.68,Main,Friede,0,0,0,,Hey, I know we only just met, but... \N Could you fix this for me?
-Dialogue: 10,0:10:57.68,0:10:58.55,Main,Dot,0,0,0,,Huh?
-Dialogue: 10,0:10:58.55,0:11:01.10,Main,Friede,0,0,0,,It just won’t work right.
-Dialogue: 10,0:11:01.64,0:11:03.10,Main,Dot,0,0,0,,Why ask me?
-Dialogue: 10,0:11:03.10,0:11:05.14,Main,Friede,0,0,0,,You’re good with this stuff, right?
-Dialogue: 10,0:11:06.02,0:11:07.81,Main,Dot,0,0,0,,Did you hear that from Murdock?{Did Murdock tell you that?}
-Dialogue: 10,0:11:07.81,0:11:08.94,Main,Friede,0,0,0,,Something like that.
-Dialogue: 10,0:11:09.44,0:11:11.32,Main,Friede,0,0,0,,Here’s the issue I’m running into.
-Dialogue: 10,0:11:11.32,0:11:13.78,Main,Friede,0,0,0,,If I can’t get this program working,
-Dialogue: 10,0:11:13.78,0:11:16.20,Main,Friede,0,0,0,,I won’t be able to do \N what I like doing most.
-Dialogue: 10,0:11:16.20,0:11:17.66,Main,Dot,0,0,0,,Hmm...
-Dialogue: 10,0:11:19.74,0:11:21.83,Main,Dot,0,0,0,,That was in the thesis I saw earlier!
-Dialogue: 10,0:11:22.45,0:11:24.33,Main,Dot,0,0,0,,Professor... Friede...
-Dialogue: 10,0:11:25.83,0:11:27.17,Main,Dot,0,0,0,,Oh...
-Dialogue: 10,0:11:27.17,0:11:28.63,Main,Dot,0,0,0,,N-N-Never mind!
-Dialogue: 10,0:11:28.63,0:11:31.00,Main,Friede,0,0,0,,So? Think you can fix it?
-Dialogue: 10,0:11:31.00,0:11:32.38,Main,Dot,0,0,0,,Easily.
-Dialogue: 10,0:11:32.38,0:11:33.84,Main,Friede,0,0,0,,That’s reassuring!
-Dialogue: 10,0:11:37.68,0:11:38.59,Main,Friede,0,0,0,,Thanks!
-Dialogue: 10,0:11:39.85,0:11:41.60,Main,Friede,0,0,0,,And all the data’s still there!
-Dialogue: 10,0:11:41.60,0:11:43.27,Main,Dot,0,0,0,,Of course.
-Dialogue: 10,0:11:43.27,0:11:46.31,Main,Dot,0,0,0,,It’d be really bad \N if you lost such important data...
-Dialogue: 10,0:11:46.31,0:11:47.56,Main,Friede,0,0,0,,Hey, Dot.
-Dialogue: 10,0:11:47.56,0:11:51.73,Main,Friede,0,0,0,,While we’re at it,{Keeping up this flow,} could you make \N an app for the Rising Voltteccers?
-Dialogue: 10,0:11:51.73,0:11:53.40,Main,Dot,0,0,0,,What do you mean \N “while we’re at it”?
-Dialogue: 10,0:11:53.40,0:11:54.94,Main,Dot,0,0,0,,Wait, what? An app?!
-Dialogue: 10,0:11:54.94,0:11:55.78,Main,Friede,0,0,0,,Yeah.
-Dialogue: 10,0:11:55.78,0:11:58.61,Main,Friede,0,0,0,,I want an app that stands \N as a testament to our friendship.
-Dialogue: 10,0:11:59.78,0:12:01.62,Main,Friede,0,0,0,,Well? Think you could do it?
-Dialogue: 10,0:12:01.62,0:12:04.41,Main,Dot,0,0,0,,Easily... \N Well, maybe not {\i1}easily{\i0}, but...
-Dialogue: 10,0:12:04.41,0:12:08.25,Main,Dot,0,0,0,,Give me some time and \N I can put a program together.
-Dialogue: 10,0:12:08.25,0:12:10.00,Main,Friede,0,0,0,,You’re amazing!
-Dialogue: 10,0:12:10.00,0:12:12.09,Main,Dot,0,0,0,,It’s nothing special.
-Dialogue: 10,0:12:12.09,0:12:14.63,Main,Dot,0,0,0,,Just something I taught myself \N ‘cause I liked it...
-Dialogue: 10,0:12:14.63,0:12:16.01,Main,Friede,0,0,0,,That is {\i1}absolutely{\i0} special!
-Dialogue: 10,0:12:16.55,0:12:20.51,Main,Friede,0,0,0,,What you like and what I like \N have crossed paths.
-Dialogue: 10,0:12:20.51,0:12:22.97,Main,Friede,0,0,0,,It must be fate! Right, Cap?
-Dialogue: 10,0:12:24.27,0:12:26.77,Main,Friede,0,0,0,,Dot, wanna join us aboard our ship?
-Dialogue: 10,0:12:27.18,0:12:28.02,Main,Dot,0,0,0,,Huh?
-Dialogue: 10,0:12:30.02,0:12:33.44,Main,Dot,0,0,0,,Wh-What? \N None of this makes any sense...
-Dialogue: 10,0:12:34.44,0:12:36.15,Main,Dot,0,0,0,,O-On second thought, forget it.
-Dialogue: 10,0:12:36.15,0:12:38.40,Main,Dot,0,0,0,,I can’t make you an app.
-Dialogue: 10,0:12:45.54,0:12:47.33,Main,Dot,0,0,0,,What a weirdo.
-Dialogue: 10,0:12:47.33,0:12:49.54,Main,Dot,0,0,0,,Oh no, Nanjamo’s stream started!
-Dialogue: 10,0:12:50.54,0:12:55.55,Main,Nanjamo,0,0,0,,Keep up the questions, queries, and Pokémon “Q”s! \N I’m waiting on all of your comments!{question, doubt, pokemon, mon(all words end in mon)}
-Dialogue: 10,0:12:55.92,0:12:57.42,Main,Dot,0,0,0,,Questions, queries...
-Dialogue: 10,0:13:00.93,0:13:02.05,Main,Dot,0,0,0,,Yeah, right.
-Dialogue: 10,0:13:02.55,0:13:06.27,Main,Nanjamo,0,0,0,,Ooh! I spy a curious comment \N a-comin’-trekkin’-Kentauros!{An interesting comment spotted(ends in ken), adventure(ends in ken), kentauros}
-Dialogue: 10,0:13:06.27,0:13:08.31,Main,Nanjamo,0,0,0,,It’s a question from Homebody-shi!
-Dialogue: 10,0:13:08.31,0:13:10.14,Main,Dot,0,0,0,,Huh? No way! This can’t be...!
-Dialogue: 10,0:13:10.14,0:13:12.27,Main,Dot,0,0,0,,Th-Th-Th-That’s my comment...!
-Dialogue: 10,0:13:12.27,0:13:14.36,Main,Nanjamo,0,0,0,,“I’m a streamer as well.
-Dialogue: 10,0:13:14.36,0:13:18.28,Main,Nanjamo,0,0,0,,“Nanjamo, have you ever felt \N like you’ve hit a wall before?”
-Dialogue: 10,0:13:18.28,0:13:22.49,Main,Nanjamo,0,0,0,,That’s what it says! \N Well, of course I have!
-Dialogue: 10,0:13:22.49,0:13:23.62,Main,Dot,0,0,0,,You have?
-Dialogue: 10,0:13:23.62,0:13:28.87,Main,Nanjamo,0,0,0,,But just sitting and waiting won’t get you \N over that wall! You gotta get moving!
-Dialogue: 10,0:13:29.62,0:13:30.54,Main,Dot,0,0,0,,Get moving...
-Dialogue: 10,0:13:30.54,0:13:34.34,Main,Nanjamo,0,0,0,,Oh, but I wouldn’t wanna \N stop streaming... Oh, I know!
-Dialogue: 10,0:13:34.34,0:13:39.38,Main,Nanjamo,0,0,0,,I’d have my studio grow wings, \N so I could fly all over!
-Dialogue: 10,0:13:39.38,0:13:41.38,Main,Nanjamo,0,0,0,,Did that help you out?
-Dialogue: 10,0:13:41.38,0:13:44.80,Main,Nanjamo,0,0,0,,If not, just laugh it off \N as some Nanjamo nonsense!
-Dialogue: 10,0:13:46.60,0:13:49.22,Main,Blanca,0,0,0,,Dot! When are you gonna wake up?!
-Dialogue: 10,0:13:49.22,0:13:51.81,Main,Blanca,0,0,0,,Big Bro and Friede left ages ago!
-Dialogue: 10,0:13:52.69,0:13:54.94,Main,Dot,0,0,0,,Not like that matters to me...
-Dialogue: 10,0:14:06.70,0:14:12.08,Main,Nanjamo,0,0,0,,I’d grow wings, \N so I could fly all over!{Not an exact match to the earlier line.}
-Dialogue: 10,0:14:12.08,0:14:14.00,Main,Friede,0,0,0,,That is {\i1}absolutely{\i0} special!{These are, though (save for an omitted "Dot" in the last repeated line).}
-Dialogue: 10,0:14:14.00,0:14:17.96,Main,Friede,0,0,0,,What you like and what I like \N have crossed paths.
-Dialogue: 10,0:14:18.59,0:14:20.51,Main,Friede,0,0,0,,Wanna join us aboard our ship?
+Dialogue: 10,0:09:19.37,0:09:21.79,Main,Dot,0,0,165,,I was totally stuck.
+Dialogue: 10,0:09:23.96,0:09:26.17,Main,Dot,0,0,165,,Something just doesn’t add up...
+Dialogue: 10,0:09:26.92,0:09:30.42,Main,Dot,0,0,165,,Can’t I find anything \N more interesting...?
+Dialogue: 10,0:09:31.47,0:09:34.60,Main,Dot,0,0,165,,Oh, there’s a new thesis.
+Dialogue: 10,0:09:37.39,0:09:40.43,Main,Dot,0,0,165,,This professor’s so amazing...
+Dialogue: 10,0:09:40.98,0:09:45.44,Main,Dot,0,0,165,,He goes all over the world, \N meets all sorts of Pokémon...
+Comment: 10,0:09:44.98,0:09:45.44,Main,Dot,0,0,165,,Oh!
+Dialogue: 10,0:09:47.40,0:09:49.82,Main,Dot,0,0,165,,He even made a distribution map!
+Dialogue: 10,0:09:50.15,0:09:53.41,Main,Dot,0,0,165,,All right, this’ll be the topic of my next vid!
+Dialogue: 10,0:09:53.41,0:09:56.66,Main,Dot,0,0,165,,The net’s full to the brim \N with interesting info.
+Dialogue: 10,0:09:56.66,0:10:01.58,Main,Dot,0,0,165,,But... the {\i1}reason{\i0} it’s interesting is that it comes \N from people speaking from actual experience.
+Dialogue: 10,0:10:02.33,0:10:04.63,Main,Dot,0,0,165,,At first, before I’d realized that...
+Dialogue: 10,0:10:04.63,0:10:09.30,Main,Dot,0,0,165,,I tried to research stuff and \N gather lots of info to share as Gurumin,
+Dialogue: 10,0:10:09.30,0:10:11.88,Main,Dot,0,0,165,,trying not to be overshadowed.
+Dialogue: 10,0:10:12.51,0:10:15.72,Main,Dot,0,0,165,,But it just didn’t {\i1}feel{\i0} right,
+Dialogue: 10,0:10:16.72,0:10:18.64,Main,Dot,0,0,165,,and I couldn’t keep it up.
+Dialogue: 10,0:10:20.64,0:10:23.10,Main,Dot,0,0,165,,Nanjamo’s got a livestream today!
+Dialogue: 10,0:10:23.10,0:10:25.52,Main,Dot,0,0,165,,I’ll grab something to eat \N before it starts.
+Dialogue: 10,0:10:35.20,0:10:36.91,Main,Dot,0,0,165,,Wh-Wh-Who are you?!
+Dialogue: 10,0:10:38.62,0:10:40.12,Main,Friede,0,0,165,,I’m Friede.
+Dialogue: 10,0:10:40.12,0:10:42.66,Main,Friede,0,0,165,,I’m friends with your uncle Murdock.
+Dialogue: 10,0:10:43.37,0:10:45.83,Main,Friede,0,0,165,,This is my partner, Captain Pikachu.
+Dialogue: 10,0:10:47.79,0:10:49.25,Main,Dot,0,0,165,,Friede?
+Dialogue: 10,0:10:49.25,0:10:51.42,Main,Friede,0,0,165,,I was passing through, \N so I thought I’d say hi.
+Dialogue: 10,0:10:51.42,0:10:53.97,Main,Friede,0,0,165,,Nice to finally meet you, Dot.
+Dialogue: 10,0:10:53.97,0:10:57.68,Main,Friede,0,0,165,,Hey, I know we only just met, but... \N Could you fix this for me?
+Dialogue: 10,0:10:57.68,0:10:58.55,Main,Dot,0,0,165,,Huh?
+Dialogue: 10,0:10:58.55,0:11:01.10,Main,Friede,0,0,165,,It just won’t work right.
+Dialogue: 10,0:11:01.64,0:11:03.10,Main,Dot,0,0,165,,Why ask me?
+Dialogue: 10,0:11:03.10,0:11:05.14,Main,Friede,0,0,165,,You’re good with this stuff, right?
+Dialogue: 10,0:11:06.02,0:11:07.81,Main,Dot,0,0,165,,Did you hear that from Murdock?{Did Murdock tell you that?}
+Dialogue: 10,0:11:07.81,0:11:08.94,Main,Friede,0,0,165,,Something like that.
+Dialogue: 10,0:11:09.44,0:11:11.32,Main,Friede,0,0,165,,Here’s the issue I’m running into.
+Dialogue: 10,0:11:11.32,0:11:13.78,Main,Friede,0,0,165,,If I can’t get this program working,
+Dialogue: 10,0:11:13.78,0:11:16.20,Main,Friede,0,0,165,,I won’t be able to do \N what I like doing most.
+Dialogue: 10,0:11:16.20,0:11:17.66,Main,Dot,0,0,165,,Hmm...
+Dialogue: 10,0:11:19.74,0:11:21.83,Main,Dot,0,0,165,,That was in the thesis I saw earlier!
+Dialogue: 10,0:11:22.45,0:11:24.33,Main,Dot,0,0,165,,Professor... Friede...
+Dialogue: 10,0:11:25.83,0:11:27.17,Main,Dot,0,0,165,,Oh...
+Dialogue: 10,0:11:27.17,0:11:28.63,Main,Dot,0,0,165,,N-N-Never mind!
+Dialogue: 10,0:11:28.63,0:11:31.00,Main,Friede,0,0,165,,So? Think you can fix it?
+Dialogue: 10,0:11:31.00,0:11:32.38,Main,Dot,0,0,165,,Easily.
+Dialogue: 10,0:11:32.38,0:11:33.84,Main,Friede,0,0,165,,That’s reassuring!
+Dialogue: 10,0:11:37.68,0:11:38.59,Main,Friede,0,0,165,,Thanks!
+Dialogue: 10,0:11:39.85,0:11:41.60,Main,Friede,0,0,165,,And all the data’s still there!
+Dialogue: 10,0:11:41.60,0:11:43.27,Main,Dot,0,0,165,,Of course.
+Dialogue: 10,0:11:43.27,0:11:46.31,Main,Dot,0,0,165,,It’d be really bad \N if you lost such important data...
+Dialogue: 10,0:11:46.31,0:11:47.56,Main,Friede,0,0,165,,Hey, Dot.
+Dialogue: 10,0:11:47.56,0:11:51.73,Main,Friede,0,0,165,,While we’re at it,{Keeping up this flow,} could you make \N an app for the Rising Voltteccers?
+Dialogue: 10,0:11:51.73,0:11:53.40,Main,Dot,0,0,165,,What do you mean \N “while we’re at it”?
+Dialogue: 10,0:11:53.40,0:11:54.94,Main,Dot,0,0,165,,Wait, what? An app?!
+Dialogue: 10,0:11:54.94,0:11:55.78,Main,Friede,0,0,165,,Yeah.
+Dialogue: 10,0:11:55.78,0:11:58.61,Main,Friede,0,0,165,,I want an app that stands \N as a testament to our friendship.
+Dialogue: 10,0:11:59.78,0:12:01.62,Main,Friede,0,0,165,,Well? Think you could do it?
+Dialogue: 10,0:12:01.62,0:12:04.41,Main,Dot,0,0,165,,Easily... \N Well, maybe not {\i1}easily{\i0}, but...
+Dialogue: 10,0:12:04.41,0:12:08.25,Main,Dot,0,0,165,,Give me some time and \N I can put a program together.
+Dialogue: 10,0:12:08.25,0:12:10.00,Main,Friede,0,0,165,,You’re amazing!
+Dialogue: 10,0:12:10.00,0:12:12.09,Main,Dot,0,0,165,,It’s nothing special.
+Dialogue: 10,0:12:12.09,0:12:14.63,Main,Dot,0,0,165,,Just something I taught myself \N ‘cause I liked it...
+Dialogue: 10,0:12:14.63,0:12:16.01,Main,Friede,0,0,165,,That is {\i1}absolutely{\i0} special!
+Dialogue: 10,0:12:16.55,0:12:20.51,Main,Friede,0,0,165,,What you like and what I like \N have crossed paths.
+Dialogue: 10,0:12:20.51,0:12:22.97,Main,Friede,0,0,165,,It must be fate! Right, Cap?
+Dialogue: 10,0:12:24.27,0:12:26.77,Main,Friede,0,0,165,,Dot, wanna join us aboard our ship?
+Dialogue: 10,0:12:27.18,0:12:28.02,Main,Dot,0,0,165,,Huh?
+Dialogue: 10,0:12:30.02,0:12:33.44,Main,Dot,0,0,165,,Wh-What? \N None of this makes any sense...
+Dialogue: 10,0:12:34.44,0:12:36.15,Main,Dot,0,0,165,,O-On second thought, forget it.
+Dialogue: 10,0:12:36.15,0:12:38.40,Main,Dot,0,0,165,,I can’t make you an app.
+Dialogue: 10,0:12:45.54,0:12:47.33,Main,Dot,0,0,165,,What a weirdo.
+Dialogue: 10,0:12:47.33,0:12:49.54,Main,Dot,0,0,165,,Oh no, Nanjamo’s stream started!
+Dialogue: 10,0:12:50.54,0:12:55.55,Main,Nanjamo,0,0,165,,Keep up the questions, queries, and Pokémon “Q”s! \N I’m waiting on all of your comments!{question, doubt, pokemon, mon(all words end in mon)}
+Dialogue: 10,0:12:55.92,0:12:57.42,Main,Dot,0,0,165,,Questions, queries...
+Dialogue: 10,0:13:00.93,0:13:02.05,Main,Dot,0,0,165,,Yeah, right.
+Dialogue: 10,0:13:02.55,0:13:06.27,Main,Nanjamo,0,0,165,,Ooh! I spy a curious comment \N a-comin’-trekkin’-Kentauros!{An interesting comment spotted(ends in ken), adventure(ends in ken), kentauros}
+Dialogue: 10,0:13:06.27,0:13:08.31,Main,Nanjamo,0,0,165,,It’s a question from Homebody-shi!
+Dialogue: 10,0:13:08.31,0:13:10.14,Main,Dot,0,0,165,,Huh? No way! This can’t be...!
+Dialogue: 10,0:13:10.14,0:13:12.27,Main,Dot,0,0,165,,Th-Th-Th-That’s my comment...!
+Dialogue: 10,0:13:12.27,0:13:14.36,Main,Nanjamo,0,0,165,,“I’m a streamer as well.
+Dialogue: 10,0:13:14.36,0:13:18.28,Main,Nanjamo,0,0,165,,“Nanjamo, have you ever felt \N like you’ve hit a wall before?”
+Dialogue: 10,0:13:18.28,0:13:22.49,Main,Nanjamo,0,0,165,,That’s what it says! \N Well, of course I have!
+Dialogue: 10,0:13:22.49,0:13:23.62,Main,Dot,0,0,165,,You have?
+Dialogue: 10,0:13:23.62,0:13:28.87,Main,Nanjamo,0,0,165,,But just sitting and waiting won’t get you \N over that wall! You gotta get moving!
+Dialogue: 10,0:13:29.62,0:13:30.54,Main,Dot,0,0,165,,Get moving...
+Dialogue: 10,0:13:30.54,0:13:34.34,Main,Nanjamo,0,0,165,,Oh, but I wouldn’t wanna \N stop streaming... Oh, I know!
+Dialogue: 10,0:13:34.34,0:13:39.38,Main,Nanjamo,0,0,165,,I’d have my studio grow wings, \N so I could fly all over!
+Dialogue: 10,0:13:39.38,0:13:41.38,Main,Nanjamo,0,0,165,,Did that help you out?
+Dialogue: 10,0:13:41.38,0:13:44.80,Main,Nanjamo,0,0,165,,If not, just laugh it off \N as some Nanjamo nonsense!
+Dialogue: 10,0:13:46.60,0:13:49.22,Main,Blanca,0,0,165,,Dot! When are you gonna wake up?!
+Dialogue: 10,0:13:49.22,0:13:51.81,Main,Blanca,0,0,165,,Big Bro and Friede left ages ago!
+Dialogue: 10,0:13:52.69,0:13:54.94,Main,Dot,0,0,165,,Not like that matters to me...
+Dialogue: 10,0:14:06.70,0:14:12.08,Main,Nanjamo,0,0,165,,I’d grow wings, \N so I could fly all over!{Not an exact match to the earlier line.}
+Dialogue: 10,0:14:12.08,0:14:14.00,Main,Friede,0,0,165,,That is {\i1}absolutely{\i0} special!{These are, though (save for an omitted "Dot" in the last repeated line).}
+Dialogue: 10,0:14:14.00,0:14:17.96,Main,Friede,0,0,165,,What you like and what I like \N have crossed paths.
+Dialogue: 10,0:14:18.59,0:14:20.51,Main,Friede,0,0,165,,Wanna join us aboard our ship?
 Dialogue: 10,0:14:24.26,0:14:25.68,Main,Liko,0,0,0,,I had no idea...
 Dialogue: 10,0:14:25.68,0:14:27.85,Main,Roy,0,0,0,,So then what happened?
 Dialogue: 10,0:14:27.85,0:14:30.60,Main,Dot,0,0,0,,I made the app \N and came aboard the ship.
@@ -1152,26 +1152,26 @@ Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy
 Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,677.43)}What battle style does it excel at?
 Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,663.69)}What battle style does it excel at?
 Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx70\fscy70\blur0.6\bord0\c&H1F1F1F&\4a&HFF&\pos(960,659)}What battle style does it excel at?
-Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1190.17)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1124.05)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1059.81)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,1001.55)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,951.31)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,909.99)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,877.48)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,854.43)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,840.69)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 0,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(360.27,836)\4a&H00&\4c&H918FED&\shad2}Hit and run
-Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1190.17)}Hit and run
-Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1124.05)}Hit and run
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1059.81)}Hit and run
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,1001.55)}Hit and run
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,951.31)}Hit and run
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,909.99)}Hit and run
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,877.48)}Hit and run
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,854.43)}Hit and run
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,840.69)}Hit and run
-Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(360.27,836)}Hit and run
+Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1190.17)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1124.05)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1059.81)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,1001.55)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,951.31)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,909.99)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,877.48)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,854.43)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,840.69)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 0,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(362,836)\4a&H00&\4c&H918FED&\shad2}Hit and run
+Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1190.17)}Hit and run
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1124.05)}Hit and run
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1059.81)}Hit and run
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,1001.55)}Hit and run
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,951.31)}Hit and run
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,909.99)}Hit and run
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,877.48)}Hit and run
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,854.43)}Hit and run
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,840.69)}Hit and run
+Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H1B1CE7&\pos(362,836)}Hit and run
 Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1190.17)\4a&H00&\4c&HA1DCA3&\shad2}Feints
 Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1124.05)\4a&H00&\4c&HA1DCA3&\shad2}Feints
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,1059.81)\4a&H00&\4c&HA1DCA3&\shad2}Feints
@@ -1192,26 +1192,26 @@ Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Feints
 Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Feints
 Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Feints
-Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,951.31)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,909.99)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,877.48)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,854.43)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,840.69)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 0,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1559.73,836)\4a&H00&\4c&HF1C08C&\shad2}Countering
-Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1190.17)}Countering
-Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1124.05)}Countering
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1059.81)}Countering
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,1001.55)}Countering
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,951.31)}Countering
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,909.99)}Countering
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,877.48)}Countering
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,854.43)}Countering
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,840.69)}Countering
-Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1559.73,836)}Countering
+Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1001.55)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,951.31)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,909.99)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,877.48)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,854.43)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,840.69)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 0,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,836)\4a&H00&\4c&HF1C08C&\shad2}Countering
+Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1190.17)}Countering
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1124.05)}Countering
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1059.81)}Countering
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,1001.55)}Countering
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,951.31)}Countering
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,909.99)}Countering
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,877.48)}Countering
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,854.43)}Countering
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Countering
+Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Countering
 Dialogue: 0,0:23:41.40,0:23:47.41,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What battle style does it excel at?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HF1C08C&\shad2}C: Countering
 Dialogue: 1,0:23:41.40,0:23:47.41,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What battle style does it excel at?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&HEF8610&}C: Countering
 Dialogue: 0,0:23:47.41,0:23:53.41,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What battle style does it excel at?\N\N{\alpha&H00&\4c&HF1C08C&\shad2}C: Countering
