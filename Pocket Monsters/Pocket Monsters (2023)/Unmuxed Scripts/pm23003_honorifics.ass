@@ -29,7 +29,7 @@ Style: Logo Sub-title,RodinNTLGPro-B-Str,70,&H007B7872,&H007B7872,&H00FFFFFF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:03.23,0:00:05.44,Main,Liko,0,0,0,,Ooh! It’s so pretty!
-Dialogue: 10,0:00:06.65,0:00:11.66,Main,Diana,0,0,0,,I know the day will come when you go on\N your own adventure, with this around your neck.
+Dialogue: 10,0:00:06.65,0:00:11.66,Main,Diana,0,0,0,,{\q2}I know the day will come when you go \N on your own adventure, with this around your neck.
 Dialogue: 10,0:00:11.66,0:00:13.16,Main,Liko,0,0,0,,Really...?
 Dialogue: 10,0:00:13.16,0:00:15.58,Main,Liko,0,0,0,,But aren’t adventures scary?
 Dialogue: 10,0:00:15.58,0:00:18.04,Main,Diana,0,0,0,,The only scary part is the first step.
@@ -380,7 +380,7 @@ Dialogue: 10,0:24:12.68,0:24:16.98,Main,Gurumin,0,0,0,,Or so I hoped, but someth
 Dialogue: 10,0:24:16.98,0:24:20.15,Main,Gurumin,0,0,0,,Before their eyes \N appears a tiny island!
 Dialogue: 10,0:24:20.15,0:24:23.44,Main,Gurumin,0,0,0,,When they arrive, \N Liko and Nyahoja meet...
 Dialogue: 10,0:24:23.44,0:24:24.53,Main,Gurumin,0,0,0,,...who are you?
-Dialogue: 10,0:24:24.53,0:24:27.40,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:24.53,0:24:27.40,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:27.40,0:24:29.57,Main,Gurumin,0,0,0,,The Treasure That Washed Ashore
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:13.22,0:01:18.39,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3692,16 +3692,16 @@ Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Food
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Food
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Food
-Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Food
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Food
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Food
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Food
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Food
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Food
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Food
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Food
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Food
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Food
+Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Food
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Food
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Food
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Food
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Food
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Food
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Food
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Food
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Food
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Food
 Dialogue: 0,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Monster Balls
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Monster Balls
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Monster Balls
@@ -3722,10 +3722,10 @@ Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,854.43)}Monster Balls
 Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Monster Balls
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Monster Balls
-Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HF1C08C&\shad2}C: Electricity
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&HEF8610&}C: Electricity
-Dialogue: 0,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&H00&\4c&HF1C08C&\shad2}C: Electricity
-Dialogue: 1,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it store in its cheeks?\N\N{\c&HEF8610&}C: Electricity
+Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&H918FED&\shad2}A: Electricity
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it store in its cheeks?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H1B1CE7&}A: Electricity
+Dialogue: 0,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it store in its cheeks?\N\N{\alpha&H00&\4c&H918FED&\shad2}A: Electricity
+Dialogue: 1,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it store in its cheeks?\N\N{\c&H1B1CE7&}A: Electricity
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I'm With Nyahoja, I Be{\fsp5}t...{\fsp}
 Dialogue: 1,0:02:44.31,0:02:52.94,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}If I'm With Nyahoja, I Be{\fsp5}t...{\fsp}

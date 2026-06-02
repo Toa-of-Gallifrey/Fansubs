@@ -302,8 +302,7 @@ Dialogue: 10,0:21:04.24,0:21:08.75,Main,Friede,0,0,0,,“Guiding lost ships” t
 Dialogue: 10,0:21:08.75,0:21:10.08,Main,Friede,0,0,0,,Didn’t it, Laplace?
 Comment: 0,0:21:45.49,0:21:45.49,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:15.46,0:23:15.46,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:23:16.75,0:23:19.04,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:23:19.04,0:23:22.59,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:23:16.75,0:23:22.59,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:23:22.59,0:23:25.30,Main,Gurumin,0,0,0,,Liko and the others have finally \N met Laplace of the Six Heroes!
 Dialogue: 10,0:23:25.72,0:23:29.47,Main,Gurumin,0,0,0,,But this Laplace is {\i1}nothing{\i0} \N like what anyone expected, huh?
 Dialogue: 10,0:23:29.47,0:23:33.43,Main,Gurumin,0,0,0,,Her pals all seem kinda scary, \N but they’ll run if you try to chase them...

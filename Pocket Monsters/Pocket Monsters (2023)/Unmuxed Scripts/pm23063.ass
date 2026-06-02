@@ -308,7 +308,7 @@ Dialogue: 10,0:24:14.10,0:24:15.93,Main,Liko,0,0,0,,They{ all} sound happy...
 Dialogue: 10,0:24:15.93,0:24:18.44,Main,Liko,0,0,0,,Wait, huh? \N I got separated from them?
 Dialogue: 10,0:24:18.44,0:24:20.36,Main,Liko,0,0,0,,What do I do? \N I’ve got a bad feeling...
 Dialogue: 10,0:24:20.36,0:24:22.82,Main,Liko,0,0,0,,Stuff like this always leads to \N some big event...{Times like this are when something tends to happen (story-wise)}
-Dialogue: 10,0:24:22.82,0:24:26.24,Main,Liko,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:22.82,0:24:26.24,Main,Liko,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:26.24,0:24:28.53,Main,Liko,0,0,0,,Mt. Nappé and the Creeping Shadows
 Dialogue: 10,0:24:28.53,0:24:29.78,Main,Liko,0,0,0,,Don’t miss it!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -3578,16 +3578,16 @@ Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Sandwiches
 Dialogue: 0,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Sandwiches
 Dialogue: 0,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Sandwiches
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Sandwiches
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Sandwiches
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Sandwiches
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Sandwiches
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Sandwiches
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Sandwiches
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Sandwiches
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Sandwiches
-Dialogue: 1,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Sandwiches
-Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Sandwiches
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Sandwiches
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Sandwiches
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Sandwiches
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Sandwiches
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Sandwiches
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Sandwiches
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Sandwiches
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Sandwiches
+Dialogue: 1,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Sandwiches
+Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Sandwiches
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Snow
 Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Snow
 Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Snow

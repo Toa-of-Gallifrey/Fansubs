@@ -383,15 +383,14 @@ Dialogue: 10,0:23:48.70,0:23:51.08,Main,Friede,0,0,220,,Its magnetic forces \N g
 Dialogue: 10,0:23:51.08,0:23:54.20,Main,Friede,0,0,220,,They’re powerful enough \N to destroy appliances.
 Dialogue: 10,0:23:56.25,0:23:59.83,Main,Friede,0,0,0,,Remember to keep it in a Monster Ball \N when near appliances.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.21,0:24:05.22,Main,Gurumin,0,0,0,,Yo-ssu! All you excited Pokémon Trainers \N out there! Y’all been groovin’?
-Dialogue: 10,0:24:05.22,0:24:07.38,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.21,0:24:07.38,Main,Gurumin,0,0,0,,{\q2}Yo-ssu! All you excited Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.38,0:24:11.10,Main,Gurumin,0,0,0,,Still not fixed, \N the Brave Asagi has no end of trouble!{Hmm, I see it more as a “The crew sure are in a bind, with the Brave Asagi not getting any better.” -TLC}
 Dialogue: 10,0:24:11.10,0:24:13.64,Main,Gurumin,0,0,0,,But then, \N a suspicious shadow is spotted...
 Dialogue: 10,0:24:13.64,0:24:15.27,Main,Gurumin,0,0,0,,...and Friede chases after it!
 Dialogue: 10,0:24:15.27,0:24:19.81,Main,Gurumin,0,0,0,,Also, a curious Roy and Hogator \N chase after that Kaiden that’s acting weird!
 Dialogue: 10,0:24:19.81,0:24:22.61,Main,Gurumin,0,0,0,,Both of these feel like \N they could be the start of something big!
 Dialogue: 10,0:24:22.61,0:24:25.53,Main,Gurumin,0,0,0,,Hey! Liko! \N Where are you going?!
-Dialogue: 10,0:24:25.53,0:24:28.28,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:25.53,0:24:28.28,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:28.28,0:24:29.86,Main,Gurumin,0,0,0,,Fly! Kaiden!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:00.64,0:02:05.81,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3702,16 +3701,16 @@ Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Washing machines
 Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Washing machines
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Washing machines
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Washing machines
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Washing machines
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Washing machines
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Washing machines
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Washing machines
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Washing machines
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Washing machines
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Washing machines
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Washing machines
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Washing machines
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Washing machines
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Washing machines
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Washing machines
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Washing machines
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Washing machines
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Washing machines
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Washing machines
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Washing machines
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Washing machines
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Washing machines
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Fridges
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Fridges
 Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Fridges
@@ -3733,9 +3732,9 @@ Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Fridges
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Fridges
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What do its magnetic forces affect?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&H918FED&\shad2}A: TVs\N{\4c&HA1DCA3&}B: Washing machines \N{\4c&HF1C08C&}C: Fridges
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What do its magnetic forces affect?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: TVs\N{\c&H46C147&}B: Washing machines \N{\c&HEF8610&}C: Fridges
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What do its magnetic forces affect?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: TVs\N{\c&H3CBD3D&}B: Washing machines \N{\c&HEF8610&}C: Fridges
 Dialogue: 0,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What do its magnetic forces affect?\N\N{\alpha&H00&\4c&H918FED&\shad2}A: TVs\N{\4c&HA1DCA3&}B: Washing machines \N{\4c&HF1C08C&}C: Fridges
-Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What do its magnetic forces affect?\N\N{\c&H1B1CE7&}A: TVs\N{\c&H46C147&}B: Washing machines \N{\c&HEF8610&}C: Fridges
+Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What do its magnetic forces affect?\N\N{\c&H1B1CE7&}A: TVs\N{\c&H3CBD3D&}B: Washing machines \N{\c&HEF8610&}C: Fridges
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:31.90,0:03:40.37,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}A Sudden Picnic
 Dialogue: 1,0:03:31.90,0:03:40.37,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}A Sudden Picnic

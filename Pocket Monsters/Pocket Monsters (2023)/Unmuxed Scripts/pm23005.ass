@@ -388,7 +388,7 @@ Dialogue: 10,0:23:42.28,0:23:44.86,Main,Friede,0,0,220,,The answer is C: Ninjas.
 Dialogue: 10,0:23:44.86,0:23:50.28,Main,Friede,0,0,220,,With blindingly fast movements, Strike masterfully controls the twin scythes on its forearms.
 Dialogue: 10,0:23:50.28,0:23:53.37,Main,Friede,0,0,220,,It’s truly a ninja-like Pokémon!
 Dialogue: 10,0:23:54.08,0:23:57.54,Main,Friede,0,0,0,,A cool guy that never \N lets its prey get away.
-Dialogue: 9,0:23:54.08,0:23:54.66,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&\fad(0,450)}A cool guy that never \N lets its prey get away.
+Dialogue: 9,0:23:54.08,0:23:54.54,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&\}A cool guy that never \N lets its prey get away.
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:01.13,0:24:05.84,Main,Gurumin,0,0,0,,All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:05.84,0:24:07.97,Main,Gurumin,0,0,0,,The Explorers close in!
@@ -398,7 +398,7 @@ Dialogue: 10,0:24:12.76,0:24:17.35,Main,Gurumin,0,0,0,,Waiting won’t get you a
 Dialogue: 10,0:24:17.35,0:24:18.35,Main,Gurumin,0,0,0,,Huh?
 Dialogue: 10,0:24:18.35,0:24:21.73,Main,Gurumin,0,0,0,,Liko’s pendant has started shining again!
 Dialogue: 10,0:24:21.73,0:24:24.44,Main,Gurumin,0,0,0,,Huh?! And there’s another light too!
-Dialogue: 10,0:24:24.44,0:24:26.95,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:24.44,0:24:26.95,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:26.95,0:24:28.95,Main,Gurumin,0,0,0,,The Ancient Monster Ball
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:04.04,0:01:09.22,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3710,16 +3710,16 @@ Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
 Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
 Dialogue: 0,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Pirates
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Pirates
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Pirates
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Pirates
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Pirates
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Pirates
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Pirates
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Pirates
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Pirates
-Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Pirates
-Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Pirates
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Pirates
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Pirates
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Pirates
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Pirates
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Pirates
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Pirates
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Pirates
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Pirates
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Pirates
+Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Pirates
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Ninjas
 Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Ninjas

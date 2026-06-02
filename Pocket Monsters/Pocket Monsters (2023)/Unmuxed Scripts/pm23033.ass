@@ -282,15 +282,14 @@ Dialogue: 10,0:21:40.82,0:21:42.53,Main,Amethio,0,0,0,,Yeah...
 Dialogue: 10,0:21:42.53,0:21:44.03,Main,Amethio,260,0,0,,I want more power.
 Comment: 0,0:21:45.53,0:21:45.53,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:15.50,0:23:15.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:23:16.04,0:23:18.34,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:23:18.34,0:23:21.92,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:23:16.04,0:23:21.92,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:23:21.92,0:23:25.01,Main,Gurumin,0,0,0,,Hmm? Liko and Roy \N are sneaking about, doing...
 Dialogue: 10,0:23:25.01,0:23:28.39,Main,Gurumin,0,0,0,,Huh?! You’re planning a party?! Woo!
 Dialogue: 10,0:23:28.39,0:23:30.43,Main,Gurumin,0,0,0,,Y’all like parties?
 Dialogue: 10,0:23:31.47,0:23:33.43,Main,Gurumin,0,0,0,,I mean, who {\i1}doesn’t{\i0} like parties?
 Dialogue: 10,0:23:34.10,0:23:36.02,Main,Gurumin,0,0,0,,Ooh, this is so exciting!
 Dialogue: 10,0:23:36.02,0:23:38.36,Main,Gurumin,0,0,0,,I can’t just sit around! \N And with that said...
-Dialogue: 10,0:23:38.36,0:23:40.27,Main,Gurumin,0,0,0,,To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:23:38.36,0:23:40.27,Main,Gurumin,0,0,0,,To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:23:40.27,0:23:41.94,Main,Gurumin,0,0,0,,Going Their Own Ways
 Dialogue: 10,0:23:41.94,0:23:45.45,Main,Gurumin,0,0,0,,Let’s have some fun!
 Comment: 0,0:23:45.45,0:23:45.45,Main,,0,0,0,,{Terapagos's Sparkly Exploration Diary}

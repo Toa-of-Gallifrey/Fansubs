@@ -352,7 +352,7 @@ Dialogue: 10,0:24:16.77,0:24:17.69,Main,Liko,0,0,0,,Is that right?
 Dialogue: 10,0:24:16.77,0:24:17.69,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}sou nano
 Dialogue: 10,0:24:17.69,0:24:18.40,Main,Roy,0,0,0,,That’s right!
 Dialogue: 10,0:24:17.69,0:24:18.40,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}sou dayo
-Dialogue: 10,0:24:18.40,0:24:21.86,Main,Roy,0,0,0,,And so, to be continued next time \N on Pocket Monsters...
+Dialogue: 10,0:24:18.40,0:24:21.86,Main,Roy,0,0,0,,And so, to be continued \N next time on Pocket Monsters...
 Dialogue: 10,0:24:21.86,0:24:22.65,Main,Liko,0,0,0,,Sohnano?
 Dialogue: 10,0:24:21.86,0:24:22.65,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(960,957)}Is that right?
 Dialogue: 10,0:24:22.65,0:24:23.65,Main,Roy,0,0,0,,Sohdayo!

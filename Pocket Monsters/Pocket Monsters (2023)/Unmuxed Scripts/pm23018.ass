@@ -378,13 +378,12 @@ Dialogue: 10,0:22:22.49,0:22:23.70,Main,Dot,0,0,0,,That’s...
 Dialogue: 10,0:22:25.57,0:22:27.33,Main,Liko,0,140,0,,The Galar Region.
 Comment: 0,0:22:30.54,0:22:30.54,Main,,0,0,0,,{Ending}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.21,0:24:03.71,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.71,0:24:04.71,Main,Gurumin,0,0,0,,Y’all been groovin’?
-Dialogue: 10,0:24:04.71,0:24:06.22,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.21,0:24:06.22,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:06.97,0:24:10.22,Main,Gurumin,0,0,0,,Engine City’s super popular sweet, \N Pero-Fluffy Cotton Candy!
-Dialogue: 10,0:24:10.22,0:24:15.77,Main,Gurumin,0,0,0,,When Liko and friends go get some, they end up \N reuniting Murdock and his pâtissier pal Mitchell!
+Dialogue: 10,0:24:10.22,0:24:12.10,Main,Gurumin,0,0,0,,When Liko and friends go get some,
+Dialogue: 10,0:24:12.10,0:24:15.77,Main,Gurumin,0,0,165,,they end up reuniting Murdock \N and his pâtissier pal Mitchell!
 Dialogue: 10,0:24:15.77,0:24:18.81,Main,Gurumin,0,0,0,,It seems like Mitchell and Mawhip \N have some history...
-Dialogue: 10,0:24:19.81,0:24:22.57,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:19.81,0:24:22.57,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:22.57,0:24:24.86,Main,Gurumin,0,0,0,,The Truth About Mawhip
 Dialogue: 10,0:24:24.86,0:24:29.74,Main,Gurumin,0,0,0,,Turns out the past of a sweets pâtissier \N ain’t always sweet, huh?
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,

@@ -373,15 +373,13 @@ Dialogue: 10,0:23:44.53,0:23:49.24,Main,Friede,0,0,220,,Kuwassu coats its body \
 Dialogue: 10,0:23:49.24,0:23:54.12,Main,Friede,0,0,220,,It takes extra care in brushing the coif on its head \N to ensure that it doesn’t get matted.
 Dialogue: 10,0:23:54.95,0:23:58.88,Main,Friede,0,0,0,,Trainers of Kuwassu, make sure \N you always keep your mirror sparkling clean.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.46,0:24:03.84,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.84,0:24:04.80,Main,Gurumin,0,0,0,,Y’all been groovin’?
-Dialogue: 10,0:24:04.80,0:24:06.30,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.46,0:24:06.30,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:06.76,0:24:10.22,Main,Gurumin,0,0,0,,While soaring through the great blue \N towards Paldea, they run into trouble!
 Dialogue: 10,0:24:10.22,0:24:14.35,Main,Gurumin,0,0,0,,The Rising Voltteccers end up \N taking a detour through a nearby town,
 Dialogue: 10,0:24:14.35,0:24:18.90,Main,Gurumin,0,0,0,,but Liko has another thing on her mind: \N this mysterious member!
 Dialogue: 10,0:24:18.90,0:24:21.52,Main,Gurumin,0,0,0,,They even say “Travel with companions, \N and live with compassion”...{Same idiom as in a Diamond & Pearl song}
 Dialogue: 10,0:24:21.52,0:24:24.28,Main,Gurumin,0,0,0,,She must be so rude, \N not even showing her face!
-Dialogue: 10,0:24:24.78,0:24:27.49,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:24.78,0:24:27.49,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:27.49,0:24:29.45,Main,Gurumin,0,0,0,,The Secret of the Unopening Door
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:00:25.00,0:00:30.18,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3692,16 +3690,16 @@ Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}To repel water
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}To repel water
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}To repel water
-Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}To repel water
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}To repel water
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}To repel water
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}To repel water
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}To repel water
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}To repel water
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}To repel water
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}To repel water
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}To repel water
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}To repel water
+Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}To repel water
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}To repel water
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}To repel water
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}To repel water
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}To repel water
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}To repel water
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}To repel water
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}To repel water
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}To repel water
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}To repel water
 Dialogue: 0,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}For fashion
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}For fashion
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}For fashion
@@ -3723,9 +3721,9 @@ Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}For fashion
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}For fashion
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Why does it keep its body glossy?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&H918FED&\shad2}A: To keep away dirt\N{\4c&HA1DCA3&}B: To repel water \N{\4c&HF1C08C&}C: For fashion
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Why does it keep its body glossy?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: To keep away dirt\N{\c&H46C147&}B: To repel water \N{\c&HEF8610&}C: For fashion
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Why does it keep its body glossy?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H1B1CE7&}A: To keep away dirt\N{\c&H3CBD3D&}B: To repel water \N{\c&HEF8610&}C: For fashion
 Dialogue: 0,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}Why does it keep its body glossy?\N\N{\alpha&H00&\4c&H918FED&\shad2}A: To keep away dirt\N{\4c&HA1DCA3&}B: To repel water \N{\4c&HF1C08C&}C: For fashion
-Dialogue: 1,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Why does it keep its body glossy?\N\N{\c&H1B1CE7&}A: To keep away dirt\N{\c&H46C147&}B: To repel water \N{\c&HEF8610&}C: For fashion
+Dialogue: 1,0:23:47.49,0:23:54.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}Why does it keep its body glossy?\N\N{\c&H1B1CE7&}A: To keep away dirt\N{\c&H3CBD3D&}B: To repel water \N{\c&HEF8610&}C: For fashion
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:01:55.60,0:02:04.73,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Trainin{\fsp5}g{\fsp}! Captain Pikachu
 Dialogue: 1,0:01:55.60,0:02:04.73,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Trainin{\fsp5}g{\fsp}! Captain Pikachu

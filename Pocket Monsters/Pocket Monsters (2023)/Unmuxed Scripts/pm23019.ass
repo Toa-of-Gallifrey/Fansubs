@@ -58,7 +58,7 @@ Comment: 0,0:03:12.71,0:03:12.71,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:24.43,0:03:26.69,Main,Friede,0,0,0,,The Brave Asagi sticks out.
 Dialogue: 10,0:03:26.69,0:03:28.90,Main,Friede,0,0,0,,If we keep traveling by air...
 Dialogue: 10,0:03:28.90,0:03:31.57,Main,Friede,0,0,0,,...and the Explorers happen to spot us,
-Dialogue: 10,0:03:31.57,0:03:35.65,Main,Friede,0,0,0,,we’d lead them straight to Liko’s grandma,\N and we don’t want that.{obaa-san}
+Dialogue: 10,0:03:31.57,0:03:35.65,Main,Friede,0,0,0,,we’d lead them straight to Liko’s grandma, \N and we don’t want that.{obaa-san}
 Dialogue: 10,0:03:36.11,0:03:37.20,Main,Friede,0,0,0,,So instead...
 Dialogue: 10,0:03:39.57,0:03:41.16,Main,Friede,0,0,0,,We’ll leave her here,
 Dialogue: 10,0:03:41.16,0:03:45.41,Main,Friede,0,0,0,,and take the train from \N Engine City Station to Knuckle City.
@@ -88,12 +88,14 @@ Dialogue: 10,0:04:34.21,0:04:36.71,Main,Roy,0,0,0,,I wanna gather some info \N a
 Dialogue: 10,0:04:36.71,0:04:39.68,Main,Dot,0,0,0,,Hey, pay a visit to the Battle Café \N while you’re there.
 Dialogue: 10,0:04:39.68,0:04:40.93,Main,Roy,0,0,0,,The Battle Café?
 Dialogue: 10,0:04:40.93,0:04:45.47,Main,Dot,0,0,0,,Yeah. Their Pero-Fluffy{Peropuff+fluffy} Cotton Candy \N is the big thing right now.
-Dialogue: 10,0:04:45.47,0:04:49.60,Main,Liko,0,0,0,,Pero-Fluffy Cotton Candy... \N Is that it?{TL note: cotton candy is American for cotton candy, wata-ame is Japanese for cotton candy}{Pain. Here's an attempt at a hopefully minimally destructive flub. - Toa}
+Dialogue: 10,0:04:45.47,0:04:47.89,Main,Liko,0,0,0,,Pero-Fluffy Cotton Candy...
+Dialogue: 10,0:04:47.89,0:04:49.60,Main,Liko,0,0,0,,Is that wata-ame?{TL note: cotton candy is American for cotton candy, wata-ame is Japanese for cotton candy}
+Dialogue: 10,0:04:47.89,0:04:49.60,Main,TL Note,0,0,0,,{\c0\3c&HFFFFFF\fscx80\fscy80\blur4.5\pos(1048,957)}cotton candy
 Dialogue: 10,0:04:49.60,0:04:53.73,Main,Dot,0,0,0,,Yeah. It’s fluffy Cotton Candy \N that looks like a Peropuff.
 Dialogue: 10,0:04:53.73,0:04:55.73,Main,Dot,0,0,0,,I wanna use it \N as a prop in a video.
 Dialogue: 10,0:04:55.73,0:04:56.48,Main,Liko,0,0,0,,Huh?!
 Dialogue: 10,0:04:58.28,0:05:00.66,Main,Liko,0,0,0,,Gurumin and cotton candy...
-Dialogue: 10,0:05:01.24,0:05:02.74,Main,Liko,0,0,0,,That sounds {\i1}adorable!{\i0}{TL:That’s bound to be cute!}
+Dialogue: 10,0:05:01.24,0:05:02.74,Main,Liko,0,0,0,,That sounds {\i1}adorable!{\i0}
 Dialogue: 10,0:05:02.74,0:05:05.79,Main,Dot,0,0,0,,Plus... There’ll be \N a ton of people at the café...
 Dialogue: 10,0:05:05.79,0:05:08.00,Main,Dot,0,0,0,,You might hear something \N about Rekkuuza.
 Dialogue: 10,0:05:08.00,0:05:09.29,Main,Roy,0,0,0,,You’re right!
@@ -355,14 +357,12 @@ Dialogue: 10,0:23:44.95,0:23:49.70,Main,Friede,0,0,220,,The cream’s taste is c
 Dialogue: 10,0:23:49.70,0:23:54.12,Main,Friede,0,0,220,,The happier she is, \N the richer the cream.
 Dialogue: 10,0:23:55.71,0:23:59.67,Main,Friede,0,0,0,,When Mawhip’s happy, \N everyone’s happy!
 Comment: 0,0:24:00.46,0:24:00.46,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.29,0:24:03.46,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.46,0:24:04.71,Main,Gurumin,0,0,0,,Y’all been groovin’?
-Dialogue: 10,0:24:04.71,0:24:07.01,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.29,0:24:07.01,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.63,0:24:10.30,Main,Gurumin,0,0,0,,At the café, who did they run into \N but {\i1}the{\i0} Gym Leader Kabu{Honorifics note: Kabu-san}?!
 Dialogue: 10,0:24:10.72,0:24:14.02,Main,Gurumin,0,0,0,,Liko and Roy follow Mr. Kabu{Honorifics note: Kabu-san} \N to Engine Stadium!
 Dialogue: 10,0:24:14.93,0:24:17.10,Main,Gurumin,0,0,0,,A sudden parade of Pokémon!
 Dialogue: 10,0:24:17.10,0:24:20.98,Main,Gurumin,0,0,0,,Is this a battle? A game? \N Wha-Wha-What’s about to kick off?!
-Dialogue: 10,0:24:20.98,0:24:23.69,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:20.98,0:24:23.69,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:23.69,0:24:25.61,Main,Gurumin,0,0,0,,Mr. Kabu’s Battle Training{Honorifics note: Kabu-san's Battle Training}
 Dialogue: 10,0:24:26.57,0:24:29.49,Main,Gurumin,0,0,0,,“Keep on training \N ‘til the day you die!”, as he says.{Kabu's catchphrase (partial), EN game: "keep training as long as he is alive."}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -3675,16 +3675,16 @@ Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Sponge
 Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Sponge
 Dialogue: 0,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Sponge
-Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Sponge
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Sponge
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Sponge
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Sponge
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Sponge
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Sponge
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Sponge
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Sponge
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Sponge
-Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Sponge
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Sponge
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Sponge
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Sponge
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Sponge
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Sponge
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Sponge
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Sponge
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Sponge
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Sponge
+Dialogue: 1,0:22:02.88,0:22:07.43,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Sponge
 Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Cream
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Cream
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Cream

@@ -260,13 +260,12 @@ Dialogue: 10,0:21:27.56,0:21:28.85,Main,Liko,0,0,0,,Y-You’re kidding!
 Dialogue: 10,0:21:28.85,0:21:32.02,Main,Friede,0,0,0,,To think that {\i1}he{\i0} came to {\i1}us!{\i0}
 Comment: 0,0:21:45.58,0:21:45.58,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:15.54,0:23:15.54,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:23:16.04,0:23:18.54,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:23:18.54,0:23:21.71,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:23:16.04,0:23:21.71,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:23:22.09,0:23:26.34,Main,Gurumin,0,0,0,,So much happened, but it’s great how \N you finally got through to Laplace, Liko!
 Dialogue: 10,0:23:26.34,0:23:29.76,Main,Gurumin,0,0,0,,But, uh... Wait! Rekkuuza?! \N That’s outta nowhere!
 Dialogue: 10,0:23:30.26,0:23:33.48,Main,Gurumin,0,0,0,,I get how you feel... \N But for now, deep breaths...
 Dialogue: 10,0:23:37.10,0:23:38.15,Main,Gurumin,0,0,0,,All right!
-Dialogue: 10,0:23:38.15,0:23:40.86,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:23:38.15,0:23:40.86,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:23:40.86,0:23:43.32,Main,Gurumin,0,0,0,,The Bellowing Black Rekkuuza
 Dialogue: 10,0:23:43.32,0:23:45.49,Main,Gurumin,0,0,0,,Huh? What’s up with you, Terapagos?!
 Comment: 0,0:23:45.49,0:23:45.49,Main,,0,0,0,,{Terapagos no Kirakira Tankenki}

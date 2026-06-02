@@ -294,17 +294,16 @@ Comment: 0,0:23:37.48,0:23:37.48,Main,,0,0,0,,{Professor Friede’s Pokémon Sem
 Dialogue: 10,0:23:39.31,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer!
 Dialogue: 10,0:23:42.36,0:23:45.70,Main,Friede,0,0,220,,The answer is... B: Yoga!
 Dialogue: 10,0:23:45.70,0:23:49.16,Main,Friede,0,0,220,,It often meditates for a whole month \N without even eating.
-Dialogue: 10,0:23:49.16,0:23:53.50,Main,Friede,0,0,220,,That yoga training is what gives it \N its fierce psycho-powers!
+Dialogue: 10,0:23:49.16,0:23:53.50,Main,Friede,0,0,220,,{\fad(0,300)}That yoga training is what gives it \N its fierce psycho-powers!
 Dialogue: 10,0:23:56.08,0:24:00.50,Main,Friede,0,0,0,,Every expert’s expertise \N is the result of all their past efforts!
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.21,0:24:03.46,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.46,0:24:06.80,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:24:01.21,0:24:06.80,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:06.80,0:24:08.80,Main,Gurumin,0,0,0,,What a disaster! \N The Brave Asagi...!
 Dialogue: 10,0:24:08.80,0:24:10.18,Main,Gurumin,0,0,0,,Is everyone okay in there?!
 Dialogue: 10,0:24:10.18,0:24:14.10,Main,Gurumin,0,0,0,,But still... the black Rekkuuza is \N right before Liko and Roy’s very eyes!
 Dialogue: 10,0:24:14.10,0:24:17.14,Main,Gurumin,0,0,0,,It’s now or never! \N All they can do is work together and fight!
 Dialogue: 10,0:24:18.31,0:24:22.73,Main,Gurumin,0,0,0,,And as if they weren’t in enough trouble already, \N Amethio shows up, too! Now what?!
-Dialogue: 10,0:24:23.15,0:24:25.94,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:23.15,0:24:25.94,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:25.94,0:24:26.95,Main,Gurumin,0,0,0,,Having Come So Far
 Dialogue: 10,0:24:27.90,0:24:30.45,Main,Gurumin,0,0,0,,{\i1}Something’s{\i0} gonna happen! \N Don’t you miss it!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -1080,16 +1079,16 @@ Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Yoga
 Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Yoga
 Dialogue: 0,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Yoga
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Yoga
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Yoga
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Yoga
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Yoga
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Yoga
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Yoga
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Yoga
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Yoga
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Yoga
-Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Yoga
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Yoga
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Yoga
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Yoga
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Yoga
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Yoga
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Yoga
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Yoga
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Yoga
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Yoga
+Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Yoga
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Battle
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Battle
 Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Battle
@@ -1111,9 +1110,9 @@ Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Battle
 Dialogue: 1,0:22:02.93,0:22:07.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Battle
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it do to train \N its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HA1DCA3&\shad2}B: Yoga
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it do to train \N its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H46C147&}B: Yoga
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it do to train \N its psycho-power?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&H3CBD3D&}B: Yoga
 Dialogue: 0,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What does it do to train \N its psycho-power?\N\N{\alpha&H00&\4c&HA1DCA3&\shad2}B: Yoga
-Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it do to train \N its psycho-power?\N\N{\c&H46C147&}B: Yoga
+Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)}What does it do to train \N its psycho-power?\N\N{\c&H3CBD3D&}B: Yoga
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:08.50,0:03:16.51,Episode titles,,0,0,0,,{=1033}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Plan to Capture Rekkuuza
 Dialogue: 1,0:03:08.50,0:03:16.51,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Plan to Capture Rekkuuza

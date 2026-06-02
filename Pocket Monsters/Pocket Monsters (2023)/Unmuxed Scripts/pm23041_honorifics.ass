@@ -388,18 +388,17 @@ Dialogue: 10,0:21:46.20,0:21:47.24,Main,Friede,0,0,0,,Friede here.
 Dialogue: 10,0:21:47.24,0:21:49.33,Main,Friede,0,0,0,,It’s time for my Pokémon Seminar!
 Dialogue: 10,0:21:50.83,0:21:54.42,Main,Friede,0,0,0,,Today, let’s take a look at \N Lugarugan: Midnight Form.
 Dialogue: 10,0:21:54.88,0:21:58.51,Main,Friede,0,0,0,,It’s a Pokémon that lives alone \N rather than forming packs.
-Dialogue: 10,0:21:58.51,0:22:03.97,Main,Friede,0,0,0,,Do you know what battle style \N this Lugarugan excels at?{What battle style does it excel at? Hit and run, feints, countering}
+Dialogue: 10,0:21:58.51,0:22:03.97,Main,Friede,0,0,0,,Do you know what battle style \N this Lugarugan excels at?
 Dialogue: 10,0:22:03.97,0:22:06.05,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.39,0:22:07.39,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.40,0:23:37.40,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
 Dialogue: 10,0:23:39.23,0:23:41.40,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 10,0:23:42.19,0:23:45.07,Main,Friede,0,0,220,,The answer is C: Countering!
 Dialogue: 10,0:23:45.07,0:23:50.20,Main,Friede,0,0,220,,It uses Taunt on its opponents, and when they rush in \N to strike, it launches its Counter attack.
-Dialogue: 10,0:23:50.20,0:23:53.41,Main,Friede,0,0,220,,It sends back double the damage it takes!
+Dialogue: 10,0:23:50.20,0:23:53.41,Main,Friede,0,0,220,,{\fad(0,300)}It sends back double the damage it takes!
 Dialogue: 10,0:23:55.75,0:24:00.42,Main,Friede,0,0,0,,Taking cuts to let it shatter bones{肉を切らせて骨を断つ, proverb lit.'Allowing flesh to be cut to sever bone' - letting in a minor injury to cause a victory, like 'Lose the battle to win the war' / 'Give an inch to take a mile' but neither of those really fit}... \N It’s a true battle maniac!
 Comment: 0,0:24:00.42,0:24:00.42,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.04,0:24:03.25,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.25,0:24:06.09,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:24:01.04,0:24:06.09,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:06.72,0:24:08.30,Main,Gurumin,0,0,0,,It’s the ocean!
 Dialogue: 10,0:24:08.80,0:24:10.60,Main,Gurumin,0,0,0,,Beloved by everyone, it’s Irukaman!
 Dialogue: 10,0:24:12.10,0:24:15.14,Main,Gurumin,0,0,0,,Irukaman transforms from \N Naïve Forme{JP naive can be taken a couple different ways, best to play it safe for now - QC} to Mighty Forme...
@@ -1182,16 +1181,16 @@ Dialogue: 0,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Feints
 Dialogue: 0,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Feints
 Dialogue: 0,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Feints
-Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Feints
-Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Feints
-Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Feints
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Feints
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Feints
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Feints
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Feints
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Feints
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Feints
-Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Feints
+Dialogue: 1,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Feints
+Dialogue: 1,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Feints
+Dialogue: 1,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Feints
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Feints
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Feints
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Feints
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Feints
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Feints
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Feints
+Dialogue: 1,0:22:02.84,0:22:07.39,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Feints
 Dialogue: 0,0:22:02.47,0:22:02.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Countering
 Dialogue: 0,0:22:02.51,0:22:02.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Countering
 Dialogue: 0,0:22:02.55,0:22:02.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Countering
@@ -1403,56 +1402,56 @@ Dialogue: 2,0:24:18.19,0:24:26.86,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:18.19,0:24:26.86,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:18.19,0:24:26.86,Episode titles,,0,0,0,,{=1129}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 1,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 0,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{=1037}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 1,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
 Comment: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}I Found You, Hogator
 Comment: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}I Found You, Hogator
 Comment: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}I Found You, Hogator
 Comment: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}I Found You, Hogator
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
-Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,750.25)}Transfor{\fsp1.5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
+Dialogue: 2,0:24:26.86,0:24:30.37,Episode titles,,0,0,0,,{=1038}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,750.25)}Transfor{\fsp5}m{\fsp}! The Hero of the Ocean, Irukaman
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]

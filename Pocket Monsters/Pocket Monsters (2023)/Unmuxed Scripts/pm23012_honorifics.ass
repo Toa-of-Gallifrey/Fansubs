@@ -349,13 +349,12 @@ Dialogue: 10,0:23:48.16,0:23:51.83,Main,Friede,0,0,220,,but normally, it’s a v
 Dialogue: 10,0:23:51.83,0:23:54.66,Main,Friede,0,0,220,,It’s devoted to \N caring for its friends.
 Dialogue: 10,0:23:56.25,0:23:59.88,Main,Friede,0,0,0,,Those arms nurture \N both its fruits and its friends.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.38,0:24:05.59,Main,Gurumin,0,0,0,,Yo-ssu! All you flustered Pokémon Trainers \N out there! Y’all been groovin’?
-Dialogue: 10,0:24:05.59,0:24:06.97,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.38,0:24:06.97,Main,Gurumin,0,0,0,,{\q2}Yo-ssu! All you flustered Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.93,0:24:12.72,Main,Gurumin,0,0,0,,The Brave Asagi sets sail \N for the Galar Region!
 Dialogue: 10,0:24:12.72,0:24:16.10,Main,Gurumin,0,0,0,,Wait... What now? \N More problems with the ship?
 Dialogue: 10,0:24:17.73,0:24:22.40,Main,Gurumin,0,0,0,,But! They say “Life has its ups and downs”... \N Times like these, just enjoy the ride!
 Dialogue: 10,0:24:22.40,0:24:24.99,Main,Gurumin,0,0,0,,You might even bump into \N surprising new faces...
-Dialogue: 10,0:24:25.44,0:24:28.03,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:25.44,0:24:28.03,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:28.03,0:24:30.45,Main,Gurumin,0,0,0,,A Sudden Picnic
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:31.07,0:01:36.24,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3667,16 +3666,16 @@ Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Kind
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Kind
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Kind
-Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Kind
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Kind
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Kind
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Kind
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Kind
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Kind
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Kind
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Kind
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Kind
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Kind
+Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Kind
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Kind
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Kind
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Kind
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Kind
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Kind
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Kind
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Kind
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Kind
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Kind
 Dialogue: 0,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Mean
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Mean
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Mean
@@ -3698,9 +3697,9 @@ Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Mean
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Mean
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Oliva like?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: Kind
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Oliva like?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: Kind
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Oliva like?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H3CBD3D&}B: Kind
 Dialogue: 0,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Oliva like?\N\N{\alpha&H00&\4c&HA1DCA3&\shad2}B: Kind
-Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Oliva like?\N\N{\c&H46C147&}B: Kind
+Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Oliva like?\N\N{\c&H3CBD3D&}B: Kind
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:02.58,0:03:10.80,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Future I Choose
 Dialogue: 1,0:03:02.58,0:03:10.80,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}The Future I Choose

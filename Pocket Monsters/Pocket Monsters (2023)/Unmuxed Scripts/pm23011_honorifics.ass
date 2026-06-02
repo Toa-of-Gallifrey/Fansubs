@@ -336,14 +336,13 @@ Dialogue: 10,0:23:45.78,0:23:50.37,Main,Friede,0,0,220,,If it gets attacked by e
 Dialogue: 10,0:23:50.37,0:23:54.20,Main,Friede,0,0,220,,It’s easily scared, so the slightest shock \N can make it spit out its oil.
 Dialogue: 10,0:23:56.04,0:23:59.92,Main,Friede,0,0,0,,Approach one without care, \N and you’ll be left feeling very bitter.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.38,0:24:05.01,Main,Gurumin,0,0,0,,Yo-ssu! All you hearty Pokémon Trainers out there! \N Y’all been groovin’{gurubin}?
-Dialogue: 10,0:24:05.01,0:24:06.88,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.38,0:24:06.88,Main,Gurumin,0,0,0,,{\q2}Yo-ssu! All you hearty Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.51,0:24:10.26,Main,Gurumin,0,0,0,,Now that Liko and the others \N have seen the devastated forest...
 Dialogue: 10,0:24:10.26,0:24:16.89,Main,Gurumin,0,0,0,,For Oliva! And for the forest Pokémon! \N Whatcha gonna do, Liko?! Think, Liko!
 Dialogue: 10,0:24:16.89,0:24:18.73,Main,Gurumin,0,0,0,,Eh. I’m sure they’ll be fine.
 Dialogue: 10,0:24:18.73,0:24:22.23,Main,Gurumin,0,0,0,,Oliva’s also watching over you \N as you give it your all!
 Dialogue: 10,0:24:22.23,0:24:25.11,Main,Gurumin,0,0,0,,Huh? What? \N What’s happening to Oliva?
-Dialogue: 10,0:24:25.11,0:24:27.78,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:25.11,0:24:27.78,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:27.78,0:24:29.49,Main,Gurumin,0,0,0,,The Future I Choose
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:16.57,0:02:21.75,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3655,16 +3654,16 @@ Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Very bitter
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Very bitter
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Very bitter
-Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Very bitter
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Very bitter
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Very bitter
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Very bitter
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Very bitter
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Very bitter
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Very bitter
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Very bitter
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Very bitter
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Very bitter
+Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Very bitter
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Very bitter
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Very bitter
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Very bitter
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Very bitter
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Very bitter
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Very bitter
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Very bitter
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Very bitter
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Very bitter
 Dialogue: 0,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Very sour
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Very sour
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Very sour
@@ -3686,9 +3685,9 @@ Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Very sour
 Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Very sour
 Dialogue: 0,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}How does Minive's oil taste?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HA1DCA3&\shad2}B: Very bitter
-Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}How does Minive's oil taste?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H46C147&}B: Very bitter
+Dialogue: 1,0:23:41.48,0:23:47.49,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}How does Minive's oil taste?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&H3CBD3D&}B: Very bitter
 Dialogue: 0,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}How does Minive's oil taste?\N\N{\alpha&H00&\4c&HA1DCA3&\shad2}B: Very bitter
-Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}How does Minive's oil taste?\N\N{\c&H46C147&}B: Very bitter
+Dialogue: 1,0:23:47.49,0:23:53.50,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}How does Minive's oil taste?\N\N{\c&H3CBD3D&}B: Very bitter
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:03:47.12,0:03:56.30,Episode titles,,0,0,0,,{=16}{\fad(480,0)\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Oliva's Forest
 Dialogue: 1,0:03:47.12,0:03:56.30,Episode titles,,0,0,0,,{\fad(480,0)\blur0.6\pos(960,400)\c&HFFFFFF&\1a&HFF&\t(480,488,\1a&H00&)}Oliva's Forest

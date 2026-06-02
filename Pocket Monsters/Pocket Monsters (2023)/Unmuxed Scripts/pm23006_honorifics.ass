@@ -352,18 +352,17 @@ Dialogue: 10,0:23:42.07,0:23:45.07,Main,Friede,0,0,220,,The answer is C: Life en
 Dialogue: 10,0:23:45.07,0:23:49.66,Main,Friede,0,0,220,,Soublades’ blades \N contain Fire/Ghost energy.
 Dialogue: 10,0:23:49.66,0:23:53.83,Main,Friede,0,0,220,,If you’re cut by its blades, \N your life energy will leak out.
 Dialogue: 10,0:23:53.83,0:23:56.04,Main,Friede,0,0,0,,And it has the swordsmanship \N of a grandmaster!
-Dialogue: 9,0:23:53.83,0:23:54.54,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&\fad(0,300)}And it has the swordsmanship \N of a grandmaster!
+Dialogue: 9,0:23:53.83,0:23:54.50,Main,Outline,0,0,0,,{\blur2\bord8\3c&HFFFFFF&}And it has the swordsmanship \N of a grandmaster!
 Dialogue: 10,0:23:56.04,0:23:58.79,Main,Friede,0,0,0,,Don’t go challenging it to a battle \N if you don’t have to.
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:00.50,0:24:03.25,Main,Gurumin,0,0,0,,All you Pokémon Trainers out there. \N Y’all been groovin’?
-Dialogue: 10,0:24:03.25,0:24:04.51,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:00.50,0:24:04.51,Main,Gurumin,0,0,0,,All you Pokémon Trainers out there. \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:05.36,0:24:08.96,Main,Gurumin,0,0,0,,The Brave Asagi takes to the skies, \N heading for Paldea!
 Dialogue: 10,0:24:08.96,0:24:12.03,Main,Gurumin,0,0,0,,Liko and Roy have become \N proper members of the Rising Voltteccers,
 Dialogue: 10,0:24:12.03,0:24:15.02,Main,Gurumin,0,0,0,,but apparently there’s yet another \N mysterious member aboard the ship?!
 Dialogue: 10,0:24:15.02,0:24:18.73,Main,Gurumin,0,0,0,,Who is it? Who could it be?! \N They never show themselves!
 Dialogue: 10,0:24:18.73,0:24:21.17,Main,Gurumin,0,0,0,,A show of strength is the only way \N that member’s gonna accept them!
 Dialogue: 10,0:24:21.17,0:24:23.74,Main,Gurumin,0,0,0,,Train up Nyahoja and Hogator!
-Dialogue: 10,0:24:23.74,0:24:26.43,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:23.74,0:24:26.43,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:26.43,0:24:28.93,Main,Gurumin,0,0,0,,Training! Captain Pikachu
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:00:49.40,0:00:54.58,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
@@ -3675,16 +3674,16 @@ Dialogue: 0,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Nutrients
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Nutrients
 Dialogue: 0,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Nutrients
-Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Nutrients
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Nutrients
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Nutrients
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Nutrients
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Nutrients
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Nutrients
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Nutrients
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Nutrients
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Nutrients
-Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Nutrients
+Dialogue: 1,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Nutrients
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Nutrients
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Nutrients
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Nutrients
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Nutrients
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Nutrients
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Nutrients
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Nutrients
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Nutrients
+Dialogue: 1,0:23:32.89,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Nutrients
 Dialogue: 0,0:23:32.52,0:23:32.56,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Life energy
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Life energy
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Life energy

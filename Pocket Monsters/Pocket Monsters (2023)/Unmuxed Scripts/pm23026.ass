@@ -340,21 +340,20 @@ Dialogue: 10,0:22:00.30,0:22:04.59,Main,Friede,0,0,0,,Do you know how far \N it 
 Dialogue: 10,0:22:04.59,0:22:06.64,Main,Friede,0,0,0,,See the answer after the commercials!
 Comment: 0,0:22:07.51,0:22:07.51,Main,,0,0,0,,{Ending}
 Comment: 0,0:23:37.52,0:23:37.52,Main,,0,0,0,,{Professor Friede’s Pokémon Seminar B}
-Dialogue: 10,0:23:39.40,0:23:41.52,Main,Friede,0,0,0,,Now, announcing the right answer!{Time to announce the right answer!}{It's indeed different from past wordings but the difference is hard to really reflect: It's the same as the first phrasing but without the "shiyou" which we haven't really reflected. It goes from "Now, let us announce the correct answer!" to "Now, announcing the correct answer!" -TL}
+Dialogue: 10,0:23:39.40,0:23:41.52,Main,Friede,0,0,0,,Now, for the correct answer!{different from usual}
 Dialogue: 10,0:23:42.32,0:23:45.74,Main,Friede,0,0,220,,The answer is C: 10,000 kilometers!
 Dialogue: 10,0:23:45.74,0:23:50.87,Main,Friede,0,0,220,,Racing around the world, \N the Legend Pokémon is the subject of many folktales.{kakemeguri (racing around)}
 Dialogue: 10,0:23:50.87,0:23:55.46,Main,Friede,0,0,220,,Its proud and regal appearance \N has entranced the hearts of the people!{Somewhat similar to the DPPt Pokédex entry but not word-for-word the same.}
 Dialogue: 10,0:23:56.75,0:24:00.54,Main,Friede,0,0,0,,Pokémon legends sure are exciting!
 Comment: 0,0:24:00.59,0:24:00.59,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.13,0:24:03.09,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.09,0:24:07.13,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:24:01.13,0:24:07.13,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.13,0:24:11.55,Main,Gurumin,0,0,0,,Liko has inherited Lucius’s belt! \N Lookin’ sharp!
 Dialogue: 10,0:24:11.55,0:24:13.89,Main,Gurumin,0,0,0,,The adventure to gather \N the Six Heroes begins!
 Dialogue: 10,0:24:13.89,0:24:17.56,Main,Gurumin,0,0,0,,This time, you {\i1}will{\i0} find \N the black Rekkuuza!
 Dialogue: 10,0:24:17.56,0:24:20.11,Main,Gurumin,0,0,0,,The gang arrives in \N the Galar Region’s Wild Area.
 Dialogue: 10,0:24:20.52,0:24:21.56,Main,Gurumin,0,0,0,,Ah...
 Dialogue: 10,0:24:21.56,0:24:24.48,Main,Gurumin,0,0,0,,Th-There’s a super delicious \N scent in the air!
-Dialogue: 10,0:24:25.24,0:24:28.03,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
+Dialogue: 10,0:24:25.24,0:24:28.03,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
 Dialogue: 10,0:24:28.03,0:24:29.74,Main,Gurumin,0,0,0,,With My Friends
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:56.14,0:02:00.60,OP,,0,0,0,,{=997}{\fad(1020,0)\blur1\3c&HAF7E09&}Now, head forth! Pierce through the clouds
@@ -1129,16 +1128,16 @@ Dialogue: 0,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}1,000 km
 Dialogue: 0,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}1,000 km
 Dialogue: 0,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}1,000 km
-Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}1,000 km
-Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}1,000 km
-Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}1,000 km
-Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}1,000 km
-Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}1,000 km
-Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}1,000 km
-Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}1,000 km
-Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}1,000 km
-Dialogue: 1,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}1,000 km
-Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}1,000 km
+Dialogue: 1,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}1,000 km
+Dialogue: 1,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}1,000 km
+Dialogue: 1,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}1,000 km
+Dialogue: 1,0:22:02.72,0:22:02.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}1,000 km
+Dialogue: 1,0:22:02.76,0:22:02.80,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}1,000 km
+Dialogue: 1,0:22:02.80,0:22:02.84,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}1,000 km
+Dialogue: 1,0:22:02.84,0:22:02.88,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}1,000 km
+Dialogue: 1,0:22:02.88,0:22:02.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}1,000 km
+Dialogue: 1,0:22:02.93,0:22:02.97,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}1,000 km
+Dialogue: 1,0:22:02.97,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}1,000 km
 Dialogue: 0,0:22:02.59,0:22:02.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}10,000 km
 Dialogue: 0,0:22:02.63,0:22:02.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}10,000 km
 Dialogue: 0,0:22:02.68,0:22:02.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}10,000 km

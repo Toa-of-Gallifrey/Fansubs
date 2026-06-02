@@ -200,8 +200,7 @@ Dialogue: 10,0:23:45.49,0:23:50.16,Main,Friede,0,0,220,,Its distinctive taste an
 Dialogue: 10,0:23:50.16,0:23:54.29,Main,Friede,0,0,220,,But drinking too much can have \N a harmful effect on your health.
 Dialogue: 10,0:23:55.96,0:23:59.79,Main,Friede,0,0,0,,Even if Potdeath offers you tea, \N do exercise restraint.
 Comment: 0,0:24:00.54,0:24:00.54,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.42,0:24:03.55,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there!
-Dialogue: 10,0:24:03.55,0:24:07.05,Main,Gurumin,0,0,0,,Y’all been groovin’? \N It’s huge preview time!
+Dialogue: 10,0:24:01.42,0:24:07.05,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:07.05,0:24:08.72,Main,Gurumin,0,0,0,,I hear when ships \N get lost in the mist,
 Dialogue: 10,0:24:08.72,0:24:12.93,Main,Gurumin,0,0,0,,there’s a Laplace with a beautiful \N singing voice that guides them out!
 Dialogue: 10,0:24:12.93,0:24:15.60,Main,Gurumin,0,0,0,,A beautiful singing voice... \N How romantic!
@@ -981,16 +980,16 @@ Dialogue: 0,0:22:01.63,0:22:01.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:22:01.68,0:22:01.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}Average
 Dialogue: 0,0:22:01.72,0:22:01.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}Average
 Dialogue: 0,0:22:01.76,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}Average
-Dialogue: 1,0:22:01.38,0:22:01.42,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}Average
-Dialogue: 1,0:22:01.42,0:22:01.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}Average
-Dialogue: 1,0:22:01.47,0:22:01.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}Average
-Dialogue: 1,0:22:01.51,0:22:01.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}Average
-Dialogue: 1,0:22:01.55,0:22:01.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}Average
-Dialogue: 1,0:22:01.59,0:22:01.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}Average
-Dialogue: 1,0:22:01.63,0:22:01.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}Average
-Dialogue: 1,0:22:01.68,0:22:01.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}Average
-Dialogue: 1,0:22:01.72,0:22:01.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}Average
-Dialogue: 1,0:22:01.76,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}Average
+Dialogue: 1,0:22:01.38,0:22:01.42,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}Average
+Dialogue: 1,0:22:01.42,0:22:01.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}Average
+Dialogue: 1,0:22:01.47,0:22:01.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}Average
+Dialogue: 1,0:22:01.51,0:22:01.55,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}Average
+Dialogue: 1,0:22:01.55,0:22:01.59,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}Average
+Dialogue: 1,0:22:01.59,0:22:01.63,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}Average
+Dialogue: 1,0:22:01.63,0:22:01.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}Average
+Dialogue: 1,0:22:01.68,0:22:01.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}Average
+Dialogue: 1,0:22:01.72,0:22:01.76,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}Average
+Dialogue: 1,0:22:01.76,0:22:07.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}Average
 Dialogue: 0,0:22:01.38,0:22:01.42,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}Nasty
 Dialogue: 0,0:22:01.42,0:22:01.47,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}Nasty
 Dialogue: 0,0:22:01.47,0:22:01.51,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}Nasty

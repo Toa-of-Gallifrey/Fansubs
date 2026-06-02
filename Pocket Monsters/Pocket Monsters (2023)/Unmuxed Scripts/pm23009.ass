@@ -290,7 +290,7 @@ Dialogue: 10,0:18:25.71,0:18:27.67,Main,Liko,0,0,0,,I met Roy...
 Dialogue: 10,0:18:29.71,0:18:33.43,Main,Liko,0,0,0,,Living with everyone aboard the airship,
 Dialogue: 10,0:18:33.43,0:18:35.22,Main,Liko,0,0,0,,I finally realized...
 Dialogue: 10,0:18:35.22,0:18:38.51,Main,Liko,0,0,0,,...what my grandma \N was trying to tell me, long ago...
-Dialogue: 10,0:18:45.90,0:18:50.98,Main,Diana,0,0,0,,I know the day will come when you go on \N your own adventure, with this around your neck.{003}
+Dialogue: 10,0:18:45.90,0:18:50.98,Main,Diana,0,0,0,,{\q2}I know the day will come when you go \N on your own adventure, with this around your neck.{003}
 Dialogue: 10,0:18:50.98,0:18:52.49,Main,Liko,0,0,0,,Really...?{003}
 Dialogue: 10,0:18:52.49,0:18:54.82,Main,Liko,0,0,0,,But aren’t adventures scary?{003}
 Dialogue: 10,0:18:54.82,0:18:57.37,Main,Diana,0,0,0,,The only scary part is the first step.{003}
@@ -353,19 +353,19 @@ Dialogue: 10,0:23:34.23,0:23:36.19,Main,Friede,0,0,0,,See the answer after the c
 Dialogue: 10,0:23:39.48,0:23:41.48,Main,Friede,0,0,0,,Now, time to announce \N the correct answer.
 Dialogue: 10,0:23:42.07,0:23:45.40,Main,Friede,0,0,220,,The answer is A: It makes them swell up.
 Dialogue: 10,0:23:45.40,0:23:49.74,Main,Friede,0,0,220,,Puppymocchi’s breath can ferment things \N to make them swell up.
-Dialogue: 10,0:23:49.74,0:23:55.75,Main,Friede,0,0,220,,It’s very useful in cooking, which has made \N this Pokémon popular with bakeries for a long time.
-Dialogue: 10,0:23:55.75,0:23:58.79,Main,Friede,0,0,0,,Puppymocchi’s bread will make you so full \N you’ll just loaf around.{Puppymocchi’s bread \N will leave you filled to the brim!}{pan = bread, panpan = stuffed | pun, best I could come up with was bread/brim but still seems meh}
+Dialogue: 10,0:23:49.74,0:23:52.12,Main,Friede,0,0,220,,It’s very useful in cooking,
+Dialogue: 10,0:23:52.12,0:23:55.75,Main,Friede,0,0,220,,which has made this Pokémon \N popular with bakeries for a long time.
+Dialogue: 10,0:23:55.75,0:23:58.79,Main,Friede,0,0,0,,Puppymocchi’s bread will make you so full \N you’ll just loaf around.{pun: pan = bread, panpan = stuffed}
 Comment: 0,0:24:00.50,0:24:00.50,Main,,0,0,0,,{Preview}
-Dialogue: 10,0:24:01.25,0:24:04.92,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’{gurubin}?
-Dialogue: 10,0:24:04.92,0:24:06.93,Main,Gurumin,0,0,0,,It’s huge preview time!
+Dialogue: 10,0:24:01.25,0:24:06.93,Main,Gurumin,0,0,0,,Yo-ssu! All you Pokémon Trainers out there! \N Y’all been groovin’? It’s huge preview time!
 Dialogue: 10,0:24:06.93,0:24:10.30,Main,Gurumin,0,0,0,,Chasing the black Rekkuuza, \N Liko and pals head for Bowl Town!
 Dialogue: 10,0:24:10.30,0:24:13.35,Main,Gurumin,0,0,0,,And who do they meet at \N this artsy town full of Grass Pokémon...?
 Dialogue: 10,0:24:13.35,0:24:15.39,Main,Gurumin,0,0,0,,The cheerful Pokémon Trainer, Nemo!
 Dialogue: 10,0:24:15.39,0:24:18.14,Main,Gurumin,0,0,0,,And when they visit \N the Gym Leader, Colza...
 Dialogue: 10,0:24:18.14,0:24:21.48,Main,Gurumin,0,0,0,,He’s taking a break from the Gym?! \N He’s in a slump?!
 Dialogue: 10,0:24:21.48,0:24:24.36,Main,Gurumin,0,0,0,,Gather the Kimawari \N and cheer him up!
-Dialogue: 10,0:24:24.36,0:24:26.95,Main,Gurumin,0,0,0,,And so! To be continued next time \N on Pocket Monsters!
-Dialogue: 10,0:24:26.95,0:24:28.61,Main,Gurumin,0,0,0,,Nemo and Colza
+Dialogue: 10,0:24:24.36,0:24:26.95,Main,Gurumin,0,0,0,,And so! To be continued \N next time on Pocket Monsters!
+Dialogue: 10,0:24:26.95,0:24:28.61,Main,Gurumin,0,0,0,,With Nemo and Colza
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:00:57.58,0:01:02.75,OP,,0,0,0,,{=38}{\fad(350,0)\blur0.6}I’m riding the heart-pound-ifying currents
 Dialogue: 1,0:01:02.75,0:01:04.88,OP,,0,0,0,,{\fad(0,350)\blur0.6}I bet
@@ -3676,16 +3676,16 @@ Dialogue: 0,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 0,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,854.43)\4a&H00&\4c&HA1DCA3&\shad2}It makes them harder
 Dialogue: 0,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,840.69)\4a&H00&\4c&HA1DCA3&\shad2}It makes them harder
 Dialogue: 0,0:23:32.93,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(960,835.99)\4a&H00&\4c&HA1DCA3&\shad2}It makes them harder
-Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1190.17)}It makes them harder
-Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1124.05)}It makes them harder
-Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1059.81)}It makes them harder
-Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,1001.55)}It makes them harder
-Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,951.31)}It makes them harder
-Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,909.99)}It makes them harder
-Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,877.48)}It makes them harder
-Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,854.43)}It makes them harder
-Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,840.69)}It makes them harder
-Dialogue: 1,0:23:32.93,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H46C147&\pos(960,835.99)}It makes them harder
+Dialogue: 1,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1190.17)}It makes them harder
+Dialogue: 1,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1124.05)}It makes them harder
+Dialogue: 1,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1059.81)}It makes them harder
+Dialogue: 1,0:23:32.68,0:23:32.72,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,1001.55)}It makes them harder
+Dialogue: 1,0:23:32.72,0:23:32.77,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,951.31)}It makes them harder
+Dialogue: 1,0:23:32.77,0:23:32.81,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,909.99)}It makes them harder
+Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,877.48)}It makes them harder
+Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,854.43)}It makes them harder
+Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,840.69)}It makes them harder
+Dialogue: 1,0:23:32.93,0:23:37.48,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&H3CBD3D&\pos(960,835.99)}It makes them harder
 Dialogue: 0,0:23:32.56,0:23:32.60,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1190.17)\4a&H00&\4c&HF1C08C&\shad2}It makes them laugh
 Dialogue: 0,0:23:32.60,0:23:32.64,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1124.05)\4a&H00&\4c&HF1C08C&\shad2}It makes them laugh
 Dialogue: 0,0:23:32.64,0:23:32.68,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(1564,1059.81)\4a&H00&\4c&HF1C08C&\shad2}It makes them laugh
@@ -3897,56 +3897,56 @@ Dialogue: 2,0:24:18.27,0:24:26.19,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:18.27,0:24:26.19,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:18.27,0:24:26.19,Episode titles,,0,0,0,,{=917}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{=44}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Nemo and Colza
-Dialogue: 1,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Nemo and Colza
+Dialogue: 0,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{=44}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}With Nemo and Colza
+Dialogue: 1,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}With Nemo and Colza
 Comment: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}The Treasure That Washed Ashore
 Comment: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}The Treasure That Washed Ashore
 Comment: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}The Treasure That Washed Ashore
 Comment: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}The Treasure That Washed Ashore
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Nemo and Colza
-Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{=45}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,750.25)}Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}With Nemo and Colza
+Dialogue: 2,0:24:26.19,0:24:30.45,Episode titles,,0,0,0,,{=45}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(14.88,373,1904.19,750.25)}With Nemo and Colza
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
