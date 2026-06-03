@@ -1395,7 +1395,7 @@ POKÉMON NAMES
 0141 カブトプス Kabutops - こうらポケモン 
 0142 プテラ Ptera - かせきポケモン Fossil Pokémon
 0143 カビゴン Kabigon - いねむりポケモン Sleeping Pokémon
-0144 フリーザー Freezer - れいとうポケモン Freezing Pokémon | Galarian Form - れいこくポケモン 
+0144 フリーザー Freezer - れいとうポケモン Freeze Pokémon | Galarian Form - れいこくポケモン 
 0145 サンダー Thunder - でんげきポケモン Electric Shock Pokémon | Galarian Form - けんきゃくポケモン 
 0146 ファイヤー Fire - かえんポケモン Flame Pokémon | Galarian Form - じゃあくポケモン Malevolent Pokémon
 0147 ミニリュウ Miniryu - ドラゴンポケモン Dragon Pokémon
@@ -2333,8 +2333,8 @@ LOCATIONS
 
 kantou chihou カントー地方 (Kanto region) - Kanto Region
 jouto chihou ジョウト地方 (Johto region) - Johto Region
-houen chihou ホウエン地方 (Hoenn region) - Hoenn Region
-shin'ou chihou シンオウ地方 (Sinnoh region) - Sinnoh Region
+houen chihou ホウエン地方 (Hoenn region) - Houen Region
+shin'ou chihou シンオウ地方 (Sinnoh region) - Shin'ou Region
 isshu chihou イッシュ地方 (Unova region) - Isshu Region
 karosu chihou カロス地方 (Kalos region) - Kalos Region
 arora chihou アローラ地方 (Alola region) - Alola Region
