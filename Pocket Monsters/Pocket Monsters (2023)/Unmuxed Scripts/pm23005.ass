@@ -3740,8 +3740,8 @@ Dialogue: 1,0:23:32.81,0:23:32.85,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy
 Dialogue: 1,0:23:32.85,0:23:32.89,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,854.43)}Ninjas
 Dialogue: 1,0:23:32.89,0:23:32.93,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,840.69)}Ninjas
 Dialogue: 1,0:23:32.93,0:23:37.52,Main,,0,0,0,,{\an5\fnHummingMod\b0\fscx60\fscy60\blur0.6\bord0\4a&HFF&\c&HEF8610&\pos(1564,836)}Ninjas
-Dialogue: 0,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\4c&HF1C08C&\shad2}C: Ninjas
-Dialogue: 1,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&\c&HEF8610&}C: Ninjas
+Dialogue: 0,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\4c&HF1C08C&\shad2}C: Ninjas
+Dialogue: 1,0:23:41.52,0:23:47.53,Main,,0,0,0,,{\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Strike compared to?\N\N{\alpha&HFF&\t(690,1275,\alpha&H00&)\c&HEF8610&}C: Ninjas
 Dialogue: 0,0:23:47.53,0:23:54.54,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord3\3c&HFFFFFF&\c&HFFFFFF&\pos(218.33,66.33)\shad0}What is Strike compared to?\N\N{\alpha&H00&\4c&HF1C08C&\shad2}C: Ninjas
 Dialogue: 1,0:23:47.53,0:23:54.54,Main,,0,0,0,,{\fad(0,370)\fnHummingMod\b0\an7\fscx70\fscy70\blur0.6\bord0\c&H000000&\pos(218.33,66.33)\4a&HFF&}What is Strike compared to?\N\N{\c&HEF8610&}C: Ninjas
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
