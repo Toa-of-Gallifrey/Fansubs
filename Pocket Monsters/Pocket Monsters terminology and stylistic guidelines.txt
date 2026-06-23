@@ -1762,12 +1762,12 @@ POKÉMON NAMES
 0508 ムーランド Mooland - かんだいポケモン Big-Hearted Pokémon
 0509 チョロネコ Choroneko - しょうわるポケモン Devious Pokémon
 0510 レパルダス Leopardas - れいこくポケモン 
-0511 ヤナップ Yanape - くさざるポケモン 
-0512 ヤナッキー Yanakkie - とげざるポケモン 
-0513 バオップ Baope - こうおんポケモン 
-0514 バオッキー Baokkie - ひのこポケモン 
-0515 ヒヤップ Hiyape - みずかけポケモン 
-0516 ヒヤッキー Hiyakkie - ほうすいポケモン
+0511 ヤナップ Yanappe - くさざるポケモン 
+0512 ヤナッキー Yanakkey - とげざるポケモン 
+0513 バオップ Baoppe - こうおんポケモン 
+0514 バオッキー Baokkey - ひのこポケモン 
+0515 ヒヤップ Hiyappe - みずかけポケモン 
+0516 ヒヤッキー Hiyakkey - ほうすいポケモン
 0517 ムンナ Munna - ゆめくいポケモン 
 0518 ムシャーナ Musharna - ゆめうつつポケモン 
 0519 マメパト Mamepato - こばとポケモン 
