@@ -46,7 +46,7 @@ ayashii kaze あやしいかぜ (Ominous Wind) - # TBD #
 baaku auto バークアウト (Snarl) - Bark Out
 baburu kousen バブルこうせん (Bubble Beam) - Bubble Beam
 bachibachi akuseru ばちばちアクセル (Zippy Zap) - # TBD #
-bakajikara ばかぢから (Superpower) - # TBD #
+bakajikara ばかぢから (Superpower) - Brute Force
 bakuonpa ばくおんぱ (Boomburst) - Blast Waves
 bakuretsu panchi ばくれつパンチ (Dynamic Punch) - Explosive Punch
 baretto panchi バレットパンチ (Bullet Punch) - Bullet Punch
@@ -228,7 +228,7 @@ haidoro pompu ハイドロポンプ (Hydro Pump) - Hydro Pump
 haidoro suchiimu ハイドロスチーム (Hydro Steam) - Hydro Steam
 haipaa boisu ハイパーボイス (Hyper Voice) - Hyper Voice
 haipaa doriru ハイパードリル (Hyper Drill) - Hyper Drill
-haisui no jin はいすいのじん (No Retreat) - # TBD #
+haisui no jin はいすいのじん (No Retreat) - Last Stand
 haiyoru ichigeki はいよるいちげき (Skitter Smack) - Crawling Strike
 hajikeru honoo はじけるほのお (Flame Burst) - Flame Burst
 hakai kousen はかいこうせん (Hyper Beam) - Destroyer Beam
@@ -1062,7 +1062,7 @@ joukikan じょうききかん (Steam Engine) - # TBD #
 jo'ou no igen じょおうのいげん (Queenly Majesty) - # TBD #
 jukusei じゅくせい (Ripen) - # TBD #
 juunan じゅうなん (Limber) - Limber
-kabuto aamaa カブトアーマー (Battle Armor) - # TBD #
+kabuto aamaa カブトアーマー (Battle Armor) - Helmet Armor
 kachiki かちき (Competitive) - # TBD #
 kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
 kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
