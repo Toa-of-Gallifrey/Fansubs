@@ -1657,7 +1657,7 @@ POKÉMON NAMES
 0403 コリンク Kolynk - せんこうポケモン 
 0404 ルクシオ Luxio - でんこうポケモン 
 0405 レントラー Roentorar - がんこうポケモン Gleaming Eyes Pokémon
-0406 スボミー Subomi - つぼみポケモン 
+0406 スボミー Subomie - つぼみポケモン 
 0407 ロズレイド Roserade - ブーケポケモン Bouquet Pokémon
 0408 ズガイドス Zugaidos - ずつきポケモン
 0409 ラムパルド Rampard - ずつきポケモン 
@@ -1918,7 +1918,7 @@ POKÉMON NAMES
 0664 コフキムシ Kofukimushi - こなふきポケモン 
 0665 コフーライ 
 0666 ビビヨン 
-0667 シシコ 
+0667 シシコ Shishiko - わかししポケモン 
 0668 カエンジシ Kaenjishi - おうじゃポケモン Monarch Pokémon
 0669 フラベベ Flabébé - いちりんポケモン Single Bloom Pokémon
 0670 フラエッテ Floette - いちりんポケモン Single Bloom Pokémon
