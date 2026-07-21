@@ -1,3 +1,0 @@
--Updated handling for maboroshi from "mythical" to "phantom" for consistency with M01.
--Improved song styling.
--Adjusted blur fade-in for title typesetting.
