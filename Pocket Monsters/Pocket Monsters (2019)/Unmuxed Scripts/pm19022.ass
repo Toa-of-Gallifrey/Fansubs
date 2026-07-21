@@ -64,7 +64,7 @@ Dialogue: 10,0:01:11.09,0:01:12.13,Main,Satoshi,0,0,0,,Look, Go!
 Dialogue: 10,0:01:12.90,0:01:14.67,Main,Go,0,0,0,,It’s the ocean!
 Comment: 10,0:01:18.22,0:01:18.22,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:46.47,0:02:46.47,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:01.49,0:03:04.73,Main,Satoshi,0,0,0,,Here we are, \N in the Hoenn Region once again!
+Dialogue: 10,0:03:01.49,0:03:04.73,Main,Satoshi,0,0,0,,Here we are, \N in the Houen Region once again!
 Dialogue: 10,0:03:04.73,0:03:06.50,Main,Satoshi,0,0,0,,Destination: Mishiro Town!
 Dialogue: 10,0:03:06.50,0:03:10.87,Main,Go,0,0,0,,The Pokémon Center is \N right down this road!
 Dialogue: 10,0:03:10.87,0:03:13.00,Main,Satoshi,0,0,0,,Four days here, huh?
@@ -915,7 +915,7 @@ Dialogue: 0,0:11:42.52,0:11:48.52,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\
 Dialogue: 1,0:11:42.52,0:11:48.52,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 2,0:11:42.52,0:11:48.52,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:55.48,0:03:01.49,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Mishiro Town, Hoenn Region
+Dialogue: 0,0:02:55.48,0:03:01.49,Main,,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Mishiro Town, Houen Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:11:43.60,0:11:48.52,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1140,561}Agehunt
 Dialogue: 1,0:11:43.60,0:11:48.52,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Flying

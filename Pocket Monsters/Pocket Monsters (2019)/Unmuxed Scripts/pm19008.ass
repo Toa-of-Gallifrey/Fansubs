@@ -93,7 +93,7 @@ Dialogue: 10,0:04:43.31,0:04:47.79,Main,Kikuna,0,0,0,,and then I got in touch wi
 Dialogue: 10,0:04:49.12,0:04:52.02,Main,Misaki,0,0,0,,You saved Pochama?
 Dialogue: 10,0:04:52.02,0:04:53.92,Main,Misaki,0,0,0,,Thank you!
 Dialogue: 10,0:04:53.92,0:04:56.81,Main,Misaki,0,0,0,,I’m Misaki from Kissaki City.{I am going to sue this show for plagiarizing me. (Because obviously the name Misaki is SUPER unique and something I totally have claim to because I have an OC with that name...) -Starfish}
-Dialogue: 10,0:04:56.81,0:04:59.68,Main,Go,0,0,0,,Kissaki City... \N in the Sinnoh Region?!
+Dialogue: 10,0:04:56.81,0:04:59.68,Main,Go,0,0,0,,Kissaki City... \N in the Shin'ou Region?!
 Dialogue: 10,0:04:59.68,0:05:02.82,Main,Koharu,0,0,0,,No way! \N It swam all the way from there?!
 Dialogue: 10,0:05:04.82,0:05:08.25,Main,Misaki,0,0,0,,I was worried since it disappeared \N all of a sudden...
 Dialogue: 10,0:05:08.25,0:05:11.70,Main,Misaki,0,0,0,,It was a real shock to hear \N you found it in Kuchiba City!
@@ -102,12 +102,12 @@ Dialogue: 10,0:05:16.27,0:05:18.09,Main,Satoshi,0,0,0,,Huh? Are you embarrassed?
 Dialogue: 10,0:05:18.09,0:05:22.17,Main,Sakuragi,0,0,0,,Now that we know, \N we should return it as soon as possible.
 Dialogue: 10,0:05:22.17,0:05:24.99,Main,Satoshi,0,0,0,,All right! I’ll go give it back!
 Dialogue: 10,0:05:24.99,0:05:26.03,Main,Go,0,0,0,,Me, too!
-Dialogue: 10,0:05:26.75,0:05:30.13,Main,Go,0,0,0,,I gotta catch some \N Sinnoh Pokémon, yeah?
+Dialogue: 10,0:05:26.75,0:05:30.13,Main,Go,0,0,0,,I gotta catch some \N Shin'ou Pokémon, yeah?
 Dialogue: 10,0:05:30.99,0:05:32.68,Main,Sakuragi,0,0,0,,Counting on you.
 Dialogue: 10,0:05:32.68,0:05:36.41,Main,Sakuragi,0,0,0,,In Kissaki City, \N the city of snow and glittering ice,{This is what the city is described as in the Japanese version of the games... Let's NOT use the English equivalent though, since they just called it "City of ice". -Starfish}
 Dialogue: 10,0:05:36.41,0:05:40.61,Main,Sakuragi,0,0,0,,you should see, interact with, and catch \N plenty of rare Pokémon!
 Dialogue: 10,0:05:40.61,0:05:42.20,Main,Satoshi & Go,0,0,0,,All right!
-Dialogue: 10,0:05:48.97,0:05:51.53,Main,Go,0,0,0,,It’s the Sinnoh Region!
+Dialogue: 10,0:05:48.97,0:05:51.53,Main,Go,0,0,0,,It’s the Shin'ou Region!
 Dialogue: 10,0:05:54.23,0:05:55.85,Main,Satoshi,0,0,0,,So cold...
 Dialogue: 10,0:05:55.85,0:05:59.22,Main,Go,0,0,0,,Look at all these people, though.
 Dialogue: 10,0:06:08.51,0:06:10.71,Main,Satoshi,0,0,0,,Is there a festival or something?
@@ -120,7 +120,7 @@ Dialogue: 10,0:06:23.85,0:06:28.43,Main,Kojiro,0,0,0,,Nice! Chasing after the br
 Dialogue: 10,0:06:28.43,0:06:30.93,Main,Musashi,0,0,0,,...led to us hearing something real good.
 Dialogue: 10,0:06:30.93,0:06:33.79,Main,Nyarth,0,0,0,,Change of plans, meow!
 Dialogue: 10,0:06:33.79,0:06:39.29,Main,Musashi,0,0,0,,Let’s nab Pikachu... \N and all the Pokémon in that race!
-Dialogue: 10,0:06:39.67,0:06:44.52,Main,Kojiro,0,0,0,,But the way to Sinnoh... \N sure was long...
+Dialogue: 10,0:06:39.67,0:06:44.52,Main,Kojiro,0,0,0,,But the way to Shin'ou... \N sure was long...
 Dialogue: 10,0:06:44.52,0:06:47.49,Main,Kojiro,0,0,0,,We should have installed \N an electric assist...
 Dialogue: 10,0:06:47.49,0:06:50.39,Main,Musashi,0,0,0,,Or really, why not make \N this whole thing run on electricity?!
 Dialogue: 10,0:06:50.85,0:06:53.27,Main,Nyarth,0,0,0,,We couldn’t afford it, meow...
@@ -134,7 +134,7 @@ Dialogue: 10,0:07:23.45,0:07:24.65,Main,Rotom Go Ver,0,0,0,,Nice!
 Dialogue: 10,0:07:31.28,0:07:35.06,Main,Rotom Go Ver,0,0,0,,Tamanta’s data will be \N added to the Index!
 Dialogue: 10,0:07:35.06,0:07:38.24,Main,Go,0,0,0,,Yeah! I got Tamanta!
 Dialogue: 10,0:07:38.24,0:07:40.13,Main,Satoshi,0,0,0,,Caught something \N right off the bat, huh?
-Dialogue: 10,0:07:40.13,0:07:42.66,Main,Go,0,0,0,,Yup! My first catch in Sinnoh!
+Dialogue: 10,0:07:40.13,0:07:42.66,Main,Go,0,0,0,,Yup! My first catch in Shin'ou!
 Dialogue: 10,0:07:43.50,0:07:46.10,Main,Misaki,0,0,0,,Oh, there you are!
 Dialogue: 10,0:07:46.10,0:07:47.15,Main,Satoshi,0,0,0,,Ms. Misaki{Honorifics note: Misaki-san}!
 Dialogue: 10,0:07:47.69,0:07:48.95,Main,Misaki,0,0,0,,I’m terribly sorry.
@@ -276,7 +276,7 @@ Dialogue: 10,0:17:36.20,0:17:38.90,Main,Musashi,0,0,0,,What’s it gonna be?
 Dialogue: 10,0:17:43.46,0:17:47.42,Main,Musashi,0,0,0,,Yeah! A really strong-looking \N Pokémon, Kairiky!
 Dialogue: 10,0:17:47.42,0:17:48.98,Main,Kojiro,0,0,0,,One more!
 Dialogue: 10,0:17:50.28,0:17:52.21,Main,Kojiro,0,0,0,,What’s it gonna be?
-Dialogue: 10,0:17:56.38,0:18:00.26,Main,Kojiro,0,0,0,,All right! The Freezing Pokémon, \N Tunbear!
+Dialogue: 10,0:17:56.38,0:18:00.26,Main,Kojiro,0,0,0,,All right! The Frozen Pokémon, \N Tunbear!
 Dialogue: 10,0:18:00.26,0:18:02.60,Main,Musashi,0,0,0,,Get ‘em, Kairiky!
 Dialogue: 10,0:18:07.12,0:18:09.02,Main,Kojiro,0,0,0,,Tunbear! Icicle Drop!
 Dialogue: 10,0:18:13.49,0:18:15.11,Main,Go,0,0,0,,Tamanta! Agility!
@@ -334,9 +334,9 @@ Dialogue: 10,0:23:28.30,0:23:29.34,Main,Kurio,0,0,0,,Grandpa...{he says おじ�
 Dialogue: 10,0:23:29.34,0:23:31.03,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:31.03,0:23:34.44,Main,Go,0,0,0,,The Vow From That Day! \N The Johto Region’s Legend of Houou!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:06:55.31,0:06:59.19,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(940,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Kissaki City, Sinnoh Region
+Dialogue: 0,0:06:55.31,0:06:59.19,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(940,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Kissaki City, Shin'ou Region
 Dialogue: 0,0:17:44.66,0:17:47.42,Main,Text,600,0,0,,{\an8}Superstrength Pokémon \N Kairiky
-Dialogue: 0,0:17:57.38,0:18:00.26,Main,Text,600,0,0,,{\an8}Freezing Pokémon \N Tunbear
+Dialogue: 0,0:17:57.38,0:18:00.26,Main,Text,600,0,0,,{\an8}Frozen Pokémon \N Tunbear
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:01:50.42,0:01:50.47,Logo - Glow,,0,0,0,,{\pos(480,200)\fsp-40\4a&H00&\blur9\clip(0,214,1280,720)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 0,0:01:50.42,0:01:50.47,Logo - Glow,,0,0,0,,{\pos(480,200)\fsp-40\4a&H0D&\blur9\clip(0,213,1280,214)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -508,9 +508,9 @@ Dialogue: 1,0:03:16.76,0:03:18.43,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:16.76,0:03:18.43,OPp2,,0,0,0,,I choose you!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:03:22.05,0:03:27.47,Episode titles,,0,0,0,,{\fad(180,0)\pos(480,115)}Don't Lose, Pochama!
-Dialogue: 1,0:03:22.05,0:03:27.47,Episode titles,,0,0,0,,{\fad(180,0)\pos(700,443)\fsp-2}The Sinnoh Region Drift Ice Race!!
+Dialogue: 1,0:03:22.05,0:03:27.47,Episode titles,,0,0,0,,{\fad(180,0)\pos(700,443)\fsp-2}The Shin'ou Region Drift Ice Race!!
 Dialogue: 0,0:03:22.05,0:03:27.47,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(480,115)}Don't Lose, Pochama!
-Dialogue: 0,0:03:22.05,0:03:27.47,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(700,443)\fsp-2}The Sinnoh Region Drift Ice Race!!
+Dialogue: 0,0:03:22.05,0:03:27.47,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(700,443)\fsp-2}The Shin'ou Region Drift Ice Race!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:09:14.74,0:09:14.78,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\fscx42\fscy42\pos(220,72)\iclip(m 220 105 b 226 78 257 32 276 9 l 569 12 598 43 598 103)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 0,0:09:14.74,0:09:14.78,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\fscx42\fscy42\pos(220,72)\iclip(2,m 440 210 b 452 156 514 64 552 18 l 1138 24 1196 86 1196 206 )}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

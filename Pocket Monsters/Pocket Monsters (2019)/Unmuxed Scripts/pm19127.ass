@@ -42,7 +42,7 @@ Style: Answer,FOT-Slump Std DB,48,&H00FDFFFF,&H00F5FEF5,&H00293251,&HFF293251,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:02.44,0:00:06.65,Main,Narrator,0,0,0,,The Pokémon World Championships \N Masters Tournament Semifinals.
-Dialogue: 10,0:00:07.57,0:00:11.99,Main,Narrator,0,0,0,,The fierce fight concluded with \N Satoshi defeating the Champion of Sinnoh, Shirona,
+Dialogue: 10,0:00:07.57,0:00:11.99,Main,Narrator,0,0,0,,The fierce fight concluded with \N Satoshi defeating the Champion of Shin'ou, Shirona,
 Dialogue: 10,0:00:11.99,0:00:13.99,Main,Narrator,0,0,0,,advancing to the finals at last.
 Dialogue: 10,0:00:16.25,0:00:21.58,Main,Narrator,0,0,0,,With tomorrow’s decisive match ahead of them, \N Satoshi and Go have arrived at Shoot Stadium.
 Dialogue: 10,0:00:22.71,0:00:25.46,Main,Go,0,0,0,,I wonder what Mr. Dande{Honorifics note: Dande-san} \N wants to show us.

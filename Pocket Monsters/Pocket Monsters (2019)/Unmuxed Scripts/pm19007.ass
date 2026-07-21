@@ -64,7 +64,7 @@ Dialogue: 10,0:01:43.95,0:01:46.33,Main,Koharu,0,0,0,,Dad, calm down! \N That’
 Dialogue: 10,0:01:46.33,0:01:48.12,Main,Go,0,0,0,,Trancell, are you hurt?!
 Dialogue: 10,0:01:49.38,0:01:51.38,Main,Go,0,0,0,,What a relief.
 Dialogue: 10,0:01:51.38,0:01:52.42,Main,Satoshi,0,0,0,,Go!
-Dialogue: 10,0:01:55.71,0:01:58.55,Main,Satoshi,0,0,0,,Let’s go to the Hoenn Region!{ngl, I kinda love how there's just NO build-up to this at all. -Starfish}
+Dialogue: 10,0:01:55.71,0:01:58.55,Main,Satoshi,0,0,0,,Let’s go to the Houen Region!{ngl, I kinda love how there's just NO build-up to this at all. -Starfish}
 Dialogue: 10,0:02:00.72,0:02:01.73,Main,Go,0,0,0,,What?
 Comment: 10,0:02:02.30,0:02:02.30,Main,,0,0,0,,{Opening}
 Comment: 10,0:03:30.48,0:03:30.48,Main,,0,0,0,,{Part B}
@@ -101,7 +101,7 @@ Dialogue: 10,0:05:36.69,0:05:38.85,Main,Satoshi,0,0,0,,You came with me, didn’
 Dialogue: 10,0:05:38.85,0:05:42.86,Main,Go,0,0,0,,Only because {\i1}you{\i0} signed me up \N without asking!
 Dialogue: 10,0:05:42.86,0:05:44.11,Main,Go,0,0,0,,Besides...
 Dialogue: 10,0:05:45.78,0:05:48.41,Main,Go,0,0,0,,A Pokémon?! \N Let’s get it, Hibunny!
-Dialogue: 10,0:05:49.74,0:05:52.58,Main,Go,0,0,0,,We’re gonna catch ourselves \N some Hoenn Pokémon!
+Dialogue: 10,0:05:49.74,0:05:52.58,Main,Go,0,0,0,,We’re gonna catch ourselves \N some Houen Pokémon!
 Dialogue: 10,0:05:53.99,0:05:55.83,Main,Satoshi,0,0,0,,I see...
 Dialogue: 10,0:06:00.75,0:06:02.21,Main,Satoshi,0,0,0,,It’s Hariteyama!
 Dialogue: 10,0:06:02.21,0:06:03.76,Main,Satoshi,0,0,0,,Is it participating too?
@@ -301,7 +301,7 @@ Dialogue: 10,0:20:49.39,0:20:51.06,Main,Go,0,0,0,,Pokémon Battles...
 Dialogue: 10,0:20:51.68,0:20:53.31,Main,Go,0,0,0,,...sure are fun, huh?
 Dialogue: 10,0:20:56.23,0:20:57.36,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 10,0:21:00.36,0:21:02.57,Main,Sakuragi,0,0,0,,What’s the deal with these Kemusso?{Tagging to maybe think about this more. - Toa of the Batch}
-Dialogue: 10,0:21:03.33,0:21:06.20,Main,Satoshi,0,0,0,,Go caught them in \N the Hoenn Region!
+Dialogue: 10,0:21:03.33,0:21:06.20,Main,Satoshi,0,0,0,,Go caught them in \N the Houen Region!
 Dialogue: 10,0:21:06.20,0:21:08.41,Main,Koharu,0,0,0,,But why are there three?
 Dialogue: 10,0:21:09.49,0:21:14.28,Main,Go,0,0,0,,You never know if Kemusso will evolve \N into Karasalis or into Mayuld, you know!
 Dialogue: 10,0:21:15.71,0:21:16.71,Main,Satoshi,0,0,0,,They’re evolving!{Was the "seems like" explicit in the JP? Does this overly truncate it? - Toa of the Batch}
@@ -319,16 +319,16 @@ Comment: 10,0:23:05.44,0:23:05.44,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:06.98,0:23:09.50,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.50,0:23:10.74,Main,Go,0,0,0,,Go!
 Dialogue: 10,0:23:11.86,0:23:13.07,Main,Satoshi,0,0,0,,A lost Pochama?!{seemingly no match. closest seems to be Satoshi and Go going EH?! POCHAMA?! at 0:01:42.58}
-Dialogue: 10,0:23:13.07,0:23:15.24,Main,Go,0,0,0,,It swam here \N from the Sinnoh Region?!{no exact match. seems somewhat like a mashup of a Go line from 0:04:56.81 and a Koharu line from 0:04:59.68}
+Dialogue: 10,0:23:13.07,0:23:15.24,Main,Go,0,0,0,,It swam here \N from the Shin'ou Region?!{no exact match. seems somewhat like a mashup of a Go line from 0:04:56.81 and a Koharu line from 0:04:59.68}
 Dialogue: 10,0:23:15.24,0:23:18.04,Main,Misaki,0,0,0,,You saved Pochama?{identical JP from 0:04:49.12 in the episode}
 Dialogue: 10,0:23:18.04,0:23:20.46,Main,Go,0,0,0,,The Drift Ice Race is starting today!{no match. approximates an exchange around 0:06:10.71 where Satoshi and Go see a poster for the race}
 Dialogue: 10,0:23:20.46,0:23:22.54,Main,Satoshi,0,0,0,,Ooh! Sounds fun!{truncated version of a Satoshi line at 0:06:15.43 - 0:06:17.77. "Eh~! A Pokémon race! Sounds fun!" has the "A Pokémon race!" part chopped out so it's "Eh~! Sounds fun!"}
 Dialogue: 10,0:23:22.54,0:23:24.50,Main,Go,0,0,0,,Go, Tamanta!{no true match, but appears to correlate to a line at 0:13:50.19 where Go says "Tamanta! Go! Go!" with english Go!s}
 Dialogue: 10,0:23:25.21,0:23:27.13,Main,Satoshi,0,0,0,,You hang in there too, Pikachu!{delivery is a bit different and the captions are written slightly differently, but identical phrase at 0:13:52.30 in episode.}
 Dialogue: 10,0:23:28.59,0:23:30.13,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:23:30.13,0:23:34.22,Main,Go,0,0,0,,Don’t lose, Pochama! \N The Sinnoh Region Drift Ice Race!!
+Dialogue: 10,0:23:30.13,0:23:34.22,Main,Go,0,0,0,,Don’t lose, Pochama! \N The Shin'ou Region Drift Ice Race!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:39.49,0:03:45.37,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(900,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Battle Frontier, Hoenn Region
+Dialogue: 0,0:03:39.49,0:03:45.37,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(900,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Battle Frontier, Houen Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:02:02.44,0:02:02.48,Logo - Glow,,0,0,0,,{\pos(480,200)\fsp-40\4a&H00&\blur9\clip(0,214,1280,720)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 0,0:02:02.44,0:02:02.48,Logo - Glow,,0,0,0,,{\pos(480,200)\fsp-40\4a&H0D&\blur9\clip(0,213,1280,214)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -499,9 +499,9 @@ Dialogue: 0,0:03:24.64,0:03:28.77,OPp2,,0,0,0,,Let's go! You pick yourself up by
 Dialogue: 1,0:03:28.77,0:03:30.44,OP,,0,0,0,,I choose you!
 Dialogue: 0,0:03:28.77,0:03:30.44,OPp2,,0,0,0,,I choose you!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:03:34.06,0:03:39.49,Episode titles,,0,0,0,,{\fad(180,0)\pos(590,115)\fsp-2}Fierce Battles in the Hoenn Region!
+Dialogue: 1,0:03:34.06,0:03:39.49,Episode titles,,0,0,0,,{\fad(180,0)\pos(590,115)\fsp-2}Fierce Battles in the Houen Region!
 Dialogue: 1,0:03:34.06,0:03:39.49,Episode titles,,0,0,0,,{\fad(180,0)\pos(820,443)}Face the Battle Frontier!!
-Dialogue: 0,0:03:34.06,0:03:39.49,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(590,115)\fsp-2}Fierce Battles in the Hoenn Region!
+Dialogue: 0,0:03:34.06,0:03:39.49,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(590,115)\fsp-2}Fierce Battles in the Houen Region!
 Dialogue: 0,0:03:34.06,0:03:39.49,Episode titles 2,,0,0,0,,{\fad(180,0)\pos(820,443)}Face the Battle Frontier!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 0,0:12:57.76,0:12:57.80,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\fscx42\fscy42\pos(220,72)\iclip(m 220 105 b 226 78 257 32 276 9 l 569 12 598 43 598 103)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -948,9 +948,9 @@ Dialogue: 1,0:13:04.55,0:13:09.47,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)
 Dialogue: 0,0:13:04.55,0:13:09.47,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&H66200B&}m 0 0 m 1050 640 l 1220 640 l 1220 683 l 1050 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:23:30.13,0:23:35.39,Episode titles,,0,0,0,,{\pos(475,115)}Don't Lose, Pochama!
-Dialogue: 1,0:23:30.13,0:23:35.39,Episode titles,,0,0,0,,{\pos(720,443)\fsp-2}The Sinnoh Region Drift Ice Race!!
+Dialogue: 1,0:23:30.13,0:23:35.39,Episode titles,,0,0,0,,{\pos(720,443)\fsp-2}The Shin'ou Region Drift Ice Race!!
 Dialogue: 0,0:23:30.13,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(475,115)}Don't Lose, Pochama!
-Dialogue: 0,0:23:30.13,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(720,443)\fsp-2}The Sinnoh Region Drift Ice Race!!
+Dialogue: 0,0:23:30.13,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(720,443)\fsp-2}The Shin'ou Region Drift Ice Race!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:50.91,0:21:51.58,Main,Pokémon Shiritori,0,0,0,,Pikachu!
 Dialogue: 0,0:21:51.58,0:21:52.45,Main,Pokémon Shiritori,0,0,0,,Utsubot!

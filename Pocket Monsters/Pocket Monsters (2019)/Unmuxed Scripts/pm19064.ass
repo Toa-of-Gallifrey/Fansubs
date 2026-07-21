@@ -44,7 +44,7 @@ Dialogue: 10,0:00:05.60,0:00:10.24,Main,Narrator,0,0,0,,And Go, who dreams of ca
 Dialogue: 10,0:00:10.24,0:00:15.53,Main,Narrator,0,0,0,,This is the story of \N their lives and adventures. {Copy-paste from episode 14 END}
 Dialogue: 10,0:00:21.40,0:00:22.90,Main,Sakuragi,0,0,0,,A research request?
 Dialogue: 10,0:00:22.90,0:00:23.50,Main,Go,0,0,0,,Yeah.
-Dialogue: 10,0:00:23.89,0:00:28.10,Main,Go,0,0,0,,A guy from Hoenn named Hoji \N contacted us.
+Dialogue: 10,0:00:23.89,0:00:28.10,Main,Go,0,0,0,,A guy from Houen named Hoji \N contacted us.
 Dialogue: 10,0:00:28.10,0:00:31.88,Main,Satoshi,0,0,0,,We became friends when we battled \N in the Glass Flute Cup!
 Dialogue: 10,0:00:31.88,0:00:34.13,Main,Sakuragi,0,0,0,,What was his request?
 Dialogue: 10,0:00:34.13,0:00:38.81,Main,Go,0,0,0,,Apparently, the water suddenly stopped flowing \N at his uncle’s hot spring.
@@ -66,7 +66,7 @@ Dialogue: 10,0:01:26.57,0:01:27.85,Main,Satoshi & Go,0,0,0,,Right!
 Comment: 10,0:01:27.85,0:01:27.85,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:55.94,0:02:55.94,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:06.04,0:03:08.58,Main,Narrator,500,0,0,,Satoshi, Go, Pikachu, \N and Sarunori...
-Dialogue: 10,0:03:08.58,0:03:11.16,Main,Narrator,500,0,0,,...have arrived at Fuen Town\N in the Hoenn Region.
+Dialogue: 10,0:03:08.58,0:03:11.16,Main,Narrator,500,0,0,,...have arrived at Fuen Town\N in the Houen Region.
 Dialogue: 10,0:03:11.16,0:03:14.31,Main,Narrator,0,0,0,,The town’s hot springs are \N a famous tourist destination.
 Dialogue: 10,0:03:15.46,0:03:17.26,Main,Hoji,0,0,0,,Hey!
 Dialogue: 10,0:03:17.26,0:03:18.08,Main,Satoshi,0,0,0,,There’s Hoji!
@@ -349,7 +349,7 @@ Dialogue: 10,0:23:25.64,0:23:28.63,Main,Satoshi,0,0,0,,Go, she’s my next oppon
 Dialogue: 10,0:23:28.63,0:23:30.30,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:30.72,0:23:33.97,Main,Go,0,0,0,,Dragon Battle! Satoshi VS Iris!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:04.96,0:03:08.96,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\c&HFFFFFF&\3c&H343037&\blur0.5}Fuen Town, Hoenn Region {Fixed timing. - Toa}
+Dialogue: 0,0:03:04.96,0:03:08.96,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\c&HFFFFFF&\3c&H343037&\blur0.5}Fuen Town, Houen Region {Fixed timing. - Toa}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:52.65,0:02:52.69,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:02:52.69,0:02:52.73,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

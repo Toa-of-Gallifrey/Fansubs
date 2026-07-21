@@ -151,7 +151,7 @@ Dialogue: 10,0:07:39.37,0:07:41.44,Main,Shigeru,0,0,0,,I haven’t had a chance 
 Dialogue: 10,0:07:41.44,0:07:44.03,Main,Shigeru,0,0,0,,Long time no see, \N Satoshi and Pikachu.
 Dialogue: 10,0:07:44.03,0:07:45.89,Main,Satoshi,0,0,0,,Yeah, it’s been forever!
 Dialogue: 10,0:07:46.97,0:07:49.07,Main,Satoshi,0,0,0,,But why are you here?
-Dialogue: 10,0:07:49.07,0:07:52.03,Main,Satoshi,0,0,0,,Weren’t you supposed to be \N researching Pokémon in Sinnoh?
+Dialogue: 10,0:07:49.07,0:07:52.03,Main,Satoshi,0,0,0,,Weren’t you supposed to be \N researching Pokémon in Shin'ou?
 Dialogue: 10,0:07:53.05,0:07:54.75,Main,Shigeru,0,0,0,,That’s old news.
 Dialogue: 10,0:07:54.75,0:07:58.58,Main,Shigeru,0,0,0,,Now, I’m traveling all over the world \N to research Pokémon.
 Dialogue: 10,0:07:58.58,0:08:02.83,Main,Shigeru,0,0,0,,And, while traveling, \N something sprung up that brought me to Kanto. {Went loose here. - Toa}
@@ -192,7 +192,7 @@ Dialogue: 10,0:09:34.75,0:09:36.47,Main,Go,0,0,0,,I could have done that, \N too
 Dialogue: 10,0:09:36.47,0:09:38.43,Main,Shigeru,0,0,0,,So why are you here, Satoshi?
 Dialogue: 10,0:09:38.43,0:09:43.93,Main,Satoshi,0,0,0,,Oh, my Goukazaru, \N who I left at Okido Laboratory, went missing...
 Dialogue: 10,0:09:43.93,0:09:45.77,Main,Shigeru,0,0,0,,Your Goukazaru, huh...
-Dialogue: 10,0:09:45.77,0:09:49.24,Main,Shigeru,0,0,0,,{\fad(0, 485)}I remember seeing him battle \N in the Sinnoh League.
+Dialogue: 10,0:09:45.77,0:09:49.24,Main,Shigeru,0,0,0,,{\fad(0, 485)}I remember seeing him battle \N in the Shin'ou League.
 Dialogue: 10,0:09:49.27,0:09:52.09,Main,Shigeru,0,0,0,,Do you have any clues?
 Dialogue: 10,0:09:52.09,0:09:55.41,Main,Satoshi,0,0,0,,Seems before he left, \N he battled Lizardon.
 Dialogue: 10,0:09:55.41,0:09:59.14,Main,Satoshi,0,0,0,,Magmarashi, Chaoboo, \N and Fiarrow, too.
@@ -205,7 +205,7 @@ Dialogue: 10,0:10:12.87,0:10:14.30,Main,Satoshi,0,0,0,,Of course!
 Dialogue: 10,0:10:14.30,0:10:16.34,Main,Shigeru,0,0,0,,It’s not {\i1}you{\i} \N I’m concerned about.
 Dialogue: 10,0:10:18.89,0:10:21.47,Main,Go,0,0,0,,If Satoshi can do it, \N then so can I!
 Dialogue: 10,0:10:21.47,0:10:23.63,Main,Shigeru,0,0,0,,Don’t disappoint me, now!
-Dialogue: 10,0:10:25.01,0:10:27.43,Main,Satoshi,0,0,0,,Hey, what sort of adventures \N have you had since Sinnoh?
+Dialogue: 10,0:10:25.01,0:10:27.43,Main,Satoshi,0,0,0,,Hey, what sort of adventures \N have you had since Shin'ou?
 Dialogue: 10,0:10:27.43,0:10:29.39,Main,Shigeru,0,0,0,,No mere rundown \N could ever do them justice.
 Dialogue: 10,0:10:29.39,0:10:30.89,Main,Shigeru,0,0,0,,What about you?
 Dialogue: 10,0:10:30.89,0:10:35.53,Main,Satoshi,0,0,0,,Me? I, uh... \N I’ve done loads!

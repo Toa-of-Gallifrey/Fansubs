@@ -100,7 +100,7 @@ Dialogue: 10,0:05:43.62,0:05:45.33,Main,Shinji,0,0,0,,You’re hopeless.{NEP}
 Dialogue: 10,0:05:45.33,0:05:47.99,Main,Shinji,0,0,0,,At least {\i1}try{\i0} to understand \N your partner’s condition.{NEP}
 Dialogue: 10,0:05:48.70,0:05:50.16,Main,Satoshi,0,0,0,,I {\i1}do{\i0} understand!
 Dialogue: 10,0:05:50.16,0:05:52.42,Main,Go,0,0,0,,Satoshi, do you know him?
-Dialogue: 10,0:05:52.42,0:05:57.63,Main,Satoshi,0,0,0,,Yeah, he’s a rival I battled again and again, \N back when I was on my journey around Sinnoh.
+Dialogue: 10,0:05:52.42,0:05:57.63,Main,Satoshi,0,0,0,,Yeah, he’s a rival I battled again and again, \N back when I was on my journey around Shin'ou.
 Dialogue: 10,0:05:57.63,0:05:58.84,Main,Satoshi,0,0,0,,His name’s Shinji.
 Dialogue: 10,0:06:00.67,0:06:03.09,Main,Go,0,0,0,,Nice to meet you... \N My name’s Go.
 Dialogue: 10,0:06:03.76,0:06:05.51,Main,Go,0,0,0,,Is it just me, \N or is he kinda scary?
@@ -126,7 +126,7 @@ Dialogue: 10,0:07:05.36,0:07:07.62,Main,Satoshi,0,0,0,,Take care of Gänger, \N 
 Dialogue: 10,0:07:13.45,0:07:16.79,Main,Go,0,0,0,,Goukazaru listens to \N Shinji’s orders, too...?
 Dialogue: 10,0:07:16.79,0:07:19.84,Main,Satoshi,0,0,0,,Yeah, he used to be \N Shinji’s Pokémon.
 Dialogue: 10,0:07:19.84,0:07:20.34,Main,Go,0,0,0,,What?!
-Dialogue: 10,0:07:21.42,0:07:25.05,Main,Narrator,0,0,0,,Shinji, a trainer that Satoshi met \N in the Sinnoh Region.
+Dialogue: 10,0:07:21.42,0:07:25.05,Main,Narrator,0,0,0,,Shinji, a trainer that Satoshi met \N in the Shin'ou Region.
 Dialogue: 10,0:07:25.76,0:07:29.51,Main,Narrator,0,0,0,,He put his Hikozaru through harsh training \N time and time again,
 Dialogue: 10,0:07:29.51,0:07:32.06,Main,Narrator,0,0,0,,but eventually \N abandoned him as a failure.
 Dialogue: 10,0:07:32.81,0:07:35.18,Main,Narrator,0,0,0,,Satoshi befriended \N that same Hikozaru,

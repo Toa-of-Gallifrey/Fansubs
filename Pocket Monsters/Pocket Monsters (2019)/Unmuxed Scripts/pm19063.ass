@@ -74,8 +74,8 @@ Dialogue: 10,0:02:55.86,0:02:58.20,Main,Sakuragi,0,0,0,,Very well! \N Go and enj
 Dialogue: 10,0:02:58.20,0:02:59.99,Main,Satoshi and Go,0,0,0,,All right!
 Comment: 10,0:02:59.99,0:02:59.99,Main,,0,0,0,,{Opening}
 Comment: 10,0:04:28.08,0:04:28.08,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:04:37.08,0:04:45.09,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(980,600)\c&HFFFFFF&\3c&H343037&\blur0.5}Minamo City, Hoenn Region
-Dialogue: 10,0:04:37.78,0:04:41.21,Main,Narrator,0,400,0,,This is Minamo City, \N in the Hoenn Region.
+Dialogue: 10,0:04:37.08,0:04:45.09,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(980,600)\c&HFFFFFF&\3c&H343037&\blur0.5}Minamo City, Houen Region
+Dialogue: 10,0:04:37.78,0:04:41.21,Main,Narrator,0,400,0,,This is Minamo City, \N in the Houen Region.
 Dialogue: 10,0:04:41.21,0:04:45.09,Main,Narrator,0,400,0,,A beautiful port city \N surrounded by the sea.
 Dialogue: 10,0:04:46.73,0:04:49.09,Main,Koharu,0,0,0,,So that’s the Marine Athletics \N race course!
 Dialogue: 10,0:04:49.71,0:04:51.87,Main,Satoshi,0,0,0,,It looks huge when you’re \N this close to it!

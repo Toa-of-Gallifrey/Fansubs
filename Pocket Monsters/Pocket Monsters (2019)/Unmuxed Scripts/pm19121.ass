@@ -91,7 +91,7 @@ Dialogue: 0,0:03:57.63,0:04:05.48,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,
 Dialogue: 1,0:03:57.63,0:04:05.48,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs30\pos(1091.11,668.45)}Competitor Carne's\NPokémon
 Dialogue: 0,0:04:08.14,0:04:10.48,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&H07C4D5&\pos(321.33,481.33)}Shirona
 Dialogue: 0,0:04:07.89,0:04:10.48,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(0,0)\p1\c&H07C4D5&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
-Dialogue: 1,0:04:08.14,0:04:10.48,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33\i1}Champion of Sinnoh{\i0}
+Dialogue: 1,0:04:08.14,0:04:10.48,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33\i1}Champion of Shin'ou{\i0}
 Dialogue: 0,0:04:08.14,0:04:10.48,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&H9341FC&\pos(958.33,481.33)}Iris
 Dialogue: 0,0:04:07.89,0:04:10.48,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(760,0)\p1\c&H9341FC&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
 Dialogue: 1,0:04:08.14,0:04:10.48,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\fsp-1\fs33\pos(1022.78,650)\i1}Champion of Isshu{\i0}
@@ -115,7 +115,7 @@ Dialogue: 0,0:04:38.72,0:04:49.52,Strictly text,,0,0,0,,{\an7\bord0\blur3\pos(0,
 Dialogue: 1,0:04:38.72,0:04:49.52,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\bord0.5\blur1\fsp-1\fs30\pos(1091.11,668.45)}Competitor Shirona's\NPokémon
 Dialogue: 0,0:04:52.19,0:04:56.53,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&H82CB02&\pos(329.33,481.33)}Daigo
 Dialogue: 0,0:04:51.94,0:04:56.53,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(0,0)\p1\c&H82CB02&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
-Dialogue: 1,0:04:52.19,0:04:56.53,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33\i1}Champion of Hoenn{\i0}
+Dialogue: 1,0:04:52.19,0:04:56.53,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33\i1}Champion of Houen{\i0}
 Dialogue: 0,0:04:52.19,0:04:56.53,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&HFE6001&\pos(962.33,481.33)}Satoshi
 Dialogue: 0,0:04:51.94,0:04:56.53,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(760,0)\p1\c&HFE6001&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
 Dialogue: 1,0:04:52.19,0:04:56.53,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\fsp-1\fs33\pos(1022.78,650)\i1}Champion of Alola{\i0}
@@ -172,7 +172,7 @@ Dialogue: 0,0:07:29.51,0:07:38.06,Strictly text,,0,0,0,,{\an1\pos(64.25,717.32)\
 Dialogue: 0,0:07:15.75,0:07:20.25,Strictly text,,0,0,0,,{\an4\fad(500,500)\fs35\fnDejaVu Serif\i1\b1\pos(70.55,541.33)\c&HE5E5E5&\blur1\bord2\3c&H5F5D5D&}Precisely Composited Battles
 Dialogue: 0,0:07:19.90,0:07:24.63,Strictly text,,0,0,0,,{\an6\fad(500,0)\fs35\fnDejaVu Serif\i1\b1\pos(790.55,541.33)\c&HE5E5E5&\blur1\bord2\3c&H5F5D5D&}100 Strategies
 Dialogue: 0,0:07:25.42,0:07:38.06,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\bord2\blur1.5\c&H67A070&\3c&HFEFFFE&\pos(1045.34,488.89)}Sirknight \N {\c&H333333&}Embrace Pokémon
-Dialogue: 0,0:07:38.06,0:07:54.83,Strictly text,,0,0,0,,{\fad(0,250)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\pos(1036.78,432)\bord2\blur1.5\c&H333333&\3c&HFEFFFE&}Queen of Sinnoh \N {\c&H07A3B2&}Shirona
+Dialogue: 0,0:07:38.06,0:07:54.83,Strictly text,,0,0,0,,{\fad(0,250)\fnRo GSan Serif Std U\blur0.6\fsp-1\fs35\pos(1036.78,432)\bord2\blur1.5\c&H333333&\3c&HFEFFFE&}Queen of Shin'ou \N {\c&H07A3B2&}Shirona
 Dialogue: 0,0:07:38.48,0:07:42.61,Strictly text,,0,0,0,,{\fad(100, 100)\fnRo GSan Serif Std U\fs35\fsp-2\blur0.3\c&H999999&\pos(411.47,170.4)}Attack
 Dialogue: 0,0:07:38.58,0:07:42.61,Strictly text,,0,0,0,,{\fad(100, 100)\fnRo GSan Serif Std U\fs35\fsp-2\blur0.3\c&H999999&\pos(550.4,278.13)}Defense
 Dialogue: 0,0:07:38.68,0:07:42.61,Strictly text,,0,0,0,,{\fad(100,100)\fnRo GSan Serif Std U\fs35\fsp-2\blur0.3\c&H999999&\pos(550.4,439.47)}Speed
@@ -429,7 +429,7 @@ Dialogue: 10,0:04:11.23,0:04:13.82,Main,Announcer,0,0,0,,Their battle began \N w
 Dialogue: 10,0:04:13.82,0:04:15.83,Main,Iris,0,0,0,,I’ll put my faith in Doryuuzu...{ep117}
 Dialogue: 10,0:04:15.83,0:04:17.89,Main,Iris,0,0,0,,...and bet on this attack!{ep117}
 Dialogue: 10,0:04:17.89,0:04:23.62,Main,Announcer,0,450,0,,{\q2\an8}The young Champion of Isshu landed \N a low-accuracy one-hit knockout move!
-Dialogue: 10,0:04:23.62,0:04:27.24,Main,Announcer,0,450,0,,{\an8}Yet the queen of Sinnoh \N was unfazed.
+Dialogue: 10,0:04:23.62,0:04:27.24,Main,Announcer,0,450,0,,{\an8}Yet the queen of Shin'ou \N was unfazed.
 Dialogue: 10,0:04:27.24,0:04:32.51,Main,Announcer,0,0,0,,She calmly and clearly continued to corner \N her opponent, predictably dominating the match!{Sasuga. line}
 Dialogue: 10,0:04:32.51,0:04:33.21,Main,Announcer,0,0,0,,Then...!
 Dialogue: 10,0:04:34.46,0:04:35.95,Main,Shirona,0,0,0,,Gaburias...{ep117}
@@ -438,7 +438,7 @@ Dialogue: 10,0:04:39.28,0:04:45.18,Main,Announcer,0,0,0,,She used Mega Evolution
 Dialogue: 10,0:04:45.18,0:04:49.23,Main,Announcer,0,0,0,,Competitor Shirona \N won the white mark with dignity!
 Dialogue: 10,0:04:50.11,0:04:56.53,Main,Announcer,0,0,18,,But most tumultuous of all was the fourth match, \N where Competitor Daigo faced Competitor Satoshi.
 Dialogue: 10,0:04:57.26,0:05:02.27,Main,Announcer,0,0,0,,Competitor Daigo built upon his core steely defenses \N with a variety of hard and soft attacks.
-Dialogue: 10,0:05:02.27,0:05:07.08,Main,Announcer,0,0,0,,He’s the strongest and most impressive... \N Truly, the Champion of Hoenn!
+Dialogue: 10,0:05:02.27,0:05:07.08,Main,Announcer,0,0,0,,He’s the strongest and most impressive... \N Truly, the Champion of Houen!
 Dialogue: 10,0:05:07.91,0:05:13.18,Main,Announcer,0,0,0,,Competitor Satoshi tried to keep up, \N but couldn’t quite steal the lead.
 Dialogue: 10,0:05:14.13,0:05:18.17,Main,Announcer,0,0,0,,At the close, Competitor Daigo \N sent out his ace, Mega Metagross.
 Dialogue: 10,0:05:18.17,0:05:24.39,Main,Announcer,0,0,0,,Faced with its speed and predictive movement, \N Pikachu’s paws and tail were tied!{temoashimodenai = can't do a thing (lit. can't move hand or foot), pun changes foot to tail}
@@ -470,7 +470,7 @@ Dialogue: 10,0:07:19.73,0:07:24.03,Main,Announcer,0,450,0,,{\an8\q2}Competitor C
 Dialogue: 10,0:07:24.03,0:07:27.55,Main,Announcer,0,450,0,,{\an8}Her ace is the Embrace Pokémon, \N Sirknight.
 Dialogue: 10,0:07:27.55,0:07:32.59,Main,Announcer,0,450,0,,{\an8}Their eye contact during battle \N is a skill born from their close bond.
 Dialogue: 10,0:07:32.59,0:07:37.21,Main,Announcer,0,450,0,,{\an8}What sort of scenes \N will she show us in the semifinals?
-Dialogue: 10,0:07:38.80,0:07:42.68,Main,Announcer,0,0,0,,Next, the queen of Sinnoh, \N Competitor Shirona!
+Dialogue: 10,0:07:38.80,0:07:42.68,Main,Announcer,0,0,0,,Next, the queen of Shin'ou, \N Competitor Shirona!
 Dialogue: 10,0:07:43.78,0:07:45.02,Main,Announcer,0,450,0,,{\an8}“Dande the Warrior”...
 Dialogue: 10,0:07:45.02,0:07:48.95,Main,Announcer,0,450,0,,{\an8\q2}“Shirona the Wise”... A nickname coined \N due to her incredible wealth of knowledge.
 Dialogue: 10,0:07:48.95,0:07:52.20,Main,Announcer,0,450,0,,{\an8}Her experience, allowing her \N to wrest victory from any situation,

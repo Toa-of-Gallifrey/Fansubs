@@ -42,7 +42,7 @@ Style: Answer,FOT-Slump Std DB,48,&H00FDFFFF,&H00F5FEF5,&H00293251,&HFF293251,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.69,0:00:05.19,Main,Narrator,0,0,0,,Hearing that Hikari’s Pochama \N had been kidnapped,
-Dialogue: 10,0:00:05.19,0:00:09.07,Main,Narrator,0,0,0,,Satoshi, Go, and Koharu \N arrived in Sinnoh.
+Dialogue: 10,0:00:05.19,0:00:09.07,Main,Narrator,0,0,0,,Satoshi, Go, and Koharu \N arrived in Shin'ou.
 Dialogue: 10,0:00:10.57,0:00:12.20,Main,Narrator,0,0,0,,But in the midst of \N their investigation,
 Dialogue: 10,0:00:12.20,0:00:16.08,Main,Narrator,0,0,0,,Lucario and Inteleon were \N kidnapped by Team Rocket.
 Dialogue: 10,0:00:16.66,0:00:21.21,Main,Narrator,0,0,0,,When they followed Team Rocket \N through a shining Gate, they found...
@@ -137,7 +137,7 @@ Dialogue: 10,0:06:39.17,0:06:40.96,Main,Go,0,0,0,,We have to do something!
 Dialogue: 10,0:06:40.96,0:06:45.34,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san} said that Palkia might be \N making space distort.{Copy-paste from the preview, but with "We heard" changed to "Shirona-san said" because her name was not said last time}
 Dialogue: 10,0:06:45.34,0:06:49.26,Main,Koharu,0,0,0,,If time is also distorting, \N then Dialga might be involved, too!{Copy-paste from the preview}
 Dialogue: 10,0:06:49.81,0:06:53.52,Main,Satoshi,0,0,0,,Professor! How can we meet \N Palkia and Dialga?
-Dialogue: 10,0:06:55.40,0:06:59.44,Main,Mirror Nanakamado,0,0,0,,If you go to the Spear Pillars \N at the summit of Mount Tengan... {Taking the liberty of editing the verb tenses here to seem more natural, feel free to revert if it's inaccurate. - Toa}
+Dialogue: 10,0:06:55.40,0:06:59.44,Main,Mirror Nanakamado,0,0,0,,If you go to the Spear Pillars \N at the summit of Mt. Tengan... {Taking the liberty of editing the verb tenses here to seem more natural, feel free to revert if it's inaccurate. - Toa}
 Dialogue: 10,0:07:00.07,0:07:01.90,Main,Mirror Nanakamado,0,0,0,,Still, it would not be easy... {Taking the liberty of editing the verb tenses here to seem more natural, feel free to revert if it's inaccurate. - Toa}
 Dialogue: 10,0:07:01.90,0:07:06.57,Main,Satoshi,0,0,0,,But if we could have Palkia and Dialga \N fix these weird distortions, {Taking the liberty of editing the verb tenses here to seem more natural, feel free to revert if it's inaccurate. - Toa}
 Dialogue: 10,0:07:06.57,0:07:09.78,Main,Satoshi,0,0,0,,I bet our Pokémon \N would go back to normal, too! {Taking the liberty of editing the verb tenses here to seem more natural, feel free to revert if it's inaccurate. - Toa}
@@ -195,7 +195,7 @@ Dialogue: 10,0:09:57.37,0:09:59.08,Main,Mirror Hikari,0,0,0,,And you’re wearin
 Dialogue: 10,0:10:01.25,0:10:06.00,Main,Mirror Go,0,0,0,,I thought it was weird how \N Team Rocket’s Pokémon never got rewound.
 Dialogue: 10,0:10:06.00,0:10:10.76,Main,Mirror Koharu,0,0,0,,So I hacked into their data \N and built the same suits they’re wearing!
 Dialogue: 10,0:10:11.30,0:10:12.76,Main,Mirror Satoshi,0,0,0,,Wow!
-Dialogue: 10,0:10:12.76,0:10:16.55,Main,Mirror Go,0,0,0,,Next stop: Mount Tengan! \N Here we go! {Unabbreviated Mt. for consistency. - Toa}
+Dialogue: 10,0:10:12.76,0:10:16.55,Main,Mirror Go,0,0,0,,Next stop: Mt. Tengan! \N Here we go!
 Comment: 10,0:10:23.52,0:10:23.52,Main,,0,0,0,,{Part C}
 Dialogue: 10,0:10:37.41,0:10:38.16,Main,Go,0,0,0,,Is that...?!
 Dialogue: 10,0:10:38.16,0:10:39.29,Main,Satoshi,0,0,0,,Dialga!
@@ -378,11 +378,11 @@ Dialogue: 10,0:23:27.51,0:23:29.72,Main,Satoshi,0,0,0,,Next time, on Pocket Mons
 Dialogue: 10,0:23:29.72,0:23:31.43,Main,Go,0,0,0,,The Ghost Train
 Dialogue: 10,0:23:31.43,0:23:33.35,Main,Onion,0,0,0,,Will Now Depart...
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:36.57,0:03:40.95,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(299.85,494.02)}Mio Library, Sinnoh Region
+Dialogue: 0,0:03:36.57,0:03:40.95,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(299.85,494.02)}Mio Library, Shin'ou Region
 Dialogue: 0,0:03:36.57,0:03:40.95,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(181.67,539.95)}The Other World
 Dialogue: 0,0:04:13.53,0:04:17.53,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(302.55,503.02)}Pokémon Center, Masago Town
 Dialogue: 0,0:04:13.53,0:04:17.53,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(181.67,549.95)}The Other World
-Dialogue: 0,0:08:42.79,0:08:46.76,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(221.67,596.95)\alphaHDD\t(0, 760, \alphaH00)}Mount Tengan, Summit
+Dialogue: 0,0:08:42.79,0:08:46.76,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(221.67,596.95)\alphaHDD\t(0, 760, \alphaH00)}Mt. Tengan, Summit
 Dialogue: 0,0:16:58.96,0:17:02.46,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(305.67,596.95)}Mio Library, The Usual World
 Dialogue: 0,0:17:04.84,0:17:07.34,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(302.55,503.02)}Pokémon Center, Masago Town
 Dialogue: 0,0:17:04.84,0:17:07.34,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\3c&H33312C&\c&HFFFFFF&\blur0.5\pos(181.67,549.95)}The Other World

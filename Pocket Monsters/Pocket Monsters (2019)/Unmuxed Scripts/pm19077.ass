@@ -49,9 +49,9 @@ Dialogue: 10,0:00:19.76,0:00:22.16,Main,Narrator,0,0,0,,The Pokémon World Champ
 Dialogue: 10,0:00:22.16,0:00:25.67,Main,Narrator,0,0,0,,A trial to crown \N the greatest Pokémon Battler.
 Dialogue: 10,0:00:26.12,0:00:28.59,Main,Narrator,0,0,0,,Satoshi is currently ranked 99th.
 Dialogue: 10,0:00:28.59,0:00:32.01,Main,Narrator,0,0,0,,He has finally entered the Hyper Class.
-Dialogue: 10,0:00:32.01,0:00:38.17,Main,Narrator,0,0,0,,His first opponent{for his first battle} will be \N Denji from Sinnoh, Nagisa{~~Sandy~~} City’s Gym Leader.
+Dialogue: 10,0:00:32.01,0:00:38.17,Main,Narrator,0,0,0,,His first opponent{for his first battle} will be \N Denji from Shin'ou, Nagisa{~~Sandy~~} City’s Gym Leader.
 Dialogue: 10,0:00:38.79,0:00:42.37,Main,Narrator,0,0,0,,{\an8}Denji is a powerful Electric-type battler \N who Satoshi previously faced... {I think an8'ing is much less distracting than lumping the line off to the side this time. - Toa}
-Dialogue: 10,0:00:42.37,0:00:46.77,Main,Narrator,0,0,0,,{\an8}...when his travels around Sinnoh \N led him to Nagisa Gym.
+Dialogue: 10,0:00:42.37,0:00:46.77,Main,Narrator,0,0,0,,{\an8}...when his travels around Shin'ou \N led him to Nagisa Gym.
 Dialogue: 10,0:00:47.69,0:00:49.77,Main,Denji,0,0,0,,I’m glad we have the chance \N to battle again.
 Dialogue: 10,0:00:53.90,0:00:55.24,Main,Satoshi,0,0,0,,Me too, Mr. Denji{Honorifics note: Denji-san}!
 Dialogue: 10,0:00:55.67,0:00:59.24,Main,Denji,0,0,0,,Oh, that’s... \N An Alolan Z-Ring, right?
@@ -69,7 +69,7 @@ Dialogue: 10,0:03:01.13,0:03:05.62,Main,Commentator,0,0,0,,Nagisa City, the city
 Dialogue: 10,0:03:08.12,0:03:10.70,Main,Go,0,0,0,,Sarunori, give them \N your best cheer, yeah?
 Dialogue: 10,0:03:12.58,0:03:14.70,Main,Commentator,0,0,0,,Today, we have \N a Hyper Class battle!
 Dialogue: 10,0:03:14.70,0:03:18.08,Main,Commentator,0,0,0,,And here we have \N our two trainers for today’s match!
-Dialogue: 10,0:03:18.61,0:03:24.47,Main,Commentator,0,0,0,,Currently ranked 27th, \N Sinnoh’s strongest Gym Leader: Competitor Denji!
+Dialogue: 10,0:03:18.61,0:03:24.47,Main,Commentator,0,0,0,,Currently ranked 27th, \N Shin'ou’s strongest Gym Leader: Competitor Denji!
 Dialogue: 10,0:03:25.93,0:03:27.09,Main,Satoshi,0,0,0,,Wow!
 Dialogue: 10,0:03:27.09,0:03:28.47,Main,Satoshi,0,0,0,,Denji sure is popular!{sasuga. line -blu}
 Dialogue: 10,0:03:28.47,0:03:34.44,Main,Commentator,0,0,0,,His opponent is a Hyper Class newcomer, \N currently ranked 99th: Competitor Satoshi!
@@ -212,7 +212,7 @@ Dialogue: 10,0:14:40.73,0:14:44.35,Main,Go,0,0,0,,Ooh... The cheers for Satoshi 
 Dialogue: 10,0:14:47.19,0:14:50.20,Main,Go,0,0,0,,Make everyone cheer \N even louder, Satoshi!
 Dialogue: 10,0:14:50.20,0:14:52.11,Main,Satoshi,0,0,0,,Good job, Lucario!
 Dialogue: 10,0:14:52.11,0:14:53.60,Main,Satoshi,0,0,0,,Can you keep going?
-Dialogue: 10,0:14:56.33,0:14:58.59,Main,Denji,0,0,0,,The Guiding Wave Pokémon \N lives up to its fame.{sasuga line -blu}
+Dialogue: 10,0:14:56.33,0:14:58.59,Main,Denji,0,0,0,,The Guiding Waves Pokémon \N lives up to its fame.{sasuga line -blu}
 Dialogue: 10,0:14:58.59,0:15:01.58,Main,Denji,0,0,0,,It even shook off \N its paralysis with that attack.
 Dialogue: 10,0:15:01.58,0:15:04.45,Main,Go,0,0,0,,Is Lucario going to \N win this for him?!
 Dialogue: 10,0:15:06.09,0:15:08.76,Main,Denji,0,0,0,,Go! Roentorar!
@@ -288,9 +288,9 @@ Dialogue: 10,0:21:09.04,0:21:12.08,Main,Satoshi,0,0,0,,I wanted to win \N with t
 Dialogue: 10,0:21:12.08,0:21:14.79,Main,Denji,0,0,0,,You might just become \N the eye of the storm... {Is "eye of the storm" correct? Seems weird in this context. - Toa}
 Dialogue: 10,0:21:14.79,0:21:20.59,Main,Denji,0,0,0,,...that shakes up the Hyper Class... \N No, even the Master Class.
 Dialogue: 10,0:21:21.11,0:21:22.80,Main,Satoshi,0,0,0,,The Master Class?
-Dialogue: 10,0:21:22.80,0:21:27.80,Main,Denji,0,0,0,,Yes. Shirona, the Champion of Sinnoh, \N is part of their ranks.
+Dialogue: 10,0:21:22.80,0:21:27.80,Main,Denji,0,0,0,,Yes. Shirona, the Champion of Shin'ou, \N is part of their ranks.
 Dialogue: 10,0:21:28.22,0:21:30.18,Main,Satoshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}?
-Dialogue: 10,0:21:30.78,0:21:35.05,Main,Narrator,0,0,0,,In Sinnoh, Satoshi has overcome \N his first Hyper Class match.
+Dialogue: 10,0:21:30.78,0:21:35.05,Main,Narrator,0,0,0,,In Shin'ou, Satoshi has overcome \N his first Hyper Class match.
 Dialogue: 10,0:21:35.05,0:21:38.73,Main,Narrator,0,0,0,,But he still has \N many tough enemies ahead of him.
 Dialogue: 10,0:21:38.73,0:21:42.38,Main,Narrator,0,350,0,,Now, who will he face next?
 Comment: 10,0:21:44.53,0:21:44.53,Main,,0,0,0,,{The absence of good}
@@ -307,7 +307,7 @@ Dialogue: 10,0:23:26.68,0:23:29.46,Main,Yabashi,0,0,0,,Let’s start with just o
 Dialogue: 10,0:23:29.46,0:23:31.34,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:31.34,0:23:33.89,Main,Go,0,0,0,,The Sakuragi Institute Is Under Attack!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:39.44,0:00:43.44,Main,,0,0,0,,{\fad(475, 0)\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Nagisa City, Sinnoh Region
+Dialogue: 0,0:00:39.44,0:00:43.44,Main,,0,0,0,,{\fad(475, 0)\b0\fnHiraKakuProN-W6-Str\fs40\pos(320,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Nagisa City, Shin'ou Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:45.56,0:02:45.60,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:02:45.60,0:02:45.65,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

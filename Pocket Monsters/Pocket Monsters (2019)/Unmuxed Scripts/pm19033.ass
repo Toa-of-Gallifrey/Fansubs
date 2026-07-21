@@ -78,11 +78,11 @@ Dialogue: 10,0:04:12.33,0:04:13.54,Main,Koromi,0,0,0,,Wonderful!
 Dialogue: 10,0:04:13.54,0:04:16.54,Main,Koromi,0,0,0,,That makes you \N Kanto’s Bug Poké-King!
 Dialogue: 10,0:04:16.54,0:04:17.82,Main,Go,0,0,0,,Bug Poké-King?
 Dialogue: 10,0:04:18.23,0:04:20.69,Main,Koromi,0,0,0,,My name is Korotock Koromi!{Copy-paste from the preview -Starfish}
-Dialogue: 10,0:04:20.69,0:04:24.95,Main,Koromi,0,0,0,,Also known as \N Sinnoh’s Bug Poké-Queen!{Copy-paste from the preview -Starfish}
+Dialogue: 10,0:04:20.69,0:04:24.95,Main,Koromi,0,0,0,,Also known as \N Shin'ou’s Bug Poké-Queen!{Copy-paste from the preview -Starfish}
 Dialogue: 10,0:04:24.95,0:04:26.82,Main,Go,0,0,0,,Bug Poké-Queen?
-Dialogue: 10,0:04:26.82,0:04:30.09,Main,Koromi,0,0,0,,I have every single Bug Pokémon \N that can be found in Sinnoh,
+Dialogue: 10,0:04:26.82,0:04:30.09,Main,Koromi,0,0,0,,I have every single Bug Pokémon \N that can be found in Shin'ou,
 Dialogue: 10,0:04:30.09,0:04:32.91,Main,Koromi,0,0,0,,and now, I’m collecting\N all the ones from other regions!
-Dialogue: 10,0:04:32.91,0:04:35.77,Main,Go,0,0,0,,Every single Bug Pokémon \N found in Sinnoh?!
+Dialogue: 10,0:04:32.91,0:04:35.77,Main,Go,0,0,0,,Every single Bug Pokémon \N found in Shin'ou?!
 Dialogue: 10,0:04:37.98,0:04:39.42,Main,Koromi,0,0,0,,Excuse me for a moment.
 Dialogue: 10,0:04:39.42,0:04:41.81,Main,Rotom Koromi Ver,0,0,0,,This is an official \N battle announcement.{Copy-paste from ep 18 -Starfish}
 Dialogue: 10,0:04:41.81,0:04:44.26,Main,Rotom Koromi Ver,0,0,0,,Would you like to battle? Or not?{Copy-paste from ep 18 -Starfish}
@@ -93,7 +93,7 @@ Dialogue: 10,0:04:50.99,0:04:52.98,Main,Koromi,0,0,0,,I humbly accept your chall
 Dialogue: 10,0:04:52.98,0:04:56.16,Main,Rotom Koromi Ver,0,0,0,,Official battle appointment made!{Copy-paste from ep 18 -Starfish}
 Dialogue: 10,0:04:56.91,0:05:02.33,Main,Drone Rotom,0,0,0,,The Pokémon World Championships \N has approved this Super Class battle!{Copy-paste from episode 18 only with the class changed. -Starfish}
 Dialogue: 10,0:05:04.25,0:05:05.46,Main,Koromi,0,0,0,,The battle is on!
-Dialogue: 10,0:05:05.46,0:05:08.87,Main,Koromi,0,0,0,,I am Sinnoh’s Bug Poké-Queen, \N Korotock Koromi!
+Dialogue: 10,0:05:05.46,0:05:08.87,Main,Koromi,0,0,0,,I am Shin'ou’s Bug Poké-Queen, \N Korotock Koromi!
 Dialogue: 10,0:05:09.25,0:05:11.16,Main,Satoshi,0,0,0,,I’m Satoshi from Masara Town!
 Dialogue: 10,0:05:11.16,0:05:15.16,Main,Drone Rotom,0,0,0,,This battle will be a 1v1.{Copy-paste from episode 20. -Starfish}
 Dialogue: 10,0:05:15.16,0:05:18.17,Main,Drone Rotom,0,0,0,,All right, both sides send out \N your Pokémon at the same time.{Copy-paste from episode 18 -Starfish}
@@ -136,14 +136,14 @@ Dialogue: 10,0:07:13.57,0:07:16.83,Main,Joy,0,0,0,,We’ve restored your Pokémo
 Dialogue: 10,0:07:16.83,0:07:18.79,Main,Koromi,0,0,0,,Come out, Heracross.
 Dialogue: 10,0:07:25.27,0:07:28.86,Main,Go,0,0,0,,Say, could you show me \N your other Bug Pokémon, too?
 Dialogue: 10,0:07:28.86,0:07:30.11,Main,Koromi,0,0,0,,Go ahead.
-Dialogue: 10,0:07:32.76,0:07:36.66,Main,Go,0,0,0,,I want a complete set \N of Sinnoh Bug Pokémon, too!
+Dialogue: 10,0:07:32.76,0:07:36.66,Main,Go,0,0,0,,I want a complete set \N of Shin'ou Bug Pokémon, too!
 Dialogue: 10,0:07:36.66,0:07:40.33,Main,Koromi,0,0,0,,They’re absolutely wonderful. \N You really should catch them if you get the chance.
 Dialogue: 10,0:07:40.33,0:07:41.41,Main,Koromi,0,0,0,,Can I see yours?
 Dialogue: 10,0:07:41.41,0:07:45.12,Main,Go,0,0,0,,Okay! Behold my amazing \N Bug Pokémon!
 Dialogue: 10,0:07:47.79,0:07:49.94,Main,Koromi,0,0,0,,Yes! Kaiross!
 Dialogue: 10,0:07:49.94,0:07:55.68,Main,Koromi,0,0,0,,Say, would you perhaps be willing to trade \N your Kaiross for my Heracross?
 Dialogue: 10,0:07:55.68,0:07:57.89,Main,Go,0,0,0,,Huh? Kaiross for Heracross?
-Dialogue: 10,0:07:57.89,0:08:01.84,Main,Koromi,0,0,0,,I’ve always wanted one, \N but they don’t live in Sinnoh.
+Dialogue: 10,0:07:57.89,0:08:01.84,Main,Koromi,0,0,0,,I’ve always wanted one, \N but they don’t live in Shin'ou.
 Dialogue: 10,0:08:01.84,0:08:04.62,Main,Koromi,0,0,0,,I traveled a long way \N to attend this trading event,
 Dialogue: 10,0:08:04.62,0:08:07.52,Main,Koromi,0,0,0,,but nobody here had a Kaiross.
 Dialogue: 10,0:08:07.52,0:08:08.34,Main,Go,0,0,0,,I see.

@@ -45,7 +45,7 @@ Dialogue: 10,0:00:02.19,0:00:05.78,Main,Narrator,0,0,0,,The festival of dreams \
 Dialogue: 10,0:00:05.78,0:00:09.45,Main,Narrator,0,0,0,,The Pokémon World Championships \N Masters Tournament.
 Dialogue: 10,0:00:10.99,0:00:13.49,Main,Narrator,0,0,0,,The eight mighty trainers \N aiming for the summit...
 Dialogue: 10,0:00:13.91,0:00:15.70,Main,Narrator,0,0,0,,...have begun battling.{ep116 copypaste end}
-Dialogue: 10,0:00:17.08,0:00:21.38,Main,Narrator,0,0,0,,The third match of the first round \N pit the Champion of Sinnoh, Shirona, against...
+Dialogue: 10,0:00:17.08,0:00:21.38,Main,Narrator,0,0,0,,The third match of the first round \N pit the Champion of Shin'ou, Shirona, against...
 Dialogue: 10,0:00:21.38,0:00:23.00,Main,Narrator,0,0,0,,...the Champion of Isshu, Iris.
 Dialogue: 10,0:00:24.25,0:00:27.84,Main,Narrator,0,0,0,,Amid their fierce fight, \N Shirona surprised everyone with Mega Evolution.
 Dialogue: 10,0:00:32.01,0:00:36.02,Main,Narrator,0,0,0,,Though Iris put up a brave fight, \N she lost by a narrow margin.
@@ -54,7 +54,7 @@ Dialogue: 10,0:00:39.52,0:00:41.77,Main,Narrator,0,0,0,,...is finally Satoshi’
 Comment: 10,0:00:44.48,0:00:44.48,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:12.57,0:02:12.57,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:22.46,0:02:24.83,Main,Mic,0,0,0,,Now, for the fourth match \N of the first round!
-Dialogue: 10,0:02:25.38,0:02:31.09,Main,Mic,0,0,0,,The Champion of Hoenn, Competitor Daigo, \N versus Alola’s first Champion, Competitor Satoshi!
+Dialogue: 10,0:02:25.38,0:02:31.09,Main,Mic,0,0,0,,The Champion of Houen, Competitor Daigo, \N versus Alola’s first Champion, Competitor Satoshi!
 Dialogue: 10,0:02:31.09,0:02:33.42,Main,Nyarth,0,0,0,,This is it! \N The brat boy, meow!
 Dialogue: 10,0:02:33.42,0:02:35.47,Main,Kojiro,0,0,0,,Against some impressive \N strong guy!
 Dialogue: 10,0:02:35.47,0:02:38.89,Main,Musashi,0,0,0,,The brat boy’s \N got no chance, does he?
@@ -111,7 +111,7 @@ Dialogue: 10,0:05:17.13,0:05:21.09,Main,YOU,0,0,0,,Bossgodra! Iron Armor Pokémo
 Dialogue: 10,0:05:21.09,0:05:24.51,Main,YOU,0,0,0,,With a horn sharp enough \N to perforate thick iron sheets,
 Dialogue: 10,0:05:24.51,0:05:28.60,Main,YOU,0,0,0,,it brings down its opponents \N by ramming into them horn first!{Sword dex entry}
 Dialogue: 10,0:05:31.10,0:05:33.60,Main,Daigo,0,0,0,,Satoshi, did you know...
-Dialogue: 10,0:05:34.06,0:05:38.73,Main,Daigo,0,0,0,,...that I’m the strongest and most impressive \N trainer in the Hoenn Region right now?
+Dialogue: 10,0:05:34.06,0:05:38.73,Main,Daigo,0,0,0,,...that I’m the strongest and most impressive \N trainer in the Houen Region right now?
 Dialogue: 10,0:05:39.86,0:05:42.86,Main,Daigo,0,0,0,,But that’s not enough to satisfy me.
 Dialogue: 10,0:05:43.24,0:05:45.78,Main,Daigo,0,0,0,,The Pokémon World Championships...
 Dialogue: 10,0:05:45.78,0:05:51.12,Main,Daigo,0,0,0,,By winning this tournament, I’ll be able to call myself \N the one true strongest and most impressive trainer!
@@ -270,7 +270,7 @@ Dialogue: 10,0:19:19.14,0:19:22.02,Main,Danpei,0,0,0,,Metagross is unable to bat
 Dialogue: 10,0:19:22.02,0:19:28.19,Main,Danpei,0,0,0,,Pikachu wins! \N As such, the winner is Competitor Satoshi!
 Dialogue: 10,0:19:31.40,0:19:34.28,Main,Satoshi,0,0,0,,We did it!
 Dialogue: 10,0:19:35.78,0:19:37.61,Main,Mic,0,0,0,,Competitor Satoshi wins!
-Dialogue: 10,0:19:37.61,0:19:42.66,Main,Mic,0,0,0,,Taking down the Champion of Hoenn, Competitor Daigo, \N he advances to the semifinals!
+Dialogue: 10,0:19:37.61,0:19:42.66,Main,Mic,0,0,0,,Taking down the Champion of Houen, Competitor Daigo, \N he advances to the semifinals!
 Dialogue: 10,0:19:42.66,0:19:45.79,Main,Mic,0,0,0,,He’s facing \N Competitor Shirona next!
 Dialogue: 10,0:19:46.21,0:19:48.67,Main,Shirona,0,0,0,,So you made it, Satoshi.
 Dialogue: 10,0:19:48.67,0:19:51.50,Main,Iris and Go,0,0,0,,He won! He won! He won!

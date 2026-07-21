@@ -137,7 +137,7 @@ Dialogue: 10,0:12:27.64,0:12:30.14,Main,Go,0,0,0,,Hey, let’s head back.{072 NE
 Dialogue: 10,0:12:30.14,0:12:33.10,Main,Go,0,0,0,,It’s the six of you together \N that make a Tairetsu, right?{072 NEP}
 Dialogue: 10,0:12:37.58,0:12:41.96,Main,Go,0,0,0,,So basically, \N you need to be clearer with your orders.
 Dialogue: 10,0:12:43.61,0:12:44.99,Main,Go,0,0,0,,I know!
-Dialogue: 10,0:12:44.99,0:12:48.49,Main,Go,0,0,0,,Aceburn, Raichu, \N Baope, Hiyape, come on out!
+Dialogue: 10,0:12:44.99,0:12:48.49,Main,Go,0,0,0,,Aceburn, Raichu, \N Baoppe, Hiyappe, come on out!
 Dialogue: 10,0:12:53.17,0:12:55.82,Main,Go,0,0,0,,And can you \N help us out too, Sarunori?
 Dialogue: 10,0:13:01.01,0:13:03.89,Main,Go,0,0,0,,Show it how you \N lead a team, Aceburn.
 Dialogue: 10,0:13:17.15,0:13:18.37,Main,Go,0,0,0,,Huh...?
@@ -214,7 +214,7 @@ Comment: 10,0:21:44.49,0:21:44.49,Main,,0,0,0,,{Hate}
 Comment: 10,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.23,0:23:09.66,Main,Satoshi,0,0,0,,Now, for our next adventure!
 Dialogue: 10,0:23:09.66,0:23:10.86,Main,Go,0,0,0,,Go!
-Dialogue: 10,0:23:11.41,0:23:15.37,Main,Go,0,0,0,,People are suffering \N from nightmares in Sinnoh?!{not in the episode}
+Dialogue: 10,0:23:11.41,0:23:15.37,Main,Go,0,0,0,,People are suffering \N from nightmares in Shin'ou?!{not in the episode}
 Dialogue: 10,0:23:15.37,0:23:17.41,Main,Satoshi,0,0,0,,Let’s check it out, Go!{not in the episode}
 Dialogue: 10,0:23:17.41,0:23:17.91,Main,Koharu,0,0,0,,What?!{03:55}
 Dialogue: 10,0:23:17.91,0:23:19.41,Main,Koharu,0,0,0,,Our family vacation’s canceled?!{calls 03:56 to mind, but not in the episode}

@@ -46,7 +46,7 @@ Dialogue: 10,0:00:19.41,0:00:22.01,Main,Satoshi,0,0,0,,Wow! \N There’s so many
 Dialogue: 10,0:00:23.40,0:00:24.71,Main,Renji,0,0,0,,Don’t they look tasty?
 Dialogue: 10,0:00:24.71,0:00:27.88,Main,Renji,0,0,0,,They’re fresh from the farm, \N so they still have leaves and dirt on them.
 Dialogue: 10,0:00:27.88,0:00:29.41,Main,Go,0,0,0,,Huh...
-Dialogue: 10,0:00:29.41,0:00:33.89,Main,Narrator,0,0,0,,The vegetables came with a letter from Endo, \N a student of Sakuragi’s.
+Dialogue: 10,0:00:29.41,0:00:33.89,Main,Narrator,0,0,0,,The vegetables came with a letter from Endou, \N a student of Sakuragi’s.
 Dialogue: 10,0:00:33.89,0:00:36.89,Main,Narrator,0,0,0,,He says that he took up farming \N two years ago.
 Dialogue: 10,0:00:37.62,0:00:44.64,Main,Sakuragi,0,0,0,,Supposedly, Digda and Dugtrio suddenly turned up \N in his fields recently, and they’re causing him trouble.
 Dialogue: 10,0:00:45.85,0:00:49.22,Main,Rotom Go Ver,0,0,0,,Digda! Mole Pokémon! \N Ground type! {Accented "Pokémon". - Toa}
@@ -59,7 +59,7 @@ Dialogue: 10,0:01:10.30,0:01:12.45,Main,Sakuragi,0,0,0,,I thought you’d say th
 Dialogue: 10,0:01:16.07,0:01:17.55,Main,Go,0,0,0,,Huh? Koharu?
 Dialogue: 10,0:01:17.55,0:01:18.80,Main,Koharu,0,0,0,,Good morning!
 Dialogue: 10,0:01:18.80,0:01:22.59,Main,Sakuragi,0,0,0,,I decided to have Koharu \N help you out this time.
-Dialogue: 10,0:01:23.65,0:01:25.14,Main,Sakuragi,0,0,0,,Say hello to Endo for me.
+Dialogue: 10,0:01:23.65,0:01:25.14,Main,Sakuragi,0,0,0,,Say hello to Endou for me.
 Dialogue: 10,0:01:25.14,0:01:28.91,Main,Koharu,0,0,0,,Sure! I’ll thank him for \N the vegetables, too.
 Dialogue: 10,0:01:28.91,0:01:30.26,Main,Koharu,0,0,0,,I’ll see you later, okay?
 Dialogue: 10,0:01:31.40,0:01:34.65,Main,Sakuragi,0,0,0,,Go and investigate thoroughly, \N and don’t forget to have lots of fun.
@@ -81,76 +81,76 @@ Dialogue: 10,0:04:15.44,0:04:17.15,Main,Satoshi,0,0,0,,It’s a Biriridama!
 Dialogue: 10,0:04:19.21,0:04:22.76,Main,Rotom Go Ver,0,0,0,,Biriridama! Ball Pokémon! \N Electric type! {Accented "Pokémon". - Toa}
 Dialogue: 10,0:04:22.76,0:04:27.24,Main,Rotom Go Ver,0,0,0,,Usually found in power plants! \N It resembles a Monster Ball!{Y + Emerald dex entries combined -blu}
 Dialogue: 10,0:04:28.07,0:04:30.52,Main,Go,0,0,0,,All right, I’m gonna catch you—
-Dialogue: 10,0:04:30.52,0:04:36.13,Main,Endo,0,0,0,,Hold on! Sorry... But that’s my precious partner \N who helps me tend to the fields.
-Dialogue: 10,0:04:37.91,0:04:38.75,Main,Koharu,0,0,0,,Mr. Endo{Honorifics note: Endo-san}?!
-Dialogue: 10,0:04:39.85,0:04:43.38,Main,Endo,0,0,0,,Hi, Koharu{Honorifics note: Koharu-chan}. \N Thank you for coming all this way.
+Dialogue: 10,0:04:30.52,0:04:36.13,Main,Endou,0,0,0,,Hold on! Sorry... But that’s my precious partner \N who helps me tend to the fields.
+Dialogue: 10,0:04:37.91,0:04:38.75,Main,Koharu,0,0,0,,Mr. Endou{Honorifics note: Endou-san}?!
+Dialogue: 10,0:04:39.85,0:04:43.38,Main,Endou,0,0,0,,Hi, Koharu{Honorifics note: Koharu-chan}. \N Thank you for coming all this way.
 Dialogue: 10,0:04:43.38,0:04:45.11,Main,Koharu,0,0,0,,It’s been such a long time.
-Dialogue: 10,0:04:45.11,0:04:52.89,Main,Endo,0,0,0,,You’ve really grown! When I was at Sakuragi’s lab, \N you were still only this tall!{kenkyuushitsu... /(n) (1) laboratory/(2) seminar room/(3) professor’s office/ - think it’s a different word from the institute/kenkyuujo, ‘shitsu’ here being room... -blu}{Makes sense. The institute was only opened at the start of the series and they said this guy worked for Sakuragi two years ago. And while the timeline of Pokémon has never made sense, I refuse to believe that PM19 has in-universe gone on for two years. -Starfish}
-Dialogue: 10,0:04:57.44,0:04:59.89,Main,Endo,0,0,0,,And you’re Satoshi \N and Go, right?
-Dialogue: 10,0:04:59.89,0:05:02.99,Main,Endo,0,0,0,,Nice to meet you, \N and welcome to Endo Farm.
+Dialogue: 10,0:04:45.11,0:04:52.89,Main,Endou,0,0,0,,You’ve really grown! When I was at Sakuragi’s lab, \N you were still only this tall!{kenkyuushitsu... /(n) (1) laboratory/(2) seminar room/(3) professor’s office/ - think it’s a different word from the institute/kenkyuujo, ‘shitsu’ here being room... -blu}{Makes sense. The institute was only opened at the start of the series and they said this guy worked for Sakuragi two years ago. And while the timeline of Pokémon has never made sense, I refuse to believe that PM19 has in-universe gone on for two years. -Starfish}
+Dialogue: 10,0:04:57.44,0:04:59.89,Main,Endou,0,0,0,,And you’re Satoshi \N and Go, right?
+Dialogue: 10,0:04:59.89,0:05:02.99,Main,Endou,0,0,0,,Nice to meet you, \N and welcome to Endou Farm.
 Dialogue: 10,0:05:02.99,0:05:04.89,Main,Satoshi,0,0,0,,Nice to meet you.
 Dialogue: 10,0:05:04.89,0:05:06.24,Main,Go,0,0,0,,A pleasure to meet you.
-Dialogue: 10,0:05:06.24,0:05:08.47,Main,Endo,0,0,0,,Okay then, \N let’s go put your bags inside.
-Dialogue: 10,0:05:12.45,0:05:18.13,Main,Endo,0,0,0,,Before I show you the problem area, \N try some of my prized fresh vegetables.
-Dialogue: 10,0:05:20.25,0:05:22.76,Main,Endo,0,0,0,,Go on, pick whatever you’d like.
+Dialogue: 10,0:05:06.24,0:05:08.47,Main,Endou,0,0,0,,Okay then, \N let’s go put your bags inside.
+Dialogue: 10,0:05:12.45,0:05:18.13,Main,Endou,0,0,0,,Before I show you the problem area, \N try some of my prized fresh vegetables.
+Dialogue: 10,0:05:20.25,0:05:22.76,Main,Endou,0,0,0,,Go on, pick whatever you’d like.
 Dialogue: 10,0:05:22.76,0:05:24.27,Main,Satoshi,0,0,0,,All right!
 Dialogue: 10,0:05:25.13,0:05:28.62,Main,Go,0,0,0,,Huh, so this is how \N tomatoes are grown.
 Dialogue: 10,0:05:28.62,0:05:30.16,Main,Koharu,0,0,0,,You never knew that?!
 Dialogue: 10,0:05:30.16,0:05:35.14,Main,Go,0,0,0,,N-No, I knew it was a thing. \N I’d just never seen it before...
-Dialogue: 10,0:05:37.15,0:05:38.94,Main,Endo,0,0,0,,Go ahead, take a big bite!
+Dialogue: 10,0:05:37.15,0:05:38.94,Main,Endou,0,0,0,,Go ahead, take a big bite!
 Dialogue: 10,0:05:38.94,0:05:41.13,Main,Satoshi and Go and Koharu,0,0,0,,{\i1}Thanks for the food!{\i0}
 Dialogue: 10,0:05:43.15,0:05:44.89,Main,Satoshi,0,0,0,,It’s really tasty!
 Dialogue: 10,0:05:44.89,0:05:47.10,Main,Go,0,0,0,,It’s more like a fruit \N than a vegetable!
 Dialogue: 10,0:05:47.10,0:05:49.07,Main,Koharu,0,0,0,,It’s sweet and smells great!
-Dialogue: 10,0:05:53.11,0:05:54.83,Main,Endo,0,0,0,,That makes me really happy!
-Dialogue: 10,0:05:54.83,0:05:58.48,Main,Endo,0,0,0,,I took up farming \N hoping to see smiles like yours.
-Dialogue: 10,0:05:58.48,0:06:02.52,Main,Endo,0,0,0,,Both research and farming \N give you the satisfaction of helping people out!
-Dialogue: 10,0:06:02.52,0:06:04.34,Main,Endo,0,0,0,,Go on, have some more!
+Dialogue: 10,0:05:53.11,0:05:54.83,Main,Endou,0,0,0,,That makes me really happy!
+Dialogue: 10,0:05:54.83,0:05:58.48,Main,Endou,0,0,0,,I took up farming \N hoping to see smiles like yours.
+Dialogue: 10,0:05:58.48,0:06:02.52,Main,Endou,0,0,0,,Both research and farming \N give you the satisfaction of helping people out!
+Dialogue: 10,0:06:02.52,0:06:04.34,Main,Endou,0,0,0,,Go on, have some more!
 Dialogue: 10,0:06:04.34,0:06:06.23,Main,Satoshi,0,0,0,,Thank you very much!
 Dialogue: 10,0:06:06.23,0:06:07.97,Main,Go,0,0,0,,I’d never get tired of eating these!
 Dialogue: 10,0:06:10.74,0:06:12.47,Main,Koharu,0,0,0,,This soil is great!
-Dialogue: 10,0:06:12.47,0:06:14.17,Main,Endo,0,0,0,,Oh, you can tell?
+Dialogue: 10,0:06:12.47,0:06:14.17,Main,Endou,0,0,0,,Oh, you can tell?
 Dialogue: 10,0:06:14.17,0:06:16.93,Main,Koharu,0,0,0,,Well, I look after \N the flowers at school.
-Dialogue: 10,0:06:16.93,0:06:21.73,Main,Endo,0,0,0,,What I do is I crush molted Gorogna shells \N and use them as fertilizer!
+Dialogue: 10,0:06:16.93,0:06:21.73,Main,Endou,0,0,0,,What I do is I crush molted Gorogna shells \N and use them as fertilizer!
 Dialogue: 10,0:06:21.73,0:06:22.46,Main,Koharu,0,0,0,,Huh?{RULE BREAKER... to ADD a scene bleed because otherwise this line would have been far too short. -Starfish}
 Dialogue: 10,0:06:24.93,0:06:26.28,Main,Koharu,0,0,0,,Ack!
 Dialogue: 10,0:06:26.28,0:06:28.50,Main,Satoshi and Go,0,0,0,,Thanks for the treat!
-Dialogue: 10,0:06:30.26,0:06:34.04,Main,Go,0,0,0,,So, Mr. Endo{Honorifics note: Endo-san}. Where are the Digda and Dugtrio?
-Dialogue: 10,0:06:34.48,0:06:37.04,Main,Endo,0,0,0,,This way. I’ll show you.
-Dialogue: 10,0:06:41.04,0:06:45.31,Main,Endo,0,0,0,,This is the largest field \N here at Endo Farm.
-Dialogue: 10,0:06:45.31,0:06:47.63,Main,Endo,0,0,0,,Currently I’m growing carrots here.
+Dialogue: 10,0:06:30.26,0:06:34.04,Main,Go,0,0,0,,So, Mr. Endou{Honorifics note: Endou-san}. Where are the Digda and Dugtrio?
+Dialogue: 10,0:06:34.48,0:06:37.04,Main,Endou,0,0,0,,This way. I’ll show you.
+Dialogue: 10,0:06:41.04,0:06:45.31,Main,Endou,0,0,0,,This is the largest field \N here at Endou Farm.
+Dialogue: 10,0:06:45.31,0:06:47.63,Main,Endou,0,0,0,,Currently I’m growing carrots here.
 Dialogue: 10,0:06:47.63,0:06:50.49,Main,Go,0,0,0,,Oh, the Biriridama from earlier!
 Dialogue: 10,0:06:54.93,0:06:56.75,Main,Satoshi,0,0,0,,It’s pulling out weeds!
-Dialogue: 10,0:06:56.75,0:07:01.40,Main,Endo,0,0,0,,Yeah. And it’s much better at it than me. \N It’s really dependable.
+Dialogue: 10,0:06:56.75,0:07:01.40,Main,Endou,0,0,0,,Yeah. And it’s much better at it than me. \N It’s really dependable.
 Dialogue: 10,0:07:01.40,0:07:03.40,Main,Satoshi,0,0,0,,You’re amazing!
-Dialogue: 10,0:07:05.64,0:07:06.65,Main,Endo,0,0,0,,Are you okay?
+Dialogue: 10,0:07:05.64,0:07:06.65,Main,Endou,0,0,0,,Are you okay?
 Dialogue: 10,0:07:07.16,0:07:09.29,Main,Satoshi,0,0,0,,I’m used to this...
 Dialogue: 10,0:07:13.40,0:07:14.78,Main,Go,0,0,0,,Could this be...?
 Dialogue: 10,0:07:16.21,0:07:17.66,Main,Go,0,0,0,,There! Digda!
 Dialogue: 10,0:07:24.71,0:07:25.79,Main,Koharu,0,0,0,,No way!
 Dialogue: 10,0:07:25.79,0:07:27.71,Main,Go,0,0,0,,Over there, and over here!
 Dialogue: 10,0:07:32.22,0:07:34.02,Main,Go,0,0,0,,There’s so many Digda!
-Dialogue: 10,0:07:34.02,0:07:35.71,Main,Endo,0,0,0,,You can see my issue.
-Dialogue: 10,0:07:35.71,0:07:40.43,Main,Endo,0,0,0,,For some reason, Digda suddenly started \N showing up in my field not too long ago.
-Dialogue: 10,0:07:41.24,0:07:44.81,Main,Endo,0,0,0,,Biriridama watches for them, \N but can’t keep up with them...
-Dialogue: 10,0:07:44.81,0:07:51.70,Main,Endo,0,0,0,,With them running around, the carrots will get ruined. \N What’s more, we’re on harvest season...
-Dialogue: 10,0:07:51.70,0:07:56.20,Main,Endo,0,0,0,,So being at my wits’ end, \N I asked the Professor for help.{NOTE: Since he says "hakase" rather than "shachou", this must NOT be changed to "Director." -Starfish}
+Dialogue: 10,0:07:34.02,0:07:35.71,Main,Endou,0,0,0,,You can see my issue.
+Dialogue: 10,0:07:35.71,0:07:40.43,Main,Endou,0,0,0,,For some reason, Digda suddenly started \N showing up in my field not too long ago.
+Dialogue: 10,0:07:41.24,0:07:44.81,Main,Endou,0,0,0,,Biriridama watches for them, \N but can’t keep up with them...
+Dialogue: 10,0:07:44.81,0:07:51.70,Main,Endou,0,0,0,,With them running around, the carrots will get ruined. \N What’s more, we’re on harvest season...
+Dialogue: 10,0:07:51.70,0:07:56.20,Main,Endou,0,0,0,,So being at my wits’ end, \N I asked the Professor for help.{NOTE: Since he says "hakase" rather than "shachou", this must NOT be changed to "Director." -Starfish}
 Dialogue: 10,0:07:56.20,0:07:59.31,Main,Satoshi,0,0,0,,For now, we need to do something \N about the Digda.
 Dialogue: 10,0:07:59.31,0:08:00.95,Main,Satoshi,0,0,0,,I’ll chase ‘em out with a battle!
 Dialogue: 10,0:08:00.95,0:08:02.21,Main,Go,0,0,0,,And I’ll catch them!
 Dialogue: 10,0:08:03.43,0:08:04.33,Main,Satoshi,0,0,0,,Huh?
 Dialogue: 10,0:08:04.33,0:08:05.26,Main,Go,0,0,0,,Where’d they go?!
-Dialogue: 10,0:08:07.29,0:08:10.13,Main,Endo,0,0,0,,They’re hiding under the soil. \N See?
+Dialogue: 10,0:08:07.29,0:08:10.13,Main,Endou,0,0,0,,They’re hiding under the soil. \N See?
 Dialogue: 10,0:08:11.22,0:08:12.96,Main,Go,0,0,0,,So they are...
-Dialogue: 10,0:08:12.96,0:08:17.06,Main,Endo,0,0,0,,If you’re going to catch the Digda, \N it’s okay to pull up the carrots.
-Dialogue: 10,0:08:17.06,0:08:19.41,Main,Endo,0,0,0,,Now’s the perfect time \N to harvest them.
+Dialogue: 10,0:08:12.96,0:08:17.06,Main,Endou,0,0,0,,If you’re going to catch the Digda, \N it’s okay to pull up the carrots.
+Dialogue: 10,0:08:17.06,0:08:19.41,Main,Endou,0,0,0,,Now’s the perfect time \N to harvest them.
 Dialogue: 10,0:08:19.41,0:08:21.50,Main,Satoshi,0,0,0,,All right. Let’s do it!
 Dialogue: 10,0:08:21.50,0:08:22.44,Main,Go,0,0,0,,Yeah!
 Dialogue: 10,0:08:22.44,0:08:24.77,Main,Go,0,0,0,,Aceburn, help us out!
 Dialogue: 10,0:08:32.03,0:08:33.75,Main,Satoshi,0,0,0,,Where’d you go, where’d you go?!
 Dialogue: 10,0:08:36.19,0:08:38.41,Main,Koharu,0,0,0,,This is kinda fun!
 Dialogue: 10,0:08:38.41,0:08:40.68,Main,Go,0,0,0,,Whoa... I’m covered in mud!
-Dialogue: 10,0:08:40.68,0:08:45.25,Main,Endo,0,0,0,,Your clothes are always gonna get dirty in the fields. \N Don’t worry about it!
+Dialogue: 10,0:08:40.68,0:08:45.25,Main,Endou,0,0,0,,Your clothes are always gonna get dirty in the fields. \N Don’t worry about it!
 Dialogue: 10,0:08:46.39,0:08:49.15,Main,Go,0,0,0,,Makes sense... \N Yeah, I guess they would!
 Dialogue: 10,0:08:52.17,0:08:54.61,Main,Go,0,0,0,,You’re not getting away!
 Dialogue: 10,0:08:55.63,0:08:56.51,Main,Go,0,0,0,,Here!
@@ -173,9 +173,9 @@ Dialogue: 10,0:09:39.26,0:09:41.26,Main,Go,0,0,0,,Of course I wasn’t!
 Dialogue: 10,0:09:52.41,0:09:53.89,Main,Go,0,0,0,,They left...
 Dialogue: 10,0:09:53.89,0:09:54.77,Main,Satoshi,0,0,0,,Yeah...
 Dialogue: 10,0:09:56.28,0:09:58.05,Main,Go,0,0,0,,We failed...
-Dialogue: 10,0:10:02.37,0:10:04.37,Main,Endo,0,0,0,,That was a great help!
-Dialogue: 10,0:10:04.77,0:10:07.37,Main,Endo,0,0,0,,Thanks to you, \N we’ve harvested a lot of carrots!
-Dialogue: 10,0:10:07.76,0:10:09.77,Main,Endo,0,0,0,,How about we leave the rest \N for tomorrow?
+Dialogue: 10,0:10:02.37,0:10:04.37,Main,Endou,0,0,0,,That was a great help!
+Dialogue: 10,0:10:04.77,0:10:07.37,Main,Endou,0,0,0,,Thanks to you, \N we’ve harvested a lot of carrots!
+Dialogue: 10,0:10:07.76,0:10:09.77,Main,Endou,0,0,0,,How about we leave the rest \N for tomorrow?
 Dialogue: 10,0:10:09.77,0:10:11.50,Main,Satoshi and Go and Koharu,0,0,0,,Sure...
 Dialogue: 10,0:10:12.55,0:10:14.42,Main,Why is it always YOU,0,0,0,,Pocket Monsters!
 Comment: 10,0:10:17.51,0:10:17.51,Main,,0,0,0,,{Part C}
@@ -198,11 +198,11 @@ Dialogue: 10,0:11:20.48,0:11:21.53,Main,Satoshi,0,0,0,,All right!
 Dialogue: 10,0:11:21.53,0:11:22.82,Main,Go,0,0,0,,Everything’s ready.
 Dialogue: 10,0:11:23.49,0:11:24.95,Main,Satoshi and Go,0,0,0,,Hey!
 Dialogue: 10,0:11:25.72,0:11:27.45,Main,Koharu,0,0,0,,Okay!
-Dialogue: 10,0:11:27.86,0:11:31.84,Main,Endo,0,0,0,,I see... So you’re going to \N give them instructions from here.
+Dialogue: 10,0:11:27.86,0:11:31.84,Main,Endou,0,0,0,,I see... So you’re going to \N give them instructions from here.
 Dialogue: 10,0:11:31.84,0:11:32.46,Main,Koharu,0,0,0,,Yeah!
 Dialogue: 10,0:11:32.85,0:11:38.96,Main,Koharu,0,0,0,,I can watch over the whole field, predict where \N the Dugtrio and Digda are going, and tell Go and Satoshi.
 Dialogue: 10,0:11:38.96,0:11:42.76,Main,Koharu,0,0,0,,I set up those flags \N thinking some markers would make it easier.
-Dialogue: 10,0:11:42.76,0:11:44.97,Main,Endo,0,0,0,,You’ve really \N thought this through...
+Dialogue: 10,0:11:42.76,0:11:44.97,Main,Endou,0,0,0,,You’ve really \N thought this through...
 Dialogue: 10,0:11:48.26,0:11:49.07,Main,Satoshi,0,0,0,,They’re here!
 Dialogue: 10,0:11:49.07,0:11:50.01,Main,Go,0,0,0,,Yeah!
 Dialogue: 10,0:11:51.99,0:11:52.69,Main,Koharu,0,0,0,,Digda!
@@ -231,15 +231,15 @@ Dialogue: 10,0:13:46.10,0:13:49.80,Main,Rotom Go Ver,0,0,0,,Dugtrio’s data wil
 Dialogue: 10,0:13:49.80,0:13:51.43,Main,Satoshi and Go,0,0,0,,All right!
 Dialogue: 10,0:13:51.43,0:13:54.05,Main,Go,0,0,0,,I caught Dugtrio!
 Dialogue: 10,0:13:56.43,0:13:57.81,Main,Koharu,0,0,0,,Great!
-Dialogue: 10,0:14:12.94,0:14:15.79,Main,Endo,0,0,0,,Oh, thank you so much, \N everyone!
-Dialogue: 10,0:14:15.79,0:14:19.25,Main,Endo,0,0,0,,Superb teamwork out there.
+Dialogue: 10,0:14:12.94,0:14:15.79,Main,Endou,0,0,0,,Oh, thank you so much, \N everyone!
+Dialogue: 10,0:14:15.79,0:14:19.25,Main,Endou,0,0,0,,Superb teamwork out there.
 Dialogue: 10,0:14:19.25,0:14:20.68,Main,Go,0,0,0,,Easy!
 Dialogue: 10,0:14:20.68,0:14:24.07,Main,Koharu,0,0,0,,Now maybe the Digda \N will stop coming to the field.
 Dialogue: 10,0:14:24.07,0:14:25.90,Main,Satoshi,0,0,0,,I wonder about that...
 Dialogue: 10,0:14:25.90,0:14:28.23,Main,Satoshi,0,0,0,,They’ve run off for now, but...
 Dialogue: 10,0:14:28.23,0:14:32.43,Main,Go,0,0,0,,What could’ve caused the Dugtrio and Digda \N to suddenly turn up in the field?
-Dialogue: 10,0:14:32.43,0:14:36.11,Main,Endo,0,0,0,,They used to live on the hill \N across from the farm...
-Dialogue: 10,0:14:36.11,0:14:38.44,Main,Endo,0,0,0,,But they never came to \N the fields before.
+Dialogue: 10,0:14:32.43,0:14:36.11,Main,Endou,0,0,0,,They used to live on the hill \N across from the farm...
+Dialogue: 10,0:14:36.11,0:14:38.44,Main,Endou,0,0,0,,But they never came to \N the fields before.
 Dialogue: 10,0:14:38.82,0:14:42.14,Main,Koharu,0,0,0,,Maybe we can figure something out \N if we take a look at that hill!
 Dialogue: 10,0:14:42.14,0:14:44.28,Main,Go,0,0,0,,Yeah. Let’s go!
 Dialogue: 10,0:14:44.28,0:14:45.35,Main,Satoshi and Koharu,0,0,0,,Yeah!
@@ -301,25 +301,25 @@ Dialogue: 10,0:19:11.69,0:19:14.46,Main,Musashi and Kojiro,0,0,0,,What an awful 
 Dialogue: 10,0:19:26.97,0:19:29.02,Main,Go,0,0,0,,The soil’s really soft.
 Dialogue: 10,0:19:33.71,0:19:35.26,Main,Koharu,0,0,0,,It’s a great color...
 Dialogue: 10,0:19:36.54,0:19:38.15,Main,Satoshi and Go and Koharu,0,0,0,,{\i1}Thanks for the food!{\i0}{EAT A DUCKY MOUSE! -Starfish the unhelpful}
-Dialogue: 10,0:19:38.15,0:19:40.67,Main,Endo,0,0,0,,Go on, eat as much as you want!
-Dialogue: 10,0:19:40.67,0:19:44.63,Main,Endo,0,0,0,,I made loads of dishes \N with the carrots you picked!
+Dialogue: 10,0:19:38.15,0:19:40.67,Main,Endou,0,0,0,,Go on, eat as much as you want!
+Dialogue: 10,0:19:40.67,0:19:44.63,Main,Endou,0,0,0,,I made loads of dishes \N with the carrots you picked!
 Dialogue: 10,0:19:44.63,0:19:46.44,Main,Go,0,0,0,,This curry’s full of carrots!
 Dialogue: 10,0:19:46.44,0:19:48.20,Main,Koharu,0,0,0,,The cake looks tasty, too!
 Dialogue: 10,0:19:48.61,0:19:49.61,Main,Satoshi,0,0,0,,I’ll have seconds!
-Dialogue: 10,0:19:49.61,0:19:50.40,Main,Endo,0,0,0,,Sure.
+Dialogue: 10,0:19:49.61,0:19:50.40,Main,Endou,0,0,0,,Sure.
 Dialogue: 10,0:19:58.48,0:20:01.30,Main,Satoshi,0,0,0,,Those’re the guys \N that were with Dugtrio.
 Dialogue: 10,0:20:06.99,0:20:11.09,Main,Go,0,0,0,,I get it. The Digda will have a hard time \N without their leader.
 Dialogue: 10,0:20:14.59,0:20:17.68,Main,Go,0,0,0,,Here. \N I’m leaving Dugtrio with you.
-Dialogue: 10,0:20:18.51,0:20:20.04,Main,Endo,0,0,0,,Are you sure?
+Dialogue: 10,0:20:18.51,0:20:20.04,Main,Endou,0,0,0,,Are you sure?
 Dialogue: 10,0:20:20.04,0:20:20.90,Main,Go,0,0,0,,Yeah.
 Dialogue: 10,0:20:20.90,0:20:23.16,Main,Go,0,0,0,,I have this one already.
 Dialogue: 10,0:20:23.53,0:20:27.17,Main,Go,0,0,0,,And I learned something \N when looking through some information.
 Dialogue: 10,0:20:28.54,0:20:34.17,Main,Rotom Go Ver,0,0,0,,If a Dugtrio digs through a field, \N it leaves the soil perfectly tilled and ideal for planting crops!{Sword entry... for Digda, with the name replaced -blu}
 Dialogue: 10,0:20:34.63,0:20:37.65,Main,Rotom Go Ver,0,0,0,,In some regions, \N they are used on farms!{doesn’t resemble a Pokedex entry? -blu}
-Dialogue: 10,0:20:39.05,0:20:43.68,Main,Go,0,0,0,,So I think it’ll make a good partner \N for you, Mr. Endo{Honorifics note: Endo-san}.
-Dialogue: 10,0:20:43.68,0:20:48.58,Main,Endo,0,0,0,,I see... I couldn’t ask for \N better help with the fields!
-Dialogue: 10,0:20:48.58,0:20:53.06,Main,Endo,0,0,0,,I’ll be growing even tastier vegetables than before, \N so would you help me with that?
-Dialogue: 10,0:20:55.83,0:20:57.46,Main,Endo,0,0,0,,I’m counting on you!
+Dialogue: 10,0:20:39.05,0:20:43.68,Main,Go,0,0,0,,So I think it’ll make a good partner \N for you, Mr. Endou{Honorifics note: Endou-san}.
+Dialogue: 10,0:20:43.68,0:20:48.58,Main,Endou,0,0,0,,I see... I couldn’t ask for \N better help with the fields!
+Dialogue: 10,0:20:48.58,0:20:53.06,Main,Endou,0,0,0,,I’ll be growing even tastier vegetables than before, \N so would you help me with that?
+Dialogue: 10,0:20:55.83,0:20:57.46,Main,Endou,0,0,0,,I’m counting on you!
 Dialogue: 10,0:21:21.91,0:21:22.50,Main,Satoshi,0,0,0,,What?
 Dialogue: 10,0:21:22.50,0:21:23.42,Main,Go,0,0,0,,Koharu?
 Dialogue: 10,0:21:23.42,0:21:26.16,Main,Koharu,0,0,0,,Wide, open spaces \N just make you want to run, right?

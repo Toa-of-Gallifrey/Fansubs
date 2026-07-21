@@ -107,7 +107,7 @@ Dialogue: 10,0:04:32.12,0:04:36.92,Main,Ana,0,0,0,,Pairs of trainers are gonna w
 Dialogue: 10,0:04:36.92,0:04:41.67,Main,Ana,0,0,0,,Each trainer can only bring \N three Pokémon with them!
 Dialogue: 10,0:04:41.67,0:04:44.40,Main,Ana,0,0,0,,Flying on your Pokémon is not allowed,
 Dialogue: 10,0:04:44.40,0:04:48.64,Main,Ana,0,0,0,,but you can ride them, \N swim on them, and use their moves!
-Dialogue: 10,0:04:48.64,0:04:54.06,Main,Ana,0,0,0,,The winners will receive a trophy and \N a year’s supply of malasada doughnuts, an Alolan delicacy!
+Dialogue: 10,0:04:48.64,0:04:54.06,Main,Ana,0,0,0,,The winners will receive a trophy and \N a year’s supply of Malasada Doughnuts, an Alolan delicacy!
 Dialogue: 10,0:04:56.40,0:05:00.93,Main,Go,0,0,0,,There’s bound to be lots of mountain hiking \N on a deserted island race, so it’ll be pretty tough!
 Dialogue: 10,0:05:00.93,0:05:03.40,Main,Satoshi,0,0,0,,We better give it \N everything we’ve got, together!
 Dialogue: 10,0:05:04.57,0:05:07.57,Main,Ana,0,0,0,,Teams, are you ready?
@@ -310,7 +310,7 @@ Dialogue: 10,0:19:32.05,0:19:33.19,Main,Go,0,0,0,,Thank you!
 Dialogue: 10,0:19:34.09,0:19:35.19,Main,Satoshi,0,0,0,,We did it!
 Dialogue: 10,0:19:38.82,0:19:41.62,Main,Ana,0,0,0,,And today, \N we have another team on stage!
 Dialogue: 10,0:19:41.62,0:19:44.66,Main,Ana,0,0,0,,For protecting the race with their full power, \N and entertaining us until the very end,
-Dialogue: 10,0:19:44.66,0:19:52.54,Main,Ana,0,0,0,,{\q2}the Full Power Brothers team will receive a year’s supply \N of malasada doughnuts as a full-powered Special Prize!
+Dialogue: 10,0:19:44.66,0:19:52.54,Main,Ana,0,0,0,,{\q2}the Full Power Brothers team will receive a year’s supply \N of Malasada Doughnuts as a full-powered Special Prize!
 Dialogue: 10,0:19:53.98,0:19:55.27,Main,Zen,0,0,0,,Big ups! {Made the same as line 190, might need to end up making these different. - Toa}
 Dialogue: 10,0:19:55.27,0:19:57.30,Main,Ryoku,0,0,0,,We’ll down ‘em with our full power!
 Dialogue: 10,0:20:06.85,0:20:08.63,Main,Nyarth,0,0,0,,What, meow?
@@ -330,14 +330,14 @@ Dialogue: 10,0:21:16.48,0:21:20.50,Main,Rotom Satoshi Ver,0,0,0,,A Hyper Class o
 Dialogue: 10,0:21:20.50,0:21:25.46,Main,Go,0,0,0,,Huh. In the Hyper Class, \N you get notifications beforehand.
 Dialogue: 10,0:21:25.46,0:21:28.70,Main,Rotom Satoshi Ver,0,0,0,,Your opponent is Competitor Denji, \N ranked 27th.
 Dialogue: 10,0:21:30.08,0:21:33.68,Main,Satoshi,0,0,0,,Denji...? {\i1}That{\i} Denji?
-Dialogue: 10,0:21:34.41,0:21:39.36,Main,Narrator,0,0,0,,Satoshi is set to battle \N the Sinnoh Gym Leader, Denji.
+Dialogue: 10,0:21:34.41,0:21:39.36,Main,Narrator,0,0,0,,Satoshi is set to battle \N the Shin'ou Gym Leader, Denji.
 Dialogue: 10,0:21:39.89,0:21:43.60,Main,Narrator,270,0,0,,His battles upon a new stage \N are about to commence.
 Comment: 10,0:21:44.49,0:21:44.49,Main,,0,0,0,,{Cursed.}
 Comment: 10,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.23,0:23:09.67,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.67,0:23:10.86,Main,Go,0,0,0,,Go!
 Dialogue: 10,0:23:11.60,0:23:14.19,Main,Satoshi,0,0,0,,Let’s go! A Hyper Class battle!{none of these lines are in the episode}
-Dialogue: 10,0:23:14.19,0:23:17.08,Main,Go,0,0,0,,You’re facing Sinnoh’s \N strongest Gym Leader, Denji!
+Dialogue: 10,0:23:14.19,0:23:17.08,Main,Go,0,0,0,,You’re facing Shin'ou’s \N strongest Gym Leader, Denji!
 Dialogue: 10,0:23:17.08,0:23:19.75,Main,Go,0,0,0,,Satoshi, \N you’ve battled him before, yeah?
 Dialogue: 10,0:23:19.75,0:23:20.37,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 10,0:23:20.37,0:23:23.49,Main,Satoshi,0,0,0,,I can’t wait to see what Pokémon \N he’ll use this time!

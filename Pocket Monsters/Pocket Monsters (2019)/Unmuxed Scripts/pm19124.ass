@@ -44,7 +44,7 @@ Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
 Dialogue: 10,0:00:01.44,0:00:05.03,Main,Narrator,0,0,0,,The festival of dreams \N to crown the strongest Pokémon Trainer...{ep116 copypaste start}
 Dialogue: 10,0:00:05.03,0:00:08.91,Main,Narrator,0,0,0,,The Pokémon World Championships \N Masters Tournament. {ep 116 copypaste end}
 Dialogue: 10,0:00:08.91,0:00:11.03,Main,Narrator,0,0,0,,The second match of the semifinals:
-Dialogue: 10,0:00:11.03,0:00:16.12,Main,Narrator,0,0,0,,The Champion of Sinnoh, Shirona, \N versus the first Champion of Alola, Satoshi.
+Dialogue: 10,0:00:11.03,0:00:16.12,Main,Narrator,0,0,0,,The Champion of Shin'ou, Shirona, \N versus the first Champion of Alola, Satoshi.
 Dialogue: 10,0:00:16.12,0:00:18.87,Main,Narrator,0,0,0,,Their 6v6 full battle has begun.
 Dialogue: 10,0:00:18.87,0:00:21.83,Main,Mic,0,0,0,,Let the battle begin!{123}
 Dialogue: 10,0:00:21.83,0:00:22.88,Main,Satoshi,0,0,0,,Dragon Meteor Shower!{123}
@@ -87,7 +87,7 @@ Dialogue: 10,0:05:14.46,0:05:16.59,Main,Satoshi,0,0,0,,Huh? It’s not burned...
 Dialogue: 10,0:05:16.59,0:05:19.92,Main,Hop,0,0,0,,It took Gänger’s \N Will-O-Wisp earlier...
 Dialogue: 10,0:05:22.76,0:05:24.18,Main,Go,0,0,0,,Hold on...
 Dialogue: 10,0:05:24.18,0:05:26.60,Main,Go,0,0,0,,Could that Roserade...?
-Dialogue: 10,0:05:26.60,0:05:29.81,Main,Shirona,0,0,0,,Its ability is Natural Cure.
+Dialogue: 10,0:05:26.60,0:05:29.81,Main,Shirona,0,0,0,,Its ability is Natural Recovery.
 Dialogue: 10,0:05:29.81,0:05:34.86,Main,Shirona,0,0,0,,By returning to its Monster Ball, \N it recovers from poison or burns.
 Dialogue: 10,0:05:34.86,0:05:37.65,Main,Satoshi,0,0,0,,So that’s why you \N returned it before...
 Dialogue: 10,0:05:37.65,0:05:38.57,Main,Satoshi,0,0,0,,Drat!

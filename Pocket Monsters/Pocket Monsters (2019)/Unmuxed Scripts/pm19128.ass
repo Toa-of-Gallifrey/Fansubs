@@ -107,7 +107,7 @@ Dialogue: 0,0:05:10.71,0:05:34.56,Strictly text,,0,0,0,,{\an1\fnRo GSan Serif St
 Dialogue: 0,0:05:34.56,0:05:40.03,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\c&HE4E4E4&\3c&H1A1A1A&\bord3\fs30\pos(640, 564)}Semifinals, 1st Match\N{\fs40\3c&HE4E4E4&\c&H1A1A1A&}Dande vs Carne
 Dialogue: 0,0:05:42.82,0:05:46.16,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&H07C4D5&\pos(321.33,481.33)}Shirona
 Dialogue: 0,0:05:42.57,0:05:46.16,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(0,0)\p1\c&H07C4D5&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
-Dialogue: 1,0:05:42.82,0:05:46.16,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33}Champion of Sinnoh
+Dialogue: 1,0:05:42.82,0:05:46.16,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\pos(256.33,650)\fsp-1\fs33}Champion of Shin'ou
 Dialogue: 0,0:05:42.82,0:05:46.16,Strictly text,,0,0,0,,{\fad(250, 0)\fnRo GSan Serif Std U\blur0.6\bord4\3c&HFE6001&\pos(962.33,481.33)}Satoshi
 Dialogue: 0,0:05:42.57,0:05:46.16,Strictly text,,0,0,0,,{\fad(250,0)\an7\bord0\blur0.6\pos(760,0)\p1\c&HFE6001&}m 28 630.67 l 25.33 672 498.67 672 498.67 629.33{\p0}
 Dialogue: 1,0:05:42.82,0:05:46.16,Strictly text,,0,0,0,,{\fad(250,0)\fnRo GSan Serif Std U\fsp-1\fs33\pos(1022.78,650)}Champion of Alola
@@ -155,7 +155,7 @@ Dialogue: 0,0:14:23.30,0:14:31.35,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\
 Dialogue: 0,0:14:23.30,0:14:31.35,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}It watches over its pupil on the screens of the Sakuragi Institute
 Dialogue: 0,0:14:31.35,0:14:40.86,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}It is said to have a proud expression, and misty eyes
 Dialogue: 0,0:14:31.35,0:14:40.86,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(150,0)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\1a&HFF&\bord2\3c&HFFFFFF&}It is said to have a proud expression, and misty eyes
-Dialogue: 0,0:14:14.83,0:14:40.86,Strictly text,,0,0,0,,{\fad(150,0)\c0\3c&HFFFFFF\fscx80\fscy80\blur1\bord2\b1\pos(1064.22,476.44)}Lucario\NGuiding Wave Pokémon
+Dialogue: 0,0:14:14.83,0:14:40.86,Strictly text,,0,0,0,,{\fad(150,0)\c0\3c&HFFFFFF\fscx80\fscy80\blur1\bord2\b1\pos(1064.22,476.44)}Lucario\NGuiding Waves Pokémon
 Dialogue: 0,0:14:42.28,0:14:46.12,Strictly text,,30,0,30,,{\an7\fad(150, 0)\c0\3c&HFFFFFF\fscx80\fscy80\blur1\bord2\b1}The Unyielding Leek Swordsman
 Dialogue: 0,0:14:46.12,0:15:12.14,Strictly text,,0,0,0,,{\fnRo GSan Serif Std U\blur1\bord3\fsp-2\fs35\c&HE5E5E5&\pos(555.34,609.33)\3c&H181818&}Exclusive Scoop
 Dialogue: 0,0:14:46.12,0:14:54.58,Strictly text,,0,0,0,,{\an1\pos(72.25,717.32)\fad(0,150)\fnRo GSan Serif Std U\blur0.3\fsp-2\fs30\c&H333333&}An Elite Four member taught Negigaknight its knightly mentality

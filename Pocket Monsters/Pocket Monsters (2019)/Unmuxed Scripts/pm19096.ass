@@ -76,7 +76,7 @@ Dialogue: 10,0:01:51.59,0:01:53.80,Main,Mamane,0,0,0,,So, ready to go?
 Dialogue: 10,0:01:53.80,0:01:56.26,Main,Mamane,0,0,0,,Into the Tokusane Space Center!
 Comment: 10,0:01:59.43,0:01:59.43,Main,Mamane,0,0,0,,{OP}
 Comment: 10,0:03:27.52,0:03:27.52,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:37.78,0:03:42.41,Main,Narrator,0,0,0,,{\an8}Satoshi and Go have arrived at \N the Tokusane Space Center in Hoenn.
+Dialogue: 10,0:03:37.78,0:03:42.41,Main,Narrator,0,0,0,,{\an8}Satoshi and Go have arrived at \N the Tokusane Space Center in Houen.
 Dialogue: 10,0:03:42.41,0:03:46.41,Main,Narrator,0,0,0,,{\an8}What could they have \N planned for today with Māmane...?{This line doesn't NEED to be on top of the screen, but since it directly links to the previous narrator line I'd rather not have the subtitle jump from one end of the frame to the other. -TLC the Tim who is also QCing right now I guess}
 Dialogue: 10,0:03:47.71,0:03:50.29,Main,Satoshi,0,0,0,,Whoa... Cool...
 Dialogue: 10,0:03:51.00,0:03:53.92,Main,Go,0,0,0,,Thank you so much for inviting us, \N Māmane! This is the best! {"This is the best!" is a liberty for the sake of connecting with Maamane's catchphrase. - Toa}{Hmm... this actually doesn't strike me as necessary? - Toa of the Batch}
@@ -320,7 +320,7 @@ Dialogue: 10,0:23:21.50,0:23:22.88,Main,Go,0,0,0,,What’s that?{08:52 (line by 
 Dialogue: 10,0:23:27.34,0:23:29.76,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:29.76,0:23:32.97,Main,Go,0,0,0,,Yadoking! \N A Curry-ously Great Encounter!!
 Comment: 0,0:01:01.37,0:01:01.37,Main,,0,0,0,,
-Dialogue: 0,0:03:36.53,0:03:41.28,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(405,600)\3c&H33312C&}Tokusane Space Center, Hoenn Region
+Dialogue: 0,0:03:36.53,0:03:41.28,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(405,600)\3c&H33312C&}Tokusane Space Center, Houen Region
 Comment: 0,0:01:01.37,0:01:01.37,Main,,0,0,0,,
 Dialogue: 1,0:03:24.23,0:03:24.27,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:03:24.27,0:03:24.31,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

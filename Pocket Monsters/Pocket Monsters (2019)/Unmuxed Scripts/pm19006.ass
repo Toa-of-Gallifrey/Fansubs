@@ -319,14 +319,14 @@ Comment: 10,0:21:44.44,0:21:44.44,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:05.44,0:23:05.44,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:07.03,0:23:09.53,Main,Satoshi,0,0,0,,Now, off to the next adventure!
 Dialogue: 10,0:23:09.53,0:23:10.82,Main,Go,0,0,0,,Go!
-Dialogue: 10,0:23:11.36,0:23:13.99,Main,Satoshi,0,0,0,,Let’s go to the Hoenn Region!{Calling it now: We will not be seeing Haruka. Nor will we be seeing Mamane, who was last said to be going to Hoenn. Nor will we be seeing Serena, who was last said to be going to Hoenn. -Starfish}{yeah probably not}{0:01:55.71, identical JP and TL. Satoshi's delivery in the preview is SCREAM but more relaxed in the ep.)}
+Dialogue: 10,0:23:11.36,0:23:13.99,Main,Satoshi,0,0,0,,Let’s go to the Houen Region!{Calling it now: We will not be seeing Haruka. Nor will we be seeing Mamane, who was last said to be going to Houen. Nor will we be seeing Serena, who was last said to be going to Houen. -Starfish}{yeah probably not}{0:01:55.71, identical JP and TL. Satoshi's delivery in the preview is SCREAM but more relaxed in the ep.)}
 Dialogue: 10,0:23:15.08,0:23:17.25,Main,Human being,0,0,0,,The Battle Frontier Glass Flute Cup!{0:03:40.49, identical JP}
 Dialogue: 10,0:23:17.25,0:23:20.54,Main,Human being,0,0,0,,Bring two Pokémon \N and win your way up the ranks in Single Battles!{0:03:46.41, identical JP.}
 Dialogue: 10,0:23:20.54,0:23:22.08,Main,Go,0,0,0,,We’re entering this?{appears to be no match in the ep. closest seems to be 0:04:10.64, Go asking Satoshi who he entered}
 Dialogue: 10,0:23:22.08,0:23:24.42,Main,Hoji,0,0,0,,Well, ain’t this guy cute?{JP differs in that Hoji does not say "omae" in the episode. This line and the following seem to be a mish-mash of two different exchanges from the same scene. this line is a mashup of 0:09:15.11 and 0:09:53.20}
 Dialogue: 10,0:23:24.42,0:23:26.55,Main,Go,0,0,0,,I have a name, and it’s Go!{see above -- this line is 0:09:56.95 in the ep, with identical JP.}
 Dialogue: 10,0:23:27.96,0:23:29.38,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
-Dialogue: 10,0:23:29.38,0:23:31.55,Main,Go,0,0,0,,Fierce Battles in the Hoenn Region!
+Dialogue: 10,0:23:29.38,0:23:31.55,Main,Go,0,0,0,,Fierce Battles in the Houen Region!
 Dialogue: 10,0:23:31.55,0:23:34.01,Main,Satoshi & Go,0,0,0,,Face the Battle Frontier!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:01:09.42,0:01:09.47,Logo - Glow,,0,0,0,,{\pos(480,200)\fsp-40\4a&H00&\blur9\clip(0,214,1280,720)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
@@ -950,9 +950,9 @@ Dialogue: 0,0:12:20.55,0:12:25.47,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(
 Dialogue: 1,0:12:20.55,0:12:25.47,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(943,682)}Bug
 Dialogue: 0,0:12:20.55,0:12:25.47,Main,,0,0,0,,{\fad(170,0)\an7\bord0\blur3\pos(0,0)\p1\c&H10993D&}m 0 0 m 860 640 l 1020 640 l 1020 683 l 860 683 {\p0}
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 1,0:23:29.38,0:23:35.39,Episode titles,,0,0,0,,{\pos(590,115)\fsp-2}Fierce Battles in the Hoenn Region!
+Dialogue: 1,0:23:29.38,0:23:35.39,Episode titles,,0,0,0,,{\pos(590,115)\fsp-2}Fierce Battles in the Houen Region!
 Dialogue: 1,0:23:29.38,0:23:35.39,Episode titles,,0,0,0,,{\pos(750,443)}Face the Battle Frontier!!
-Dialogue: 0,0:23:29.38,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(590,115)\fsp-2}Fierce Battles in the Hoenn Region!
+Dialogue: 0,0:23:29.38,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(590,115)\fsp-2}Fierce Battles in the Houen Region!
 Dialogue: 0,0:23:29.38,0:23:35.39,Episode titles 2,,0,0,0,,{\pos(750,443)}Face the Battle Frontier!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:21:50.91,0:21:51.58,Main,Pokémon Shiritori,0,0,0,,Pikachu!

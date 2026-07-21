@@ -145,7 +145,7 @@ Dialogue: 10,0:06:47.91,0:06:49.63,Main,Go,0,0,0,,Okay, we heard you \N the firs
 Dialogue: 10,0:06:50.05,0:06:52.65,Main,Kikuna,0,0,0,,Oh, I know! You could try this!
 Dialogue: 10,0:06:55.12,0:06:56.81,Main,Sakuragi,0,0,0,,Right...
 Dialogue: 10,0:06:56.81,0:07:03.27,Main,Go,0,0,0,, “Water Festival We’re All Friends \N Water-type Pokémon Friendship Contest”.{I mean that’s how he says it. No pauses anywhere. -Starfish}
-Dialogue: 10,0:07:03.27,0:07:09.40,Main,Kikuna,0,0,0,,It’s a contest for Water-type Pokémon only, \N held in Kaina City in the Hoenn Region.
+Dialogue: 10,0:07:03.27,0:07:09.40,Main,Kikuna,0,0,0,,It’s a contest for Water-type Pokémon only, \N held in Kaina City in the Houen Region.
 Dialogue: 10,0:07:09.40,0:07:11.54,Main,Satoshi,0,0,0,,A Water-type Pokémon contest?!
 Dialogue: 10,0:07:11.54,0:07:13.16,Main,Satoshi,0,0,0,,I wanna participate!
 Dialogue: 10,0:07:13.16,0:07:17.16,Main,Kikuna,0,0,0,,I’m afraid the contest is for\N kids younger than you.
@@ -1000,7 +1000,7 @@ Dialogue: 0,0:11:28.50,0:11:34.50,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\
 Dialogue: 1,0:11:28.50,0:11:34.50,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 2,0:11:28.50,0:11:34.50,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:13:14.98,0:13:22.57,Main,Text,0,0,0,,{\fad(410,0)\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(320,600)\3c&H33312C&}Kaina City, Hoenn Region
+Dialogue: 0,0:13:14.98,0:13:22.57,Main,Text,0,0,0,,{\fad(410,0)\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(320,600)\3c&H33312C&}Kaina City, Houen Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:11:29.58,0:11:34.50,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1137,561}Hinbass
 Dialogue: 1,0:11:29.58,0:11:34.50,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Water

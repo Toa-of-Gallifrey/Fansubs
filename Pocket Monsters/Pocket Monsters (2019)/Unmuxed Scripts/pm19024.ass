@@ -70,7 +70,7 @@ Comment: 10,0:01:27.94,0:01:27.94,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:56.19,0:02:56.19,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:05.20,0:03:08.08,Main,Go,0,0,0,,Huh, that’s a pretty place.
 Dialogue: 10,0:03:08.08,0:03:11.42,Main,Satoshi,0,0,0,,Director Sakuragi, \N did something happen there?
-Dialogue: 10,0:03:12.83,0:03:15.84,Main,Sakuragi,0,0,0,,This is the Resort Area \N in the Sinnoh Region.
+Dialogue: 10,0:03:12.83,0:03:15.84,Main,Sakuragi,0,0,0,,This is the Resort Area \N in the Shin'ou Region.
 Dialogue: 10,0:03:15.84,0:03:19.20,Main,Sakuragi,0,0,0,,Supposedly this lake is home to \N a Pokémon referred to as a lord.{"だれも　しんじてくれないけど　リゾートエリアには　ヌシが　いる！ / きみ！　ぼくを　しんじるなら　すごいつりざおを　つかってみなよ！ / とんでもない　ヌシが......　ポケモンが　つれるかも　しれないぜ！" | "Nobody believes me, but something lurks in the Resort Area. / It's the hidden ruler of the area! You have to believe me! / If you believe me, whip out your Super Rod and go fishing. Who knows, you may just catch the mind-blowing ruler!" | so nushi was actually an in-game name for that magikarp, with the EN term being "ruler" - bluesun}
 Dialogue: 10,0:03:19.20,0:03:20.37,Main,Go,0,0,0,,A lord?!
 Dialogue: 10,0:03:20.37,0:03:21.72,Main,Satoshi,0,0,0,,What kind of Pokémon is it?
@@ -1017,7 +1017,7 @@ Dialogue: 0,0:12:47.50,0:12:53.50,Logo - Glow,,0,0,0,,{\fsp-40\bord6.5\blur5.75\
 Dialogue: 1,0:12:47.50,0:12:53.50,Logo - Fill,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 2,0:12:47.50,0:12:53.50,Logo - Accent,,0,0,0,,{\fsp-40\blur0.75\fscx42\fscy42\pos(220,72)}Ｐ{\fsp-50}Ｏ{\fsp-53.33}Ｃ{\fsp-58.67}Ｋ{\fsp-53.33}Ｅ{\fsp-23.33}Ｔ{\fsp-40}Ｍ{\fsp-48}ｏ{\fsp-50}Ｎ{\fsp-46.67}Ｓ{\fsp-53.33}ｔ{\fsp-60}ｅ{\fsp-52}Ｒｓ
 Comment: 0,0:02:36.99,0:02:36.99,Main,,0,0,0,,
-Dialogue: 0,0:03:46.37,0:03:48.75,Main,Sign,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(950,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Resort Area, the Sinnoh Region
+Dialogue: 0,0:03:46.37,0:03:48.75,Main,Sign,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(950,600)\c&HFFFFFF&\3c&H33312C&\blur0.5}Resort Area, the Shin'ou Region
 Comment: 0,0:02:36.99,0:02:36.99,Main,,0,0,0,,
 Dialogue: 0,0:12:48.58,0:12:53.50,Eyecatch,,0,0,0,,{\fad(170,0)\pos(1135,561}Nyarth
 Dialogue: 1,0:12:48.58,0:12:53.50,BOX,,0,0,0,,{\blur0.6\fad(170,0)\pos(1133,682)}Normal

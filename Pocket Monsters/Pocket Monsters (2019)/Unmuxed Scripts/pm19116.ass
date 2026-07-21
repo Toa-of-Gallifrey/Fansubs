@@ -311,9 +311,9 @@ Dialogue: 10,0:20:34.05,0:20:35.59,Main,Satoshi,0,0,0,,Ooh, now you’ve said it
 Dialogue: 10,0:20:35.59,0:20:36.72,Main,Iris,0,0,0,,Okay, I’ll be back soon!
 Dialogue: 10,0:20:36.72,0:20:39.09,Main,Iris,0,0,0,,Pikachu, you cheer for me, too!
 Dialogue: 10,0:20:43.89,0:20:46.60,Main,Mic,0,0,0,,The third match of the first round.
-Dialogue: 10,0:20:46.60,0:20:50.35,Main,Mic,0,0,0,,The Champion of Sinnoh, \N Competitor Shirona, is on the field.
+Dialogue: 10,0:20:46.60,0:20:50.35,Main,Mic,0,0,0,,The Champion of Shin'ou, \N Competitor Shirona, is on the field.
 Dialogue: 10,0:20:50.90,0:20:55.36,Main,Mic,0,0,0,,Her opponent is the Champion of Isshu, \N Competitor Iris.
-Dialogue: 10,0:20:55.36,0:21:01.28,Main,Mic,0,0,0,,This is a clash between the dignified \N queen of Sinnoh and a young Champion.
+Dialogue: 10,0:20:55.36,0:21:01.28,Main,Mic,0,0,0,,This is a clash between the dignified \N queen of Shin'ou and a young Champion.
 Dialogue: 10,0:21:01.78,0:21:06.79,Main,Danpei,0,0,0,,This battle is a 3v3! Both battlers, \N send your first Pokémon out onto the field!
 Dialogue: 10,0:21:06.79,0:21:07.75,Main,Danpei,0,0,0,,Three!
 Dialogue: 10,0:21:07.75,0:21:08.62,Main,Danpei,0,0,0,,Two!
@@ -331,7 +331,7 @@ Comment: 10,0:23:05.49,0:23:05.49,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:23:06.41,0:23:10.87,Main,Team Rocket,0,0,0,,{\i1}Pokémon World Championships \N Masters Tournament News!{\i0}
 Dialogue: 10,0:23:11.62,0:23:13.58,Main,Kojiro,0,0,0,,The Pokémon World Championships!
 Dialogue: 10,0:23:13.58,0:23:15.33,Main,Nyarth,0,0,0,,Masters Tournament!
-Dialogue: 10,0:23:15.33,0:23:19.50,Main,Musashi,0,0,0,,Looks like the third match is \N the Champion of Sinnoh versus the Champion of Isshu!
+Dialogue: 10,0:23:15.33,0:23:19.50,Main,Musashi,0,0,0,,Looks like the third match is \N the Champion of Shin'ou versus the Champion of Isshu!
 Dialogue: 10,0:23:19.50,0:23:23.05,Main,Kojiro,0,0,0,,By the way, I feel like I’ve seen \N that Champion of Isshu somewhere before...
 Dialogue: 10,0:23:23.05,0:23:24.22,Main,Nyarth,0,0,0,,Meow, too!
 Dialogue: 10,0:23:24.22,0:23:27.22,Main,Nyarth,0,0,0,,These awful-feeling memories... \N Are they real, or are they not...?

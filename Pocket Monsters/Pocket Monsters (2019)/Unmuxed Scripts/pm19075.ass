@@ -41,9 +41,9 @@ Style: Answer,FOT-Slump Std DB,48,&H00FDFFFF,&H00F5FEF5,&H00293251,&HFF293251,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Part A}
-Dialogue: 10,0:00:01.94,0:00:06.42,Main,Narrator,100,0,0,,In the midst of investigating \N nightmares occurring in Sinnoh,
+Dialogue: 10,0:00:01.94,0:00:06.42,Main,Narrator,100,0,0,,In the midst of investigating \N nightmares occurring in Shin'ou,
 Dialogue: 10,0:00:06.42,0:00:08.78,Main,Narrator,0,0,0,,Satoshi and Go \N are in pursuit of Darkrai.
-Dialogue: 10,0:00:08.78,0:00:12.99,Main,Narrator,0,0,0,,Meanwhile, Koharu and Eevee \N were traveling in Sinnoh...
+Dialogue: 10,0:00:08.78,0:00:12.99,Main,Narrator,0,0,0,,Meanwhile, Koharu and Eevee \N were traveling in Shin'ou...
 Dialogue: 10,0:00:12.99,0:00:16.08,Main,Narrator,0,0,0,,...and met Hikari, \N a girl headed for a Contest.
 Dialogue: 10,0:00:17.22,0:00:20.47,Main,Narrator,0,0,0,,At a forest they wandered into, \N the two of them found...
 Dialogue: 10,0:00:21.79,0:00:23.25,Main,Hikari,0,0,0,,Cresselia...
@@ -88,7 +88,7 @@ Dialogue: 10,0:04:02.76,0:04:04.95,Main,Hikari,0,0,0,,Ah, that brings back memor
 Dialogue: 10,0:04:04.95,0:04:09.31,Main,Hikari,0,0,0,,Now, my other friend... it was like \N he never thought about anything but Pokémon.
 Dialogue: 10,0:04:09.31,0:04:11.63,Main,Hikari,0,0,0,,I guess you could \N call him a Pokémon freak?
 Dialogue: 10,0:04:11.63,0:04:15.06,Main,Koharu,0,0,0,,Oh, I have a friend \N who’s just like that, too.
-Dialogue: 10,0:04:20.01,0:04:22.82,Main,Hikari,0,0,0,,So you came to Sinnoh \N to watch Contests?
+Dialogue: 10,0:04:20.01,0:04:22.82,Main,Hikari,0,0,0,,So you came to Shin'ou \N to watch Contests?
 Dialogue: 10,0:04:22.82,0:04:24.69,Main,Koharu,0,0,0,,Not exactly.
 Dialogue: 10,0:04:24.69,0:04:28.63,Main,Koharu,0,0,0,,When I got here, I saw an interview \N with a woman named Ayako.
 Dialogue: 10,0:04:28.63,0:04:31.20,Main,Hikari,0,0,0,,Oh, you saw Mom’s interview!
@@ -260,7 +260,7 @@ Dialogue: 10,0:13:22.19,0:13:23.91,Main,Hikari,0,0,0,,What a coincidence!
 Dialogue: 10,0:13:23.91,0:13:26.41,Main,Satoshi,0,0,0,,What’re you two doing \N all the way out here?
 Dialogue: 10,0:13:26.41,0:13:27.51,Main,Go,0,0,0,,Hold on a second.
 Dialogue: 10,0:13:27.51,0:13:29.87,Main,Go,0,0,0,,Let’s settle down \N and go over things.
-Dialogue: 10,0:13:30.74,0:13:34.54,Main,Go,0,0,0,,Oh, so you’re friends \N that traveled around Sinnoh together.
+Dialogue: 10,0:13:30.74,0:13:34.54,Main,Go,0,0,0,,Oh, so you’re friends \N that traveled around Shin'ou together.
 Dialogue: 10,0:13:34.54,0:13:37.25,Main,Satoshi,0,0,0,,Yeah, together with a guy \N called Takeshi.
 Dialogue: 10,0:13:37.25,0:13:40.71,Main,Hikari,0,0,0,,I was surprised to find out \N you knew Koharu.
 Dialogue: 10,0:13:40.71,0:13:43.06,Main,Satoshi,0,0,0,,Same to you...
@@ -398,7 +398,7 @@ Dialogue: 10,0:21:22.82,0:21:25.51,Main,Koharu,0,0,0,,Oh, well. \N It is summer 
 Dialogue: 10,0:21:25.51,0:21:27.05,Main,Hikari,0,0,0,,That’s right.
 Dialogue: 10,0:21:27.05,0:21:29.54,Main,Hikari,0,0,0,,So you should be out here with us!
 Dialogue: 10,0:21:29.54,0:21:31.48,Main,Koharu,0,0,0,,Huh? Oh, hold on!
-Dialogue: 10,0:21:32.19,0:21:39.48,Main,Narrator,0,0,0,,Satoshi, Go, Koharu, and Hikari have experienced \N the mysteries and bonds of Pokémon in the Sinnoh Region.
+Dialogue: 10,0:21:32.19,0:21:39.48,Main,Narrator,0,0,0,,Satoshi, Go, Koharu, and Hikari have experienced \N the mysteries and bonds of Pokémon in the Shin'ou Region.
 Dialogue: 10,0:21:40.38,0:21:44.49,Main,Narrator,0,100,0,,Their fun summer vacation is only just \N getting started!
 Comment: 10,0:21:44.49,0:21:44.49,Main,,0,0,0,,{Bad Stuff}
 Comment: 10,0:23:05.48,0:23:05.48,Main,,0,0,0,,{Preview}
@@ -411,7 +411,7 @@ Dialogue: 10,0:23:23.30,0:23:25.97,Main,Zen,0,0,0,,Let’s go! Z-Move time!{08:2
 Dialogue: 10,0:23:26.93,0:23:29.09,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:29.09,0:23:32.60,Main,Go,0,0,0,,Full Power! \N The Alola Deserted Island Race!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:00.61,0:00:06.65,Main,,0,0,0,,{\fad(1200, 0)\b0\fnHiraKakuProN-W6-Str\fs40\pos(178,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Sinnoh Region
+Dialogue: 0,0:00:00.61,0:00:06.65,Main,,0,0,0,,{\fad(1200, 0)\b0\fnHiraKakuProN-W6-Str\fs40\pos(178,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Shin'ou Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:01:48.92,0:01:48.96,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:01:48.96,0:01:49.01,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

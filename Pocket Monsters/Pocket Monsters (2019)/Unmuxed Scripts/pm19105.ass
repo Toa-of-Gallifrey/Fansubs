@@ -68,7 +68,7 @@ Dialogue: 10,0:01:10.34,0:01:12.39,Main,Koharu,0,0,0,,Then, off to Minamo City..
 Dialogue: 10,0:01:12.39,0:01:15.64,Main,Koharu,0,0,0,,Let’s go!
 Comment: 10,0:01:15.64,0:01:15.64,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:43.73,0:02:43.73,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:02:53.19,0:02:56.61,Main,Narrator,610,0,0,,This is Minamo City in Hoenn.
+Dialogue: 10,0:02:53.19,0:02:56.61,Main,Narrator,610,0,0,,This is Minamo City in Houen.
 Dialogue: 10,0:02:56.61,0:03:01.08,Main,Narrator,0,0,0,,When Koharu and Eevee \N arrived at the Contest Hall...
 Dialogue: 10,0:03:01.08,0:03:03.50,Main,Ruthia,0,0,0,,Hiiiiii, ev-er-y-bo-dy!{Game line}
 Dialogue: 10,0:03:06.21,0:03:09.04,Main,Ruthia,0,0,0,,Well then, watch me as \N I dive right in again today!{Game line}
@@ -127,7 +127,7 @@ Dialogue: 10,0:05:25.30,0:05:27.18,Main,Koharu,0,0,0,,Do you happen to do Contes
 Dialogue: 10,0:05:27.18,0:05:27.89,Main,Serena,0,0,0,,Yes.
 Dialogue: 10,0:05:27.89,0:05:31.39,Main,Koharu,0,0,0,,So you’re the Nymphia trainer \N garnering all the attention!
 Dialogue: 10,0:05:31.39,0:05:33.81,Main,Serena,0,0,0,,I don’t know if I’d say that,
-Dialogue: 10,0:05:33.81,0:05:37.23,Main,Serena,0,0,0,,but I like to think I’ve been \N livening up Hoenn’s Contests with Ruthia.
+Dialogue: 10,0:05:33.81,0:05:37.23,Main,Serena,0,0,0,,but I like to think I’ve been \N livening up Houen’s Contests with Ruthia.
 Dialogue: 10,0:05:37.23,0:05:41.65,Main,Koharu,0,0,0,,I wanted to let Eevee see \N one of your performances with Nymphia,
 Dialogue: 10,0:05:41.65,0:05:43.20,Main,Koharu,0,0,0,,so I came here from Kanto!
 Dialogue: 10,0:05:43.78,0:05:45.16,Main,Serena,0,0,0,,Let Eevee see?
@@ -213,7 +213,7 @@ Dialogue: 10,0:09:20.62,0:09:22.37,Main,Satoshi,0,0,0,,Oh, thank you...
 Dialogue: 10,0:09:22.37,0:09:26.17,Main,Mikuri,0,0,0,,While I am not competing, \N our meeting today must be a stroke of fate.
 Dialogue: 10,0:09:26.17,0:09:28.13,Main,Mikuri,0,0,0,,Why don’t we have a battle?
 Dialogue: 10,0:09:28.13,0:09:29.09,Main,Satoshi,0,0,0,,Huh?!
-Dialogue: 10,0:09:29.09,0:09:32.64,Main,Mikuri,0,0,0,,I can hold my own against \N the Champion of the Hoenn Region.
+Dialogue: 10,0:09:29.09,0:09:32.64,Main,Mikuri,0,0,0,,I can hold my own against \N the Champion of the Houen Region.
 Dialogue: 10,0:09:32.64,0:09:34.93,Main,Satoshi,0,0,0,,What?! Against Mr. Daigo{Honorifics note: Daigo-san}?!
 Dialogue: 10,0:09:34.93,0:09:38.39,Main,Mikuri,0,0,0,,Hmph... So you have no problem \N remembering Daigo...
 Dialogue: 10,0:09:38.39,0:09:40.68,Main,Mikuri,0,0,0,,No matter. \N I am in no way offended.
@@ -226,7 +226,7 @@ Dialogue: 10,0:09:56.37,0:09:59.29,Main,Koharu,0,0,0,,Oh... What should I pick..
 Dialogue: 10,0:09:59.29,0:10:01.21,Main,Serena,0,0,0,,Go with whatever you like.
 Dialogue: 10,0:10:01.21,0:10:03.50,Main,Koharu,0,0,0,,Oh, this one’s cute!
 Dialogue: 10,0:10:03.50,0:10:06.34,Main,Koharu,0,0,0,,But... Maybe a bit gaudy...
-Dialogue: 10,0:10:06.34,0:10:10.01,Main,Serena,0,0,0,,That dress was worn by \N the “Dancing Girl of Hoenn!”{apparently a Hikari quote from DP76}
+Dialogue: 10,0:10:06.34,0:10:10.01,Main,Serena,0,0,0,,That dress was worn by \N the “Dancing Girl of Houen!”{apparently a Hikari quote from DP76}
 Dialogue: 10,0:10:10.01,0:10:12.26,Main,Serena,0,0,0,,You’re bound to look good in it, too!
 Dialogue: 10,0:10:15.18,0:10:20.22,Main,Serena,0,0,0,,When you’re all dressed up, and standing onstage... \N You might just discover a new side to yourself!
 Dialogue: 10,0:10:21.56,0:10:24.35,Main,Serena,0,0,0,,And not just you... \N The same goes for Eevee.
@@ -297,7 +297,7 @@ Dialogue: 10,0:14:49.24,0:14:51.25,Main,Mikuri,0,0,0,,{\an8}Come on out, Milokal
 Dialogue: 10,0:14:49.24,0:14:51.25,Main,Satoshi,0,0,0,,Pikachu, I choose you!
 Dialogue: 10,0:14:55.04,0:14:57.33,Main,Go,0,0,0,,You’re still at it...?
 Dialogue: 10,0:14:57.84,0:15:02.30,Main,Announcer,0,0,0,,Next up is what you’ve all been \N waiting for, Master Rank!
-Dialogue: 10,0:15:02.30,0:15:07.22,Main,Announcer,0,0,0,,The Top Batter has solidified her popularity \N throughout Kalos, and now even in Hoenn!
+Dialogue: 10,0:15:02.30,0:15:07.22,Main,Announcer,0,0,0,,The Top Batter has solidified her popularity \N throughout Kalos, and now even in Houen!
 Dialogue: 10,0:15:07.22,0:15:09.05,Main,Announcer,0,0,0,,It’s Serena!
 Dialogue: 10,0:15:14.73,0:15:17.48,Main,Koharu,0,0,0,,My heart’s pounding!
 Dialogue: 10,0:15:17.48,0:15:19.57,Main,Serena,0,0,0,,Here we go, everyone! {this feels wrong without DreamDream as an insert —Puto}
@@ -313,7 +313,7 @@ Dialogue: 10,0:16:17.21,0:16:19.21,Main,Serena,0,0,0,,Finish!
 Dialogue: 10,0:16:27.42,0:16:29.84,Main,Koharu,0,0,0,,Serena, Nymphia...
 Dialogue: 10,0:16:29.84,0:16:31.72,Main,Koharu,0,0,0,,They’re all incredible!
 Dialogue: 10,0:16:32.18,0:16:35.18,Main,Announcer,0,0,0,,The Master Rank, \N home of heated battles.
-Dialogue: 10,0:16:35.18,0:16:41.48,Main,Announcer,0,0,0,,Closing us out is Hoenn’s \N Number One Contest Idol...
+Dialogue: 10,0:16:35.18,0:16:41.48,Main,Announcer,0,0,0,,Closing us out is Houen’s \N Number One Contest Idol...
 Dialogue: 10,0:16:41.48,0:16:45.44,Main,Announcer,0,0,0,,It’s Miracle Ruthia! {Made stylistically consistent. - Toa}
 Dialogue: 10,0:16:45.44,0:16:46.86,Main,Ruthia,0,0,0,,Shining!
 Dialogue: 10,0:16:46.86,0:16:48.20,Main,Ruthia,0,0,0,,Spinning!
@@ -425,7 +425,7 @@ Dialogue: 10,0:23:31.35,0:23:32.02,Main,Musashi,0,0,0,,Team Rocket’s... {Adjus
 Dialogue: 10,0:23:32.02,0:23:32.43,Main,Kojiro,0,0,0,,...Secret...
 Dialogue: 10,0:23:32.43,0:23:34.02,Main,Nyarth,0,0,0,,...Kingdom Radio!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:52.74,0:02:56.61,Main,Text,570,0,0,,{\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(320,600)\3c&H33312C&}Minamo City, Hoenn Region
+Dialogue: 0,0:02:52.74,0:02:56.61,Main,Text,570,0,0,,{\b0\fnHiraKakuProN-W6-Str\blur0.5\c&HFFFFFF&\fs40\pos(320,600)\3c&H33312C&}Minamo City, Houen Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 13,0:01:21.56,0:01:24.36,OP,,0,0,0,,{\fad(340, 0)}Hey, you still not ready? C'mon, hurry up!
 Dialogue: 12,0:01:21.56,0:01:24.36,OPp2,,0,0,0,,{\fad(340, 0)\1a&HFF&}Hey, you still not ready? C'mon, hurry up!

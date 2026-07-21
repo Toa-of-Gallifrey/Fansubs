@@ -13,11 +13,7 @@ Video Aspect Ratio: 0
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../../../Downloads/Workbench/Pocket Monsters/[Some-Stuffs]_Pocket_Monsters_(2019)_010_(1080p)_[D945D042].mkv
-Video File: ../../../../../../Downloads/Workbench/Pocket Monsters/[Some-Stuffs]_Pocket_Monsters_(2019)_010_(1080p)_[D945D042].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,7 +102,7 @@ Dialogue: 10,0:04:43.01,0:04:45.01,Main,Go,0,0,0,,H-Hey!
 Dialogue: 10,0:04:45.39,0:04:46.90,Main,Go,0,0,0,,What’s wrong, Dugong?
 Dialogue: 10,0:04:52.64,0:04:55.27,Main,Go,0,0,0,,What?! Don’t tell me...
 Dialogue: 10,0:05:03.15,0:05:04.66,Main,Go,0,0,0,,Stop!
-Dialogue: 10,0:05:04.66,0:05:05.89,Main,Go,0,0,0,,You’re not listening, are you?{What's the literal here? - Toa of the Batch}
+Dialogue: 10,0:05:04.66,0:05:05.89,Main,Go,0,0,0,,You’re not listening, are you?{What's the literal here? - Toa of the Batch}{Like, “...but even if I say that...” -TLC}
 Dialogue: 10,0:05:05.89,0:05:07.53,Main,Satoshi,0,0,0,,Go, look!
 Dialogue: 10,0:05:07.53,0:05:09.54,Main,Go,0,0,0,,You’re kidding!
 Dialogue: 10,0:05:18.90,0:05:20.91,Main,Go,0,0,0,,Dugong, we gotta turn back.

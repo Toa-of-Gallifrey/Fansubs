@@ -46,17 +46,17 @@ Dialogue: 10,0:00:18.52,0:00:19.60,Main,Matori,0,0,0,,Take us lower!
 Dialogue: 10,0:00:19.60,0:00:20.29,Main,Rocket,0,0,0,,Ma’am!
 Dialogue: 10,0:00:46.88,0:00:48.82,Main,Satoshi,0,0,0,,Huh? Nightmares?
 Dialogue: 10,0:00:48.82,0:00:49.99,Main,Sakuragi,0,0,0,,Yes.
-Dialogue: 10,0:00:49.99,0:00:52.62,Main,Sakuragi,0,0,0,,There have been reports \N from across Sinnoh...
+Dialogue: 10,0:00:49.99,0:00:52.62,Main,Sakuragi,0,0,0,,There have been reports \N from across Shin'ou...
 Dialogue: 10,0:00:52.62,0:00:55.32,Main,Sakuragi,0,0,0,,...that entire cities have \N had trouble sleeping.
 Dialogue: 10,0:00:55.32,0:00:57.95,Main,Go,0,0,0,,Is a Pokémon causing that?
 Dialogue: 10,0:00:57.95,0:00:59.64,Main,Sakuragi,0,0,0,,That is likely.
-Dialogue: 10,0:00:59.64,0:01:02.08,Main,Sakuragi,0,0,0,,Nightmares in Sinnoh \N brings to mind...
+Dialogue: 10,0:00:59.64,0:01:02.08,Main,Sakuragi,0,0,0,,Nightmares in Shin'ou \N brings to mind...
 Dialogue: 10,0:01:02.57,0:01:04.83,Main,Kikuna,0,0,0,,The Pitch-Black Pokémon, \N Darkrai.
 Dialogue: 10,0:01:05.21,0:01:08.78,Main,Kikuna,0,0,0,,It has the power to give \N humans and Pokémon nightmares.
 Dialogue: 10,0:01:08.78,0:01:10.21,Main,Satoshi,0,0,0,,Darkrai, huh?
 Dialogue: 10,0:01:10.21,0:01:12.20,Main,Satoshi,0,0,0,,I wouldn’t put it past that one... {This reads kinda weird but I can't think of anything better to suggest without going too loose ("That figures..."). - Toa}
 Dialogue: 10,0:01:12.20,0:01:14.37,Main,Go,0,0,0,,You’ve {\i1}met{\i0} Darkrai, Satoshi?!
-Dialogue: 10,0:01:14.37,0:01:15.09,Main,Satoshi,0,0,0,,Yeah!{wait, movie 10's canon now? --Puto}{I think he's referring to the Sinnoh League. That said... bringing back the DREADED "IT" for Darkrai. -Starfish}
+Dialogue: 10,0:01:14.37,0:01:15.09,Main,Satoshi,0,0,0,,Yeah!{wait, movie 10's canon now? --Puto}{I think he's referring to the Shin'ou League. That said... bringing back the DREADED "IT" for Darkrai. -Starfish}
 Dialogue: 10,0:01:15.09,0:01:18.21,Main,Satoshi,0,0,0,,It’s strong in battle! \N It’s an awesome Pokémon!
 Dialogue: 10,0:01:18.21,0:01:19.56,Main,Satoshi,0,0,0,,Right, Pikachu?
 Dialogue: 10,0:01:20.51,0:01:23.84,Main,Sakuragi,0,0,0,,However, Darkrai usually stays \N on New Moon Island,{Shingetsu and Mangetsu I feel like are ’ordinary word’ enough they would be better translated... Though that’s inconsistent... argh. -blu}{Yeah, I think it's better translate ordinary word location names wherever possible. I think there's a distinction between something like "masarataun" and "shingetsujima", where the former has "Town" in English, and the latter is fully Japanese. Is it consistent that the former type of name is spelled in katakana and the latter in hiragana? I see these specific examples are, but I don't know if that's the case across the board. - Toa}
@@ -65,7 +65,7 @@ Dialogue: 10,0:01:26.42,0:01:28.41,Main,Sakuragi,0,0,0,,Is there some reason for
 Dialogue: 10,0:01:28.41,0:01:31.03,Main,Sakuragi,0,0,0,,Or is another Pokémon behind it...?
 Dialogue: 10,0:01:31.03,0:01:32.69,Main,Go,0,0,0,,That’s what we’re \N investigating, right?!
 Dialogue: 10,0:01:32.69,0:01:34.36,Main,Sakuragi,0,0,0,,Oh! Quick as ever, Go!{SASUGA. line -blu}{Changed from "Oh, quick as ever, Go!" - Toa}
-Dialogue: 10,0:01:34.36,0:01:35.99,Main,Satoshi,0,0,0,,Let’s go to Sinnoh!
+Dialogue: 10,0:01:34.36,0:01:35.99,Main,Satoshi,0,0,0,,Let’s go to Shin'ou!
 Dialogue: 10,0:01:36.37,0:01:37.74,Main,Go,0,0,0,,Yeah!
 Dialogue: 10,0:01:38.48,0:01:39.99,Main,Satoshi,0,0,0,,We’re heading out!
 Dialogue: 10,0:01:39.99,0:01:42.02,Main,Go,0,0,0,,Welcome back, Koharu!
@@ -114,7 +114,7 @@ Dialogue: 10,0:04:45.34,0:04:46.16,Main,Koharu,0,0,0,,Huh?!
 Dialogue: 10,0:04:46.16,0:04:49.81,Main,Souta,0,0,0,,My friends invited me to summer camp, \N so now I can go with them. {Changed from "I got invited to summer camp by my friends". - Toa}
 Dialogue: 10,0:04:49.81,0:04:51.92,Main,Koharu,0,0,0,,H-How could you...?
 Dialogue: 10,0:04:51.92,0:04:53.36,Main,Sakuragi,0,0,0,,Oh, I know!
-Dialogue: 10,0:04:53.36,0:04:57.19,Main,Sakuragi,0,0,0,,It just so happens that Satoshi and Go \N had to go to Sinnoh to do research.
+Dialogue: 10,0:04:53.36,0:04:57.19,Main,Sakuragi,0,0,0,,It just so happens that Satoshi and Go \N had to go to Shin'ou to do research.
 Dialogue: 10,0:04:57.19,0:04:59.58,Main,Sakuragi,0,0,0,,Why don’t you go there \N and meet up with them?
 Dialogue: 10,0:04:59.58,0:05:02.28,Main,Koharu,0,0,0,,What, help them with research \N just because I have nothing better to do?
 Dialogue: 10,0:05:02.28,0:05:03.99,Main,Sakuragi,0,0,0,,N-N-No...
@@ -148,7 +148,7 @@ Dialogue: 10,0:06:07.08,0:06:08.55,Main,Sakuragi,0,0,0,,please call us right awa
 Dialogue: 10,0:06:08.55,0:06:11.00,Main,Koharu,0,0,0,,Don’t treat me like a child.
 Dialogue: 10,0:06:11.00,0:06:11.93,Main,Koharu,0,0,0,,See you later.
 Dialogue: 10,0:06:21.00,0:06:22.86,Main,Koharu,0,0,0,,I’m actually here!
-Dialogue: 10,0:06:24.11,0:06:30.78,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(178,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Sinnoh Region
+Dialogue: 10,0:06:24.11,0:06:30.78,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(178,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Shin'ou Region
 Dialogue: 10,0:06:24.57,0:06:26.85,Main,Koharu,0,0,0,,This is kind of exciting... {Changed "kinda" to "kind of". - Toa}
 Dialogue: 10,0:06:27.64,0:06:29.68,Main,Koharu,0,0,0,,Let’s have lots of fun, Eevee!
 Dialogue: 10,0:06:38.60,0:06:40.75,Main,Koharu,0,0,0,,Eevee, \N where would you like to go?
@@ -217,7 +217,7 @@ Dialogue: 10,0:09:46.31,0:09:48.69,Main,Satoshi,0,0,0,,That’s {\i1}gotta{\i0} 
 Dialogue: 10,0:09:48.69,0:09:51.71,Main,Go,0,0,0,,Tracking its route might \N help us learn something.
 Dialogue: 10,0:09:51.71,0:09:54.57,Main,Go,0,0,0,,Let’s start by asking around, Satoshi.
 Dialogue: 10,0:09:54.57,0:09:55.66,Main,Musashi,0,0,0,,{\i1}Excuse me?!{\i0}
-Dialogue: 10,0:09:55.66,0:09:59.32,Main,Musashi,0,0,0,,You want us to catch \N a runaway Cresselia in Sinnoh?!
+Dialogue: 10,0:09:55.66,0:09:59.32,Main,Musashi,0,0,0,,You want us to catch \N a runaway Cresselia in Shin'ou?!
 Dialogue: 10,0:09:59.32,0:10:00.33,Main,Matori,0,0,0,,Correct.
 Dialogue: 10,0:10:00.33,0:10:02.20,Main,Matori,0,0,0,,Head out immediately.
 Dialogue: 10,0:10:02.20,0:10:04.30,Main,Nyarth,0,0,0,,Why us?
@@ -287,12 +287,12 @@ Dialogue: 10,0:13:40.33,0:13:41.46,Main,Hikari,0,0,0,,Oh, just call me Hikari.
 Dialogue: 10,0:13:41.46,0:13:42.97,Main,Koharu,0,0,0,,Ah, sure.
 Dialogue: 10,0:13:42.97,0:13:45.24,Main,Koharu,0,0,0,,Hikari, have you entered \N a contest before?
 Dialogue: 10,0:13:45.24,0:13:46.44,Main,Hikari,0,0,0,,Of course!
-Dialogue: 10,0:13:46.44,0:13:50.00,Main,Hikari,0,0,0,,I’ve been to pretty much \N every contest venue in Sinnoh.
-Dialogue: 10,0:13:50.00,0:13:53.67,Main,Hikari,0,0,0,,Plus Hoenn’s, Isshu’s, and Johto’s.
+Dialogue: 10,0:13:46.44,0:13:50.00,Main,Hikari,0,0,0,,I’ve been to pretty much \N every contest venue in Shin'ou.
+Dialogue: 10,0:13:50.00,0:13:53.67,Main,Hikari,0,0,0,,Plus Houen’s, Isshu’s, and Johto’s.
 Dialogue: 10,0:13:53.67,0:13:54.93,Main,Hikari,0,0,0,,I’ve been all over.
 Dialogue: 10,0:13:54.93,0:13:56.69,Main,Koharu,0,0,0,,Wow! All by yourself?
 Dialogue: 10,0:13:56.69,0:13:59.85,Main,Hikari,0,0,0,,Sometimes by myself, \N sometimes with friends.
-Dialogue: 10,0:13:59.85,0:14:03.28,Main,Hikari,0,0,0,,When traveling around Sinnoh, \N we were a group of three!
+Dialogue: 10,0:13:59.85,0:14:03.28,Main,Hikari,0,0,0,,When traveling around Shin'ou, \N we were a group of three!
 Dialogue: 10,0:14:03.28,0:14:04.84,Main,Koharu,0,0,0,,Huh.
 Dialogue: 10,0:14:04.84,0:14:07.90,Main,Koharu,0,0,0,,This is the first time \N I’ve traveled alone.
 Dialogue: 10,0:14:07.90,0:14:09.13,Main,Hikari,0,0,0,,Hey, Koharu.
@@ -340,7 +340,7 @@ Dialogue: 10,0:16:52.56,0:16:54.07,Main,Hikari,0,0,0,,The water’s cool!
 Dialogue: 10,0:16:56.53,0:16:58.99,Main,Hikari,0,0,0,,Hey, Koharu, come and feel this!
 Dialogue: 10,0:17:01.16,0:17:02.08,Main,Koharu,0,0,0,,Sure!
 Dialogue: 10,0:17:04.08,0:17:07.71,Main,Koharu,0,0,0,,Maybe the path on the right \N would get us there quicker...
-Dialogue: 10,0:17:08.59,0:17:11.43,Main,Hikari,0,0,0,,A Subomi! It’s so cute!
+Dialogue: 10,0:17:08.59,0:17:11.43,Main,Hikari,0,0,0,,A Subomie! It’s so cute!
 Dialogue: 10,0:17:13.01,0:17:14.55,Main,Hikari,0,0,0,,Look, Koharu!
 Dialogue: 10,0:17:14.55,0:17:15.97,Main,Koharu,0,0,0,,Oh, right.
 Dialogue: 10,0:17:15.97,0:17:17.55,Main,Koharu,0,0,0,,Yes, it’s cute.

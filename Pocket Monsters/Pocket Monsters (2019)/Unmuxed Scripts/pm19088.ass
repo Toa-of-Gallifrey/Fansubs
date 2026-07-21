@@ -76,12 +76,12 @@ Dialogue: 10,0:01:42.79,0:01:44.50,Main,Go,0,0,0,,Then, let’s get to it...
 Dialogue: 10,0:01:44.50,0:01:49.42,Main,Go,0,0,0,,Seadra habitats could also be home \N to their evolution, Kingdra.
 Dialogue: 10,0:01:49.79,0:01:50.96,Main,Satoshi,0,0,0,,That’s right!
 Dialogue: 10,0:01:52.46,0:01:53.71,Main,Go,0,0,0,,Here we go!
-Dialogue: 10,0:01:53.71,0:01:57.63,Main,Go,0,0,0,,The seas near Hoenn’s Kaina City! \N There have even been whirlpool sightings!
-Dialogue: 10,0:01:57.63,0:02:00.64,Main,Satoshi,0,0,0,,Okay, then, off to Hoenn...
+Dialogue: 10,0:01:53.71,0:01:57.63,Main,Go,0,0,0,,The seas near Houen’s Kaina City! \N There have even been whirlpool sightings!
+Dialogue: 10,0:01:57.63,0:02:00.64,Main,Satoshi,0,0,0,,Okay, then, off to Houen...
 Dialogue: 10,0:02:01.01,0:02:02.97,Main,Go,0,0,0,,Let’s go!
 Comment: 10,0:02:04.14,0:02:04.14,Main,,0,0,0,,{Opening}
 Comment: 10,0:03:32.23,0:03:32.23,Main,,0,0,0,,{Part B}
-Dialogue: 10,0:03:41.65,0:03:45.32,Main,Satoshi and Go,0,0,0,,Hoenn Region, here we are!
+Dialogue: 10,0:03:41.65,0:03:45.32,Main,Satoshi and Go,0,0,0,,Houen Region, here we are!
 Dialogue: 10,0:03:45.62,0:03:47.29,Main,Go,0,0,0,,We can go the rest of the way \N on our Pokémon!
 Dialogue: 10,0:03:47.29,0:03:48.12,Main,Satoshi,0,0,0,,Okay!
 Dialogue: 10,0:03:48.12,0:03:50.08,Main,Go,0,0,0,,Come on out!
@@ -103,7 +103,7 @@ Dialogue: 10,0:06:16.56,0:06:19.19,Main,Genji,0,0,0,,What are you doing \N messi
 Dialogue: 10,0:06:23.61,0:06:25.11,Main,Satoshi,0,0,0,,Is that...?
 Dialogue: 10,0:06:26.74,0:06:27.90,Main,Satoshi,0,0,0,,Mr. Gonji{Honorifics note: Gonji-san}!
 Dialogue: 10,0:06:27.90,0:06:29.07,Main,Genji,0,0,0,,It’s Genji!
-Dialogue: 10,0:06:29.53,0:06:32.83,Main,Go,0,0,0,,Mr. Genji{Honorifics note: Genji-san}... \N From the Hoenn Elite Four?!
+Dialogue: 10,0:06:29.53,0:06:32.83,Main,Go,0,0,0,,Mr. Genji{Honorifics note: Genji-san}... \N From the Houen Elite Four?!
 Dialogue: 10,0:06:32.83,0:06:34.16,Main,Genji,0,0,0,,Mm-hmm.
 Dialogue: 10,0:06:35.95,0:06:38.25,Main,Genji,0,0,0,,And your name, was it... \N Sabashi?
 Dialogue: 10,0:06:39.04,0:06:40.83,Main,Satoshi,0,0,0,,Satoshi...
@@ -352,7 +352,7 @@ Dialogue: 10,0:23:25.50,0:23:28.59,Main,Koharu,0,0,0,,That could be an entrance 
 Dialogue: 10,0:23:28.59,0:23:30.34,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:30.34,0:23:34.05,Main,Go,0,0,0,,Dialga & Palkia! \N The Space-Time Cataclysm!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:03:42.74,0:03:48.12,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(175,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Hoenn Region
+Dialogue: 0,0:03:42.74,0:03:48.12,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(175,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Houen Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:03:28.94,0:03:28.98,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:03:28.98,0:03:29.02,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs

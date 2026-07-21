@@ -55,7 +55,7 @@ Dialogue: 10,0:00:30.43,0:00:36.14,Main,Kikuna,0,0,0,,Some people put together{T
 Dialogue: 10,0:00:36.90,0:00:42.39,Main,Sakuragi,0,0,0,,Go is facing their membership test \N after Professor Okido recommended him. {Maybe "taking" in place of "facing"?}
 Dialogue: 10,0:00:42.39,0:00:44.59,Main,Kikuna,0,0,0,,Well? What does the e-mail say?
 Dialogue: 10,0:00:44.59,0:00:46.47,Main,Kikuna,0,0,0,,Are you heading out on a Trial Mission?
-Dialogue: 10,0:00:46.47,0:00:52.43,Main,Go,0,0,0,, “Visit our laboratory \N at the base of Mount Tengan in Sinnoh.”
+Dialogue: 10,0:00:46.47,0:00:52.43,Main,Go,0,0,0,, “Visit our laboratory \N at the base of Mt. Tengan in Shin'ou.”
 Dialogue: 10,0:00:52.43,0:00:55.32,Main,Renji,0,0,0,,Since when do they have a lab there?{Was there really a laboratory there?}{Went loose, rein in as needed. - Toa}{Further edited. - Toa}
 Dialogue: 10,0:00:55.32,0:00:56.82,Main,Satoshi,0,0,0,,Let’s not sweat it \N ‘til we’re there.{We can work it out when we get there!}{Is he responding to Renji? - Toa}
 Dialogue: 10,0:00:56.82,0:00:57.85,Main,Go,0,0,0,,Yeah!
@@ -68,7 +68,7 @@ Dialogue: 10,0:01:05.68,0:01:07.88,Main,Satoshi and Go,0,0,0,,Let’s go!
 Comment: 10,0:01:08.42,0:01:08.42,Main,,0,0,0,,{Opening}
 Comment: 10,0:02:36.51,0:02:36.51,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:46.22,0:02:48.10,Main,Narrator,550,0,0,,Following \N Project Mew’s instructions,
-Dialogue: 10,0:02:48.10,0:02:53.02,Main,Narrator,550,0,0,,Satoshi and Go have gone off to \N the foot of Sinnoh’s Mount Tengan.
+Dialogue: 10,0:02:48.10,0:02:53.02,Main,Narrator,550,0,0,,Satoshi and Go have gone off to \N the foot of Shin'ou’s Mt. Tengan.
 Dialogue: 10,0:02:53.57,0:02:56.60,Main,Narrator,0,0,0,,What lies in store for them?{What will they find awaiting them?}{Also loose. - Toa}
 Dialogue: 10,0:02:57.43,0:02:59.26,Main,Satoshi,0,0,0,,Is that really it?
 Dialogue: 10,0:03:00.41,0:03:02.91,Main,Go,0,0,0,,The map says \N this should be the right place...
@@ -165,7 +165,7 @@ Dialogue: 10,0:07:50.97,0:07:51.93,Main,Asahi,0,0,0,,It’s fine.
 Dialogue: 10,0:07:51.93,0:07:53.36,Main,Satoshi,0,0,0,,All right!
 Dialogue: 10,0:07:53.75,0:07:55.37,Main,Asahi,0,0,0,,It should nearly be time.
 Dialogue: 10,0:08:05.09,0:08:07.13,Main,Go,0,0,0,,We’re flying?!
-Dialogue: 10,0:08:07.13,0:08:10.87,Main,Asahi,0,0,0,,This is the ice field \N north of Mount Tengan.
+Dialogue: 10,0:08:07.13,0:08:10.87,Main,Asahi,0,0,0,,This is the ice field \N north of Mt. Tengan.
 Dialogue: 10,0:08:10.87,0:08:16.01,Main,Asahi,0,0,0,,Go{Honorifics note: Go-kun}. We will have you catch \N an Alolan Kyukon in this area.{070 NEP (plus Go-kun)}
 Dialogue: 10,0:08:16.01,0:08:21.39,Main,Rotom Go Ver,0,0,0,,Kyukon! Alolan Form! \N Fox Pokémon! Ice/Fairy type! {We've been inconsistent with "Alolan Form" vs. "Alolan form". Lower-case "form" has more uses, but upper-case "Form" is what the games' TL uses (and I think it makes more sense in general). - Toa}
 Dialogue: 10,0:08:21.39,0:08:23.27,Main,Rotom Go Ver,0,0,0,,Possesses a calm demeanor!{Partial Moon dex entry, slightly edited -blu}
@@ -367,7 +367,7 @@ Dialogue: 10,0:21:20.40,0:21:21.47,Main,Satoshi and Go,0,0,0,,Wow!
 Dialogue: 10,0:21:22.05,0:21:24.48,Main,Go,0,0,0,,I really wanna be a member!
 Dialogue: 10,0:21:24.48,0:21:26.86,Main,Satoshi,0,0,0,,Yeah! And I’ll help you!
 Dialogue: 10,0:21:28.70,0:21:29.71,Main,Hodaka,0,0,0,,Okay...
-Dialogue: 10,0:21:29.71,0:21:34.26,Main,Hodaka,0,0,0,,While we head back to the base of Mount Tengan, \N shall we look over Regice’s data together?
+Dialogue: 10,0:21:29.71,0:21:34.26,Main,Hodaka,0,0,0,,While we head back to the base of Mt. Tengan, \N shall we look over Regice’s data together?
 Dialogue: 10,0:21:34.26,0:21:35.23,Main,Satoshi and Go,0,0,0,,Yeah!
 Dialogue: 10,0:21:36.01,0:21:39.25,Main,Narrator,0,0,0,,Go was finally able to become \N a Project Mew Challenger.
 Dialogue: 10,0:21:39.25,0:21:43.11,Main,Narrator,0,0,0,,His next task will be his first \N Trial Mission!
@@ -386,7 +386,7 @@ Dialogue: 10,0:23:25.50,0:23:27.84,Main,Go,0,0,0,,Huh? Where’s Sarunori?{18:21
 Dialogue: 10,0:23:28.43,0:23:30.34,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters:
 Dialogue: 10,0:23:30.34,0:23:33.89,Main,Go,0,0,0,,The Underground Maze Shuffle Panic?!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:02:45.52,0:02:53.03,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(300,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Mount Tengan, Sinnoh Region
+Dialogue: 0,0:02:45.52,0:02:53.03,Main,Text,0,0,0,,{\b0\fnHiraKakuProN-W6-Str\fs40\pos(300,600)\3c&H33312C&\c&HFFFFFF&\blur0.5}Mt. Tengan, Shin'ou Region
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:02:33.22,0:02:33.26,Logo - Fill,,0,0,0,,{=9}{\pos(138.24,-2.02)\fscx201.08\fscy201.08\fsp-40\1c&HD1931E&\blur2.42}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
 Dialogue: 1,0:02:33.26,0:02:33.30,Logo - Fill,,0,0,0,,{=9}{\pos(155.38,10.34)\fscx194.22\fscy194.22\fsp-40\1c&HD1931E&\blur2.32}P{\fsp-50}o{\fsp-53.33}c{\fsp-58.67}k{\fsp-53.33}e{\fsp-23.33}t{\fsp-40}M{\fsp-48}o{\fsp-50}n{\fsp-46.67}s{\fsp-53.33}t{\fsp-60}e{\fsp-52}rs
