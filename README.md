@@ -17,7 +17,7 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 	  - LikoRoy Channel  
   	  - Audio Dramas  
 	  - Pokémon GO Collab Short  
-  - Movies (M01)  
+  - Movies (1, 2, 3, 21, 22, 23)  
   - Mewtwo Saga  
   - Twilight Wings  
   - Pokétoon  
@@ -38,5 +38,5 @@ Here you can find up-to-date scripts for my fansubbing projects. Unless stated o
 * Evangelion 3.0+1.11 - Thrice Upon a Time (Only as unmuxed scripts for the time being)
 
 **Projects planned to be added eventually:**  
-* Pocket Monsters Movies (M02, M03, M21, M22, M23)  
+* Other Pocket Monsters miscellanea  
 * Futari wa Precure
