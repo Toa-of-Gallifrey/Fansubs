@@ -44,7 +44,7 @@ Dialogue: 10,0:02:25.38,0:02:26.46,Main,Satoshi,0,0,0,,Arceus!
 Dialogue: 10,0:02:26.46,0:02:29.42,Main,Satoshi,0,0,0,,We want to save Heatran!
 Dialogue: 10,0:02:29.42,0:02:31.09,Main,Satoshi,0,0,0,,Please help us!
 Dialogue: 10,0:02:31.09,0:02:33.34,Main,Go,0,0,0,,If that gigantic Heatran explodes,
-Dialogue: 10,0:02:33.34,0:02:36.01,Main,Go,0,0,0,,it’ll cause tons of damage to Sinnoh!{Literally "The Sinnoh region won't get away unscathed either!" -TL}
+Dialogue: 10,0:02:33.34,0:02:36.01,Main,Go,0,0,0,,it’ll cause tons of damage to Shin'ou!{Literally "The Shin'ou region won't get away unscathed either!" -TL}
 Dialogue: 10,0:02:36.01,0:02:37.97,Main,Hikari,0,0,0,,Please, Arceus!
 Dialogue: 10,0:03:02.75,0:03:04.25,Main,Satoshi,0,0,0,,Arceus...
 Dialogue: 10,0:03:08.04,0:03:09.13,Main,Shirona,0,0,0,,Everyone!
@@ -137,7 +137,7 @@ Dialogue: 10,0:13:08.10,0:13:09.10,Main,Satoshi,0,0,0,,You okay?
 Dialogue: 10,0:13:09.10,0:13:10.94,Main,Go,0,0,0,,You’re not hurt, are you?
 Dialogue: 10,0:13:20.86,0:13:22.53,Main,Satoshi,0,0,0,,Thank you, Arceus!
 Dialogue: 10,0:13:22.53,0:13:25.20,Main,Go,0,0,0,,We were able to save Heatran \N thanks to you!
-Dialogue: 10,0:13:26.91,0:13:31.67,Main,Hikari,0,0,0,,We saved Mount Tengan and the whole \N Sinnoh Region! Thank you, everyone!
+Dialogue: 10,0:13:26.91,0:13:31.67,Main,Hikari,0,0,0,,We saved Mt. Tengan and the whole \N Shin'ou Region! Thank you, everyone!
 Dialogue: 10,0:13:38.13,0:13:39.67,Main,Satoshi,0,0,0,,Arceus!
 Dialogue: 10,0:13:39.67,0:13:41.26,Main,Go,0,0,0,,You’re going already?
 Dialogue: 10,0:13:41.93,0:13:43.51,Main,Saturn,0,0,0,,Wait, Arceus!
@@ -160,7 +160,7 @@ Dialogue: 10,0:14:52.54,0:14:54.16,Main,Shirona,0,0,0,,The situation’s been re
 Dialogue: 10,0:14:54.16,0:14:57.46,Main,Shirona,0,0,0,,All thanks to some \N brave trainers and Pokémon.
 Dialogue: 10,0:14:57.46,0:14:59.34,Main,Takeshi,0,0,0,,Brave?!
 Dialogue: 10,0:14:59.71,0:15:00.67,Main,Shirona,0,0,0,,Excuse me?
-Dialogue: 10,0:15:01.38,0:15:05.34,Main,Takeshi,0,0,0,,Would you go on a Mount Tengan date \N with me to celebrate saving the—
+Dialogue: 10,0:15:01.38,0:15:05.34,Main,Takeshi,0,0,0,,Would you go on a Mt. Tengan date \N with me to celebrate saving the—
 Dialogue: 10,0:15:06.34,0:15:08.35,Main,Takeshi,0,0,0,,I feel numb...
 Dialogue: 10,0:15:09.72,0:15:11.68,Main,Hikari,0,0,0,,Haven’t seen {\i1}that{\i0} in a while...
 Dialogue: 10,0:15:11.68,0:15:13.68,Main,Go,0,0,0,,Is Mr. Takeshi{Honorifics note: Takeshi-san} all right?!
@@ -170,8 +170,8 @@ Dialogue: 10,0:15:25.82,0:15:26.86,Main,Hikari,0,0,0,,Satoshi!
 Dialogue: 10,0:15:26.86,0:15:27.74,Main,Satoshi,0,0,0,,Yeah!
 Dialogue: 10,0:15:33.12,0:15:37.12,Main,Narrator,0,0,0,,An assignment for the research fellows \N turned into an unexpected ordeal.
 Dialogue: 10,0:15:37.71,0:15:41.46,Main,Narrator,0,0,0,,Satoshi, Go, and all their friends...
-Dialogue: 10,0:15:41.46,0:15:45.97,Main,Narrator,0,0,0,,...were able to protect the Pokémon \N and the natural landscapes of Sinnoh.
-Dialogue: 10,0:16:23.88,0:16:25.42,Main,Narrator,0,0,0,,The Sinnoh Region...
+Dialogue: 10,0:15:41.46,0:15:45.97,Main,Narrator,0,0,0,,...were able to protect the Pokémon \N and the natural landscapes of Shin'ou.
+Dialogue: 10,0:16:23.88,0:16:25.42,Main,Narrator,0,0,0,,The Shin'ou Region...
 Dialogue: 10,0:16:25.96,0:16:28.18,Main,Narrator,0,0,0,,A vast world \N of legends and challenges...
 Dialogue: 10,0:16:28.18,0:16:31.47,Main,Narrator,0,0,0,,...where since ages past,
 Dialogue: 10,0:16:31.47,0:16:34.97,Main,Narrator,0,0,0,,the Creation Pokémon, Arceus, \N has galloped across the land.{Kaito Kid flies through the skyscrapers, Arceus gallops through the ground -TLC}
@@ -184,78 +184,78 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:12.03,0:00:15.04,Title - Glow,,0,0,0,,{\fad(1000, 0)\blur13\pos(941.33,952.34)}The Hallowed God, {\fnGrantham\fs100}Arceus
 Dialogue: 1,0:00:12.03,0:00:15.04,Title - Fill,,0,0,0,,{\fad(500, 0)\blur0.7\pos(941.33,952.34)}The Hallowed God, {\fnGrantham\fs100}Arceus
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 1,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur0.6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)}A Wondrous Radiance! The Legend of Sinnoh!
-Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)\clip(182.47,360,1735.33,429.61)}A Wondrous Radiance! The Legend of Sinnoh!
-Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FEDE1&\pos(960,430)}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,360,1735,361)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,361,1735,362)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9DDF85&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,362,1735,363)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9CDF86&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,363,1735,364)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9BDF88&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,364,1735,365)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9ADF89&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,365,1735,366)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H99E08A&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,366,1735,367)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H98E08C&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,367,1735,368)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H97E08D&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,368,1735,369)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H96E08E&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,369,1735,370)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H95E090&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,370,1735,371)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H94E191&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,371,1735,372)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H93E192&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,372,1735,373)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H93E194&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,373,1735,374)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H92E195&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,374,1735,375)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H91E196&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,375,1735,376)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H90E298&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,376,1735,377)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8FE299&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,377,1735,378)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8EE29A&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,378,1735,379)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8DE29C&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,379,1735,380)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8CE29D&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,380,1735,381)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8BE39E&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,381,1735,382)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8AE3A0&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,382,1735,383)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H89E3A1&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,383,1735,384)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H89E3A3&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,384,1735,385)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H88E3A4&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,385,1735,386)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H87E4A5&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,386,1735,387)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H86E4A7&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,387,1735,388)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H85E4A8&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,388,1735,389)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H84E4A9&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,389,1735,390)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H83E4AB&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,390,1735,391)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H82E5AC&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,391,1735,392)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H81E5AD&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,392,1735,393)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H80E5AF&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,393,1735,394)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7FE5B0&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,394,1735,395)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7EE5B1&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,395,1735,396)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7EE6B3&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,396,1735,397)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7DE6B4&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,397,1735,398)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7CE6B5&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,398,1735,399)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7BE6B7&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,399,1735,400)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7AE6B8&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,400,1735,401)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H79E7B9&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,401,1735,402)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H78E7BB&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,402,1735,403)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H77E7BC&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,403,1735,404)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H76E7BD&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,404,1735,405)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H75E7BF&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,405,1735,406)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H74E8C0&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,406,1735,407)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H74E8C2&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,407,1735,408)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H73E8C3&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,408,1735,409)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H72E8C4&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,409,1735,410)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H71E8C6&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,410,1735,411)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H70E9C7&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,411,1735,412)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6FE9C8&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,412,1735,413)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6EE9CA&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,413,1735,414)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6DE9CB&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,414,1735,415)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6CE9CC&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,415,1735,416)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6BEACE&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,416,1735,417)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6AEACF&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,417,1735,418)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H69EAD0&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,418,1735,419)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H69EAD2&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,419,1735,420)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H68EAD3&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,420,1735,421)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H67EBD4&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,421,1735,422)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H66EBD6&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,422,1735,423)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H65EBD7&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,423,1735,424)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H64EBD8&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,424,1735,425)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H63EBDA&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,425,1735,426)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H62ECDB&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,426,1735,427)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H61ECDC&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,427,1735,428)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H60ECDE&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,428,1735,429)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FECDF&}A Wondrous Radiance! The Legend of Sinnoh!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,429,1735,430)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FEDE1&}A Wondrous Radiance! The Legend of Sinnoh!
+Dialogue: 0,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 1,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur0.6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)}A Wondrous Radiance! The Legend of Shin'ou!
+Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&\pos(960,430)\clip(182.47,360,1735.33,429.61)}A Wondrous Radiance! The Legend of Shin'ou!
+Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FEDE1&\pos(960,430)}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,360,1735,361)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9EDF84&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,361,1735,362)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9DDF85&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,362,1735,363)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9CDF86&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,363,1735,364)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9BDF88&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,364,1735,365)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H9ADF89&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,365,1735,366)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H99E08A&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,366,1735,367)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H98E08C&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,367,1735,368)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H97E08D&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,368,1735,369)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H96E08E&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,369,1735,370)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H95E090&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,370,1735,371)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H94E191&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,371,1735,372)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H93E192&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,372,1735,373)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H93E194&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,373,1735,374)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H92E195&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,374,1735,375)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H91E196&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,375,1735,376)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H90E298&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,376,1735,377)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8FE299&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,377,1735,378)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8EE29A&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,378,1735,379)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8DE29C&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,379,1735,380)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8CE29D&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,380,1735,381)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8BE39E&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,381,1735,382)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H8AE3A0&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,382,1735,383)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H89E3A1&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,383,1735,384)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H89E3A3&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,384,1735,385)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H88E3A4&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,385,1735,386)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H87E4A5&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,386,1735,387)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H86E4A7&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,387,1735,388)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H85E4A8&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,388,1735,389)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H84E4A9&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,389,1735,390)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H83E4AB&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,390,1735,391)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H82E5AC&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,391,1735,392)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H81E5AD&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,392,1735,393)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H80E5AF&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,393,1735,394)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7FE5B0&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,394,1735,395)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7EE5B1&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,395,1735,396)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7EE6B3&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,396,1735,397)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7DE6B4&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,397,1735,398)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7CE6B5&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,398,1735,399)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7BE6B7&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,399,1735,400)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H7AE6B8&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,400,1735,401)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H79E7B9&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,401,1735,402)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H78E7BB&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,402,1735,403)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H77E7BC&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,403,1735,404)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H76E7BD&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,404,1735,405)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H75E7BF&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,405,1735,406)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H74E8C0&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,406,1735,407)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H74E8C2&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,407,1735,408)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H73E8C3&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,408,1735,409)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H72E8C4&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,409,1735,410)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H71E8C6&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,410,1735,411)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H70E9C7&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,411,1735,412)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6FE9C8&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,412,1735,413)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6EE9CA&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,413,1735,414)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6DE9CB&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,414,1735,415)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6CE9CC&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,415,1735,416)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6BEACE&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,416,1735,417)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H6AEACF&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,417,1735,418)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H69EAD0&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,418,1735,419)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H69EAD2&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,419,1735,420)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H68EAD3&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,420,1735,421)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H67EBD4&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,421,1735,422)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H66EBD6&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,422,1735,423)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H65EBD7&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,423,1735,424)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H64EBD8&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,424,1735,425)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H63EBDA&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,425,1735,426)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H62ECDB&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,426,1735,427)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H61ECDC&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,427,1735,428)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H60ECDE&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,428,1735,429)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FECDF&}A Wondrous Radiance! The Legend of Shin'ou!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(182,429,1735,430)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H5FEDE1&}A Wondrous Radiance! The Legend of Shin'ou!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,

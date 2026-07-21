@@ -43,8 +43,8 @@ Dialogue: 10,0:00:41.52,0:00:47.15,Main,Narrator,0,0,120,,Among all these Pokém
 Dialogue: 10,0:00:49.20,0:00:50.36,Main,Narrator,0,0,0,,Arceus.
 Dialogue: 10,0:00:51.32,0:00:56.87,Main,Narrator,0,0,0,,{\an8\fad(0, 350)}Today, as always, Arceus continues to \N watch over people and Pokémon alike.
 Comment: 10,0:01:02.67,0:01:02.67,Main,,0,0,0,,{Episode 1}
-Dialogue: 10,0:01:05.96,0:01:13.64,Main,Narrator,0,0,0,,{\an8}Satoshi and Go have arrived at Sinnoh’s Mio City, \N where the legend of Arceus is passed down.
-Dialogue: 10,0:01:14.10,0:01:21.89,Main,Narrator,0,0,0,,Their objective is to investigate and experience \N the ancient Sinnoh lifestyle as research fellows.
+Dialogue: 10,0:01:05.96,0:01:13.64,Main,Narrator,0,0,0,,{\an8}Satoshi and Go have arrived at Shin'ou’s Mio City, \N where the legend of Arceus is passed down.
+Dialogue: 10,0:01:14.10,0:01:21.89,Main,Narrator,0,0,0,,Their objective is to investigate and experience \N the ancient Shin'ou lifestyle as research fellows.
 Dialogue: 10,0:01:27.36,0:01:30.82,Main,Go,0,0,0,,Apparently they’ve recreated \N the way the streets used to look.
 Dialogue: 10,0:01:30.82,0:01:32.78,Main,Satoshi,0,0,0,,It’s like we jumped \N into a movie! {a movie would be much more preferable than this --Puto}
 Dialogue: 10,0:01:32.78,0:01:34.78,Main,Satoshi,0,0,0,,Research like this \N is a nice change of pace.
@@ -68,7 +68,7 @@ Dialogue: 10,0:02:30.55,0:02:32.47,Main,Hikari,0,0,0,,You can rent them here.
 Dialogue: 10,0:02:33.30,0:02:34.51,Main,Shirona,0,0,0,,Oh?
 Dialogue: 10,0:02:34.51,0:02:36.72,Main,Shirona,0,0,0,,Hello, Satoshi, Go!
 Dialogue: 10,0:02:37.60,0:02:38.72,Main,Go,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}?!
-Dialogue: 10,0:02:39.85,0:02:45.44,Main,Hikari,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}’s been helping out a ton \N with the Sinnoh Fest this year!
+Dialogue: 10,0:02:39.85,0:02:45.44,Main,Hikari,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}’s been helping out a ton \N with the Shin'ou Fest this year!
 Dialogue: 10,0:02:45.44,0:02:47.77,Main,Shirona,0,0,0,,Are you here for research?
 Dialogue: 10,0:02:47.77,0:02:48.31,Main,Satoshi & Go,0,0,0,,Yup!
 Dialogue: 10,0:02:48.31,0:02:51.32,Main,Shirona,0,0,0,,The museum should be \N a real help to you, then!
@@ -86,7 +86,7 @@ Dialogue: 10,0:03:43.16,0:03:43.91,Main,Saturn,0,0,0,,Do it!
 Dialogue: 10,0:03:57.51,0:03:58.76,Main,Saturn,0,0,0,,Dig!
 Dialogue: 10,0:04:23.16,0:04:25.91,Main,Saturn,0,0,0,,G-1 calling G-2. \N Capture complete.
 Dialogue: 10,0:04:25.91,0:04:28.83,Main,Mars,0,0,0,,This is G-2. Roger that. \N Return to base.
-Dialogue: 10,0:04:37.63,0:04:40.09,Main,Hikari,0,0,0,,That’s Mount Tengan, right?
+Dialogue: 10,0:04:37.63,0:04:40.09,Main,Hikari,0,0,0,,That’s Mt. Tengan, right?
 Dialogue: 10,0:04:40.09,0:04:41.09,Main,Shirona,0,0,0,,Yes.
 Dialogue: 10,0:04:41.09,0:04:48.89,Main,Shirona,0,0,0,,It’s believed that the harsh wilderness \N even affected the biology of the native Pokémon.
 Dialogue: 10,0:04:48.89,0:04:50.85,Main,Shirona,0,0,0,,Here. \N Look at this painting.
@@ -124,7 +124,7 @@ Dialogue: 10,0:06:46.30,0:06:49.18,Main,Go,0,0,0,,And Mokuroh comes from \N the 
 Dialogue: 10,0:06:49.18,0:06:52.14,Main,Hikari,0,0,0,,Why are they here, \N Ms. Shirona{Honorifics note: Shirona-san}?
 Dialogue: 10,0:06:52.14,0:06:59.19,Main,Shirona,0,0,0,,Historical records show that these three \N were brought here from other regions.
 Dialogue: 10,0:06:59.19,0:07:00.90,Main,Go,0,0,0,,Wow, you’re right.
-Dialogue: 10,0:07:01.48,0:07:06.49,Main,Shirona,0,0,0,,I wanted to study the influence foreign Pokémon \N might have on Sinnoh’s ecosystem,
+Dialogue: 10,0:07:01.48,0:07:06.49,Main,Shirona,0,0,0,,I wanted to study the influence foreign Pokémon \N might have on Shin'ou’s ecosystem,
 Dialogue: 10,0:07:06.91,0:07:09.24,Main,Shirona,0,0,0,,so I’m having these three \N help me out.
 Dialogue: 10,0:07:09.24,0:07:10.28,Main,Satoshi,0,0,0,,I see.
 Dialogue: 10,0:07:11.54,0:07:15.04,Main,Shirona,0,0,0,,{Original: That being said}Without further ado, the Pokémon Catching \N Experience Corner entails...
@@ -189,7 +189,7 @@ Dialogue: 10,0:11:23.95,0:11:25.37,Main,Satoshi,0,0,0,,Been waitin’ for this!
 Dialogue: 10,0:11:25.37,0:11:28.00,Main,Go,0,0,0,,Guess the race \N ended in a tie...
 Dialogue: 10,0:11:28.00,0:11:29.71,Main,Hikari,0,0,0,,Nobody gets to take them all.
 Dialogue: 10,0:11:30.42,0:11:31.71,Main,Shirona,0,0,0,,Here you go.
-Dialogue: 10,0:11:32.96,0:11:36.97,Main,Shirona,0,0,0,,“A History of Space-Time in Sinnoh,” \N compiled by yours truly!
+Dialogue: 10,0:11:32.96,0:11:36.97,Main,Shirona,0,0,0,,“A History of Space-Time in Shin'ou,” \N compiled by yours truly!
 Dialogue: 10,0:11:38.43,0:11:42.47,Main,Go,0,0,0,,Amazing! \N Thank you so much!
 Dialogue: 10,0:12:02.79,0:12:03.87,Main,Jupiter,0,0,0,,Do you have Heatran? {Feel free to ask for re-edits for any of the admins if I messed up their personalities. - Toa}
 Dialogue: 10,0:12:06.91,0:12:08.17,Main,Mars,0,0,0,,Great!
@@ -220,7 +220,7 @@ Comment: 0,0:15:03.44,0:15:03.44,Main,,0,0,0,,{Ending}
 Comment: 0,0:15:59.44,0:15:59.44,Main,,0,0,0,,{Preview}
 Comment: 2,0:15:59.44,0:16:02.17,Main,Satoshi & Go,0,0,0,,Next time: Heatran’s Explosive Advance!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:01:03.08,0:01:09.01,Main,Text,0,0,0,,{\fad(510, 510)\b0\fnヒラギノ角ゴ ProN W6\blur0.75\c&HFFFFFF&\fs70\pos(712.5,930)\3c&H33312C&\bord3}Satoshi and Go! Let's Go to the Sinnoh Fest!!
+Dialogue: 0,0:01:03.08,0:01:09.01,Main,Text,0,0,0,,{\fad(510, 510)\b0\fnヒラギノ角ゴ ProN W6\blur0.75\c&HFFFFFF&\fs70\pos(712.5,930)\3c&H33312C&\bord3}Satoshi and Go! Let's Go to the Shin'ou Fest!!
 Dialogue: 0,0:03:38.61,0:03:41.20,Main,Text,0,0,0,,{\fad(510, 0)\b0\fnヒラギノ角ゴ ProN W6\blur0.75\c&HFFFFFF&\fs70\pos(960,900)\3c&H33312C&\bord4.5}Saturn, Team Galactic Commander
 Dialogue: 0,0:11:55.78,0:11:58.41,Main,Text,0,0,0,,{\fad(1000, 0)\b0\fnヒラギノ角ゴ ProN W6\blur0.75\c&HFFFFFF&\fs70\pos(940,900)\3c&H33312C&\bord4.5}Mars, Team Galactic Commander
 Dialogue: 0,0:11:59.37,0:12:01.99,Main,Text,0,0,0,,{\fad(1000, 0)\b0\fnヒラギノ角ゴ ProN W6\blur0.75\c&HFFFFFF&\fs70\pos(980,900)\3c&H33312C&\bord4.5}Jupiter, Team Galactic Commander

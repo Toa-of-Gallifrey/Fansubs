@@ -33,8 +33,8 @@ Style: Title - Glow,Garamond Premr Pro Smbd Capt,105,&H00FFFFFF,&H00F5FEF5,&H00F
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{Opening}
 Comment: 10,0:00:41.52,0:00:41.52,Main,,0,0,0,,{Episode 3}
-Dialogue: 10,0:01:48.30,0:01:52.13,Main,Announcer,0,0,0,,A drastic increase in temperature \N has been observed in the Mount Tengan area.
-Dialogue: 10,0:01:52.13,0:01:54.47,Main,Announcer,0,0,0,,According to \N the Sinnoh Meteorological Observatory,
+Dialogue: 10,0:01:48.30,0:01:52.13,Main,Announcer,0,0,0,,A drastic increase in temperature \N has been observed in the Mt. Tengan area.
+Dialogue: 10,0:01:52.13,0:01:54.47,Main,Announcer,0,0,0,,According to \N the Shin'ou Meteorological Observatory,
 Dialogue: 10,0:01:54.47,0:01:58.10,Main,Announcer,0,0,0,,the wildfire seen in these images \N was determined as the cause.
 Dialogue: 10,0:02:08.52,0:02:10.36,Main,Hikari,0,0,0,,It’s so hot...!
 Dialogue: 10,0:02:10.36,0:02:12.74,Main,Go,0,0,0,,What is going on \N with that Heatran?!
@@ -140,11 +140,11 @@ Dialogue: 10,0:10:26.19,0:10:26.94,Main,Mars,0,0,0,,What?!
 Dialogue: 10,0:10:26.94,0:10:28.11,Main,Jupiter,0,0,0,,Gaburias?!
 Dialogue: 10,0:10:28.11,0:10:28.94,Main,Saturn,0,0,0,,It couldn’t be...!
 Dialogue: 10,0:10:32.28,0:10:33.57,Main,Takeshi,0,0,0,,Ms. Shirona{Honorifics note: Shirona-san}!
-Dialogue: 10,0:10:35.66,0:10:37.37,Main,Mars,0,0,0,,The Champion of Sinnoh?!
+Dialogue: 10,0:10:35.66,0:10:37.37,Main,Mars,0,0,0,,The Champion of Shin'ou?!
 Dialogue: 10,0:10:37.37,0:10:39.66,Main,Jupiter,0,0,0,,Another bother.
 Dialogue: 10,0:10:42.00,0:10:44.42,Main,Shirona,0,0,0,,Ms. Junsa{Honorifics note: Junsa-san}. \N It really was Team Galactic.
 Dialogue: 10,0:10:44.42,0:10:47.33,Main,Junsa,0,0,0,,Indeed. \N This time, they won’t get away!
-Dialogue: 10,0:10:47.33,0:10:49.71,Main,Junsa,0,0,0,,The Sinnoh Police \N will be here shortly.
+Dialogue: 10,0:10:47.33,0:10:49.71,Main,Junsa,0,0,0,,The Shin'ou Police \N will be here shortly.
 Dialogue: 10,0:10:49.71,0:10:51.42,Main,Junsa,0,0,0,,Keep us posted \N on any developments.
 Dialogue: 10,0:10:54.97,0:10:59.01,Main,Shirona,0,0,0,,Takeshi. \N Take my Gaburias to Satoshi and the others.{Gah the end of this sentence is UTTERLY INAUDIBLE. -TL}
 Dialogue: 10,0:10:59.51,0:11:01.64,Main,Shirona,0,0,0,,I will deal with Team Galactic.
@@ -188,7 +188,7 @@ Dialogue: 10,0:14:45.82,0:14:47.41,Main,Satoshi,0,0,0,,It’s getting bigger!
 Dialogue: 10,0:14:47.41,0:14:48.66,Main,Hikari,0,0,0,,And it’s changing shape...
 Dialogue: 10,0:14:51.20,0:14:54.87,Main,Go,0,0,0,,Could it have taken energy \N from the space-time gate?
 Dialogue: 10,0:14:54.87,0:15:00.46,Main,Takeshi,0,0,0,,Yeah. Soaking up that energy \N probably amplified the pressure inside it.
-Dialogue: 10,0:15:01.46,0:15:07.39,Main,Takeshi,0,0,0,,Left like this, it could cause an explosion \N strong enough to blow away Mount Tengan.
+Dialogue: 10,0:15:01.46,0:15:07.39,Main,Takeshi,0,0,0,,Left like this, it could cause an explosion \N strong enough to blow away Mt. Tengan.
 Dialogue: 10,0:15:08.43,0:15:11.89,Main,Takeshi,0,0,0,,That would obliterate Heatran instantly, \N and us along with it.
 Dialogue: 10,0:15:16.40,0:15:19.36,Main,Saturn,0,0,0,,We must go \N and meet Leader Akagi!{omukae ni agaru is just a super-polite 'meet' -TLC}
 Dialogue: 10,0:15:20.69,0:15:22.82,Main,Jupiter,0,0,0,,Skutank! Smokescreen!
@@ -199,7 +199,7 @@ Dialogue: 10,0:16:00.23,0:16:01.90,Main,Satoshi & Hikari,0,0,0,,Arceus!
 Dialogue: 10,0:16:01.90,0:16:03.23,Main,Go,0,0,0,,That’s Arceus?!
 Comment: 0,0:16:33.47,0:16:33.47,Main,,0,0,0,,{Ending}
 Comment: 0,0:17:29.53,0:17:29.53,Main,,0,0,0,,{Preview}
-Comment: 0,0:17:29.53,0:17:33.97,Main,Satoshi & Go,0,0,0,,Next time: A Wondrous Radiance! The Legend of Sinnoh!
+Comment: 0,0:17:29.53,0:17:33.97,Main,Satoshi & Go,0,0,0,,Next time: A Wondrous Radiance! The Legend of Shin'ou!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:12.03,0:00:15.04,Logo - Glow,,0,0,0,,{\fad(1000,0)\fsp-60\blur13.5\pos(621.33,286.67)}P{\fsp-75}o{\fsp-79.995}c{\fsp-88.005}k{\fsp-79.995}e{\fsp-34.995}t{\fsp-60}M{\fsp-72}o{\fsp-75}n{\fsp-70.005}s{\fsp-79.995}t{\fsp-90}e{\fsp-78}rs
 Dialogue: 1,0:00:12.03,0:00:15.04,Logo - Fill,,0,0,0,,{\fad(1000,0)\fsp-60\blur1.125\pos(621.33,286.67)}P{\fsp-75}o{\fsp-79.995}c{\fsp-88.005}k{\fsp-79.995}e{\fsp-34.995}t{\fsp-60}M{\fsp-72}o{\fsp-75}n{\fsp-70.005}s{\fsp-79.995}t{\fsp-90}e{\fsp-78}rs
@@ -208,85 +208,85 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:00:12.03,0:00:15.04,Title - Glow,,0,0,0,,{\fad(1000, 0)\blur13\pos(941.33,952.34)}The Hallowed God, {\fnGrantham\fs100}Arceus
 Dialogue: 1,0:00:12.03,0:00:15.04,Title - Fill,,0,0,0,,{\fad(500, 0)\blur0.7\pos(941.33,952.34)}The Hallowed God, {\fnGrantham\fs100}Arceus
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)}The Heated Battle of Mount Tengan!!
-Dialogue: 1,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur0.6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)}The Heated Battle of Mount Tengan!!
-Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)\clip(333,360,1586,429.42)}The Heated Battle of Mount Tengan!!
-Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338FEA&\pos(960,430)}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,360,1586,361)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,361,1586,362)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4766FA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,362,1586,363)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4767FA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,363,1586,364)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4767FA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,364,1586,365)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4668FA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,365,1586,366)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4668F9&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,366,1586,367)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4669F9&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,367,1586,368)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456AF9&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,368,1586,369)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456AF9&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,369,1586,370)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456BF8&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,370,1586,371)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446BF8&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,371,1586,372)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446CF8&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,372,1586,373)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446DF8&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,373,1586,374)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446DF7&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,374,1586,375)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436EF7&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,375,1586,376)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436EF7&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,376,1586,377)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436FF7&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,377,1586,378)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4270F6&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,378,1586,379)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4270F6&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,379,1586,380)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4271F6&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,380,1586,381)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4171F6&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,381,1586,382)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4172F5&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,382,1586,383)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4173F5&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,383,1586,384)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4173F5&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,384,1586,385)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4074F5&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,385,1586,386)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4074F4&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,386,1586,387)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4075F4&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,387,1586,388)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F76F4&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,388,1586,389)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F76F4&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,389,1586,390)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F77F3&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,390,1586,391)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E77F3&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,391,1586,392)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E78F3&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,392,1586,393)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E79F3&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,393,1586,394)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D79F2&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,394,1586,395)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7AF2&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,395,1586,396)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7AF2&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,396,1586,397)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7BF2&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,397,1586,398)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7BF1&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,398,1586,399)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7CF1&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,399,1586,400)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7DF1&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,400,1586,401)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7DF1&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,401,1586,402)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7EF0&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,402,1586,403)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7EF0&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,403,1586,404)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A7FF0&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,404,1586,405)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A80F0&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,405,1586,406)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A80EF&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,406,1586,407)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A81EF&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,407,1586,408)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3981EF&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,408,1586,409)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3982EF&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,409,1586,410)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3983EE&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,410,1586,411)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3883EE&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,411,1586,412)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3884EE&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,412,1586,413)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3884EE&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,413,1586,414)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3785ED&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,414,1586,415)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3786ED&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,415,1586,416)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3786ED&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,416,1586,417)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3687ED&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,417,1586,418)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3687EC&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,418,1586,419)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3688EC&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,419,1586,420)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3689EC&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,420,1586,421)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3589EC&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,421,1586,422)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H358AEB&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,422,1586,423)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H358AEB&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,423,1586,424)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348BEB&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,424,1586,425)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348CEB&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,425,1586,426)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348CEA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,426,1586,427)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338DEA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,427,1586,428)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338DEA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,428,1586,429)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338EEA&}The Heated Battle of Mount Tengan!!
-Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,429,1586,430)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338FEA&}The Heated Battle of Mount Tengan!!
+Dialogue: 0,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)}The Heated Battle of Mt. Tengan!!
+Dialogue: 1,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\1a&HFF&\blur0.6\fad(380, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)}The Heated Battle of Mt. Tengan!!
+Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&\pos(960,430)\clip(333,360,1586,429.42)}The Heated Battle of Mt. Tengan!!
+Comment: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\bord0\blur0.6\fad(340, 0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338FEA&\pos(960,430)}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,360,1586,361)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4866FB&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,361,1586,362)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4766FA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,362,1586,363)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4767FA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,363,1586,364)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4767FA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,364,1586,365)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4668FA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,365,1586,366)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4668F9&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,366,1586,367)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4669F9&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,367,1586,368)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456AF9&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,368,1586,369)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456AF9&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,369,1586,370)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H456BF8&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,370,1586,371)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446BF8&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,371,1586,372)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446CF8&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,372,1586,373)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446DF8&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,373,1586,374)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H446DF7&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,374,1586,375)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436EF7&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,375,1586,376)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436EF7&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,376,1586,377)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H436FF7&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,377,1586,378)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4270F6&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,378,1586,379)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4270F6&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,379,1586,380)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4271F6&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,380,1586,381)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4171F6&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,381,1586,382)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4172F5&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,382,1586,383)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4173F5&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,383,1586,384)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4173F5&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,384,1586,385)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4074F5&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,385,1586,386)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4074F4&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,386,1586,387)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H4075F4&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,387,1586,388)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F76F4&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,388,1586,389)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F76F4&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,389,1586,390)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3F77F3&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,390,1586,391)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E77F3&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,391,1586,392)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E78F3&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,392,1586,393)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3E79F3&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,393,1586,394)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D79F2&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,394,1586,395)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7AF2&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,395,1586,396)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7AF2&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,396,1586,397)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3D7BF2&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,397,1586,398)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7BF1&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,398,1586,399)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7CF1&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,399,1586,400)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3C7DF1&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,400,1586,401)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7DF1&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,401,1586,402)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7EF0&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,402,1586,403)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3B7EF0&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,403,1586,404)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A7FF0&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,404,1586,405)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A80F0&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,405,1586,406)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A80EF&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,406,1586,407)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3A81EF&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,407,1586,408)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3981EF&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,408,1586,409)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3982EF&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,409,1586,410)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3983EE&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,410,1586,411)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3883EE&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,411,1586,412)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3884EE&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,412,1586,413)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3884EE&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,413,1586,414)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3785ED&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,414,1586,415)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3786ED&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,415,1586,416)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3786ED&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,416,1586,417)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3687ED&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,417,1586,418)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3687EC&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,418,1586,419)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3688EC&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,419,1586,420)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3689EC&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,420,1586,421)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H3589EC&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,421,1586,422)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H358AEB&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,422,1586,423)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H358AEB&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,423,1586,424)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348BEB&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,424,1586,425)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348CEB&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,425,1586,426)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H348CEA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,426,1586,427)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338DEA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,427,1586,428)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338DEA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,428,1586,429)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338EEA&}The Heated Battle of Mt. Tengan!!
+Dialogue: 2,0:00:38.31,0:00:41.52,Main,,0,0,0,,{\clip(333,429,1586,430)\pos(960,430)\bord0\blur0.6\fad(340,0)\b0\fnヒラギノ角ゴ ProN W6\3c&HFFFFFB&\c&H338FEA&}The Heated Battle of Mt. Tengan!!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:17:29.53,0:17:34.53,Main,,0,0,0,,{\an7\bord0\blur3\pos(0,0)\p1\c&H000000&}m 0 0 m 0 0 l 1920 0 l 1920 1080 l 0 1080 {\p0}
 Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\fs125\pos(45,45)\blur0.7}NEXT TIME
 Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\fs170\an5\pos(940, 490)\blur0.7}A WONDROUS RADIANCE
 Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\frz340\fs200\blur0.7\pos(1864.33,381.33)}!
-Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\fs170\an5\pos(930,730)\blur0.7}THE LEGEND OF SINNOH
+Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\fs170\an5\pos(930,730)\blur0.7}THE LEGEND OF SHIN'OU
 Dialogue: 1,0:17:29.53,0:17:34.53,NEP,,0,0,0,,{\frz340\fs200\blur0.7\pos(1830.67,618.67)}!
 Comment: 0,0:17:29.53,0:17:34.53,Main,,0,0,0,,
