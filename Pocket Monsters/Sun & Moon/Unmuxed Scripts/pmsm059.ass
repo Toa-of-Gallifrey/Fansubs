@@ -219,13 +219,13 @@ Dialogue: 10,0:07:02.66,0:07:03.98,Main,Suiren,0,0,0,,All right!
 Dialogue: 10,0:07:15.49,0:07:17.35,Main,Mao,0,0,0,,Aburibbon!
 Dialogue: 10,0:07:20.34,0:07:21.11,Main,Suiren,0,0,0,,This?
 Dialogue: 10,0:07:25.25,0:07:27.36,Main,Mao,0,0,0,,It looks great on you!
-Dialogue: 10,0:07:36.01,0:07:38.07,Main,Mao,0,0,0,,Pollen Puffs!
+Dialogue: 10,0:07:36.01,0:07:38.07,Main,Mao,0,0,0,,Pollen Dumplings!
 Dialogue: 10,0:07:38.07,0:07:38.73,Main,Suiren,0,0,0,,Pollen?
 Dialogue: 10,0:07:38.73,0:07:42.32,Main,Mao,0,0,0,,They’re delicious! \N Let’s have some!
 Dialogue: 10,0:07:42.32,0:07:43.34,Main,Suiren,0,0,0,,Sure.
 Dialogue: 10,0:07:46.12,0:07:48.15,Main,Them,0,0,0,,So sweet!
 Dialogue: 10,0:07:48.15,0:07:50.39,Main,Mao,0,0,0,,Delicious, right?
-Dialogue: 10,0:08:01.71,0:08:04.67,Main,Satoshi,0,0,0,,I see, so you guys bonded \N over Pollen Puffs.
+Dialogue: 10,0:08:01.71,0:08:04.67,Main,Satoshi,0,0,0,,I see, so you guys bonded \N over Pollen Dumplings.
 Dialogue: 10,0:08:05.05,0:08:06.67,Main,Satoshi,0,0,0,,I’d like to try some too.
 Dialogue: 10,0:08:06.67,0:08:08.61,Main,Suiren,0,0,0,,They taste amazing. {Pluralized the line. - Toa}
 Dialogue: 10,0:08:10.89,0:08:13.27,Main,Nyarth,0,0,0,,Nice, meow. \N Sounds delicious, meow.
@@ -233,7 +233,7 @@ Dialogue: 10,0:08:13.27,0:08:15.44,Main,Musashi,0,0,0,,I wanna have some, too...
 Dialogue: 10,0:08:15.44,0:08:16.77,Main,Kojiro,0,0,0,,Let’s see...
 Dialogue: 10,0:08:16.77,0:08:20.31,Main,Kojiro,0,0,0,,Seems like it’s nutritious and \N really, really good for you.
 Dialogue: 10,0:08:20.31,0:08:21.93,Main,Musashi,0,0,0,,All right!
-Dialogue: 10,0:08:22.53,0:08:26.19,Main,Musashi,0,0,0,,Hey, you! \N Give me one of those Pollen Puffs!
+Dialogue: 10,0:08:22.53,0:08:26.19,Main,Musashi,0,0,0,,Hey, you! \N Give me one of those Pollen Dumplings!
 Dialogue: 10,0:08:31.08,0:08:32.57,Main,Musashi,0,0,0,,Thank you!
 Dialogue: 10,0:08:33.00,0:08:35.41,Main,Musashi,0,0,0,,All right! I got a snack!
 Dialogue: 10,0:08:35.41,0:08:36.83,Main,Nyarth,0,0,0,,Oh, nice, meow.

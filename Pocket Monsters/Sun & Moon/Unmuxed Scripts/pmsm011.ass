@@ -36,7 +36,7 @@ Style: Insert,Candara,40,&H00FFFFFF,&H00F5FEF5,&H00000000,&H00000000,-1,0,0,0,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(437,75)}Malasada Doughnuts
 Dialogue: 0,0:00:07.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(875,75)}Alola Pancakes
-Dialogue: 0,0:00:07.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(420,345)}Mitsuhoney Honey
+Dialogue: 0,0:00:07.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(420,345)}Mitsuhoney Honeymitsu
 Dialogue: 0,0:00:07.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\3c&HFAFAFA&\pos(860,345)}Ice Cream
 Comment: 0,0:00:00.02,0:00:00.02,Main,,0,0,0,,
 Dialogue: 1,0:03:47.49,0:03:53.12,OP,,0,0,0,,{\fad(400,0)} “I’m Satoshi from Masara Town! My dream is to be a Pokémon Master!”

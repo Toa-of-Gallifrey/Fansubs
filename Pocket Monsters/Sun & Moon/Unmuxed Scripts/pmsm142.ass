@@ -75,7 +75,7 @@ Dialogue: 10,0:04:07.39,0:04:08.69,Main,Kukui,0,0,0,,He withstood it?!
 Dialogue: 10,0:04:09.52,0:04:10.69,Main,Kukui,0,0,0,,I should have guessed!{SASUGA. -Starfish}
 Dialogue: 10,0:04:10.69,0:04:12.06,Main,Satoshi,0,0,0,,Stone Edge!
 Dialogue: 10,0:04:16.53,0:04:17.78,Main,Kukui,0,0,0,,Steel Wing!
-Dialogue: 10,0:04:29.25,0:04:31.00,Main,Kukui,0,0,0,check move name,Superpower{bakajikara / ばかぢから}!
+Dialogue: 10,0:04:29.25,0:04:31.00,Main,Kukui,0,0,0,,Brute Force{bakajikara / ばかぢから}!
 Dialogue: 10,0:04:37.09,0:04:38.59,Main,Satoshi,0,0,0,,Lugarugan!
 Dialogue: 10,0:04:59.32,0:05:01.53,Main,Hala,0,0,0,,Lugarugan is unable to battle!
 Dialogue: 10,0:05:08.79,0:05:11.54,Main,Kaki,0,0,0,,The first one to suffer a knockout \N was Satoshi!
@@ -88,7 +88,7 @@ Dialogue: 10,0:05:41.99,0:05:43.07,Main,Kukui,0,0,0,,Steel Wing!
 Dialogue: 10,0:05:47.62,0:05:48.87,Main,Satoshi,0,0,0,,Go!
 Dialogue: 10,0:05:51.66,0:05:54.25,Main,Kukui,0,0,0,,An aerial battle, huh? \N Very well!
 Dialogue: 10,0:05:54.25,0:05:55.42,Main,Kukui,0,0,0,,After him, Warrgle!
-Dialogue: 10,0:05:57.38,0:06:01.80,Main,Jeekyo,0,0,0,,Warrgle chases after Mokuroh \N while maintaining its Steel Wings!
+Dialogue: 10,0:05:57.38,0:06:01.80,Main,Jeekyo,0,0,0,,Warrgle chases after Mokuroh \N while maintaining its Steel Wing!
 Dialogue: 10,0:06:01.80,0:06:03.01,Main,Satoshi,0,0,0,,Here they come...
 Dialogue: 10,0:06:03.01,0:06:03.80,Main,Satoshi,0,0,0,,Seed Bomb!
 Dialogue: 10,0:06:14.85,0:06:16.86,Main,Satoshi,0,0,0,,Keep using Seed Bomb!
@@ -98,7 +98,7 @@ Dialogue: 10,0:06:43.80,0:06:45.68,Main,Suiren,0,0,0,,Fatal Moku Bomb!{Yes it is
 Dialogue: 10,0:06:45.68,0:06:47.68,Main,Mao,0,0,0,,You got this, Mokuroh!
 Dialogue: 10,0:06:53.35,0:06:54.31,Main,Satoshi,0,0,0,,Oh, no!
 Dialogue: 10,0:06:54.31,0:06:56.73,Main,Jeekyo,0,0,0,,Steel Wing makes contact at last!
-Dialogue: 10,0:06:56.73,0:06:58.69,Main,Kukui,0,0,0,check move name,Use Superpower{bakajikara / ばかぢから}!
+Dialogue: 10,0:06:56.73,0:06:58.69,Main,Kukui,0,0,0,,Use Brute Force{bakajikara / ばかぢから}!
 Dialogue: 10,0:06:59.27,0:07:00.94,Main,Satoshi,0,0,0,,Go! Brave Bird!
 Dialogue: 10,0:07:16.58,0:07:18.21,Main,Kukui,0,0,0,,What?!
 Dialogue: 10,0:07:18.21,0:07:20.75,Main,Hala,0,0,0,,Warrgle is unable to battle!

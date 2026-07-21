@@ -79,7 +79,7 @@ Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 10,0:00:01.21,0:00:03.45,Main,Musashi,0,0,0,,Alola!
 Dialogue: 10,0:00:03.45,0:00:07.48,Main,Musashi,0,0,0,,I’ll be presenting \N today’s PokéProblem to you.
-Dialogue: 10,0:00:08.19,0:00:13.12,Main,Musashi,0,0,0,,Which of these jerks was it who \N stole my {\i1}precious{\i0} malasada today?
+Dialogue: 10,0:00:08.19,0:00:13.12,Main,Musashi,0,0,0,,Which of these jerks was it \N who stole my {\i1}precious{\i0} malasada today?
 Dialogue: 10,0:00:13.12,0:00:15.49,Main,Musashi,0,0,0,,The answer’ll be \N at the end of the episode!
 Comment: 10,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Prologue}
 Dialogue: 10,0:00:16.92,0:00:20.22,Main,Narrator,0,0,0,,Satoshi got the Rock-Z \N on Akala Island.
@@ -155,7 +155,7 @@ Dialogue: 10,0:06:18.98,0:06:21.14,Main,Musashi,0,0,0,,You can’t go anywhere \
 Dialogue: 10,0:06:23.15,0:06:26.07,Main,Musashi,0,0,0,,Hey, why won’t you go in?
 Dialogue: 10,0:06:26.07,0:06:28.28,Main,Musashi,0,0,0,,I can’t look for Kojirou \N and the others like this!
 Dialogue: 10,0:06:34.92,0:06:37.12,Main,Musashi,0,0,0,,This is bad...
-Dialogue: 10,0:06:38.21,0:06:40.37,Main,Musashi,0,0,0,,Look! Malasada doughnuts!
+Dialogue: 10,0:06:38.21,0:06:40.37,Main,Musashi,0,0,0,,Look! Malasada Doughnuts!
 Dialogue: 10,0:06:40.37,0:06:43.71,Main,Musashi,0,0,0,,I’ll go buy you one, \N so get back in your Ball!
 Dialogue: 10,0:06:44.40,0:06:45.55,Main,Musashi,0,0,0,,Pardon me!
 Dialogue: 10,0:06:45.96,0:06:47.28,Main,Store clerks,0,0,0,,Welcome.
@@ -254,7 +254,7 @@ Dialogue: 10,0:11:52.91,0:11:55.74,Main,Kukui,0,0,0,,You’re itching to start t
 Dialogue: 10,0:11:57.24,0:12:00.39,Main,Satoshi,0,0,0,,All right, Lugarugan! \N Let’s get right to training!
 Dialogue: 10,0:12:04.33,0:12:08.39,Main,Musashi,0,0,0,,Sheesh... What {\i1}would{\i0} you like?
 Dialogue: 10,0:12:12.93,0:12:15.63,Main,Musashi,0,0,0,,I’m all worn out thanks to you!
-Dialogue: 10,0:12:15.63,0:12:19.24,Main,Musashi,0,0,0,,Let’s {\i1}actually{\i0} take a break and \N have some malasadas now.
+Dialogue: 10,0:12:15.63,0:12:19.24,Main,Musashi,0,0,0,,Let’s {\i1}actually{\i0} take a break \N and have some malasadas now.
 Dialogue: 10,0:12:19.24,0:12:20.84,Main,Musashi,0,0,0,,You’re so stubborn!
 Dialogue: 10,0:12:21.80,0:12:23.07,Main,Store clerks,0,0,0,,Welcome!
 Dialogue: 10,0:12:23.07,0:12:25.31,Main,Musashi,0,0,0,,Two malasadas, please.

@@ -112,7 +112,7 @@ Dialogue: 10,0:06:23.95,0:06:24.91,Main,Kaki,0,0,0,,What’s wrong?
 Dialogue: 10,0:06:32.54,0:06:34.42,Main,Kaki,0,0,0,,A Garoola! Is it wild?
 Dialogue: 10,0:06:34.42,0:06:35.92,Main,Kaki,0,0,0,,What’s it doing here?
 Dialogue: 10,0:06:35.92,0:06:37.88,Main,Lilie,0,0,0,,It might have \N stumbled its way in here.
-Dialogue: 10,0:06:39.38,0:06:42.55,Main,Rotom,0,0,0,,Garoola. Parent and Child Pokémon. \N Normal type.
+Dialogue: 10,0:06:39.38,0:06:42.55,Main,Rotom,0,0,0,,Garoola. Parent-Child Pokémon. \N Normal type.
 Dialogue: 10,0:06:42.55,0:06:44.43,Main,Rotom,0,0,0,,It raises its offspring \N in its belly pouch. {X Pokédex entry}
 Dialogue: 10,0:06:44.84,0:06:49.35,Main,Rotom,0,0,0,,Garoola’s maternal love is so deep that \N it will brave death to protect its offspring. {Sun Pokédex entry}
 Dialogue: 10,0:06:49.35,0:06:51.35,Main,Suiren,0,0,0,,The mother’s angry.
@@ -367,7 +367,7 @@ Comment: 10,0:21:59.51,0:21:59.51,Main,,0,0,0,,{Ending}
 Comment: 10,0:23:20.50,0:23:20.50,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.42,0:23:24.76,Main,Kaki,0,0,0,,Thanks for waiting!
 Dialogue: 10,0:23:24.76,0:23:28.35,Main,Kaki,0,0,0,,The Pokémon that came to \N my family farm was Garoola!
-Dialogue: 10,0:23:28.35,0:23:31.51,Main,Kaki,0,0,0,,The Parent and Child Pokémon Garoola \N is a Normal type.
+Dialogue: 10,0:23:28.35,0:23:31.51,Main,Kaki,0,0,0,,The Parent-Child Pokémon Garoola \N is a Normal type.
 Dialogue: 10,0:23:31.51,0:23:35.35,Main,Kaki,0,0,0,,It’s said that the child in its pouch \N leaves home after roughly three years. {Moon Pokédex entry... Minus the “It’s said that” part. That’s not in the game.}
 Dialogue: 10,0:23:35.35,0:23:39.98,Main,Kaki,0,0,0,,But I can’t believe he was able to calm \N that enraged Garoola and treat its child’s leg...
 Dialogue: 10,0:23:39.98,0:23:42.11,Main,Kaki,0,0,0,,Takeshi’s skills are frightening!

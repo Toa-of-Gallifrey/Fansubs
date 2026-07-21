@@ -246,9 +246,9 @@ Dialogue: 10,0:12:11.96,0:12:13.80,Main,Lilie,0,0,0,,Isn’t this exciting, Snow
 Dialogue: 10,0:12:14.93,0:12:16.76,Main,Kaki,0,0,0,,Let’s go to Mao’s place first.
 Dialogue: 10,0:12:16.76,0:12:18.72,Main,Them,0,0,0,,{\i1}Yeah!{\i0}
 Dialogue: 10,0:12:19.43,0:12:22.31,Main,Nyarth,0,0,0,,Welcomeow! Welcomeow!
-Dialogue: 10,0:12:22.31,0:12:25.27,Main,Nyarth,0,0,0,,Have some absolutely delectable \N Honey Bagels, meow!
+Dialogue: 10,0:12:22.31,0:12:25.27,Main,Nyarth,0,0,0,,Have some absolutely delectable \N Honeymitsu Bagels, meow!
 Dialogue: 10,0:12:25.27,0:12:28.23,Main,Kojiro,0,0,0,,They look like doughnuts, \N but they’re actually bagels!
-Dialogue: 10,0:12:28.23,0:12:31.07,Main,Kojiro,0,0,0,,Absolutely delicious \N Honey Bagels!
+Dialogue: 10,0:12:28.23,0:12:31.07,Main,Kojiro,0,0,0,,Absolutely delicious \N Honeymitsu Bagels!
 Dialogue: 10,0:12:32.57,0:12:33.69,Main,Customers,0,0,0,,Three, please!
 Dialogue: 10,0:12:33.69,0:12:35.07,Main,Customer,0,0,0,,I want four!
 Dialogue: 10,0:12:35.57,0:12:39.62,Main,Musashi,0,0,0,,What’s going on? \N Customers are just flooding the stand!
@@ -433,7 +433,7 @@ Dialogue: 10,0:23:55.50,0:23:59.09,Main,Mao,0,0,0,,You can’t chew it, Amamaiko
 Comment: 10,0:24:00.47,0:24:00.47,Main,,0,0,0,,{Preview}
 Dialogue: 10,0:24:02.14,0:24:02.72,Main,Kojiro,0,0,0,,All right!
 Dialogue: 10,0:24:02.72,0:24:04.93,Main,Kojiro,0,0,0,,We’ve reached our sales goal \N for the month!
-Dialogue: 10,0:24:04.93,0:24:08.52,Main,Musashi,0,0,0,,The mixed cream malasada doughnuts \N were the talk of the town, after all!
+Dialogue: 10,0:24:04.93,0:24:08.52,Main,Musashi,0,0,0,,The mixed cream Malasada Doughnuts \N were the talk of the town, after all!
 Dialogue: 10,0:24:08.52,0:24:09.89,Main,Kojiro,0,0,0,,We worked real hard on them!
 Dialogue: 10,0:24:09.89,0:24:12.23,Main,Nyarth,0,0,0,,However! We mustn’t \N be caught unaware, meow!
 Dialogue: 10,0:24:12.23,0:24:16.48,Main,Nyarth,0,0,0,,We have to invent some spectacular malasada recipes \N that our rivals can’t replicate, meow!
