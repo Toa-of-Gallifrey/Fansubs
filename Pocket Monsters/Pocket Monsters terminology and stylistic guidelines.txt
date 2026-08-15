@@ -831,7 +831,7 @@ yoga no poozu ヨガのポーズ (Meditate) - Yoga Pose
 yokodori よこどり (Snatch) - # TBD #
 youkaieki ようかいえき (Acid) - Acid
 yousei no kaze ようせいのかぜ (Fairy Wind) - Fairy Wind
-yubi o furu ゆびをふる (Metronome) - # TBD #
+yubi o furu ゆびをふる (Metronome) - Wag Finger
 yuki geshiki ゆきげしき (Snowscape) - # TBD #
 yuki nadare ゆきなだれ (Avalanche) - # TBD #
 yume kui ゆめくい (Dream Eater) - Dream Eater
@@ -1134,7 +1134,7 @@ namake なまけ (Truant) - # TBD #
 nenchaku ねんちゃく (Sticky Hold) - Sticky Hold
 netsu bousou ねつぼうそう (Flare Boost) - # TBD #
 netsu koukan ねつこうかん (Thermal Exchange) - Thermal Exchange
-nige ashi にげあし (Run Away) - # TBD #
+nige ashi にげあし (Run Away) - Fleet-Footed
 nigegoshi にげごし (Wimp Out) - # TBD #
 noo gaado ノーガード (No Guard) - No Guard
 noo tenki ノーてんき (Cloud Nine) - # TBD #
@@ -1274,7 +1274,7 @@ POKÉMON NAMES
 0020 ラッタ Ratta - ねずみポケモン Mouse Pokémon
 0021 オニスズメ Onisuzume - ことりポケモン Tiny Bird Pokémon
 0022 オニドリル Onidrill - くちばしポケモン Beak Pokémon
-0023 アーボ Abo - へびポケモン Snake Pokémon
+0023 アーボ Arbo - へびポケモン Snake Pokémon
 0024 アーボック Arbok - コブラポケモン Cobra Pokémon
 0025 ピカチュウ Pikachu - ねずみポケモン Mouse Pokémon
 0026 ライチュウ Raichu - ねずみポケモン Mouse Pokémon
@@ -1564,7 +1564,7 @@ POKÉMON NAMES
 0310 ライボルト 
 0311 プラスル Plusle - おうえんポケモン Cheering Pokémon
 0312 マイナン Minun - おうえんポケモン Cheering Pokémon
-0313 バルビート 
+0313 バルビート Bulbeat - ほたるポケモン 
 0314 イルミーゼ 
 0315 ロゼリア Roselia - いばらポケモン 
 0316 ゴクリン Gokurin - いぶくろポケモン 
