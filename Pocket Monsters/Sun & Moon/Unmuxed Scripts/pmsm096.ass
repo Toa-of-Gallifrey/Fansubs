@@ -37,7 +37,7 @@ Style: EDp2,HummingMod,48,&H00FE76FF,&H00F5FEF5,&H00FFB033,&H00524756,-1,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(300,155)}Gantle
 Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(763,155)}Nuikoguma
-Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(310,425)}Elfoon
+Dialogue: 0,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(310,425)}Elfuun
 Dialogue: 1,0:00:06.98,0:00:15.49,On-screen stuff,,0,0,0,,{\blur2\pos(748,425)}Meguroco
 Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
 Dialogue: 1,0:01:35.57,0:01:39.99,OP,,0,0,0,,{\fad(300,0)}Don’t fear things you’ve never seen or done
@@ -128,7 +128,7 @@ Dialogue: 10,0:00:03.75,0:00:06.98,Main,Musashi,0,0,0,,I’ll be giving today’
 Dialogue: 10,0:00:06.98,0:00:10.32,Main,Musashi,0,0,0,,Which of these Pokémon keeps \N clinging to me in today’s episode?
 Dialogue: 10,0:00:10.32,0:00:11.12,Main,Musashi,0,0,0,,Blue: Gantle?
 Dialogue: 10,0:00:11.12,0:00:11.99,Main,Musashi,0,0,0,,Red: Nuikoguma?
-Dialogue: 10,0:00:11.99,0:00:13.01,Main,Musashi,0,0,0,,Green: Elfoon?
+Dialogue: 10,0:00:11.99,0:00:13.01,Main,Musashi,0,0,0,,Green: Elfuun?
 Dialogue: 10,0:00:13.01,0:00:14.03,Main,Musashi,0,0,0,,Or Yellow: Meguroco?
 Dialogue: 10,0:00:14.03,0:00:15.49,Main,Musashi,0,0,0,,The answer’ll be at the end!
 Comment: 10,0:00:15.49,0:00:15.49,Main,,0,0,0,,{Part A}
@@ -221,7 +221,7 @@ Dialogue: 10,0:06:47.97,0:06:50.43,Main,Kojiro,0,0,0,,T-Time t’ do sum cleanin
 Dialogue: 10,0:06:59.21,0:07:04.44,Main,Nyarth,0,0,0,,What’s that? You say the Conservation Area is \N a really comfortable place to live?
 Dialogue: 10,0:07:26.79,0:07:30.89,Main,Nyarth,0,0,0,,Hmm? You’re about ready to be \N sent back into the wild, meow?
 Dialogue: 10,0:07:31.42,0:07:33.76,Main,Nyarth,0,0,0,,Oh, I see! \N Good for you, meow!
-Dialogue: 10,0:07:35.13,0:07:41.10,Main,Nyarth,0,0,0,,If we get them, then all these Elfoon \N will go to Sakaki...
+Dialogue: 10,0:07:35.13,0:07:41.10,Main,Nyarth,0,0,0,,If we get them, then all these Elfuun \N will go to Sakaki...
 Dialogue: 10,0:07:43.34,0:07:46.48,Main,Nyarth,0,0,0,,If they get to live with Sakaki, then...
 Dialogue: 10,0:07:46.48,0:07:50.36,Main,Nyarth,0,0,0,,You’ll all become even happier, meow!
 Dialogue: 10,0:07:52.93,0:07:54.91,Main,Nyarth,0,0,0,,Isn’t that great, meow?
