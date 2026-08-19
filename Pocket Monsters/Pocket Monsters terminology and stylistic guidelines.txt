@@ -1051,7 +1051,7 @@ ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
 iromegane いろめがね (Tinted Lens) - # TBD #
 iryuujon イリュージョン (Illusion) - Illusion
 ishi atama いしあたま (Rock Head) - Rock Head
-itazura gokoro いたずらごころ (Prankster) - # TBD #
+itazuragokoro いたずらごころ (Prankster) - # TBD #
 iwahakobi いわはこび (Rocky Payload) - # TBD #
 iyashi no kokoro いやしのこころ (Healer) - Healing Heart
 jikyuuryoku じきゅうりょく (Stamina) - Endurance
@@ -1798,7 +1798,7 @@ POKÉMON NAMES
 0544 ホイーガ Wheega - まゆムカデポケモン 
 0545 ペンドラー Pendrar - メガムカデポケモン Mega Centipede Pokémon
 0546 モンメン Monmen - わたたまポケモン 
-0547 エルフーン Elfoon - かぜかくれポケモン 
+0547 エルフーン Elfuun - かぜかくれポケモン 
 0548 チュリネ Churine - ねっこポケモン 
 0549 ドレディア Dredear - はなかざりポケモン Flowering Pokémon | Hisuian Form - スピンポケモン 
 0550 バスラオ 
