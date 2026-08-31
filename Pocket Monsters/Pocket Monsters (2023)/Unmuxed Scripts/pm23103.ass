@@ -43,7 +43,7 @@ Dialogue: 10,0:00:36.56,0:00:38.52,Main,Nanjamo,0,0,0,,That’s right!
 Dialogue: 10,0:00:42.15,0:00:44.15,Main,Gurumin,0,0,0,,Details are in the description!
 Dialogue: 10,0:00:44.15,0:00:46.23,Main,Gurumin,0,0,0,,Anyone who wants to meet \N Nanjamo and Gurumin,
 Dialogue: 10,0:00:46.23,0:00:49.53,Main,Gurumin,0,0,0,,gather up in \N the Hakkou City Central Plaza!
-Dialogue: 10,0:00:50.41,0:00:53.37,Main,Nanjamo,0,0,0,,It’s your big chance to meet \N in-person at Central Plaza!
+Dialogue: 10,0:00:50.41,0:00:53.37,Main,Nanjamo,0,0,0,,It’s your big chance to meet \N in-person at the central plaza!
 Dialogue: 10,0:00:53.37,0:00:57.25,Main,Nanjamo,0,0,0,,We’ll be doing handshakes... \N And hugs, if we feel like it! Got all that?
 Dialogue: 10,0:00:57.62,0:00:59.41,Main,Gurumin,0,0,0,,Huh... guhs...?!{Syllables of 'hagu' / hug turned into exclamatory noises}
 Dialogue: 10,0:00:59.41,0:01:01.33,Main,Gurumin,0,0,0,,I’m gettin’ anxious...
@@ -83,7 +83,7 @@ Dialogue: 10,0:03:06.83,0:03:08.17,Main,Conia,0,0,0,,There a problem with that?
 Dialogue: 10,0:03:08.17,0:03:11.00,Main,Zir,0,0,0,,No! I-I just...!
 Dialogue: 10,0:03:11.00,0:03:13.67,Main,Gurumin,0,0,0,,Spinnin’-‘n’-groovin’!{090}
 Dialogue: 10,0:03:13.67,0:03:17.93,Main,Gurumin,0,0,0,,Everyone! Nanjamo and Gurumin’s \N event is tomorrow!
-Dialogue: 10,0:03:18.34,0:03:20.30,Main,Gurumin,0,0,0,,Meet up at Central Plaza!
+Dialogue: 10,0:03:18.34,0:03:20.30,Main,Gurumin,0,0,0,,Meet up at the central plaza!
 Dialogue: 10,0:03:22.18,0:03:23.81,Main,Zir,0,0,0,,Gurumin...
 Comment: 0,0:03:29.69,0:03:29.69,Main,,0,0,0,,{Opening}
 Comment: 0,0:04:59.78,0:04:59.78,Main,,0,0,0,,{Part B}

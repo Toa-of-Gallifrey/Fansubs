@@ -267,7 +267,7 @@ Dialogue: 10,0:16:00.11,0:16:03.45,Main,Liko,0,0,0,,Can you tell me about \N all
 Dialogue: 10,0:16:03.45,0:16:04.23,Main,Diana,0,0,0,,Right...
 Dialogue: 10,0:16:04.91,0:16:08.24,Main,Diana,0,0,0,,Now that you’ve taken your first step, \N let me tell you everything.
 Dialogue: 10,0:16:08.87,0:16:14.27,Main,Diana,0,0,0,,It all began when I was \N even younger than you are now.
-Dialogue: 10,0:16:17.19,0:16:18.67,Main,Mother of Diana,0,0,0,,Diana?
+Dialogue: 10,0:16:17.19,0:16:18.67,Main,Mother of Diana,0,0,165,,Diana?
 Dialogue: 10,0:16:18.67,0:16:21.54,Main,Mother of Diana,0,0,165,,Where are you? \N Playing hide-and-seek again?
 Dialogue: 10,0:16:34.82,0:16:38.19,Main,Diana,0,0,165,,Yes... I found that pendant...
 Dialogue: 10,0:16:38.19,0:16:41.61,Main,Diana,0,0,165,,...in an old suitcase in my attic.

@@ -33,7 +33,7 @@ Dialogue: 10,0:00:06.57,0:00:12.12,Main,Liko,0,0,0,,{\q2}Surprisingly, what awai
 Dialogue: 10,0:00:12.12,0:00:15.29,Main,Liko,0,0,0,,Plus, it attacked right away; \N meaning we were in trouble!
 Dialogue: 10,0:00:16.50,0:00:20.38,Main,Liko,0,0,0,,Thanks to Cap, Roy and I \N managed to escape somehow,
 Dialogue: 10,0:00:20.38,0:00:21.50,Main,Liko,0,0,0,,but Friede was...
-Dialogue: 10,0:00:33.39,0:00:37.52,Main,Joy,0,0,0,,Your Pokémon{-tachi} \N should be all better now!
+Dialogue: 10,0:00:33.39,0:00:37.52,Main,Joy,0,0,0,,The Pokémon you left in our care \N should be all better now!{game (inexact)}
 Dialogue: 10,0:00:40.77,0:00:43.61,Main,Liko,0,0,0,,Nyahoja! Thank you.
 Dialogue: 10,0:00:40.77,0:00:43.61,Main,Roy,0,0,0,,{\an8}Hogator! Thank you!
 Dialogue: 10,0:00:43.61,0:00:44.90,Main,Liko,0,0,0,,Glad you’re better too, Cap!
