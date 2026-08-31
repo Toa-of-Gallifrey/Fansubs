@@ -55,7 +55,7 @@ Dialogue: 10,0:04:01.85,0:04:04.64,Main,Ult,0,0,0,,What, they don’t even battl
 Dialogue: 10,0:04:04.64,0:04:10.10,Main,Roy,0,0,0,,Huh... Cuteness, Beauty, Coolness... \N A tournament where you compete in those categories?
 Dialogue: 10,0:04:11.15,0:04:14.40,Main,Liko,0,0,0,,We can work together \N and put on a lovely show.
 Dialogue: 10,0:04:19.61,0:04:22.49,Main,Dot,0,0,0,,Looks like they{Wanival-tachi} want to join in, too.{are interested in doing it too.}
-Dialogue: 10,0:04:23.37,0:04:28.83,Main,Dot,0,0,0,,But ordinarily{ALT:customarily}, only one person \N gives commands to the Pokémon in a contest.{'That's the way it is'/that's the rule/regulation/custom that everyone follows/what's settled, but shouldn't step on later 'rules' lines, this is more just 'that's the way it is'}
+Dialogue: 10,0:04:23.37,0:04:28.83,Main,Dot,0,0,0,,But ordinarily{ALT:customarily}, only one trainer \N gives commands to the Pokémon in a contest.{'That's the way it is'/that's the rule/regulation/custom that everyone follows/what's settled, but shouldn't step on later 'rules' lines, this is more just 'that's the way it is'}
 Dialogue: 10,0:04:28.83,0:04:32.63,Main,Roy,0,0,0,,So the three pairs of us can’t enter?
 Dialogue: 10,0:04:33.17,0:04:38.88,Main,Navi,0,0,0,,But without Loudbone, Wanival, and Masquernya \N all together, we can’t do the Feels Special!
 Dialogue: 10,0:04:39.30,0:04:44.51,Main,Dot,0,0,0,,Oh, it says that one representative \N can bring in other people’s Pokémon.
@@ -224,7 +224,7 @@ Dialogue: 10,0:18:37.47,0:18:40.06,Main,Announcer,0,0,0,,Err... After careful re
 Dialogue: 10,0:18:40.06,0:18:45.52,Main,Announcer,0,0,0,,Team “Meow-Meow-Liko-Liko and Her Friends” \N is disqualified for a breach of regulations.
 Dialogue: 10,0:18:45.52,0:18:47.31,Main,Audience,0,0,0,,{\i1}Huh?!{\i0}
 Dialogue: 10,0:18:47.31,0:18:51.07,Main,Dot,0,0,0,,She {\i1}did{\i0} use a Pokémon \N that hadn’t been entered, after all...
-Dialogue: 10,0:18:51.07,0:18:53.32,Main,Navi,0,0,0,,But it was cute, so that don’t matter!
+Dialogue: 10,0:18:51.07,0:18:53.32,Main,Navi,0,0,0,,But it was cute so who cares?!
 Dialogue: 10,0:18:53.32,0:18:55.49,Main,Roy,0,0,0,,It was one incredible show!
 Dialogue: 10,0:18:58.70,0:19:00.58,Main,Yuzuko,0,0,0,,Rules are rules, dearies.
 Dialogue: 10,0:19:01.24,0:19:05.46,Main,Yuzuko,0,0,0,,However... \N It shook my heart, dearies.
