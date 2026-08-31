@@ -105,7 +105,7 @@ Dialogue: 10,0:05:30.10,0:05:32.56,Main,Matière,0,0,0,,Here! Have some special 
 Dialogue: 10,0:05:32.56,0:05:33.81,Main,Navi,0,0,0,,Yay!
 Dialogue: 10,0:05:33.81,0:05:36.27,Main,Ult,0,0,0,,What’s with that? \N It’s basically {\i1}all{\i0} milk.
 Dialogue: 10,0:05:36.27,0:05:37.90,Main,Ult,0,0,0,,Perfect for a little kid.
-Dialogue: 10,0:05:37.90,0:05:39.15,Main,Navi,0,0,0,,Bleh!
+Dialogue: 10,0:05:37.90,0:05:39.15,Main,Navi,0,0,0,,Nyah-nyah!
 Dialogue: 10,0:05:39.15,0:05:41.74,Main,Navi,0,0,0,,Treat someone like a kid, \N and that makes {\i1}you{\i0} the kid. {TL/ALT: If you treat someone like a kid, *you’re* the kid!}
 Dialogue: 10,0:05:41.74,0:05:43.45,Main,Ult,0,0,0,,Wha... didja say?!{What was that?! heavily slurred}
 Dialogue: 10,0:05:43.45,0:05:44.70,Main,Navi,0,0,0,,Li’l kid!
@@ -160,7 +160,7 @@ Dialogue: 10,0:08:06.13,0:08:08.13,Main,Kids,0,0,0,,{\i1}Thank you very much!{\i
 Dialogue: 10,0:08:08.13,0:08:11.35,Main,Ult,0,0,0,,Leave it to me! \N Miare’s my home turf!
 Dialogue: 10,0:08:11.89,0:08:14.52,Main,Navi,0,0,0,,Then, you can be \N the assistant’s assistant.
 Dialogue: 10,0:08:14.52,0:08:17.06,Main,Ult,0,0,0,,Lotta attitude comin’ from a little kid!
-Dialogue: 10,0:08:17.06,0:08:18.69,Main,Navi,0,0,0,,Bleh!
+Dialogue: 10,0:08:17.06,0:08:18.69,Main,Navi,0,0,0,,Nyah-nyah!
 Dialogue: 10,0:08:21.94,0:08:23.90,Main,Matière,0,0,0,,The old lady’s house is here.
 Dialogue: 10,0:08:23.90,0:08:26.28,Main,Matière,0,0,0,,If we go around \N the Rose District, then...
 Dialogue: 10,0:08:26.28,0:08:27.95,Main,Navi,0,0,0,,This’s Navi’s helping!
