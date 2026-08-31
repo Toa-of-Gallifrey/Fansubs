@@ -94,7 +94,7 @@ Dialogue: 10,0:10:05.21,0:10:06.88,Main,Roy,0,0,0,,They look like they’re havi
 Dialogue: 10,0:10:30.61,0:10:34.91,Main,Narrator,0,0,0,,Looks like they decided to ask \N the other Pokémon for help, too.
 Dialogue: 10,0:10:50.67,0:10:52.88,Main,Ult,0,0,0,,Ahh, I’m starvin’!
 Dialogue: 10,0:10:52.88,0:10:54.93,Main,Roy,0,0,0,,I wonder what’s for lunch today...
-Dialogue: 10,0:10:55.51,0:10:57.64,Main,Ult,0,0,0,,I {\i1}have{\i0} been smellin’ something \N for a while now.{uncaptioned}
+Dialogue: 10,0:10:55.51,0:10:57.64,Main,Ult,0,0,0,,I {\i1}have{\i0} been smellin’ \N something nice for a while now.
 Dialogue: 10,0:10:57.64,0:10:59.10,Main,Roy,0,0,0,,Ult, what do you think it’ll be?
 Dialogue: 10,0:10:59.10,0:11:00.31,Main,Ult,0,0,0,,Hmm...
 Dialogue: 10,0:11:00.31,0:11:02.31,Main,Ult,0,0,0,,Ain’t it gonna be that? \N Y’know, {\i1}that.{\i0}
