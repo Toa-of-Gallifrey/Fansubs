@@ -1230,20 +1230,20 @@ Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCeza
 Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HA65A5B&\fscx40\fscy40\clip(397,682,490,683)\pos(443.5,655)}Dragon
 Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HAA5A5A&\fscx40\fscy40\clip(397,683,490,686)\pos(443.5,655)}Dragon
 Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HA85A58&\fscx40\fscy40\clip(397,686,490,689)\pos(443.5,655)}Dragon
-Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur3\fnCezanneProN-EB-Str\b0\an8\shad4\alpha&HFF&\4a&H40&\ko0\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(-80,320,\4c&H000000&)\fscx40\fscy40\pos(568.5,652)}Flying
-Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnCezanneProN-EB-Str\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7A6A2&\fscx40\fscy40\clip(530,659,608,660)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE5A7A1&\fscx40\fscy40\clip(530,660,608,663)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6AAA2&\fscx40\fscy40\clip(530,663,608,666)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7ADA2&\fscx40\fscy40\clip(530,666,608,668)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7AFA2&\fscx40\fscy40\clip(530,668,608,671)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7B2A2&\fscx40\fscy40\clip(530,671,608,672)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6B4A1&\fscx40\fscy40\clip(530,672,608,675)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6B7A2&\fscx40\fscy40\clip(530,675,608,677)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE4B9A2&\fscx40\fscy40\clip(530,677,608,683)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE9BFA2&\fscx40\fscy40\clip(530,683,608,684)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6C0A3&\fscx40\fscy40\clip(530,684,608,685)\pos(568.5,652)}Flying
-Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE9C1A0&\fscx40\fscy40\clip(530,685,608,686)\pos(568.5,652)}Flying
+Dialogue: 0,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur3\fnCezanneProN-EB-Str\b0\an8\shad4\alpha&HFF&\4a&H40&\ko0\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&\t(-80,320,\4c&H000000&)\fscx40\fscy40\pos(568.5,655)}Flying
+Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\blur0.3\fnCezanneProN-EB-Str\b0\an8\shad0\3c&HFFFFFF&\c&HFFFFFF&\fscx40\fscy40\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7A6A2&\fscx40\fscy40\clip(530,662,608,663)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE5A7A1&\fscx40\fscy40\clip(530,663,608,666)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6AAA2&\fscx40\fscy40\clip(530,666,608,669)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7ADA2&\fscx40\fscy40\clip(530,669,608,671)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7AFA2&\fscx40\fscy40\clip(530,671,608,674)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE7B2A2&\fscx40\fscy40\clip(530,674,608,675)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6B4A1&\fscx40\fscy40\clip(530,675,608,678)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6B7A2&\fscx40\fscy40\clip(530,678,608,680)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE4B9A2&\fscx40\fscy40\clip(530,680,608,686)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE9BFA2&\fscx40\fscy40\clip(530,686,608,687)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE6C0A3&\fscx40\fscy40\clip(530,687,608,688)\pos(568.5,655)}Flying
+Dialogue: 2,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\fad(320,0)\bord0\blur0.3\fnCezanneProN-EB-Str\b0\an8\c&HE9C1A0&\fscx40\fscy40\clip(530,688,608,689)\pos(568.5,655)}Flying
 Dialogue: 0,0:21:54.25,0:21:58.13,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFEFEFE&\p1}m 431.26 836.48 l 660.85 844.83 671.55 871.96 671.39 886.67 667.87 901.26 662.73 915.23 656.05 929.97 646.27 938.97 636.62 943.43 419.06 964.97 385.84 964.87 377.86 855.94
 Dialogue: 0,0:21:58.13,0:21:58.17,Main,,0,0,0,,{\an7\pos(0,0)\blur3\bord0\c&HFFFEF7&\p1}m 431.26 836.48 l 660.85 844.83 671.55 871.96 671.39 886.67 667.87 901.26 662.73 915.23 656.05 929.97 646.27 938.97 636.62 943.43 419.06 964.97 385.84 964.87 377.86 855.94
 Dialogue: 1,0:21:54.25,0:21:58.17,Main,,0,0,0,,{\an1\fad(320,0)\blur0.3\bord0\fnNewCezanneProN-EB-Str\b0\c&H00000&\fscx70\fscy70\pos(398,907)}Air Lock
