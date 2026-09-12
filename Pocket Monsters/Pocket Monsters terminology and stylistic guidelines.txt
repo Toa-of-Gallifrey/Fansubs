@@ -1221,7 +1221,7 @@ teraboruteeji テラボルテージ (Teravolt) - # TBD #
 terepashii テレパシー (Telepathy) - Telepathy
 tetsu no kobushi てつのこぶし (Iron Fist) - Iron Fist
 tetsu no toge てつのトゲ (Iron Barbs) - Iron Barbs
-tobidasu nakami とびだすなかみ (Innards Out) - # TBD #
+tobidasu nakami とびだすなかみ (Innards Out) - Ejecting Innards
 toranjisuta トランジスタ (Transistor) - Transistor
 toreesu トレース (Trace) - Trace
 torenai nioi とれないにおい (Lingering Aroma) - # TBD #
@@ -1327,7 +1327,7 @@ POKÉMON NAMES
 0073 ドククラゲ Dokukurage - くらげポケモン 
 0074 イシツブテ Ishitsubute - がんせきポケモン Rock Pokémon
 0075 ゴローン Gorone - がんせきポケモン Rock Pokémon
-0076 ゴローニャ Gorogna - メガトンポケモン Megaton Pokémon
+0076 ゴローニャ Goronya - メガトンポケモン Megaton Pokémon
 0077 ポニータ Ponyta - ひのうまポケモン Fire Horse Pokémon | Galarian Form - いっかくポケモン One-Horned Pokémon
 0078 ギャロップ Gallop - ひのうまポケモン Fire Horse Pokémon | Galarian Form - いっかくポケモン One-Horned Pokémon
 0079 ヤドン Yadon - まぬけポケモン Dopey Pokémon
@@ -1593,7 +1593,7 @@ POKÉMON NAMES
 0339 ドジョッチ 
 0340 ナマズン Namazun - ひげうおポケモン 
 0341 ヘイガニ Heigani - ごろつきポケモン 
-0342 シザリガー Scizarigar - ならずものポケモン Rogue Pokémon
+0342 シザリガー Shizarigar - ならずものポケモン Rogue Pokémon
 0343 ヤジロン 
 0344 ネンドール 
 0345 リリーラ 
@@ -2184,7 +2184,7 @@ POKÉMON NAMES
 0930 オリーヴァ Oliva - オリーブポケモン Olive Pokémon
 0931 イキリンコ Ikirinko - インコポケモン Parrot Pokémon
 0932 コジオ Kojio - がんえんポケモン Rock Salt Pokémon
-0933 ジオヅム 
+0933 ジオヅム Jiodzumu - がんえんポケモン Rock Salt Pokémon
 0934 キョジオーン Kyojiohn - がんえんポケモン Rock Salt Pokémon
 0935 カルボウ Carbou - ひのこポケモン 
 0936 グレンアルマ Guren'arma - ひのせんしポケモン 
