@@ -33,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.61,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(350,140)}Hiker A
 Dialogue: 0,0:00:06.61,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(800,140)}Hiker B
 Dialogue: 0,0:00:06.61,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(350,412)}Hiker C
-Dialogue: 1,0:00:06.61,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(870,412)}Alolan Gorogna
+Dialogue: 1,0:00:06.61,0:00:15.49,On-screen stuff,,0,0,0,,{\3c&HFAFAFA&\blur2\pos(870,412)}Alolan Goronya
 Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
 Dialogue: 1,0:01:22.56,0:01:26.99,OP,,0,0,0,,{\fad(300,0)}Don’t fear things you’ve never seen or done
 Dialogue: 0,0:01:22.56,0:01:26.99,OPp2,,0,0,0,,{\be2\bord6}{\fad(300,0)}Don’t fear things you’ve never seen or done
@@ -71,7 +71,7 @@ Dialogue: 1,0:02:42.94,0:02:50.53,OP,,0,0,0,,Step forward!
 Dialogue: 0,0:02:42.94,0:02:50.53,OPp2,,0,0,0,,{\be2\bord6}Step forward!
 Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,
 Dialogue: 0,0:02:54.52,0:02:59.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,220)}Wela Volcano, the Gorone,
-Dialogue: 0,0:02:54.52,0:02:59.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,560)}the Gorogna and the Hikers!
+Dialogue: 0,0:02:54.52,0:02:59.53,Episode titles,,0,0,0,,{\fad(400,0)\c&HFE1B1C&\pos(640,560)}the Goronya and the Hikers!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:12:17.50,0:12:20.46,On-screen stuff,,0,0,0,,{\an7\fad(500,0)\fs40\blur3\pos(135,440)}Name: Gorone\N{\c&H000000&\1a&HFF&\3c&HFFFFFF&\3a&HFF&\fs25}  ..         {\c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&}         (Alolan Form)\N{\fs40}Type:   Rock/Electric
 Comment: 0,0:13:31.97,0:13:33.97,Main,,0,0,0,,
@@ -116,7 +116,7 @@ Dialogue: 0,0:24:27.23,0:24:30.44,Episode titles,,0,0,0,,{\c&00a800&\pos(640,510
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,RED NEP TITLE
 Comment: 0,0:24:00.41,0:24:26.65,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Comment: 0,0:24:26.65,0:24:30.36,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\fs50\pos(640,110)}Next time
-Comment: 0,0:24:26.65,0:24:30.36,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Wela Volcano, the Gorone,\Nthe Gorogna and the Hikers!
+Comment: 0,0:24:26.65,0:24:30.36,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Wela Volcano, the Gorone,\Nthe Goronya and the Hikers!
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 10,0:00:02.30,0:00:03.58,Main,Kaki,0,0,0,,Alola!
@@ -292,8 +292,8 @@ Dialogue: 10,0:13:04.25,0:13:04.84,Main,Rock Hunter,0,0,0,,It’s back!
 Dialogue: 10,0:13:18.83,0:13:21.33,Main,Rock Hunter,0,0,0,,A zapping, crackling {\i1}boom!{\i0}
 Dialogue: 10,0:13:25.42,0:13:27.21,Main,Rock Hunter,0,0,0,,Run!
 Dialogue: 10,0:13:29.43,0:13:30.91,Main,Mamane,0,0,0,,Satoshi, look!
-Dialogue: 10,0:13:33.54,0:13:34.88,Main,Satoshi,0,0,0,,Gorogna?
-Dialogue: 10,0:13:35.39,0:13:40.38,Main,Rotom,0,0,0,,Gorogna: Alolan Form. \N Megaton Pokémon. Rock/Electric type.
+Dialogue: 10,0:13:33.54,0:13:34.88,Main,Satoshi,0,0,0,,Goronya?
+Dialogue: 10,0:13:35.39,0:13:40.38,Main,Rotom,0,0,0,,Goronya: Alolan Form. \N Megaton Pokémon. Rock/Electric type.
 Dialogue: 10,0:13:40.38,0:13:43.18,Main,Rotom,0,0,0,,It fires rocks charged with electricity. {Sun Pokédex entry. -Starfish}{Super serious alternate take: "It fires zapping, crackling booms." -Starfish the maker of super serious suggestions}
 Dialogue: 10,0:13:43.18,0:13:46.67,Main,Rotom,0,0,0,,The things that look like eyebrows and a beard \N are actually clusters of iron sand. {No Pokédex entry. -Starfish}
 Dialogue: 10,0:13:57.51,0:13:59.27,Main,Rotom,0,0,0,,It’s too dangerous-roto!
@@ -351,11 +351,11 @@ Dialogue: 10,0:19:45.81,0:19:47.67,Main,Hiker David & Friends,0,0,0,,...have ass
 Dialogue: 10,0:19:47.67,0:19:49.33,Main,Hiker David & Friends,0,0,0,,...to protect Wela Volcano!
 Dialogue: 10,0:19:49.33,0:19:51.43,Main,Kaki,0,0,0,,I’m counting on you, Hikers!
 Dialogue: 10,0:19:57.55,0:19:58.10,Main,Rotom,0,0,0,,That’s...
-Dialogue: 10,0:20:00.57,0:20:01.97,Main,Satoshi,0,0,0,,The Gorogna from before!
+Dialogue: 10,0:20:00.57,0:20:01.97,Main,Satoshi,0,0,0,,The Goronya from before!
 Dialogue: 10,0:20:03.21,0:20:04.34,Main,Hiker David & Friends,0,0,0,,It’s saying it wants us...
 Dialogue: 10,0:20:04.34,0:20:05.97,Main,Hiker David & Friends,0,0,0,,...to catch it!{Well THAT came out of nowhere. -Starfish}
-Dialogue: 10,0:20:20.23,0:20:21.99,Main,Satoshi,0,0,0,,They got Gorogna!
-Dialogue: 10,0:20:21.99,0:20:23.45,Main,Hiker,0,0,0,,Gorogna!
+Dialogue: 10,0:20:20.23,0:20:21.99,Main,Satoshi,0,0,0,,They got Goronya!
+Dialogue: 10,0:20:21.99,0:20:23.45,Main,Hiker,0,0,0,,Goronya!
 Dialogue: 10,0:20:23.45,0:20:25.40,Main,Hiker,0,0,0,,Our Pokémon!
 Dialogue: 10,0:20:25.40,0:20:27.86,Main,Hiker,0,0,0,,A new friend for you, Boobur!
 Dialogue: 10,0:20:29.55,0:20:31.01,Main,Hiker,0,0,0,,Our Pokémon!
@@ -367,8 +367,8 @@ Comment: 10,0:22:03.46,0:22:03.46,Main,,0,0,0,,{Eevee, Where Are You Going?}
 Dialogue: 10,0:22:03.46,0:22:07.09,Main,Children,0,0,0,,Eevee, Where Are You Going?
 Comment: 10,0:23:20.46,0:23:20.46,Main,,0,0,0,,{PokéProblem - Answer}
 Dialogue: 10,0:23:23.34,0:23:24.44,Main,Kaki,0,0,0,,Thanks for waiting!
-Dialogue: 10,0:23:24.44,0:23:28.18,Main,Kaki,0,0,0,,The evolved form of Alolan Gorone \N was Alolan Gorogna!
-Dialogue: 10,0:23:28.18,0:23:33.30,Main,Kaki,0,0,0,,The Megaton Pokémon Gorogna’s \N Alolan form is a Rock/Electric type.
+Dialogue: 10,0:23:24.44,0:23:28.18,Main,Kaki,0,0,0,,The evolved form of Alolan Gorone \N was Alolan Goronya!
+Dialogue: 10,0:23:28.18,0:23:33.30,Main,Kaki,0,0,0,,The Megaton Pokémon Goronya’s \N Alolan form is a Rock/Electric type.
 Dialogue: 10,0:23:33.30,0:23:38.21,Main,Kaki,0,0,0,,The electricity-charged rocks it launches from \N the protrusions on its back are immensely powerful!
 Dialogue: 10,0:23:38.21,0:23:42.93,Main,Kaki,0,0,0,,From now on, please keep Wela Volcano safe \N alongside the Hikers!
 Dialogue: 10,0:23:43.33,0:23:45.95,Main,Tourist,0,0,0,,Um...

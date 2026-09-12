@@ -122,7 +122,7 @@ Comment: 0,0:24:27.27,0:24:30.32,Episode titles,,0,0,0,,{\c&00a800&\pos(640,600)
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,RED NEP TITLE
 Dialogue: 0,0:24:00.54,0:24:26.73,Main,,0,0,0,,{\fs35\pos(1120,150)}Next episode
 Dialogue: 0,0:24:26.73,0:24:30.49,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\fs50\pos(640,110)}Next time
-Dialogue: 0,0:24:26.73,0:24:30.49,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Wela Volcano, the Gorone,\Nthe Gorogna and the Hikers!
+Dialogue: 0,0:24:26.73,0:24:30.49,Episode titles,,0,0,0,,{\c&HFFFFFF&\3c&H232BFF&\pos(640,620)\fs80}Wela Volcano, the Gorone,\Nthe Goronya and the Hikers!
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Comment: 10,0:00:00.00,0:00:00.00,Main,,0,0,0,,{PokéProblem - Question}
 Dialogue: 10,0:00:02.45,0:00:03.88,Main,Suiren,0,0,0,,Alola!
@@ -486,7 +486,7 @@ Dialogue: 10,0:24:10.43,0:24:11.96,Main,Lilie,0,0,0,,Could they be Ultra Beasts?
 Dialogue: 10,0:24:11.96,0:24:13.59,Main,Mao,0,0,0,,We’ll have to get ready!
 Dialogue: 10,0:24:13.59,0:24:15.65,Main,Suiren,0,0,0,,We’ll do it! \N We’ll Ultra-get them!
 Dialogue: 10,0:24:15.65,0:24:18.10,Main,Satoshi,0,0,0,,Next time, on Pocket Monsters Sun & Moon:
-Dialogue: 10,0:24:18.10,0:24:21.93,Main,Satoshi,0,0,0,,Wela Volcano, the Gorone, \N the Gorogna and the Hikers!
+Dialogue: 10,0:24:18.10,0:24:21.93,Main,Satoshi,0,0,0,,Wela Volcano, the Gorone, \N the Goronya and the Hikers!
 Dialogue: 10,0:24:21.93,0:24:23.31,Main,Hiker David & Friends,0,0,0,,Oh, hi there!
 Dialogue: 10,0:24:23.31,0:24:24.85,Main,Hiker David & Friends,0,0,0,,If you want to know \N about Wela Volcano...
 Dialogue: 10,0:24:24.85,0:24:26.73,Main,Hiker David & Friends,0,0,0,,Then leave it to us!
