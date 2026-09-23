@@ -49,7 +49,7 @@ Dialogue: 10,0:01:13.22,0:01:16.18,Main,Liko,0,0,0,,You look pretty shady to me.
 Dialogue: 10,0:01:18.89,0:01:20.89,Main,Yakata,0,0,0,,In what way?{mirrored later}
 Dialogue: 10,0:01:20.89,0:01:22.52,Main,Yakata,0,0,0,,But that aside...
 Dialogue: 10,0:01:22.52,0:01:24.11,Main,Yakata,0,0,0,,Those squishy-squishies...
-Dialogue: 10,0:01:24.81,0:01:26.98,Main,Yakata,0,0,0,,May I have the honor of \N squishy-squishing them?!
+Dialogue: 10,0:01:24.81,0:01:26.98,Main,Yakata,0,0,0,,May I have the honor of \N squish-squishing them?!
 Dialogue: 10,0:01:26.98,0:01:28.32,Main,Liko,0,0,0,,Huh?
 Dialogue: 10,0:01:28.32,0:01:30.15,Main,Navi,0,0,0,,Sure, totally fine.
 Dialogue: 10,0:01:30.15,0:01:31.20,Main,Liko,0,0,0,,Huh?!
@@ -80,7 +80,7 @@ Dialogue: 10,0:04:25.66,0:04:32.96,Main,Yakata,0,0,0,,{\q2}During my days as a s
 Dialogue: 10,0:04:33.54,0:04:37.17,Main,Yakata,0,0,0,,...I found squishy Pokémon in my time of need! \N And Squipokacts, too!
 Dialogue: 10,0:04:37.72,0:04:38.30,Main,Liko,0,0,0,,Ah...
 Dialogue: 10,0:04:38.30,0:04:42.64,Main,Yakata,0,0,0,,Squipokacts give me \N the energy to live on!
-Dialogue: 10,0:04:43.81,0:04:47.77,Main,Navi,0,0,0,,So basically you love squishies, \N right old man Yakata?
+Dialogue: 10,0:04:43.81,0:04:47.77,Main,Navi,0,0,0,,So basically you love squishies, \N right, old man Yakata?
 Dialogue: 10,0:04:47.77,0:04:53.31,Main,Yakata,0,0,0,,Yes. After reflecting on my desire \N for squishies to be as close to me as possible,
 Dialogue: 10,0:04:54.32,0:04:56.23,Main,Yakata,0,0,0,,I opted for this spec.
 Dialogue: 10,0:04:57.03,0:04:58.74,Main,Navi,0,0,0,,I see!
@@ -290,7 +290,7 @@ Dialogue: 10,0:16:44.40,0:16:46.61,Main,Yakata,0,0,0,,Whether Pendrar’s belly 
 Dialogue: 10,0:16:46.61,0:16:47.65,Main,Lalamoo,0,0,0,,...or hard...
 Dialogue: 10,0:16:47.65,0:16:48.78,Main,Yakata Lalamoo,0,0,0,,...shall be decided by battle!
 Dialogue: 10,0:16:48.78,0:16:50.78,Main,Ult,0,0,0,,It’s battle time!
-Dialogue: 10,0:16:51.41,0:16:54.58,Main,Lalamoo,0,0,0,,Welcome! Haganail!
+Dialogue: 10,0:16:51.41,0:16:54.58,Main,Lalamoo,0,0,0,,Right this way, Haganail!
 Dialogue: 10,0:16:57.25,0:16:59.41,Main,Lalamoo,0,0,0,,Tesseed! Jiodzumu!
 Dialogue: 10,0:17:00.25,0:17:02.88,Main,Liko,0,0,0,,Whoa! They all look so hard!
 Dialogue: 10,0:17:04.54,0:17:05.88,Main,Ult,0,0,0,,They’re mega-cool!
