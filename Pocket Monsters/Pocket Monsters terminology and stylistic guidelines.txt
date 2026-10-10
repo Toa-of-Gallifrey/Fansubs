@@ -81,7 +81,7 @@ burokkingu ブロッキング (Obstruct) - # TBD #
 chaaji bimu チャージビーム (Charge Beam) - Charge Beam
 chaamu boisu チャームボイス (Disarming Voice) - Charm Voice
 chiisakunaru ちいさくなる (Minimize) - Shrink
-chikara o suitoru ちからをすいとる (Strength Sap) - # TBD #
+chikara o suitoru ちからをすいとる (Strength Sap) - Strength Sap
 chikyuunage ちきゅうなげ (Seismic Toss) - Globe Throw
 chou no mai ちょうのまい (Quiver Dance) - # TBD #
 chouhatsu ちょうはつ (Taunt) - Taunt
@@ -503,6 +503,7 @@ mori no noroi もりののろい (Forest's Curse) - Forest's Curse
 moroha no zutsuki もろはのずつき (Head Smash) - # TBD #
 mugendai biimu ムゲンダイビーム (Eternabeam) - # TBD #
 munen no tsurugi むねんのつるぎ (Bitter Blade) - Sword of Regrets
+munikisu hikari 無に帰す光 (Nihil Light) - Light That Returns to Naught
 muunfoosu ムーンフォース (Moonblast) - Moonforce
 mushi kui むしくい (Bug Bite) - Bug Bite
 mushi no sazameki むしのさざめき (Bug Buzz) - # TBD #
@@ -979,12 +980,13 @@ denki enjin でんきエンジン (Motor Drive) - Electric Engine
 denki ni kaeru でんきにかえる (Electromorphosis) - Making Electribbity
 deruta sutoriimu デルタストリーム (Delta Stream) - Delta Stream
 doku bousou どくぼうそう (Toxic Boost) - # TBD #
-doku kugutsu どくくぐつ (Poison Puppeteer) - # TBD #
+doku kugutsu どくくぐつ (Poison Puppeteer) - Poison Puppet
 doku no kusari どくのくさり (Toxic Chain) - # TBD #
 doku no toge どくのトゲ (Poison Point) - # TBD #
 dokugeshou どくげしょう (Toxic Debris) - Poison Coating
 dokushu どくしゅ (Poison Touch) - # TBD #
 donkan どんかん (Oblivious) - Thickheaded
+doragon sukin ドラゴンスキン (Dragonize) - Dragon Skin
 doshoku どしょく (Earth Eater) - # TBD #
 ea rokku エアロック (Air Lock) - Air Lock
 enkaku えんかく (Long Reach) - # TBD #
@@ -1020,6 +1022,7 @@ gyakujou ぎゃくじょう (Berserk) - # TBD #
 gyogun ぎょぐん (Schooling) - # TBD #
 haado rokku ハードロック (Solid Rock) - # TBD #
 hadoron enjin ハドロンエンジン (Hadron Engine) - Hadron Engine
+hadou no bougo はどうのぼうご (Aura Guard) - # TBD #
 hagane no seishin はがねのせいしん (Steely Spirit) - # TBD #
 hagane tsukai はがねつかい (Steelworker) - # TBD #
 hajimari no umi はじまりのうみ (Primordial Sea) - # TBD #
@@ -1042,6 +1045,7 @@ hiraishin ひらいしん (Lightning Rod) - # TBD #
 hiiringu shifuto ヒーリングシフト (Triage) - # TBD #
 hitodenashi ひとでなし (Merciless) - # TBD #
 honoo no karada ほのおのからだ (Flame Body) - Flame Body
+honoo no tategami ほのおのたてがみ (Fire Mane) - # TBD #
 hoo bukuro ほおぶくろ (Cheek Pouch) - # TBD #
 horobi no bodi ほろびのボディ (Perish Body) - # TBD #
 houshi ほうし (Effect Spore) - Spores
@@ -1051,7 +1055,7 @@ ikari no tsubo いかりのつぼ (Anger Point) - # TBD #
 iromegane いろめがね (Tinted Lens) - # TBD #
 iryuujon イリュージョン (Illusion) - Illusion
 ishi atama いしあたま (Rock Head) - Rock Head
-itazuragokoro いたずらごころ (Prankster) - # TBD #
+itazuragokoro いたずらごころ (Prankster) - Mischievous Spirit/Mischief Maker/Mischief Lover [TBD]
 iwahakobi いわはこび (Rocky Payload) - # TBD #
 iyashi no kokoro いやしのこころ (Healer) - Healing Heart
 jikyuuryoku じきゅうりょく (Stamina) - Endurance
@@ -1068,8 +1072,9 @@ kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
 kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
 kage fumi かげふみ (Shadow Tag) - Shadow Tag
 kairiki basami かいりきバサミ (Hyper Cutter) - Superstrong Pincers
-kanrona mitsu かんろなミツ (Supersweet Syrup) - # TBD #
+kanro na mitsu かんろなミツ (Supersweet Syrup) - Sweet Syrup
 kansou hada かんそうはだ (Dry Skin) - # TBD #
+kantsuu doriru かんつうドリル (Piercing Drill) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
 karuwaza かるわざ (Unburden) - Acrobatic
 kasoku かそく (Speed Boost) - Speed Boost
@@ -1113,6 +1118,7 @@ makenki まけんき (Defiant) - # TBD #
 maruchisukeiru マルチスケイル (Multiscale) - Multiscale
 maruchitaipu マルチタイプ (Multitype) - Multitype
 mega ranchaa メガランチャー (Mega Launcher) - Mega Launcher
+mega sooraa メガソーラー (Mega Sol) - Mega Solar
 men'eki めんえき (Immunity) - # TBD #
 meromero bodi メロメロボディ (Cute Charm) - # TBD #
 metaru purotekuto メタルプロテクト (Full Metal Body) - # TBD #
@@ -1221,12 +1227,14 @@ teraboruteeji テラボルテージ (Teravolt) - # TBD #
 terepashii テレパシー (Telepathy) - Telepathy
 tetsu no kobushi てつのこぶし (Iron Fist) - Iron Fist
 tetsu no toge てつのトゲ (Iron Barbs) - Iron Barbs
+tobidasu habanero とびだすハバネロ (Spicy Spray) - # TBD #
 tobidasu nakami とびだすなかみ (Innards Out) - Ejecting Innards
 toranjisuta トランジスタ (Transistor) - Transistor
 toreesu トレース (Trace) - Trace
 torenai nioi とれないにおい (Lingering Aroma) - # TBD #
 tousoushin とうそうしん (Rivalry) - # TBD #
 u no misairu うのミサイル (Gulp Missile) - # TBD #
+unagi nobori うなぎのぼり (Eelevate) - # TBD #
 uruoi bodi うるおいボディ (Hydration) - # TBD #
 uruoi boisu うるおいボイス (Liquid Voice) - # TBD #
 waruite guse わるいてぐせ (Pickpocket) - # TBD #
@@ -2265,12 +2273,12 @@ POKÉMON NAMES
 1011 カミッチュ 
 1012 チャデス 
 1013 ヤバソチャ Yabasocha - まっちゃポケモン 
-1014 イイネイヌ 
-1015 マシマシラ 
-1016 キチキギス 
-1017 オーガポン 
+1014 イイネイヌ Iine'inu - けらいポケモン 
+1015 マシマシラ Mashimashira - けらいポケモン 
+1016 キチキギス Kichikigisu - けらいポケモン 
+1017 オーガポン Ogrepon - おめんポケモン Mask Pokémon
 1018 ブリジュラス Bridgeurus - ごうきんポケモン Alloy Pokémon
-1019 カミツオロチ 
+1019 カミツオロチ Kamitsuorochi - りんごオロチポケモン Apple Serpent Pokémon
 1020 ウガツホムラ Gouging Inferno - パラドックスポケモン Paradox Pokémon
 1021 タケルライコ 
 1022 テツノイワオ 
