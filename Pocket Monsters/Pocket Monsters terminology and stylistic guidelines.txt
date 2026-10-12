@@ -2260,10 +2260,10 @@ POKÉMON NAMES
 0998 セグレイブ Seglaive - ひょうりゅうポケモン Ice Dragon Pokémon
 0999 コレクレー Collecurei - たからばこポケモン Treasure Chest Pokémon | Walking Forme - たからさがしポケモン Treasure Hunter Pokémon
 1000 サーフゴー Surfugo - たからものポケモン Treasure Pokémon
-1001 チオンジェン 
-1002 パオジアン 
-1003 ディンルー 
-1004 イーユイ 
+1001 チオンジェン Chóngjiǎn - さいやくポケモン Calamity Pokémon
+1002 パオジアン Bàojiàn - さいやくポケモン Calamity Pokémon
+1003 ディンルー Dǐnglù - さいやくポケモン Calamity Pokémon
+1004 イーユイ Yùyú - さいやくポケモン Calamity Pokémon
 1005 トドロクツキ 
 1006 テツノブジン 
 1007 コライドン Koraidon - パラドックスポケモン Paradox Pokémon
