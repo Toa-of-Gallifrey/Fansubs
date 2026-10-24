@@ -251,7 +251,7 @@ Dialogue: 10,0:24:13.56,0:24:14.85,Main,Liko,0,0,0,,Ms. Raifort!{sensei}
 Dialogue: 10,0:24:14.85,0:24:18.02,Main,Raifort,0,0,0,,I’d like to entrust you \N with an important investigation. You in?
 Dialogue: 10,0:24:18.02,0:24:18.77,Main,Kids,0,0,0,,Huh?
 Dialogue: 10,0:24:18.77,0:24:22.15,Main,Liko,0,0,0,,And so, to be continued \N next time on Pocket Monsters!
-Dialogue: 10,0:24:22.15,0:24:24.57,Main,Liko,0,0,0,,Paldea in Calamity ―Return
+Dialogue: 10,0:24:22.15,0:24:24.57,Main,Liko,0,0,0,,Paldea in Calamity ―Revival
 Dialogue: 10,0:24:24.57,0:24:26.15,Main,Ult,0,0,0,,What’s a “calamity”?
 Dialogue: 10,0:24:26.15,0:24:28.49,Main,Navi,0,0,0,,Navi gets to be in a parade!
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -1163,40 +1163,40 @@ Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro
 Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,826.78)\fscx80\fscy80\4a&HFF&}Dango
 Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820.77)\fscx80\fscy80\4a&HFF&}Dango
 Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=34}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Dango
-Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx80\fscy80}Manju
-Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manju
-Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1104.63)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1075.58)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1046.76)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1018.11)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,989.8)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,961.84)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,934.55)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,908.08)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,882.99)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,859.92)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,840.48)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,826.78)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820.77)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manju
+Dialogue: 0,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1104.63)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1075.58)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1046.76)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1018.11)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,989.8)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,961.84)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,934.55)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,908.08)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,882.99)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,859.92)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,840.48)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,826.78)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820.77)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=33}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manjuu
+Dialogue: 1,0:21:58.34,0:21:58.38,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1104.63)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.38,0:21:58.42,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1075.58)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.42,0:21:58.46,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1046.76)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.46,0:21:58.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1018.11)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.51,0:21:58.55,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,989.8)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.55,0:21:58.59,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,961.84)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.59,0:21:58.63,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,934.55)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.63,0:21:58.67,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,908.08)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.67,0:21:58.71,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,882.99)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.71,0:21:58.76,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,859.92)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,840.48)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,826.78)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820.77)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manjuu
 Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}Mochi
 Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}Mochi
 Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}Dango
 Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Dango
-Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manju
-Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manju
+Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manjuu
+Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manjuu
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1109.71)\fscx80\fscy80}Mochi
 Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=49}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,1074.95)\fscx80\fscy80}Mochi
@@ -1246,30 +1246,30 @@ Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro
 Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,831.3)\fscx80\fscy80\4a&HFF&}Dango
 Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,821.32)\fscx80\fscy80\4a&HFF&}Dango
 Dialogue: 1,0:23:42.98,0:23:45.49,Main,,0,0,0,,{=46}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}Dango
-Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx80\fscy80}Manju
-Dialogue: 0,0:23:42.98,0:23:45.49,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manju
-Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1109.71)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1074.95)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1040.49)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1006.27)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,972.62)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,939.65)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,907.88)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,877.9)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,851.4)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,831.3)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,821.32)\fscx80\fscy80\4a&HFF&}Manju
-Dialogue: 1,0:23:42.98,0:23:45.49,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manju
+Dialogue: 0,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1109.71)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1074.95)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1040.49)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,1006.27)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,972.62)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,939.65)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,907.88)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,877.9)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,851.4)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,831.3)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,821.32)\fscx80\fscy80}Manjuu
+Dialogue: 0,0:23:42.98,0:23:45.49,Main,,0,0,0,,{=45}{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Manjuu
+Dialogue: 1,0:23:42.53,0:23:42.57,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1109.71)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.57,0:23:42.61,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1074.95)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.61,0:23:42.65,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1040.49)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.65,0:23:42.69,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,1006.27)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.69,0:23:42.73,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,972.62)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.73,0:23:42.78,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,939.65)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.78,0:23:42.82,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,907.88)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.82,0:23:42.86,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,877.9)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.86,0:23:42.90,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,851.4)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.90,0:23:42.94,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,831.3)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.94,0:23:42.98,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,821.32)\fscx80\fscy80\4a&HFF&}Manjuu
+Dialogue: 1,0:23:42.98,0:23:45.49,Main,,0,0,0,,{=44}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Manjuu
 Dialogue: 0,0:23:43.86,0:23:45.49,Main,,0,0,0,,{\blur3\bord6\fnGMaruGoPro-DB-Str\b0\3c&HAFC9FB&\c&HAFC9FB&\pos(330,820)\fscx80\fscy80}Mochi
 Dialogue: 1,0:23:43.86,0:23:45.49,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&HFDFEFE&\pos(330,820)\fscx80\fscy80\4a&HFF&}Mochi
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
@@ -1459,56 +1459,56 @@ Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,224,554,225)\p
 Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{\clip(4,225,554,226)\pos(249.66,240.61)\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&}Next episode
 Dialogue: 2,0:24:18.27,0:24:26.95,Episode titles,,0,0,0,,{=7}{\i0\fscx75\fscy75\fsp3\bord0\shad0\blur0.6\c&H341DFF&\pos(249.66,240.61)\clip(10.17,226,554.35,344.92)}Next episode
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=8}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}Paldea in Calamity {\fscx500}-{\fscx}Return
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Paldea in Calamity {\fscx500}-{\fscx}Return
-Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=9}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}Paldea in Calamity {\fscx500}-{\fscx}Return
+Dialogue: 0,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=8}{\bord5\shad3\blur6\pos(960,400)\c&HFFFFFF&\4c&HFFFFFF&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 1,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\blur0.6\pos(960,400)\c&HFFFFFF&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&HFAFE1F&\clip(12.59,330.82,1904.19,373.58)}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\clip(12.59,330.82,1904.19,373.58)\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Comment: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(12.59,330.82,1904.19,373.58)}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,330,1904,331)\pos(960,400)\bord0\shad0\blur0.6\c&HFAFE1F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,331,1904,332)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF81F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,332,1904,333)\pos(960,400)\bord0\shad0\blur0.6\c&HFAF31F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,333,1904,334)\pos(960,400)\bord0\shad0\blur0.6\c&HFBED1F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,334,1904,335)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE81F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,335,1904,336)\pos(960,400)\bord0\shad0\blur0.6\c&HFBE220&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,336,1904,337)\pos(960,400)\bord0\shad0\blur0.6\c&HFCDD20&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,337,1904,338)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD720&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,338,1904,339)\pos(960,400)\bord0\shad0\blur0.6\c&HFCD220&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,339,1904,340)\pos(960,400)\bord0\shad0\blur0.6\c&HFDCC20&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,340,1904,341)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC721&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,341,1904,342)\pos(960,400)\bord0\shad0\blur0.6\c&HFDC121&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,342,1904,343)\pos(960,400)\bord0\shad0\blur0.6\c&HFEBC21&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,343,1904,344)\pos(960,400)\bord0\shad0\blur0.6\c&HFEB621&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,344,1904,345)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,345,1904,346)\pos(960,400)\bord0\shad0\blur0.6\c&HFFB122&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,346,1904,347)\pos(960,400)\bord0\shad0\blur0.6\c&HF8AB29&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,347,1904,348)\pos(960,400)\bord0\shad0\blur0.6\c&HF2A530&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,348,1904,349)\pos(960,400)\bord0\shad0\blur0.6\c&HEBA038&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,349,1904,350)\pos(960,400)\bord0\shad0\blur0.6\c&HE59A3F&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,350,1904,351)\pos(960,400)\bord0\shad0\blur0.6\c&HDE9446&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,351,1904,352)\pos(960,400)\bord0\shad0\blur0.6\c&HD88F4E&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,352,1904,353)\pos(960,400)\bord0\shad0\blur0.6\c&HD18955&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,353,1904,354)\pos(960,400)\bord0\shad0\blur0.6\c&HCB845D&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,354,1904,355)\pos(960,400)\bord0\shad0\blur0.6\c&HC47E64&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,355,1904,356)\pos(960,400)\bord0\shad0\blur0.6\c&HBE786B&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,356,1904,357)\pos(960,400)\bord0\shad0\blur0.6\c&HB77373&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,357,1904,358)\pos(960,400)\bord0\shad0\blur0.6\c&HB16D7A&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,358,1904,359)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,359,1904,360)\pos(960,400)\bord0\shad0\blur0.6\c&HAB6882&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,360,1904,361)\pos(960,400)\bord0\shad0\blur0.6\c&HA1628B&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,361,1904,362)\pos(960,400)\bord0\shad0\blur0.6\c&H985C95&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,362,1904,363)\pos(960,400)\bord0\shad0\blur0.6\c&H8F569E&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,363,1904,364)\pos(960,400)\bord0\shad0\blur0.6\c&H8650A8&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,364,1904,365)\pos(960,400)\bord0\shad0\blur0.6\c&H7D4BB2&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,365,1904,366)\pos(960,400)\bord0\shad0\blur0.6\c&H7445BB&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,366,1904,367)\pos(960,400)\bord0\shad0\blur0.6\c&H6A3FC5&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,367,1904,368)\pos(960,400)\bord0\shad0\blur0.6\c&H6139CE&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,368,1904,369)\pos(960,400)\bord0\shad0\blur0.6\c&H5834D8&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,369,1904,370)\pos(960,400)\bord0\shad0\blur0.6\c&H4F2EE2&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,370,1904,371)\pos(960,400)\bord0\shad0\blur0.6\c&H4628EB&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,371,1904,372)\pos(960,400)\bord0\shad0\blur0.6\c&H3D22F5&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{\clip(12,372,1904,373)\pos(960,400)\bord0\shad0\blur0.6\c&H341DFF&}Paldea in Calamity {\fscx500}-{\fscx}Revival
+Dialogue: 2,0:24:26.95,0:24:30.45,Episode titles,,0,0,0,,{=9}{\bord0\shad0\blur0.6\pos(960,400)\c&H341DFF&\clip(0,373,1904.19,1050.25)}Paldea in Calamity {\fscx500}-{\fscx}Revival
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 
 [Aegisub Extradata]
