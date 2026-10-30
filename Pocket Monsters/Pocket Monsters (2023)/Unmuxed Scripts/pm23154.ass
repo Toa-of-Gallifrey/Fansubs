@@ -1274,8 +1274,8 @@ Dialogue: 1,0:21:58.76,0:21:58.80,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro
 Dialogue: 1,0:21:58.80,0:21:58.84,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,826.78)\fscx80\fscy80\4a&HFF&}Curved beads
 Dialogue: 1,0:21:58.84,0:21:58.88,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820.77)\fscx80\fscy80\4a&HFF&}Curved beads
 Dialogue: 1,0:21:58.88,0:22:01.51,Main,,0,0,0,,{=32}{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(1590,820)\fscx80\fscy80\4a&HFF&}Curved beads
-Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}An icicle
-Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}An icicle
+Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(330,820)\fscx80\fscy80}A mirror
+Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(330,820)\fscx80\fscy80\4a&HFF&}A mirror
 Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(960,820)\fscx80\fscy80}A sword
 Dialogue: 1,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur0.6\bord0\fnGMaruGoPro-DB-Str\b0\c&H000000&\pos(960,820)\fscx80\fscy80\4a&HFF&}A sword
 Dialogue: 0,0:22:01.51,0:22:06.47,Main,,0,0,0,,{\blur1\bord3\fnGMaruGoPro-DB-Str\b0\3c&HFEFEFE&\c&HFEFEFE&\pos(1590,820)\fscx80\fscy80}Curved beads
