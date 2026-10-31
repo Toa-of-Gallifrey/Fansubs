@@ -41,7 +41,7 @@ Dialogue: 10,0:01:33.91,0:01:36.20,Main,Roy,0,0,0,,Lucario... You were really {\
 Dialogue: 10,0:01:36.99,0:01:39.62,Main,Roy,0,0,0,,Its power and speed are overwhelming.
 Dialogue: 10,0:01:39.62,0:01:41.71,Main,Roy,0,0,0,,And it even heals in the snow...
 Dialogue: 10,0:01:42.79,0:01:44.46,Main,Roy,0,0,0,,You’re {\i1}strong,{\i0} aren’t you?
-Dialogue: 10,0:01:50.67,0:01:53.72,Main,Roy,0,0,0,,And because you’re strong, \N I wanna beat you!
+Dialogue: 10,0:01:50.67,0:01:53.72,Main,Roy,0,0,0,,And because you’re strong, \N we wanna beat you!
 Comment: 0,0:02:00.35,0:02:00.35,Main,,0,0,0,,{Opening}
 Comment: 0,0:03:30.44,0:03:30.44,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:03:43.91,0:03:46.25,Main,Dot,0,0,0,,Wanival, dodge it with your dance steps!
@@ -66,7 +66,7 @@ Dialogue: 10,0:06:05.68,0:06:07.89,Main,Ult,0,0,0,,Smash that gem into it!
 Dialogue: 10,0:06:11.89,0:06:15.06,Main,Ult,0,0,0,,Ya fell for it! \N That was all part of my plan!
 Dialogue: 10,0:06:24.16,0:06:25.91,Main,Liko,0,0,0,,Brimuon! Psycho Cutter!
 Dialogue: 10,0:06:32.87,0:06:34.71,Main,Liko,0,0,0,,Now I know...
-Dialogue: 10,0:06:34.71,0:06:37.59,Main,Liko,0,0,0,,...it’s not {\i1}just{\i0} Fire type, \N but Evil type, too!
+Dialogue: 10,0:06:34.71,0:06:37.59,Main,Liko,0,0,0,,{\t(2395,2854,\3c&HFFFFFF&)}...it’s not {\i1}just{\i0} Fire type, \N but Evil type, too!
 Dialogue: 10,0:06:37.59,0:06:39.71,Main,Liko,0,0,0,,Masquernya! Trick Flower!
 Dialogue: 10,0:06:53.18,0:06:54.56,Main,Liko,0,0,0,,Brimuon! Mind Power!
 Dialogue: 10,0:07:05.03,0:07:06.45,Main,Liko,0,0,0,,Brimuon!
@@ -109,7 +109,7 @@ Dialogue: 10,0:10:18.51,0:10:23.77,Main,Hokkora,0,0,0,,But in a fit of cowardice
 Dialogue: 10,0:10:23.77,0:10:26.48,Main,Hokkora,0,0,0,,He even forced the girl to help.
 Dialogue: 10,0:10:26.48,0:10:28.11,Main,Raifort,0,0,0,,The sealed shrines...
 Dialogue: 10,0:10:28.90,0:10:33.78,Main,Hokkora,0,0,0,,But while the girl pretended to help, \N she set a trick upon them.
-Dialogue: 10,0:10:33.78,0:10:36.12,Main,Raifort,0,0,0,,Just what {\i1}sort{\i0} of—?
+Dialogue: 10,0:10:33.78,0:10:36.07,Main,Raifort,0,0,0,,Just what sort of—?
 Dialogue: 10,0:10:39.03,0:10:41.08,Main,Raifort,0,0,0,,The four have begun to move.
 Dialogue: 10,0:10:41.08,0:10:45.33,Main,Hokkora,0,0,0,,They’ve started drawing one another in again? \N Make haste to the predicted spot!
 Dialogue: 10,0:10:54.80,0:10:57.09,Main,Roy,0,0,0,,Loudbone, keep it up with Flare Song!
