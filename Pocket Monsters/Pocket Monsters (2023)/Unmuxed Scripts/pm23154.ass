@@ -44,8 +44,8 @@ Dialogue: 10,0:00:52.74,0:00:55.87,Main,Botan,0,0,0,,A sword and mirror \N peopl
 Dialogue: 10,0:00:55.87,0:00:58.83,Main,Botan,0,0,0,,Some Pokémon are born from objects{things}.
 Dialogue: 10,0:00:59.58,0:01:03.08,Main,Student,0,0,0,,When people form emotional ties to objects{things}, \N life comes to inhabit them.
 Dialogue: 10,0:01:03.08,0:01:07.67,Main,Student,0,0,0,,Thank you for coming to stay with me! \N I’ll treasure you all the more, ‘kay?
-Dialogue: 10,0:01:07.67,0:01:10.38,Main,Navi,0,0,0,,Pokémon born from objects{things}, huh...?
-Dialogue: 10,0:01:10.38,0:01:12.43,Main,Navi,0,0,0,,That sounds fun!
+Dialogue: 10,0:01:07.67,0:01:10.76,Main,Navi,0,0,0,,Pokémon born from objects{things}, huh...?
+Dialogue: 10,0:01:10.76,0:01:12.43,Main,Navi,0,0,0,,That sounds fun!
 Comment: 0,0:01:12.43,0:01:12.43,Main,,0,0,0,,{Opening}
 Comment: 0,0:02:42.52,0:02:42.52,Main,,0,0,0,,{Part B}
 Dialogue: 10,0:02:52.53,0:02:55.78,Main,Raifort,0,0,0,,You lot... First and foremost, \N I’m glad you’re safe.
@@ -90,7 +90,7 @@ Dialogue: 10,0:04:43.39,0:04:46.02,Main,Raifort,0,0,0,,I won’t get a chance li
 Dialogue: 10,0:04:46.02,0:04:47.14,Main,Liko,0,0,0,,U-Uhh...
 Dialogue: 10,0:04:47.14,0:04:50.35,Main,Roy,0,0,0,,Didn’t you say they bring disaster...?
 Dialogue: 10,0:04:50.35,0:04:51.65,Main,Raifort,0,0,0,,Oh, excuse me.
-Dialogue: 10,0:04:52.52,0:04:56.15,Main,Raifort,0,0,0,,They also appear in a folktale \N of the Kingdom of Paldea.
+Dialogue: 10,0:04:52.48,0:04:56.48,Main,Raifort,0,0,0,,They also appear in a folktale \N of the Kingdom of Paldea.
 Dialogue: 10,0:04:56.48,0:04:58.03,Main,Roy,0,0,0,,The Kingdom of Paldea...
 Dialogue: 10,0:04:58.03,0:05:02.03,Main,Liko,0,0,0,,Please, tell us more \N about those Pokémon!
 Dialogue: 10,0:05:07.83,0:05:11.54,Main,Raifort,0,0,0,,“There was once a time where \N a vast kingdom ruled the lands of Paldea.
@@ -133,7 +133,7 @@ Dialogue: 10,0:07:46.86,0:07:50.95,Main,Raifort,0,0,0,,But what we {\i1}do{\i0} 
 Dialogue: 10,0:07:50.95,0:07:53.49,Main,Roy,0,0,0,,We felt as much in our battles.
 Dialogue: 10,0:07:53.49,0:07:57.33,Main,Raifort,0,0,0,,I plan to continue \N my research on them.
 Dialogue: 10,0:07:58.75,0:08:02.75,Main,Ult,0,0,0,,Still, objects turnin’ into Pokémon, \N that’s mega-strange.{fushigi}
-Dialogue: 10,0:08:02.75,0:08:08.93,Main,Dot,0,0,0,,It’s like with my Surfugo. \N A soul came to dwell in coins once used by people.
+Dialogue: 10,0:08:02.75,0:08:08.93,Main,Dot,0,0,0,,{\t(5655,6155,\3c&HFFFFFF&)}It’s like with my Surfugo. \N A soul came to dwell in coins once used by people.
 Dialogue: 10,0:08:08.93,0:08:13.85,Main,Raifort,0,0,0,,Our feelings can rub off \N on treasured objects, and so bring life.
 Dialogue: 10,0:08:13.85,0:08:20.27,Main,Raifort,0,0,0,,{\q2}On the other hand... Pokémon like Jupetta, \N born from the grudges of stuffed toys discarded by kids...
 Dialogue: 10,0:08:20.27,0:08:22.69,Main,Raifort,0,0,0,,...may be a closer comparison \N to those four.
@@ -199,7 +199,7 @@ Dialogue: 10,0:12:08.42,0:12:10.58,Main,Sango,0,0,0,,Oh, that thing just wandere
 Dialogue: 10,0:12:10.58,0:12:15.13,Main,Hokkora,0,0,0,,Wh-What did you say? \N So its seal really {\i1}has{\i0} come undone...
 Dialogue: 10,0:12:15.13,0:12:17.55,Main,Onyx,0,0,0,,Seal? What do you mean?
 Dialogue: 10,0:12:17.55,0:12:19.30,Main,Hokkora,0,0,0,,The other shrines are the same.
-Dialogue: 10,0:12:19.30,0:12:25.72,Main,Hokkora,0,0,0,,{\q2}By pulling out the stakes, \N the four Calamity Pokémon sealed long ago have awakened.
+Dialogue: 10,0:12:19.30,0:12:25.72,Main,Hokkora,0,0,0,,{\q2}By pulling out the stakes, the four Calamity Pokémon \N sealed long ago have awakened.
 Dialogue: 10,0:12:25.72,0:12:27.94,Main,Hokkora,0,0,0,,Disaster will befall Paldea.
 Dialogue: 10,0:12:27.94,0:12:28.73,Main,Onyx,0,0,0,,Huh?
 Dialogue: 10,0:12:28.73,0:12:29.81,Main,Sango,0,0,0,,Huh...
@@ -310,7 +310,7 @@ Dialogue: 10,0:20:58.15,0:20:58.99,Main,Hokkora,0,0,0,,{\an8}Hrm?
 Dialogue: 10,0:20:59.53,0:21:03.16,Main,Hokkora,0,0,0,,Truly a shock... \N So they really {\i1}have{\i0} been revived...
 Dialogue: 10,0:21:03.78,0:21:07.37,Main,Raifort,0,0,0,,You were studying the sealed shrines, \N weren’t you, sir?{sensei}
 Dialogue: 10,0:21:07.37,0:21:11.04,Main,Hokkora,0,0,0,,We can talk later. \N For now, we mustn’t allow them to meet up.
-Dialogue: 10,0:21:11.04,0:21:15.05,Main,Hokkora,0,0,0,,I don’t want to burden them \N with any {\i1}more{\i0} human ire{hatred}.
+Dialogue: 10,0:21:11.04,0:21:15.05,Main,Hokkora,0,0,0,,I don’t want to burden them \N with any {\i1}more{\i0} human hatred.
 Dialogue: 10,0:21:22.39,0:21:24.80,Main,Liko,0,0,0,,Guren'arma’s fire hasn’t let up yet.
 Dialogue: 10,0:21:24.80,0:21:27.56,Main,Liko,0,0,0,,Masquernya and Brimuon \N won’t waste this opportunity!
 Dialogue: 10,0:21:29.85,0:21:31.44,Main,Dot,0,0,0,,Yeah, Wanival!
