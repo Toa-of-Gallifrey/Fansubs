@@ -136,7 +136,7 @@ Dialogue: 10,0:10:46.63,0:10:49.63,Main,Orio,0,0,0,,Hmm... That’s not enough h
 Dialogue: 10,0:10:50.38,0:10:54.38,Main,Orio,0,0,0,,Gonna need a bigger flame \N if we want to make a ship fly...
 Dialogue: 10,0:10:57.14,0:10:57.80,Main,Orio,0,0,0,,Huh?
 Dialogue: 10,0:10:58.60,0:11:00.14,Main,Orio,0,0,0,,Why?!
-Dialogue: 10,0:11:03.64,0:11:06.60,Main,Orio,0,0,0,,A Wild Magmag... \N When’d that get in there?
+Dialogue: 10,0:11:03.64,0:11:06.60,Main,Orio,0,0,0,,A wild Magmag... \N When’d that get in there?
 Dialogue: 10,0:11:12.44,0:11:13.82,Main,Orio,0,0,0,,And a Toroggon!
 Dialogue: 10,0:11:22.41,0:11:24.21,Main,Orio,0,0,0,,You like it here?
 Dialogue: 10,0:11:26.71,0:11:29.96,Main,Orio,0,0,0,,We’re gonna go flying through the skies!
@@ -186,7 +186,7 @@ Dialogue: 10,0:16:21.79,0:16:24.76,Main,Molly,0,0,0,,And after we’ve come so f
 Dialogue: 10,0:16:42.11,0:16:43.90,Main,Molly,0,0,0,,You guys...
 Dialogue: 10,0:16:43.90,0:16:46.86,Main,Orio,0,0,0,,They believe that \N there’s more beyond the wall!
 Dialogue: 10,0:16:52.28,0:16:55.08,Main,Orio,0,0,0,,Then let’s join them! Metagross!
-Dialogue: 10,0:16:57.41,0:16:59.87,Main,Molly,0,0,0,,Yeah, we’re not giving up!{"Yeah" to represent that this follows Orio's atashi-tachi mo}
+Dialogue: 10,0:16:57.41,0:16:59.79,Main,Molly,0,0,0,,Yeah, we’re not giving up! Lucky!{"Yeah" to represent that this follows Orio's atashi-tachi mo}
 Dialogue: 10,0:17:16.93,0:17:18.14,Main,Orio,0,0,0,,Magmag...
 Dialogue: 10,0:17:20.69,0:17:21.77,Main,Molly,0,0,0,,Toroggon...
 Dialogue: 10,0:17:26.53,0:17:28.53,Main,Orio Molly,0,0,0,,Go!
