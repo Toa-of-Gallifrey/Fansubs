@@ -1011,7 +1011,7 @@ fushigi na mamori ふしぎなまもり (Wonder Guard) - # TBD #
 fushoku ふしょく (Corrosion) - # TBD #
 futou no ken ふとうのけん (Intrepid Sword) - # TBD #
 fuuryoku denki ふうりょくでんき (Wind Power) - Wind Power
-fuyuu ふゆう (Levitate) - # TBD #
+fuyuu ふゆう (Levitate) - Levitate
 ganjou がんじょう (Sturdy) - # TBD #
 ganjou ago がんじょうあご (Strong Jaw) - # TBD #
 gekiryuu げきりゅう (Torrent) - Torrent
@@ -1040,7 +1040,7 @@ hengen jizai へんげんじざい (Protean) - Protean
 henshoku へんしょく (Color Change) - # TBD #
 hevi metaru ヘヴィメタル (Heavy Metal) - Heavy Metal
 hideri ひでり (Drought) - # TBD #
-hihi'iro no kodou ひひいろのこどう (Orichalcum Pulse) - # TBD #
+hihi'iro no kodou ひひいろのこどう (Orichalcum Pulse) - Sun-Scarlet Pulse
 hiraishin ひらいしん (Lightning Rod) - # TBD #
 hiiringu shifuto ヒーリングシフト (Triage) - # TBD #
 hitodenashi ひとでなし (Merciless) - # TBD #
@@ -1180,7 +1180,7 @@ seigi no kokoro せいぎのこころ (Justified) - Heart of Justice
 seishinryoku せいしんりょく (Inner Focus) - Force of Will
 sheru aamaa シェルアーマー (Shell Armor) - Shell Armor
 shimerike しめりけ (Damp) - # TBD #
-shingan しんがん (Mind's Eye) - # TBD #
+shingan しんがん (Mind's Eye) - Mind's Eye
 shinkuro シンクロ (Synchronize) - Synchro
 shinryoku しんりょく (Overgrow) - Fresh Greenery
 shireitou しれいとう (Commander) - # TBD #
