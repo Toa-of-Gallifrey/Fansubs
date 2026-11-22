@@ -1067,12 +1067,12 @@ jo'ou no igen じょおうのいげん (Queenly Majesty) - # TBD #
 jukusei じゅくせい (Ripen) - # TBD #
 juunan じゅうなん (Limber) - Limber
 kabuto aamaa カブトアーマー (Battle Armor) - Helmet Armor
-kachiki かちき (Competitive) - # TBD #
+kachiki かちき (Competitive) - Unyielding Spirit
 kagaku henka gasu かがくへんかガス (Neutralizing Gas) - # TBD #
 kagaku no chikara かがくのちから (Power of Alchemy) - Power of Science
 kage fumi かげふみ (Shadow Tag) - Shadow Tag
 kairiki basami かいりきバサミ (Hyper Cutter) - Superstrong Pincers
-kanro na mitsu かんろなミツ (Supersweet Syrup) - Sweet Syrup
+kanro na mitsu かんろなミツ (Supersweet Syrup) - Sweet Nectar
 kansou hada かんそうはだ (Dry Skin) - # TBD #
 kantsuu doriru かんつうドリル (Piercing Drill) - # TBD #
 kaarii heaa カーリーヘアー (Tangling Hair) - # TBD #
@@ -1114,7 +1114,7 @@ maiti chenji マイティチェンジ (Zero to Hero) - Mighty Change
 majikku gaado マジックガード (Magic Guard) - Magic Guard
 majikku miraa マジックミラー (Magic Bounce) - Magic Mirror
 majishan マジシャン (Magician) - # TBD #
-makenki まけんき (Defiant) - # TBD #
+makenki まけんき (Defiant) - Competitive Spirit
 maruchisukeiru マルチスケイル (Multiscale) - Multiscale
 maruchitaipu マルチタイプ (Multitype) - Multitype
 mega ranchaa メガランチャー (Mega Launcher) - Mega Launcher
@@ -1220,7 +1220,7 @@ tekiouryouku てきおうりょく (Adaptability) - Adaptability
 tekunishan テクニシャン (Technician) - Technician
 ten no megumi てんのめぐみ (Serene Grace) - Heaven's Blessings
 tenkiya てんきや (Forecast) - # TBD #
-tennen てんねん (Unaware) - # TBD #
+tennen てんねん (Unaware) - Airheaded
 tera chenji テラスチェンジ (Tera Shift) - Tera Change
 tera sheru テラスシェル (Tera Shell) - Tera Shell
 teraboruteeji テラボルテージ (Teravolt) - # TBD #
@@ -1240,9 +1240,9 @@ uruoi boisu うるおいボイス (Liquid Voice) - # TBD #
 waruite guse わるいてぐせ (Pickpocket) - # TBD #
 watage わたげ (Cotton Down) - # TBD #
 wazawai no ofuda わざわいのおふだ (Tablets of Ruin) - # TBD #
-wazawai no tama わざわいのたま (Beads of Ruin) - # TBD #
-wazawai no tsurugi わざわいのつるぎ (Sword of Ruin) - # TBD #
-wazawai no utsawa わざわいのうつわ (Vessel of Ruin) - # TBD #
+wazawai no tama わざわいのたま (Beads of Ruin) - Beads of Disaster
+wazawai no tsurugi わざわいのつるぎ (Sword of Ruin) - Sword of Disaster
+wazawai no utsuwa わざわいのうつわ (Vessel of Ruin) - # TBD #
 yaruki やるき (Vital Spirit) - # TBD #
 yobimizu よびみず (Storm Drain) - # TBD #
 yochimu よちむ (Forewarn) - # TBD #
