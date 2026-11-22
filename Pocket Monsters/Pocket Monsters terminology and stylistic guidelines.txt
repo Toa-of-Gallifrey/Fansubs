@@ -1012,7 +1012,7 @@ fushoku ふしょく (Corrosion) - # TBD #
 futou no ken ふとうのけん (Intrepid Sword) - # TBD #
 fuuryoku denki ふうりょくでんき (Wind Power) - Wind Power
 fuyuu ふゆう (Levitate) - Levitate
-ganjou がんじょう (Sturdy) - # TBD #
+ganjou がんじょう (Sturdy) - Sturdy
 ganjou ago がんじょうあご (Strong Jaw) - # TBD #
 gekiryuu げきりゅう (Torrent) - Torrent
 gitai ぎたい (Mimicry) - Mimicry
@@ -1039,9 +1039,9 @@ hedoro eki ヘドロえき (Liquid Ooze) - # TBD #
 hengen jizai へんげんじざい (Protean) - Protean
 henshoku へんしょく (Color Change) - # TBD #
 hevi metaru ヘヴィメタル (Heavy Metal) - Heavy Metal
-hideri ひでり (Drought) - # TBD #
+hideri ひでり (Drought) - Drought
 hihi'iro no kodou ひひいろのこどう (Orichalcum Pulse) - Sun-Scarlet Pulse
-hiraishin ひらいしん (Lightning Rod) - # TBD #
+hiraishin ひらいしん (Lightning Rod) - Lightning Rod
 hiiringu shifuto ヒーリングシフト (Triage) - # TBD #
 hitodenashi ひとでなし (Merciless) - # TBD #
 honoo no karada ほのおのからだ (Flame Body) - Flame Body
