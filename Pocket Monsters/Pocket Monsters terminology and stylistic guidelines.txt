@@ -1107,7 +1107,7 @@ kyouen きょうえん (Costar) - # TBD #
 kyousei きょうせい (Symbiosis) - # TBD #
 kyouun きょううん (Super Luck) - Great Luck
 kyuuban きゅうばん (Suction Cups) - # TBD #
-maguma no yoroi マグマのよろい (Magma Armor) - # TBD #
+maguma no yoroi マグマのよろい (Magma Armor) - Magma Armor
 mai peesu マイペース (Own Tempo) - # TBD #
 mainasu マイナス (Minus) - Minus
 maiti chenji マイティチェンジ (Zero to Hero) - Mighty Change
@@ -1477,8 +1477,8 @@ POKÉMON NAMES
 0215 ニューラ Nyula - かぎづめポケモン 
 0216 ヒメグマ Himeguma - こぐまポケモン Little Bear Pokémon
 0217 リングマ Ringuma - とうみんポケモン 
-0218 マグマッグ Magmag - ようがんポケモン 
-0219 マグカルゴ Magcargot - ようがんポケモン 
+0218 マグマッグ Magmag - ようがんポケモン Lava Pokémon
+0219 マグカルゴ Magcargot - ようがんポケモン Lava Pokémon
 0220 ウリムー 
 0221 イノムー 
 0222 サニーゴ Sunnygo - さんごポケモン Coral Pokémon
@@ -1695,7 +1695,7 @@ POKÉMON NAMES
 0433 リーシャン Rishan - すずポケモン 
 0434 スカンプー Skunpuu - スカンクポケモン 
 0435 スカタンク Skutank - スカンクポケモン 
-0436 ドーミラー 
+0436 ドーミラー Doumirror - せいどうポケモン 
 0437 ドータクン Doutakun - どうたくポケモン 
 0438 ウソハチ Usohachi - ぼんさいポケモン 
 0439 マネネ Manene - マイムポケモン Mime Pokémon
@@ -2211,11 +2211,11 @@ POKÉMON NAMES
 0949 リククラゲ Rikukurage - きくらげポケモン Wood Ear Pokémon
 0950 ガケガニ Gakegani - まちぶせポケモン 
 0951 カプサイジ Capsaiji - ハバネロポケモン Habanero Pokémon
-0952 スコヴィラン 
+0952 スコヴィラン Scovillain - ハバネロポケモン Habanero Pokémon
 0953 シガロコ 
 0954 ベラカス Beracas - ころがしポケモン 
 0955 ヒラヒナ 
-0956 クエスパトラ Cuespatra - ダチョウポケモン 
+0956 クエスパトラ Cuespatra - ダチョウポケモン Ostrich Pokémon
 0957 カヌチャン Kanuchan - かなうちポケモン Metalsmith Pokémon
 0958 ナカヌチャン Nakanuchan - ハンマーポケモン Hammer Pokémon
 0959 デカヌチャン Dekanuchan - ハンマーポケモン Hammer Pokémon
@@ -2235,8 +2235,8 @@ POKÉMON NAMES
 0973 カラミンゴ 
 0974 アルクジラ Arukujira - りくくじらポケモン Land Whale Pokémon
 0975 ハルクジラ Hulkujira - りくくじらポケモン Land Whale Pokémon
-0976 ミガルーサ 
-0977 ヘイラッシャ 
+0976 ミガルーサ Migaluza - きりはなしポケモン Jettison Pokémon
+0977 ヘイラッシャ Heirassha - おおなまずポケモン Big Catfish Pokémon
 0978 シャリタツ Sharitatsu - ぎたいポケモン Mimicry Pokémon
 0979 コノヨザル Konoyozaru - ふんどざるポケモン Rage Monkey Pokémon
 0980 ドオー Do'oh - とげうおポケモン Spiky Fish Pokémon
@@ -2248,7 +2248,7 @@ POKÉMON NAMES
 0986 アラブルタケ 
 0987 ハバタクカミ 
 0988 チヲハウハネ 
-0989 スナノケガワ 
+0989 スナノケガワ Sandy Locks - パラドックスポケモン Paradox Pokémon
 0990 テツノワダチ 
 0991 テツノツツミ 
 0992 テツノカイナ 
@@ -2288,28 +2288,19 @@ POKÉMON NAMES
 
 
 
-FORMS
-
-rotomu zukan ロトム図鑑 (Rotomdex) - Index Rotom
-sumaho rotomu スマホロトム (Rotom Phone) - Smartphone Rotom
-hiito rotomu ヒートロトム (Heat Rotom) - Heat Rotom
-wosshu rotomu ウォッシュロトム (Wash Rotom) - Wash Rotom
-furosuto rotomu フロストロトム (Frost Rotom) - Frost Rotom
-supin rotomu スピンロトム (Fan Rotom) - Spin Rotom
-katto rotomu カットロトム (Mow Rotom) - Cut Rotom
-
-
-
 GENDERS
 
 Satoshi's Pikachu - Male (gender design difference)
-Satoshi's Heigani - Male (referred to as "otoko" in MPM)
+Satoshi's Heigani - Male (referred to as "otoko" by Satoshi in MPM)
+Satoshi's Mokuroh - Male (Ultra Guardian uniform)
+Satoshi's Gaogaen - Male (Ultra Guardian uniform)
+Satoshi's Lugarugan - Male (Ultra Guardian uniform)
 Satoshi's Kairyu - Female (game distribution)
 Satoshi's Gänger - Male (game distribution)
 Satoshi's Lucario - Male (game distribution)
 Satoshi's Negigaknight - Male (referred to as "kare" by Citron in PM19)
 
-Kasumi's Udeppou - Male (referred to as "otoko" in MPM)
+Kasumi's Udeppou - Male (referred to as "otoko" by Satoshi in MPM)
 
 Iris's Ononox - Male (referred to as "onii-chan" by Iris in BW)
 Iris's Doryuuzu - Male (attracted to female Emonga in BW)
@@ -2322,16 +2313,20 @@ Go's Inteleon - Male (Yabashi's Kakuleon falls for him in PM19)
 
 Sakuragi's Wanpachi - Male (referred to as "onii-chan" by Koharu in PM19)
 
-Liko's Nyarote - Female (attracted to male Perfuton in PM23)
-Liko's Mibrim - Female (monogender species)
+Liko's Masquernya - Female (attracted to male Perfuton in PM23)
+Liko's Brimuon - Female (monogender species)
 
-Roy's Hogator - Male (not attracted to male Perfuton in PM23)
+Roy's Loudbone - Male (not attracted to male Perfuton in PM23)
 
-Dot's Kuwassu - Male (attracted female Pokémon in PM23)
+Dot's Wanival - Male (attracted female Pokémon in PM23)
 
 Friede's Pikachu - Male (gender design difference)
 
 Murdock's Mawhip - Female (monogender species)
+
+Amethio's Soublades - Male (referred to as "otouto" by Maria in PM23 104)
+
+Lucius's Rekkuuza - Male (referred to as "kare" by Roy in PM23)
 
 Gibeon's Zygarde - Male (referred to as "kare" by Lucius in PM23 087)
 
@@ -2362,14 +2357,24 @@ nappe yama ナッペ山 (Glaseado Mountain) - Mt. Nappé
 
 MISC
 
+rotomu zukan ロトム図鑑 (Rotomdex) - Index Rotom
+sumaho rotomu スマホロトム (Rotom Phone) - Smartphone Rotom
+hiito rotomu ヒートロトム (Heat Rotom) - Heat Rotom
+wosshu rotomu ウォッシュロトム (Wash Rotom) - Wash Rotom
+furosuto rotomu フロストロトム (Frost Rotom) - Frost Rotom
+supin rotomu スピンロトム (Fan Rotom) - Spin Rotom
+katto rotomu カットロトム (Mow Rotom) - Cut Rotom
+
 monsutaa booru モンスターボール (Poké Ball) - Monster Ball
 pokemon zukan ポケモン図鑑 (Pokédex) - Pokémon Index
 sugata すがた (Form) - Form
 forumu フォルム (Forme) - Forme
 roketto-dan ロケット団 (Team Rocket) - Team Rocket
+esupaa taipu (Psychic type) - Esper type
 aku taipu あくタイプ (Dark type) - Evil type
 hadou 波導 (Aura) - Guiding Waves
 tou-chan とうちゃん (Dada) - Dada
+tomokko ともっこ (Loyal Three) - Comraddies
 
 ゲーチス G-Cis
 マーマネ Māmane
